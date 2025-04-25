@@ -31,7 +31,7 @@ The following scripts are most commonly used, and have fairly straightforward na
 * `src/scripts/dump_rods.js` — Generates `rodstles.css`.
 * `src/scripts/dump_titles.js` — Generates `titles.css`.
 
-Each of these can be run by simply entering `node` followed by the script path into your terminal. Alternatively, 
+Each of these can be run by simply entering `node` followed by the script path into your terminal. Alternatively, `dump_all.bat` serves as a shortcut to run all of these scripts sequentially.
 
 ### Bot Usage
 Two common scripts require additional configuration for a bot account on the wiki itself.
