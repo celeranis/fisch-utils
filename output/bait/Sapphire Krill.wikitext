@@ -1,0 +1,26 @@
+{{BaitInfobox
+|image          = Bait Sapphire Krill.png
+|rarity         = Mythical
+|crates         = Tropical Bait Crate/0.37
+|angler_quests  = <!--TBD-->
+|pref_luck      = 150
+|univ_luck      = 150
+|resilience     = 40
+|lure           = 5
+|ability        = 
+}}
+'''Sapphire Krill''' is a {{Rarity|Mythical}} [[Bait]] that can be used in fishing.
+
+== Obtainment ==
+Sapphire Krills can be obtained in the following ways:
+* {{Item|Tropical Bait Crate}} (0.37/crate on average)
+<!--* [[Angler]] Quests, starting from the ?th completion-->
+
+== Favoring Fish ==
+{{Fish by Category Table|Sapphire Krill-Loving Fish|event=1|show_location=1|hide_bait=1|resultsheader='''%PAGES%''' [[Fish]] prefer Sapphire Krills:|noresultsheader=No fish prefer Sapphire Krills.}}
+
+== Change History ==
+{{Change History|1.0}}
+
+== Navigation ==
+{{Bait Navbox}}

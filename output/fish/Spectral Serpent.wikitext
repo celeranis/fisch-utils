@@ -1,0 +1,62 @@
+{{FishInfobox
+|image          = Spectral Serpent.png
+|rarity         = Mythical
+|sea            = First Sea
+|location       = [[Brine Pool]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -80
+|xp             = 3500
+|weather        = Clear
+|time           = Night
+|season         = 
+|bait           = Truffle Worm
+|base_weight    = 13000
+|base_value     = 9000
+|weight_range   = 2000
+|base_chance    = 0.02
+|base_resil     = 10
+}}
+'''Spectral Serpent''' is a {{Rarity|Mythical}} fish found in the [[Desolate Deep]]'s [[Desolate Deep#Brine Pool|Brine Pool]].
+
+== Description ==
+{{Description|The Spectral Serpent is an aggressive and ginormous sea serpent species located in the Brine Pool of the Desolate Deep. They possess a translucent exo-membrane covering the inside of their body, as well as 4 bioluminescent eyes. They tend to lurk deeper within the Brine Pool, where they feed on microorganisms. Despite their specific diet, they have many sharp teeth and mandibles along with their hammerhead-shaped skull, which they can use to easily fend off invasive threats. When hooked, they put up an intense fight for even the most experienced anglers.|Bestiary Entry}}
+
+== Obtainment ==
+{{Fish Availability|
+Desolate Deep/Brine Pool
+|top_rods      = 
+Seraphic Rod\1960.28\12874.8;
+Leviathan's Fang Rod\1946.11\12854.7;
+Tempest Rod\1942.44\12789.23;
+Ethereal Prism Rod\1917.6\12552.93;
+No-Life Rod\1890.49\12463.73;
+Destiny Rod\1365.33\8908.22;
+Heaven's Rod\1299.21\8487.91;
+Challenger's Rod\1864.46\12286.57;
+Rod Of The Forgotten Fang\1716.19\11276.14;
+Rod Of The Depths\1433.17\9428.12;
+Rod Of The Exalted One\1425.31\9346.97;
+Zeus Rod\1417.84\9360.72;
+Depthseeker Rod\1405.71\9299.25;
+Avalanche Rod\1195.74\7911.84;
+Reinforced Rod\1179.91\7809.58;
+Volcanic Rod\1114.37\7357.2;
+Steady Rod\397.76\2643.82
+|recommended   = Seraphic Rod
+}}
+
+== Catch Quips ==
+When catching a Spectral Serpent, the player has a chance to make one of the following exclamations:
+* A SPECTRAL SERPENT!!
+* IT'S HEAVY!
+* WHAT IS THIS THING?!
+* WOAH!!!
+* SS-S-S-SSSPEECTRAL SERPENT!!!!!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Brine Pool}}

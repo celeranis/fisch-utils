@@ -1,0 +1,66 @@
+{{FishInfobox
+|image          = Abyssal Maw.png
+|rarity         = Limited
+|event          = Cults Curse
+|sea            = First Sea
+|location       = [[Cults Curse]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -55
+|xp             = 1100
+|weather        = 
+|time           = 
+|season         = 
+|bait           = 
+|base_weight    = 1700
+|base_value     = 2900
+|weight_range   = 1100
+|base_chance    = 18
+|base_resil     = 10
+}}
+'''Abyssal Maw''' is a {{Rarity|Limited}} fish found in [[Cults Curse]] during the [[Cults Curse]] event.
+
+== Description ==
+{{Description|A gaping jagged maw rises from the abyss, with devastating hunger for more than what is imaginable.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Can only be caught in the Cursed Pool.|Bestiary Hint}}
+{{Fish Availability|
+Cults Curse
+|top_rods      = 
+Leviathan's Fang Rod\204250.63\168215.23;
+Free Spirit Rod\199887.87\163416.53;
+Trident Rod\188761.43\154320.2;
+Azure Of Lagoon\153425.66\123900.68;
+No-Life Rod\139626.32\139210.96;
+Krampus's Rod\93149.22\97031.39;
+Magma Rod\90760.78\94543.41;
+Magnet Rod\63010.29\60234.96;
+Seraphic Rod\137410.71\137410.71;
+Ethereal Prism Rod\135315.13\135315.13;
+Challenger's Rod\130217.03\125565.61;
+Rod Of The Forgotten Fang\125230.06\122491.35;
+Zeus Rod\111447.76\110491.07;
+Verdant Shear Rod\110928.68\109933.97;
+Rod Of The Depths\109161.91\108043.22;
+Depthseeker Rod\108177.13\103880.38;
+Blazebringer Rod\107312.55\105504.2;
+Rod Of The Exalted One\105727.48\102809.87;
+Avalanche Rod\93707.5\91161.46;
+Volcanic Rod\87673.65\84033.61;
+Steady Rod\47331.01\34969.51
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching an Abyssal Maw, the player has a chance to make one of the following exclamations:
+* An Abyssal Maw!
+* It ate a bit more than my bait...
+* Molar strength of the abyss!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Cults Curse}}

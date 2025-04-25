@@ -1,0 +1,103 @@
+{{FishInfobox
+|image          = Mackerel.png
+|rarity         = Common
+|sea            = First Sea
+|location       = [[Ocean]]
+|sublocation    = Saltwater
+|sources        = Common Crate, Fishing Rod
+|radar_location = 
+|xp             = 80
+|weather        = Foggy
+|time           = Day
+|season         = Spring, Autumn
+|bait           = Shrimp
+|base_weight    = 4
+|base_value     = 75
+|weight_range   = 3
+|base_chance    = 100
+|base_resil     = 85
+}}
+'''Mackerel''' is a {{Rarity|Common}} fish found in the [[Ocean]].
+
+== Description ==
+{{Description|The Mackerel is a fast-swimming, silver fish with distinctive stripes and high-oil content. Mackerel are most active from spring to autumn in mildly warm weather.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in mildly warm saltwater.|Bestiary Hint}}
+{{Fish Availability|
+Ancient Isle/Algae Hunt
+Atlantis/Surrounding Ocean
+FischFright/Frightful Pool
+Forsaken Shores/Algae Hunt
+Golden Tide
+Lovestorm/Normal
+Lovestorm/Supercharged
+Lucky Event/Blarney McBreeze
+Lucky Event/O'Mango Goldgrin
+Lucky Event/Plumrick O'Luck
+Lucky Event/Rowdy McCharm
+Lucky Event/Sunny O'Coin
+Megalodon Hunt/Eclipse and Weekend
+Megalodon Hunt/Normal
+Moosewood/Docks
+Moosewood/Surrounding Ocean
+Mushgrove Swamp/Algae Hunt
+Northern Summit/Surrounding Ocean
+Ocean
+Ocean/Deep Ocean
+Ocean/Harvesters Spike
+Ocean/Strange Whirlpool
+Ocean/The Arch
+Orca Migration/Ancient
+Orca Migration/Normal
+Roslit Bay/Surrounding Ocean
+Shark Hunt/Great Hammerhead Shark
+Shark Hunt/Great White Shark
+Shark Hunt/Whale Shark
+Snowcap Island/Algae Hunt
+Whale Migration/Moby
+Whale Migration/Normal
+|top_rods      = 
+Leviathan's Fang Rod\233712.78\0;
+Trident Rod\217198.65\18387.34;
+Free Spirit Rod\214569.97\18360.05;
+No-Life Rod\212068.95\36161.07;
+Seraphic Rod\207983.03\26220.99;
+Resourceful Rod\166094.45\31350.77;
+Destiny Rod\195175.27\18552.51;
+Heaven's Rod\189378.53\0;
+Nocturnal Rod\118883.68\121281.51;
+Riptide Rod\175284.05\40499.18;
+Fast Rod\172686.48\38191.6;
+Challenger's Rod\195138.57\37282.26;
+Tempest Rod\205079.99\37131.47;
+Frog Rod\158352.4\31882.39;
+Ethereal Prism Rod\206688.66\0;
+Rod Of The Forgotten Fang\198006.29\23722.58;
+Rod Of The Exalted One\187083.12\0;
+Rod Of The Depths\183983.62\21146.88;
+Zeus Rod\180811\29844.02;
+Verdant Shear Rod\179528.59\34183.22;
+Blazebringer Rod\172501.83\32490.9;
+Depthseeker Rod\168304.78\27843.02;
+Volcanic Rod\166621.26\25124.29;
+Avalanche Rod\166354.2\24067.61;
+Training Rod\141963.01\18379.42;
+Steady Rod\82111.54\13030.09
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Mackerel, the player has a chance to make one of the following exclamations:
+* A Mackerel!
+* I caught a Mackerel!
+* Woah, a Mackerel!
+* Mackerelllll!
+* What's up, Mackerel!
+* Holy Mackerel!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ocean}}

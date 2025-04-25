@@ -1,0 +1,66 @@
+{{FishInfobox
+|image          = Ice Anchovy.png
+|rarity         = Uncommon
+|sea            = First Sea
+|location       = [[Overgrowth Caves]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 80
+|weather        = Clear
+|time           = Day
+|season         = Winter
+|bait           = Worm
+|base_weight    = 0.6
+|base_value     = 140
+|weight_range   = 0.4
+|base_chance    = 65
+|base_resil     = 75
+}}
+'''Ice Anchovy''' is an {{Rarity|Uncommon}} fish found in the [[Overgrowth Caves]].
+
+== Description ==
+{{Description|A small, silvery fish with crystalline scales that shimmer like fresh frost.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Schools in the shallow waters of Overgrowth Caves.|Bestiary Hint}}
+{{Fish Availability|
+Overgrowth Caves
+|top_rods      = 
+Azure Of Lagoon\206057.9\19030.69;
+Trident Rod\205273.66\19394.48;
+No-Life Rod\203545.73\27629.4;
+Free Spirit Rod\201747.15\19353.54;
+Leviathan's Fang Rod\201725.09\26638.19;
+Training Rod\196207.85\32877.99;
+Flimsy Rod\133500.79\21192.77;
+Resourceful Rod\186310.05\16992.64;
+Nocturnal Rod\144612.11\90396.51;
+Seraphic Rod\177550.33\27450;
+Fast Rod\176956.55\27358.2;
+Verdant Shear Rod\195472.07\23430.49;
+Depthseeker Rod\194071.99\21437.99;
+Blazebringer Rod\193314.55\22093.56;
+Zeus Rod\191986.15\23414.33;
+Avalanche Rod\191685.37\19225.17;
+Volcanic Rod\187494.87\17768.48;
+Challenger's Rod\187448.54\25134.53;
+Rod Of The Depths\175502.95\22785.39;
+Rod Of The Forgotten Fang\172664.89\25074.88;
+Ethereal Prism Rod\168624.29\0;
+Rod Of The Exalted One\162732.35\21399.08;
+Steady Rod\88516.17\8361.72
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching an Ice Anchovy, the player has a chance to make one of the following exclamations:
+* An Ice Anchovy!
+* Small and frosty!
+* Like a frozen jewel!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Overgrowth Caves}}

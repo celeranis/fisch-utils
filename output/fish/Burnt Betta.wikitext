@@ -1,0 +1,74 @@
+{{FishInfobox
+|image          = Burnt Betta.png
+|rarity         = Limited
+|event          = Ashfall
+|sea            = First Sea
+|location       = [[Ashfall]]
+|sublocation    = 
+|sources        = Fishing Rod
+|nopassive      = 1
+|radar_location = 
+|prog_speed     = -30
+|xp             = 1500
+|weather        = Windy
+|time           = 
+|season         = 
+|bait           = Squid
+|base_weight    = 800
+|base_value     = 3000
+|weight_range   = 600
+|base_chance    = 0.05
+|base_resil     = 25
+}}
+'''Burnt Betta''' is a {{Rarity|Limited}} fish found in [[Roslit Bay]]'s saltwater during the [[Ashfall]] event.
+
+== Description ==
+{{Description|With fierce intent, the Burnt Betta thrives in molten lava.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Only can be caught during Ashfall.|Bestiary Hint}}
+{{Fish Availability|
+Roslit Bay/Ashfall
+|top_rods      = 
+Leviathan's Fang Rod\40828.62\256768.79;
+Free Spirit Rod\35251.01\218678.21;
+Trident Rod\34093.18\211495.65;
+Ethereal Prism Rod\32061.69\169752.87;
+Seraphic Rod\30794.64\171452.64;
+Resourceful Rod\24617.02\136132.58;
+Destiny Rod\25745.44\138284.8;
+Heaven's Rod\23195.87\146765.7;
+Rapid Rod\25796.8\181453.59;
+No-Life Rod\30481.69\179599.66;
+Frog Rod\18247.65\119880.87;
+Long Rod\17635.53\119191.95;
+Wildflower Rod\18549.43\130259.3;
+Rod Of The Forgotten Fang\28576.87\165593.73;
+Challenger's Rod\27621.62\161666.72;
+Rod Of The Depths\25418.92\145001.03;
+Rod Of The Exalted One\25267.67\143313.41;
+Zeus Rod\24678.06\148436.26;
+Verdant Shear Rod\24132.23\148334.57;
+Blazebringer Rod\23517.24\141454.04;
+Depthseeker Rod\22356.58\138451.91;
+Avalanche Rod\20037.51\124466.67;
+Volcanic Rod\19245.34\115758.91;
+Steady Rod\6847.15\40172.27
+|recommended   = Trident Rod
+}}
+
+== Gameplay Notes ==
+* Burnt Betta usually cannot be caught with passive effects, such as the one provided by the [[Rod Of The Depths]] and [[Rod Of The Forgotten Fang]].
+** The only exception is when catching a Burnt Betta on the Megalodon Passive reel of the [[Rod Of The Forgotten Fang]], the Megalodon will instead dupe the Burnt Betta.
+
+== Catch Quips ==
+When catching a Burnt Betta, the player has a chance to make one of the following exclamations:
+* Woah, a Burnt Betta!
+* How can it survive?
+* Crispy!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ashfall}}

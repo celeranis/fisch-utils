@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Icefang Barracuda.png
+|rarity         = Rare
+|sea            = First Sea
+|location       = [[Glacial Grotto]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 300
+|weather        = 
+|time           = 
+|season         = Winter
+|bait           = Fish Head
+|base_weight    = 45
+|base_value     = 650
+|weight_range   = 25
+|base_chance    = 30
+|base_resil     = 40
+}}
+'''Icefang Barracuda''' is a {{Rarity|Rare}} fish found in the [[Glacial Grotto]].
+
+== Description ==
+{{Description|A long, silver-gray predator with sharp, ice-coated teeth and glowing blue eyes.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Patrols the deeper waters hunting for prey.|Bestiary Hint}}
+{{Fish Availability|
+Glacial Grotto
+|top_rods      = 
+Leviathan's Fang Rod\235625.62\175659.05;
+Trident Rod\219625.19\176228.7;
+Krampus's Rod\207876.2\190816.01;
+Free Spirit Rod\200887.29\161193.28;
+Magma Rod\195162.08\179145.33;
+Plastic Rod\181103.86\166236.65;
+Fast Rod\149006.29\187467.91;
+Fischer's Rod\141673.3\178242.13;
+Buddy Bond Rod\134524.34\167984.62;
+Adventurer's Rod\139620.07\175658.91;
+No-Life Rod\184372.48\141930.32;
+Ethereal Prism Rod\182686.16\121654.37;
+Seraphic Rod\181210.1\124436.75;
+Rod Of The Forgotten Fang\170036.07\116756.48;
+Challenger's Rod\167144.51\119648.34;
+Rod Of The Depths\154367.84\109692.88;
+Zeus Rod\153009.47\113015.02;
+Verdant Shear Rod\150947.33\109525.36;
+Rod Of The Exalted One\147972.26\111683.64;
+Blazebringer Rod\145313.26\108803.65;
+Depthseeker Rod\139076.13\101861.01;
+Avalanche Rod\125452.89\92265.13;
+Volcanic Rod\119228.16\100832.21;
+Steady Rod\48071.81\38811.11
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching an Icefang Barracuda, the player has a chance to make one of the following exclamations:
+* An Icefang Barracuda!
+* Those teeth!
+* What a predator!
+* Ice cold hunter!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Glacial Grotto}}

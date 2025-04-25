@@ -1,0 +1,64 @@
+{{FishInfobox
+|image          = Mutated Shark.png
+|rarity         = Mythical
+|sea            = First Sea
+|location       = [[The Depths]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -20
+|xp             = 800
+|weather        = 
+|time           = Night
+|season         = Winter
+|bait           = Fish Head
+|base_weight    = 400
+|base_value     = 3000
+|weight_range   = 200
+|base_chance    = 0.05
+|base_resil     = 20
+}}
+'''Mutated Shark''' is a {{Rarity|Mythical}} fish found in [[The Depths]].
+
+== Description ==
+{{Description|A massive, mutated shark with glowing scars, extra fins, and an unsettling, aggressive nature. While it's named suggests it being a shark, it is actually more related to alligators. Using it's sleek body and its strong legs to pounce on unsuspecting prey.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Patrols the darkest depths during the Coldest Nights...|Bestiary Hint}}
+{{Fish Availability|
+The Depths
+The Depths/Absolute Darkness
+|top_rods      = 
+Leviathan's Fang Rod\109852.44\178730.09;
+Free Spirit Rod\96808.82\147487.26;
+Trident Rod\94077.04\143325.42;
+No-Life Rod\72456.89\118520.27;
+Seraphic Rod\66481.65\105992.02;
+Rod Of The Eternal King\53583.49\86556.85;
+Poseidon Rod\59443.1\90132.43;
+Rod Of The Exalted One\55298.5\89114.19;
+Ethereal Prism Rod\66203.18\107353.93;
+Magnet Rod\31046.91\49849.96;
+Kraken Rod\57097.96\92377.45;
+Challenger's Rod\64475.93\105635.98;
+Rod Of The Forgotten Fang\63993.81\103769.47;
+Zeus Rod\58587.48\92808.68;
+Verdant Shear Rod\58081.15\92278.84;
+Rod Of The Depths\57493.73\93617.7;
+Blazebringer Rod\56047.37\88784.89;
+Depthseeker Rod\54420.65\86103.73;
+Avalanche Rod\48408.17\77457.15;
+Volcanic Rod\46313.66\73365.66;
+Steady Rod\15961.98\29821.15
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Mutated Shark, the player has a chance to make one of the following exclamations:
+* Does that thing really have legs?!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|The Depths}}

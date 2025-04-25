@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Fangtooth.png
+|rarity         = Rare
+|sea            = Second Sea
+|location       = [[Open Ocean]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -6
+|xp             = 240
+|weather        = Rain
+|time           = Night
+|season         = Spring
+|bait           = Lushrooms
+|base_weight    = 90
+|base_value     = 480
+|weight_range   = 54
+|base_chance    = 55
+|base_resil     = 42
+}}
+'''Fangtooth''' is a {{Rarity|Rare}} fish found in the [[Open Ocean]].
+
+== Description ==
+{{Description|A dark fish with large green eyes and sharp teeth, a menace of the deep.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It bites where the rain stirs the dark.|Bestiary Hint}}
+{{Fish Availability|
+Open Ocean
+Open Ocean/Sea Leviathan
+|top_rods      = 
+Trident Rod\81360.55\73314.42;
+Leviathan's Fang Rod\71780.51\36973.89;
+Firefly Rod\60426.39\58264.7;
+Egg Rod\60415.46\55428.59;
+No-Life Rod\60188.83\56438.98;
+Plastic Rod\44205.62\44111.86;
+Fischer's Rod\45778.24\44300.72;
+Free Spirit Rod\59043.08\52217.63;
+Wildflower Rod\58209.94\54835.45;
+Verdant Shear Rod\59432.34\54403.23;
+Blazebringer Rod\54617.57\50538.08;
+Seraphic Rod\53610.61\48250.81;
+Challenger's Rod\51731.01\48221.9;
+Depthseeker Rod\50853.39\49564.26;
+Rod Of The Forgotten Fang\50709.81\45801.63;
+Avalanche Rod\49398.51\48232.95;
+Volcanic Rod\49100.11\46836.78;
+Zeus Rod\48844.04\46592.51;
+Rod Of The Depths\48820.12\44619.88;
+Rod Of The Exalted One\46185.17\31247.58;
+Ethereal Prism Rod\45616.43\32895.93;
+Steady Rod\40764.16\39471.06
+|recommended   = Verdant Shear Rod
+}}
+
+== Catch Quips ==
+When catching a Fangtooth, the player has a chance to make one of the following exclamations:
+* A Fangtooth!
+* Toothy terror!
+* Green-eyed biter!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Open Ocean}}

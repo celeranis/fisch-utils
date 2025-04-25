@@ -1,0 +1,93 @@
+{{FishInfobox
+|image          = Bluefin Tuna.png
+|rarity         = Rare
+|sea            = First Sea
+|location       = [[Ocean]]
+|sublocation    = 
+|sources        = Carbon Crate, Fish Barrel, Fishing Rod
+|radar_location = 
+|xp             = 120
+|weather        = 
+|time           = 
+|season         = Summer
+|bait           = Minnow
+|base_weight    = 220
+|base_value     = 350
+|weight_range   = 120
+|base_chance    = 35
+|base_resil     = 30
+}}
+'''Bluefin Tuna''' is a {{Rarity|Rare}} fish found in the [[Ocean]].
+
+== Description ==
+{{Description|The Bluefin Tuna is a very large and strong species of Tuna. They are highly migratory and can travel extremely long distances. Their population is critically low due to overfishing; Making them rarer than other Tuna.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in deep open.|Bestiary Hint}}
+{{Fish Availability|
+Ancient Isle/Algae Hunt
+Atlantis/Surrounding Ocean
+FischFright/Frightful Pool
+Forsaken Shores/Algae Hunt
+Golden Tide
+Lovestorm/Normal
+Lovestorm/Supercharged
+Lucky Event/Blarney McBreeze
+Lucky Event/O'Mango Goldgrin
+Lucky Event/Plumrick O'Luck
+Lucky Event/Rowdy McCharm
+Lucky Event/Sunny O'Coin
+Megalodon Hunt/Eclipse and Weekend
+Megalodon Hunt/Normal
+Mushgrove Swamp/Algae Hunt
+Northern Summit/Surrounding Ocean
+Ocean
+Ocean/Deep Ocean
+Ocean/Harvesters Spike
+Ocean/The Arch
+Orca Migration/Ancient
+Orca Migration/Normal
+Snowcap Island/Algae Hunt
+Whale Migration/Moby
+Whale Migration/Normal
+|top_rods      = 
+Krampus's Rod\136024.71\169777.02;
+Leviathan's Fang Rod\132942.65\174487.79;
+Magma Rod\129117.95\161156.46;
+Plastic Rod\117417.9\146541.93;
+Trident Rod\112597.87\164125.04;
+Fast Rod\91495.72\171391.53;
+Buddy Bond Rod\87148.23\142357.78;
+Adventurer's Rod\78167.6\146425.05;
+Fischer's Rod\80058.75\149967.59;
+Free Spirit Rod\105624.48\153960.49;
+Ethereal Prism Rod\94345.29\105939.57;
+No-Life Rod\91920.01\111315.81;
+Seraphic Rod\91349.88\101549.72;
+Rod Of The Forgotten Fang\85390.46\99704.54;
+Challenger's Rod\82967.03\100428.22;
+Rod Of The Depths\76736.5\90689.37;
+Zeus Rod\75546.26\92953.1;
+Rod Of The Exalted One\75298.15\93628.57;
+Verdant Shear Rod\74301.29\92741.13;
+Blazebringer Rod\71775.2\88693.17;
+Depthseeker Rod\68505.71\87012.93;
+Avalanche Rod\61702.9\78598.91;
+Volcanic Rod\58867.06\73494.96;
+Steady Rod\26117.77\27519.19
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Bluefin Tuna, the player has a chance to make one of the following exclamations:
+* A Bluefin Tuna!
+* I caught a Bluefin Tuna!
+* Woah, a Bluefin Tuna!
+* Tunaaaaa!
+* What's up, Tuna!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ocean}}

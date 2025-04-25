@@ -1,0 +1,70 @@
+{{FishInfobox
+|image          = Largemouth Bass.png
+|rarity         = Common
+|sea            = First Sea
+|location       = [[Moosewood]]
+|sublocation    = Freshwater
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 20
+|weather        = Rain
+|time           = 
+|season         = Spring, Summer
+|bait           = Worm
+|base_weight    = 4.5
+|base_value     = 85
+|weight_range   = 3.5
+|base_chance    = 75
+|base_resil     = 80
+}}
+'''Largemouth Bass''' is a {{Rarity|Common}} fish found in [[Moosewood]].
+
+== Description ==
+{{Description|The Largemouth Bass is a common freshwater fish found in Moosewood known for its large mouth and aggressive feeding behaviour. It's found in various habitats, such as lakes, ponds, and rivers, where the water is warm and there's plenty of vegetation. Largemouth Bass are also known for their camouflage, with a greenish color on their backs that helps them blend in with their surroundings.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in Moosewoods freshwater. Seems to prefer worms and other small baits.|Bestiary Hint}}
+{{Fish Availability|
+Moosewood/Freshwater Pond
+Terrapin Island/Olm Cave
+Terrapin Island/Surrounding Ocean
+|top_rods      = 
+Leviathan's Fang Rod\284201.17\187615.96;
+Trident Rod\273915.34\138169.29;
+Free Spirit Rod\269978.59\137923.66;
+No-Life Rod\255019.17\207927.69;
+Azure Of Lagoon\250659.77\210194.42;
+Training Rod\185086.46\185086.46;
+Egg Rod\228989.73\236453.41;
+Verdant Shear Rod\227121.95\228421.69;
+Abyssal Specter Rod\232861.89\225223.97;
+Blazebringer Rod\226818.33\219378.64;
+The Lost Rod\225943.36\218532.37;
+Summit Rod\220052.08\206066.66;
+Seraphic Rod\244262.15\196356.71;
+Ethereal Prism Rod\239116.41\107413.57;
+Challenger's Rod\235807.6\179727.75;
+Rod Of The Forgotten Fang\233056.37\179301.28;
+Rod Of The Depths\229611.87\163079.16;
+Rod Of The Exalted One\228770.08\157519.12;
+Zeus Rod\228319.43\217926.08;
+Volcanic Rod\220065.58\212847.38;
+Depthseeker Rod\217436.83\209792.31;
+Avalanche Rod\214842.15\189049.68;
+Steady Rod\102978.08\94297.38
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Largemouth Bass, the player has a chance to make one of the following exclamations:
+* Now, where's the snare?
+* Woah!
+* Awesome!
+* A Largemouth Bass!
+* Ou! A Bass!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Moosewood}}

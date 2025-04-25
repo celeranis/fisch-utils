@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Azure Prowler.png
+|rarity         = Legendary
+|sea            = Second Sea
+|location       = [[Azure Lagoon]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -65
+|xp             = 905
+|weather        = Clear
+|time           = Night
+|season         = Autumn
+|bait           = Mist Worms
+|base_weight    = 240
+|base_value     = 1750
+|weight_range   = 144
+|base_chance    = 32
+|base_resil     = 6
+}}
+'''Azure Prowler''' is a {{Rarity|Legendary}} fish found in the [[Azure Lagoon]].
+
+== Description ==
+{{Description|A blue fish with golden fins, prowling the lagoon with regal grace.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It hunts under the clear dusk’s glow.|Bestiary Hint}}
+{{Fish Availability|
+Azure Lagoon
+|top_rods      = 
+Krampus's Rod\135460.09\194793;
+Magma Rod\126835.8\197039.97;
+Frostfire Rod\126511.36\138439.94;
+Free Spirit Rod\126185.55\243464.5;
+Steady Rod\117329.09\128391.88;
+Firefly Rod\83037.18\237410.12;
+Adventurer's Rod\59069.83\218886.65;
+Fungal Rod\55058.49\205655.18;
+Egg Rod\96762.58\199635.93;
+Buddy Bond Rod\58303.33\142560.64;
+Verdant Shear Rod\91257.89\188278.92;
+Blazebringer Rod\90299.69\182991.05;
+Trident Rod\85752.58\169097.3;
+Seraphic Rod\64857.17\133810.2;
+Ethereal Prism Rod\64183.21\131972.7;
+No-Life Rod\62806.62\134360.04;
+Challenger's Rod\60284.75\128429.17;
+Rod Of The Forgotten Fang\59049.12\122302.52;
+Rod Of The Exalted One\57966.05\118155.68;
+Rod Of The Depths\55776.61\116904;
+Depthseeker Rod\54894.77\121039.88;
+Volcanic Rod\53566.56\116059.91;
+Avalanche Rod\53256.53\117637.94;
+Zeus Rod\52848.51\114504.15
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching an Azure Prowler, the player has a chance to make one of the following exclamations:
+* AN AZURE PROWLER!
+* GOLDEN KING!
+* BLUE MAJESTY!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Azure Lagoon}}

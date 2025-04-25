@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Gale Snapper.png
+|rarity         = Common
+|sea            = Second Sea
+|location       = [[Waveborne]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = +20
+|xp             = 15
+|weather        = Windy
+|time           = Day
+|season         = Spring
+|bait           = Worm
+|base_weight    = 5.5
+|base_value     = 30
+|weight_range   = 3.5
+|base_chance    = 100
+|base_resil     = 80
+}}
+'''Gale Snapper''' is a {{Rarity|Common}} fish found in [[Waveborne]].
+
+== Description ==
+{{Description|A sleek grey fish adorned with shimmering blue stripes, darting through the shallows like a fleeting gust.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Look for it when the winds stir the surface.|Bestiary Hint}}
+{{Fish Availability|
+Waveborne
+|top_rods      = 
+Training Rod\417206.77\161681.55;
+Flimsy Rod\413020.14\200240.38;
+Free Spirit Rod\308325.33\17660.62;
+Azure Of Lagoon\273865.55\26938.51;
+Firefly Rod\263625.59\24820.88;
+Fischer's Rod\257781.61\23497.57;
+Nocturnal Rod\134568.86\126521.88;
+Egg Rod\258583.21\26763.36;
+Verdant Shear Rod\250988.88\25896.34;
+Trident Rod\249459.59\21348.94;
+Blazebringer Rod\245754.21\25444.59;
+No-Life Rod\216841.3\19149.36;
+Ethereal Prism Rod\211697.15\20110.26;
+Seraphic Rod\206507.53\17673.07;
+Depthseeker Rod\202035.09\19155.53;
+Avalanche Rod\201003.66\19147.03;
+Challenger's Rod\200673.42\17582.65;
+Rod Of The Exalted One\199633.79\18037.22;
+Rod Of The Forgotten Fang\198669.37\16866.25;
+Volcanic Rod\198639\17998.6;
+Zeus Rod\198011.22\17941.72;
+Rod Of The Depths\196826.31\16773.3;
+Steady Rod\163686.07\16172.31
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Gale Snapper, the player has a chance to make one of the following exclamations:
+* A Gale Snapper!
+* Quick as the breeze!
+* Stripey little fella!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Waveborne}}

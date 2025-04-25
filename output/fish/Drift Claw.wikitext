@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Drift Claw.png
+|rarity         = Common
+|sea            = Second Sea
+|location       = [[Waveborne]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -5
+|xp             = 20
+|weather        = Rain
+|time           = Night
+|season         = Autumn
+|bait           = Shrimp
+|base_weight    = 120
+|base_value     = 40
+|weight_range   = 74
+|base_chance    = 90
+|base_resil     = 65
+}}
+'''Drift Claw''' is a {{Rarity|Common}} fish found in [[Waveborne]].
+
+== Description ==
+{{Description|A darker red fish with vivid bright red accents, lurking like a crimson shadow in the currents.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It thrives where the cool water runs deep and slow.|Bestiary Hint}}
+{{Fish Availability|
+Waveborne
+|top_rods      = 
+Free Spirit Rod\292295\159898.06;
+Azure Of Lagoon\259693.13\243898.82;
+Leviathan's Fang Rod\245262.36\218553.66;
+Trident Rod\242254.72\199498.13;
+Fischer's Rod\242220.2\202421.24;
+Plastic Rod\239270.36\201301.61;
+Lucky Rod\187635.81\189080.41;
+Egg Rod\237006.24\237002.23;
+Verdant Shear Rod\229581.32\228496.8;
+Great Dreamer Rod\225959.5\227335.5;
+Blazebringer Rod\227904.41\225323.93;
+No-Life Rod\203359.44\172767.32;
+Ethereal Prism Rod\195479.34\178440.1;
+Seraphic Rod\191155.26\157417.44;
+Depthseeker Rod\185303.23\168930.54;
+Challenger's Rod\185149.92\156073.42;
+Avalanche Rod\183363.53\167939.94;
+Rod Of The Exalted One\182582.07\158673.3;
+Rod Of The Forgotten Fang\182513.66\149108.04;
+Volcanic Rod\180965.58\157714.35;
+Zeus Rod\180128.59\156984.9;
+Rod Of The Depths\179403.44\147119.78;
+Steady Rod\149384.03\135361.94
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Drift Claw, the player has a chance to make one of the following exclamations:
+* A Drift Claw!
+* Red as blood!
+* Caught in the drift!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Waveborne}}

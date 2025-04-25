@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Polar Alligator.png
+|rarity         = Legendary
+|sea            = First Sea
+|location       = [[Frigid Cavern]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -25
+|xp             = 1000
+|weather        = 
+|time           = Night
+|season         = Winter
+|bait           = Fish Head
+|base_weight    = 150
+|base_value     = 3000
+|weight_range   = 70
+|base_chance    = 3
+|base_resil     = 20
+}}
+'''Polar Alligator''' is a {{Rarity|Legendary}} fish found in the [[Frigid Cavern]].
+
+== Description ==
+{{Description|A fearsome predator adapted to icy waters, with frost-covered scales and crystal-like teeth.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Lurks in the largest chambers of the frozen cavern.|Bestiary Hint}}
+{{Fish Availability|
+Frigid Cavern
+|top_rods      = 
+Leviathan's Fang Rod\56451.18\146774;
+Free Spirit Rod\47019.96\139544.69;
+Trident Rod\45592.6\135308.6;
+Ethereal Prism Rod\44337.45\91893.86;
+Seraphic Rod\42866.98\92964.17;
+Resourceful Rod\33860.57\71619.79;
+Destiny Rod\35293.49\73094.59;
+Lucky Rod\24411.05\65539.36;
+No-Life Rod\42496.83\112878.71;
+Tempest Rod\40922.2\93620.55;
+Fungal Rod\27377\77898.6;
+Antler Rod\24079.31\67203.82;
+Rod Of The Forgotten Fang\39826.79\86336.23;
+Challenger's Rod\38388.17\89049.99;
+Rod Of The Depths\35502.24\77329.72;
+Rod Of The Exalted One\35077.53\74643.42;
+Zeus Rod\34153.18\78497.33;
+Verdant Shear Rod\33252\77645.37;
+Blazebringer Rod\32536.46\75147.04;
+Depthseeker Rod\30772.29\73726.72;
+Avalanche Rod\27555.55\65903.07;
+Volcanic Rod\26628.3\62058.37;
+Steady Rod\8643.37\24643.59
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Polar Alligator, the player has a chance to make one of the following exclamations:
+* A POLAR ALLIGATOR!
+* ANCIENT PREDATOR!
+* INCREDIBLE!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Frigid Cavern}}

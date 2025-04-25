@@ -1,0 +1,70 @@
+{{FishInfobox
+|image          = Basalt.png
+|rarity         = Trash
+|sea            = First Sea
+|location       = [[Roslit Volcano]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 10
+|weather        = 
+|time           = 
+|season         = 
+|bait           = Magnet
+|base_weight    = 21
+|base_value     = 15
+|weight_range   = 6
+|base_chance    = 55
+|base_resil     = 120
+}}
+'''Basalt''' is a {{Rarity|Trash}} fish found in the [[Roslit Bay#Roslit Volcano|Volcano]] in [[Roslit Bay]].
+
+== Description ==
+{{Description|Basalt, also known as Lava Rock, is an igneous volcanic rock that forms when molten lava cools and solidifies. Very common to find when in a volcanic area.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in active Volcanoes|Bestiary Hint}}
+{{Fish Availability|
+Roslit Bay/Roslit Volcano
+|top_rods      = 
+Krampus's Rod\330710.63\172303.58;
+Magma Rod\321475.03\165411.43;
+Fast Rod\313171.09\271457.98;
+Plastic Rod\293966.96\144021.81;
+Leviathan's Fang Rod\284812.51\271956.06;
+Ethereal Prism Rod\270432.8\323452.98;
+No-Life Rod\266164.4\266164.4;
+Seraphic Rod\265116.6\265116.6;
+Fortune Rod\213071.72\166613.14;
+Kraken Rod\246776.4\238841.37;
+Trident Rod\272356.84\184241.95;
+Free Spirit Rod\271267.56\185088.05;
+Verdant Shear Rod\253764.75\226859.03;
+Blazebringer Rod\252193.04\213656.44;
+Depthseeker Rod\251564.01\206975.82;
+Challenger's Rod\251381.51\242664.54;
+Zeus Rod\250928.02\226277.34;
+Avalanche Rod\250603.12\186087.86;
+Reinforced Rod\250444.57\185611.94;
+Rod Of The Forgotten Fang\249052.1\242088.73;
+Rod Of The Depths\247749.99\220548.58;
+Rod Of The Exalted One\246806.58\206764.29;
+Volcanic Rod\245097.58\171862.9;
+Steady Rod\134340.28\97021.95
+|recommended   = Magma Rod
+}}
+
+== Catch Quips ==
+When catching a Basalt, the player has a chance to make one of the following exclamations:
+* Ermm..?
+* Uhmm..?
+* Some Basalt!
+* Oh. A Piece of Basalt.
+* It's!- Oh.. Basalt..
+* Basalt..
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Roslit Volcano}}

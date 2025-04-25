@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Lagoon Dart.png
+|rarity         = Uncommon
+|sea            = Second Sea
+|location       = [[Azure Lagoon]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -18
+|xp             = 55
+|weather        = Rain
+|time           = Night
+|season         = Summer
+|bait           = Shrimp
+|base_weight    = 72
+|base_value     = 110
+|weight_range   = 42
+|base_chance    = 95
+|base_resil     = 40
+}}
+'''Lagoon Dart''' is an {{Rarity|Uncommon}} fish found in the [[Azure Lagoon]].
+
+== Description ==
+{{Description|A light navy blue fish with yellow fins, streaking through lagoon currents.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It dashes under the warm rain’s embrace.|Bestiary Hint}}
+{{Fish Availability|
+Azure Lagoon
+|top_rods      = 
+Free Spirit Rod\326400.79\211429.22;
+Trident Rod\291179.29\278919.95;
+Leviathan's Fang Rod\288161.1\265761.75;
+Azure Of Lagoon\264636.55\251231.88;
+Egg Rod\231924.26\212162.01;
+Fischer's Rod\220746.36\183105.09;
+Plastic Rod\219001.14\185119.88;
+Candy Cane Rod\201800.84\189695.08;
+Blazebringer Rod\215204.56\217210.6;
+Lucky Rod\192506.47\200410.82;
+Verdant Shear Rod\223707.73\202560.98;
+No-Life Rod\207054.32\190256.19;
+Ethereal Prism Rod\189012.47\173673.19;
+Seraphic Rod\188332.61\180403.36;
+Challenger's Rod\177267.65\161948.06;
+Rod Of The Forgotten Fang\175951.73\168022.47;
+Rod Of The Exalted One\173641.79\161816.6;
+Depthseeker Rod\172869.09\164854.39;
+Avalanche Rod\166405.77\158876.91;
+Volcanic Rod\165451.78\154340.45;
+Rod Of The Depths\165139.46\151131.65;
+Zeus Rod\164463.15\153418.21;
+Steady Rod\139804.87\132347.39
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Lagoon Dart, the player has a chance to make one of the following exclamations:
+* A Lagoon Dart!
+* Navy streak!
+* Yellow flash!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Azure Lagoon}}

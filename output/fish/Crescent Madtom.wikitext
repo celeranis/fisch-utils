@@ -1,0 +1,66 @@
+{{FishInfobox
+|image          = Crescent Madtom.png
+|rarity         = Rare
+|sea            = Second Sea
+|location       = [[Blue Moon - Second Sea]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = +20
+|xp             = 3820
+|weather        = Rain
+|time           = 
+|season         = Winter
+|bait           = Lushrooms
+|base_weight    = 9
+|base_value     = 1425
+|weight_range   = 6
+|base_chance    = 80
+|base_resil     = 50
+}}
+'''Crescent Madtom''' is a {{Rarity|Rare}} fish found in [[Blue Moon]] events at [[Lushgrove]].
+
+== Description ==
+{{Description|A small, feisty fish with glowing eyes, darting through the tides.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It flails where the rain feeds the water's heart.|Bestiary Hint}}
+{{Fish Availability|
+Blue Moon/Second Sea
+|top_rods      = 
+Trident Rod\157512.32\157210.94;
+Free Spirit Rod\156808.61\94688.77;
+Leviathan's Fang Rod\154833.22\154235.61;
+Training Rod\150803.89\182886.88;
+Azure Of Lagoon\145809.32\130697.31;
+Flimsy Rod\119929.45\120460.78;
+Resourceful Rod\102491.29\118886.78;
+Egg Rod\131560.02\147530.16;
+Verdant Shear Rod\130187.56\145991.1;
+Blazebringer Rod\127874.79\143718.54;
+No-Life Rod\122351.65\122148.22;
+Seraphic Rod\111849.32\111635.31;
+Ethereal Prism Rod\110545.56\109847.54;
+Challenger's Rod\107681.29\107498.45;
+Rod Of The Forgotten Fang\106932.84\106730.61;
+Depthseeker Rod\106211.03\106073.6;
+Rod Of The Exalted One\105449.39\105138.84;
+Avalanche Rod\104600.13\104468.23;
+Rod Of The Depths\104590.39\104400.27;
+Volcanic Rod\104329.56\104169.15;
+Zeus Rod\103911.66\103751.89;
+Steady Rod\85838.99\85721.61
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Crescent Madtom, the player has a chance to make one of the following exclamations:
+* A Crescent Madtom!
+* Tiny terror!
+* Crescent catfish!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Blue Moon - Second Sea}}

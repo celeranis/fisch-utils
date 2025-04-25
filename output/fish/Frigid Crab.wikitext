@@ -1,0 +1,69 @@
+{{FishInfobox
+|image          = Frigid Crab.png
+|rarity         = Unusual
+|sea            = First Sea
+|location       = [[Overgrowth Caves]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 140
+|weather        = 
+|time           = 
+|season         = Winter
+|bait           = Fish Head
+|base_weight    = 3.5
+|base_value     = 300
+|weight_range   = 2
+|base_chance    = 40
+|base_resil     = 60
+}}
+'''Frigid Crab''' is an {{Rarity|Unusual}} fish found in the [[Overgrowth Caves]].
+
+== Description ==
+{{Description|A uniquely adapted crab with a shell that resembles cracked ice.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Scuttles along the icy cave floor.|Bestiary Hint}}
+{{Fish Availability|
+Overgrowth Caves
+|top_rods      = 
+Krampus's Rod\323108\300691.33;
+Magma Rod\311016.75\289438.95;
+Leviathan's Fang Rod\309989.74\165964.69;
+Trident Rod\289742.76\144109.36;
+Plastic Rod\284351.28\264623.48;
+Training Rod\207441.9\216431.8;
+Fast Rod\271812.99\331318.47;
+Fischer's Rod\243305.77\296570.44;
+Adventurer's Rod\241316.9\294146.16;
+Flimsy Rod\209448.24\248125.77;
+Buddy Bond Rod\211232.38\287128.12;
+Free Spirit Rod\280761.79\139642.5;
+No-Life Rod\261324.35\170494.99;
+Seraphic Rod\253447.96\168709.03;
+Ethereal Prism Rod\251202.66\177776.4;
+Rod Of The Forgotten Fang\242617.8\153974.91;
+Challenger's Rod\239399.33\154486.74;
+Rod Of The Exalted One\226418.41\131324.54;
+Rod Of The Depths\220904.59\139768.37;
+Zeus Rod\220815.92\143601.37;
+Verdant Shear Rod\219573.27\143672.67;
+Blazebringer Rod\210376.92\135557.34;
+Depthseeker Rod\202839.77\131603.98;
+Volcanic Rod\194582.97\108983.38;
+Avalanche Rod\187563.54\117929.56;
+Steady Rod\80555.14\50962.38
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Frigid Crab, the player has a chance to make one of the following exclamations:
+* A Frigid Crab!
+* Watch those claws!
+* Ice cold pinchers!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Overgrowth Caves}}

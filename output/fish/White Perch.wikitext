@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = White Perch.png
+|rarity         = Common
+|sea            = First Sea
+|location       = [[Mushgrove Swamp]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 80
+|weather        = 
+|time           = 
+|season         = Spring, Autumn
+|bait           = Worm
+|base_weight    = 1.2
+|base_value     = 80
+|weight_range   = 1
+|base_chance    = 80
+|base_resil     = 70
+}}
+'''White Perch''' is a {{Rarity|Common}} fish found in [[Mushgrove Swamp]].
+
+== Description ==
+{{Description|The Perch is a common freshwater fish that is best found in Mushgrove Swamp; Unlike the classic Perch, the White Perch has no noticeable stripes.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in Mushgrove.|Bestiary Hint}}
+{{Fish Availability|
+Mushgrove Swamp
+|top_rods      = 
+Leviathan's Fang Rod\294343.9\145481.89;
+Trident Rod\290610.78\130395.35;
+Free Spirit Rod\284595.25\130070.56;
+Azure Of Lagoon\273880.57\154071.48;
+No-Life Rod\270171.67\185175.8;
+Flimsy Rod\173572.89\131844.8;
+Training Rod\221007.56\178693.94;
+Long Rod\216293.26\119240.71;
+Seraphic Rod\242407.06\183745.68;
+Fast Rod\232626.35\182168.51;
+Tempest Rod\247856.59\177405.66;
+Adventurer's Rod\162274.46\128411.86;
+Challenger's Rod\251127.04\168312.3;
+Zeus Rod\247029.94\156629.12;
+Blazebringer Rod\243748.36\147813.24;
+Verdant Shear Rod\243341.87\156728.87;
+Rod Of The Forgotten Fang\240786.61\167800.77;
+Depthseeker Rod\239036.91\143449.8;
+Rod Of The Depths\238138.79\152430.94;
+Volcanic Rod\236317.01\137577.83;
+Avalanche Rod\235723.41\131515.6;
+Ethereal Prism Rod\231179.31\62932.71;
+Rod Of The Exalted One\230899.84\143176.07;
+Steady Rod\114874.07\72949.24
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a White Perch, the player has a chance to make one of the following exclamations:
+* A White Perch!
+* I caught a White Perch!
+* Woah, a White Perch!
+* Aww! A White Perch!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Mushgrove Swamp}}

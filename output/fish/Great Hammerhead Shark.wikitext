@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Great Hammerhead Shark.png
+|rarity         = Mythical
+|sea            = First Sea
+|location       = [[Ocean]]
+|sublocation    = Shark Hunt
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -35
+|xp             = 860
+|weather        = Windy
+|time           = Day
+|season         = Spring
+|bait           = Fish Head
+|base_weight    = 500
+|base_value     = 5500
+|weight_range   = 270
+|base_chance    = 2
+|base_resil     = 20
+}}
+'''Great Hammerhead Shark''' is a {{Rarity|Mythical}} fish found in [[Shark Hunt]]s.
+
+== Description ==
+{{Description|The Great Hammerhead Shark is a large, powerful predator known for its distinct hammer-shaped head. Its unique head shape improves its ability to track prey, making it a formidable hunter in the ocean, and a prominent catch among anglers.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Only rarely spotted in the oceans during a Shark Hunt. Only awake during the day.|Bestiary Hint}}
+{{Fish Availability|
+Shark Hunt/Great Hammerhead Shark
+|top_rods      = 
+Leviathan's Fang Rod\35395.53\364187.28;
+Ethereal Prism Rod\29349.84\231321.39;
+Seraphic Rod\27794\235697.33;
+Free Spirit Rod\27157.87\350027.18;
+No-Life Rod\27063.34\242148.32;
+Resourceful Rod\22765.46\178885.01;
+Destiny Rod\23869.92\177631.26;
+Heaven's Rod\21159.95\195089.72;
+Trident Rod\26822.33\337503.68;
+Rod Of The Depths\22650.93\193149.76;
+Rod Of The Zenith\24028.01\196721.92;
+Rod Of The Forgotten Fang\25685.12\216379.93;
+Challenger's Rod\24543.53\219355.17;
+Rod Of The Exalted One\22872.38\186159.15;
+Zeus Rod\21625.09\196939.29;
+Verdant Shear Rod\20988.91\195020.56;
+Blazebringer Rod\20630.83\188868.01;
+Depthseeker Rod\19462.08\186334.04;
+Avalanche Rod\17387.49\166005.93;
+Volcanic Rod\16867.27\155733.27;
+Steady Rod\5413.57\53986.4
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching a Great Hammerhead Shark, the player has a chance to make one of the following exclamations:
+* WOAH!! I CAUGHT A GREAT HAMMERHEAD!
+* A GREAT HAMMERHEAD??
+* HOLY.. A GREAT HAMMERHEAD??
+* I CAN'T FEEL MY SPINE!!
+* HAMMERTIME!
+* Comically large hammer head!!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ocean}}

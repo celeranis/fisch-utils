@@ -1,0 +1,66 @@
+{{FishInfobox
+|image          = Depth Drifter.png
+|rarity         = Exotic
+|sea            = Second Sea
+|location       = [[Azure Lagoon]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -92
+|xp             = 5000
+|weather        = Windy
+|time           = 
+|season         = Summer
+|bait           = Golden Worm
+|base_weight    = 1800
+|base_value     = 7500
+|weight_range   = 1080
+|base_chance    = 1
+|base_resil     = 1
+}}
+'''Depth Drifter''' is an {{Rarity|Exotic}} fish found in the [[Azure Lagoon]].
+
+== Description ==
+{{Description|A cyan blue fish with large light blue fins, drifting through the lagoon’s abyss.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It floats where the winds stir the depths.|Bestiary Hint}}
+{{Fish Availability|
+Azure Lagoon
+|top_rods      = 
+Challenger's Rod\11790.68\110593.89;
+Free Spirit Rod\11711.44\100295.93;
+Azure Of Lagoon\11620.92\110793.3;
+Tempest Rod\11278.13\104660.33;
+Seraphic Rod\10266.13\99418.34;
+Destiny Rod\5187.44\43225.39;
+Heaven's Rod\6669.25\58545.38;
+Summit Rod\10218.67\99678.03;
+Rod Of The Exalted One\4581.39\40544.02;
+Leviathan's Fang Rod\6808.12\61294.61;
+Blazebringer Rod\8269.1\72596.74;
+Ethereal Prism Rod\8429.32\79453.89;
+No-Life Rod\6784.01\63978.87;
+Rod Of The Forgotten Fang\6456.52\58384.8;
+Verdant Shear Rod\5493.99\49431.21;
+Depthseeker Rod\4996.85\49026.86;
+Trident Rod\4842.46\43569.13;
+Rod Of The Depths\3540.86\32515.73;
+Avalanche Rod\3322.74\32678.02;
+Volcanic Rod\2834.14\27176;
+Steady Rod\2831.02\29071.17;
+Zeus Rod\2133.62\20458.93
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Depth Drifter, the player has a chance to make one of the following exclamations:
+* A DEPTH DRIFTER?!
+* CYAN DRIFTING!
+* DRIFT OF THE DEEP!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Azure Lagoon}}

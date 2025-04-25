@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Atlantean Anchovy.png
+|rarity         = Common
+|sea            = First Sea
+|location       = [[Atlantis]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 25
+|weather        = 
+|time           = 
+|season         = 
+|bait           = 
+|base_weight    = 0.8
+|base_value     = 40
+|weight_range   = 0.6
+|base_chance    = 85
+|base_resil     = 95
+}}
+'''Atlantean Anchovy''' is a {{Rarity|Common}} fish found in [[Atlantis]].
+
+== Description ==
+{{Description|These small silver fish gather in massive schools throughout the sunken depths. Their scales have taken on a slight golden tinge from generations of exposure to ancient magic.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Sunken's Depth Pool|Bestiary Hint}}
+{{Fish Availability|
+Atlantis/Sunken Depths
+|top_rods      = 
+Leviathan's Fang Rod\281467.23\140949.06;
+Trident Rod\275613.57\140562.57;
+Free Spirit Rod\273212.4\140812.15;
+No-Life Rod\258628.49\202493.8;
+Azure Of Lagoon\252864.95\191475.21;
+Training Rod\217300.45\217300.45;
+Flimsy Rod\167622.95\186411.48;
+Long Rod\209579.16\160926.79;
+Fast Rod\228251.95\204204.01;
+Seraphic Rod\244800.49\201696.64;
+Tempest Rod\247425.98\194589.64;
+Poseidon Rod\239467.4\155992.51;
+Challenger's Rod\243893.55\184615.47;
+Rod Of The Forgotten Fang\242385\184177.39;
+Rod Of The Depths\239390.88\167789.98;
+Rod Of The Exalted One\236270.53\149174.01;
+Ethereal Prism Rod\234167.28\43617.58;
+Zeus Rod\233293.19\172449.71;
+Verdant Shear Rod\229154.44\172590.87;
+Blazebringer Rod\229105.61\169272.05;
+Depthseeker Rod\224470.7\161610.77;
+Avalanche Rod\222637.06\155678.6;
+Volcanic Rod\222463.74\164364.78;
+Steady Rod\104786.53\87234.18
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching an Atlantean Anchovy, the player has a chance to make one of the following exclamations:
+* An Atlantean Anchovy!
+* Tiny but magnificent!
+* A piece of the depths!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Atlantis}}

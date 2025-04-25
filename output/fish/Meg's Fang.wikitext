@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Meg's Fang.png
+|rarity         = Mythical
+|sea            = First Sea
+|location       = [[Ancient Isle]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 250
+|weather        = 
+|time           = 
+|season         = 
+|bait           = 
+|base_weight    = 2
+|base_value     = 1500
+|weight_range   = 1
+|base_chance    = 0.001
+|base_resil     = 100
+}}
+'''Meg's Fang''' is a {{Rarity|Mythical}} fish found in the [[Ancient Isle]].
+
+== Description ==
+{{Description|The Fang of the Apex Shark, Megalodon|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in the Oceans of Ancient Isles...|Bestiary Hint}}
+{{Fish Availability|
+Ancient Isle/Surrounding Ocean
+|top_rods      = 
+Ethereal Prism Rod\31989.56\106365.49;
+Leviathan's Fang Rod\31461.72\124474.71;
+Seraphic Rod\30630.88\106709.02;
+No-Life Rod\29738.68\110951.49;
+Rapid Rod\29479.84\155021.92;
+Lucky Rod\21715.12\160806.79;
+Resourceful Rod\26243.86\108619.05;
+Flimsy Rod\18682.5\147746.42;
+Firefly Rod\27742.37\189695.84;
+Fast Rod\25662.7\186309.43;
+Fungal Rod\23056.5\153484.37;
+Training Rod\18759.4\112771.81;
+Adventurer's Rod\17301.73\124007.91;
+Rod Of The Forgotten Fang\28678.58\105160.1;
+Challenger's Rod\27431.24\106310.05;
+Rod Of The Depths\25844.09\99944.04;
+Rod Of The Exalted One\25546.56\102159.81;
+Verdant Shear Rod\24957.94\106643.9;
+Zeus Rod\24937.3\98993.49;
+Trident Rod\24629.39\123743.19;
+Free Spirit Rod\24446.34\122823.49;
+Blazebringer Rod\24213.94\102746.04;
+Depthseeker Rod\22277.42\90372.79;
+Avalanche Rod\20164.84\82189.48;
+Volcanic Rod\19445.54\78286.49;
+Steady Rod\7896.17\32323.09
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching a Meg's Fang, the player has a chance to make one of the following exclamations:
+* Found a Meg Fang!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ancient Isle}}

@@ -1,0 +1,40 @@
+{{FishInfobox
+|image          = Oyster.png
+|rarity         = Uncommon
+|sea            = First Sea
+|location       = [[Ocean]]
+|sublocation    = 
+|sources        = Crab Cage
+|radar_location = 
+|xp             = 35
+|weather        = 
+|time           = 
+|season         = Summer
+|bait           = 
+|base_weight    = 0.5
+|base_value     = 30
+|weight_range   = 0.3
+|base_chance    = 50
+|base_resil     = 95
+}}
+'''Oyster''' is an {{Rarity|Uncommon}} fish found in the [[Ocean]].
+
+== Description ==
+{{Description|Oysters are bivalve molluscs with rough, irregularly shaped shells. They are typically found in clusters, attached to submerged rocks and roots. They can be found all over Terapin Islands; The Oysters help filter the water of Terrapin, leaving making it nearly a freshwater island.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Can be easily caught while cage fishing. Best caught near large rocks and all over Terrapin Island.|Bestiary Hint}}
+
+== Catch Quips ==
+When catching an Oyster, the player has a chance to make one of the following exclamations:
+* An Oyster!
+* Woah! An Oyster
+* Awesome!
+* An Oyster!
+* Ou! An Oyster!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ocean}}

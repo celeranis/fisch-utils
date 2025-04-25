@@ -1,0 +1,89 @@
+{{FishInfobox
+|image          = Crown Bass.png
+|rarity         = Legendary
+|sea            = First Sea
+|location       = [[Ocean]]
+|sublocation    = Saltwater
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -20
+|xp             = 700
+|weather        = Foggy
+|time           = Night
+|season         = Summer
+|bait           = Squid
+|base_weight    = 6
+|base_value     = 1200
+|weight_range   = 4
+|base_chance    = 0.2
+|base_resil     = 20
+}}
+'''Crown Bass''' is a {{Rarity|Legendary}} fish found in the [[Ocean]].
+
+== Description ==
+{{Description|The Crown Bass is a special type of bass that is known for its vibrant colours, and its luminescent 'crown' on its head. They use this crown to attract prey, and see easily at night. They can be found all over the world in all sorts of salt waters, especially warmer waters during the night.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|In salt waters during the night. |Bestiary Hint}}
+{{Fish Availability|
+Ancient Isle/Algae Hunt
+Atlantis/Surrounding Ocean
+Forsaken Shores/Algae Hunt
+Lovestorm/Normal
+Lovestorm/Supercharged
+Lucky Event/Blarney McBreeze
+Lucky Event/O'Mango Goldgrin
+Lucky Event/Plumrick O'Luck
+Lucky Event/Rowdy McCharm
+Lucky Event/Sunny O'Coin
+Megalodon Hunt/Eclipse and Weekend
+Megalodon Hunt/Normal
+Mushgrove Swamp/Algae Hunt
+Northern Summit/Surrounding Ocean
+Ocean
+Ocean/Deep Ocean
+Orca Migration/Ancient
+Orca Migration/Normal
+Roslit Bay/Coral Reef
+Roslit Bay/Surrounding Ocean
+Snowcap Island/Algae Hunt
+Whale Migration/Moby
+Whale Migration/Normal
+|top_rods      = 
+Leviathan's Fang Rod\64045.07\186904.17;
+Free Spirit Rod\57882.37\181581.03;
+Trident Rod\56249.02\176457.12;
+No-Life Rod\43779.89\130186.39;
+Ethereal Prism Rod\43440.59\108855.04;
+Flimsy Rod\26856.33\95688.94;
+Training Rod\27018.21\107445.12;
+Lucky Rod\24953.15\84801.37;
+Azure Of Lagoon\38184.54\132325.25;
+Firefly Rod\36260.42\118529.18;
+Seraphic Rod\42767.97\110955.46;
+Rod Of The Forgotten Fang\39866.42\108281.63;
+Challenger's Rod\39323.69\110909.12;
+Rod Of The Depths\35818.62\97453.17;
+Zeus Rod\35717.09\101533.6;
+Verdant Shear Rod\35279.51\99298.88;
+Rod Of The Exalted One\34761.25\95102.11;
+Blazebringer Rod\34006.88\97161.34;
+Depthseeker Rod\32769.67\94342.36;
+Avalanche Rod\29424.61\84550.56;
+Volcanic Rod\27843.16\81473.13;
+Steady Rod\10249.83\42305.73
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Crown Bass, the player has a chance to make one of the following exclamations:
+* A Crown Bass!
+* I caught a Crown Bass!
+* Woah! A Crown Bass!
+* Ouu! A Crown Bass!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ocean}}

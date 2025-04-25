@@ -1,0 +1,28 @@
+{{BaitInfobox
+|name           = Shrimp
+|image          = Bait Shrimp.png
+|rarity         = Uncommon
+|crates         = Bait Crate/0.34, Common Crate/0.18
+|angler_quests  = <!--TBD-->
+|pref_luck      = 45
+|univ_luck      = 25
+|resilience     = -5
+|lure           = 
+|ability        = 
+}}
+'''Shrimp''' is an {{Rarity|Uncommon}} [[Bait]] that can be used in fishing.
+
+== Obtainment ==
+Shrimps can be obtained in the following ways:
+* {{Item|Bait Crate}} (0.34/crate on average)
+* {{Item|Common Crate}} (0.18/crate on average)
+<!--* [[Angler]] Quests, starting from the ?th completion-->
+
+== Favoring Fish ==
+{{Fish by Category Table|Shrimp-Loving Fish|event=1|show_location=1|hide_bait=1|resultsheader='''%PAGES%''' [[Fish]] prefer Shrimps:|noresultsheader=No fish prefer Shrimps.}}
+
+== Change History ==
+{{Change History|1.0}}
+
+== Navigation ==
+{{Bait Navbox}}

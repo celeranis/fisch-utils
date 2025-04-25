@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Clam.png
+|rarity         = Unusual
+|sea            = First Sea
+|location       = [[Roslit Bay]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 25
+|weather        = Foggy
+|time           = 
+|season         = 
+|bait           = Seaweed
+|base_weight    = 1
+|base_value     = 13
+|weight_range   = 0.1
+|base_chance    = 60
+|base_resil     = 70
+}}
+'''Clam''' is an {{Rarity|Unusual}} fish found in [[Roslit Bay]].
+
+== Description ==
+{{Description|The Clam is an interesting fish that is found behind Roslit Bay. They are quite sought after because they yield a valuable pearl once caught. [Contribution by @Johnny_D3pp]|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found behind Roslit Bay.|Bestiary Hint}}
+{{Fish Availability|
+Roslit Bay/Clam Abundance
+|top_rods      = 
+Leviathan's Fang Rod\1196384.71\1155912.14;
+Trident Rod\1147091.78\1113218.43;
+Free Spirit Rod\1123347.43\1090175.25;
+Azure Of Lagoon\1028770.29\988481.11;
+No-Life Rod\1016180.54\983607.54;
+Krampus's Rod\917870.93\909294.47;
+Plastic Rod\810101.11\802531.64;
+Magma Rod\886972.46\878684.72;
+Buddy Bond Rod\741437.26\746898.51;
+Seraphic Rod\966779.63\929097.88;
+Ethereal Prism Rod\961470.65\920577.35;
+Challenger's Rod\954943.53\921895.97;
+Rod Of The Forgotten Fang\952313.31\918864.49;
+Depthseeker Rod\930182.83\893077.85;
+Rod Of The Exalted One\929190.42\899464.5;
+Blazebringer Rod\922135.57\882906.45;
+Zeus Rod\922112.58\884173.28;
+Rod Of The Depths\921622.2\894406.92;
+Verdant Shear Rod\920499.93\882012.06;
+Avalanche Rod\918971.97\882549.13;
+Volcanic Rod\894021.68\855988.57;
+Training Rod\811729.09\805858.17;
+Steady Rod\482014.71\466085.4
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Clam, the player has a chance to make one of the following exclamations:
+* A Clam!
+* I caught a Clam!
+* Woah, a Clam!
+* Wan go clam?
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Roslit Bay}}

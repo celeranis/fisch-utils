@@ -1,0 +1,66 @@
+{{FishInfobox
+|image          = Crystallized Seadragon.png
+|rarity         = Exotic
+|sea            = First Sea
+|location       = [[Calm Zone]]
+|sublocation    = 
+|sources        = Fishing Rod
+|nopassive      = 1
+|radar_location = 
+|prog_speed     = -95
+|xp             = 40000
+|weather        = Windy
+|time           = 
+|season         = Spring
+|bait           = Shark Head
+|base_weight    = 120000
+|base_value     = 35000
+|weight_range   = 70000
+|base_chance    = 0.1
+|base_resil     = 1
+}}
+'''Crystallized Seadragon''' is an {{Rarity|Exotic}} fish found in the [[Calm Zone]] of [[Mariana's Veil]].
+
+== Description ==
+{{Description|A majestic, dragon-like creature with crystal scales that shimmer in the light. It is said to be the guardian of the Calm Zone.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Appears during the calmest days, when the wind is strong.|Bestiary Hint}}
+{{Fish Availability|
+Mariana's Veil/Calm Zone
+|top_rods      = 
+Tempest Rod\7673\21857.05;
+Challenger's Rod\7609.18\21850.58;
+Summit Rod\5317.31\15860.65;
+Seraphic Rod\5267.15\14990.89;
+Abyssal Specter Rod\5000.45\14639.42;
+Ice Warpers Rod\366.96\1083.78;
+Celestial Rod\1714.1\5062.38;
+Champions Rod\2540.3\7405.69;
+Krampus's Rod\-3.7\-9.44;
+Steady Rod\-0.13\-0.34;
+Ethereal Prism Rod\4032.11\11136;
+Rod Of The Forgotten Fang\2246.74\6238.12;
+No-Life Rod\1742.31\5046.74;
+Rod Of The Exalted One\386.22\1050.4;
+Avalanche Rod\-2.96\-7.54;
+Volcanic Rod\-3.5\-8.93;
+Zeus Rod\-5.49\-14.01
+|recommended   = Challenger's Rod
+}}
+
+== Gameplay Notes ==
+* Crystallized Seadragon usually cannot be caught with passive effects, such as the one provided by the [[Rod Of The Depths]] and [[Rod Of The Forgotten Fang]].
+** The only exception is when catching a Crystallized Seadragon on the Megalodon Passive reel of the [[Rod Of The Forgotten Fang]], the Megalodon will instead dupe the Crystallized Seadragon.
+
+== Catch Quips ==
+When catching a Crystallized Seadragon, the player has a chance to make one of the following exclamations:
+* THE CRYSTALLIZED SEADRAGON!?!
+* PRETTY COLORS!
+* CRYSTAL KRAKEN!?
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Calm Zone}}

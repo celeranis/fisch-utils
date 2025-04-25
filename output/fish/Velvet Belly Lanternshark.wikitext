@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Velvet Belly Lanternshark.png
+|rarity         = Legendary
+|sea            = Second Sea
+|location       = [[Open Ocean]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -40
+|xp             = 660
+|weather        = Foggy
+|time           = Night
+|season         = Winter
+|bait           = Crystal Bananas
+|base_weight    = 150
+|base_value     = 1320
+|weight_range   = 90
+|base_chance    = 28
+|base_resil     = 26
+}}
+'''Velvet Belly Lanternshark''' is a {{Rarity|Legendary}} fish found in the [[Open Ocean]].
+
+== Description ==
+{{Description|A somewhat blue shark with light blue fins, glowing softly in the depths.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It shines where the night swallows the sea.|Bestiary Hint}}
+{{Fish Availability|
+Open Ocean
+Open Ocean/Sea Leviathan
+|top_rods      = 
+Steady Rod\81747.03\120148.75;
+Frostfire Rod\76357.26\117558.46;
+Krampus's Rod\65613.91\148121.35;
+Magma Rod\63055.59\150498.78;
+Free Spirit Rod\57566.99\119870.35;
+Fast Rod\43180.44\154802.04;
+Resourceful Rod\44008.75\152158.94;
+Candy Cane Rod\43879.54\140229.78;
+Buddy Bond Rod\33488.66\134381.94;
+Trident Rod\43883.44\81731.47;
+Verdant Shear Rod\40676.31\124180.74;
+Blazebringer Rod\38869.31\105588.5;
+No-Life Rod\29984.84\69713.32;
+Ethereal Prism Rod\26948.95\72412.92;
+Seraphic Rod\26720.19\71698.07;
+Rod Of The Exalted One\25136.47\67786.93;
+Rod Of The Forgotten Fang\25112.78\67297.95;
+Challenger's Rod\24926.8\66165.63;
+Rod Of The Depths\24477.13\65334.15;
+Volcanic Rod\23751.83\62736.61;
+Depthseeker Rod\23740.79\61919.27;
+Zeus Rod\23609.74\62361.31;
+Avalanche Rod\23474.18\61077.7
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Velvet Belly Lanternshark, the player has a chance to make one of the following exclamations:
+* A VELVET BELLY LANTERNSHARK!
+* GLOWING MENACE!
+* BLUE BEACON OF DOOM!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Open Ocean}}

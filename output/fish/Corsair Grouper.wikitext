@@ -1,0 +1,70 @@
+{{FishInfobox
+|image          = Corsair Grouper.png
+|rarity         = Common
+|sea            = First Sea
+|location       = [[Forsaken Shores]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 30
+|weather        = 
+|time           = Day
+|season         = Spring, Summer
+|bait           = Seaweed
+|base_weight    = 20
+|base_value     = 35
+|weight_range   = 15
+|base_chance    = 120
+|base_resil     = 100
+}}
+'''Corsair Grouper''' is a {{Rarity|Common}} fish found in [[Forsaken Shores]].
+
+== Description ==
+{{Description|The Corsair Grouper is a resilient, bulky fish, often hiding among shores. Known for its powerful bites, it’s a decent challenge for beginners.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|commonly caught in Forsaken Shores.|Bestiary Hint}}
+{{Fish Availability|
+Forsaken Shores/Coral Reef
+Forsaken Shores/Freshwater Pond
+Forsaken Shores/Surrounding Ocean
+|top_rods      = 
+Leviathan's Fang Rod\565357.19\0;
+Trident Rod\542373.59\0;
+Free Spirit Rod\538342.49\0;
+No-Life Rod\513966.67\79041.01;
+Azure Of Lagoon\500546.69\79448.62;
+Training Rod\360161.64\95955.08;
+Flimsy Rod\300851.51\95449.53;
+Tempest Rod\493332.66\71729.04;
+Nocturnal Rod\299532.23\271566.81;
+Crystalized Rod\406102.68\98323.29;
+Firework Rod\406102.68\98323.29;
+Auric Rod\403776.09\97759.99;
+Fungal Rod\402275.06\97396.57;
+Seraphic Rod\492830.18\0;
+Ethereal Prism Rod\484787.3\0;
+Challenger's Rod\483343.55\73817.05;
+Rod Of The Forgotten Fang\482426.55\30993.04;
+Rod Of The Depths\476054.01\69182.13;
+Rod Of The Exalted One\475822.17\0;
+Zeus Rod\465473.59\77538.54;
+Blazebringer Rod\459920.15\77985.32;
+Verdant Shear Rod\459414.43\83071.58;
+Depthseeker Rod\451398.16\83304.19;
+Avalanche Rod\448928.94\83778.53;
+Volcanic Rod\446681.83\75740.6;
+Steady Rod\197681.83\37882.69
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Corsair Grouper, the player has a chance to make one of the following exclamations:
+* I caught a Corsair Grouper!
+* Woah, a Corsair Grouper!!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Forsaken Shores}}

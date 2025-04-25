@@ -1,0 +1,39 @@
+{{FishInfobox
+|image          = Sea Mine.png
+|rarity         = Mythical
+|sea            = First Sea
+|location       = [[Desolate Deep]]
+|sublocation    = 
+|sources        = Crab Cage
+|radar_location = 
+|xp             = 1000
+|weather        = Clear
+|time           = 
+|season         = 
+|bait           = 
+|base_weight    = 325
+|base_value     = 3000
+|weight_range   = 125
+|base_chance    = 1
+|base_resil     = 200
+}}
+'''Sea Mine''' is a {{Rarity|Mythical}} fish found in the [[Desolate Deep]].
+
+== Description ==
+{{Description|An inactive naval sea mine that has somehow made its way down here. Caught in crab cages in the Desolate Deep.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Caught with crab cages in the Desolate Deep.|Bestiary Hint}}
+
+== Catch Quips ==
+When catching a Sea Mine, the player has a chance to make one of the following exclamations:
+* A Sea Mine?!
+* How did this get down here?
+* I hope it doesn't explode!
+* Why do I hear beeping..?
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Desolate Deep}}

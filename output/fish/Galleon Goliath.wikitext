@@ -1,0 +1,64 @@
+{{FishInfobox
+|image          = Galleon Goliath.png
+|rarity         = Uncommon
+|sea            = First Sea
+|location       = [[Forsaken Shores]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 85
+|weather        = 
+|time           = Day
+|season         = Winter
+|bait           = Squid
+|base_weight    = 20
+|base_value     = 190
+|weight_range   = 15
+|base_chance    = 70
+|base_resil     = 60
+}}
+'''Galleon Goliath''' is an {{Rarity|Uncommon}} fish found in [[Forsaken Shores]].
+
+== Description ==
+{{Description|The Galleon Goliath is a mid-sized, slow-moving fish, often found in deeper seas. Uncommon but worth the haul.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Often found in deeper seas near Forsaken Shores.|Bestiary Hint}}
+{{Fish Availability|
+Forsaken Shores/Surrounding Ocean
+|top_rods      = 
+Trident Rod\209796.32\13905.67;
+Leviathan's Fang Rod\208538.25\23092.68;
+Free Spirit Rod\203293.4\13858.06;
+Azure Of Lagoon\200822.31\13007.05;
+No-Life Rod\197641.8\18936.04;
+Training Rod\168983.71\34467.87;
+Flimsy Rod\120634.53\27605.39;
+Resourceful Rod\169920.52\13785.4;
+Nocturnal Rod\85657.35\67305.88;
+Seraphic Rod\167921.23\19401.74;
+Blazebringer Rod\183999.46\15055.69;
+Zeus Rod\182593.45\15949.1;
+Verdant Shear Rod\182301.66\15957.02;
+Depthseeker Rod\181743.38\14616.61;
+Avalanche Rod\179017.1\13825.86;
+Challenger's Rod\178427.71\17158.08;
+Volcanic Rod\178211.4\13622.49;
+Ethereal Prism Rod\167040.79\0;
+Rod Of The Depths\165149.33\15523.38;
+Rod Of The Forgotten Fang\164903.22\17707.3;
+Rod Of The Exalted One\157621.01\16941.37;
+Steady Rod\84092.83\7343.93
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Galleon Goliath, the player has a chance to make one of the following exclamations:
+* WOAH! A GALLEON GOLIATH!
+* OMG, IS THAT A GALLEON GOLIATH?
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Forsaken Shores}}

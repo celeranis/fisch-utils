@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Telescopefish.png
+|rarity         = Rare
+|sea            = Second Sea
+|location       = [[Open Ocean]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -3
+|xp             = 230
+|weather        = Clear
+|time           = Night
+|season         = Winter
+|bait           = Squid
+|base_weight    = 100
+|base_value     = 460
+|weight_range   = 60
+|base_chance    = 60
+|base_resil     = 38
+}}
+'''Telescopefish''' is a {{Rarity|Rare}} fish found in the [[Open Ocean]].
+
+== Description ==
+{{Description|A long eel with beady yellow eyes and light green fins, peering into the abyss.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It watches where the night grows cold.|Bestiary Hint}}
+{{Fish Availability|
+Open Ocean
+Open Ocean/Sea Leviathan
+|top_rods      = 
+Trident Rod\94140.65\84830.63;
+Leviathan's Fang Rod\86212.15\49688.55;
+Free Spirit Rod\73532.15\57299.51;
+Azure Of Lagoon\69870.07\48095.13;
+No-Life Rod\66627.09\62476.12;
+Plastic Rod\47312.23\47211.89;
+Fischer's Rod\50272.6\47349.63;
+Firefly Rod\65718.07\63367.07;
+Egg Rod\65723.87\60453.48;
+Wildflower Rod\62885.29\59239.77;
+Verdant Shear Rod\65068.5\58728.31;
+Blazebringer Rod\62006.23\55119.62;
+Seraphic Rod\58244.25\52421.2;
+Challenger's Rod\56143.65\52335.21;
+Depthseeker Rod\55076.98\53680.78;
+Rod Of The Forgotten Fang\54971.59\49650.92;
+Avalanche Rod\53157.07\51902.82;
+Volcanic Rod\52915.25\50476.05;
+Zeus Rod\52663.94\50236.33;
+Rod Of The Depths\52534.68\48014.86;
+Ethereal Prism Rod\52270.13\35881.91;
+Rod Of The Exalted One\52069.73\38698.52;
+Steady Rod\44101.19\42702.24
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Telescopefish, the player has a chance to make one of the following exclamations:
+* A Telescopefish!
+* Eel spy!
+* Yellow-eyed stalker!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Open Ocean}}

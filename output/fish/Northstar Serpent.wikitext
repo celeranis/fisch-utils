@@ -1,0 +1,63 @@
+{{FishInfobox
+|image          = Northstar Serpent.png
+|rarity         = Limited
+|event          = Fischmas
+|sea            = First Sea
+|location       = [[Fischmas]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -90
+|xp             = 5000
+|weather        = Foggy
+|time           = 
+|season         = 
+|bait           = Holly Berry
+|base_weight    = 20000
+|base_value     = 20000
+|weight_range   = 6000
+|base_chance    = 0.02
+|base_resil     = 10
+}}
+'''Northstar Serpent''' is a {{Rarity|Limited}} fish found in the [[Winter Village]] during the [[Fischmas]] event.
+
+== Description ==
+{{Description|The Northstar Serpent is an insanely large and menacing sea serpent species. They have a long and spiny body, with bioluminescent fins throught it. Near their heads, they have six large tentacle-like appendages, which are spun in a screw motion to move at incredible speeds. Attempting to catch the Northstar Serpent will almost always result in catastrophe, those who are capable of hooking and catching such a formidable beast are truly legendary anglers.|Bestiary Entry}}
+
+== Obtainment ==
+{{Fish Availability|
+Fischmas/Winter Village
+|top_rods      = 
+Tempest Rod\3229.9\12479.12;
+Challenger's Rod\3116.84\12660.57;
+Seraphic Rod\3098.87\11632.76;
+Ethereal Prism Rod\2975.47\10734.37;
+Abyssal Specter Rod\2532.13\10687.07;
+Destiny Rod\1872.83\6219.1;
+Heaven's Rod\1934.73\6581.63;
+Rod Of The Depths\1711.1\6520.29;
+Rod Of The Zenith\701.21\2619.25;
+No-Life Rod\2519.37\9946.33;
+Rod Of The Forgotten Fang\2423.71\9053.35;
+Rod Of The Exalted One\1878.34\6799.53;
+Depthseeker Rod\1797.19\7496.53;
+Zeus Rod\1570.46\6342.58;
+Avalanche Rod\1359.68\5690.7;
+Volcanic Rod\1260.87\5092.25;
+Steady Rod\452.04\2008.58
+|recommended   = Challenger's Rod
+}}
+
+== Catch Quips ==
+When catching a Northstar Serpent, the player has a chance to make one of the following exclamations:
+* A NORTHSTAR SERPENT!!
+* IT'S HEAVY!
+* WHAT IS THIS THING?!
+* WOAH!!!
+* SERPENT!!!!!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Fischmas}}

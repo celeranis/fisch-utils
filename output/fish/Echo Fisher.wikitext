@@ -1,0 +1,66 @@
+{{FishInfobox
+|image          = Echo Fisher.png
+|rarity         = Uncommon
+|sea            = First Sea
+|location       = [[Atlantis]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 115
+|weather        = Foggy
+|time           = Night
+|season         = 
+|bait           = Shrimp
+|base_weight    = 6.5
+|base_value     = 190
+|weight_range   = 3.5
+|base_chance    = 48
+|base_resil     = 60
+}}
+'''Echo Fisher''' is an {{Rarity|Uncommon}} fish found in [[Atlantis]].
+
+== Description ==
+{{Description|These clever fish use echolocation to navigate the darkest corners of the abyss. Their clicking sounds bounce off the ancient walls in patterns that some say form words in the old tongue.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Ethereal Abyss Pool|Bestiary Hint}}
+{{Fish Availability|
+Atlantis/Ethereal Abyss
+|top_rods      = 
+Champions Rod\122049.41\88229.6;
+Celestial Rod\120794.25\89426.65;
+Ethereal Prism Rod\119989.17\139794.03;
+Rapid Rod\119603.71\104091.34;
+Ice Warpers Rod\119516.31\88480.57;
+Training Rod\111903.74\116539.24;
+Flimsy Rod\81452.51\81452.51;
+Fortune Rod\65963.27\84173.76;
+Leviathan's Fang Rod\113625.25\123025.96;
+No-Life Rod\111524.77\111524.77;
+Seraphic Rod\110356.54\110356.54;
+Avalanche Rod\118741.35\84874.01;
+Depthseeker Rod\118395.93\86085.25;
+Verdant Shear Rod\111091.2\93979.67;
+Blazebringer Rod\101220.91\88671.24;
+Challenger's Rod\101053.41\101053.41;
+Rod Of The Forgotten Fang\100718.6\100718.6;
+Zeus Rod\100447.44\93933.03;
+Trident Rod\98616.61\79095.04;
+Volcanic Rod\98036.8\71288.58;
+Free Spirit Rod\95559.85\78824.22;
+Rod Of The Depths\91425.77\91425.77;
+Rod Of The Exalted One\87102.58\91746.17;
+Steady Rod\56657.52\48303.84
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching an Echo Fisher, the player has a chance to make one of the following exclamations:
+* An Echo Fisher!
+* The whispers of the deep!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Atlantis}}

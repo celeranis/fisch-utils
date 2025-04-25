@@ -1,0 +1,69 @@
+{{FishInfobox
+|image          = Ember Snapper.png
+|rarity         = Unusual
+|sea            = First Sea
+|location       = [[Roslit Volcano]]
+|sublocation    = 
+|sources        = Fishing Rod, Volcanic Geode
+|radar_location = 
+|xp             = 120
+|weather        = 
+|time           = 
+|season         = Summer
+|bait           = Coal
+|base_weight    = 12
+|base_value     = 200
+|weight_range   = 6
+|base_chance    = 50
+|base_resil     = 40
+}}
+'''Ember Snapper''' is an {{Rarity|Unusual}} fish found in the [[Roslit Bay#Roslit Volcano|Volcano]] in [[Roslit Bay]].
+
+== Description ==
+{{Description|The Ember Snapper is a lava swimming fish with a resemblance to the salt water 'Red Snapper'. The Ember Snapper is acute in volcanic habitats due to their thick skin and strong dorsal fins.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in volcanic regions.|Bestiary Hint}}
+{{Fish Availability|
+Roslit Bay/Roslit Volcano
+|top_rods      = 
+Training Rod\295872.28\476103.38;
+Flimsy Rod\244062.35\201072.39;
+Rapid Rod\146542.06\132446.46;
+Ethereal Prism Rod\144220.18\172495.52;
+No-Life Rod\143747.09\143747.09;
+Resourceful Rod\116596.87\87731.38;
+Leviathan's Fang Rod\143720.53\152473.62;
+Fortune Rod\79086.93\105561.38;
+Seraphic Rod\141226.52\141226.52;
+Trident Rod\139146.14\103880.93;
+Challenger's Rod\129217.27\129217.27;
+Depthseeker Rod\129050.72\109942.09;
+Rod Of The Forgotten Fang\128696.1\128696.1;
+Free Spirit Rod\127274.52\103220.66;
+Reinforced Rod\125287.09\98166.98;
+Avalanche Rod\124750.91\98366.95;
+Zeus Rod\119759.67\119759.67;
+Verdant Shear Rod\119759.67\119759.67;
+Rod Of The Depths\116583.05\116583.05;
+Blazebringer Rod\113848.15\113127.68;
+Volcanic Rod\109865.4\90895.35;
+Rod Of The Exalted One\109643.66\109643.66;
+Magma Rod\100272.04\87097.94;
+Steady Rod\68546.21\49504.79
+|recommended   = Training Rod
+}}
+
+== Catch Quips ==
+When catching an Ember Snapper, the player has a chance to make one of the following exclamations:
+* An Ember Snapper!
+* Woah! I caught an Ember Snapper!
+* I caught an Ember Snapper!
+* Ember Snapper!!!
+* It burns!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Roslit Volcano}}

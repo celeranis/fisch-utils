@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Tripod Fish.png
+|rarity         = Mythical
+|sea            = Second Sea
+|location       = [[Open Ocean]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -65
+|xp             = 1300
+|weather        = Clear
+|time           = Day
+|season         = Winter
+|bait           = Sapphire Krill
+|base_weight    = 220
+|base_value     = 2600
+|weight_range   = 130
+|base_chance    = 15
+|base_resil     = 22
+}}
+'''Tripod Fish''' is a {{Rarity|Mythical}} fish found in the [[Open Ocean]].
+
+== Description ==
+{{Description|A metallic black fish with absurdly long blue fins, tripping over itself like a clumsy tripod.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It stumbles where the depths grow cold.|Bestiary Hint}}
+{{Fish Availability|
+Open Ocean
+Open Ocean/Sea Leviathan
+|top_rods      = 
+Free Spirit Rod\33896.7\58951.29;
+Frostfire Rod\30949.9\29085.7;
+Steady Rod\30232.57\26196.62;
+Magma Rod\26299.37\26538.44;
+Leviathan's Fang Rod\26117.01\43071.13;
+Verdant Shear Rod\25352.16\62392.69;
+Firefly Rod\23765.47\60353.47;
+Egg Rod\25587.16\56695.44;
+Blazebringer Rod\23863.07\54112.06;
+Nocturnal Rod\7575.9\35824.45;
+Long Rod\14328.21\37218.87;
+Trident Rod\24440.67\41477.98;
+Seraphic Rod\16906.55\37461.14;
+Ethereal Prism Rod\16781\37838.84;
+No-Life Rod\16538.66\35278.84;
+Challenger's Rod\15858.97\34212.09;
+Rod Of The Forgotten Fang\15573.73\34397.94;
+Rod Of The Exalted One\15382.51\34508.53;
+Rod Of The Depths\14954.35\32706.83;
+Depthseeker Rod\14751.89\30611.98;
+Volcanic Rod\14497.45\30823.69;
+Avalanche Rod\14454.27\29889.88;
+Zeus Rod\14333.41\30474.92
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Tripod Fish, the player has a chance to make one of the following exclamations:
+* A TRIPOD FISH!
+* THREE-LEGGED FLOP!
+* WHOOPS, IT FELL AGAIN!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Open Ocean}}

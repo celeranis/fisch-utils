@@ -1,0 +1,27 @@
+{{BaitInfobox
+|image          = Bait Fish Head.png
+|rarity         = Legendary
+|crates         = Bait Crate/0.34, Quality Bait Crate/0.45
+|angler_quests  = <!--TBD-->
+|pref_luck      = 150
+|univ_luck      = 
+|resilience     = -10
+|lure           = 10
+|ability        = 
+}}
+'''Fish Head''' is a {{Rarity|Legendary}} [[Bait]] that can be used in fishing.
+
+== Obtainment ==
+Fish Heads can be obtained in the following ways:
+* {{Item|Bait Crate}} (0.34/crate on average)
+* {{Item|Quality Bait Crate}} (0.45/crate on average)
+<!--* [[Angler]] Quests, starting from the ?th completion-->
+
+== Favoring Fish ==
+{{Fish by Category Table|Fish Head-Loving Fish|event=1|show_location=1|hide_bait=1|resultsheader='''%PAGES%''' [[Fish]] prefer Fish Heads:|noresultsheader=No fish prefer Fish Heads.}}
+
+== Change History ==
+{{Change History|1.0}}
+
+== Navigation ==
+{{Bait Navbox}}

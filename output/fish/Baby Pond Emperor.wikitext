@@ -1,0 +1,72 @@
+{{FishInfobox
+|image          = Baby Pond Emperor.png
+|rarity         = Exotic
+|sea            = First Sea
+|location       = [[Snowcap Island]]
+|sublocation    = Freshwater
+|sources        = Fishing Rod
+|nopassive      = 1
+|radar_location = 
+|prog_speed     = -80
+|xp             = 100
+|weather        = Clear
+|time           = 
+|season         = Winter
+|bait           = Squid
+|base_weight    = 2
+|base_value     = 5000
+|weight_range   = 1.5
+|base_chance    = 0.5
+|base_resil     = 10
+}}
+'''Baby Pond Emperor''' is an {{Rarity|Exotic}} fish found in [[Snowcap Island]].
+
+== Description ==
+{{Description|It's a mini Pond Emperor!|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in Snowcap Pond.|Bestiary Hint}}
+{{Fish Availability|
+Snowcap Island/Freshwater Pond
+|top_rods      = 
+Ethereal Prism Rod\62102.46\187579.2;
+Leviathan's Fang Rod\61761.08\204132.62;
+Seraphic Rod\60469.36\194971.84;
+Tempest Rod\57499.9\195645.46;
+No-Life Rod\54415.72\191719.52;
+Resourceful Rod\45696.12\130911.29;
+Destiny Rod\46539.42\131266.2;
+Heaven's Rod\43364.76\125836.7;
+Free Spirit Rod\45640.05\214072.77;
+Flimsy Rod\21948.58\197249.88;
+Training Rod\20514.31\194297.07;
+Challenger's Rod\54174.85\192708.34;
+Rod Of The Forgotten Fang\52639.27\171037.41;
+Rod Of The Exalted One\44952.99\140676.62;
+Rod Of The Depths\43196.81\143724.74;
+Trident Rod\42871.56\175040.42;
+Zeus Rod\39650.11\144834.31;
+Blazebringer Rod\39102.89\142835.43;
+Depthseeker Rod\37771.56\145101.07;
+Verdant Shear Rod\37702.39\142985.86;
+Avalanche Rod\31998.11\123561.95;
+Volcanic Rod\31163.59\113834.69;
+Steady Rod\9917.24\41919.04
+|recommended   = Ethereal Prism Rod
+}}
+
+== Gameplay Notes ==
+* Baby Pond Emperor usually cannot be caught with passive effects, such as the one provided by the [[Rod Of The Depths]] and [[Rod Of The Forgotten Fang]].
+** The only exception is when catching a Baby Pond Emperor on the Megalodon Passive reel of the [[Rod Of The Forgotten Fang]], the Megalodon will instead dupe the Baby Pond Emperor.
+
+== Catch Quips ==
+When catching a Baby Pond Emperor, the player has a chance to make one of the following exclamations:
+* Woah! a Baby Pond Emperor!
+* A Baby Pond Emperor..?
+* It's so cute!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Snowcap Island}}

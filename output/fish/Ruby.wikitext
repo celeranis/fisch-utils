@@ -1,0 +1,36 @@
+{{FishInfobox
+|image          = Ruby.png
+|rarity         = Gemstone
+|sea            = First Sea
+|location       = [[Ancient Isle]]
+|sublocation    = 
+|sources        = Meteor
+|radar_location = 
+|xp             = 70
+|weather        = 
+|time           = 
+|season         = 
+|bait           = 
+|base_weight    = 2
+|base_value     = 200
+|weight_range   = 1.3
+|base_chance    = 0
+|base_resil     = 100
+}}
+'''Ruby''' is a {{Rarity|Gemstone}} fish found in the [[Ancient Isle]].
+
+== Description ==
+{{Description|A gemstone with a very intense red hue.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|From meteors.|Bestiary Hint}}
+
+== Catch Quips ==
+When catching a Ruby, the player has a chance to make one of the following exclamations:
+* Ouu, shiny!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ancient Isle}}

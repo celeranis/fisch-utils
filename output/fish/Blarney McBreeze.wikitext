@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Blarney McBreeze.png
+|rarity         = Limited
+|sea            = First Sea
+|location       = [[Lucky Event]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -65
+|xp             = 2200
+|weather        = Rain
+|time           = 
+|season         = Spring
+|bait           = Lucky
+|base_weight    = 160
+|base_value     = 5500
+|weight_range   = 95
+|base_chance    = 3
+|base_resil     = 10
+}}
+'''Blarney McBreeze''' is a {{Rarity|Limited}} fish found in within the [[Lucky Event]].
+
+== Description ==
+{{Description|A sleek blue fish that rides warm currents, its scales sparkle like shamrocks. A St. Patrick's breezy delight!|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Appears randomly in Lucky Event pools, lured by a rainbow glow.|Bestiary Hint}}
+{{Fish Availability|
+Lucky Event/Blarney McBreeze
+|top_rods      = 
+Leviathan's Fang Rod\18763.66\51073.85;
+Free Spirit Rod\15393.91\49555.84;
+Ethereal Prism Rod\15177.02\36533.89;
+Seraphic Rod\14868.71\37077.41;
+No-Life Rod\14585.96\37857.44;
+Resourceful Rod\11325.08\26686.55;
+Destiny Rod\11656.43\27007.01;
+Heaven's Rod\10649.29\25597.7;
+Trident Rod\14207.29\45735.88;
+Adventurer's Rod\6613.14\21756.65;
+Fischer's Rod\6749.03\22203.71;
+Plastic Rod\6787.42\22169.71;
+Challenger's Rod\13567.69\36274.84;
+Rod Of The Forgotten Fang\13468.01\33747.6;
+Rod Of The Depths\11653.38\29561.38;
+Rod Of The Exalted One\11646.51\28575.74;
+Zeus Rod\11346.44\29883.78;
+Verdant Shear Rod\11068.27\29604.04;
+Blazebringer Rod\10951.72\28844.19;
+Depthseeker Rod\10614.26\28716.56;
+Avalanche Rod\9308.01\25082.92;
+Volcanic Rod\8871.21\23364.63;
+Steady Rod\3228.93\9483.1
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching a Blarney McBreeze, the player has a chance to make one of the following exclamations:
+* BLARNEY MCBREEZE!
+* SHAMROCK SWIMMER!
+* BREEZY LUCK BRINGER!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Lucky Event}}

@@ -1,0 +1,38 @@
+{{FishInfobox
+|image          = Nessie's Spine.png
+|rarity         = Limited
+|event          = Archeological Site
+|sea            = First Sea
+|location       = [[Archeological Site]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -10
+|xp             = 90
+|weather        = 
+|time           = 
+|season         = 
+|bait           = 
+|base_weight    = 8
+|base_value     = 250
+|weight_range   = 4
+|base_chance    = 3
+|base_resil     = 100
+}}
+'''Nessie's Spine''' is a {{Rarity|Limited}} fish found in [[Archeological Site]] during the [[Archeological Site]] event.
+
+== Description ==
+{{Description|A mythical vertebra said to belong to the Nessie.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|We haven't checked the Mushgroves yet... Could this be discovered there?|Bestiary Hint}}
+
+== Catch Quips ==
+When catching a Nessie's Spine, the player has a chance to make one of the following exclamations:
+* Woah a bone!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Archeological Site}}

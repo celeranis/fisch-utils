@@ -1,0 +1,40 @@
+{{FishInfobox
+|image          = Mussel.png
+|rarity         = Common
+|sea            = First Sea
+|location       = [[Ocean]]
+|sublocation    = 
+|sources        = Crab Cage
+|radar_location = 
+|xp             = 35
+|weather        = 
+|time           = 
+|season         = Winter
+|bait           = 
+|base_weight    = 0.2
+|base_value     = 20
+|weight_range   = 0.1
+|base_chance    = 55
+|base_resil     = 200
+}}
+'''Mussel''' is a {{Rarity|Common}} fish found in the [[Ocean]].
+
+== Description ==
+{{Description|Mussels are small mollusc that can be easily found on rocks, near beaches, and near docks. They actually have one food and have very limited movement, so most mussels stay in one place their entire lives.. that's boring!|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Can be easily caught while cage fishing. Best caught near docks and beaches.|Bestiary Hint}}
+
+== Catch Quips ==
+When catching a Mussel, the player has a chance to make one of the following exclamations:
+* A Mussel!
+* Woah! A Mussel
+* Awesome!
+* A Mussel!
+* Ou! A Mussel!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ocean}}

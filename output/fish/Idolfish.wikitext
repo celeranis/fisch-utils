@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Idolfish.png
+|rarity         = Exotic
+|sea            = Second Sea
+|location       = [[Lushgrove]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -80
+|xp             = 2150
+|weather        = Windy
+|time           = 
+|season         = Winter
+|bait           = Golden Worm
+|base_weight    = 1700
+|base_value     = 4300
+|weight_range   = 990
+|base_chance    = 1
+|base_resil     = 10
+}}
+'''Idolfish''' is an {{Rarity|Exotic}} fish found in [[Lushgrove]].
+
+== Description ==
+{{Description|A white translucent fish adorned with yellow symbols and fins, glowing like a sacred relic.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Its radiance pierces the chill of a restless frost.|Bestiary Hint}}
+{{Fish Availability|
+Lushgrove
+|top_rods      = 
+Free Spirit Rod\17925.09\139325.68;
+Egg Rod\16709.91\141813.44;
+Blazebringer Rod\15740.3\133908.47;
+Azure Of Lagoon\15733.07\133981.37;
+Great Dreamer Rod\15425.86\131708.52;
+Destiny Rod\10759.72\87350.76;
+Heaven's Rod\10986.24\92056.3;
+Rod Of The Exalted One\9982.99\88085.21;
+Poseidon Rod\10643.82\94966.99;
+Leviathan's Fang Rod\13123.75\115934.51;
+Verdant Shear Rod\15359.22\129548.94;
+Trident Rod\12291.54\109238.48;
+Seraphic Rod\11895.07\105270.03;
+Ethereal Prism Rod\11622.89\100649.72;
+Challenger's Rod\11240.49\96751.21;
+No-Life Rod\10890.44\92060.47;
+Rod Of The Forgotten Fang\10367.16\90922.8;
+Rod Of The Depths\9414.19\80686.64;
+Depthseeker Rod\9367.34\79279.81;
+Avalanche Rod\8884.07\75358.37;
+Volcanic Rod\8878.65\73519.13;
+Zeus Rod\8646.87\71599.85;
+Steady Rod\8407.79\74121.26
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching an Idolfish, the player has a chance to make one of the following exclamations:
+* AN IDOLFISH!
+* HOLY GLOW!
+* SYMBOLS OF POWER!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Lushgrove}}

@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Crowned Anglerfish.png
+|rarity         = Exotic
+|sea            = First Sea
+|location       = [[Abyssal Zenith]]
+|sublocation    = 
+|sources        = Fishing Rod
+|nopassive      = 1
+|radar_location = 
+|prog_speed     = -95
+|xp             = 16000
+|weather        = Foggy
+|time           = Night
+|season         = Autumn
+|bait           = Truffle Worm
+|base_weight    = 18000
+|base_value     = 22000
+|weight_range   = 10000
+|base_chance    = 0.1
+|base_resil     = 3
+}}
+'''Crowned Anglerfish''' is an {{Rarity|Exotic}} fish found in the [[Abyssal Zenith]] of [[Mariana's Veil]].
+
+== Description ==
+{{Description|A monstrous kraken-like anglerfish, with a crown shaped lure and teeth as sharper than excalibur. It is said to be the ruler of the abyss.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Appears during the darkest nights, when the ocean is still.|Bestiary Hint}}
+{{Fish Availability|
+Mariana's Veil/Abyssal Zenith
+|top_rods      = 
+Tempest Rod\8449.93\41368.98;
+Challenger's Rod\8244.53\41081.81;
+Seraphic Rod\6167.31\28710.27;
+Summit Rod\5473.37\29125.78;
+Abyssal Specter Rod\5274.26\27264.71;
+Destiny Rod\462.79\1860.17;
+Heaven's Rod\2351.66\9781.44;
+Ethereal Prism Rod\5059.79\21972.01;
+Rod Of The Depths\-0.43\-4.26;
+Rod Of The Zenith\-5.29\-52.91;
+Rod Of The Forgotten Fang\2752.51\12918.46;
+No-Life Rod\2125.11\10684.93;
+Depthseeker Rod\1344.65\7226.98;
+Rod Of The Exalted One\695.74\3137.71;
+Steady Rod\13.18\76.32;
+Avalanche Rod\-0.36\-3.6;
+Volcanic Rod\-0.48\-4.8;
+Zeus Rod\-0.8\-8.01
+|recommended   = Challenger's Rod
+}}
+
+== Gameplay Notes ==
+* Crowned Anglerfish usually cannot be caught with passive effects, such as the one provided by the [[Rod Of The Depths]] and [[Rod Of The Forgotten Fang]].
+** The only exception is when catching a Crowned Anglerfish on the Megalodon Passive reel of the [[Rod Of The Forgotten Fang]], the Megalodon will instead dupe the Crowned Anglerfish.
+
+== Catch Quips ==
+When catching a Crowned Anglerfish, the player has a chance to make one of the following exclamations:
+* THE CROWNED ANGLERFISH!?!
+* THE ABYSSAL KING!
+* SPOOKY KRAKEN!?
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Abyssal Zenith}}

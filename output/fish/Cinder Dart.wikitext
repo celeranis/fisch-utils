@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Cinder Dart.png
+|rarity         = Legendary
+|sea            = Second Sea
+|location       = [[Emberreach]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -43
+|xp             = 605
+|weather        = Foggy
+|time           = 
+|season         = Spring
+|bait           = Insect
+|base_weight    = 273
+|base_value     = 1270
+|weight_range   = 165
+|base_chance    = 28
+|base_resil     = 27
+}}
+'''Cinder Dart''' is a {{Rarity|Legendary}} fish found in [[Emberreach]].
+
+== Description ==
+{{Description|A swift fish, its long fins trailing like embers in the wind.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It streaks through the misty renewal’s glow.|Bestiary Hint}}
+{{Fish Availability|
+Emberreach/Surrounding Ocean
+|top_rods      = 
+Steady Rod\194476.55\130405.47;
+Frostfire Rod\174795.83\117208.64;
+Krampus's Rod\164107.39\138331.15;
+Magma Rod\162272.9\138331.15;
+Free Spirit Rod\130000.19\202920.9;
+Firefly Rod\112022.49\233663.39;
+Buddy Bond Rod\115167.05\217917.63;
+Long Rod\105343.84\188335.31;
+Egg Rod\98199.55\157824.09;
+Verdant Shear Rod\94395.57\151710.44;
+Trident Rod\92748.9\129755.39;
+Blazebringer Rod\92174.92\144886.81;
+Ethereal Prism Rod\64027.19\99734.5;
+Seraphic Rod\63169.77\101525.03;
+No-Life Rod\62825.08\102540.84;
+Rod Of The Exalted One\59529.67\94258.27;
+Rod Of The Forgotten Fang\59258.71\95601.68;
+Challenger's Rod\58535.46\97060.46;
+Rod Of The Depths\57574.39\93965.19;
+Volcanic Rod\55519.87\93580.9;
+Depthseeker Rod\55492.11\95134.01;
+Zeus Rod\55171.88\92994.35;
+Avalanche Rod\54848.67\94193.71
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Cinder Dart, the player has a chance to make one of the following exclamations:
+* A CINDER DART!
+* MYTHIC BLAZE!
+* ORANGE STREAKED!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Emberreach}}

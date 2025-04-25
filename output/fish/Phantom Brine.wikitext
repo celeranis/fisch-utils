@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Phantom Brine.png
+|rarity         = Legendary
+|sea            = Second Sea
+|location       = [[Azure Lagoon]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -62
+|xp             = 995
+|weather        = Foggy
+|time           = Day
+|season         = Winter
+|bait           = Mist Worms
+|base_weight    = 216
+|base_value     = 1855
+|weight_range   = 132
+|base_chance    = 28
+|base_resil     = 7
+}}
+'''Phantom Brine''' is a {{Rarity|Legendary}} fish found in the [[Azure Lagoon]].
+
+== Description ==
+{{Description|A grey-green fish with translucent fins, haunting the briny depths.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It drifts where the fog shrouds the waves.|Bestiary Hint}}
+{{Fish Availability|
+Azure Lagoon
+|top_rods      = 
+Krampus's Rod\125837.39\66749.25;
+Frostfire Rod\122872.73\65176.67;
+Magma Rod\119530\63227.8;
+Steady Rod\115400.74\61213.23;
+Free Spirit Rod\109133.76\105486.69;
+Lucky Rod\48986.14\163317.7;
+Fast Rod\72550.38\142198.76;
+Firefly Rod\69568.77\99750.24;
+Adventurer's Rod\52450.47\88634.89;
+Nocturnal Rod\26582.73\81105.14;
+Trident Rod\75640.27\67027.79;
+Verdant Shear Rod\75515.42\81589.7;
+Blazebringer Rod\74722.14\80057.35;
+Seraphic Rod\53079.45\57349.03;
+Ethereal Prism Rod\52970.03\56511.47;
+No-Life Rod\51722.39\56569.72;
+Challenger's Rod\49357.62\53911.73;
+Rod Of The Forgotten Fang\48602.83\52585.04;
+Rod Of The Exalted One\47977.78\51548.4;
+Rod Of The Depths\46179.85\50169.59;
+Depthseeker Rod\45420.8\50126.43;
+Volcanic Rod\44478.72\48838.42;
+Avalanche Rod\44217.85\48823.05;
+Zeus Rod\43943.98\48251.27
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Phantom Brine, the player has a chance to make one of the following exclamations:
+* A PHANTOM BRINE!
+* GHOSTLY GREEN!
+* BRINE SPECTER!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Azure Lagoon}}

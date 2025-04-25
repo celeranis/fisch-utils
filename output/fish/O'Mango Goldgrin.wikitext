@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = O'Mango Goldgrin.png
+|rarity         = Limited
+|sea            = First Sea
+|location       = [[Lucky Event]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -50
+|xp             = 1700
+|weather        = Rain
+|time           = 
+|season         = Spring
+|bait           = Lucky
+|base_weight    = 240
+|base_value     = 4500
+|weight_range   = 160
+|base_chance    = 5
+|base_resil     = 25
+}}
+'''O'Mango Goldgrin''' is a {{Rarity|Limited}} fish found in within the [[Lucky Event]].
+
+== Description ==
+{{Description|An orange fish sporting circular glasses, it grins through warm waters with a St. Patrick's golden glow!|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Appears randomly in Lucky Event pools, lured by a rainbow glow.|Bestiary Hint}}
+{{Fish Availability|
+Lucky Event/O'Mango Goldgrin
+|top_rods      = 
+Leviathan's Fang Rod\23101.73\53901.11;
+Free Spirit Rod\20150.14\51290.38;
+Trident Rod\19165.34\48783.67;
+Ethereal Prism Rod\18138.8\35881.31;
+Seraphic Rod\17690.33\36281.44;
+Resourceful Rod\14158.04\28691.35;
+Destiny Rod\14308.82\27972.4;
+Heaven's Rod\13272.56\30089.1;
+No-Life Rod\17574.5\38383.14;
+Plastic Rod\8732.54\23932.75;
+Adventurer's Rod\8599.36\23347.64;
+Fischer's Rod\8690.2\23834.05;
+Rod Of The Forgotten Fang\16527.38\34922.62;
+Challenger's Rod\16437.49\35855.24;
+Rod Of The Depths\14467.9\30598.76;
+Rod Of The Exalted One\14384.25\29774.07;
+Zeus Rod\14170.93\31255.97;
+Verdant Shear Rod\13913.1\30775.57;
+Blazebringer Rod\13557.22\30118.09;
+Depthseeker Rod\13203.68\30030.43;
+Avalanche Rod\11610.98\26363.16;
+Volcanic Rod\11102.34\24708.28;
+Steady Rod\4239\10066.12
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching an O'Mango Goldgrin, the player has a chance to make one of the following exclamations:
+* O'MANGO GOLDGRIN!
+* DOES IT TASTE LIKE A MANGO?
+* GOLDEN GIGGLER!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Lucky Event}}

@@ -1,0 +1,69 @@
+{{FishInfobox
+|image          = Abyssal King.png
+|rarity         = Legendary
+|sea            = First Sea
+|location       = [[Atlantis]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -65
+|xp             = 2000
+|weather        = 
+|time           = Night
+|season         = 
+|bait           = Truffle Worm
+|base_weight    = 600
+|base_value     = 4000
+|weight_range   = 300
+|base_chance    = 0.4
+|base_resil     = 20
+}}
+'''Abyssal King''' is a {{Rarity|Legendary}} fish found in [[Atlantis]].
+
+== Description ==
+{{Description|A colossal being that rules over the abyssal depths. Its authority is second only to the Kraken itself, and its movements can cause earthquakes.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|The ground trembles when it stirs, Kraken Pool.|Bestiary Hint}}
+{{Fish Availability|
+Atlantis/Ancient Kraken Hunt
+Atlantis/Kraken Hunt
+Atlantis/Kraken Pool
+|top_rods      = 
+Leviathan's Fang Rod\95516.34\143847.56;
+Free Spirit Rod\93262.78\143070.67;
+Trident Rod\86073.72\132042.22;
+Azure Of Lagoon\70742.08\111395.73;
+No-Life Rod\70597.41\104911.27;
+Frog Rod\47689.97\76900.7;
+Resourceful Rod\56072.94\87108.37;
+Carbon Rod\36706.92\63524.34;
+Buddy Bond Rod\38507.53\64184.74;
+Seraphic Rod\69198.33\100319.15;
+Ethereal Prism Rod\68129.8\98100.31;
+Challenger's Rod\66399.74\100475.27;
+Rod Of The Forgotten Fang\63636.52\94443.24;
+Zeus Rod\56619.83\83795.17;
+Verdant Shear Rod\56322.63\82852.27;
+Rod Of The Depths\55947.05\81464.4;
+Blazebringer Rod\54551.53\81469.75;
+Depthseeker Rod\53954.68\81949.93;
+Rod Of The Exalted One\53846.2\79209.37;
+Avalanche Rod\47618.27\71185.63;
+Volcanic Rod\44286.05\66287.72;
+Steady Rod\17773.8\27510.33
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching an Abyssal King, the player has a chance to make one of the following exclamations:
+* THE ABYSSAL KING!
+* RULER OF DARKNESS!
+* BOW BEFORE IT!
+* THE DEEP'S MONARCH!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Atlantis}}

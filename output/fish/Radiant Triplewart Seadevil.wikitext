@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Radiant Triplewart Seadevil.png
+|rarity         = Unusual
+|sea            = First Sea
+|location       = [[Abyssal Zenith]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 200
+|weather        = Clear
+|time           = 
+|season         = Autumn
+|bait           = Shrimp
+|base_weight    = 21
+|base_value     = 600
+|weight_range   = 11
+|base_chance    = 35
+|base_resil     = 55
+}}
+'''Radiant Triplewart Seadevil''' is an {{Rarity|Unusual}} fish found in the [[Abyssal Zenith]] of [[Mariana's Veil]].
+
+== Description ==
+{{Description|A bizarre fish with three glowing lures and a body covered in bioluminescent spots.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Prefers cool, still waters with empty skies.|Bestiary Hint}}
+{{Fish Availability|
+Mariana's Veil/Abyssal Zenith
+|top_rods      = 
+Plastic Rod\357218.08\492818.29;
+Krampus's Rod\339948.32\434167.85;
+Magma Rod\326262.49\416773.42;
+Flimsy Rod\319402.17\732187.5;
+Buddy Bond Rod\265362\477654.48;
+Fast Rod\221432.66\562842.3;
+Fischer's Rod\199506.05\507108.76;
+Adventurer's Rod\197675.72\502456.39;
+Firefly Rod\152470.26\493926.09;
+Ethereal Prism Rod\176527.74\159146.55;
+Seraphic Rod\167698.2\159562.42;
+No-Life Rod\163821.02\166986.74;
+Rod Of The Forgotten Fang\156767.61\155791;
+Trident Rod\154256.63\210322.03;
+Challenger's Rod\149892.56\155791.99;
+Free Spirit Rod\148286.87\202182.53;
+Rod Of The Depths\140419.92\147001.63;
+Rod Of The Exalted One\139904.86\149438.27;
+Zeus Rod\135858.76\144746.94;
+Verdant Shear Rod\134085.16\152023.83;
+Blazebringer Rod\130219.98\145325.47;
+Depthseeker Rod\121772.83\134296.51;
+Avalanche Rod\109837.32\121877.31;
+Volcanic Rod\105859.15\114485.62;
+Steady Rod\48777.13\42345.6
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching a Radiant Triplewart Seadevil, the player has a chance to make one of the following exclamations:
+* A Radiant Triplewart Seadevil!
+* Greater than immortal!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Abyssal Zenith}}

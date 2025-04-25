@@ -1,0 +1,66 @@
+{{FishInfobox
+|image          = X-ray Tetra.png
+|rarity         = Exotic
+|sea            = Second Sea
+|location       = [[Open Ocean]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -78
+|xp             = 2375
+|weather        = Windy
+|time           = Day
+|season         = Summer
+|bait           = Sapphire Krill
+|base_weight    = 750
+|base_value     = 4750
+|weight_range   = 450
+|base_chance    = 2
+|base_resil     = 12
+}}
+'''X-ray Tetra''' is an {{Rarity|Exotic}} fish found in the [[Open Ocean]].
+
+== Description ==
+{{Description|A transparent fish with a colorful hue inside, light blue fins, and vibrant eyes.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It glows where the winds whip the waves.|Bestiary Hint}}
+{{Fish Availability|
+Open Ocean
+Open Ocean/Sea Leviathan
+|top_rods      = 
+Free Spirit Rod\10617.91\84561;
+Egg Rod\9665.93\82712.42;
+Verdant Shear Rod\9336.71\88738.8;
+Blazebringer Rod\9061.16\78367.1;
+Great Dreamer Rod\8952.27\76758.17;
+Resourceful Rod\7821.99\66166.78;
+Fortune Rod\5614.16\53421.48;
+Frog Rod\6575.14\62565.7;
+Trident Rod\7093.36\60983.22;
+Seraphic Rod\6757.4\57823.86;
+Ethereal Prism Rod\6598.56\56415.78;
+Challenger's Rod\6390.89\54231.22;
+No-Life Rod\6306.49\53456.28;
+Rod Of The Forgotten Fang\5971.5\51047.24;
+Rod Of The Exalted One\5774.32\49606.68;
+Rod Of The Depths\5508.83\46946.69;
+Depthseeker Rod\5496.2\45806.03;
+Avalanche Rod\5257.94\43716.4;
+Volcanic Rod\5250.89\44358.79;
+Zeus Rod\5133.51\43367.22;
+Steady Rod\5004.38\38492
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a X-ray Tetra, the player has a chance to make one of the following exclamations:
+* AN X-RAY TETRA!
+* SEE-THROUGH STUNNER!
+* COLORFUL GHOST!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Open Ocean}}

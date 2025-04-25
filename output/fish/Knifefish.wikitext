@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Knifefish.png
+|rarity         = Legendary
+|sea            = Second Sea
+|location       = [[Open Ocean]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -38
+|xp             = 690
+|weather        = Foggy
+|time           = Night
+|season         = Spring
+|bait           = Lagoon Leech
+|base_weight    = 170
+|base_value     = 1380
+|weight_range   = 100
+|base_chance    = 26
+|base_resil     = 28
+}}
+'''Knifefish''' is a {{Rarity|Legendary}} fish found in the [[Open Ocean]].
+
+== Description ==
+{{Description|A metallic black fish with blue accents and fins, slicing through the water.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It cuts where the fog blinds all.|Bestiary Hint}}
+{{Fish Availability|
+Open Ocean
+Open Ocean/Sea Leviathan
+|top_rods      = 
+Steady Rod\78992.6\117740.83;
+Frostfire Rod\72295.64\112877.94;
+Krampus's Rod\63019.65\138688.96;
+Magma Rod\61292.16\140915;
+Free Spirit Rod\52457.76\113548.57;
+Fast Rod\41827.71\145018.63;
+Resourceful Rod\41676.49\144079.01;
+Candy Cane Rod\41548.66\133272.36;
+Buddy Bond Rod\32833.06\125763.57;
+Trident Rod\41265.49\79213.62;
+Verdant Shear Rod\38293.72\120943.56;
+Blazebringer Rod\36570.5\102791.65;
+No-Life Rod\28145.97\67668.58;
+Ethereal Prism Rod\25331.34\70434.32;
+Seraphic Rod\25091.35\69652.15;
+Rod Of The Exalted One\23655.77\66004.25;
+Rod Of The Forgotten Fang\23612.16\65459.41;
+Challenger's Rod\23407.91\64262.8;
+Rod Of The Depths\23038.59\63609.83;
+Volcanic Rod\22356.55\61065.8;
+Depthseeker Rod\22322.07\60196.02;
+Zeus Rod\22229.7\60719.33;
+Avalanche Rod\22086.67\59418.03
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Knifefish, the player has a chance to make one of the following exclamations:
+* A KNIFEFISH!
+* METALLIC BLADE!
+* BLUE SLASHER!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Open Ocean}}

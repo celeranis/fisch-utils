@@ -1,0 +1,66 @@
+{{FishInfobox
+|image          = Hyneria.png
+|rarity         = Unusual
+|sea            = First Sea
+|location       = [[Ancient Isle]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 120
+|weather        = Foggy
+|time           = 
+|season         = Spring
+|bait           = 
+|base_weight    = 1800
+|base_value     = 145
+|weight_range   = 800
+|base_chance    = 30
+|base_resil     = 75
+}}
+'''Hyneria''' is an {{Rarity|Unusual}} fish found in the [[Ancient Isle]].
+
+== Description ==
+{{Description|Hyneria is a giant, predatory lobe-finned fish from the Devonian, ambushing prey with powerful jaws, sharp teeth, and remarkable swimming agility.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Can be found in the waters of the Ancient Isle.|Bestiary Hint}}
+{{Fish Availability|
+Ancient Isle/Freshwater Pond
+Ancient Isle/Surrounding Ocean
+Ancient Isle/Waterfall
+|top_rods      = 
+Krampus's Rod\416388.15\662620.11;
+Magma Rod\402886.46\641134.16;
+Ethereal Prism Rod\218673.43\269244.81;
+Leviathan's Fang Rod\218460.05\323750.67;
+Seraphic Rod\211190.45\270833.7;
+Magnet Rod\144770.29\483615.84;
+Heaven's Rod\166385.48\418739.2;
+No-Life Rod\205912.14\282542.28;
+Rod Of The Forgotten Fang\198011.69\266865.94;
+Challenger's Rod\189618.33\267487.92;
+Rod Of The Depths\178566.03\244730.63;
+Rod Of The Exalted One\175340.23\232417.17;
+Trident Rod\172888\230866.36;
+Zeus Rod\171853.87\239078.79;
+Free Spirit Rod\169917.86\226900.18;
+Verdant Shear Rod\167690.64\239143.06;
+Blazebringer Rod\163031.66\226805.55;
+Depthseeker Rod\153381.14\220597.33;
+Avalanche Rod\138456\199813.66;
+Volcanic Rod\133892.85\186268.38;
+Steady Rod\57283.33\66360.53
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching a Hyneria, the player has a chance to make one of the following exclamations:
+* Ouu a Hyneria!
+* Woah, a Hyneria!
+* Hyneria!!!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ancient Isle}}

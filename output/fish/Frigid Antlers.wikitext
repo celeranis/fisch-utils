@@ -1,0 +1,65 @@
+{{FishInfobox
+|image          = Frigid Antlers.png
+|rarity         = Legendary
+|sea            = First Sea
+|location       = [[Overgrowth Caves]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -20
+|xp             = 800
+|weather        = 
+|time           = 
+|season         = Winter
+|bait           = 
+|base_weight    = 100
+|base_value     = 1200
+|weight_range   = 50
+|base_chance    = 1
+|base_resil     = 25
+}}
+'''Frigid Antlers''' is a {{Rarity|Legendary}} fish found in the [[Overgrowth Caves]].
+
+== Description ==
+{{Description|Ancient reindeer antlers preserved perfectly in magical ice, still radiating a mysterious energy.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Hidden in the deepest, coldest parts of the cave.|Bestiary Hint}}
+{{Fish Availability|
+Overgrowth Caves
+|top_rods      = 
+Leviathan's Fang Rod\67833.43\159717.31;
+Free Spirit Rod\60363\152685.03;
+Trident Rod\58659.66\148376.52;
+No-Life Rod\47248.17\107476.64;
+Ethereal Prism Rod\46317.83\96145.39;
+Resourceful Rod\34538.69\77664.04;
+Destiny Rod\36517.4\79668.02;
+Heaven's Rod\37755.85\86424.31;
+Azure Of Lagoon\38460.67\107202.67;
+Seraphic Rod\46174.85\96686.22;
+Rod Of The Forgotten Fang\43140.43\93351.89;
+Challenger's Rod\42607.21\93982.89;
+Rod Of The Depths\38993.3\84157.18;
+Zeus Rod\38637.36\85709.61;
+Verdant Shear Rod\38079.65\85108.65;
+Rod Of The Exalted One\37364.82\83447.44;
+Blazebringer Rod\36776.42\81966.17;
+Depthseeker Rod\35286.85\80397.81;
+Avalanche Rod\31706.37\72196.1;
+Volcanic Rod\30120.97\75268.32;
+Steady Rod\10411.4\27365.81
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Frigid Antlers, the player has a chance to make one of the following exclamations:
+* FROZEN ANTLERS!
+* AN ANCIENT RELIC!
+* INCREDIBLE!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Overgrowth Caves}}

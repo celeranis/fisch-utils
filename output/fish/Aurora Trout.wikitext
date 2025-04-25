@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Aurora Trout.png
+|rarity         = Mythical
+|sea            = First Sea
+|location       = [[Cryogenic Canal]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -40
+|xp             = 2000
+|weather        = Clear
+|time           = Night
+|season         = Winter
+|bait           = Truffle Worm
+|base_weight    = 400
+|base_value     = 6000
+|weight_range   = 200
+|base_chance    = 0.5
+|base_resil     = 15
+}}
+'''Aurora Trout''' is a {{Rarity|Mythical}} fish found in the [[Cryogenic Canal]].
+
+== Description ==
+{{Description|A radiant trout with iridescent scales that glow faintly, resembling the northern lights.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Only appears when the aurora shimmers above the canal.|Bestiary Hint}}
+{{Fish Availability|
+Cryogenic Canal
+|top_rods      = 
+Leviathan's Fang Rod\85807.03\218996.19;
+Free Spirit Rod\74785.49\214303;
+Trident Rod\71847.36\205883.61;
+Ethereal Prism Rod\61565.13\131385.53;
+No-Life Rod\60965.92\157622.66;
+Resourceful Rod\46381.32\105776.15;
+Destiny Rod\47919.61\103710.8;
+Heaven's Rod\45134.82\112876.02;
+Azure Of Lagoon\49490.61\162422.6;
+Fungal Rod\42341.2\130881.84;
+Antler Rod\36827.44\108256.68;
+Avalanche Rod\40204.22\102965.9;
+Seraphic Rod\60323.62\136158.08;
+Rod Of The Forgotten Fang\55801.04\129890.85;
+Challenger's Rod\55001.96\134759.56;
+Rod Of The Depths\49604.14\114769.66;
+Zeus Rod\48975.98\120195.22;
+Rod Of The Exalted One\48657.73\110001.9;
+Verdant Shear Rod\48147.64\119582.97;
+Blazebringer Rod\46787.02\115495.86;
+Depthseeker Rod\45046.41\116957.85;
+Volcanic Rod\38206.7\98414.36;
+Steady Rod\12968.45\38599.77
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching an Aurora Trout, the player has a chance to make one of the following exclamations:
+* AN AURORA TROUT!
+* LIKE THE NORTHERN LIGHTS!
+* MAGICAL!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Cryogenic Canal}}

@@ -1,0 +1,72 @@
+{{FishInfobox
+|image          = Scooty Salmon.png
+|rarity         = Limited
+|event          = Ashfall
+|sea            = First Sea
+|location       = [[Ashfall]]
+|sublocation    = 
+|sources        = Fishing Rod
+|nopassive      = 1
+|radar_location = 
+|xp             = 350
+|weather        = Windy
+|time           = 
+|season         = 
+|bait           = Seaweed
+|base_weight    = 13
+|base_value     = 750
+|weight_range   = 6
+|base_chance    = 0.005
+|base_resil     = 70
+}}
+'''Scooty Salmon''' is a {{Rarity|Limited}} fish found in [[Roslit Bay]]'s saltwater during the [[Ashfall]] event.
+
+== Description ==
+{{Description|Coated in fine soot, the Scooty Salmon exhibits extreme volcanic tolerance.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Only can be caught during Ashfall.|Bestiary Hint}}
+{{Fish Availability|
+Roslit Bay/Ashfall
+|top_rods      = 
+Flimsy Rod\58091.32\220896.58;
+Training Rod\56449.34\187245.98;
+Leviathan's Fang Rod\40850.67\251686.19;
+Ethereal Prism Rod\40799.07\218902.51;
+Seraphic Rod\39191.49\220834.75;
+Resourceful Rod\31352.55\181212.48;
+Firefly Rod\31857.53\268915.11;
+Fast Rod\29736.32\245030.33;
+Rapid Rod\34184.79\241413.31;
+No-Life Rod\38500.57\227728.29;
+Rod Of The Forgotten Fang\36713.19\217587.63;
+Challenger's Rod\35360.58\207764.2;
+Trident Rod\34534.92\215150.57;
+Free Spirit Rod\33820.06\210697.04;
+Rod Of The Depths\33033.68\194348.68;
+Rod Of The Exalted One\32599.52\189662.04;
+Zeus Rod\32244.06\194703.11;
+Verdant Shear Rod\31629.21\195181.78;
+Blazebringer Rod\30592.8\184732.11;
+Depthseeker Rod\28991.24\180248.02;
+Avalanche Rod\26182.64\163280.63;
+Volcanic Rod\25122.29\151698.9;
+Steady Rod\10651.21\52778.64
+|recommended   = Training Rod
+}}
+
+== Gameplay Notes ==
+* Scooty Salmon usually cannot be caught with passive effects, such as the one provided by the [[Rod Of The Depths]] and [[Rod Of The Forgotten Fang]].
+** The only exception is when catching a Scooty Salmon on the Megalodon Passive reel of the [[Rod Of The Forgotten Fang]], the Megalodon will instead dupe the Scooty Salmon.
+
+== Catch Quips ==
+When catching a Scooty Salmon, the player has a chance to make one of the following exclamations:
+* Woah, a Scooty Salmon!
+* Toasted!
+* Could use a rinse.
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ashfall}}

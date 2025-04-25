@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Scurvy Sailfish.png
+|rarity         = Unusual
+|sea            = First Sea
+|location       = [[Forsaken Shores]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 140
+|weather        = 
+|time           = Night
+|season         = Winter
+|bait           = Shrimp
+|base_weight    = 70
+|base_value     = 300
+|weight_range   = 55
+|base_chance    = 40
+|base_resil     = 30
+}}
+'''Scurvy Sailfish''' is an {{Rarity|Unusual}} fish found in [[Forsaken Shores]].
+
+== Description ==
+{{Description|Scurvy Sailfish are swift and skilled jumpers, often found near rocky shores. Their agility makes them hard to land.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Often found near rocky shores.|Bestiary Hint}}
+{{Fish Availability|
+Forsaken Shores/Coral Reef
+Forsaken Shores/Freshwater Pond
+Forsaken Shores/Surrounding Ocean
+|top_rods      = 
+Leviathan's Fang Rod\686207.7\507352.23;
+Trident Rod\604858.24\485061.14;
+Free Spirit Rod\567398.3\455020.45;
+No-Life Rod\445414.5\331612.92;
+Azure Of Lagoon\427073.42\331677.05;
+Krampus's Rod\367845.65\323323.67;
+Plastic Rod\317249.61\278851.48;
+Magma Rod\349168.01\306906.66;
+Fast Rod\348355.44\344567.21;
+Buddy Bond Rod\235671.14\296753.64;
+Adventurer's Rod\269790.24\294374.35;
+Fischer's Rod\276317.43\301496.31;
+Seraphic Rod\405567.73\297686.7;
+Ethereal Prism Rod\402675.53\289064.8;
+Rod Of The Forgotten Fang\399772.55\292094.48;
+Challenger's Rod\399683.68\300108.42;
+Rod Of The Depths\364296.21\267570.05;
+Zeus Rod\361547.26\271135.37;
+Verdant Shear Rod\356417.04\270305.72;
+Rod Of The Exalted One\355033.79\273575.89;
+Blazebringer Rod\344977.96\266274.2;
+Depthseeker Rod\337904.72\275086.13;
+Volcanic Rod\325617.05\255960.76;
+Avalanche Rod\318238.24\259860.78;
+Steady Rod\120148\118967.69
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Scurvy Sailfish, the player has a chance to make one of the following exclamations:
+* Yooo, is that a Sailfish?!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Forsaken Shores}}

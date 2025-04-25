@@ -1,0 +1,69 @@
+{{FishInfobox
+|image          = Cluckfin.png
+|rarity         = Limited
+|event          = Animal Hunt
+|sea            = First Sea
+|location       = [[Animals]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = +5
+|xp             = 425
+|weather        = Clear
+|time           = 
+|season         = Summer
+|bait           = Flakes
+|base_weight    = 39
+|base_value     = 250
+|weight_range   = 29.5
+|base_chance    = 100
+|base_resil     = 90
+}}
+'''Cluckfin''' is a {{Rarity|Limited}} fish found in [[Animal Hunt]]s in the [[First Sea]].
+
+== Description ==
+{{Description|A feathered fish, crowing beneath the waves.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It clucks where the summer sun dances on the waves.|Bestiary Hint}}
+{{Fish Availability|
+Animal Hunt/First Sea
+|top_rods      = 
+Flimsy Rod\307310.83\533163.27;
+Leviathan's Fang Rod\249841.75\152669.46;
+Trident Rod\234233.12\276299.95;
+Free Spirit Rod\231693.87\273304.66;
+No-Life Rod\224668.73\324863.7;
+Lucky Rod\169779.59\141738.41;
+Resourceful Rod\179493.07\199285.29;
+Tempest Rod\216878.43\296395.37;
+Challenger's Rod\210140.38\291710.19;
+Firefly Rod\198449.69\281913.72;
+Frog Rod\176239.43\221297.75;
+Plastic Rod\182147.58\201734.13;
+Ethereal Prism Rod\222162.16\47330.24;
+Seraphic Rod\220775.12\242548.16;
+Rod Of The Forgotten Fang\212029.15\247588.79;
+Rod Of The Exalted One\203453.51\170737.02;
+Rod Of The Depths\201018.49\263809.6;
+Zeus Rod\195685.53\238681.45;
+Verdant Shear Rod\194704.47\245917.26;
+Blazebringer Rod\189242.79\228603.86;
+Depthseeker Rod\184239.83\212293.54;
+Avalanche Rod\182956.92\190763.94;
+Volcanic Rod\181406.36\192638.01;
+Steady Rod\96854.48\94922.98
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Cluckfin, the player has a chance to make one of the following exclamations:
+* A Cluckfin!
+* Feathers and fins!
+* Rotisserie!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Animals}}

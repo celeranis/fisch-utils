@@ -1,0 +1,69 @@
+{{FishInfobox
+|image          = Moon Idol Sea 2.png
+|rarity         = Secret
+|sea            = Second Sea
+|location       = [[Blue Moon - Second Sea]]
+|sublocation    = 
+|sources        = Fishing Rod
+|nopassive      = 1
+|radar_location = 
+|prog_speed     = -80
+|xp             = 20000
+|weather        = 
+|time           = 
+|season         = 
+|bait           = 
+|base_weight    = 50
+|base_value     = 30000
+|weight_range   = 0
+|base_chance    = 1
+|base_resil     = 150
+}}
+'''Moon Idol Sea 2''' is a {{Rarity|Secret}} fish found in [[Blue Moon]] events at [[Lushgrove]].
+
+== Description ==
+{{Description|A moon shaped stone with an unmatched spirit...|Bestiary Entry}}
+
+== Obtainment ==
+{{Fish Availability|
+Blue Moon/Second Sea
+|top_rods      = 
+Egg Rod\518.02\9902.91;
+Verdant Shear Rod\496.93\9499.55;
+Great Dreamer Rod\489.74\9300.97;
+Blazebringer Rod\487.26\9135.9;
+Free Spirit Rod\475.4\8728.3;
+Resourceful Rod\383.78\6465.57;
+Destiny Rod\339.21\6231;
+Firefly Rod\461.62\9130.76;
+Seraphic Rod\343.79\6572.03;
+Trident Rod\342.78\6552.85;
+Ethereal Prism Rod\342.73\6366.11;
+Challenger's Rod\321.84\6323.68;
+No-Life Rod\319.19\6293.97;
+Rod Of The Exalted One\315.73\5957.57;
+Rod Of The Forgotten Fang\315.67\6054.75;
+Rod Of The Depths\305.8\5925.13;
+Depthseeker Rod\291.68\5769.35;
+Volcanic Rod\291.26\5806.27;
+Avalanche Rod\289.5\5705.97;
+Zeus Rod\287.1\5723.33;
+Steady Rod\272.4\5065.23
+|recommended   = Verdant Shear Rod
+}}
+
+== Gameplay Notes ==
+* Moon Idol Sea 2 usually cannot be caught with passive effects, such as the one provided by the [[Rod Of The Depths]] and [[Rod Of The Forgotten Fang]].
+** The only exception is when catching a Moon Idol Sea 2 on the Megalodon Passive reel of the [[Rod Of The Forgotten Fang]], the Megalodon will instead dupe the Moon Idol Sea 2.
+
+== Catch Quips ==
+When catching a Moon Idol Sea 2, the player has a chance to make one of the following exclamations:
+* A MOON IDOL!?!?!
+* CELESTIAL GREATNESS!!!
+* UNMATCHED POWERS!!!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Blue Moon - Second Sea}}

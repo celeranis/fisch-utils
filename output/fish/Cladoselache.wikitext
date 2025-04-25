@@ -1,0 +1,71 @@
+{{FishInfobox
+|image          = Cladoselache.png
+|rarity         = Common
+|sea            = First Sea
+|location       = [[Ancient Isle]]
+|sublocation    = Freshwater
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 95
+|weather        = 
+|time           = Day
+|season         = 
+|bait           = Worm
+|base_weight    = 24
+|base_value     = 90
+|weight_range   = 6
+|base_chance    = 87
+|base_resil     = 70
+}}
+'''Cladoselache''' is a {{Rarity|Common}} fish found in the [[Ancient Isle]].
+
+== Description ==
+{{Description|Cladoselache is a sleek, agile predator from the Devonian era, hunting fish and cephalopods.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Can be found in freshwater in the Ancient Isle.|Bestiary Hint}}
+{{Fish Availability|
+Ancient Isle/Freshwater Pond
+Ancient Isle/Waterfall
+|top_rods      = 
+Leviathan's Fang Rod\371978.36\0;
+Trident Rod\367750.79\22153.69;
+Rapid Rod\360834.6\40713.85;
+Free Spirit Rod\360138.49\22098.51;
+Fungal Rod\352423.85\31207.7;
+Wildflower Rod\343587.32\31126.87;
+Long Rod\327037.28\33096.17;
+Plastic Rod\257484.77\27050.8;
+Nocturnal Rod\168210.07\142696.91;
+Frog Rod\333609.79\38102.75;
+Firefly Rod\348771.77\37667.16;
+Fast Rod\351175.4\34955.77;
+No-Life Rod\346399.65\33476.92;
+Challenger's Rod\319159.99\28595.64;
+Zeus Rod\313465.25\29535.49;
+Blazebringer Rod\310521.99\28245.73;
+Depthseeker Rod\310333.48\26580.7;
+Verdant Shear Rod\308981.09\28363.8;
+Avalanche Rod\305678.92\24688.71;
+Seraphic Rod\305103.71\31217.72;
+Rod Of The Forgotten Fang\302078.09\28508.74;
+Rod Of The Depths\301745.04\25897.46;
+Volcanic Rod\301054.85\26903.29;
+Ethereal Prism Rod\297267.86\0;
+Rod Of The Exalted One\291909.4\0;
+Steady Rod\161767.58\13472.84
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Cladoselache, the player has a chance to make one of the following exclamations:
+* A Cladoselache!
+* I caught a Cladoselache!
+* Woah! A Cladoselache!
+* Ouu! A Cladoselache!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ancient Isle}}

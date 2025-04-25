@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Bluegill.png
+|rarity         = Common
+|sea            = First Sea
+|location       = [[Snowcap Island]]
+|sublocation    = Saltwater
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 90
+|weather        = Clear
+|time           = 
+|season         = Summer, Spring
+|bait           = Insect
+|base_weight    = 0.6
+|base_value     = 60
+|weight_range   = 0.5
+|base_chance    = 85
+|base_resil     = 90
+}}
+'''Bluegill''' is a {{Rarity|Common}} fish found in [[Snowcap Island]].
+
+== Description ==
+{{Description|A small, round freshwater fish with bright blue and orange hues, easily recognized by its distinct gill spot. It can be found all over the waters of Snowcap.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in saltwater’s near Snowcap.|Bestiary Hint}}
+{{Fish Availability|
+Snowcap Island/Surrounding Ocean
+|top_rods      = 
+Leviathan's Fang Rod\103392.12\57688.74;
+Trident Rod\101062.6\59067.73;
+Free Spirit Rod\100027.08\58995.38;
+Azure Of Lagoon\96466.95\80565.98;
+No-Life Rod\95702.38\84837.84;
+Flimsy Rod\58987.48\58987.48;
+Training Rod\78777.2\78777.2;
+Plastic Rod\60520.09\54114.52;
+Fast Rod\85825.06\85279.94;
+Seraphic Rod\88843.16\84503.86;
+Tempest Rod\89576.89\81526.27;
+Poseidon Rod\87012.75\64484.42;
+Challenger's Rod\89882.13\77347.44;
+Zeus Rod\88076.41\72124.15;
+Rod Of The Forgotten Fang\88019.35\77163.9;
+Rod Of The Depths\87736.75\70298.15;
+Blazebringer Rod\86697.08\69035.59;
+Verdant Shear Rod\86615.05\72309.56;
+Rod Of The Exalted One\85849.74\59354.24;
+Depthseeker Rod\85796.48\70678.53;
+Ethereal Prism Rod\85131.09\21202.11;
+Avalanche Rod\85011.99\69952.14;
+Volcanic Rod\84163.72\67018.32;
+Steady Rod\43861.53\36680.44
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Bluegill, the player has a chance to make one of the following exclamations:
+* A Bluegill!
+* But I pinked the Red Pill!
+* I caught a Bluegill!!
+* Lovely, a Bluegill!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Snowcap Island}}

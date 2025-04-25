@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Midnight Axolotl.png
+|rarity         = Legendary
+|sea            = First Sea
+|location       = [[Desolate Deep]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -70
+|xp             = 550
+|weather        = 
+|time           = Night
+|season         = Spring, Autumn
+|bait           = Insect
+|base_weight    = 3
+|base_value     = 1100
+|weight_range   = 2
+|base_chance    = 0.15
+|base_resil     = 50
+}}
+'''Midnight Axolotl''' is a {{Rarity|Legendary}} fish found in the [[Desolate Deep]].
+
+== Description ==
+{{Description|The Midnight Axolotl is a variant of Axolotl that has adapted to the Desolate Deep. Midnight Axolotls are known for their adorable looks and giant size compared to regular Axolotls. They are most commonly seen at night while other fish sleep. It has been theorized that the glowing gills on the sides of their head have evolved, allowing them to use echolocation to see predators in even the darkest waters. Despite being on the lower end of the food chain, they use their agility and abilities to hide within the Desolate Deep. It is currently unknown how many Midnight Axolotls are residing there|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Hangs out near the deepest parts of the Desolate Deep during the Night.|Bestiary Hint}}
+{{Fish Availability|
+Desolate Deep/Desolate Pocket
+|top_rods      = 
+Leviathan's Fang Rod\6033.53\35034.04;
+Ethereal Prism Rod\5656.09\31794.07;
+Seraphic Rod\5653.23\31964.6;
+No-Life Rod\5593.21\31838.44;
+Tempest Rod\5509.97\31290.97;
+Training Rod\5164.85\27251.16;
+Flimsy Rod\4794.85\26319.27;
+Resourceful Rod\4129.95\23392.07;
+Free Spirit Rod\5489.02\31838.43;
+Lucky Rod\2999.95\18636.26;
+Trident Rod\5334.06\30939.61;
+Challenger's Rod\5246.56\29841.39;
+Rod Of The Forgotten Fang\5176.77\29291.05;
+Rod Of The Depths\4597.43\26069.46;
+Zeus Rod\4560.31\26023.28;
+Verdant Shear Rod\4522.42\25874.86;
+Rod Of The Exalted One\4461.73\25159.69;
+Blazebringer Rod\4388.47\25042.7;
+Depthseeker Rod\4260.82\24400.32;
+Avalanche Rod\3799.45\21766.21;
+Volcanic Rod\3570.49\20374.92;
+Steady Rod\1413.11\8138.72
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching a Midnight Axolotl, the player has a chance to make one of the following exclamations:
+* This an Axolotl..
+* Midnight Axolotl!
+* It's so cute!
+* That's a big axolotl!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Desolate Deep}}

@@ -1,0 +1,62 @@
+{{FishInfobox
+|image          = Destroyed Fossil.png
+|rarity         = Trash
+|sea            = First Sea
+|location       = [[The Depths]]
+|sublocation    = 
+|sources        = Crab Cage, Fishing Rod
+|radar_location = 
+|xp             = 20
+|weather        = 
+|time           = Day
+|season         = 
+|bait           = 
+|base_weight    = 4.5
+|base_value     = 35
+|weight_range   = 3.5
+|base_chance    = 35
+|base_resil     = 100
+}}
+'''Destroyed Fossil''' is a {{Rarity|Trash}} fish found in [[The Depths]].
+
+== Description ==
+{{Description|A Destroyed Fossil... How much would this sell for?|Bestiary Entry}}
+
+== Obtainment ==
+{{Fish Availability|
+The Depths
+The Depths/Absolute Darkness
+|top_rods      = 
+Ethereal Prism Rod\226988.6\17439.35;
+Leviathan's Fang Rod\211222.67\11209.89;
+Fast Rod\201225.78\8379.54;
+No-Life Rod\199020.93\8286.94;
+Seraphic Rod\198237.45\8254.32;
+Training Rod\189438.73\31073.95;
+Fortune Rod\126129.7\10601.35;
+Nocturnal Rod\35390.34\28122.38;
+Challenger's Rod\181449.22\7555.28;
+Rod Of The Forgotten Fang\181018.67\7537.35;
+Verdant Shear Rod\169630.86\7063.18;
+Zeus Rod\169195.91\7045.07;
+Rod Of The Exalted One\165048.01\7893.15;
+Rod Of The Depths\164912.3\6866.71;
+Blazebringer Rod\159758.79\6652.12;
+Depthseeker Rod\154763.45\6444.12;
+Avalanche Rod\139144.75\5793.78;
+Free Spirit Rod\138397.15\5762.65;
+Trident Rod\137764.5\5736.31;
+Volcanic Rod\128508.23\5350.89;
+Steady Rod\84416.06\2509.8
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching a Destroyed Fossil, the player has a chance to make one of the following exclamations:
+* Oh... A Destroyed Fossil?
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|The Depths}}

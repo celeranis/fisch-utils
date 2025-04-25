@@ -1,0 +1,65 @@
+{{FishInfobox
+|image          = Spiderfish.png
+|rarity         = Common
+|sea            = First Sea
+|location       = [[Vertigo]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 20
+|weather        = 
+|time           = 
+|season         = Winter
+|bait           = 
+|base_weight    = 1
+|base_value     = 30
+|weight_range   = 0.7
+|base_chance    = 90
+|base_resil     = 90
+}}
+'''Spiderfish''' is a {{Rarity|Common}} fish found in [[Vertigo]].
+
+== Description ==
+{{Description|The Spiderfish is a rare void fish, caught only in Vertigos calm waters. They are schooling fish and are a common prey of Vertigos vicious predators.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found commonly in Vertigo.|Bestiary Hint}}
+{{Fish Availability|
+Vertigo/Vertigos Dip
+|top_rods      = 
+Training Rod\501698.3\501698.3;
+Leviathan's Fang Rod\312153.36\151013.99;
+Trident Rod\298895.22\178116.1;
+No-Life Rod\295979.29\255824.71;
+Free Spirit Rod\295832.64\177897.93;
+Flimsy Rod\269499.54\257218.14;
+The Lost Rod\245894.99\184819.18;
+Fast Rod\257098.03\257098.03;
+Seraphic Rod\278057.69\254817.61;
+Long Rod\220437.46\155603.59;
+Ethereal Prism Rod\273622.4\39276.08;
+Challenger's Rod\265350.86\233237.75;
+Rod Of The Forgotten Fang\261429.19\232684.31;
+Rod Of The Exalted One\257269.86\165569.59;
+Rod Of The Depths\257028.49\211980.93;
+Zeus Rod\256524.49\217487.15;
+Blazebringer Rod\251659.52\205356.52;
+Verdant Shear Rod\248092.48\218046.24;
+Volcanic Rod\239594.1\176793.26;
+Depthseeker Rod\239508.21\198935.43;
+Avalanche Rod\237914.32\178858.91;
+Steady Rod\128665.05\95050.86
+|recommended   = Training Rod
+}}
+
+== Catch Quips ==
+When catching a Spiderfish, the player has a chance to make one of the following exclamations:
+* I caught a Spiderfish!
+* Ouu! A Spiderfish!
+* A Spiderfish!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Vertigo}}

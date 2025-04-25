@@ -1,0 +1,70 @@
+{{FishInfobox
+|image          = Red Tang.png
+|rarity         = Uncommon
+|sea            = First Sea
+|location       = [[Sunstone Island]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 90
+|weather        = 
+|time           = 
+|season         = Spring, Summer
+|bait           = Flakes
+|base_weight    = 1.5
+|base_value     = 100
+|weight_range   = 1.2
+|base_chance    = 55
+|base_resil     = 65
+}}
+'''Red Tang''' is an {{Rarity|Uncommon}} fish found in [[Sunstone Island]].
+
+== Description ==
+{{Description|The Red Tang is a relatively common catch within Sunstone Island. Very similar to other Tangs such as the Blue Tang, just red!|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in Sunstone Island.|Bestiary Hint}}
+{{Fish Availability|
+Sunstone Island
+|top_rods      = 
+Ethereal Prism Rod\127068.33\200028.87;
+Champions Rod\123714.43\88209.39;
+Summit Rod\123445.45\88186.65;
+Celestial Rod\122528.12\91100.19;
+Depthseeker Rod\122320.23\94035.32;
+Training Rod\114708.89\132971.47;
+Flimsy Rod\89722.07\84131.26;
+Leviathan's Fang Rod\120069.91\134517.73;
+Kraken Rod\100149.41\122768.67;
+No-Life Rod\121597.57\121597.57;
+Fortune Rod\67801.51\99434.5;
+Avalanche Rod\120761.45\84288.37;
+Seraphic Rod\120497.52\120497.52;
+Verdant Shear Rod\120140.88\102701.49;
+Trident Rod\115305.15\85918.8;
+Free Spirit Rod\112401.48\85667.47;
+Blazebringer Rod\111166.08\96878.83;
+Challenger's Rod\110358.55\110358.55;
+Zeus Rod\110344.66\102642.67;
+Rod Of The Forgotten Fang\110008.66\110008.66;
+Volcanic Rod\107727.37\77896.71;
+Rod Of The Depths\99897.33\99897.33;
+Rod Of The Exalted One\94457.08\98295.79;
+Steady Rod\60191.03\44635.63
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching a Red Tang, the player has a chance to make one of the following exclamations:
+* Ouu a Red Tang!
+* Woah, a Red Tang!
+* A Red Tang!
+* I caught a Red Tang!
+* I caught a Red Tang!
+* Found her!.. But red!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Sunstone Island}}

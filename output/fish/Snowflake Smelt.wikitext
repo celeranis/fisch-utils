@@ -1,0 +1,66 @@
+{{FishInfobox
+|image          = Snowflake Smelt.png
+|rarity         = Uncommon
+|sea            = First Sea
+|location       = [[Cryogenic Canal]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 95
+|weather        = 
+|time           = Day
+|season         = Winter
+|bait           = Flakes
+|base_weight    = 2
+|base_value     = 180
+|weight_range   = 1
+|base_chance    = 60
+|base_resil     = 65
+}}
+'''Snowflake Smelt''' is an {{Rarity|Uncommon}} fish found in the [[Cryogenic Canal]].
+
+== Description ==
+{{Description|Slender fish with shimmering, iridescent scales resembling snowflakes/falling snow.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Active during snowfall in the canal.|Bestiary Hint}}
+{{Fish Availability|
+Cryogenic Canal
+|top_rods      = 
+Trident Rod\171722.83\20033.29;
+Azure Of Lagoon\168237.81\19494.31;
+Free Spirit Rod\167398.42\19974.69;
+Leviathan's Fang Rod\167354.63\27503.81;
+No-Life Rod\165750.68\28352.35;
+Training Rod\155092.59\39155.71;
+Flimsy Rod\107640.02\22404.26;
+Resourceful Rod\151580.91\19168.9;
+Nocturnal Rod\115238.8\84075.39;
+Firefly Rod\156741.58\36110.92;
+Seraphic Rod\143145.36\28095.86;
+Depthseeker Rod\158515.86\21925.79;
+Verdant Shear Rod\156801.31\23946.44;
+Avalanche Rod\156093.51\19653.13;
+Blazebringer Rod\155098.58\22588.79;
+Zeus Rod\153952.53\23932.72;
+Challenger's Rod\151058.92\25731.8;
+Volcanic Rod\150300.9\18162.82;
+Rod Of The Depths\140677.16\23292.6;
+Ethereal Prism Rod\139564.88\0;
+Rod Of The Forgotten Fang\138797.45\25650.22;
+Rod Of The Exalted One\130233.93\21881.7;
+Steady Rod\73276.82\9970.84
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Snowflake Smelt, the player has a chance to make one of the following exclamations:
+* Like catching a snowflake!
+* A Snowflake Smelt!
+* So pretty!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Cryogenic Canal}}

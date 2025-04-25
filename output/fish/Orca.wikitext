@@ -1,0 +1,66 @@
+{{FishInfobox
+|image          = Orca.png
+|rarity         = Exotic
+|sea            = First Sea
+|location       = [[Ocean]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = +20
+|xp             = 8000
+|weather        = 
+|time           = 
+|season         = 
+|bait           = Shark Head
+|base_weight    = 1500
+|base_value     = 12000
+|weight_range   = 500
+|base_chance    = 10
+|base_resil     = 4
+}}
+'''Orca''' is an {{Rarity|Exotic}} fish found in the [[Ocean]].
+
+== Description ==
+{{Description|Orcas tend to migrate from time to time.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Search the ocean for migrating orcas|Bestiary Hint}}
+{{Fish Availability|
+Orca Migration/Normal
+|top_rods      = 
+Leviathan's Fang Rod\39283.83\54155.89;
+Free Spirit Rod\33888.38\50594.35;
+Trident Rod\33276.75\49681.21;
+Krampus's Rod\31827.66\38743.9;
+Magma Rod\31011.57\37750.46;
+Resourceful Rod\19939.8\25591.32;
+No-Life Rod\26853.21\40076.74;
+Ethereal Prism Rod\26168.96\33287.35;
+Seraphic Rod\25466.2\33790.57;
+Rod Of The Forgotten Fang\23796.16\30653.17;
+Challenger's Rod\23224.04\31376.12;
+Rod Of The Depths\21344.81\27390.18;
+Zeus Rod\21142.94\27970.12;
+Rod Of The Exalted One\20888.95\26746.98;
+Verdant Shear Rod\20788.47\27639.83;
+Blazebringer Rod\20087.52\26476.98;
+Depthseeker Rod\19256.61\25877.93;
+Avalanche Rod\17291.17\23108.66;
+Volcanic Rod\16464.56\21896.74;
+Steady Rod\6241.53\8349.45
+|recommended   = Trident Rod
+}}
+
+== Gameplay Notes ==
+* The Orca Progress Speed penalty cannot be reduced with the {{Enchantment|Steady}} [[Enchantment]] or the {{Item|Tempest Rod}} passive ability.
+
+== Catch Quips ==
+When catching an Orca, the player has a chance to make one of the following exclamations:
+* ORCA! IMPOSSIBLE!
+* The tide bows to its eternal majesty!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ocean}}

@@ -1,0 +1,69 @@
+{{FishInfobox
+|image          = Murkfin.png
+|rarity         = Common
+|sea            = Second Sea
+|location       = [[Azure Lagoon]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -20
+|xp             = 25
+|weather        = Foggy
+|time           = Day
+|season         = Autumn
+|bait           = Worm
+|base_weight    = 45
+|base_value     = 45
+|weight_range   = 27
+|base_chance    = 120
+|base_resil     = 55
+}}
+'''Murkfin''' is a {{Rarity|Common}} fish found in the [[Azure Lagoon]].
+
+== Description ==
+{{Description|A swamp-colored fish with blue fins, lurking in murky shallows.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It thrives where the sun barely pierces the mire.|Bestiary Hint}}
+{{Fish Availability|
+Azure Lagoon
+|top_rods      = 
+Free Spirit Rod\382944.59\0;
+Azure Of Lagoon\313906.13\31046.92;
+Leviathan's Fang Rod\310611.11\29821.39;
+Trident Rod\309968.6\30774.84;
+Egg Rod\300566.91\33772.15;
+Plastic Rod\287066.2\23808.75;
+Fischer's Rod\285181\23545.94;
+Candy Cane Rod\282132.56\25519.72;
+Nocturnal Rod\130209.64\141146.43;
+Firefly Rod\293351.17\38375.56;
+Verdant Shear Rod\290507.78\32524.43;
+Lucky Rod\219525.01\30091.07;
+Blazebringer Rod\278607.67\30496.47;
+No-Life Rod\246974.48\23390.35;
+Ethereal Prism Rod\233350.22\22326.2;
+Seraphic Rod\233286.83\23161.59;
+Challenger's Rod\221707.16\20875.77;
+Rod Of The Forgotten Fang\220765.08\21790.3;
+Rod Of The Exalted One\218657.29\21209.52;
+Depthseeker Rod\218298.08\21461.01;
+Steady Rod\214417.99\18353.09;
+Avalanche Rod\214161.68\21079.19;
+Rod Of The Depths\212580.45\20051.58;
+Volcanic Rod\212383.49\20421.84;
+Zeus Rod\211096.32\20298.07
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Murkfin, the player has a chance to make one of the following exclamations:
+* A Murkfin!
+* Swampy swimmer!
+* Blue-finned muck!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Azure Lagoon}}

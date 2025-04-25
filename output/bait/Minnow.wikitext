@@ -1,0 +1,30 @@
+{{BaitInfobox
+|name           = Minnow
+|image          = Bait Minnow.png
+|rarity         = Unusual
+|crates         = Bait Crate/0.34, Common Crate/0.18, Coral Geode/0.09, Volcanic Geode/0.12
+|angler_quests  = <!--TBD-->
+|pref_luck      = 65
+|univ_luck      = 
+|resilience     = -10
+|lure           = 
+|ability        = 
+}}
+'''Minnow''' is an {{Rarity|Unusual}} [[Bait]] that can be used in fishing.
+
+== Obtainment ==
+Minnows can be obtained in the following ways:
+* {{Item|Bait Crate}} (0.34/crate on average)
+* {{Item|Common Crate}} (0.18/crate on average)
+* {{Item|Coral Geode}} (0.09/crate on average)
+* {{Item|Volcanic Geode}} (0.12/crate on average)
+<!--* [[Angler]] Quests, starting from the ?th completion-->
+
+== Favoring Fish ==
+{{Fish by Category Table|Minnow-Loving Fish|event=1|show_location=1|hide_bait=1|resultsheader='''%PAGES%''' [[Fish]] prefer Minnows:|noresultsheader=No fish prefer Minnows.}}
+
+== Change History ==
+{{Change History|1.0}}
+
+== Navigation ==
+{{Bait Navbox}}

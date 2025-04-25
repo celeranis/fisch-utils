@@ -1,0 +1,66 @@
+{{FishInfobox
+|image          = Frigid Mammoth Tusk.png
+|rarity         = Mythical
+|sea            = First Sea
+|location       = [[Frigid Cavern]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -40
+|xp             = 1200
+|weather        = 
+|time           = 
+|season         = Winter
+|bait           = 
+|base_weight    = 500
+|base_value     = 3000
+|weight_range   = 250
+|base_chance    = 0.05
+|base_resil     = 15
+}}
+'''Frigid Mammoth Tusk''' is a {{Rarity|Mythical}} fish found in the [[Frigid Cavern]].
+
+== Description ==
+{{Description|A massive mammoth tusk perfectly preserved in ancient ice, still emanating prehistoric power.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Hidden in the oldest, deepest part of the frozen cavern.|Bestiary Hint}}
+{{Fish Availability|
+Frigid Cavern
+|top_rods      = 
+Leviathan's Fang Rod\81205.44\261262.41;
+Free Spirit Rod\73906.35\256609.94;
+Trident Rod\71002.77\246528.42;
+No-Life Rod\57500.82\182648.54;
+Seraphic Rod\55924.41\160897.48;
+Resourceful Rod\41304.56\125498.45;
+Destiny Rod\42882.7\122955.64;
+Heaven's Rod\43366.41\134083.16;
+Azure Of Lagoon\50303.06\183703.37;
+The Lost Rod\40097.43\122856.15;
+Volcanic Rod\36152.16\110942.86;
+Zeus Rod\46342.32\140377.49;
+Ethereal Prism Rod\55689.84\156346.1;
+Rod Of The Forgotten Fang\51883.95\155229.96;
+Challenger's Rod\51821.95\161852.27;
+Rod Of The Depths\46543.99\137427.08;
+Verdant Shear Rod\45715.76\139530.21;
+Rod Of The Exalted One\44601.5\131092.74;
+Blazebringer Rod\44271.07\134888.45;
+Depthseeker Rod\42822.45\135010.74;
+Avalanche Rod\38237.92\119530.36;
+Steady Rod\12916.94\46322.56
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Frigid Mammoth Tusk, the player has a chance to make one of the following exclamations:
+* A MAMMOTH TUSK!
+* ICE AGE RELIC!
+* PREHISTORIC TREASURE!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Frigid Cavern}}

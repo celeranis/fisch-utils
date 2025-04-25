@@ -1,0 +1,137 @@
+{{FishInfobox
+|image          = Bait Crate.png
+|rarity         = Uncommon
+|sea            = First Sea
+|location       = [[Regionless]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 40
+|weather        = 
+|time           = 
+|season         = 
+|bait           = Magnet
+|base_weight    = 8
+|base_value     = 75
+|weight_range   = 0
+|base_chance    = 15
+|base_resil     = 120
+}}
+'''Bait Crate''' is an {{Rarity|Uncommon}} fish found in [[Regionless]].
+
+== Description ==
+{{Description|A wooden crate with fabric over top to preserve the bait inside. Seemingly lost from a fishing boat of some kind. The bait is still alive and fresh. Therefore, finders keepers?- Opening it might give you an array of common and rare baits!|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Fallen off of a fishing boat.|Bestiary Hint}}
+{{Fish Availability|
+Ancient Archives
+Ancient Isle/Algae Hunt
+Ancient Isle/Surrounding Ocean
+Atlantis/Ancient Kraken Hunt
+Atlantis/Ethereal Abyss
+Atlantis/Kraken Hunt
+Atlantis/Kraken Pool
+Atlantis/Poseidon Temple
+Atlantis/Sunken Depths
+Atlantis/Surrounding Ocean
+Atlantis/Zeus's Rod Room
+Cryogenic Canal
+FischFright/Frightful Pool
+Forsaken Shores/Algae Hunt
+Forsaken Shores/Coral Reef
+Forsaken Shores/Freshwater Pond
+Forsaken Shores/Surrounding Ocean
+Frigid Cavern
+Glacial Grotto
+Golden Tide
+Grand Reef
+Lovestorm/Normal
+Lovestorm/Supercharged
+Lucky Event/Blarney McBreeze
+Lucky Event/O'Mango Goldgrin
+Lucky Event/Plumrick O'Luck
+Lucky Event/Rowdy McCharm
+Lucky Event/Sunny O'Coin
+Megalodon Hunt/Eclipse and Weekend
+Megalodon Hunt/Normal
+Moosewood/Docks
+Moosewood/Seaweed and Mini-Island
+Moosewood/Surrounding Ocean
+Mushgrove Swamp
+Mushgrove Swamp/Algae Hunt
+Northern Summit/Surrounding Ocean
+Ocean
+Ocean/Deep Ocean
+Ocean/Harvesters Spike
+Ocean/Strange Whirlpool
+Ocean/The Arch
+Orca Migration/Ancient
+Orca Migration/Normal
+Overgrowth Caves
+Snowcap Island/Algae Hunt
+Snowcap Island/Surrounding Ocean
+Sunstone Island/Crate Cave
+Vertigo/Vertigos Dip
+Whale Migration/Moby
+Whale Migration/Normal
+|top_rods      = 
+Magnet Rod\367887.04\370943.05;
+Krampus's Rod\279427.51\210123.43;
+Training Rod\279048.37\289478.26;
+Magma Rod\271624.07\204255.41;
+Plastic Rod\249051.22\186771.75;
+Flimsy Rod\246978.13\370006.05;
+Leviathan's Fang Rod\200800.15\320864.32;
+No-Life Rod\191349.51\295080.7;
+Ethereal Prism Rod\176788.75\291341.42;
+Trident Rod\193761.92\243673;
+Free Spirit Rod\192986.97\242698.44;
+Challenger's Rod\182218.36\281092.77;
+Zeus Rod\181528.51\263115.24;
+Verdant Shear Rod\180504.13\261934.36;
+Blazebringer Rod\179024.98\250548.65;
+Seraphic Rod\178723.07\287341.58;
+Rod Of The Depths\177687.07\259297.03;
+Rod Of The Forgotten Fang\177499.52\281924.65;
+Rod Of The Exalted One\174472.81\263250.52;
+Volcanic Rod\173988.1\208256.55;
+Depthseeker Rod\172954.99\236194.08;
+Avalanche Rod\170848.36\214438.84;
+Steady Rod\59783.76\69721.81
+|recommended   = Magnet Rod
+}}
+
+== Contents ==
+Opening a Bait Crate will yield at least one of the following:
+* [[Bait#Garbage|Garbage]]
+* [[Bait#Shrimp|Shrimp]]
+* [[Bait#Seaweed|Seaweed]]
+* [[Bait#Bagel|Bagel]]
+* [[Bait#Squid|Squid]]
+* [[Bait#Magnet|Magnet]]
+* [[Bait#Worm|Worm]]
+* [[Bait#Minnow|Minnow]]
+* [[Bait#Flakes|Flakes]]
+* [[Bait#Insect|Insect]]
+* [[Bait#Fish Head|Fish Head]]
+* [[Bait#Rapid Catcher|Rapid Catcher]]
+* [[Bait#Instant Catcher|Instant Catcher]]
+* [[Bait#Super Flakes|Super Flakes]]
+* [[Bait#Maggot|Maggot]]
+
+== Catch Quips ==
+When catching a Bait Crate, the player has a chance to make one of the following exclamations:
+* A Crate of Bait!
+* A Bait Crate!
+* Woah! A Crate!
+* A Crate!
+* Who left this here?
+* Oh, the shrimps still moving?
+* A Crate full of Bait!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Regionless}}

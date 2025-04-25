@@ -1,0 +1,62 @@
+{{FishInfobox
+|image          = Coral Guard.png
+|rarity         = Uncommon
+|sea            = First Sea
+|location       = [[Grand Reef]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 180
+|weather        = 
+|time           = 
+|season         = 
+|bait           = Shrimp
+|base_weight    = 9
+|base_value     = 250
+|weight_range   = 5
+|base_chance    = 20
+|base_resil     = 70
+}}
+'''Coral Guard''' is an {{Rarity|Uncommon}} fish found in the [[Grand Reef]].
+
+== Description ==
+{{Description|A territorial reef fish with sharp spines along its body. Named for their protective behavior, they chase away anything that threatens their chosen coral home.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found guarding specific coral territories.|Bestiary Hint}}
+{{Fish Availability|
+Grand Reef
+|top_rods      = 
+Krampus's Rod\155443.83\164684.42;
+Magma Rod\150211.1\159140.62;
+Plastic Rod\137192.73\145348.36;
+Leviathan's Fang Rod\122774.97\112937.87;
+Ethereal Prism Rod\115312.86\92494.21;
+Fast Rod\114064.42\166359.8;
+Fischer's Rod\101302.11\147746.31;
+Adventurer's Rod\100622.23\146754.72;
+Flimsy Rod\83590.01\121288.49;
+No-Life Rod\112692.24\95727.93;
+Seraphic Rod\112623.03\92730.54;
+Trident Rod\110171.84\107110.13;
+Free Spirit Rod\107891.33\104892.99;
+Rod Of The Forgotten Fang\105706.79\90488.19;
+Challenger's Rod\103279.07\90294.92;
+Rod Of The Depths\95682.89\86056.82;
+Zeus Rod\95007.23\84041.72;
+Verdant Shear Rod\93843.42\83754.18;
+Rod Of The Exalted One\92973.33\87199.33;
+Blazebringer Rod\90141.79\80293.48;
+Depthseeker Rod\86221.63\77747.51;
+Avalanche Rod\77943.72\70660.48;
+Volcanic Rod\76102.56\67843.55;
+Training Rod\64615.38\98070.86;
+Steady Rod\32545.63\26191.63
+|recommended   = Ethereal Prism Rod
+}}
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Grand Reef}}

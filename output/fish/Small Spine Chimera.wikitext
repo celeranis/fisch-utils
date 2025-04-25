@@ -1,0 +1,65 @@
+{{FishInfobox
+|image          = Small Spine Chimera.png
+|rarity         = Legendary
+|sea            = First Sea
+|location       = [[The Depths]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -10
+|xp             = 300
+|weather        = 
+|time           = Day
+|season         = Spring, Summer
+|bait           = Seaweed
+|base_weight    = 150
+|base_value     = 1200
+|weight_range   = 70
+|base_chance    = 0.2
+|base_resil     = 10
+}}
+'''Small Spine Chimera''' is a {{Rarity|Legendary}} fish found in [[The Depths]].
+
+== Description ==
+{{Description|A large, intimidating fish with spiny fins, sharp teeth, and a menacing, serpent-like body. The Chimera uses its pickaxe-like bill to strike targets, knocking them out or possible penetrating them entirely in two pieces.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Roams the deep ocean, patrolling sunken ruins and underwater trenches.|Bestiary Hint}}
+{{Fish Availability|
+The Depths
+The Depths/Absolute Darkness
+|top_rods      = 
+Leviathan's Fang Rod\94973.71\150775.14;
+Free Spirit Rod\82944.16\123150.41;
+Trident Rod\80892.62\120104.41;
+No-Life Rod\65110.28\103949.67;
+Seraphic Rod\57243.77\88862.78;
+Lucky Rod\39076.96\60491.11;
+Firefly Rod\52172.73\86877.72;
+Candy Cane Rod\33765.02\56401.45;
+Adventurer's Rod\33932.2\56969.4;
+Fischer's Rod\34167.84\57365.02;
+Ethereal Prism Rod\57103.6\88713.46;
+Challenger's Rod\54821.55\87657.04;
+Rod Of The Forgotten Fang\54604.44\86463.33;
+Zeus Rod\49581.38\77278.47;
+Verdant Shear Rod\49012.01\77154.11;
+Rod Of The Depths\48734.35\77471.88;
+Blazebringer Rod\47398.85\73549.75;
+Rod Of The Exalted One\47211.89\74320.39;
+Depthseeker Rod\46024.4\72049.81;
+Avalanche Rod\41052.92\64726.3;
+Volcanic Rod\39143.19\60490.8;
+Steady Rod\13637.1\21678.59
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Small Spine Chimera, the player has a chance to make one of the following exclamations:
+* Woah, a small spine chimera!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|The Depths}}

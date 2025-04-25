@@ -1,0 +1,66 @@
+{{FishInfobox
+|image          = Profane Ray.png
+|rarity         = Limited
+|event          = Cults Curse
+|sea            = First Sea
+|location       = [[Cults Curse]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -70
+|xp             = 1550
+|weather        = 
+|time           = 
+|season         = 
+|bait           = 
+|base_weight    = 280
+|base_value     = 4500
+|weight_range   = 160
+|base_chance    = 15
+|base_resil     = 20
+}}
+'''Profane Ray''' is a {{Rarity|Limited}} fish found in [[Cults Curse]] during the [[Cults Curse]] event.
+
+== Description ==
+{{Description|Displaying an unholy glow, the Profane Ray glides, with wings casting silhouettes that profane the silence.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Can only be caught in the Cursed Pool.|Bestiary Hint}}
+{{Fish Availability|
+Cults Curse
+|top_rods      = 
+Leviathan's Fang Rod\151348.79\138292.92;
+Free Spirit Rod\150891.3\136701.3;
+Trident Rod\136488.8\123653.23;
+Azure Of Lagoon\119325.05\106656.22;
+No-Life Rod\116244.1\111588.75;
+Buddy Bond Rod\64616.62\64102.61;
+Lucky Rod\68384.3\68562.25;
+Long Rod\78473.89\78315.22;
+Seraphic Rod\114406.2\112762.61;
+Ethereal Prism Rod\111854.57\110222.5;
+Challenger's Rod\111663.86\103676.47;
+Rod Of The Forgotten Fang\104934.9\99264.71;
+Zeus Rod\92604.71\88103.99;
+Verdant Shear Rod\92215.37\87742.91;
+Rod Of The Depths\91346.95\86659.66;
+Depthseeker Rod\89851.51\83840.11;
+Blazebringer Rod\89568.49\84759.64;
+Rod Of The Exalted One\87865.87\82720.59;
+Avalanche Rod\78265.14\73119.09;
+Volcanic Rod\72512.08\67196;
+Steady Rod\37811.43\27936.17
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Profane Ray, the player has a chance to make one of the following exclamations:
+* A Profane Ray!
+* Cursed!
+* A sin with fins!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Cults Curse}}

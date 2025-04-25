@@ -1,0 +1,76 @@
+{{FishInfobox
+|image          = Basic Present.png
+|rarity         = Limited
+|event          = Fischmas
+|sea            = First Sea
+|location       = [[Fischmas]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 40
+|weather        = 
+|time           = 
+|season         = 
+|bait           = Magnet
+|base_weight    = 9
+|base_value     = 120
+|weight_range   = 0
+|base_chance    = 9
+|base_resil     = 60
+}}
+'''Basic Present''' is a {{Rarity|Limited}} fish found in the [[Winter Village]] during the [[Fischmas]] event.
+
+== Description ==
+{{Description|A nice christmas present wrapped in white and red gift paper. Maybe it has some goodies inside!|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Only can be caught during Fischmas24.|Bestiary Hint}}
+{{Fish Availability|
+Fischmas/Winter Village
+|top_rods      = 
+Magnet Rod\175372.69\175885.01;
+Krampus's Rod\85851.29\132982.44;
+Magma Rod\82639.93\128008.26;
+Plastic Rod\75554.67\117033.29;
+Leviathan's Fang Rod\56677.52\103174.5;
+Fast Rod\52406.42\110501.89;
+Ethereal Prism Rod\54931.18\85527.37;
+Seraphic Rod\52917.18\84997.31;
+No-Life Rod\52338.1\84809.83;
+Trident Rod\49870.07\86412.52;
+Rod Of The Forgotten Fang\49561.96\79652.14;
+Free Spirit Rod\48324.28\83734.04;
+Challenger's Rod\47898.03\79424.29;
+Rod Of The Depths\44620.3\72743.23;
+Rod Of The Exalted One\43897.36\73972.38;
+Zeus Rod\43709.16\73730.83;
+Verdant Shear Rod\43084.43\74359.89;
+Blazebringer Rod\41632.54\71330.76;
+Depthseeker Rod\39402.25\66269.08;
+Avalanche Rod\35573.07\59787.19;
+Volcanic Rod\34056.78\58316.74;
+Training Rod\25038.46\78305.92;
+Steady Rod\14833.95\19783.9
+|recommended   = Magnet Rod
+}}
+
+== Contents ==
+Opening a Basic Present will yield at least one of the following:
+* [[Cookie]]
+* [[Glass of Milk]]
+* [[Candy Cane Carp]]
+* [[Santa Salmon]]
+* [[Ornament Fish]]
+* [[30–50 C$]]
+
+== Catch Quips ==
+When catching a Basic Present, the player has a chance to make one of the following exclamations:
+* A Present!
+* Woah! A Present!
+* It's my lucky day!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Fischmas}}

@@ -1,0 +1,69 @@
+{{FishInfobox
+|image          = Arctic Char.png
+|rarity         = Uncommon
+|sea            = First Sea
+|location       = [[Snowcap Island]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 50
+|weather        = 
+|time           = 
+|season         = Spring, Autumn
+|bait           = Insect
+|base_weight    = 6
+|base_value     = 80
+|weight_range   = 4
+|base_chance    = 40
+|base_resil     = 50
+}}
+'''Arctic Char''' is an {{Rarity|Uncommon}} fish found in [[Snowcap Island]].
+
+== Description ==
+{{Description|The Arctic Char is a striking fish commonly known for its vibrant reddish-orange belly and long mouth. They can be found in the cold salt-waters of Snowcap Island.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in open salt-water near Snowcap.|Bestiary Hint}}
+{{Fish Availability|
+Snowcap Island/Surrounding Ocean
+|top_rods      = 
+Krampus's Rod\83822.37\115791.78;
+Magma Rod\80083.05\110626.3;
+Plastic Rod\73504.7\101540.3;
+Leviathan's Fang Rod\72217.98\89164.59;
+Trident Rod\65376.54\84195.98;
+Buddy Bond Rod\54579.49\88447.72;
+Fast Rod\63536.33\108484.54;
+Fischer's Rod\57810\98707.17;
+Flimsy Rod\44572.97\89192.19;
+Free Spirit Rod\62161.66\80055.66;
+Ethereal Prism Rod\61556.16\67017.73;
+No-Life Rod\60772.23\70025.71;
+Seraphic Rod\60213.48\67090.65;
+Rod Of The Forgotten Fang\56456.4\65128.13;
+Challenger's Rod\55303.76\64992.81;
+Rod Of The Depths\51060.89\59385.28;
+Zeus Rod\50814.53\60218.4;
+Verdant Shear Rod\50227.26\59932.94;
+Rod Of The Exalted One\49547.2\61859.14;
+Blazebringer Rod\48241.35\57402.13;
+Depthseeker Rod\46246.46\55805.59;
+Avalanche Rod\41762.04\50598.86;
+Volcanic Rod\39594.71\47628.03;
+Training Rod\36192.45\67054.89;
+Steady Rod\20121.31\16850.72
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching an Arctic Char, the player has a chance to make one of the following exclamations:
+* A Char!
+* I caught an Arctic Char!
+* Woah, a Char!
+* It's an Arctic Char!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Snowcap Island}}

@@ -1,0 +1,36 @@
+{{FishInfobox
+|image          = Lapis Lazuli.png
+|rarity         = Gemstone
+|sea            = First Sea
+|location       = [[Ancient Isle]]
+|sublocation    = 
+|sources        = Meteor
+|radar_location = 
+|xp             = 150
+|weather        = 
+|time           = 
+|season         = 
+|bait           = 
+|base_weight    = 1.4
+|base_value     = 700
+|weight_range   = 1
+|base_chance    = 0
+|base_resil     = 100
+}}
+'''Lapis Lazuli''' is a {{Rarity|Gemstone}} fish found in the [[Ancient Isle]].
+
+== Description ==
+{{Description|A deep blue gemstone with a complex shape.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|From meteors.|Bestiary Hint}}
+
+== Catch Quips ==
+When catching a Lapis Lazuli, the player has a chance to make one of the following exclamations:
+* Ouu, shiny!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ancient Isle}}

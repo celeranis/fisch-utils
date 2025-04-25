@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Echo Koi.png
+|rarity         = Legendary
+|sea            = Second Sea
+|location       = [[Lushgrove]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -45
+|xp             = 600
+|weather        = Clear
+|time           = Day
+|season         = Spring
+|bait           = Lushrooms
+|base_weight    = 90
+|base_value     = 1200
+|weight_range   = 55
+|base_chance    = 26
+|base_resil     = 25
+}}
+'''Echo Koi''' is a {{Rarity|Legendary}} fish found in [[Lushgrove]].
+
+== Description ==
+{{Description|A long fish with strange light blue whiskers and fins, its dark blue accents whispering secrets of the deep.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Its melody hums under the bright bloom of dawn.|Bestiary Hint}}
+{{Fish Availability|
+Lushgrove
+|top_rods      = 
+Plastic Rod\192383.81\205581.06;
+Steady Rod\129365.66\66150.78;
+Frostfire Rod\119285.22\60996.17;
+Fischer's Rod\114143.63\196812.77;
+Krampus's Rod\112970.17\57766.99;
+Magma Rod\112402.96\57330.14;
+Firefly Rod\65881.1\81943.38;
+Free Spirit Rod\101716.08\80435.18;
+Egg Rod\71027.38\71586.73;
+Nocturnal Rod\25718.15\69442.34;
+Trident Rod\73246.52\57977.29;
+Verdant Shear Rod\68215.37\68752.57;
+Blazebringer Rod\66379.03\66392.01;
+No-Life Rod\50067.31\45814.94;
+Ethereal Prism Rod\46142.85\45974.51;
+Seraphic Rod\45786.48\46147.05;
+Rod Of The Forgotten Fang\42917.44\43310.19;
+Rod Of The Exalted One\42916.71\43035.07;
+Challenger's Rod\42674.35\43442.97;
+Rod Of The Depths\41735.43\42276.6;
+Depthseeker Rod\40633.42\41764.88;
+Volcanic Rod\40480.43\41410.75;
+Zeus Rod\40211.9\41136.06;
+Avalanche Rod\40141.67\41278.65
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching an Echo Koi, the player has a chance to make one of the following exclamations:
+* AN ECHO KOI!
+* WHISKERS OF MYSTERY!
+* SINGING CATCH!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Lushgrove}}

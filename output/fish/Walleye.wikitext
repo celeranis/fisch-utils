@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Walleye.png
+|rarity         = Uncommon
+|sea            = First Sea
+|location       = [[Terrapin Island]]
+|sublocation    = 
+|sources        = Fish Barrel, Fishing Rod
+|radar_location = 
+|xp             = 90
+|weather        = 
+|time           = 
+|season         = Spring, Autumn
+|bait           = Minnow
+|base_weight    = 4
+|base_value     = 90
+|weight_range   = 2.2
+|base_chance    = 60
+|base_resil     = 70
+}}
+'''Walleye''' is an {{Rarity|Uncommon}} fish found in [[Terrapin Island]].
+
+== Description ==
+{{Description|The Walleye is a predatory fish known for its sharp teeth and distinctive large eyes. The Walleye can be found around the East side of Terrapin Island.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Can be found near Terrapin Island.|Bestiary Hint}}
+{{Fish Availability|
+Terrapin Island/Olm Cave
+Terrapin Island/Surrounding Ocean
+|top_rods      = 
+Trident Rod\161115.06\102709.31;
+Free Spirit Rod\157780.04\102453.48;
+Leviathan's Fang Rod\157521.63\158135.36;
+Azure Of Lagoon\156942.07\100380.06;
+Champions Rod\156739.58\140842.55;
+Training Rod\145077.72\203609.97;
+Flimsy Rod\105353.92\98533.03;
+Resourceful Rod\146268.41\151590.22;
+Ethereal Prism Rod\152193.77\205114.13;
+Kraken Rod\121496.29\146340.07;
+Fortune Rod\100852.61\105053.79;
+Depthseeker Rod\154955.53\138021.68;
+No-Life Rod\154816.76\145858.57;
+Avalanche Rod\153179.82\136903.46;
+Verdant Shear Rod\151920.1\134259.15;
+Blazebringer Rod\146468.69\116428.97;
+Zeus Rod\145424.45\123373.03;
+Seraphic Rod\144732.09\144732.09;
+Challenger's Rod\142422.65\132575.59;
+Volcanic Rod\142003.18\93626.83;
+Rod Of The Depths\134899.87\120066.22;
+Rod Of The Forgotten Fang\133074.43\132172.67;
+Rod Of The Exalted One\125046.88\112776.38;
+Steady Rod\78031.5\75035.05
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Walleye, the player has a chance to make one of the following exclamations:
+* Woah! A Walleye!
+* I caught a Walleye!
+* Lovely, a Walleye!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Terrapin Island}}

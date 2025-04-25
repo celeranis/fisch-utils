@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Dreaming Aberration.png
+|rarity         = Exotic
+|sea            = Second Sea
+|location       = [[The Cursed Shores]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -95
+|xp             = 5050
+|weather        = Foggy
+|time           = Night
+|season         = Spring
+|bait           = Mist Worms
+|base_weight    = 43
+|base_value     = 8500
+|weight_range   = 25
+|base_chance    = 1
+|base_resil     = 3
+}}
+'''Dreaming Aberration''' is an {{Rarity|Exotic}} fish found in [[The Cursed Shores]].
+
+== Description ==
+{{Description|A twisted nightmare that defies the waking world.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It haunts where dreams turn dark.|Bestiary Hint}}
+{{Fish Availability|
+The Cursed Shores
+|top_rods      = 
+Challenger's Rod\15177.57\92452.55;
+Tempest Rod\14289.35\88001.19;
+Summit Rod\12742.34\71699.22;
+Seraphic Rod\9864.05\61818.34;
+Abyssal Specter Rod\8850.34\51505.04;
+Resourceful Rod\3749.62\19933.34;
+Free Spirit Rod\5276.32\29705.77;
+Destiny Rod\-6.11\-27.15;
+Fortune Rod\-74.79\-332.66;
+Riptide Rod\-54.8\-243.76;
+Verdant Shear Rod\-57.96\-257.82;
+Ethereal Prism Rod\5730.92\34676.62;
+No-Life Rod\2630.55\15840.48;
+Rod Of The Forgotten Fang\2586.41\16217.92;
+Depthseeker Rod\404.23\2249.38;
+Blazebringer Rod\219.4\1342.74;
+Rod Of The Exalted One\-12.65\-56.25;
+Avalanche Rod\-29\-128.98;
+Rod Of The Depths\-29\-128.98;
+Steady Rod\-37.75\-167.92;
+Trident Rod\-40.28\-179.16;
+Volcanic Rod\-40.64\-180.73;
+Zeus Rod\-54.8\-243.74
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Dreaming Aberration, the player has a chance to make one of the following exclamations:
+* A DREAMING ABERRATION!
+* NIGHTMARE UNLEASHED!
+* DREAMS OF DREAD!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|The Cursed Shores}}

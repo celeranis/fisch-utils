@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Glassfish.png
+|rarity         = Common
+|sea            = First Sea
+|location       = [[Sunstone Island]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 50
+|weather        = Clear
+|time           = 
+|season         = 
+|bait           = Flakes
+|base_weight    = 0.4
+|base_value     = 45
+|weight_range   = 0.3
+|base_chance    = 90
+|base_resil     = 90
+}}
+'''Glassfish''' is a {{Rarity|Common}} fish found in [[Sunstone Island]].
+
+== Description ==
+{{Description|The glassfish is a small, transparent fish with a delicate, almost invisible body that makes it well-suited for avoiding predators. It is a common find within the waters of Sunstone Island.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in Sunstone Island.|Bestiary Hint}}
+{{Fish Availability|
+Sunstone Island
+|top_rods      = 
+Leviathan's Fang Rod\262952.09\116782.81;
+Trident Rod\250926.95\137988.85;
+Free Spirit Rod\248355.87\137819.84;
+No-Life Rod\234049.53\198190.73;
+Azure Of Lagoon\231260.22\171189.51;
+Flimsy Rod\162231.77\142207.89;
+Training Rod\189917.22\189917.22;
+Lucky Rod\179343\65870.45;
+Fast Rod\207704.96\199223.67;
+Seraphic Rod\223517.05\197410.51;
+Tempest Rod\221857.7\190454.54;
+Long Rod\186728.7\131167.4;
+Ethereal Prism Rod\222022.08\32318.21;
+Challenger's Rod\220694.08\180692.32;
+Rod Of The Forgotten Fang\220129.33\180263.56;
+Rod Of The Exalted One\216425.1\126500.37;
+Rod Of The Depths\215399.96\164224.38;
+Zeus Rod\214373.35\168490.12;
+Blazebringer Rod\210307.77\159092.37;
+Verdant Shear Rod\206802.15\168923.25;
+Depthseeker Rod\202408.78\154117.86;
+Avalanche Rod\201073.77\138564.32;
+Volcanic Rod\199903.35\139978.19;
+Steady Rod\99769.34\73985.57
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Glassfish, the player has a chance to make one of the following exclamations:
+* Ouu a Glassfish!
+* Woah, a Glassfish!
+* I can barely see it!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Sunstone Island}}

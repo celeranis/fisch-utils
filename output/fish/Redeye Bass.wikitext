@@ -1,0 +1,69 @@
+{{FishInfobox
+|image          = Redeye Bass.png
+|rarity         = Unusual
+|sea            = First Sea
+|location       = [[Terrapin Island]]
+|sublocation    = Freshwater
+|sources        = Fish Barrel, Fishing Rod
+|radar_location = 
+|xp             = 100
+|weather        = Windy
+|time           = Day
+|season         = Spring, Autumn
+|bait           = Flakes
+|base_weight    = 1.5
+|base_value     = 115
+|weight_range   = 1.2
+|base_chance    = 40
+|base_resil     = 50
+}}
+'''Redeye Bass''' is an {{Rarity|Unusual}} fish found in [[Terrapin Island]].
+
+== Description ==
+{{Description|The Redeye Bass looks very similar to the Largemouth Bass. However, the Redeye bass has very distinct red or orange eyes to go along with its greenish brown body.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Can be found in freshwaters and in the filtered waters of Terrapin Island during the day.|Bestiary Hint}}
+{{Fish Availability|
+Terrapin Island/Olm Cave
+Terrapin Island/Surrounding Ocean
+|top_rods      = 
+Krampus's Rod\241536.26\168608.7;
+Magma Rod\230761.31\161087.06;
+Plastic Rod\211703.22\147783.22;
+Buddy Bond Rod\157265.25\109781.82;
+Leviathan's Fang Rod\138694.05\128678.56;
+Fast Rod\134480.83\133319.92;
+Nocturnal Rod\54841.08\131915.88;
+Ethereal Prism Rod\135215.65\109180.01;
+Seraphic Rod\128229.59\107411.23;
+No-Life Rod\125245.99\108806.98;
+Trident Rod\120405.62\114105.74;
+Rod Of The Forgotten Fang\119803.09\100762.7;
+Free Spirit Rod\114484.71\108494.62;
+Challenger's Rod\114403.75\98989.96;
+Rod Of The Depths\107192.45\91263.19;
+Rod Of The Exalted One\106999.11\88176.4;
+Zeus Rod\103535.31\91025.49;
+Verdant Shear Rod\101147.83\89975.13;
+Blazebringer Rod\98292.42\86416.09;
+Depthseeker Rod\92762.16\82833.8;
+Avalanche Rod\83633.38\74796.33;
+Volcanic Rod\80674.76\70927.11;
+Training Rod\64986.07\83524.52;
+Steady Rod\36133.7\24108.2
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching a Redeye Bass, the player has a chance to make one of the following exclamations:
+* A Redeyed Bass!
+* I caught a Redeye Bass!
+* Woah! A Redeye Bass!
+* Ouu! A Redeye Bass!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Terrapin Island}}

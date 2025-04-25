@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Trumpetfish.png
+|rarity         = Unusual
+|sea            = First Sea
+|location       = [[Sunstone Island]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 80
+|weather        = 
+|time           = Day
+|season         = Autumn, Summer
+|bait           = Shrimp
+|base_weight    = 2
+|base_value     = 100
+|weight_range   = 1.1
+|base_chance    = 40
+|base_resil     = 60
+}}
+'''Trumpetfish''' is an {{Rarity|Unusual}} fish found in [[Sunstone Island]].
+
+== Description ==
+{{Description|The Trumpetfish is a long, slender fish known for its tubular body and pointed snout. Its unique shape makes it a fascinating sight for visitors of Sunstone.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in the waters near Sunstone Island during the day.|Bestiary Hint}}
+{{Fish Availability|
+Sunstone Island
+|top_rods      = 
+Krampus's Rod\251137.74\184467.1;
+Magma Rod\241739.74\177564.03;
+Plastic Rod\222455.57\162495.75;
+Buddy Bond Rod\165252.71\139279.52;
+Fast Rod\159812.36\177855.44;
+Flimsy Rod\131930.74\220724.81;
+Ethereal Prism Rod\136877.26\44974.81;
+Seraphic Rod\131243.83\44021.81;
+No-Life Rod\129273.26\44188.73;
+Rod Of The Forgotten Fang\122862.21\41301.5;
+Trident Rod\122289.62\39161.58;
+Free Spirit Rod\118499.09\37947.72;
+Challenger's Rod\118356.67\40377.36;
+Rod Of The Depths\110454.59\37372.07;
+Rod Of The Exalted One\109093.35\36263.66;
+Zeus Rod\107829.26\37068.15;
+Verdant Shear Rod\105794.9\36558.53;
+Blazebringer Rod\102336.31\35179.85;
+Depthseeker Rod\97062.83\33595.13;
+Avalanche Rod\87618.34\30345.18;
+Volcanic Rod\84017.11\28882.31;
+Training Rod\76298.8\66982.27;
+Steady Rod\38989.9\9715.08
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching a Trumpetfish, the player has a chance to make one of the following exclamations:
+* Woah, a Trumpetfish!
+* Baby Keem!
+* What a catch!
+* Holy.. This thing is weird..
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Sunstone Island}}

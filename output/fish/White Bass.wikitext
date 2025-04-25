@@ -1,0 +1,70 @@
+{{FishInfobox
+|image          = White Bass.png
+|rarity         = Uncommon
+|sea            = First Sea
+|location       = [[Terrapin Island]]
+|sublocation    = Freshwater
+|sources        = Carbon Crate, Common Crate, Fish Barrel, Fishing Rod
+|radar_location = 
+|xp             = 50
+|weather        = Foggy
+|time           = Day
+|season         = Spring, Summer
+|bait           = Minnow
+|base_weight    = 2.5
+|base_value     = 110
+|weight_range   = 2.2
+|base_chance    = 60
+|base_resil     = 70
+}}
+'''White Bass''' is an {{Rarity|Uncommon}} fish found in [[Terrapin Island]].
+
+== Description ==
+{{Description|The White Bass is a slender, silvery fish with horizontal black stripes running along its body. It can be found in plenty of freshwaters, but is native to Terrapin Islands filtered water.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Can be found in freshwaters and in the filtered waters of Terrapin Island during the day.|Bestiary Hint}}
+{{Fish Availability|
+Terrapin Island/Olm Cave
+Terrapin Island/Surrounding Ocean
+|top_rods      = 
+Champions Rod\109467.96\14084.26;
+Trident Rod\109439.25\10270.93;
+Celestial Rod\108968.49\14168.14;
+Summit Rod\108863.61\13762.19;
+Depthseeker Rod\108276.43\13802.17;
+Training Rod\98978.79\20361;
+Resourceful Rod\102294.92\15159.02;
+Flimsy Rod\71288.8\9853.3;
+Nocturnal Rod\80014.19\73715.82;
+Leviathan's Fang Rod\107281.95\15813.54;
+Kraken Rod\84792.15\14634.01;
+Free Spirit Rod\107173.9\10245.35;
+Avalanche Rod\107014.79\13690.35;
+No-Life Rod\106689.05\14585.86;
+Verdant Shear Rod\106203.6\13425.91;
+Ethereal Prism Rod\104748.3\0;
+Seraphic Rod\102247.37\14473.21;
+Blazebringer Rod\101904.15\11642.9;
+Zeus Rod\101177.63\12337.3;
+Volcanic Rod\98797.32\9362.68;
+Challenger's Rod\97846.52\13257.56;
+Rod Of The Forgotten Fang\93374.64\13217.27;
+Rod Of The Depths\91602.29\12006.62;
+Rod Of The Exalted One\85091.53\11277.64;
+Steady Rod\55064.72\7503.51
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a White Bass, the player has a chance to make one of the following exclamations:
+* A White Bass!
+* I caught a White Bass!
+* Woah! A White Bass!
+* Ouu! A Bass!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Terrapin Island}}

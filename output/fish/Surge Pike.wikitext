@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Surge Pike.png
+|rarity         = Rare
+|sea            = Second Sea
+|location       = [[Waveborne]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = +5
+|xp             = 190
+|weather        = Windy
+|time           = Day
+|season         = Summer
+|bait           = Magnet
+|base_weight    = 400
+|base_value     = 380
+|weight_range   = 250
+|base_chance    = 40
+|base_resil     = 35
+}}
+'''Surge Pike''' is a {{Rarity|Rare}} fish found in [[Waveborne]].
+
+== Description ==
+{{Description|A long, slender fish with light yellow fins, surging through the water with electric grace.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It strikes when the air feels charged.|Bestiary Hint}}
+{{Fish Availability|
+Waveborne
+|top_rods      = 
+Steady Rod\312190.32\114921.92;
+Frostfire Rod\301425.13\110959.09;
+Krampus's Rod\253213.55\97220.8;
+Magma Rod\249688.54\94213.98;
+North-Star Rod\224178.09\111304.82;
+Resourceful Rod\171413.22\115110.12;
+Event Horizon Rod\219684.4\109073.7;
+Nocturnal Rod\48612.9\86297.95;
+Free Spirit Rod\167774.44\69136.55;
+Trident Rod\138853.99\47721.84;
+Verdant Shear Rod\125958.53\56578.84;
+Blazebringer Rod\121906.18\54379.01;
+No-Life Rod\93082.46\36780.3;
+Ethereal Prism Rod\83937.47\37307.87;
+Seraphic Rod\82296.73\36966.56;
+Rod Of The Exalted One\78968.82\35308.92;
+Rod Of The Forgotten Fang\78221.33\35175.46;
+Challenger's Rod\76822.94\34759.36;
+Rod Of The Depths\76820.47\34659.69;
+Depthseeker Rod\75907.8\33794.36;
+Volcanic Rod\74545.62\33908.9;
+Zeus Rod\74316.86\33804.84;
+Avalanche Rod\73582.56\33604.2
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Surge Pike, the player has a chance to make one of the following exclamations:
+* A Surge Pike!
+* Long and zappy!
+* Caught a live wire!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Waveborne}}

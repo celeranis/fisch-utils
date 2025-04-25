@@ -1,0 +1,65 @@
+{{FishInfobox
+|image          = Triton's Herald.png
+|rarity         = Rare
+|sea            = First Sea
+|location       = [[Atlantis]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 300
+|weather        = 
+|time           = Night
+|season         = 
+|bait           = Deep Coral
+|base_weight    = 20
+|base_value     = 500
+|weight_range   = 10
+|base_chance    = 15
+|base_resil     = 35
+}}
+'''Triton's Herald''' is a {{Rarity|Rare}} fish found in [[Atlantis]].
+
+== Description ==
+{{Description|These majestic fish were said to announce the arrival of ancient rulers. Their fins resemble flowing trumpets, and they produce a haunting call that carries for miles underwater.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Sunken's Depth Pool|Bestiary Hint}}
+{{Fish Availability|
+Atlantis/Sunken Depths
+|top_rods      = 
+Leviathan's Fang Rod\98210.6\129218.79;
+Krampus's Rod\94498.25\106899.53;
+Trident Rod\92051.54\126450.63;
+Magma Rod\87027.44\98448.3;
+Plastic Rod\82020.38\92769.49;
+Buddy Bond Rod\60929.43\73341.45;
+Free Spirit Rod\81168.56\111500.75;
+Flimsy Rod\52729.84\106421.85;
+Ethereal Prism Rod\76280.36\82706.09;
+No-Life Rod\74064.93\90329.49;
+Seraphic Rod\73833.05\83057.44;
+Rod Of The Forgotten Fang\69048.15\81018.42;
+Challenger's Rod\67039.95\81255.2;
+Rod Of The Depths\62088.56\73714.55;
+Zeus Rod\61082.25\75145.34;
+Rod Of The Exalted One\60922.38\76172.83;
+Verdant Shear Rod\60066.94\74848.79;
+Blazebringer Rod\58021.2\71682.9;
+Depthseeker Rod\55326.77\70031.29;
+Avalanche Rod\49860.01\63327.34;
+Volcanic Rod\47596.72\59423;
+Steady Rod\17627.19\21687.52
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Triton's Herald, the player has a chance to make one of the following exclamations:
+* Triton's Herald!
+* The announcing fish!
+* Listen to its call!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Atlantis}}

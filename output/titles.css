@@ -1,0 +1,566 @@
+/* Last update: Version [[1.29]], place version 4322 */
+
+.playertitle {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 1.10em;
+	color: var(--playertitle-color);
+	text-shadow: 1px 1px 0 var(--playertitle-stroke-color), -1px 1px 0 var(--playertitle-stroke-color), -1px -1px 0 var(--playertitle-stroke-color), 1px -1px 0 var(--playertitle-stroke-color);
+}
+
+.playertitle- {
+	--playertitle-color: white;
+}
+.playertitle-the-final-fishness {
+	--playertitle-color: #ffb02e;
+	--playertitle-stroke-color: #83cbff;
+}
+.playertitle-tidal-lord {
+	background: linear-gradient(-45deg, #050da3 0%, #05a305 50%, #5f05a3 100%);
+	font-weight: 700;
+}
+.playertitle-10mil {
+	--playertitle-color: #ff905d;
+	--playertitle-stroke-color: #583d30;
+	font-weight: 700;
+}
+.playertitle-1b {
+	--playertitle-color: #ffde5a;
+	--playertitle-stroke-color: #584c2f;
+	font-weight: 700;
+}
+.playertitle-abyssal-scavenger {
+	--playertitle-color: #55007f;
+	--playertitle-stroke-color: #27003b;
+}
+.playertitle-abysswalker {
+	--playertitle-color: #1d3057;
+	--playertitle-stroke-color: #ffffff;
+	font-weight: 700;
+}
+.playertitle-adept-angler {
+	--playertitle-color: #d888bc;
+	--playertitle-stroke-color: #7a395c;
+}
+.playertitle-albino-vendor {
+	--playertitle-color: #ffffff;
+	--playertitle-stroke-color: #2c2c2c;
+	font-style: italic;
+}
+.playertitle-ancient-ocean-king {
+	--playertitle-color: #00aaff;
+	--playertitle-stroke-color: #004f76;
+}
+.playertitle-ancients-chosen-one {
+	--playertitle-color: #09d0ef;
+	--playertitle-stroke-color: #03454f;
+	font-weight: 700;
+}
+.playertitle-bobber-enthusiast {
+	--playertitle-color: #f781ff;
+	--playertitle-stroke-color: #5a3759;
+	font-weight: 700;
+}
+.playertitle-borrowed-time {
+	--playertitle-color: #aaaaff;
+	--playertitle-stroke-color: #4f4f76;
+}
+.playertitle-c-collector {
+	--playertitle-color: #ffc640;
+	--playertitle-stroke-color: #363024;
+}
+.playertitle-c-loaded {
+	--playertitle-color: #fcff30;
+	--playertitle-stroke-color: #36311b;
+	font-weight: 700;
+}
+.playertitle-chosen-by-zeus {
+	--playertitle-color: #005ff7;
+	--playertitle-stroke-color: #282828;
+	font-weight: 700;
+}
+.playertitle-clock-lobster {
+	--playertitle-color: #ffff7f;
+	--playertitle-stroke-color: #63533f;
+}
+.playertitle-clumsy {
+	--playertitle-color: #ffffff;
+	--playertitle-stroke-color: #2a1a15;
+	font-style: italic;
+}
+.playertitle-content-creator {
+	--playertitle-color: #ff3d3d;
+	--playertitle-stroke-color: #391515;
+	font-style: italic;
+}
+.playertitle-contributor {
+	--playertitle-color: #43ff91;
+	--playertitle-stroke-color: #0b3e26;
+	font-weight: 700;
+}
+.playertitle-coral-sovereign {
+	--playertitle-color: #aaaaff;
+	--playertitle-stroke-color: #4b4b71;
+}
+.playertitle-countdown-caster {
+	--playertitle-color: #ffff7f;
+	--playertitle-stroke-color: #2c2c2c;
+	font-style: italic;
+}
+.playertitle-deep-sea-phenomenon {
+	--playertitle-color: #ffa400;
+	--playertitle-stroke-color: #543500;
+	font-weight: 700;
+}
+.playertitle-developer {
+	--playertitle-color: #6581ff;
+	--playertitle-stroke-color: #1a172a;
+	font-weight: 700;
+}
+.playertitle-dreamer-revolution {
+	--playertitle-color: #0026ff;
+	--playertitle-stroke-color: #8000ff;
+}
+.playertitle-elite-helper {
+	--playertitle-color: #e2b429;
+	--playertitle-stroke-color: #422e00;
+	font-style: italic;
+}
+.playertitle-enchanted {
+	--playertitle-color: #5e91ff;
+	--playertitle-stroke-color: #1d2736;
+	font-weight: 700;
+}
+.playertitle-eternal-fischer {
+	--playertitle-color: #181818;
+	--playertitle-stroke-color: #141414;
+	font-weight: 700;
+}
+.playertitle-eternal-voyager {
+	--playertitle-color: #090919;
+	--playertitle-stroke-color: #05050f;
+	font-weight: 700;
+}
+.playertitle-expert-angler {
+	--playertitle-color: #ff383b;
+	--playertitle-stroke-color: #5a2223;
+}
+.playertitle-extinct {
+	--playertitle-color: #ff5e00;
+	--playertitle-stroke-color: #751b00;
+	font-weight: 700;
+}
+.playertitle-famous-fischer {
+	--playertitle-color: #a4ffcd;
+	--playertitle-stroke-color: #3b5a47;
+	font-weight: 700;
+}
+.playertitle-famous-voyager {
+	--playertitle-color: #9c34d0;
+	--playertitle-stroke-color: #260b2a;
+}
+.playertitle-fisching-veteran {
+	--playertitle-color: #638fe1;
+	--playertitle-stroke-color: #202b3f;
+	font-style: italic;
+}
+.playertitle-fish-overlord {
+	--playertitle-color: #ff30a5;
+	--playertitle-stroke-color: #2f1823;
+	font-weight: 700;
+}
+.playertitle-ghostly-angler {
+	--playertitle-color: #6aff9c;
+	--playertitle-stroke-color: #25392b;
+}
+.playertitle-glimmerfins-pupil {
+	--playertitle-color: #ffaa7f;
+	--playertitle-stroke-color: #ad7356;
+}
+.playertitle-god-of-the-seas {
+	--playertitle-color: #ff814f;
+	--playertitle-stroke-color: #2f2014;
+	font-weight: 700;
+}
+.playertitle-goddess-of-the-seas {
+	--playertitle-color: #ff814f;
+	--playertitle-stroke-color: #2f2014;
+	font-weight: 700;
+}
+.playertitle-grand-pioneer {
+	--playertitle-color: #fffb7d;
+	--playertitle-stroke-color: #363421;
+}
+.playertitle-gullible {
+	background: linear-gradient(-45deg, #ff0000 0%, #ffa500 17%, #ffff00 33%, #00ff00 50%, #0000ff 67%, #4b0082 83%, #9400d3 100%);
+	font-weight: 700;
+}
+.playertitle-gunter {
+	background: linear-gradient(180deg, #ffffff 0%, #d3a7ff 100%);
+	font-family: 'AccanthisADFStd';
+	font-weight: 700;
+}
+.playertitle-haunted {
+	--playertitle-color: #ff7a4e;
+	--playertitle-stroke-color: #4b2c26;
+	font-style: italic;
+}
+.playertitle-hourglass-speedrunner {
+	--playertitle-color: #aaaa7f;
+	--playertitle-stroke-color: #555500;
+}
+.playertitle-initial-supporter {
+	--playertitle-color: #ff6f95;
+	--playertitle-stroke-color: #583f40;
+	font-weight: 700;
+}
+.playertitle-junior-angler {
+	--playertitle-color: #bcbcbc;
+	--playertitle-stroke-color: #2a2a2a;
+}
+.playertitle-lady-of-the-sea {
+	--playertitle-color: #4079ff;
+	--playertitle-stroke-color: #151b2a;
+	font-weight: 700;
+}
+.playertitle-legendary-explorer {
+	--playertitle-color: #7e56d0;
+	--playertitle-stroke-color: #271b42;
+}
+.playertitle-legendary-fischer {
+	--playertitle-color: #ffb245;
+	--playertitle-stroke-color: #5a3727;
+	font-weight: 700;
+}
+.playertitle-lord-of-the-sea {
+	--playertitle-color: #4079ff;
+	--playertitle-stroke-color: #151b2a;
+	font-weight: 700;
+}
+.playertitle-lucky-collector {
+	--playertitle-color: #01c107;
+	--playertitle-stroke-color: #c1cc4e;
+}
+.playertitle-lucky-roller {
+	--playertitle-color: #4cbc5d;
+	--playertitle-stroke-color: #283523;
+	font-weight: 700;
+}
+.playertitle-lucky-savior {
+	background: linear-gradient(0deg, #4cff5b 0%, #ffd942 100%);
+	font-family: 'AccanthisADFStd';
+	font-weight: 700;
+}
+.playertitle-made-in-heaven {
+	--playertitle-color: #ffffff;
+	--playertitle-stroke-color: #ebaf22;
+	font-style: italic;
+}
+.playertitle-manager {
+	--playertitle-color: #dd4040;
+	--playertitle-stroke-color: #000000;
+	font-weight: 700;
+}
+.playertitle-master-fischer {
+	--playertitle-color: #a5ff7b;
+	--playertitle-stroke-color: #293f28;
+}
+.playertitle-master-of-the-waters {
+	--playertitle-color: #5f02d1;
+	--playertitle-stroke-color: #ffffff;
+	font-weight: 700;
+}
+.playertitle-master-of-time {
+	--playertitle-color: #ffd3a1;
+	--playertitle-stroke-color: #5e1f1f;
+}
+.playertitle-moderator {
+	--playertitle-color: #ff899b;
+	--playertitle-stroke-color: #221922;
+	font-weight: 700;
+}
+.playertitle-muramasa {
+	--playertitle-color: #000000;
+	--playertitle-stroke-color: #ffffff;
+	font-style: italic;
+}
+.playertitle-mythical-angler {
+	--playertitle-color: #ff5db9;
+	--playertitle-stroke-color: #2a141e;
+	font-weight: 700;
+}
+.playertitle-mythical-mariner {
+	--playertitle-color: #ff557f;
+	--playertitle-stroke-color: #6f2538;
+}
+.playertitle-mythical-seeker {
+	--playertitle-color: #ff537b;
+	--playertitle-stroke-color: #361a26;
+}
+.playertitle-natural-selection {
+	--playertitle-color: #4d9f00;
+	--playertitle-stroke-color: #193400;
+	font-weight: 700;
+}
+.playertitle-nightmare-angler {
+	--playertitle-color: #6f62ff;
+	--playertitle-stroke-color: #201b30;
+	font-weight: 700;
+}
+.playertitle-nightmare-conqueror {
+	--playertitle-color: #ff0000;
+	--playertitle-stroke-color: #430000;
+	font-weight: 700;
+}
+.playertitle-novice-explorer {
+	--playertitle-color: #9ba6d0;
+	--playertitle-stroke-color: #4a4f63;
+}
+.playertitle-novice-fischer {
+	--playertitle-color: #bcbcbc;
+	--playertitle-stroke-color: #2a2a2a;
+}
+.playertitle-novice-of-the-waters {
+	--playertitle-color: #3899e8;
+	--playertitle-stroke-color: #ffffff;
+	font-weight: 700;
+}
+.playertitle-ocean-hero {
+	--playertitle-color: #28a9d0;
+	--playertitle-stroke-color: #09122a;
+}
+.playertitle-oceans-champion {
+	--playertitle-color: #00aaff;
+	--playertitle-stroke-color: #00557f;
+}
+.playertitle-oceanborn {
+	background: linear-gradient(-45deg, #758aff 0%, #8a2bff 50%, #758aff 100%);
+	font-weight: 700;
+}
+.playertitle-orcs-best-friend {
+	--playertitle-color: #779166;
+	--playertitle-stroke-color: #222a1f;
+	font-style: italic;
+}
+.playertitle-pirate-king {
+	--playertitle-color: #efb838;
+	--playertitle-stroke-color: #3f0975;
+	font-weight: 700;
+}
+.playertitle-poseidons-blessing {
+	--playertitle-color: #00aa7f;
+	--playertitle-stroke-color: #282828;
+	font-weight: 700;
+}
+.playertitle-pro-fisherman {
+	--playertitle-color: #5de17e;
+	--playertitle-stroke-color: #223f32;
+	font-style: italic;
+}
+.playertitle-reel-late {
+	--playertitle-color: #55aaff;
+	--playertitle-stroke-color: #004464;
+}
+.playertitle-reel-time-expert {
+	--playertitle-color: #adadad;
+	--playertitle-stroke-color: #636363;
+}
+.playertitle-renowned-navigator {
+	--playertitle-color: #d03d3d;
+	--playertitle-stroke-color: #2a0c0c;
+}
+.playertitle-rookie {
+	--playertitle-color: #bcbcbc;
+	--playertitle-stroke-color: #2a2a2a;
+}
+.playertitle-santas-helper {
+	--playertitle-color: #ff8585;
+	--playertitle-stroke-color: #2c0000;
+	font-style: italic;
+}
+.playertitle-sea-scout {
+	--playertitle-color: #95ff7d;
+	--playertitle-stroke-color: #1a2a17;
+}
+.playertitle-sea-sovereign {
+	--playertitle-color: #ff9345;
+	--playertitle-stroke-color: #4f2d15;
+	font-weight: 700;
+}
+.playertitle-sea-whisperer {
+	--playertitle-color: #71c4d6;
+	--playertitle-stroke-color: #508c98;
+	font-weight: 700;
+}
+.playertitle-seafarer {
+	--playertitle-color: #a3a3a3;
+	--playertitle-stroke-color: #303030;
+	font-weight: 700;
+}
+.playertitle-sentinel-of-the-deep {
+	--playertitle-color: #420d03;
+	--playertitle-stroke-color: #ffffff;
+	font-weight: 700;
+}
+.playertitle-shark-slayer {
+	--playertitle-color: #93b5ff;
+	--playertitle-stroke-color: #424d5a;
+	font-weight: 700;
+}
+.playertitle-skilled-fischer {
+	--playertitle-color: #d8ca61;
+	--playertitle-stroke-color: #84783e;
+}
+.playertitle-sovereign-of-the-seas {
+	background: linear-gradient(-45deg, #ffffff 0%, #ffd700 100%);
+	font-weight: 700;
+}
+.playertitle-stormcaller {
+	--playertitle-color: #ffaa7f;
+	--playertitle-stroke-color: #533729;
+}
+.playertitle-supporter {
+	--playertitle-color: #ffea4b;
+	--playertitle-stroke-color: #714e4e;
+	font-weight: 700;
+}
+.playertitle-temporal-trawler {
+	--playertitle-color: #ffaa7f;
+	--playertitle-stroke-color: #712639;
+}
+.playertitle-temporal-tuna {
+	--playertitle-color: #00557f;
+	--playertitle-stroke-color: #00334b;
+}
+.playertitle-terror-of-the-depths {
+	--playertitle-color: #6d1799;
+	--playertitle-stroke-color: #370c4f;
+	font-weight: 700;
+}
+.playertitle-tester {
+	--playertitle-color: #a6ffac;
+	--playertitle-stroke-color: #3d5841;
+	font-weight: 700;
+}
+.playertitle-thalassian {
+	background: linear-gradient(-45deg, #008080 0%, #ffffff 100%);
+	font-weight: 700;
+}
+.playertitle-the-angler {
+	--playertitle-color: #81a4c5;
+	--playertitle-stroke-color: #3b4b5a;
+}
+.playertitle-the-clever {
+	--playertitle-color: #7cfdff;
+	--playertitle-stroke-color: #1a2a29;
+}
+.playertitle-the-drowned {
+	--playertitle-color: #718787;
+	--playertitle-stroke-color: #101010;
+	font-weight: 700;
+}
+.playertitle-the-foolish {
+	--playertitle-color: #7fbc69;
+	--playertitle-stroke-color: #272a27;
+}
+.playertitle-the-hallowed {
+	--playertitle-color: #ff3a3a;
+	--playertitle-stroke-color: #2a1616;
+	font-weight: 700;
+}
+.playertitle-the-hoarder {
+	--playertitle-color: #ff815a;
+	--playertitle-stroke-color: #2a2016;
+}
+.playertitle-the-holy {
+	--playertitle-color: #fffbc1;
+	--playertitle-stroke-color: #5a4632;
+	font-weight: 700;
+}
+.playertitle-the-hunter {
+	--playertitle-color: #ffa62a;
+	--playertitle-stroke-color: #393024;
+	font-weight: 700;
+}
+.playertitle-the-prophet-angler {
+	--playertitle-color: #8762ff;
+	--playertitle-stroke-color: #1d162a;
+	font-weight: 700;
+}
+.playertitle-the-pupil {
+	--playertitle-color: #ffff40;
+	--playertitle-stroke-color: #2a2510;
+}
+.playertitle-tidal-master {
+	--playertitle-color: #ff5500;
+	--playertitle-stroke-color: #282828;
+	font-weight: 700;
+}
+.playertitle-time-keeper {
+	--playertitle-color: #c6dcff;
+	--playertitle-stroke-color: #596473;
+}
+.playertitle-timely-fisherman {
+	--playertitle-color: #55557f;
+	--playertitle-stroke-color: #32324a;
+}
+.playertitle-titan-of-the-waters {
+	--playertitle-color: #aaffff;
+	--playertitle-stroke-color: #669999;
+}
+.playertitle-treasure-master {
+	--playertitle-color: #ffc800;
+	--playertitle-stroke-color: #282828;
+	font-weight: 700;
+}
+.playertitle-true-hakari {
+	--playertitle-color: #53ffc6;
+	--playertitle-stroke-color: #338257;
+	font-style: italic;
+}
+.playertitle-trusted-explorer {
+	--playertitle-color: #d07866;
+	--playertitle-stroke-color: #2a1d17;
+}
+.playertitle-unlucky-better {
+	--playertitle-color: #4e5848;
+	--playertitle-stroke-color: #292c24;
+	font-style: italic;
+}
+.playertitle-unstoppable-fischer {
+	--playertitle-color: #5de17e;
+	--playertitle-stroke-color: #223f32;
+	font-style: italic;
+}
+.playertitle-veteran {
+	--playertitle-color: #957bff;
+	--playertitle-stroke-color: #2e264f;
+	font-weight: 700;
+}
+.playertitle-vigilante {
+	--playertitle-color: #1b1f4c;
+	--playertitle-stroke-color: #131636;
+	font-weight: 700;
+}
+.playertitle-volcanic-explorer {
+	--playertitle-color: #d71405;
+	--playertitle-stroke-color: #a00f05;
+	font-weight: 700;
+}
+.playertitle-volcanic-helper {
+	--playertitle-color: #d7a528;
+	--playertitle-stroke-color: #a0781e;
+	font-weight: 700;
+}
+.playertitle-wave-conqueror {
+	--playertitle-color: #aa557f;
+	--playertitle-stroke-color: #67334d;
+}
+.playertitle-waveshaper {
+	--playertitle-color: #ffff7f;
+	--playertitle-stroke-color: #616130;
+}
+.playertitle-wiki-helper {
+	--playertitle-color: #78ff81;
+	--playertitle-stroke-color: #4ba665;
+	font-weight: 700;
+}

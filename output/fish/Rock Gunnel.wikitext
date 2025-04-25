@@ -1,0 +1,66 @@
+{{FishInfobox
+|image          = Rock Gunnel.png
+|rarity         = Common
+|sea            = Second Sea
+|location       = [[Open Ocean]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = +8
+|xp             = 25
+|weather        = Rain
+|time           = Night
+|season         = Spring
+|bait           = Shrimp
+|base_weight    = 14
+|base_value     = 50
+|weight_range   = 9
+|base_chance    = 125
+|base_resil     = 80
+}}
+'''Rock Gunnel''' is a {{Rarity|Common}} fish found in the [[Open Ocean]].
+
+== Description ==
+{{Description|A long red fish with light red fins, slithering through rocky crevices.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It hides in rocks when the tide rolls in.|Bestiary Hint}}
+{{Fish Availability|
+Open Ocean
+Open Ocean/Sea Leviathan
+|top_rods      = 
+Training Rod\276276.79\425932.01;
+Flimsy Rod\271430.91\222244.15;
+Free Spirit Rod\182621.6\189606.67;
+Azure Of Lagoon\160894.38\155275.46;
+Plastic Rod\160307.25\208353.56;
+Fischer's Rod\155612.09\205024.08;
+Verdant Shear Rod\154424.72\159775.91;
+Trident Rod\150770.66\135860.23;
+Blazebringer Rod\146089.22\144200.36;
+No-Life Rod\131383.29\123197.91;
+Ethereal Prism Rod\125480.72\120511.58;
+Seraphic Rod\125140.06\112629.01;
+Challenger's Rod\121754.78\113495.68;
+Depthseeker Rod\121579.25\118497.22;
+Avalanche Rod\120812.58\117962;
+Rod Of The Forgotten Fang\120482.8\108821.32;
+Rod Of The Exalted One\119977.52\110690.55;
+Volcanic Rod\119956.18\114426.65;
+Zeus Rod\119532.84\114022.82;
+Rod Of The Depths\119398.04\109125.63;
+Steady Rod\113067.81\95390.81
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Rock Gunnel, the player has a chance to make one of the following exclamations:
+* A Rock Gunnel!
+* Red wriggler!
+* Crevice crawler!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Open Ocean}}

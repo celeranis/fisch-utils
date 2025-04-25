@@ -1,0 +1,75 @@
+{{FishInfobox
+|image          = Pyro Pike.png
+|rarity         = Limited
+|event          = Ashfall
+|sea            = First Sea
+|location       = [[Ashfall]]
+|sublocation    = 
+|sources        = Fishing Rod
+|nopassive      = 1
+|radar_location = 
+|xp             = 240
+|weather        = Rain
+|time           = 
+|season         = 
+|bait           = Shrimp
+|base_weight    = 4.5
+|base_value     = 500
+|weight_range   = 2
+|base_chance    = 30
+|base_resil     = 50
+}}
+'''Pyro Pike''' is a {{Rarity|Limited}} fish found in [[Roslit Bay]]'s saltwater during the [[Ashfall]] event.
+
+== Description ==
+{{Description|A small fish with a strong glow, the Pyro Pike shows unmatched aggression towards its prey.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Only can be caught during Ashfall.|Bestiary Hint}}
+{{Fish Availability|
+Roslit Bay/Ashfall
+|top_rods      = 
+Flimsy Rod\319435.25\506254.92;
+Training Rod\263875.08\390724.57;
+Krampus's Rod\186460.76\588835.39;
+Magma Rod\178142.74\562567.4;
+Plastic Rod\164547.04\524165.46;
+Fast Rod\124221.8\603297.38;
+Fischer's Rod\113026.08\548924.11;
+Adventurer's Rod\111844.63\543186.23;
+Buddy Bond Rod\122195.18\515871.2;
+Trident Rod\101770.18\120168.5;
+Ethereal Prism Rod\101766.65\147636.35;
+Seraphic Rod\98380.91\118859.85;
+No-Life Rod\98030.44\122903.5;
+Free Spirit Rod\96765.65\114259.25;
+Rod Of The Forgotten Fang\92116.27\114331.87;
+Challenger's Rod\89341.66\111528.97;
+Rod Of The Depths\82965.1\101851.19;
+Zeus Rod\81596.05\103662.42;
+Rod Of The Exalted One\81387.73\100374.21;
+Verdant Shear Rod\80274.1\103395.7;
+Blazebringer Rod\77464.14\98413.1;
+Depthseeker Rod\73793.09\95496.73;
+Avalanche Rod\66594.26\86344.74;
+Volcanic Rod\63579.68\80773.81;
+Steady Rod\33373.61\27586.27
+|recommended   = Training Rod
+}}
+
+== Gameplay Notes ==
+* Pyro Pike usually cannot be caught with passive effects, such as the one provided by the [[Rod Of The Depths]] and [[Rod Of The Forgotten Fang]].
+** The only exception is when catching a Pyro Pike on the Megalodon Passive reel of the [[Rod Of The Forgotten Fang]], the Megalodon will instead dupe the Pyro Pike.
+
+== Catch Quips ==
+When catching a Pyro Pike, the player has a chance to make one of the following exclamations:
+* Woah, a Pyro Pike!
+* It melted my bobber!
+* It lunged at me!
+* Sizzling!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ashfall}}

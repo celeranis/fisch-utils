@@ -1,0 +1,65 @@
+{{FishInfobox
+|image          = Acanthodii.png
+|rarity         = Unusual
+|sea            = First Sea
+|location       = [[Ancient Isle]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 130
+|weather        = 
+|time           = 
+|season         = Winter
+|bait           = 
+|base_weight    = 16
+|base_value     = 160
+|weight_range   = 3
+|base_chance    = 41
+|base_resil     = 70
+}}
+'''Acanthodii''' is an {{Rarity|Unusual}} fish found in the [[Ancient Isle]].
+
+== Description ==
+{{Description|Acanthodii, commonly known as Spiny Sharks, possess many scales that form a diamond pattern along its body. They prey on smaller creatures among the Ancient Isle's waters, and are active both during the day and night. They went extinct around 250 million years ago, at the end of the Permian period.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Can be found in the waters of the Ancient Isle.|Bestiary Hint}}
+{{Fish Availability|
+Ancient Isle/Surrounding Ocean
+|top_rods      = 
+Ethereal Prism Rod\64025.73\91241.06;
+Fast Rod\61531.85\55495.03;
+No-Life Rod\59645.85\54033.6;
+Leviathan's Fang Rod\59570.91\61949.27;
+Fungal Rod\59346.22\41139.39;
+Fortune Rod\35949.3\64389.95;
+Lucky Rod\31195.21\31276.02;
+Kraken Rod\50007.29\55779.52;
+Seraphic Rod\59185.2\53616.3;
+Challenger's Rod\54214.05\49112.9;
+Rod Of The Forgotten Fang\54049.28\48963.64;
+Verdant Shear Rod\50483.1\45733.85;
+Zeus Rod\50450.85\45703.79;
+Rod Of The Depths\49098.6\44478.78;
+Avalanche Rod\48968.9\37528.97;
+Depthseeker Rod\48372.27\41858.11;
+Blazebringer Rod\47611.33\43132.25;
+Rod Of The Exalted One\46693.2\44620.46;
+Trident Rod\42000.95\38049.67;
+Free Spirit Rod\41896.33\37954.9;
+Volcanic Rod\38286.76\34684.25;
+Steady Rod\28239.36\16515.28
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching an Acanthodii, the player has a chance to make one of the following exclamations:
+* Ouu an Acanthodii!
+* Woah, an Acanthodii!
+* Acanthodiiiiiiiiiiiiiii!!!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ancient Isle}}

@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Frigid Taco.png
+|rarity         = Rare
+|sea            = First Sea
+|location       = [[Frigid Cavern]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 250
+|weather        = 
+|time           = 
+|season         = Winter
+|bait           = 
+|base_weight    = 25
+|base_value     = 600
+|weight_range   = 15
+|base_chance    = 25
+|base_resil     = 45
+}}
+'''Frigid Taco''' is a {{Rarity|Rare}} fish found in the [[Frigid Cavern]].
+
+== Description ==
+{{Description|A perfectly preserved taco frozen in magical ice, somehow maintaining its original form.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Lost in the depths of the cavern ages ago.|Bestiary Hint}}
+{{Fish Availability|
+Frigid Cavern
+|top_rods      = 
+Krampus's Rod\213392.75\206997.33;
+Leviathan's Fang Rod\204379.88\141442.6;
+Magma Rod\202516.69\196447.23;
+Trident Rod\194292.58\138642.1;
+Plastic Rod\186611.87\180993.36;
+Flimsy Rod\126816.08\214148.52;
+Fast Rod\139163.91\209234.55;
+Fischer's Rod\128643.29\193416.67;
+Buddy Bond Rod\138564.05\183301.98;
+Adventurer's Rod\127080.82\191067.48;
+Free Spirit Rod\181882.81\129786.81;
+No-Life Rod\158923.16\108284.74;
+Seraphic Rod\153644.01\101184.42;
+Ethereal Prism Rod\152416.65\100769.55;
+Rod Of The Forgotten Fang\146140.52\98978.33;
+Challenger's Rod\144112.38\99218.05;
+Rod Of The Exalted One\134214.9\94503.79;
+Zeus Rod\133183.23\92069.13;
+Rod Of The Depths\132442.91\92545.1;
+Verdant Shear Rod\132324.6\91818.77;
+Blazebringer Rod\126460.98\87783.52;
+Depthseeker Rod\122128.74\85666.15;
+Volcanic Rod\114089.53\73488.82;
+Avalanche Rod\110322.34\77636.23;
+Steady Rod\46824.71\29000.75
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Frigid Taco, the player has a chance to make one of the following exclamations:
+* A Frozen Taco!
+* Still looks tasty!
+* Ancient takeout!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Frigid Cavern}}

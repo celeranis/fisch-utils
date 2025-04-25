@@ -1,0 +1,71 @@
+{{FishInfobox
+|image          = Smallmouth Bass.png
+|rarity         = Common
+|sea            = First Sea
+|location       = [[Terrapin Island]]
+|sublocation    = Freshwater
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 90
+|weather        = Windy
+|time           = 
+|season         = Spring, Summer
+|bait           = Worm
+|base_weight    = 1.7
+|base_value     = 70
+|weight_range   = 1.2
+|base_chance    = 75
+|base_resil     = 80
+}}
+'''Smallmouth Bass''' is a {{Rarity|Common}} fish found in [[Terrapin Island]].
+
+== Description ==
+{{Description|The Smallmouth Bass is a popular freshwater fish known for its fighting spirit and preference for clear, cool waters. It has a streamlined body with a greenish-brown coloration and distinctive horizontal stripes.  It can be found in plenty of freshwaters, but is native to Terrapin Islands filtered water.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Can be found in freshwaters and in the filtered waters of Terrapin Island.|Bestiary Hint}}
+{{Fish Availability|
+Terrapin Island/Olm Cave
+Terrapin Island/Surrounding Ocean
+|top_rods      = 
+Leviathan's Fang Rod\237443.33\166493.11;
+Trident Rod\231983.27\127400.15;
+Free Spirit Rod\228649.17\127173.67;
+Azure Of Lagoon\216385.86\187052.36;
+No-Life Rod\214052.36\185035.2;
+Training Rod\182236.11\182236.11;
+Resourceful Rod\185904.57\178326.6;
+Flimsy Rod\137288.03\124854.78;
+Rapid Rod\194807.1\187057.45;
+Abyssal Specter Rod\201324.7\184534.12;
+Egg Rod\197632.3\183661.41;
+Candy Cane Rod\155621.14\153095.59;
+Rod Of Time\168354.95\165622.75;
+Challenger's Rod\201337.89\165719.48;
+Seraphic Rod\198915.41\181052.35;
+Rod Of The Forgotten Fang\196945.42\165326.25;
+Zeus Rod\196871.71\178554.7;
+Blazebringer Rod\196099.64\179744.83;
+Rod Of The Depths\196047.84\150368.51;
+Verdant Shear Rod\196020.3\182163.36;
+Depthseeker Rod\194598.44\173332.34;
+Avalanche Rod\192872.96\172378.95;
+Rod Of The Exalted One\191980.39\141202.63;
+Ethereal Prism Rod\191763.67\107413.57;
+Volcanic Rod\190261.44\174393.54;
+Steady Rod\98063.05\94297.38
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Smallmouth Bass, the player has a chance to make one of the following exclamations:
+* A Smallmouth Bass!
+* I caught a Smallmouth Bass!
+* Woah! A Smallmouth Bass!
+* Ouu! A Bass!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Terrapin Island}}

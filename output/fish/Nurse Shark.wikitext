@@ -1,0 +1,76 @@
+{{FishInfobox
+|image          = Nurse Shark.png
+|rarity         = Unusual
+|sea            = First Sea
+|location       = [[Ocean]]
+|sublocation    = 
+|sources        = Carbon Crate, Fishing Rod
+|radar_location = 
+|xp             = 100
+|weather        = 
+|time           = Night
+|season         = Summer, Autumn
+|bait           = Minnow
+|base_weight    = 150
+|base_value     = 200
+|weight_range   = 50
+|base_chance    = 35
+|base_resil     = 35
+}}
+'''Nurse Shark''' is an {{Rarity|Unusual}} fish found in the [[Ocean]].
+
+== Description ==
+{{Description|Nurse Sharks are a nocturnal bottom feeder, spending most of their time on the ocean floor or in small crevices. Despite their appearance, they are gentle and slow-moving. Nurse Sharks can 'suction feed', using their powerful jaws to scrape algae off surfaces.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Caught at night in the ocean.|Bestiary Hint}}
+{{Fish Availability|
+Lucky Event/Blarney McBreeze
+Lucky Event/O'Mango Goldgrin
+Lucky Event/Plumrick O'Luck
+Lucky Event/Rowdy McCharm
+Lucky Event/Sunny O'Coin
+Northern Summit/Surrounding Ocean
+Ocean
+Ocean/Harvesters Spike
+Roslit Bay/Coral Reef
+Roslit Bay/Surrounding Ocean
+|top_rods      = 
+Leviathan's Fang Rod\272459.82\154439.47;
+Trident Rod\271255.28\155791.01;
+Free Spirit Rod\239185.57\137372.3;
+Krampus's Rod\234883.29\210622.7;
+Magma Rod\216313.97\193971.36;
+Plastic Rod\203745.58\182696.5;
+Buddy Bond Rod\151353.86\169800.74;
+Fast Rod\179557.28\202349.14;
+Fischer's Rod\165277.53\186256.81;
+Adventurer's Rod\162308.47\182910.88;
+No-Life Rod\189176.98\155102.56;
+Ethereal Prism Rod\182958.81\166864.69;
+Seraphic Rod\182099.65\152041.46;
+Rod Of The Forgotten Fang\173303.67\138487.23;
+Challenger's Rod\171918.57\139080.08;
+Rod Of The Exalted One\158793.16\117943.69;
+Zeus Rod\157874.63\128780.58;
+Rod Of The Depths\156972.68\125366.8;
+Verdant Shear Rod\156371.79\128755.38;
+Blazebringer Rod\150600.32\121672.77;
+Depthseeker Rod\146119.3\118287.91;
+Volcanic Rod\140362.09\97742.39;
+Avalanche Rod\139831.01\105778.24;
+Steady Rod\73117.44\44559.63
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Nurse Shark, the player has a chance to make one of the following exclamations:
+* A Nurse Shark!
+* Woah! A Nurse Shark!
+* I Caught a Nurse Shark!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ocean}}

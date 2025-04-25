@@ -1,0 +1,65 @@
+{{FishInfobox
+|image          = Sea Snake.png
+|rarity         = Mythical
+|sea            = First Sea
+|location       = [[The Depths]]
+|sublocation    = Coral Reef
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -40
+|xp             = 1200
+|weather        = 
+|time           = Night
+|season         = Winter
+|bait           = Fish Head
+|base_weight    = 80
+|base_value     = 5000
+|weight_range   = 50
+|base_chance    = 0.01
+|base_resil     = 10
+}}
+'''Sea Snake''' is a {{Rarity|Mythical}} fish found in [[The Depths]].
+
+== Description ==
+{{Description|A long, venomous sea snake with smooth, scaly skin and a graceful, undulating movement.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Swims near coral reefs and sunken ruins in shallow waters during the cold nights.|Bestiary Hint}}
+{{Fish Availability|
+The Depths
+The Depths/Absolute Darkness
+|top_rods      = 
+Leviathan's Fang Rod\125118.89\203530.95;
+Free Spirit Rod\111636.76\170044.66;
+Trident Rod\107250.85\163364.06;
+No-Life Rod\85020.25\139045.1;
+Seraphic Rod\77757.88\123809.3;
+Lucky Rod\47407.95\75234.57;
+Firefly Rod\69493.46\118510.96;
+Candy Cane Rod\45061.3\77099.03;
+Challenger's Rod\75612.44\123859.02;
+Magnet Rod\35512.61\57009.64;
+Adventurer's Rod\45649.58\78524.6;
+Ethereal Prism Rod\76911.97\123420.45;
+Rod Of The Forgotten Fang\73935.57\119868.98;
+Zeus Rod\66672.73\106130.53;
+Verdant Shear Rod\65835.78\106076.28;
+Rod Of The Depths\64969.92\105772.06;
+Blazebringer Rod\64065.98\101468.27;
+Depthseeker Rod\63113.43\100128.66;
+Rod Of The Exalted One\63094.25\101659.06;
+Avalanche Rod\55395.39\89402.57;
+Volcanic Rod\52636.36\83365.95;
+Steady Rod\18534.96\32481.26
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Sea Snake, the player has a chance to make one of the following exclamations:
+* WOW! A SEA SNAKE!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|The Depths}}

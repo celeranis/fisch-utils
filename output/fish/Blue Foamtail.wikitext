@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Blue Foamtail.png
+|rarity         = Uncommon
+|sea            = Second Sea
+|location       = [[Pine Shoals]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = +10
+|xp             = 45
+|weather        = Windy
+|time           = Day
+|season         = Summer
+|bait           = Flakes
+|base_weight    = 6
+|base_value     = 65
+|weight_range   = 4
+|base_chance    = 175
+|base_resil     = 60
+}}
+'''Blue Foamtail''' is an {{Rarity|Uncommon}} fish found in [[Pine Shoals]].
+
+== Description ==
+{{Description|A swift swimmer that foams with blue energy.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It races where the waves bubble.|Bestiary Hint}}
+{{Fish Availability|
+Pine Shoals
+|top_rods      = 
+Free Spirit Rod\334303.63\37900.65;
+Trident Rod\303996.71\36107.79;
+Azure Of Lagoon\301212.75\34931.62;
+Leviathan's Fang Rod\300666.73\35239.05;
+Egg Rod\267325.05\36723.05;
+Training Rod\239846.59\248457.26;
+Flimsy Rod\225612.62\24840.83;
+Nocturnal Rod\139650.94\134119.58;
+Precision Rod\215088.52\25547.55;
+Blazebringer Rod\265969.08\31172.38;
+Verdant Shear Rod\264916.09\35501.78;
+No-Life Rod\249422.33\30525.1;
+Seraphic Rod\232481.59\27613.45;
+Ethereal Prism Rod\229332.42\26729.36;
+Challenger's Rod\224889.87\27405.12;
+Depthseeker Rod\223512.28\28645.14;
+Rod Of The Forgotten Fang\222746.38\26525.99;
+Avalanche Rod\221054.69\28420.82;
+Rod Of The Exalted One\219796.8\25866.04;
+Volcanic Rod\219406.37\27267.01;
+Rod Of The Depths\219111.96\26320.55;
+Zeus Rod\218501.39\27154.54;
+Steady Rod\212358.74\22928.64
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Blue Foamtail, the player has a chance to make one of the following exclamations:
+* A Blue Foamtail!
+* Foamy and fast!
+* Blue blur!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Pine Shoals}}

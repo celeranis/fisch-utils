@@ -1,0 +1,40 @@
+{{FishInfobox
+|image          = Shrimp.png
+|rarity         = Common
+|sea            = First Sea
+|location       = [[Ocean]]
+|sublocation    = 
+|sources        = Crab Cage
+|radar_location = 
+|xp             = 35
+|weather        = Rain
+|time           = Night
+|season         = Spring, Autumn
+|bait           = 
+|base_weight    = 0.2
+|base_value     = 45
+|weight_range   = 0.1
+|base_chance    = 45
+|base_resil     = 200
+}}
+'''Shrimp''' is a {{Rarity|Common}} fish found in the [[Ocean]].
+
+== Description ==
+{{Description|Shrimp are small, versatile crustaceans that are most active from spring to autumn, and can be found in an abundance in deep oceans. Shrimp are predominantly nocturnal, making night fishing the most effective time.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Caught at night in deep oceans in crab cages.|Bestiary Hint}}
+
+== Catch Quips ==
+When catching a Shrimp, the player has a chance to make one of the following exclamations:
+* A Shrimp!
+* Woah! A Shrimp
+* Awesome!
+* A Shrimp!
+* Ou! A Shrimpy!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ocean}}

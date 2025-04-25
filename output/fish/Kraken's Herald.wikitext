@@ -1,0 +1,70 @@
+{{FishInfobox
+|image          = Kraken's Herald.png
+|rarity         = Legendary
+|sea            = First Sea
+|location       = [[Atlantis]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -60
+|xp             = 1500
+|weather        = 
+|time           = Night
+|season         = 
+|bait           = Truffle Worm
+|base_weight    = 500
+|base_value     = 3000
+|weight_range   = 250
+|base_chance    = 0.8
+|base_resil     = 25
+}}
+'''Kraken's Herald''' is a {{Rarity|Legendary}} fish found in [[Atlantis]].
+
+== Description ==
+{{Description|A massive creature that serves as the Kraken's messenger. Its presence often precedes great disturbances in the deep, and lesser beings flee at its approach.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Watch for unusual patterns in the water's surface, Kraken Pool.|Bestiary Hint}}
+{{Fish Availability|
+Atlantis/Ancient Kraken Hunt
+Atlantis/Kraken Hunt
+Atlantis/Kraken Pool
+|top_rods      = 
+Leviathan's Fang Rod\89540.46\134935.36;
+Free Spirit Rod\86282\132776.93;
+Trident Rod\80704.26\124193.5;
+No-Life Rod\64393.14\94773.23;
+Azure Of Lagoon\63226.34\99903.88;
+Long Rod\47858.09\85301.05;
+Frog Rod\44340.55\72795.89;
+Resourceful Rod\51978.62\80975.86;
+Rapid Rod\60946.37\94828.38;
+Buddy Bond Rod\35793.82\60444.23;
+Seraphic Rod\62987.08\91554.43;
+Ethereal Prism Rod\62321.86\89967.94;
+Challenger's Rod\59991.91\90130.59;
+Rod Of The Forgotten Fang\58424.68\86720.99;
+Zeus Rod\52216.63\77838.17;
+Verdant Shear Rod\51966.64\77098.8;
+Rod Of The Depths\51638.16\76223;
+Blazebringer Rod\50134.61\75256.05;
+Rod Of The Exalted One\49941.54\73667.96;
+Depthseeker Rod\49322.12\75141.8;
+Avalanche Rod\43780.87\66161;
+Volcanic Rod\40823.65\61673.93;
+Steady Rod\16243.24\25222.28
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Kraken's Herald, the player has a chance to make one of the following exclamations:
+* THE HERALD APPEARS!
+* MESSENGER OF DOOM!
+* THE KRAKEN SPEAKS!
+* DARKNESS COMES!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Atlantis}}

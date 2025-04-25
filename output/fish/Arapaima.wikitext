@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Arapaima.png
+|rarity         = Rare
+|sea            = First Sea
+|location       = [[Roslit Bay]]
+|sublocation    = Freshwater
+|sources        = Carbon Crate, Fish Barrel, Fishing Rod
+|radar_location = 
+|xp             = 150
+|weather        = Rain, Foggy
+|time           = 
+|season         = 
+|bait           = Minnow
+|base_weight    = 200
+|base_value     = 250
+|weight_range   = 100
+|base_chance    = 15
+|base_resil     = 30
+}}
+'''Arapaima''' is a {{Rarity|Rare}} fish found in [[Roslit Bay]].
+
+== Description ==
+{{Description|Arapaima are massive freshwater fish with large, broad bodies and a distinctive, armor-like scaled appearance. They have a unique respiratory system that allows them to breathe air, as well as gills.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in Roslit Bays freshwater during the day.|Bestiary Hint}}
+{{Fish Availability|
+Roslit Bay/Freshwater Pond
+Roslit Bay/Freshwater Pond Seaweed
+|top_rods      = 
+Krampus's Rod\363529.85\830203.17;
+Magma Rod\345071.34\788048.97;
+Plastic Rod\313527.42\716011.25;
+Buddy Bond Rod\232906.09\637250.83;
+Leviathan's Fang Rod\179641.08\580302.91;
+Fast Rod\123438.74\791591.8;
+Fischer's Rod\108008.9\692642.82;
+Ethereal Prism Rod\160292.51\352664.76;
+Seraphic Rod\148512.59\352271.55;
+No-Life Rod\140659.47\372763.63;
+Rod Of The Forgotten Fang\138132.92\337374.44;
+Trident Rod\132323.13\531448.87;
+Challenger's Rod\128000.45\335639.47;
+Rod Of The Exalted One\124859.49\307037.07;
+Free Spirit Rod\124128.12\498535.3;
+Rod Of The Depths\122272.39\305378.73;
+Zeus Rod\112790.51\307965.33;
+Verdant Shear Rod\108205.87\304960.55;
+Blazebringer Rod\107160.31\293851.63;
+Depthseeker Rod\98935.34\285342.34;
+Avalanche Rod\88812.49\257458.81;
+Volcanic Rod\87888.48\243498.07;
+Steady Rod\26900.68\83790.39
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching an Arapaima, the player has a chance to make one of the following exclamations:
+* An Arapaima!
+* I caught an Arapaima!
+* Woah, an Arapaima!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Roslit Bay}}

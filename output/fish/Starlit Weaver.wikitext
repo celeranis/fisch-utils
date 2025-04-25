@@ -1,0 +1,66 @@
+{{FishInfobox
+|image          = Starlit Weaver.png
+|rarity         = Rare
+|sea            = First Sea
+|location       = [[Atlantis]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 500
+|weather        = Clear
+|time           = Night
+|season         = 
+|bait           = Deep Coral
+|base_weight    = 40
+|base_value     = 800
+|weight_range   = 20
+|base_chance    = 10
+|base_resil     = 25
+}}
+'''Starlit Weaver''' is a {{Rarity|Rare}} fish found in [[Atlantis]].
+
+== Description ==
+{{Description|These ethereal fish trail strands of bioluminescent light that weave complex patterns in the water. The patterns are said to map the currents of magical energy flowing through the abyss.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Ethereal Abyss Pool|Bestiary Hint}}
+{{Fish Availability|
+Atlantis/Ethereal Abyss
+|top_rods      = 
+Leviathan's Fang Rod\78529.75\130434.15;
+Free Spirit Rod\68711.31\123701.56;
+Trident Rod\67198.59\120978.21;
+Ethereal Prism Rod\56602.18\77373.76;
+No-Life Rod\55032.09\86374.16;
+Plastic Rod\44300.51\50573.45;
+Krampus's Rod\52882.37\59006.4;
+Magma Rod\51526.42\57493.42;
+Seraphic Rod\54703.64\77591.97;
+Fungal Rod\36428.38\64758.14;
+Antler Rod\32307.19\56662.75;
+Long Rod\32772.56\57356.15;
+Rod Of The Forgotten Fang\51091.85\75059.36;
+Challenger's Rod\49540.69\75152.97;
+Rod Of The Depths\45830.07\67956.73;
+Rod Of The Exalted One\45094.24\68246.64;
+Zeus Rod\44985.02\69077.08;
+Verdant Shear Rod\44170.31\68574.57;
+Blazebringer Rod\42748.83\65928.6;
+Depthseeker Rod\40744.76\64392.15;
+Avalanche Rod\36665.33\58026.99;
+Volcanic Rod\35052.51\54606.18;
+Steady Rod\11736.92\20585.92
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Starlit Weaver, the player has a chance to make one of the following exclamations:
+* A Starlit Weaver!
+* The lights dance!
+* Weaver of the void!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Atlantis}}

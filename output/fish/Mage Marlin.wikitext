@@ -1,0 +1,65 @@
+{{FishInfobox
+|image          = Mage Marlin.png
+|rarity         = Legendary
+|sea            = First Sea
+|location       = [[Atlantis]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 1200
+|weather        = Clear
+|time           = Night
+|season         = 
+|bait           = Fish Head
+|base_weight    = 200
+|base_value     = 2500
+|weight_range   = 100
+|base_chance    = 1
+|base_resil     = 20
+}}
+'''Mage Marlin''' is a {{Rarity|Legendary}} fish found in [[Atlantis]].
+
+== Description ==
+{{Description|Masters of aquatic magic, these mystical marlins channel the ethereal energies of the abyss through their sword-like bills. Their presence can cause surges of magical power in ancient ruins.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Ethereal Abyss Pool|Bestiary Hint}}
+{{Fish Availability|
+Atlantis/Ethereal Abyss
+|top_rods      = 
+Leviathan's Fang Rod\41662.55\169269.9;
+Free Spirit Rod\35504.84\163298.26;
+Trident Rod\34723.18\159703.17;
+Ethereal Prism Rod\31576.68\103771.9;
+Seraphic Rod\30260.18\106757.17;
+Resourceful Rod\24106.16\80038.06;
+Destiny Rod\25107.1\84825.98;
+Lucky Rod\17179.86\76365.05;
+No-Life Rod\30226.1\124852.3;
+Fungal Rod\19568.29\85063.61;
+Antler Rod\17316.53\74035.49;
+Rod Of The Forgotten Fang\28215.58\98718.56;
+Challenger's Rod\27151.69\97693.75;
+Rod Of The Depths\25201.09\87045.52;
+Rod Of The Exalted One\25016.5\87031.46;
+Zeus Rod\24497.63\89290.85;
+Verdant Shear Rod\23945.78\89006.29;
+Blazebringer Rod\23285.23\85242.7;
+Depthseeker Rod\22081.7\83981.59;
+Avalanche Rod\19842.6\75573.43;
+Volcanic Rod\19087.97\70565.15;
+Steady Rod\6272.97\27297.08
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Mage Marlin, the player has a chance to make one of the following exclamations:
+* THE MAGE MARLIN!
+* ANCIENT POWER FLOWS!
+* MAGIC OF THE DEPTHS!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Atlantis}}

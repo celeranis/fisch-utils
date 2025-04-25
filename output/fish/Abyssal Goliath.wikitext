@@ -1,0 +1,70 @@
+{{FishInfobox
+|image          = Abyssal Goliath.png
+|rarity         = Mythical
+|sea            = First Sea
+|location       = [[Atlantis]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -75
+|xp             = 2500
+|weather        = 
+|time           = Night
+|season         = 
+|bait           = Truffle Worm
+|base_weight    = 1200
+|base_value     = 6000
+|weight_range   = 500
+|base_chance    = 0.08
+|base_resil     = 15
+}}
+'''Abyssal Goliath''' is a {{Rarity|Mythical}} fish found in [[Atlantis]].
+
+== Description ==
+{{Description|A colossal deep-sea fish of impossible size, its mere presence creates currents in the water. Its true size is unknown as none have ever seen its full form.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|The deepest parts of Poseidon's Pool occasionally tremble with its presence, Poseidon Pool.|Bestiary Hint}}
+{{Fish Availability|
+Atlantis/Poseidon Temple
+|top_rods      = 
+Free Spirit Rod\67652.44\159450.02;
+Leviathan's Fang Rod\67559.37\154450.58;
+Trident Rod\59175.35\139470.37;
+Seraphic Rod\56858.69\124953.57;
+No-Life Rod\56811.34\127590.92;
+Resourceful Rod\39595.95\91496.94;
+Midas Rod\19191.18\41798.62;
+Great Dreamer Rod\43345.03\98770.85;
+Azure Of Lagoon\54687.28\136804.51;
+Abyssal Specter Rod\49805.08\130295.95;
+Rod Of Time\31655.82\80719.02;
+Relic Rod\31655.82\80719.02;
+North-Star Rod\27190.34\66297.28;
+Ethereal Prism Rod\55491.78\118821.6;
+Challenger's Rod\54578.66\127842.14;
+Rod Of The Forgotten Fang\50925.22\112452.91;
+Zeus Rod\44249.83\99595.44;
+Rod Of The Depths\43973.5\94850.77;
+Verdant Shear Rod\43842.5\100867.02;
+Blazebringer Rod\43107.02\96687.55;
+Depthseeker Rod\43006.78\102701.51;
+Rod Of The Exalted One\42696.43\90411.36;
+Avalanche Rod\37413.42\86117.96;
+Volcanic Rod\34699.15\76786.63;
+Steady Rod\13574.94\35458.93
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching an Abyssal Goliath, the player has a chance to make one of the following exclamations:
+* THE ABYSSAL GOLIATH!
+* POSEIDON'S GIANT!
+* IMPOSSIBLE SIZE!
+* THE DEEP'S MASTER!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Atlantis}}

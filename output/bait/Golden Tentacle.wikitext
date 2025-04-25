@@ -1,0 +1,25 @@
+{{BaitInfobox
+|image          = Bait Golden Tentacle.png
+|rarity         = Legendary
+|crates         = 
+|angler_quests  = <!--TBD-->
+|pref_luck      = 150
+|univ_luck      = 40
+|resilience     = 20
+|lure           = 50
+|ability        = 
+}}
+'''Golden Tentacle''' is a {{Rarity|Legendary}} [[Bait]] that can be used in fishing.
+
+== Obtainment ==
+Golden Tentacles can be obtained in the following ways:
+<!--* [[Angler]] Quests, starting from the ?th completion-->
+
+== Favoring Fish ==
+{{Fish by Category Table|Golden Tentacle-Loving Fish|event=1|show_location=1|hide_bait=1|resultsheader='''%PAGES%''' [[Fish]] prefer Golden Tentacles:|noresultsheader=No fish prefer Golden Tentacles.}}
+
+== Change History ==
+{{Change History|1.0}}
+
+== Navigation ==
+{{Bait Navbox}}

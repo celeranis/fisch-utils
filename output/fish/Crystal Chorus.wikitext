@@ -1,0 +1,66 @@
+{{FishInfobox
+|image          = Crystal Chorus.png
+|rarity         = Uncommon
+|sea            = First Sea
+|location       = [[Atlantis]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 100
+|weather        = Clear
+|time           = Night
+|season         = Winter
+|bait           = Shrimp
+|base_weight    = 5
+|base_value     = 160
+|weight_range   = 2.5
+|base_chance    = 50
+|base_resil     = 60
+}}
+'''Crystal Chorus''' is an {{Rarity|Uncommon}} fish found in [[Atlantis]].
+
+== Description ==
+{{Description|These mysterious fish gather around ancient power crystals, creating haunting harmonies with their fins. The vibrations seem to resonate with the city's magic.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Sunken's Depth Pool|Bestiary Hint}}
+{{Fish Availability|
+Atlantis/Sunken Depths
+|top_rods      = 
+Champions Rod\130732.98\92049.35;
+Ethereal Prism Rod\130228.72\163969.05;
+Depthseeker Rod\129949.55\92399.76;
+Celestial Rod\129376.51\93301.25;
+Rapid Rod\129262.51\111726.63;
+Training Rod\125695.09\151459.31;
+Flimsy Rod\89220.87\87536.02;
+Fortune Rod\71628.9\99161.26;
+Leviathan's Fang Rod\122133.16\136300.9;
+No-Life Rod\119705.32\119705.32;
+Seraphic Rod\118451.39\118451.39;
+Avalanche Rod\127715.96\89305.18;
+Verdant Shear Rod\122253.43\100873.25;
+Trident Rod\112341.95\84896.81;
+Blazebringer Rod\110991.61\95175.44;
+Zeus Rod\110143.48\100823.19;
+Free Spirit Rod\108859.76\84606.12;
+Challenger's Rod\108465.86\108465.86;
+Rod Of The Forgotten Fang\108106.5\108106.5;
+Volcanic Rod\107500.15\76517.73;
+Rod Of The Depths\98132.02\98132.02;
+Rod Of The Exalted One\93531.47\99077.66;
+Steady Rod\60518.43\50381.24
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching a Crystal Chorus, the player has a chance to make one of the following exclamations:
+* A Crystal Chorus!
+* Listen to its song!
+* The harmony of the depths!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Atlantis}}

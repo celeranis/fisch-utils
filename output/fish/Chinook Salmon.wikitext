@@ -1,0 +1,94 @@
+{{FishInfobox
+|image          = Chinook Salmon.png
+|rarity         = Unusual
+|sea            = First Sea
+|location       = [[Terrapin Island]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 100
+|weather        = 
+|time           = 
+|season         = Autumn
+|bait           = Minnow
+|base_weight    = 40
+|base_value     = 230
+|weight_range   = 30
+|base_chance    = 30
+|base_resil     = 50
+}}
+'''Chinook Salmon''' is an {{Rarity|Unusual}} fish found in [[Terrapin Island]].
+
+== Description ==
+{{Description|The Chinook Salmon, also known as King Salmon, are large silver fish with a slightly forked tail and a black mouth. They are highly prized; and are a common target for sport and commercial fishing. The King Salmon are commonly in ocean waters, but during the Autumn they migrate to Terrapin Island to lay eggs.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in the waters of Terrapin Island, and general ocean waters.|Bestiary Hint}}
+{{Fish Availability|
+Ancient Isle/Algae Hunt
+Atlantis/Surrounding Ocean
+FischFright/Frightful Pool
+Forsaken Shores/Algae Hunt
+Golden Tide
+Lovestorm/Normal
+Lovestorm/Supercharged
+Lucky Event/Blarney McBreeze
+Lucky Event/O'Mango Goldgrin
+Lucky Event/Plumrick O'Luck
+Lucky Event/Rowdy McCharm
+Lucky Event/Sunny O'Coin
+Megalodon Hunt/Eclipse and Weekend
+Megalodon Hunt/Normal
+Mushgrove Swamp/Algae Hunt
+Northern Summit/Surrounding Ocean
+Ocean
+Ocean/Deep Ocean
+Ocean/Harvesters Spike
+Ocean/The Arch
+Orca Migration/Ancient
+Orca Migration/Normal
+Roslit Bay/Surrounding Ocean
+Snowcap Island/Algae Hunt
+Terrapin Island/Olm Cave
+Terrapin Island/Surrounding Ocean
+Whale Migration/Moby
+Whale Migration/Normal
+|top_rods      = 
+Krampus's Rod\272667.71\357219.49;
+Magma Rod\260503.98\341283.9;
+Plastic Rod\238989.51\313097.99;
+Buddy Bond Rod\177535.06\291006.41;
+Leviathan's Fang Rod\155742.7\353876.72;
+Trident Rod\135879.06\350275.86;
+Fast Rod\148059.66\337675.96;
+Flimsy Rod\107635.59\309873.57;
+Ethereal Prism Rod\151175.65\255185.83;
+Seraphic Rod\143654.21\263718.47;
+No-Life Rod\140583.04\279409.31;
+Rod Of The Forgotten Fang\134243.49\257270.39;
+Free Spirit Rod\129197.24\333051.13;
+Challenger's Rod\128386.15\254819.72;
+Rod Of The Depths\120191.04\247057.29;
+Rod Of The Exalted One\119763.76\248428.94;
+Zeus Rod\116286.11\238722.25;
+Verdant Shear Rod\113673.89\239862.56;
+Blazebringer Rod\110397.54\227557.8;
+Depthseeker Rod\104270.63\224117.64;
+Avalanche Rod\94016.78\203497.47;
+Volcanic Rod\90610.19\188810.58;
+Steady Rod\38403.45\71180.71
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching a Chinook Salmon, the player has a chance to make one of the following exclamations:
+* Ou! A Chinook Salmon!
+* A King Salmon!
+* I Caught a King Salmon!
+* Woah, a King Salmon!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Terrapin Island}}

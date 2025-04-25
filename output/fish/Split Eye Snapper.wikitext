@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Split Eye Snapper.png
+|rarity         = Unusual
+|sea            = Second Sea
+|location       = [[The Cursed Shores]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -68
+|xp             = 300
+|weather        = Windy
+|time           = Day
+|season         = Spring
+|bait           = Flakes
+|base_weight    = 6
+|base_value     = 380
+|weight_range   = 3.5
+|base_chance    = 85
+|base_resil     = 12
+}}
+'''Split Eye Snapper''' is an {{Rarity|Unusual}} fish found in [[The Cursed Shores]].
+
+== Description ==
+{{Description|A savage snapper that strikes with unerring precision.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It hunts where the currents split.|Bestiary Hint}}
+{{Fish Availability|
+The Cursed Shores
+|top_rods      = 
+Free Spirit Rod\399259.38\10042.2;
+Leviathan's Fang Rod\332819.76\15333.73;
+Trident Rod\316118.21\13790.6;
+Azure Of Lagoon\314414.42\14518.4;
+Egg Rod\247559.03\10809.89;
+Training Rod\177868.64\59519.08;
+Flimsy Rod\149380.21\6534.01;
+Buddy Bond Rod\138186.67\5378.69;
+Nocturnal Rod\44399.68\40652.02;
+Verdant Shear Rod\233997.49\10198.06;
+Blazebringer Rod\229507.25\9657.67;
+No-Life Rod\217838.04\9233.12;
+Seraphic Rod\198821.96\8673.57;
+Challenger's Rod\180555.9\7629.19;
+Ethereal Prism Rod\171687.7\7150.6;
+Rod Of The Forgotten Fang\157893.03\6953.18;
+Depthseeker Rod\153507.76\6065.16;
+Rod Of The Exalted One\149792\6529.24;
+Avalanche Rod\149537.86\5639.9;
+Steady Rod\149060.28\5862.58;
+Volcanic Rod\146518.89\5573;
+Rod Of The Depths\146077.41\6174.36;
+Zeus Rod\144472.99\5495.18
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Split Eye Snapper, the player has a chance to make one of the following exclamations:
+* A Split Eye Snapper!
+* Snaps like thunder!
+* Eyes of fury!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|The Cursed Shores}}

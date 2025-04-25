@@ -1,0 +1,25 @@
+{{BaitInfobox
+|image          = Bait Chocolate Fish.png
+|rarity         = Mythical
+|crates         = 
+|angler_quests  = <!--TBD-->
+|pref_luck      = 200
+|univ_luck      = 150
+|resilience     = 15
+|lure           = 20
+|ability        = 
+}}
+'''Chocolate Fish''' is a {{Rarity|Mythical}} [[Bait]] that can be used in fishing.
+
+== Obtainment ==
+Chocolate Fishs can be obtained in the following ways:
+<!--* [[Angler]] Quests, starting from the ?th completion-->
+
+== Favoring Fish ==
+{{Fish by Category Table|Chocolate Fish-Loving Fish|event=1|show_location=1|hide_bait=1|resultsheader='''%PAGES%''' [[Fish]] prefer Chocolate Fishs:|noresultsheader=No fish prefer Chocolate Fishs.}}
+
+== Change History ==
+{{Change History|1.0}}
+
+== Navigation ==
+{{Bait Navbox}}

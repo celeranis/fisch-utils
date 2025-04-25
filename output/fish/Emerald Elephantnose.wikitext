@@ -1,0 +1,65 @@
+{{FishInfobox
+|image          = Emerald Elephantnose.png
+|rarity         = Uncommon
+|sea            = First Sea
+|location       = [[Calm Zone]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 100
+|weather        = Clear
+|time           = Day
+|season         = Summer
+|bait           = Bagel
+|base_weight    = 160
+|base_value     = 1000
+|weight_range   = 100
+|base_chance    = 45
+|base_resil     = 90
+}}
+'''Emerald Elephantnose''' is an {{Rarity|Uncommon}} fish found in the [[Calm Zone]] of [[Mariana's Veil]].
+
+== Description ==
+{{Description|A small fish with an elongated nose and emerald-green scales.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Located in clear waters with a glistening green shine, typically during the day.|Bestiary Hint}}
+{{Fish Availability|
+Mariana's Veil/Calm Zone
+|top_rods      = 
+Ethereal Prism Rod\211194.55\57530.25;
+Fast Rod\210452.11\53685.14;
+No-Life Rod\209401.21\53413.66;
+Rapid Rod\208579.38\50502.72;
+Seraphic Rod\208576.86\53203.39;
+Fortune Rod\118195.41\34037.5;
+Mythical Rod\168241.48\29334.02;
+Fischmas Rod\180168.81\31413.63;
+Nocturnal Rod\131631.91\81185.39;
+Avalanche Rod\197459.79\37343.96;
+Depthseeker Rod\195832.5\41540.09;
+Challenger's Rod\190913.01\48697.73;
+Rod Of The Forgotten Fang\190460\48582.17;
+Verdant Shear Rod\184707.73\45530.66;
+Zeus Rod\178020.61\45409.16;
+Rod Of The Depths\173520.71\44264.15;
+Blazebringer Rod\169264.38\42880.9;
+Volcanic Rod\163776.84\34489.31;
+Rod Of The Exalted One\162668.98\41493.29;
+Trident Rod\145800.06\37192.77;
+Free Spirit Rod\145621.47\37147.21;
+Steady Rod\109666.59\20901.88
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching an Emerald Elephantnose, the player has a chance to make one of the following exclamations:
+* An Emerald Elephantnose!
+* Perfect for trading!
+* Not quite elephant-sized...
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Calm Zone}}

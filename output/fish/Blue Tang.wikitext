@@ -1,0 +1,70 @@
+{{FishInfobox
+|image          = Blue Tang.png
+|rarity         = Uncommon
+|sea            = First Sea
+|location       = [[Roslit Bay]]
+|sublocation    = Coral Reef
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 90
+|weather        = 
+|time           = Day
+|season         = Spring, Summer
+|bait           = Flakes
+|base_weight    = 1.5
+|base_value     = 90
+|weight_range   = 1.2
+|base_chance    = 60
+|base_resil     = 65
+}}
+'''Blue Tang''' is an {{Rarity|Uncommon}} fish found in [[Roslit Bay]].
+
+== Description ==
+{{Description|The Blue Tang is most renowned for its vivid blue coloration and yellow tail. Often found alongside coral and see anemones inside the reef of Roslit Bay.			Best paired with the Clownfish!|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in Roslit Bays coral reef.|Bestiary Hint}}
+{{Fish Availability|
+Roslit Bay/Coral Reef
+|top_rods      = 
+Rapid Rod\199289.83\24696.74;
+No-Life Rod\196085.47\26391.21;
+Champions Rod\194619.87\19144.73;
+Celestial Rod\194368.4\19772.14;
+Seraphic Rod\194311.55\26152.45;
+Training Rod\175625.61\27901.17;
+Flimsy Rod\128809.59\20463.63;
+Buddy Bond Rod\122190.5\12713.46;
+Nocturnal Rod\127751.15\76803.8;
+Fast Rod\191432.12\25766.02;
+Depthseeker Rod\191693.36\20409.17;
+Avalanche Rod\189373.28\18293.72;
+Ethereal Prism Rod\189246.29\0;
+Verdant Shear Rod\187017.29\22290.05;
+Trident Rod\182545.22\18647.58;
+Blazebringer Rod\180170.15\21026.32;
+Zeus Rod\178838.84\22277.29;
+Challenger's Rod\177961.68\23951.92;
+Free Spirit Rod\177948.27\18593.03;
+Rod Of The Forgotten Fang\177397.46\23875.98;
+Volcanic Rod\174596.93\16906.49;
+Rod Of The Depths\161092.16\21681.44;
+Rod Of The Exalted One\151334.33\20368.14;
+Steady Rod\97925.73\7896.37
+|recommended   = No-Life Rod
+}}
+
+== Catch Quips ==
+When catching a Blue Tang, the player has a chance to make one of the following exclamations:
+* Ouu a Blue Tang!
+* Woah, a Blue Tang!
+* A Blue Tang!
+* I caught a Blue Tang!
+* I caught a Blue Tang!
+* Found her!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Roslit Bay}}

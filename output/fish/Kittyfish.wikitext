@@ -1,0 +1,76 @@
+{{FishInfobox
+|image          = Kittyfish.png
+|rarity         = Limited
+|event          = Animal Hunt
+|sea            = Second Sea
+|location       = [[Animals - Sea 2]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = +10
+|xp             = 650
+|weather        = Clear
+|time           = 
+|season         = Summer
+|bait           = Fish Head
+|base_weight    = 21.3
+|base_value     = 300
+|weight_range   = 16.8
+|base_chance    = 80
+|base_resil     = 130
+}}
+'''Kittyfish''' is a {{Rarity|Limited}} fish found in [[Animal Hunt]]s in the [[Second Sea]].
+
+== Description ==
+{{Description|A feline swimmer with whiskers, purring through the warm currents.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It meows where the summer sun warms the currents.|Bestiary Hint}}
+{{Fish Availability|
+Animal Hunt/Second Sea
+|top_rods      = 
+Training Rod\260985.93\NaN;
+Flimsy Rod\252790.47\209859.29;
+Firefly Rod\209312.36\257075.22;
+Azure Of Lagoon\179141.7\199764.76;
+Free Spirit Rod\177420.59\110735.95;
+Lucky Rod\173576.56\204168.47;
+Great Dreamer Rod\169800.92\200459.58;
+Verdant Shear Rod\167982.81\191655.61;
+Adventurer's Rod\172890.25\172910.85;
+Leviathan's Fang Rod\158822.14\172785.19;
+Long Rod\168065.07\168065.07;
+Blazebringer Rod\166978.43\190403.44;
+Trident Rod\156116.3\154244.08;
+Ethereal Prism Rod\144869.53\167071.24;
+No-Life Rod\143329.56\141591.07;
+Seraphic Rod\141231.79\139538.08;
+Rod Of The Exalted One\137535.3\145047.45;
+Challenger's Rod\136951.76\134852.54;
+Depthseeker Rod\136587.62\136587.62;
+Rod Of The Forgotten Fang\136431.85\133346.98;
+Avalanche Rod\136215.31\136215.31;
+Volcanic Rod\135839.97\135391.25;
+Rod Of The Depths\135569.96\131822.72;
+Zeus Rod\135520.89\135073.23;
+Steady Rod\111222.67\111222.67
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Kittyfish, the player has a chance to make one of the following exclamations:
+* A Kittyfish!
+* Whiskers in the waves!
+* Cat of the sea!
+* A best friend!
+* Aggressive purring!
+* meow meow meow meow meow
+* This isn't Mila...
+* :3
+* car
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Animals - Sea 2}}

@@ -1,0 +1,63 @@
+{{FishInfobox
+|image          = Phantom Megalodon.png
+|rarity         = Limited
+|sea            = First Sea
+|location       = [[Ancient Isle]]
+|sublocation    = 
+|sources        = Fishing Rod
+|nopassive      = 1
+|radar_location = 
+|prog_speed     = -85
+|xp             = 12000
+|weather        = 
+|time           = 
+|season         = 
+|bait           = Shark Head
+|base_weight    = 67000
+|base_value     = 20000
+|weight_range   = 17000
+|base_chance    = 0.0001
+|base_resil     = 5
+}}
+'''Phantom Megalodon''' is a {{Rarity|Limited}} fish found in the [[Ancient Isle]].
+
+== Description ==
+{{Description|The Phantom Meg is a spectral version of the ancient Megalodon, haunting the waters with an ethereal glow. Its serrated teeth remain just as fearsome, tearing through anything in its way. Though extinct for millions of years, this ghostly apex predator dominates the Ancient Isle and will challenge any angler brave enough to hook it.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|The Phantom Meg only emerges during the eclipse & twilight hours of the celestial cycle, when the sun and moon align every seven days.|Bestiary Hint}}
+{{Fish Availability|
+Megalodon Hunt/Eclipse and Weekend
+|top_rods      = 
+Tempest Rod\25714.64\70382.87;
+Seraphic Rod\25605.17\69785.18;
+Ethereal Prism Rod\24971.54\64783;
+Challenger's Rod\24735.64\69957.83;
+Leviathan's Fang Rod\23866.08\61250.61;
+Destiny Rod\16922.97\41260.07;
+Heaven's Rod\16663.22\41335.46;
+No-Life Rod\23219.35\63751.75;
+The Lost Rod\14439.97\40272.17;
+Volcanic Rod\12833.42\35791.6;
+Zeus Rod\16255.66\45336.02;
+Rod Of The Forgotten Fang\21496.2\57278.99;
+Rod Of The Exalted One\17414.43\45057.86;
+Avalanche Rod\13734.48\39260.01;
+Steady Rod\4595.65\13693.48
+|recommended   = Seraphic Rod
+}}
+
+== Gameplay Notes ==
+* While reeling in a Phantom Megalodon, the fish will ''not'' be visible in the water.
+* Phantom Megalodon usually cannot be caught with passive effects, such as the one provided by the [[Rod Of The Depths]] and [[Rod Of The Forgotten Fang]].
+** The only exception is when catching a Phantom Megalodon on the Megalodon Passive reel of the [[Rod Of The Forgotten Fang]], the Megalodon will instead dupe the Phantom Megalodon.
+
+== Catch Quips ==
+When catching a Phantom Megalodon, the player has a chance to make one of the following exclamations:
+* WOAH THE PHANTOM MEG!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ancient Isle}}

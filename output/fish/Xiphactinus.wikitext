@@ -1,0 +1,70 @@
+{{FishInfobox
+|image          = Xiphactinus.png
+|rarity         = Unusual
+|sea            = First Sea
+|location       = [[Ancient Isle]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 135
+|weather        = 
+|time           = Night
+|season         = Winter
+|bait           = Fish Head
+|base_weight    = 200
+|base_value     = 170
+|weight_range   = 60
+|base_chance    = 45
+|base_resil     = 60
+}}
+'''Xiphactinus''' is an {{Rarity|Unusual}} fish found in the [[Ancient Isle]].
+
+== Description ==
+{{Description|Xiphactinus is a massive, fast predator from the Cretaceous, with sharp teeth, sleek body, and incredible hunting efficiency.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Can be found all around the Ancient Isle.|Bestiary Hint}}
+{{Fish Availability|
+Ancient Isle/Freshwater Pond
+Ancient Isle/Surrounding Ocean
+Ancient Isle/Waterfall
+|top_rods      = 
+Rapid Rod\182671.62\171866.89;
+Fungal Rod\179922.85\159833.99;
+Ethereal Prism Rod\178672.39\330481.51;
+Fast Rod\178136.1\178136.1;
+Firefly Rod\177226.04\180363.31;
+Lucky Rod\93755.1\120583.74;
+Antler Rod\164156.48\145827.98;
+Leviathan's Fang Rod\167340.31\213787.87;
+Fortune Rod\98931.67\207650.26;
+Kraken Rod\139055.68\186896.14;
+No-Life Rod\163037.47\163037.47;
+Seraphic Rod\161329.63\161329.63;
+Avalanche Rod\154868.83\112771.27;
+Depthseeker Rod\154379.18\125847.57;
+Challenger's Rod\147729.43\147729.43;
+Rod Of The Forgotten Fang\147239.98\147239.98;
+Verdant Shear Rod\143860.27\137388.37;
+Zeus Rod\137320.19\137320.19;
+Rod Of The Depths\133654.84\133654.84;
+Blazebringer Rod\129628.01\129628.01;
+Rod Of The Exalted One\129144.3\151966.99;
+Volcanic Rod\124298.69\104216.4;
+Trident Rod\115811.54\115628.62;
+Free Spirit Rod\115232.7\115232.7;
+Steady Rod\85099.52\69213.18
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching a Xiphactinus, the player has a chance to make one of the following exclamations:
+* Ouu a Xiphactinus!
+* Woah, a Xiphactinus!
+* A Xiphactinus!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ancient Isle}}

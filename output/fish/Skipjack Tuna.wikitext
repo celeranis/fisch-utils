@@ -1,0 +1,69 @@
+{{FishInfobox
+|image          = Skipjack Tuna.png
+|rarity         = Unusual
+|sea            = First Sea
+|location       = [[Snowcap Island]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 100
+|weather        = 
+|time           = 
+|season         = 
+|bait           = 
+|base_weight    = 16
+|base_value     = 150
+|weight_range   = 9
+|base_chance    = 40
+|base_resil     = 45
+}}
+'''Skipjack Tuna''' is an {{Rarity|Unusual}} fish found in [[Snowcap Island]].
+
+== Description ==
+{{Description|The Skipjack Tuna can be caught near Snowcap Island. They are extremely agile swimmers, allowing them to put up a strong fight against anglers.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found near Snowcap Island.|Bestiary Hint}}
+{{Fish Availability|
+Snowcap Island/Surrounding Ocean
+|top_rods      = 
+Krampus's Rod\82882.97\114494.09;
+Magma Rod\78658.65\108658.64;
+Leviathan's Fang Rod\74848.87\92412.83;
+Plastic Rod\72483.8\100130.02;
+Trident Rod\68379.66\88063.59;
+Buddy Bond Rod\53821.44\86272.77;
+Fast Rod\61510.53\105025.61;
+Fischer's Rod\56860.41\97085.8;
+Flimsy Rod\43953.9\86998.94;
+Free Spirit Rod\64012.15\82438.83;
+Ethereal Prism Rod\61512.59\66970.3;
+No-Life Rod\60850.03\70332.59;
+Seraphic Rod\60178.67\67051.85;
+Rod Of The Forgotten Fang\56401.52\65027.57;
+Challenger's Rod\55260.38\64913.55;
+Rod Of The Depths\50983.92\59230.06;
+Zeus Rod\50735.88\60066.54;
+Verdant Shear Rod\50142.84\59760.06;
+Rod Of The Exalted One\49484.86\61454.73;
+Blazebringer Rod\48175.06\57270.58;
+Depthseeker Rod\46195.43\55707.72;
+Avalanche Rod\41699.09\50468.1;
+Volcanic Rod\39534.04\47506.22;
+Training Rod\35983.65\66901.56;
+Steady Rod\20007.68\16816.27
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Skipjack Tuna, the player has a chance to make one of the following exclamations:
+* I caught a Tuna!
+* A Skipjack Tuna!
+* Woah, a Skipjack Tuna!
+* I caught a Skipjack Tuna!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Snowcap Island}}

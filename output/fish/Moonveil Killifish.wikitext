@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Moonveil Killifish.png
+|rarity         = Common
+|sea            = Second Sea
+|location       = [[Blue Moon - Second Sea]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = +40
+|xp             = 480
+|weather        = Foggy
+|time           = 
+|season         = Winter
+|bait           = Ember Berries
+|base_weight    = 12
+|base_value     = 200
+|weight_range   = 8
+|base_chance    = 110
+|base_resil     = 75
+}}
+'''Moonveil Killifish''' is a {{Rarity|Common}} fish found in [[Blue Moon]] events at [[Lushgrove]].
+
+== Description ==
+{{Description|A blue delicate fish with a spotted pattern.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It dances where the fog cloaks the edge.|Bestiary Hint}}
+{{Fish Availability|
+Blue Moon/Second Sea
+|top_rods      = 
+Free Spirit Rod\222340.23\303706.1;
+Training Rod\203727.41\179748.3;
+Azure Of Lagoon\199130.89\212194.41;
+Trident Rod\192056.47\191688.99;
+Leviathan's Fang Rod\190872.27\190135.56;
+Flimsy Rod\182396.76\174797.18;
+Destiny Rod\153804.27\187310.57;
+Firefly Rod\183210.04\250934.87;
+Egg Rod\184489.54\238249.98;
+Verdant Shear Rod\183436.88\231337.69;
+Brother's Rod\179241.58\221612.73;
+Blazebringer Rod\180319.19\216922.69;
+No-Life Rod\163811.58\172007.45;
+Seraphic Rod\155867.28\155569.05;
+Ethereal Prism Rod\154585.94\153609.84;
+Challenger's Rod\150824.12\161905.29;
+Rod Of The Forgotten Fang\150372.75\150263.78;
+Depthseeker Rod\149820.12\157687.09;
+Rod Of The Exalted One\149332.83\148893.04;
+Avalanche Rod\148965.11\156702.09;
+Rod Of The Depths\148951.24\154831.41;
+Volcanic Rod\148601.98\162176.28;
+Zeus Rod\148184.14\161846.32;
+Steady Rod\121762.98\133301.06
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Moonveil Killifish, the player has a chance to make one of the following exclamations:
+* A Moonveil Killifish!
+* Misty glimmer!
+* Veiled catch!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Blue Moon - Second Sea}}

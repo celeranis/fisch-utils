@@ -1,0 +1,73 @@
+{{FishInfobox
+|image          = Piranha.png
+|rarity         = Common
+|sea            = First Sea
+|location       = [[Ancient Isle]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 95
+|weather        = 
+|time           = 
+|season         = Spring, Winter
+|bait           = Squid
+|base_weight    = 5
+|base_value     = 85
+|weight_range   = 3
+|base_chance    = 100
+|base_resil     = 70
+}}
+'''Piranha''' is a {{Rarity|Common}} fish found in the [[Ancient Isle]].
+
+== Description ==
+{{Description|Piranhas are aggressive fish with incredibly sharp teeth, which they use to hunt their prey. Ranking high on the local food chain, they are still no match for the larger and fiercer apex predators of the Ancient Isle.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Can be found in the waters of the Ancient Isle.|Bestiary Hint}}
+{{Fish Availability|
+Ancient Isle/Freshwater Pond
+Ancient Isle/Surrounding Ocean
+Ancient Isle/Waterfall
+|top_rods      = 
+Training Rod\740692.38\725260.7;
+Plastic Rod\610913.04\382815.46;
+Leviathan's Fang Rod\552978.65\194320.88;
+Rapid Rod\538500.73\562853.86;
+Trident Rod\519757.74\316731.41;
+Buddy Bond Rod\453821.12\331062.85;
+Fast Rod\471403.91\538512.15;
+Firefly Rod\493379.35\509724.01;
+Frog Rod\395899.87\448638.09;
+Long Rod\376660.57\382843.01;
+Adventurer's Rod\457034.35\365204.42;
+Free Spirit Rod\508998.96\310175.2;
+No-Life Rod\489737.68\419189.5;
+Seraphic Rod\473719.8\358824.34;
+Ethereal Prism Rod\467470.82\44464.02;
+Rod Of The Forgotten Fang\447433.68\327686.62;
+Challenger's Rod\443035.6\393874.91;
+Rod Of The Exalted One\424503.45\213994.36;
+Rod Of The Depths\417595.42\341180.07;
+Zeus Rod\410666.44\365312.71;
+Verdant Shear Rod\408096.82\347471.61;
+Blazebringer Rod\391145.81\358737.49;
+Depthseeker Rod\378490.11\309128.28;
+Volcanic Rod\362624.9\309233.25;
+Avalanche Rod\359754.5\283778.24;
+Steady Rod\190404.9\154860.22
+|recommended   = Training Rod
+}}
+
+== Catch Quips ==
+When catching a Piranha, the player has a chance to make one of the following exclamations:
+* A Piranha!
+* I caught a Piranha!
+* Woah! A Piranha!
+* Ouu! A Piranha!
+* It bit me!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ancient Isle}}

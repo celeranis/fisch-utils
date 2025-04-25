@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Glass of Milk.png
+|rarity         = Limited
+|event          = Fischmas
+|sea            = First Sea
+|location       = [[Fischmas]]
+|sublocation    = 
+|sources        = Basic Present, Fishing Rod, Unique Present
+|radar_location = 
+|xp             = 9
+|weather        = 
+|time           = 
+|season         = 
+|bait           = Peppermint Worm
+|base_weight    = 0.6
+|base_value     = 20
+|weight_range   = 0.5
+|base_chance    = 90
+|base_resil     = 100
+}}
+'''Glass of Milk''' is a {{Rarity|Limited}} fish found in the [[Winter Village]] during the [[Fischmas]] event.
+
+== Description ==
+{{Description|A delicious glass of milk, favored by Santa Claus. Goes well together with a cookie.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Only can be caught during Fischmas24.|Bestiary Hint}}
+{{Fish Availability|
+Fischmas/Winter Village
+|top_rods      = 
+Leviathan's Fang Rod\305453.76\201464.08;
+Trident Rod\298221.31\195980.23;
+Free Spirit Rod\296004.83\196880.23;
+Azure Of Lagoon\289159.17\195439.15;
+No-Life Rod\287675.65\283120.49;
+Long Rod\238117\166462.5;
+Haunted Rod\215207.54\141887.41;
+Riptide Rod\267896.45\226106.25;
+Fast Rod\286250\286250;
+Seraphic Rod\282005.93\282005.93;
+Tempest Rod\272069.14\272069.14;
+Rapid Rod\267720\267720;
+Challenger's Rod\273262.9\258123.57;
+Zeus Rod\268361.51\240692.41;
+Verdant Shear Rod\266597.71\241312.5;
+Ethereal Prism Rod\266352.61\62942.41;
+Blazebringer Rod\266187.41\227268.75;
+Rod Of The Depths\264968.98\234598.7;
+Rod Of The Forgotten Fang\264570.73\257511.07;
+Depthseeker Rod\260740.63\220161.28;
+Avalanche Rod\259448.02\197942.65;
+Rod Of The Exalted One\258300.45\198156.37;
+Volcanic Rod\257892.61\182811.48;
+Training Rod\255000\255000;
+Steady Rod\141869.17\101745.14
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Glass of Milk, the player has a chance to make one of the following exclamations:
+* Woah, a Glass of Milk!
+* Yum!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Fischmas}}

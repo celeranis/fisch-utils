@@ -1,0 +1,62 @@
+{{FishInfobox
+|image          = Blisterback Blenny.png
+|rarity         = Mythical
+|sea            = First Sea
+|location       = [[Volcanic Vents]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -65
+|xp             = 1500
+|weather        = Clear
+|time           = Day
+|season         = Summer
+|bait           = Fish Head
+|base_weight    = 2800
+|base_value     = 6300
+|weight_range   = 1800
+|base_chance    = 0.01
+|base_resil     = 10
+}}
+'''Blisterback Blenny''' is a {{Rarity|Mythical}} fish found in [[Volcanic Vents]] of [[Mariana's Veil]].
+
+== Description ==
+{{Description|A colossal fish with jagged, obsidian fins and an inner fire that lights up its body. It is said to be faster than a tsunami.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|If the skies are clear and the air is hot, be ready.|Bestiary Hint}}
+{{Fish Availability|
+Mariana's Veil/Volcanic Vents
+|top_rods      = 
+Leviathan's Fang Rod\295405.8\370794.11;
+Free Spirit Rod\295133.12\373584;
+Trident Rod\270073.54\341133.41;
+Azure Of Lagoon\219079.71\255158.83;
+No-Life Rod\213218.33\266559.62;
+Riptide Rod\160611.54\199007.07;
+Challenger's Rod\202090.25\256379.46;
+Seraphic Rod\206974.84\255997.55;
+Ethereal Prism Rod\202594.42\248700.38;
+Rod Of The Forgotten Fang\190297.6\237361.37;
+Verdant Shear Rod\169086.27\210032.06;
+Zeus Rod\168664.78\208777.9;
+Rod Of The Depths\165571.8\204216.24;
+Blazebringer Rod\164207.76\203659.33;
+Depthseeker Rod\163842.53\206049.99;
+Rod Of The Exalted One\159025.27\196735.63;
+Avalanche Rod\142264.97\176499.86;
+Volcanic Rod\131870.54\163232.99;
+Steady Rod\54514.44\69125.31
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Blisterback Blenny, the player has a chance to make one of the following exclamations:
+* A BLISTERBACK BLENNY!?
+* THE MOLTEN HUNTER!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Volcanic Vents}}

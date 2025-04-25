@@ -1,0 +1,69 @@
+{{FishInfobox
+|image          = Cyclone Scorpionfish.png
+|rarity         = Rare
+|sea            = First Sea
+|location       = [[Veil of the Forsaken]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -40
+|xp             = 1150
+|weather        = Rain
+|time           = 
+|season         = 
+|bait           = Seaweed
+|base_weight    = 120
+|base_value     = 1800
+|weight_range   = 74
+|base_chance    = 20
+|base_resil     = 40
+}}
+'''Cyclone Scorpionfish''' is a {{Rarity|Rare}} fish found in the [[Veil of the Forsaken]] of [[Mariana's Veil]].
+
+== Description ==
+{{Description|A spiky fish with glowing eyes and a body that spins like a cyclone.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Usually found in shallow water, where rain is prevalent.|Bestiary Hint}}
+{{Fish Availability|
+Mariana's Veil/Scylla Hunt
+Mariana's Veil/Veil of the Forsaken
+|top_rods      = 
+Krampus's Rod\243029.68\272115.91;
+Plastic Rod\232406.74\252976.38;
+Magma Rod\221227.86\247704.81;
+Leviathan's Fang Rod\197870.66\283926.78;
+Ethereal Prism Rod\190594.28\201880.69;
+Buddy Bond Rod\164913.26\200046.35;
+Firefly Rod\144392.05\290048.71;
+Trident Rod\164950.75\279934.97;
+Fast Rod\133466.02\278471;
+Adventurer's Rod\133466.02\247179.72;
+Fischer's Rod\137173.41\254045.82;
+Seraphic Rod\183045.01\206509.21;
+No-Life Rod\176756.52\223256.54;
+Rod Of The Forgotten Fang\169778.93\201296.15;
+Challenger's Rod\162310.14\208027.94;
+Free Spirit Rod\155089.73\263200;
+Rod Of The Depths\151168.93\181172.66;
+Rod Of The Exalted One\150211.23\181024.87;
+Zeus Rod\143117.86\180474.35;
+Verdant Shear Rod\138838.25\180117.43;
+Blazebringer Rod\136454.17\172941.92;
+Depthseeker Rod\128074.8\170213.67;
+Avalanche Rod\114789.47\153111.29;
+Volcanic Rod\111667.27\142907.19;
+Steady Rod\39658.91\57700.42
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching a Cyclone Scorpionfish, the player has a chance to make one of the following exclamations:
+* A Cyclone Scorpionfish!
+* A disaster fish!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Veil of the Forsaken}}

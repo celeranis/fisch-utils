@@ -1,0 +1,58 @@
+{{FishInfobox
+|image          = Reef Parrotfish.png
+|rarity         = Rare
+|sea            = First Sea
+|location       = [[Grand Reef]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 600
+|weather        = 
+|time           = 
+|season         = 
+|bait           = Coral
+|base_weight    = 20
+|base_value     = 900
+|weight_range   = 13
+|base_chance    = 4
+|base_resil     = 35
+}}
+'''Reef Parrotfish''' is a {{Rarity|Rare}} fish found in the [[Grand Reef]].
+
+== Description ==
+{{Description|A large reef fish with a beak-like mouth used to scrape algae from coral. Their powerful jaws can grind coral into fine sand, helping create the beaches around reef areas.|Bestiary Entry}}
+
+== Obtainment ==
+{{Fish Availability|
+Grand Reef
+|top_rods      = 
+Leviathan's Fang Rod\58078.7\132057.26;
+Trident Rod\53875.68\132510.54;
+Free Spirit Rod\47506.12\116844.21;
+Ethereal Prism Rod\45730.66\86416.95;
+No-Life Rod\44257.71\91477.15;
+Resourceful Rod\35024.46\69757.56;
+Destiny Rod\36597.67\77768.57;
+Heaven's Rod\35764.46\78738.86;
+Training Rod\21712.83\89412.36;
+Flimsy Rod\23135.7\80674.28;
+Seraphic Rod\44210.98\86474.52;
+Rod Of The Forgotten Fang\41338.31\83421.99;
+Challenger's Rod\40071.37\83196.25;
+Rod Of The Depths\37148.9\75730.65;
+Rod Of The Exalted One\36502.74\77330.78;
+Zeus Rod\36465.01\76640.26;
+Verdant Shear Rod\35818.77\76080.19;
+Blazebringer Rod\34637.62\73108.94;
+Depthseeker Rod\32978.49\71095.88;
+Avalanche Rod\29714.83\64257.33;
+Volcanic Rod\28414.39\60605.14;
+Steady Rod\9474.32\23781.47
+|recommended   = Trident Rod
+}}
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Grand Reef}}

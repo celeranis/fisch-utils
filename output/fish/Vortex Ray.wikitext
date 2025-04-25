@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Vortex Ray.png
+|rarity         = Exotic
+|sea            = Second Sea
+|location       = [[Waveborne]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -70
+|xp             = 3750
+|weather        = Rain
+|time           = Day
+|season         = Autumn
+|bait           = Luminous Larva
+|base_weight    = 1100
+|base_value     = 7500
+|weight_range   = 700
+|base_chance    = 2
+|base_resil     = 10
+}}
+'''Vortex Ray''' is an {{Rarity|Exotic}} fish found in [[Waveborne]].
+
+== Description ==
+{{Description|A deep blue fish with yellow accents and dark blue stripes, swirling through the depths.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It spirals where the waters twist.|Bestiary Hint}}
+{{Fish Availability|
+Waveborne
+|top_rods      = 
+Free Spirit Rod\24887.06\154929.64;
+Egg Rod\21135.13\109614.2;
+Blazebringer Rod\19916.53\100495.79;
+Verdant Shear Rod\19872.69\103066.72;
+Great Dreamer Rod\19768.47\101575.61;
+Resourceful Rod\17760.89\86146.35;
+Destiny Rod\13670.83\65023.71;
+Azure Of Lagoon\19423.11\102509.16;
+North-Star Rod\10747.09\71387.65;
+Event Horizon Rod\10663.44\70831.98;
+Astral Rod\10663.44\70831.98;
+Trident Rod\15836.89\95104.85;
+Seraphic Rod\14297.3\76407.82;
+Ethereal Prism Rod\14289.49\72617.5;
+No-Life Rod\13573.82\73573.58;
+Challenger's Rod\13245.97\71431.87;
+Rod Of The Forgotten Fang\12921.55\67332.75;
+Rod Of The Exalted One\12734.8\64838.6;
+Rod Of The Depths\12123.09\64089.81;
+Depthseeker Rod\11817.5\66477.99;
+Volcanic Rod\11532.99\63493.79;
+Avalanche Rod\11436.98\64479.59;
+Zeus Rod\11354.87\62513.19;
+Steady Rod\10917.78\63930.66
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Vortex Ray, the player has a chance to make one of the following exclamations:
+* A VORTEX RAY!?!
+* TAIL OF DOOM!!
+* SWIRLING MENACE!?
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Waveborne}}

@@ -1,0 +1,69 @@
+{{FishInfobox
+|image          = Minnow.png
+|rarity         = Common
+|sea            = First Sea
+|location       = [[Roslit Bay]]
+|sublocation    = Freshwater
+|sources        = Common Crate, Fish Barrel, Fishing Rod
+|radar_location = 
+|xp             = 75
+|weather        = Clear
+|time           = 
+|season         = Spring
+|bait           = Bagel
+|base_weight    = 0.6
+|base_value     = 45
+|weight_range   = 0.5
+|base_chance    = 60
+|base_resil     = 90
+}}
+'''Minnow''' is a {{Rarity|Common}} fish found in [[Roslit Bay]].
+
+== Description ==
+{{Description|Minnows are found in Roslit Bays pond and are easiest to find during the clear spring days. Minnows are commonly found in schools of 4 to 6 fish. They also create a great baitfish!|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Lives in Roslit Bays pond. Very easy to catch with bagels.|Bestiary Hint}}
+{{Fish Availability|
+Roslit Bay/Freshwater Pond
+Roslit Bay/Freshwater Pond Seaweed
+|top_rods      = 
+Leviathan's Fang Rod\231357.58\208316.65;
+Trident Rod\222942.28\134991.73;
+Training Rod\221465.78\256791.78;
+Free Spirit Rod\220657.94\134826.39;
+Azure Of Lagoon\212146.59\133840.26;
+Flimsy Rod\194949.13\164059.47;
+Resourceful Rod\201537.91\187018.71;
+Ethereal Prism Rod\202396.36\238815.09;
+Rapid Rod\204327.5\199790.91;
+Fast Rod\194851.05\194851.05;
+No-Life Rod\211418.64\193886.02;
+Depthseeker Rod\205820.95\179662.73;
+Verdant Shear Rod\204761.87\184788.55;
+Avalanche Rod\203611.32\174308.3;
+Challenger's Rod\201573.65\176767.68;
+Blazebringer Rod\201243.72\155636.88;
+Zeus Rod\200005.72\164830.51;
+Seraphic Rod\199782.91\193122.75;
+Rod Of The Forgotten Fang\195695.49\176348.23;
+Volcanic Rod\195363.22\125192.6;
+Rod Of The Exalted One\191815.94\155956.39;
+Rod Of The Depths\191764.34\160657.42;
+Steady Rod\101293.57\89264.03
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Minnow, the player has a chance to make one of the following exclamations:
+* Ouu a Minnow!
+* Woah, a Minnow!
+* A Minnow!
+* I caught a Minnow!
+* Aw! I caught a Baitfish!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Roslit Bay}}

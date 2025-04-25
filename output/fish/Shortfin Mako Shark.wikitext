@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Shortfin Mako Shark.png
+|rarity         = Common
+|sea            = First Sea
+|location       = [[Forsaken Shores]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 70
+|weather        = Rain
+|time           = Night
+|season         = 
+|bait           = Deep Coral
+|base_weight    = 100
+|base_value     = 190
+|weight_range   = 75
+|base_chance    = 100
+|base_resil     = 80
+}}
+'''Shortfin Mako Shark''' is a {{Rarity|Common}} fish found in [[Forsaken Shores]].
+
+== Description ==
+{{Description|The Shortfin Mako is a fast predator found in the forsaken ocean. Its speed and strength attract seasoned anglers.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|commonly caught in Forsaken Shores surrounding Ocean.|Bestiary Hint}}
+{{Fish Availability|
+Forsaken Shores/Surrounding Ocean
+|top_rods      = 
+Leviathan's Fang Rod\379041.65\133948.43;
+Trident Rod\366234.53\195352.11;
+Free Spirit Rod\360970.95\195004.83;
+No-Life Rod\340038\269560.33;
+Azure Of Lagoon\339602.95\237168;
+Riptide Rod\304943.46\214970.7;
+Frog Rod\278989.77\193657.35;
+Seraphic Rod\318948.49\277621;
+Fast Rod\296120.97\268417.33;
+Tempest Rod\320241.71\258671.4;
+Rapid Rod\307428.53\253912.03;
+Rod Of The Zenith\306290.47\248367.39;
+Precision Rod\279313.85\164546.67;
+Challenger's Rod\322328.97\245412.56;
+Rod Of The Forgotten Fang\316172.48\253507.01;
+Rod Of The Depths\309729.48\222679.42;
+Zeus Rod\309339.62\228839.78;
+Ethereal Prism Rod\308918.51\19861.19;
+Rod Of The Exalted One\305343.73\153613.95;
+Blazebringer Rod\303616.45\215904.45;
+Verdant Shear Rod\302119.52\229007.86;
+Depthseeker Rod\298963.86\209319.68;
+Avalanche Rod\296474.71\200955.67;
+Volcanic Rod\293114.32\197850.42;
+Steady Rod\136442.44\106198.72
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Shortfin Mako Shark, the player has a chance to make one of the following exclamations:
+* WOAH! A SHORTFINNED MAKO!
+* OMG, IS THAT A SHORTFIN MAKO?
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Forsaken Shores}}

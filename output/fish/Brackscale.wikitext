@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Brackscale.png
+|rarity         = Uncommon
+|sea            = Second Sea
+|location       = [[Azure Lagoon]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -15
+|xp             = 50
+|weather        = Rain
+|time           = 
+|season         = Spring
+|bait           = Seaweed
+|base_weight    = 60
+|base_value     = 105
+|weight_range   = 36
+|base_chance    = 100
+|base_resil     = 52
+}}
+'''Brackscale''' is an {{Rarity|Uncommon}} fish found in the [[Azure Lagoon]].
+
+== Description ==
+{{Description|A dirt-brown fish with yellow-green fins, blending into brackish waters.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It wallows where the tide meets the mud.|Bestiary Hint}}
+{{Fish Availability|
+Azure Lagoon
+|top_rods      = 
+Free Spirit Rod\325697\258152.51;
+Leviathan's Fang Rod\275512.61\254096.45;
+Trident Rod\274508.73\262951.26;
+Azure Of Lagoon\274392.01\260493.19;
+Fischer's Rod\253835.73\195901.64;
+Plastic Rod\253038.92\198596.9;
+Candy Cane Rod\246646.51\204095.76;
+Firefly Rod\247544.31\246600.33;
+Lucky Rod\215557.39\224408.21;
+Verdant Shear Rod\242968.06\221530.09;
+Blazebringer Rod\233657.22\222108.61;
+No-Life Rod\213859.56\196509.32;
+Ethereal Prism Rod\202593\186151.6;
+Seraphic Rod\201486.38\193003.32;
+Challenger's Rod\190340.54\173891.18;
+Rod Of The Forgotten Fang\190187.42\181616.62;
+Rod Of The Exalted One\189640.3\176725.6;
+Depthseeker Rod\187572.77\178876.36;
+Avalanche Rod\183824.12\175507.19;
+Rod Of The Depths\182425.26\166951.2;
+Volcanic Rod\182356.41\170109.8;
+Zeus Rod\181302.08\169126.28;
+Steady Rod\150637.07\144746.03
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Brackscale, the player has a chance to make one of the following exclamations:
+* A Brackscale!
+* Muddy scales!
+* Yellow-green catch!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Azure Lagoon}}

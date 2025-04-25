@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Bigfin Squid.png
+|rarity         = Mythical
+|sea            = Second Sea
+|location       = [[Open Ocean]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -72
+|xp             = 1400
+|weather        = Foggy
+|time           = Night
+|season         = Autumn
+|bait           = Crystal Bananas
+|base_weight    = 230
+|base_value     = 2700
+|weight_range   = 135
+|base_chance    = 10
+|base_resil     = 8
+}}
+'''Bigfin Squid''' is a {{Rarity|Mythical}} fish found in the [[Open Ocean]].
+
+== Description ==
+{{Description|A unique black squid with absurdly long, thin tentacles and light teal accents.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It drifts where the fog hides the abyss.|Bestiary Hint}}
+{{Fish Availability|
+Open Ocean
+Open Ocean/Sea Leviathan
+|top_rods      = 
+Free Spirit Rod\20423.12\89444.24;
+Egg Rod\16691.43\78782.34;
+Verdant Shear Rod\15883.35\85294.7;
+Blazebringer Rod\15639.27\74727.28;
+Great Dreamer Rod\15538.05\73524.11;
+Frostfire Rod\12950.19\40507.08;
+Steady Rod\11038.66\36903.29;
+Magma Rod\12904.41\37291.34;
+Firefly Rod\13855.01\79957.96;
+Long Rod\8461.45\49663.74;
+Fungal Rod\8625.74\46499.67;
+Trident Rod\13593.74\59571.83;
+Seraphic Rod\11399.76\53806.06;
+Ethereal Prism Rod\11246.65\53154.11;
+No-Life Rod\10879.43\50722.11;
+Challenger's Rod\10677.2\49851.45;
+Rod Of The Forgotten Fang\10242.37\48280.94;
+Rod Of The Exalted One\9996.17\47417.09;
+Rod Of The Depths\9573.06\44946.58;
+Depthseeker Rod\9466.35\43421.55;
+Volcanic Rod\9167.41\42589.37;
+Avalanche Rod\9120.69\41735.63;
+Zeus Rod\9009.53\41855.9
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Bigfin Squid, the player has a chance to make one of the following exclamations:
+* A BIGFIN SQUID!
+* TENTACLE TANGLE!
+* TEAL NIGHTMARE!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Open Ocean}}

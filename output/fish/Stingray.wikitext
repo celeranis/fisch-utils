@@ -1,0 +1,87 @@
+{{FishInfobox
+|image          = Stingray.png
+|rarity         = Rare
+|sea            = First Sea
+|location       = [[Ocean]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 100
+|weather        = Clear
+|time           = Day
+|season         = Summer, Spring
+|bait           = 
+|base_weight    = 30
+|base_value     = 230
+|weight_range   = 15
+|base_chance    = 20
+|base_resil     = 50
+}}
+'''Stingray''' is a {{Rarity|Rare}} fish found in the [[Ocean]].
+
+== Description ==
+{{Description|Graceful and flat, stingrays glide effortlessly through the water, using their wide pectoral fins to move. Their long, whip-like tails end in a sharp stinger, which they can use for defence. Stingrays are bottom dwellers, often found in rocky and sandy seafloors and caves. [Contribution by @Johnny_D3pp]|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in sea caves during the day.|Bestiary Hint}}
+{{Fish Availability|
+Ancient Isle/Algae Hunt
+Atlantis/Surrounding Ocean
+FischFright/Frightful Pool
+Forsaken Shores/Algae Hunt
+Golden Tide
+Lovestorm/Normal
+Lovestorm/Supercharged
+Lucky Event/Blarney McBreeze
+Lucky Event/O'Mango Goldgrin
+Lucky Event/Plumrick O'Luck
+Lucky Event/Rowdy McCharm
+Lucky Event/Sunny O'Coin
+Megalodon Hunt/Eclipse and Weekend
+Megalodon Hunt/Normal
+Mushgrove Swamp/Algae Hunt
+Northern Summit/Surrounding Ocean
+Ocean
+Ocean/Deep Ocean
+Orca Migration/Ancient
+Orca Migration/Normal
+Snowcap Island/Algae Hunt
+Whale Migration/Moby
+Whale Migration/Normal
+|top_rods      = 
+Krampus's Rod\58467.45\37204.41;
+Magma Rod\55859.21\35544.72;
+Plastic Rod\51385.35\32711.12;
+Buddy Bond Rod\38076.64\24277.89;
+Fast Rod\37162.12\25362.77;
+Leviathan's Fang Rod\36655.81\29190.66;
+Trident Rod\32794\26163.26;
+Ethereal Prism Rod\33211.93\24623.36;
+Seraphic Rod\32062.03\24224.32;
+No-Life Rod\31894.3\24549.67;
+Free Spirit Rod\31181.37\24876.69;
+Rod Of The Forgotten Fang\30015.26\22725.37;
+Challenger's Rod\29073.29\22332.93;
+Rod Of The Depths\27018.98\20584.95;
+Rod Of The Exalted One\26541.3\19885.58;
+Zeus Rod\26530.47\20543.87;
+Verdant Shear Rod\26082.82\20315.19;
+Blazebringer Rod\25187\19503.55;
+Depthseeker Rod\23971.26\18705.91;
+Avalanche Rod\21630.66\16892.07;
+Volcanic Rod\20672.55\16007.79;
+Steady Rod\9775.04\5453.79
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching a Stingray, the player has a chance to make one of the following exclamations:
+* I caught a Stingray!
+* Woah.. a Stingray!
+* It stung me! Yeeowch!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ocean}}

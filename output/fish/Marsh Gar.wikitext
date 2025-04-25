@@ -1,0 +1,66 @@
+{{FishInfobox
+|image          = Marsh Gar.png
+|rarity         = Rare
+|sea            = First Sea
+|location       = [[Mushgrove Swamp]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 100
+|weather        = Foggy
+|time           = 
+|season         = Winter
+|bait           = Fish Head
+|base_weight    = 38
+|base_value     = 280
+|weight_range   = 21
+|base_chance    = 30
+|base_resil     = 30
+}}
+'''Marsh Gar''' is a {{Rarity|Rare}} fish found in [[Mushgrove Swamp]].
+
+== Description ==
+{{Description|The Marsh Gar is a large vicious marsh water fish that can be found in Mushgrove Swamp. March Gar are extremely strong hunters, using their whiskers to sense prey in foggy waters.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found under the bridges of Mushgrove Swamp.|Bestiary Hint}}
+{{Fish Availability|
+Mushgrove Swamp
+|top_rods      = 
+Krampus's Rod\261497.61\285840.8;
+Magma Rod\248219.87\271327.01;
+Plastic Rod\225728.29\248239.42;
+Leviathan's Fang Rod\209192.92\193706.05;
+Trident Rod\180305.78\181068.09;
+Fast Rod\151125.54\263942.34;
+Fischer's Rod\132307.3\232733.3;
+Free Spirit Rod\169139.13\169854.22;
+Ethereal Prism Rod\150269.43\118639.44;
+No-Life Rod\145667.81\123858.58;
+Seraphic Rod\145146.65\121045.63;
+Rod Of The Forgotten Fang\135639.52\112376.15;
+Challenger's Rod\131520.01\111687.96;
+Rod Of The Depths\121788.16\101050.6;
+Rod Of The Exalted One\119773.53\103627.23;
+Zeus Rod\119607.59\103146.66;
+Verdant Shear Rod\117521.98\102715.91;
+Blazebringer Rod\113637.1\98419.57;
+Depthseeker Rod\108319.03\96305.1;
+Avalanche Rod\97549.52\86967.75;
+Volcanic Rod\93200.48\81554.68;
+Steady Rod\41124.74\29303.8
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Marsh Gar, the player has a chance to make one of the following exclamations:
+* A Gar!
+* I caught a Marsh Gar!
+* Woah! A Marsh Gar!
+* Oh my Gar!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Mushgrove Swamp}}

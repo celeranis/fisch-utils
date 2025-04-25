@@ -1,0 +1,66 @@
+{{FishInfobox
+|image          = Sparkfin Tetra.png
+|rarity         = Common
+|sea            = First Sea
+|location       = [[Atlantis]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 30
+|weather        = Rain
+|time           = Day
+|season         = 
+|bait           = Insect
+|base_weight    = 12
+|base_value     = 90
+|weight_range   = 7
+|base_chance    = 85
+|base_resil     = 75
+}}
+'''Sparkfin Tetra''' is a {{Rarity|Common}} fish found in [[Atlantis]].
+
+== Description ==
+{{Description|Small but fierce, these tetras have fins that constantly emit tiny electrical sparks. They school together to create impressive electrical displays.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Schools in the shallows of Zeus Pool.|Bestiary Hint}}
+{{Fish Availability|
+Atlantis/Zeus's Rod Room
+|top_rods      = 
+Training Rod\312602.35\84218.75;
+Leviathan's Fang Rod\262017.95\0;
+Trident Rod\255090.85\15985.86;
+Free Spirit Rod\250708.5\15952.11;
+Azure Of Lagoon\238277.43\24783.63;
+Flimsy Rod\193340.29\49779.64;
+Voyager Rod\198058.11\18301.22;
+Nocturnal Rod\130864.9\101341.64;
+No-Life Rod\237637.15\24481.48;
+Seraphic Rod\218652.68\22625.6;
+Challenger's Rod\218613.07\20717.07;
+Zeus Rod\213264.86\22053.17;
+Rod Of The Forgotten Fang\212946.09\20667.92;
+Ethereal Prism Rod\211961.11\0;
+Rod Of The Depths\211465.7\18780.81;
+Blazebringer Rod\209844.69\21085.06;
+Verdant Shear Rod\209322.84\21873.31;
+Rod Of The Exalted One\208321.1\0;
+Depthseeker Rod\208232.48\19844.24;
+Avalanche Rod\205732.16\17646.84;
+Volcanic Rod\203527.38\19553.66;
+Steady Rod\97172.57\9428.42
+|recommended   = Training Rod
+}}
+
+== Catch Quips ==
+When catching a Sparkfin Tetra, the player has a chance to make one of the following exclamations:
+* A Sparkfin Tetra!
+* Tiny zapper!
+* Watch the sparks!
+* Lightning in miniature!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Atlantis}}

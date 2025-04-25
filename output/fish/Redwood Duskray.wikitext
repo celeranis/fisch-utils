@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Redwood Duskray.png
+|rarity         = Unusual
+|sea            = Second Sea
+|location       = [[Pine Shoals]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = +5
+|xp             = 70
+|weather        = Clear
+|time           = Night
+|season         = Autumn
+|bait           = Minnow
+|base_weight    = 8
+|base_value     = 125
+|weight_range   = 5
+|base_chance    = 165
+|base_resil     = 50
+}}
+'''Redwood Duskray''' is an {{Rarity|Unusual}} fish found in [[Pine Shoals]].
+
+== Description ==
+{{Description|A sturdy glider that rays through the dusk.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It soars when the light fades red.|Bestiary Hint}}
+{{Fish Availability|
+Pine Shoals
+|top_rods      = 
+Free Spirit Rod\455727.67\372882.51;
+Trident Rod\423137.17\361804.65;
+Leviathan's Fang Rod\415639.24\350934.77;
+Azure Of Lagoon\398370.71\333006.4;
+Egg Rod\345965.63\345037.32;
+Training Rod\333451.85\424667.95;
+Flimsy Rod\303562.99\226087.77;
+Heaven's Rod\286252.24\238254.4;
+Destiny Rod\281539.08\232832.76;
+Blazebringer Rod\343277.58\334183.17;
+Verdant Shear Rod\341811.67\333332.9;
+No-Life Rod\331321.05\291440.81;
+Seraphic Rod\302208.08\258403.89;
+Ethereal Prism Rod\297338.29\249732.72;
+Challenger's Rod\292018.34\255827.94;
+Depthseeker Rod\289727.48\266259.76;
+Rod Of The Forgotten Fang\288152.63\246992.92;
+Avalanche Rod\284819.55\262545.33;
+Rod Of The Exalted One\282967.04\239839.28;
+Volcanic Rod\282276.15\251941.57;
+Rod Of The Depths\281340.35\243143.47;
+Zeus Rod\280969.32\250775.17;
+Steady Rod\278359.44\212478.32
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Redwood Duskray, the player has a chance to make one of the following exclamations:
+* A Redwood Duskray!
+* Dusk’s tough flyer!
+* Redwood ruler!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Pine Shoals}}

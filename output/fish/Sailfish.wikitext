@@ -1,0 +1,94 @@
+{{FishInfobox
+|image          = Sailfish.png
+|rarity         = Rare
+|sea            = First Sea
+|location       = [[Ocean]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 300
+|weather        = Windy, Clear
+|time           = 
+|season         = Spring
+|bait           = Minnow
+|base_weight    = 60
+|base_value     = 800
+|weight_range   = 20
+|base_chance    = 16
+|base_resil     = 40
+}}
+'''Sailfish''' is a {{Rarity|Rare}} fish found in the [[Ocean]].
+
+== Description ==
+{{Description|Sailfish are known for their incredible speed, long bill, and their striking sail-like dorsal fin. It's sleek body is built for fast swimming, allowing it to dart through water in bursts of speed. They are found in tropical and warmer ocean waters.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in ocean water. Extremely strong.|Bestiary Hint}}
+{{Fish Availability|
+Ancient Isle/Algae Hunt
+Atlantis/Surrounding Ocean
+FischFright/Frightful Pool
+Forsaken Shores/Algae Hunt
+Golden Tide
+Lovestorm/Normal
+Lovestorm/Supercharged
+Lucky Event/Blarney McBreeze
+Lucky Event/O'Mango Goldgrin
+Lucky Event/Plumrick O'Luck
+Lucky Event/Rowdy McCharm
+Lucky Event/Sunny O'Coin
+Megalodon Hunt/Eclipse and Weekend
+Megalodon Hunt/Normal
+Mushgrove Swamp/Algae Hunt
+Northern Summit/Surrounding Ocean
+Ocean
+Ocean/Deep Ocean
+Ocean/The Arch
+Orca Migration/Ancient
+Orca Migration/Normal
+Shark Hunt/Great Hammerhead Shark
+Shark Hunt/Great White Shark
+Shark Hunt/Whale Shark
+Snowcap Island/Algae Hunt
+Sunstone Island
+Whale Migration/Moby
+Whale Migration/Normal
+|top_rods      = 
+Krampus's Rod\151558.82\214154.64;
+Magma Rod\142289.18\201056.53;
+Plastic Rod\132161.57\186738.52;
+Leviathan's Fang Rod\107388.73\323017.33;
+Buddy Bond Rod\98177.17\173698.72;
+Trident Rod\94940.55\414719.64;
+Free Spirit Rod\86840.45\379336.75;
+Rapid Rod\77066.38\275349.79;
+Verdant Shear Rod\73049.24\258699.97;
+Shamrock Rod\60554\244493.42;
+Ethereal Prism Rod\92715.59\220845.6;
+Seraphic Rod\88899.83\222134.26;
+No-Life Rod\88105.79\235751.85;
+Rod Of The Forgotten Fang\83088.55\215954.42;
+Challenger's Rod\80037.14\216254.35;
+Rod Of The Depths\74523.13\198554.63;
+Rod Of The Exalted One\73722.72\204153.41;
+Zeus Rod\72659.26\200177.63;
+Blazebringer Rod\70835.73\247844.32;
+Depthseeker Rod\65466.29\186198.02;
+Avalanche Rod\59000.28\168556.06;
+Volcanic Rod\56617.61\158309.76;
+Steady Rod\20883.14\54456.49
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Sailfish, the player has a chance to make one of the following exclamations:
+* A Sailfish!
+* WOAH! A Sailfish!!
+* It's a Sailfish!
+* I caught a Sailfish!!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ocean}}

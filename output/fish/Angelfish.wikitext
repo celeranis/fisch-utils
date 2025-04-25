@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Angelfish.png
+|rarity         = Unusual
+|sea            = First Sea
+|location       = [[Roslit Bay]]
+|sublocation    = Coral Reef
+|sources        = Fishing Rod, Volcanic Geode
+|radar_location = 
+|xp             = 60
+|weather        = Clear
+|time           = 
+|season         = 
+|bait           = Worm
+|base_weight    = 2
+|base_value     = 120
+|weight_range   = 1.5
+|base_chance    = 40
+|base_resil     = 60
+}}
+'''Angelfish''' is an {{Rarity|Unusual}} fish found in [[Roslit Bay]].
+
+== Description ==
+{{Description|Angelfish are colorful and striking reef dwellers, known for their vibrant patterns and graceful swimming. Found in Roslit bays coral reef, they are a fun and elegant part of Roslits ecosystem.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in Roslit Bays coral reef.|Bestiary Hint}}
+{{Fish Availability|
+Roslit Bay/Coral Reef
+|top_rods      = 
+Krampus's Rod\284652.6\251045.35;
+Magma Rod\274000.42\241650.81;
+Leviathan's Fang Rod\253662.81\171435.72;
+Plastic Rod\250527\220943.16;
+Trident Rod\238986.27\131516.15;
+Flimsy Rod\202196.66\270389.79;
+Buddy Bond Rod\186105.77\225840.8;
+Fast Rod\231571.92\259413.45;
+Fischer's Rod\207285.1\232206.68;
+Training Rod\185367.1\200498.68;
+Free Spirit Rod\231578.57\127439.63;
+No-Life Rod\211432.26\176115.36;
+Ethereal Prism Rod\207153.24\191384.28;
+Seraphic Rod\206142.58\174270.53;
+Rod Of The Forgotten Fang\197416.3\159050.7;
+Challenger's Rod\195634.44\159579.41;
+Rod Of The Exalted One\186110.9\135653.66;
+Rod Of The Depths\182207.02\144375.84;
+Zeus Rod\180929.64\148335.2;
+Verdant Shear Rod\179587.85\148408.85;
+Blazebringer Rod\173582.55\140026;
+Depthseeker Rod\170677.63\135942.31;
+Avalanche Rod\168135.93\121817.12;
+Volcanic Rod\167308.68\112576.02;
+Steady Rod\86067.4\52451.67
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching an Angelfish, the player has a chance to make one of the following exclamations:
+* Ouu an Angelfish!
+* Woah, an Angelfish!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Roslit Bay}}

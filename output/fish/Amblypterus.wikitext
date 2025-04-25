@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Amblypterus.png
+|rarity         = Mythical
+|sea            = First Sea
+|location       = [[Ancient Archives]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 700
+|weather        = 
+|time           = Day
+|season         = 
+|bait           = Fish Head
+|base_weight    = 180
+|base_value     = 2500
+|weight_range   = 110
+|base_chance    = 0.005
+|base_resil     = 15
+}}
+'''Amblypterus''' is a {{Rarity|Mythical}} fish found in the [[Ancient Archives]].
+
+== Description ==
+{{Description|Amblypterus is an extinct genus of prehistoric fish from the Carboniferous period, known for its unusual body shape and large, complex pectoral fins that allowed for agile, precise movement.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in the dark waters of the Archives...|Bestiary Hint}}
+{{Fish Availability|
+Ancient Archives
+|top_rods      = 
+Leviathan's Fang Rod\183754.33\335973.54;
+Free Spirit Rod\176406.37\328053.96;
+Trident Rod\172522.69\320831.67;
+No-Life Rod\134111.56\249747.26;
+Azure Of Lagoon\127688.05\246516.51;
+Resourceful Rod\87091.57\175638.71;
+Rapid Rod\101971.98\204537.6;
+Haunted Rod\59711.54\152995.25;
+Buddy Bond Rod\58003.1\114368.95;
+Candy Cane Rod\62583.33\139446.5;
+Rod Of Time\71035.79\154147.21;
+Seraphic Rod\107466.23\195757.06;
+Ethereal Prism Rod\107013.19\190988.31;
+Challenger's Rod\105193.53\197656.39;
+Rod Of The Forgotten Fang\104336.37\191423.52;
+Zeus Rod\96491.48\183838.74;
+Verdant Shear Rod\95828.16\185284.03;
+Depthseeker Rod\94767.23\193096.67;
+Rod Of The Depths\94112.67\173461.47;
+Blazebringer Rod\92138.04\178039.18;
+Rod Of The Exalted One\90642.91\166612.85;
+Avalanche Rod\90433.96\185104.44;
+Volcanic Rod\86255.34\169672.67;
+Steady Rod\32766.43\94478.95
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching an Amblypterus, the player has a chance to make one of the following exclamations:
+* I caught an Amblypterus!
+* OMG A Amblypterus!
+* I can't believe I caught an Amblypterus!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ancient Archives}}

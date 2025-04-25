@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Marble Maiden.png
+|rarity         = Uncommon
+|sea            = First Sea
+|location       = [[Atlantis]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 80
+|weather        = 
+|time           = 
+|season         = Spring, Summer
+|bait           = Worm
+|base_weight    = 3.5
+|base_value     = 120
+|weight_range   = 2
+|base_chance    = 60
+|base_resil     = 70
+}}
+'''Marble Maiden''' is an {{Rarity|Uncommon}} fish found in [[Atlantis]].
+
+== Description ==
+{{Description|These elegant fish have skin that resembles polished marble, allowing them to blend perfectly with the classical architecture of the depths.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Sunken's Depth Pool|Bestiary Hint}}
+{{Fish Availability|
+Atlantis/Sunken Depths
+|top_rods      = 
+Trident Rod\163595.21\100959.38;
+Free Spirit Rod\160208.85\100707.91;
+Summit Rod\159212.31\110990.94;
+Champions Rod\157548.97\110930.54;
+Azure Of Lagoon\157160.21\98669.81;
+Training Rod\151807.23\152119.31;
+Flimsy Rod\109298.5\107165.31;
+Firefly Rod\152227.06\129825.37;
+Leviathan's Fang Rod\156780.09\162168.94;
+Ethereal Prism Rod\150942.05\149765.11;
+No-Life Rod\155031.94\143373.47;
+Seraphic Rod\142266.19\142266.19;
+Kraken Rod\122557.22\139269.5;
+Depthseeker Rod\156880.88\111066.86;
+Verdant Shear Rod\155322.05\121348.27;
+Avalanche Rod\154800.59\108244.06;
+Blazebringer Rod\149946.44\114445.29;
+Zeus Rod\148877.41\121271.03;
+Volcanic Rod\145374.91\92031.64;
+Challenger's Rod\142456.9\130316.8;
+Rod Of The Depths\136336.78\118020.56;
+Rod Of The Forgotten Fang\135222.43\129920.75;
+Rod Of The Exalted One\125308.33\119119.54;
+Steady Rod\73119.37\60871.45
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Marble Maiden, the player has a chance to make one of the following exclamations:
+* A Marble Maiden!
+* Grace of the ruins!
+* Beautiful as stone!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Atlantis}}

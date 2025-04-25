@@ -1,0 +1,66 @@
+{{FishInfobox
+|image          = Brimstone Angler.png
+|rarity         = Mythical
+|sea            = Second Sea
+|location       = [[Emberreach]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -68
+|xp             = 1200
+|weather        = Foggy
+|time           = Night
+|season         = Autumn
+|bait           = Ember Berries
+|base_weight    = 483
+|base_value     = 2500
+|weight_range   = 297
+|base_chance    = 13
+|base_resil     = 22
+}}
+'''Brimstone Angler''' is a {{Rarity|Mythical}} fish found in [[Emberreach]].
+
+== Description ==
+{{Description|A mysterious fish, its fins casting an eerie glow in the mist.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Its light tempts in the foggy embers of dusk.|Bestiary Hint}}
+{{Fish Availability|
+Emberreach/Surrounding Ocean
+|top_rods      = 
+Free Spirit Rod\59632.3\140838.46;
+Egg Rod\46521.56\120273.9;
+Verdant Shear Rod\44147.36\114135.77;
+Great Dreamer Rod\43622.81\112183.08;
+Blazebringer Rod\43486.49\110679.52;
+Krampus's Rod\43025.26\66234.98;
+Frostfire Rod\31205.92\67363.1;
+Steady Rod\33078.27\68008.34;
+Resourceful Rod\34867.14\81828.66;
+Destiny Rod\29443.89\73003.81;
+Trident Rod\38478.96\90489.18;
+Seraphic Rod\30932.98\79972.15;
+Ethereal Prism Rod\30742.98\77655.34;
+No-Life Rod\29759.44\78883.62;
+Challenger's Rod\28948.11\76513.15;
+Rod Of The Forgotten Fang\28352.14\73496.81;
+Rod Of The Exalted One\27997.94\71626.23;
+Rod Of The Depths\27088.96\70799.28;
+Depthseeker Rod\26624.71\72059.64;
+Volcanic Rod\26126.36\69862.93;
+Avalanche Rod\26033.33\70545.9;
+Zeus Rod\25798.27\68985.6
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Brimstone Angler, the player has a chance to make one of the following exclamations:
+* A BRIMSTONE ANGLER!
+* GLOWING LURE!
+* PURPLE!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Emberreach}}

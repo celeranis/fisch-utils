@@ -1,0 +1,69 @@
+{{FishInfobox
+|image          = Perch.png
+|rarity         = Common
+|sea            = First Sea
+|location       = [[Roslit Bay]]
+|sublocation    = Freshwater
+|sources        = Fish Barrel, Fishing Rod, Volcanic Geode
+|radar_location = 
+|xp             = 80
+|weather        = Clear
+|time           = 
+|season         = 
+|bait           = Worm
+|base_weight    = 1.2
+|base_value     = 70
+|weight_range   = 1
+|base_chance    = 80
+|base_resil     = 70
+}}
+'''Perch''' is a {{Rarity|Common}} fish found in [[Roslit Bay]].
+
+== Description ==
+{{Description|The Perch is a common freshwater fish that is best found in Roslit Bays fresh water. They are known for their striped bodies and a playful behaviour.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in freshwater of Roslit.|Bestiary Hint}}
+{{Fish Availability|
+Roslit Bay/Freshwater Pond
+Roslit Bay/Freshwater Pond Seaweed
+|top_rods      = 
+Leviathan's Fang Rod\424897.47\204175.87;
+Trident Rod\385742.21\182594.57;
+No-Life Rod\381448.91\377668.65;
+Free Spirit Rod\377757.5\182139.76;
+Ethereal Prism Rod\377112.45\95621.73;
+Training Rod\292719.99\302634.54;
+Flimsy Rod\264201.14\235428.81;
+Krampus's Rod\365360.96\239446.76;
+Azure Of Lagoon\327038.13\382853.25;
+Zeus Rod\321926.56\341317.37;
+Great Dreamer Rod\311353.24\339451.3;
+Riptide Rod\306333.76\338996.2;
+Long Rod\247328.68\258551.86;
+Seraphic Rod\376745.98\257301.83;
+Rod Of The Forgotten Fang\354579.53\234973.94;
+Challenger's Rod\349515.11\338940.48;
+Rod Of The Depths\323700.85\213451.33;
+Rod Of The Exalted One\322196.46\207599.97;
+Verdant Shear Rod\318540.48\312310.47;
+Blazebringer Rod\305440.29\326412.76;
+Depthseeker Rod\292888.17\279250.64;
+Volcanic Rod\273800.02\278783.07;
+Avalanche Rod\268027.87\257066.32;
+Steady Rod\133758.6\117873.55
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Perch, the player has a chance to make one of the following exclamations:
+* A Perch!
+* I caught a Perch!
+* Woah, a Perch!
+* Aww! A Perch!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Roslit Bay}}

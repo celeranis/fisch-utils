@@ -1,0 +1,26 @@
+{{BaitInfobox
+|image          = Bait Ember Berries.png
+|rarity         = Unusual
+|crates         = Tropical Bait Crate/0.94
+|angler_quests  = <!--TBD-->
+|pref_luck      = 120
+|univ_luck      = 45
+|resilience     = 15
+|lure           = 5
+|ability        = 
+}}
+'''Ember Berries''' is an {{Rarity|Unusual}} [[Bait]] that can be used in fishing.
+
+== Obtainment ==
+Ember Berriess can be obtained in the following ways:
+* {{Item|Tropical Bait Crate}} (0.94/crate on average)
+<!--* [[Angler]] Quests, starting from the ?th completion-->
+
+== Favoring Fish ==
+{{Fish by Category Table|Ember Berries-Loving Fish|event=1|show_location=1|hide_bait=1|resultsheader='''%PAGES%''' [[Fish]] prefer Ember Berriess:|noresultsheader=No fish prefer Ember Berriess.}}
+
+== Change History ==
+{{Change History|1.0}}
+
+== Navigation ==
+{{Bait Navbox}}

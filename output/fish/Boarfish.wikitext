@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Boarfish.png
+|rarity         = Unusual
+|sea            = Second Sea
+|location       = [[Open Ocean]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -7
+|xp             = 90
+|weather        = Rain
+|time           = Night
+|season         = Winter
+|bait           = Ember Berries
+|base_weight    = 54
+|base_value     = 180
+|weight_range   = 32
+|base_chance    = 97
+|base_resil     = 52
+}}
+'''Boarfish''' is an {{Rarity|Unusual}} fish found in the [[Open Ocean]].
+
+== Description ==
+{{Description|A dark red fish with yellow fins, charging through the currents.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It barrels where the rain pounds the sea.|Bestiary Hint}}
+{{Fish Availability|
+Open Ocean
+Open Ocean/Sea Leviathan
+|top_rods      = 
+Free Spirit Rod\144098.22\91081.86;
+Trident Rod\130728.17\117799.84;
+Leviathan's Fang Rod\130128.3\122158.2;
+Azure Of Lagoon\127785.88\123323.21;
+Egg Rod\111347.27\105013.63;
+Plastic Rod\102866.11\88740.96;
+Fischer's Rod\103590.22\88738.12;
+Lucky Rod\90198.14\91351.82;
+Verdant Shear Rod\110890.05\106231;
+Blazebringer Rod\109250.38\103551.2;
+No-Life Rod\104002.81\97523.27;
+Seraphic Rod\95465.86\85921.52;
+Ethereal Prism Rod\95275.61\91502.62;
+Challenger's Rod\92363.91\86098.5;
+Depthseeker Rod\91297.36\88982.98;
+Rod Of The Forgotten Fang\90837.54\82045.42;
+Avalanche Rod\89652.33\87536.98;
+Rod Of The Exalted One\89649.17\82709.79;
+Volcanic Rod\88977.12\84875.61;
+Rod Of The Depths\88602.63\80979.71;
+Zeus Rod\88511.29\84431.26;
+Steady Rod\73433.39\71103.97
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Boarfish, the player has a chance to make one of the following exclamations:
+* A Boarfish!
+* Red charger!
+* Yellow rusher!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Open Ocean}}

@@ -1,0 +1,63 @@
+{{FishInfobox
+|image          = Megalodon.png
+|rarity         = Exotic
+|sea            = First Sea
+|location       = [[Ancient Isle]]
+|sublocation    = 
+|sources        = Fishing Rod
+|nopassive      = 1
+|radar_location = 
+|prog_speed     = -80
+|xp             = 6000
+|weather        = 
+|time           = 
+|season         = 
+|bait           = Shark Head
+|base_weight    = 67000
+|base_value     = 10000
+|weight_range   = 17000
+|base_chance    = 0.01
+|base_resil     = 5
+}}
+'''Megalodon''' is an {{Rarity|Exotic}} fish found in the [[Ancient Isle]].
+
+== Description ==
+{{Description|The Megalodon is a gigantic predatory shark known for its enormous size. It possesses a large mouth with many serrated teeth which can easily rip through anything in its way. They went extinct around 3.6 million years ago, during the early Pliocene epoch. They are one of the apex predators of the Ancient Isle, and will put up an incredible fight when hooked.|Bestiary Entry}}
+
+== Obtainment ==
+{{Fish Availability|
+Megalodon Hunt/Eclipse and Weekend
+Megalodon Hunt/Normal
+|top_rods      = 
+Leviathan's Fang Rod\19161.7\57165.67;
+Seraphic Rod\19055.99\53576.55;
+Ethereal Prism Rod\18953.49\50828.22;
+Tempest Rod\18676.54\53188.38;
+No-Life Rod\17975.45\51990.69;
+Destiny Rod\13575.66\34685.23;
+Heaven's Rod\12928.25\33633.06;
+Challenger's Rod\17851.98\53003.19;
+The Lost Rod\11609.9\34132.63;
+Volcanic Rod\10375.02\30502.13;
+Zeus Rod\13209.17\38834.42;
+Rod Of The Forgotten Fang\16560.17\46036.09;
+Rod Of The Exalted One\13817.28\37562.42;
+Avalanche Rod\11004.68\33196.2;
+Steady Rod\3620.98\11998.92
+|recommended   = Seraphic Rod
+}}
+
+== Gameplay Notes ==
+* While reeling in a Megalodon, the fish will ''not'' be visible in the water.
+* Megalodon usually cannot be caught with passive effects, such as the one provided by the [[Rod Of The Depths]] and [[Rod Of The Forgotten Fang]].
+** The only exception is when catching a Megalodon on the Megalodon Passive reel of the [[Rod Of The Forgotten Fang]], the Megalodon will instead dupe the Megalodon.
+
+== Catch Quips ==
+When catching a Megalodon, the player has a chance to make one of the following exclamations:
+* WOAH The Meg!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ancient Isle}}

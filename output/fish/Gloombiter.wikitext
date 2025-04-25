@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Gloombiter.png
+|rarity         = Common
+|sea            = Second Sea
+|location       = [[The Cursed Shores]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -66
+|xp             = 105
+|weather        = Foggy
+|time           = Night
+|season         = Winter
+|bait           = Shrimp
+|base_weight    = 2.2
+|base_value     = 110
+|weight_range   = 1.3
+|base_chance    = 115
+|base_resil     = 15
+}}
+'''Gloombiter''' is a {{Rarity|Common}} fish found in [[The Cursed Shores]].
+
+== Description ==
+{{Description|A fierce biter that claims the shadows as its domain.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It strikes where the light fades.|Bestiary Hint}}
+{{Fish Availability|
+The Cursed Shores
+|top_rods      = 
+Free Spirit Rod\272086.15\285543.78;
+Leviathan's Fang Rod\209301.41\213015.82;
+Azure Of Lagoon\197635.87\198646.56;
+Trident Rod\197311.71\192341.18;
+Egg Rod\175608.73\156720.28;
+Training Rod\117279.86\213963.94;
+Flimsy Rod\108608.33\118384.25;
+Resourceful Rod\121406.83\96694.41;
+Heaven's Rod\108393.49\112579.3;
+Verdant Shear Rod\166493.85\142061.52;
+Blazebringer Rod\161942.64\144443.67;
+No-Life Rod\136756.71\128636;
+Seraphic Rod\122692.32\119601.55;
+Ethereal Prism Rod\115725.04\110302.27;
+Challenger's Rod\113454.91\114346.55;
+Rod Of The Forgotten Fang\107416.17\96803.33;
+Rod Of The Exalted One\104617.94\91937.71;
+Depthseeker Rod\104616.38\112469.07;
+Rod Of The Depths\102984.02\93183.46;
+Avalanche Rod\102183.97\106232.82;
+Volcanic Rod\101364.94\101908.84;
+Steady Rod\100570.27\95758.63;
+Zeus Rod\100090.06\100206.31
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Gloombiter, the player has a chance to make one of the following exclamations:
+* A Gloombiter!
+* Darkness owns it!
+* Bite of gloom!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|The Cursed Shores}}

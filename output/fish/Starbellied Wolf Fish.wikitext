@@ -1,0 +1,64 @@
+{{FishInfobox
+|image          = Starbellied Wolf Fish.png
+|rarity         = Rare
+|sea            = First Sea
+|location       = [[Blue Moon - First Sea]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = +25
+|xp             = 2950
+|weather        = Rain
+|time           = 
+|season         = Winter
+|bait           = Minnow
+|base_weight    = 24
+|base_value     = 3500
+|weight_range   = 17
+|base_chance    = 70
+|base_resil     = 50
+}}
+'''Starbellied Wolf Fish''' is a {{Rarity|Rare}} fish found in [[Blue Moon]] events at [[Snowcap Island]].
+
+== Description ==
+{{Description|A fierce predator with a surface speckled like a starry night sky.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It hunts under the rainy mist.|Bestiary Hint}}
+{{Fish Availability|
+Blue Moon/First Sea
+|top_rods      = 
+Training Rod\266260.33\311504.02;
+Flimsy Rod\192681.82\192681.82;
+Trident Rod\126103.49\76784.19;
+Leviathan's Fang Rod\123398.3\156437.2;
+Free Spirit Rod\119236.66\76286.27;
+Ethereal Prism Rod\104746.32\151932.28;
+Kraken Rod\86593.76\126495.74;
+No-Life Rod\111220.94\104470.86;
+Depthseeker Rod\104635.24\104455.02;
+Blazebringer Rod\103336.81\102590.33;
+Verdant Shear Rod\103305.9\102729.33;
+Seraphic Rod\103170.3\105393.78;
+Avalanche Rod\102776.82\102601.65;
+Zeus Rod\102681.4\101939.65;
+Volcanic Rod\100114.36\99391.16;
+Challenger's Rod\98270.09\94174.11;
+Rod Of The Forgotten Fang\94112.58\95089.98;
+Rod Of The Depths\91550.19\85346.94;
+Rod Of The Exalted One\87399.45\96846.24;
+Steady Rod\54492.35\54427.35
+|recommended   = Training Rod
+}}
+
+== Catch Quips ==
+When catching a Starbellied Wolf Fish, the player has a chance to make one of the following exclamations:
+* A Starbellied Wolf Fish!
+* Starry jaws!
+* Lunar hunter!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Blue Moon - First Sea}}

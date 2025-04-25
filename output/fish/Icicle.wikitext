@@ -1,0 +1,65 @@
+{{FishInfobox
+|image          = Icicle.png
+|rarity         = Limited
+|event          = Fischmas
+|sea            = First Sea
+|location       = [[Fischmas]]
+|sublocation    = 
+|sources        = Fishing Rod, Supreme Present, Unique Present
+|radar_location = 
+|xp             = 60
+|weather        = 
+|time           = 
+|season         = 
+|bait           = Holly Berry
+|base_weight    = 1.2
+|base_value     = 130
+|weight_range   = 0.8
+|base_chance    = 1
+|base_resil     = 100
+}}
+'''Icicle''' is a {{Rarity|Limited}} fish found in the [[Winter Village]] during the [[Fischmas]] event.
+
+== Description ==
+{{Description|A strong and frigid ice formation with a pointy end.|Bestiary Entry}}
+
+== Obtainment ==
+{{Fish Availability|
+Fischmas/Winter Village
+|top_rods      = 
+Ethereal Prism Rod\32686.79\103403.08;
+Leviathan's Fang Rod\32148.57\121463.7;
+Seraphic Rod\31292.14\104072.26;
+No-Life Rod\30459.8\108087.87;
+Tempest Rod\29864.54\103094.94;
+Resourceful Rod\25298.67\87861.22;
+Destiny Rod\26822.6\101677.57;
+Heaven's Rod\25181.95\99821.64;
+Challenger's Rod\28079.83\103459.32;
+Precision Rod\20016.29\82200.28;
+Free Spirit Rod\24476.18\101489.48;
+Shamrock Rod\20946.87\85259.39;
+Rod Of The Forgotten Fang\29295.21\103022.27;
+Rod Of The Depths\26390.75\94783.22;
+Rod Of The Exalted One\26103.47\99212.7;
+Zeus Rod\25584.94\97234.03;
+Verdant Shear Rod\25175.49\98687.17;
+Trident Rod\24659.46\102249.43;
+Blazebringer Rod\24375.61\93947.89;
+Depthseeker Rod\22901.73\87765.72;
+Avalanche Rod\20733.74\79209.78;
+Volcanic Rod\19950.56\76895.07;
+Training Rod\12191.66\46781.89;
+Steady Rod\6598.4\26342.48
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching an Icicle, the player has a chance to make one of the following exclamations:
+* Woah, an Icicle!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Fischmas}}

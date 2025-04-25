@@ -1,0 +1,66 @@
+{{FishInfobox
+|image          = Infant Giant Seadevil.png
+|rarity         = Legendary
+|sea            = First Sea
+|location       = [[Abyssal Zenith]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -55
+|xp             = 2600
+|weather        = Clear
+|time           = 
+|season         = Autumn
+|bait           = Truffle Worm
+|base_weight    = 1700
+|base_value     = 5000
+|weight_range   = 1100
+|base_chance    = 0.005
+|base_resil     = 12
+}}
+'''Infant Giant Seadevil''' is a {{Rarity|Legendary}} fish found in the [[Abyssal Zenith]] of [[Mariana's Veil]].
+
+== Description ==
+{{Description|A juvenile version of the Giant Seadevil, with a bright lure and razor-sharp teeth.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in the deeper parts of the trench, especially within cool temperatures.|Bestiary Hint}}
+{{Fish Availability|
+Mariana's Veil/Abyssal Zenith
+|top_rods      = 
+Leviathan's Fang Rod\72599.05\415148.04;
+Ethereal Prism Rod\59210.26\260344.03;
+Free Spirit Rod\56725.89\431770.68;
+Seraphic Rod\56366.82\267779.76;
+No-Life Rod\54574.87\281170.27;
+Resourceful Rod\49185.57\298890.43;
+Destiny Rod\47463.65\195597.24;
+Heaven's Rod\42444.11\207037.87;
+Rapid Rod\48538.45\422689.62;
+Trident Rod\53568.33\407736.85;
+Wildflower Rod\35470.16\311459.9;
+Frog Rod\35432.99\274926.61;
+Rod Of The Forgotten Fang\51474.66\254762.27;
+Challenger's Rod\49898.71\263456.38;
+Rod Of The Exalted One\45448.31\212972.7;
+Rod Of The Depths\44760.3\218962.33;
+Zeus Rod\42738.67\226745.47;
+Verdant Shear Rod\41828\235226.79;
+Blazebringer Rod\41419.49\230773.98;
+Depthseeker Rod\39057.05\221425.93;
+Avalanche Rod\34535.88\192504.61;
+Volcanic Rod\33374.55\179129.53;
+Steady Rod\10850.1\70120.62
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching an Infant Giant Seadevil, the player has a chance to make one of the following exclamations:
+* AN INFANT GIANT SEADEVIL!?
+* YOUNG YET DANGEROUS!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Abyssal Zenith}}

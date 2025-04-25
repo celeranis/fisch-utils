@@ -1,0 +1,69 @@
+{{FishInfobox
+|image          = Bream.png
+|rarity         = Common
+|sea            = First Sea
+|location       = [[Moosewood]]
+|sublocation    = Freshwater
+|sources        = Fish Barrel, Fishing Rod
+|radar_location = 
+|xp             = 30
+|weather        = Foggy
+|time           = Day
+|season         = Spring, Winter
+|bait           = Worm
+|base_weight    = 2.7
+|base_value     = 60
+|weight_range   = 1.6
+|base_chance    = 75
+|base_resil     = 80
+}}
+'''Bream''' is a {{Rarity|Common}} fish found in [[Moosewood]].
+
+== Description ==
+{{Description|Breams are school fish with deep bodies, flat sides and a small head. The bream loves worms and is most commonly found in Moosewoods freshwater.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in freshwaters, and along ocean beaches. Prefers day.|Bestiary Hint}}
+{{Fish Availability|
+Moosewood/Freshwater Pond
+|top_rods      = 
+Leviathan's Fang Rod\228773.62\0;
+Trident Rod\215842.04\13816.93;
+Free Spirit Rod\212739.93\13792.37;
+No-Life Rod\201173.81\19741.24;
+Seraphic Rod\195959.56\19635.67;
+Destiny Rod\186330.71\14308.59;
+Heaven's Rod\181966.23\0;
+Nocturnal Rod\120339.92\109366.68;
+Egg Rod\180010.46\23645.34;
+Verdant Shear Rod\177298.19\22842.17;
+Abyssal Specter Rod\181430.41\22522.4;
+Blazebringer Rod\176721.68\21937.86;
+Summit Rod\172990.73\20606.67;
+Ethereal Prism Rod\194297.35\0;
+Rod Of The Forgotten Fang\189569.17\17930.13;
+Challenger's Rod\188341.53\17972.78;
+Rod Of The Exalted One\182159.54\15751.91;
+Rod Of The Depths\180083.49\16307.92;
+Zeus Rod\178176.78\21792.61;
+Volcanic Rod\171460.39\21284.74;
+Depthseeker Rod\171144.59\20979.23;
+Avalanche Rod\169190.53\18904.97;
+Training Rod\146546.51\18508.65;
+Steady Rod\82650.93\9276.66
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Bream, the player has a chance to make one of the following exclamations:
+* A Bream!
+* Bream!
+* I caught a Bream!
+* Woah, a Bream!
+* Hello, Bream!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Moosewood}}

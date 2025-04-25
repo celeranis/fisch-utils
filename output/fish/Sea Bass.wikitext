@@ -1,0 +1,101 @@
+{{FishInfobox
+|image          = Sea Bass.png
+|rarity         = Common
+|sea            = First Sea
+|location       = [[Ocean]]
+|sublocation    = Saltwater
+|sources        = Common Crate, Fish Barrel, Fishing Rod
+|radar_location = 
+|xp             = 90
+|weather        = Clear
+|time           = 
+|season         = Spring, Summer
+|bait           = Squid
+|base_weight    = 6
+|base_value     = 95
+|weight_range   = 4
+|base_chance    = 75
+|base_resil     = 80
+}}
+'''Sea Bass''' is a {{Rarity|Common}} fish found in the [[Ocean]].
+
+== Description ==
+{{Description|The Sea Bass is a popular catch for many anglers, known for its elongated body and aggressive fighting behaviour when hooked. They can be found all over the world in all sorts of salt waters.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|In salt waters.|Bestiary Hint}}
+{{Fish Availability|
+Ancient Isle/Algae Hunt
+Ancient Isle/Surrounding Ocean
+Atlantis/Surrounding Ocean
+FischFright/Frightful Pool
+Forsaken Shores/Algae Hunt
+Golden Tide
+Lovestorm/Normal
+Lovestorm/Supercharged
+Lucky Event/Blarney McBreeze
+Lucky Event/O'Mango Goldgrin
+Lucky Event/Plumrick O'Luck
+Lucky Event/Rowdy McCharm
+Lucky Event/Sunny O'Coin
+Megalodon Hunt/Eclipse and Weekend
+Megalodon Hunt/Normal
+Mushgrove Swamp/Algae Hunt
+Northern Summit/Surrounding Ocean
+Ocean
+Ocean/Deep Ocean
+Ocean/Harvesters Spike
+Ocean/Strange Whirlpool
+Ocean/The Arch
+Orca Migration/Ancient
+Orca Migration/Normal
+Roslit Bay/Surrounding Ocean
+Shark Hunt/Great Hammerhead Shark
+Shark Hunt/Great White Shark
+Shark Hunt/Whale Shark
+Snowcap Island/Algae Hunt
+Snowcap Island/Surrounding Ocean
+Terrapin Island/Olm Cave
+Terrapin Island/Surrounding Ocean
+Whale Migration/Moby
+Whale Migration/Normal
+|top_rods      = 
+Leviathan's Fang Rod\257407.3\201283.07;
+Trident Rod\250841.14\138381.26;
+Free Spirit Rod\247236.01\138135.26;
+Azure Of Lagoon\223183.54\187052.36;
+No-Life Rod\221976.27\191828.74;
+Training Rod\186862.34\216694.98;
+Flimsy Rod\160526.62\136185.53;
+Verdant Shear Rod\205745.04\224331.55;
+Egg Rod\204797.13\231870.77;
+Rapid Rod\210322.2\220881.31;
+Great Dreamer Rod\203022.76\212716.14;
+Seasons Rod\190410.34\181603.7;
+Seraphic Rod\215421.7\196657.4;
+Rod Of The Forgotten Fang\210920.97\177919.31;
+Ethereal Prism Rod\208461.64\142983.28;
+Challenger's Rod\208041.41\174644.32;
+Rod Of The Exalted One\207373.56\161956.44;
+Blazebringer Rod\205653.54\194720.4;
+Rod Of The Depths\205573.93\158466.61;
+Zeus Rod\203732.45\202900.91;
+Depthseeker Rod\201226.28\192028.22;
+Avalanche Rod\199419.75\179976.24;
+Volcanic Rod\197058.4\174943.93;
+Steady Rod\101231.62\97504.39
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Sea Bass, the player has a chance to make one of the following exclamations:
+* A Sea Bass!
+* I caught a Sea Bass!
+* Woah! A Sea Bass!
+* Ouu! A Bass!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ocean}}

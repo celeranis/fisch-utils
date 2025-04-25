@@ -1,0 +1,65 @@
+{{FishInfobox
+|image          = Blackfish.png
+|rarity         = Uncommon
+|sea            = First Sea
+|location       = [[Snowcap Island]]
+|sublocation    = Freshwater
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 100
+|weather        = 
+|time           = Night
+|season         = 
+|bait           = Worm
+|base_weight    = 2
+|base_value     = 100
+|weight_range   = 1.5
+|base_chance    = 80
+|base_resil     = 60
+}}
+'''Blackfish''' is an {{Rarity|Uncommon}} fish found in [[Snowcap Island]].
+
+== Description ==
+{{Description|Blackfish are small, black, nighttime swimmers that can be most commonly found in the cold the rocky waters of Snowcap Pond.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in Snowcap Pond during the night.|Bestiary Hint}}
+{{Fish Availability|
+Snowcap Island/Freshwater Pond
+|top_rods      = 
+Leviathan's Fang Rod\472332.64\213736.51;
+Trident Rod\445580.63\192147.81;
+Free Spirit Rod\431769.24\191489.89;
+No-Life Rod\387135.83\280127.93;
+Seraphic Rod\371844.63\268092.24;
+Flimsy Rod\265648.13\298971.91;
+Training Rod\264957.26\294967.83;
+Rod Of The Eternal King\345923.82\201824.67;
+Abyssal Specter Rod\328570.17\287055.43;
+Azure Of Lagoon\363896.31\284635.83;
+Avalanche Rod\283979.2\241520.38;
+Ethereal Prism Rod\370328.97\80951.6;
+Challenger's Rod\362886.74\245491.88;
+Rod Of The Forgotten Fang\361860.06\244678.53;
+Rod Of The Exalted One\349582.9\208685.26;
+Rod Of The Depths\339717.91\222103.2;
+Zeus Rod\338272.93\278722.52;
+Verdant Shear Rod\337987.25\272171.48;
+Blazebringer Rod\322315.66\276314.72;
+Depthseeker Rod\313178.22\265330.1;
+Volcanic Rod\294319.34\267622.7;
+Steady Rod\136157.21\110186.04
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Blackfish, the player has a chance to make one of the following exclamations:
+* A Blackfish!
+* I caught a Blackfish!
+* Oh, a Blackfish!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Snowcap Island}}

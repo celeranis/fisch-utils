@@ -1,0 +1,38 @@
+{{FishInfobox
+|image          = Spined Fin.png
+|rarity         = Limited
+|event          = Archeological Site
+|sea            = First Sea
+|location       = [[Archeological Site]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -10
+|xp             = 120
+|weather        = 
+|time           = 
+|season         = 
+|bait           = 
+|base_weight    = 5
+|base_value     = 300
+|weight_range   = 3
+|base_chance    = 1
+|base_resil     = 100
+}}
+'''Spined Fin''' is a {{Rarity|Limited}} fish found in [[Archeological Site]] during the [[Archeological Site]] event.
+
+== Description ==
+{{Description|A jagged, bony fin from a formidable fish, crafted by nature for defense.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|This appears to be something a fish from the coldest regions would rely on for survival...|Bestiary Hint}}
+
+== Catch Quips ==
+When catching a Spined Fin, the player has a chance to make one of the following exclamations:
+* Woah a bone!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Archeological Site}}

@@ -1,0 +1,69 @@
+{{FishInfobox
+|image          = Searfin.png
+|rarity         = Unusual
+|sea            = Second Sea
+|location       = [[Emberreach]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -9
+|xp             = 78
+|weather        = Clear
+|time           = Day
+|season         = Summer
+|bait           = Coal
+|base_weight    = 630
+|base_value     = 168
+|weight_range   = 378
+|base_chance    = 74
+|base_resil     = 43
+}}
+'''Searfin''' is an {{Rarity|Unusual}} fish found in [[Emberreach]].
+
+== Description ==
+{{Description|A sleek fish, its fins shimmering with the heat of scorched tides.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It glides where the sun ignites the stillness.|Bestiary Hint}}
+{{Fish Availability|
+Emberreach/Volcano
+|top_rods      = 
+Free Spirit Rod\262812.86\18391.5;
+Trident Rod\259743.73\31476.3;
+Leviathan's Fang Rod\256072.97\32867.84;
+Azure Of Lagoon\230121.99\17589.04;
+Egg Rod\202264.98\24690.24;
+Precision Rod\153360.54\18584.56;
+Verdant Shear Rod\196320.73\24268.8;
+Shamrock Rod\157800.63\19122.62;
+Nocturnal Rod\122156.2\122156.2;
+Blazebringer Rod\197180.93\25308.84;
+Great Dreamer Rod\193751.56\24868.67;
+Haunted Rod\149728.37\18814.55;
+Scurvy Rod\154110.49\19365.2;
+No-Life Rod\193033.88\23723.62;
+Seraphic Rod\173772.46\21058.12;
+Ethereal Prism Rod\171547.65\13177.98;
+Challenger's Rod\166873.96\20467.69;
+Rod Of The Forgotten Fang\164227.9\19926.06;
+Depthseeker Rod\163128.76\20441.45;
+Rod Of The Exalted One\160852.12\19884.24;
+Avalanche Rod\158496.59\19862.46;
+Rod Of The Depths\157912.85\19238.6;
+Volcanic Rod\157871.45\19540.63;
+Zeus Rod\157012.19\19434.28;
+Steady Rod\130828.18\16352.29
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Searfin, the player has a chance to make one of the following exclamations:
+* A Searfin!
+* Burning fins!
+* Hot swimmer!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Emberreach}}

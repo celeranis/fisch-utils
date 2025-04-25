@@ -1,0 +1,73 @@
+{{FishInfobox
+|image          = Cinder Carp.png
+|rarity         = Limited
+|event          = Ashfall
+|sea            = First Sea
+|location       = [[Ashfall]]
+|sublocation    = 
+|sources        = Fishing Rod
+|nopassive      = 1
+|radar_location = 
+|xp             = 275
+|weather        = Clear
+|time           = 
+|season         = 
+|bait           = Minnow
+|base_weight    = 8
+|base_value     = 600
+|weight_range   = 3
+|base_chance    = 0.0005
+|base_resil     = 60
+}}
+'''Cinder Carp''' is a {{Rarity|Limited}} fish found in [[Roslit Bay]]'s saltwater during the [[Ashfall]] event.
+
+== Description ==
+{{Description|Despite its small size, the Cinder Carp packs incomprehensible heat.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Only can be caught during Ashfall.|Bestiary Hint}}
+{{Fish Availability|
+Roslit Bay/Ashfall
+|top_rods      = 
+Flimsy Rod\70597.95\209134.75;
+Training Rod\69365.31\230166.42;
+Leviathan's Fang Rod\50392.25\318313.68;
+Ethereal Prism Rod\49160.93\265154.91;
+Seraphic Rod\47276.41\267827.58;
+Resourceful Rod\37720.05\219556.97;
+Firefly Rod\38594.5\325885.31;
+Fast Rod\36103.92\297594.55;
+Rapid Rod\41393.1\292409.76;
+No-Life Rod\46681.13\276200.11;
+Rod Of The Forgotten Fang\44270.47\263750.01;
+Trident Rod\44174.98\275298.17;
+Free Spirit Rod\42805.71\266764.93;
+Challenger's Rod\42728.69\251132.8;
+Rod Of The Depths\39834\235547.24;
+Rod Of The Exalted One\39248.08\229350.33;
+Zeus Rod\38964.04\235353.45;
+Verdant Shear Rod\38251.56\236120.82;
+Blazebringer Rod\36979.16\223364.26;
+Depthseeker Rod\35100.54\218299.1;
+Avalanche Rod\31687.29\197670;
+Volcanic Rod\30359.53\183379.89;
+Steady Rod\13614.5\65431.04
+|recommended   = Training Rod
+}}
+
+== Gameplay Notes ==
+* Cinder Carp usually cannot be caught with passive effects, such as the one provided by the [[Rod Of The Depths]] and [[Rod Of The Forgotten Fang]].
+** The only exception is when catching a Cinder Carp on the Megalodon Passive reel of the [[Rod Of The Forgotten Fang]], the Megalodon will instead dupe the Cinder Carp.
+
+== Catch Quips ==
+When catching a Cinder Carp, the player has a chance to make one of the following exclamations:
+* Woah, a Cinder Carp!
+* I think it's still smoking?
+* It's glowing!
+* Everlasting heat!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ashfall}}

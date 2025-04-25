@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Sarcastic Fringehead.png
+|rarity         = Legendary
+|sea            = Second Sea
+|location       = [[Open Ocean]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -42
+|xp             = 680
+|weather        = Rain
+|time           = Day
+|season         = Autumn
+|bait           = Gale Grub
+|base_weight    = 140
+|base_value     = 1350
+|weight_range   = 85
+|base_chance    = 30
+|base_resil     = 24
+}}
+'''Sarcastic Fringehead''' is a {{Rarity|Legendary}} fish found in the [[Open Ocean]].
+
+== Description ==
+{{Description|A desaturated red fish with yellow-orange fins, one eye missing and a sarcastic mop of hair.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It mocks you where the rain hits hard.|Bestiary Hint}}
+{{Fish Availability|
+Open Ocean
+Open Ocean/Sea Leviathan
+|top_rods      = 
+Frostfire Rod\89276.11\56635.23;
+Steady Rod\88178.32\56306.71;
+Free Spirit Rod\69741.17\52602.9;
+Event Horizon Rod\61547.63\50433.47;
+Astral Rod\61547.63\50433.47;
+North-Star Rod\60930.09\49927.45;
+Verdant Shear Rod\47771.07\54945.38;
+Firefly Rod\46266.61\53947.68;
+Nocturnal Rod\14724.06\48914.91;
+Lucky Rod\31189.5\52427.85;
+Trident Rod\53688.3\36349.14;
+Blazebringer Rod\44442.12\47360.77;
+No-Life Rod\36783.46\30275.27;
+Seraphic Rod\31323.45\31812.07;
+Ethereal Prism Rod\31312.36\32711.45;
+Challenger's Rod\29425.3\28795.12;
+Rod Of The Forgotten Fang\28848.54\29750.05;
+Rod Of The Exalted One\28762.59\30269.44;
+Rod Of The Depths\28136.33\28645.19;
+Depthseeker Rod\27622.41\26318.1;
+Volcanic Rod\27463.73\26942.18;
+Avalanche Rod\27302.31\25909.24;
+Zeus Rod\27290.22\26771.97
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Sarcastic Fringehead, the player has a chance to make one of the following exclamations:
+* A SARCASTIC FRINGEHEAD!
+* ONE-EYED JERK!
+* YEAH, NICE TRY!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Open Ocean}}

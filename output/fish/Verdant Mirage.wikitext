@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Verdant Mirage.png
+|rarity         = Secret
+|sea            = Second Sea
+|location       = [[Azure Lagoon]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -88
+|xp             = 15000
+|weather        = Foggy
+|time           = Day
+|season         = Autumn
+|bait           = Luminous Larva
+|base_weight    = 1200
+|base_value     = 25000
+|weight_range   = 720
+|base_chance    = 1
+|base_resil     = 1
+}}
+'''Verdant Mirage''' is a {{Rarity|Secret}} fish found in the [[Azure Lagoon]].
+
+== Description ==
+{{Description|A dark cyan fish with bright light blue accents, a mirage in the lagoon’s heart.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It shimmers where the fog hides the truth.|Bestiary Hint}}
+{{Fish Availability|
+Azure Lagoon
+|top_rods      = 
+Free Spirit Rod\611.14\5206.1;
+Azure Of Lagoon\558.57\5113.7;
+Egg Rod\519.87\5023.81;
+Blazebringer Rod\489.74\4603.25;
+Resourceful Rod\472.96\4745.54;
+Destiny Rod\325.51\2882.72;
+Event Horizon Rod\180.15\2548.64;
+Astral Rod\180.15\2548.64;
+Magma Rod\218.66\3134.13;
+Challenger's Rod\450.24\4525.95;
+Seraphic Rod\441.97\4271;
+Verdant Shear Rod\429.88\4154.16;
+Ethereal Prism Rod\404.26\3749.46;
+Trident Rod\363.08\3508.63;
+No-Life Rod\360.91\3646.67;
+Rod Of The Forgotten Fang\340.39\3305.08;
+Rod Of The Exalted One\297.87\2825.32;
+Depthseeker Rod\293.13\3075.35;
+Rod Of The Depths\265.93\2620.02;
+Avalanche Rod\251.04\2639.69;
+Volcanic Rod\242.29\2487.12;
+Steady Rod\233.67\2553.26;
+Zeus Rod\224.85\2308.05
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Verdant Mirage, the player has a chance to make one of the following exclamations:
+* A VERDANT MIRAGE?!
+* CYAN ILLUSION!
+* MIRAGE OF MIGHT!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Azure Lagoon}}

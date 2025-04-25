@@ -1,0 +1,74 @@
+{{FishInfobox
+|image          = Trout.png
+|rarity         = Common
+|sea            = First Sea
+|location       = [[Moosewood]]
+|sublocation    = 
+|sources        = Common Crate, Fish Barrel, Fishing Rod
+|radar_location = 
+|xp             = 40
+|weather        = Clear
+|time           = 
+|season         = 
+|bait           = Insect
+|base_weight    = 5
+|base_value     = 65
+|weight_range   = 4.1
+|base_chance    = 85
+|base_resil     = 80
+}}
+'''Trout''' is a {{Rarity|Common}} fish found in [[Moosewood]].
+
+== Description ==
+{{Description|The Trout is a common freshwater fish found in all waters of Moosewood & Roslit. Trouts are well recognized for their interesting dotted patterns and pinkish-red ribbon across the sides of their soft bodies. Trouts also interestingly have two hearts to help efficiently pump blood throughout their body.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Can be found in plenty of common waters in Moosewood & Roslit.|Bestiary Hint}}
+{{Fish Availability|
+Moosewood/Docks
+Moosewood/Freshwater Pond
+Moosewood/Seaweed and Mini-Island
+Moosewood/Surrounding Ocean
+Roslit Bay/Freshwater Pond Seaweed
+|top_rods      = 
+Leviathan's Fang Rod\350314.8\156320.02;
+Trident Rod\331053.07\156591.86;
+Free Spirit Rod\326295.13\156313.48;
+No-Life Rod\306530.08\328369.21;
+Seraphic Rod\297998.33\222537.6;
+Training Rod\219415.61\219385.42;
+Flimsy Rod\184443.14\184911.77;
+Heaven's Rod\278354.16\0;
+Azure Of Lagoon\295691.97\328520.01;
+Zeus Rod\269042.3\317386.48;
+Abyssal Specter Rod\271100.66\308450.59;
+Blazebringer Rod\264064.67\302022.82;
+Voyager Rod\240712.99\250065.76;
+Kings Rod\242684.61\251443.59;
+The Lost Rod\256069.14\275140.61;
+Ethereal Prism Rod\294249.12\57893.57;
+Rod Of The Forgotten Fang\289717.48\203208.12;
+Challenger's Rod\288288.69\292543.07;
+Rod Of The Exalted One\279228.41\157550.14;
+Rod Of The Depths\276207.51\226891.08;
+Verdant Shear Rod\267575.55\286596.13;
+Volcanic Rod\249407.66\249223.27;
+Depthseeker Rod\248115.36\249205;
+Avalanche Rod\243487.77\221886.23;
+Steady Rod\116708.49\105135.44
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Trout, the player has a chance to make one of the following exclamations:
+* I thought theres a rainbow?
+* Woah, a Trout!
+* Woah!
+* A Trout!
+* I caught a Trout!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Moosewood}}

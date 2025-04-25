@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Gloamfin Gar.png
+|rarity         = Common
+|sea            = Second Sea
+|location       = [[Blue Moon - Second Sea]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = +15
+|xp             = 1055
+|weather        = Rain
+|time           = 
+|season         = Winter
+|bait           = Gale Grub
+|base_weight    = 120
+|base_value     = 290
+|weight_range   = 80
+|base_chance    = 95
+|base_resil     = 80
+}}
+'''Gloamfin Gar''' is a {{Rarity|Common}} fish found in [[Blue Moon]] events at [[Lushgrove]].
+
+== Description ==
+{{Description|A long, sinewy fish with a pattern that glow brightly in the dusk.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It slinks through the rainy shallows.|Bestiary Hint}}
+{{Fish Availability|
+Blue Moon/Second Sea
+|top_rods      = 
+Krampus's Rod\229229.95\215010.08;
+Magma Rod\228758.26\214567.64;
+Plastic Rod\226429.27\212383.13;
+Fischer's Rod\183544.77\222137.67;
+Fast Rod\182938.78\221404.26;
+Magnet Rod\153084.7\231603.61;
+Buddy Bond Rod\163540.55\226353.55;
+Free Spirit Rod\180445.8\156772.53;
+Trident Rod\162067.83\161757.73;
+Blazebringer Rod\154999.4\160271.38;
+Verdant Shear Rod\153956.57\166386.1;
+No-Life Rod\140088.69\139855.77;
+Seraphic Rod\134313.11\134056.12;
+Ethereal Prism Rod\133038.94\132198.89;
+Challenger's Rod\129886.09\129665.55;
+Rod Of The Forgotten Fang\129348.22\129103.6;
+Depthseeker Rod\128802.59\128635.92;
+Rod Of The Exalted One\128342.6\127964.63;
+Avalanche Rod\128005.36\127843.94;
+Rod Of The Depths\127993.44\127760.78;
+Volcanic Rod\127632.84\127436.6;
+Zeus Rod\127211.11\127015.51;
+Steady Rod\104551.3\107589.11
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Gloamfin Gar, the player has a chance to make one of the following exclamations:
+* A Gloamfin Gar!
+* Glowing prowler!
+* Purple swimmer!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Blue Moon - Second Sea}}

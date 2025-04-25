@@ -1,0 +1,69 @@
+{{FishInfobox
+|image          = Titan Tuna.png
+|rarity         = Uncommon
+|sea            = First Sea
+|location       = [[Atlantis]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 120
+|weather        = 
+|time           = Day
+|season         = 
+|bait           = Fish Head
+|base_weight    = 7
+|base_value     = 220
+|weight_range   = 4
+|base_chance    = 55
+|base_resil     = 70
+}}
+'''Titan Tuna''' is an {{Rarity|Uncommon}} fish found in [[Atlantis]].
+
+== Description ==
+{{Description|A tuna of impossible size, grown massive in Poseidon's blessed waters. Its powerful swimming can create whirlpools with a single tail flick.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Feel for sudden strong currents in deep water, Poseidon Pool fish.|Bestiary Hint}}
+{{Fish Availability|
+Atlantis/Poseidon Temple
+|top_rods      = 
+Firefly Rod\222626.24\30825.82;
+Rapid Rod\218409.64\29564.65;
+Champions Rod\216595.31\22900.02;
+Celestial Rod\214360.18\23653.36;
+Summit Rod\214212.37\22895.9;
+Flimsy Rod\153547.3\29901.32;
+Training Rod\208108.11\40526.32;
+Fungal Rod\206214.48\31170.17;
+Nocturnal Rod\133089.97\78213.06;
+Ethereal Prism Rod\194290.72\32250.05;
+No-Life Rod\198761.04\31519.73;
+Seraphic Rod\194023.27\31276.3;
+Depthseeker Rod\213993.64\24417.33;
+Avalanche Rod\211899.78\21891.98;
+Verdant Shear Rod\208978.22\26677.63;
+Blazebringer Rod\193913.62\25160.05;
+Zeus Rod\192531.12\26660.65;
+Volcanic Rod\188001.61\20232.56;
+Trident Rod\185002.41\22195.26;
+Free Spirit Rod\181172.93\22139.98;
+Challenger's Rod\180200.08\28649.3;
+Rod Of The Forgotten Fang\177186.5\28562.23;
+Rod Of The Depths\161440\25946.05;
+Rod Of The Exalted One\151184.45\24370.74;
+Steady Rod\96190.32\9138.66
+|recommended   = Depthseeker Rod
+}}
+
+== Catch Quips ==
+When catching a Titan Tuna, the player has a chance to make one of the following exclamations:
+* A TITAN TUNA!
+* OCEAN GIANT!
+* MASSIVE CATCH!
+* WHAT POWER!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Atlantis}}

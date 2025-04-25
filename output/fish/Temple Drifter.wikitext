@@ -1,0 +1,66 @@
+{{FishInfobox
+|image          = Temple Drifter.png
+|rarity         = Uncommon
+|sea            = First Sea
+|location       = [[Atlantis]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 105
+|weather        = Clear
+|time           = Day
+|season         = 
+|bait           = Deep Coral
+|base_weight    = 5.5
+|base_value     = 170
+|weight_range   = 3
+|base_chance    = 50
+|base_resil     = 65
+}}
+'''Temple Drifter''' is an {{Rarity|Uncommon}} fish found in [[Atlantis]].
+
+== Description ==
+{{Description|These serene fish float gracefully through ethereal temples, their fins flowing like ceremonial robes. They seem to follow ancient patrol routes of the temple guardians.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Ethereal Abyss Pool|Bestiary Hint}}
+{{Fish Availability|
+Atlantis/Ethereal Abyss
+|top_rods      = 
+Champions Rod\88450.66\9211.42;
+Celestial Rod\87684.8\9342.36;
+Depthseeker Rod\87601.73\9065.68;
+Ethereal Prism Rod\87307.94\14561.88;
+Rapid Rod\87121.61\10860.03;
+Training Rod\76680.1\12161.54;
+Flimsy Rod\59209.49\8578.91;
+Fortune Rod\48505.45\8780.59;
+Nocturnal Rod\53590.25\43705.82;
+Leviathan's Fang Rod\82473.55\12758.39;
+No-Life Rod\82330.15\11605.69;
+Avalanche Rod\86320.55\8889.21;
+Verdant Shear Rod\82458.59\9802.18;
+Seraphic Rod\81585.33\11500.69;
+Blazebringer Rod\74834.96\9246.45;
+Challenger's Rod\74720.53\10533;
+Rod Of The Forgotten Fang\74483.64\10499.6;
+Zeus Rod\74281.99\9796.57;
+Volcanic Rod\72520.09\7434.73;
+Trident Rod\70142.23\8200.38;
+Free Spirit Rod\68375.87\8176.4;
+Rod Of The Depths\67637.55\9534.54;
+Rod Of The Exalted One\64167.73\9566.33;
+Steady Rod\42374.48\5049.95
+|recommended   = Depthseeker Rod
+}}
+
+== Catch Quips ==
+When catching a Temple Drifter, the player has a chance to make one of the following exclamations:
+* A Temple Drifter!
+* Guardian of sacred waters!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Atlantis}}

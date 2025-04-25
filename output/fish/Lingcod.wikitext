@@ -1,0 +1,69 @@
+{{FishInfobox
+|image          = Lingcod.png
+|rarity         = Unusual
+|sea            = First Sea
+|location       = [[Snowcap Island]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -5
+|xp             = 80
+|weather        = Windy
+|time           = Day
+|season         = Autumn, Summer
+|bait           = Fish Head
+|base_weight    = 14
+|base_value     = 110
+|weight_range   = 10
+|base_chance    = 40
+|base_resil     = 50
+}}
+'''Lingcod''' is an {{Rarity|Unusual}} fish found in [[Snowcap Island]].
+
+== Description ==
+{{Description|A large, aggressive predator with mottled brown and green skin, known for its sharp teeth and oddly fierce fighting behaviour when hooked. They can be found in ocean water near Snowcap during the day. They are especially active near the water-side enterance of Snowcap Cave.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in Snowcaps ocean water during the day. Especially active near the water-side enterance of Snowcap Cave.|Bestiary Hint}}
+{{Fish Availability|
+Snowcap Island/Surrounding Ocean
+|top_rods      = 
+Krampus's Rod\71764.77\42627.96;
+Magma Rod\68485.24\40679.93;
+Plastic Rod\62817.19\37330.12;
+Leviathan's Fang Rod\56949.03\31513.8;
+Fast Rod\51727.78\32254.67;
+Buddy Bond Rod\46662.44\27718.43;
+Nocturnal Rod\22450.65\32211.02;
+Trident Rod\51100.91\23723.57;
+Ethereal Prism Rod\50150\26222.45;
+No-Life Rod\48851.48\24801.26;
+Seraphic Rod\48763.03\25743.91;
+Free Spirit Rod\48660.57\22835.22;
+Rod Of The Forgotten Fang\45662.9\23919.72;
+Challenger's Rod\44510.38\22616.74;
+Rod Of The Depths\41188.76\20985.56;
+Zeus Rod\40724.52\20611.58;
+Rod Of The Exalted One\40206.78\20789.62;
+Verdant Shear Rod\40153.79\20242.19;
+Blazebringer Rod\38673.22\19573.38;
+Depthseeker Rod\36956.93\18601.74;
+Avalanche Rod\33352.69\16776.6;
+Volcanic Rod\31735.73\16062.16;
+Training Rod\28506.5\12006.83;
+Steady Rod\16060.46\5315.94
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Lingcod, the player has a chance to make one of the following exclamations:
+* I caught a Lingcod!
+* Woah! this is freaky!
+* A Lingcod!
+* It's a Lingcod!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Snowcap Island}}

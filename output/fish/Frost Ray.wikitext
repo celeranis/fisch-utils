@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Frost Ray.png
+|rarity         = Uncommon
+|sea            = First Sea
+|location       = [[Blue Moon - First Sea]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = +5
+|xp             = 900
+|weather        = Windy
+|time           = 
+|season         = Winter
+|bait           = Worm
+|base_weight    = 240
+|base_value     = 1900
+|weight_range   = 160
+|base_chance    = 85
+|base_resil     = 55
+}}
+'''Frost Ray''' is an {{Rarity|Uncommon}} fish found in [[Blue Moon]] events at [[Snowcap Island]].
+
+== Description ==
+{{Description|A flat, icy creature with wings that ripple like frozen waves.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It sweeps through the snowy tides.|Bestiary Hint}}
+{{Fish Availability|
+Blue Moon/First Sea
+|top_rods      = 
+Leviathan's Fang Rod\164526.03\117300.7;
+Trident Rod\162571.07\92198.84;
+Free Spirit Rod\156096.49\91792.05;
+Azure Of Lagoon\144614.68\151409.62;
+No-Life Rod\142283.23\148968.62;
+Resourceful Rod\116245.83\121768.49;
+Voyager Rod\118555.24\117893.55;
+Kings Rod\120644\119970.66;
+Egg Rod\126118.87\136482.31;
+Great Dreamer Rod\124445.36\132738.09;
+Verdant Shear Rod\124782.35\131951.89;
+Challenger's Rod\127950.75\125961.65;
+Depthseeker Rod\126492.45\126274.59;
+Zeus Rod\125752.56\130356.09;
+Seraphic Rod\125447.58\127784.16;
+Blazebringer Rod\124891.27\124277.29;
+Avalanche Rod\124231.43\124019.69;
+Rod Of The Forgotten Fang\124090.22\115156.01;
+Ethereal Prism Rod\121478.3\66586.49;
+Rod Of The Depths\121172.69\103273.82;
+Volcanic Rod\120929.21\120055.64;
+Rod Of The Exalted One\119680.08\103442.99;
+Steady Rod\65796.12\65717.63
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Frost Ray, the player has a chance to make one of the following exclamations:
+* A Frost Ray!
+* Icy wings!
+* Cold glider!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Blue Moon - First Sea}}

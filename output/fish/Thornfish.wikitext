@@ -1,0 +1,65 @@
+{{FishInfobox
+|image          = Thornfish.png
+|rarity         = Secret
+|sea            = Second Sea
+|location       = [[Pine Shoals]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -80
+|xp             = 8000
+|weather        = Foggy
+|time           = Night
+|season         = Autumn
+|bait           = Luminous Larva
+|base_weight    = 30
+|base_value     = 12500
+|weight_range   = 20
+|base_chance    = 1
+|base_resil     = 10
+}}
+'''Thornfish''' is a {{Rarity|Secret}} fish found in [[Pine Shoals]].
+
+== Description ==
+{{Description|A prickly terror that thorns through the deep.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It stings where the shadows grow sharp.|Bestiary Hint}}
+{{Fish Availability|
+Pine Shoals
+|top_rods      = 
+Free Spirit Rod\580.63\4030.89;
+Egg Rod\522.14\3230.36;
+Blazebringer Rod\491.48\3198.14;
+Azure Of Lagoon\490.94\3285.75;
+Great Dreamer Rod\481.89\3032.44;
+Resourceful Rod\416.97\3450.06;
+Destiny Rod\334.41\2331.41;
+Verdant Shear Rod\479.93\2969.24;
+Trident Rod\382.79\2368.24;
+Seraphic Rod\371.69\2299.55;
+Ethereal Prism Rod\362.8\2394.2;
+Challenger's Rod\351.64\2034.8;
+No-Life Rod\340.95\1963.18;
+Rod Of The Forgotten Fang\323.99\1987.58;
+Rod Of The Exalted One\311.78\1995.84;
+Depthseeker Rod\294.9\1639.6;
+Rod Of The Depths\294.33\1760.72;
+Avalanche Rod\279.78\1552.39;
+Volcanic Rod\278.62\1580.47;
+Zeus Rod\271.34\1539.21;
+Steady Rod\266.48\1429.54
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Thornfish, the player has a chance to make one of the following exclamations:
+* A THORNFISH?!
+* PRICKLY NIGHTMARE!
+* THORN OF DOOM!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Pine Shoals}}

@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Serpent Surgeonfish.png
+|rarity         = Uncommon
+|sea            = First Sea
+|location       = [[Veil of the Forsaken]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -5
+|xp             = 220
+|weather        = Foggy
+|time           = 
+|season         = 
+|bait           = Bagel
+|base_weight    = 210
+|base_value     = 1250
+|weight_range   = 125
+|base_chance    = 55
+|base_resil     = 75
+}}
+'''Serpent Surgeonfish''' is an {{Rarity|Uncommon}} fish found in the [[Veil of the Forsaken]] of [[Mariana's Veil]].
+
+== Description ==
+{{Description|A long, snake-like fish with sharp fins and glowing eyes.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|A swift fish that is typically difficult to spot due to foggy conditions.|Bestiary Hint}}
+{{Fish Availability|
+Mariana's Veil/Scylla Hunt
+Mariana's Veil/Veil of the Forsaken
+|top_rods      = 
+Rapid Rod\237741.35\233331.99;
+Fungal Rod\233772.94\225575.96;
+Fast Rod\233299.6\233299.6;
+Firefly Rod\231390.83\253741.09;
+Ethereal Prism Rod\228891.22\255816.88;
+Antler Rod\216759.59\209159.17;
+Resourceful Rod\222007.49\205393.85;
+No-Life Rod\227917.52\227917.52;
+Wildflower Rod\221123.38\193572.81;
+Seraphic Rod\226546.43\226546.43;
+Depthseeker Rod\224383.44\189065.29;
+Verdant Shear Rod\222125.7\194003.63;
+Avalanche Rod\221178.99\183620.33;
+Trident Rod\221155.83\159904.98;
+Free Spirit Rod\217541.39\159627.83;
+Blazebringer Rod\211690.56\182207.68;
+Zeus Rod\210155.51\193053.6;
+Challenger's Rod\207403.7\207403.7;
+Rod Of The Forgotten Fang\206853.07\206853.07;
+Volcanic Rod\205257.98\146516.58;
+Rod Of The Depths\190567.33\187903.97;
+Rod Of The Exalted One\176488.32\176488.32;
+Steady Rod\118628.84\108349.75
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching a Serpent Surgeonfish, the player has a chance to make one of the following exclamations:
+* A Serpent Surgeonfish!
+* That's no doctor!
+* Where did it get a scalpel...
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Veil of the Forsaken}}

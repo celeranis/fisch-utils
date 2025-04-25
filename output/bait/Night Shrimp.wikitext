@@ -1,0 +1,29 @@
+{{BaitInfobox
+|name           = Night Shrimp
+|image          = Bait Night Shrimp.png
+|rarity         = Legendary
+|crates         = Coral Geode/0.18, Quality Bait Crate/0.45, Volcanic Geode/0.24
+|angler_quests  = <!--TBD-->
+|pref_luck      = 
+|univ_luck      = 90
+|resilience     = 
+|lure           = 15
+|ability        = 
+}}
+'''Night Shrimp''' is a {{Rarity|Legendary}} [[Bait]] that can be used in fishing.
+
+== Obtainment ==
+Night Shrimps can be obtained in the following ways:
+* {{Item|Coral Geode}} (0.18/crate on average)
+* {{Item|Quality Bait Crate}} (0.45/crate on average)
+* {{Item|Volcanic Geode}} (0.24/crate on average)
+<!--* [[Angler]] Quests, starting from the ?th completion-->
+
+== Favoring Fish ==
+{{Fish by Category Table|Night Shrimp-Loving Fish|event=1|show_location=1|hide_bait=1|resultsheader='''%PAGES%''' [[Fish]] prefer Night Shrimps:|noresultsheader=No fish prefer Night Shrimps.}}
+
+== Change History ==
+{{Change History|1.0}}
+
+== Navigation ==
+{{Bait Navbox}}

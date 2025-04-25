@@ -1,0 +1,37 @@
+{{FishInfobox
+|image          = Claw Gill.png
+|rarity         = Limited
+|event          = Archeological Site
+|sea            = First Sea
+|location       = [[Archeological Site]]
+|sublocation    = Freshwater
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 22
+|weather        = 
+|time           = 
+|season         = 
+|bait           = 
+|base_weight    = 3
+|base_value     = 60
+|weight_range   = 1.5
+|base_chance    = 40
+|base_resil     = 100
+}}
+'''Claw Gill''' is a {{Rarity|Limited}} fish found in [[Archeological Site]] during the [[Archeological Site]] event.
+
+== Description ==
+{{Description|Are these Claws or are they gills? All we know is, these are remains from fish that went extinct long ago...|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Legends say the fish these belong to once swam predominantly in ponds.|Bestiary Hint}}
+
+== Catch Quips ==
+When catching a Claw Gill, the player has a chance to make one of the following exclamations:
+* Woah a bone!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Archeological Site}}

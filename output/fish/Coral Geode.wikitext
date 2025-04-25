@@ -1,0 +1,93 @@
+{{FishInfobox
+|image          = Coral Geode.png
+|rarity         = Uncommon
+|sea            = First Sea
+|location       = [[Desolate Deep]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 20
+|weather        = 
+|time           = 
+|season         = 
+|bait           = Magnet
+|base_weight    = 18
+|base_value     = 200
+|weight_range   = 0
+|base_chance    = 306
+|base_resil     = 120
+}}
+'''Coral Geode''' is an {{Rarity|Uncommon}} fish found in the [[Desolate Deep]].
+
+== Description ==
+{{Description|A geode filled with deep dark items and fish. Possibly has been untouched for years!- Like a coral reef Christmas!|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in the Desolate Deep|Bestiary Hint}}
+{{Fish Availability|
+Desolate Deep/Brine Pool
+Desolate Deep/Desolate Pocket
+|top_rods      = 
+Magnet Rod\360226.45\358901.07;
+Fast Rod\177902.03\187248.38;
+Leviathan's Fang Rod\174773.11\166970.32;
+Krampus's Rod\171303.92\142576.29;
+Magma Rod\166520.81\136874.01;
+Buddy Bond Rod\148128.79\107532.53;
+Adventurer's Rod\155719.63\118851.74;
+Rapid Rod\150776.91\208263.2;
+Firefly Rod\147772.85\192327.44;
+No-Life Rod\159546.23\180656.27;
+Candy Cane Rod\128911.48\128911.48;
+Trident Rod\165962.96\161457.8;
+Free Spirit Rod\165299.2\160812.05;
+Ethereal Prism Rod\163116.75\145644.64;
+Seraphic Rod\159286.32\147162.13;
+Challenger's Rod\152950.3\160473.98;
+Rod Of The Forgotten Fang\152943.61\145837.09;
+Rod Of The Exalted One\150851.75\144589.5;
+Rod Of The Depths\150192.61\144774.42;
+Blazebringer Rod\149384.49\155234.18;
+Zeus Rod\149014.21\164403.05;
+Depthseeker Rod\148944.65\161795.55;
+Verdant Shear Rod\148943.59\174391.51;
+Avalanche Rod\148261.79\146409.53;
+Volcanic Rod\144921.32\141642.33;
+Steady Rod\77891.3\75266.65
+|recommended   = Magnet Rod
+}}
+
+== Contents ==
+Opening a Coral Geode will yield at least one of the following:
+* [[Bait#Coral|Coral]]
+* [[Bait#Maggot|Maggot]]
+* [[Bait#Minnow|Minnow]]
+* [[Bait#Truffle Worm|Truffle Worm]]
+* [[Bait#Deep Coral|Deep Coral]]
+* [[Bait#Night Shrimp|Night Shrimp]]
+* [[Bait#Rapid Catcher|Rapid Catcher]]
+* [[Bait#Instant Catcher|Instant Catcher]]
+* [[Bait#Super Flakes|Super Flakes]]
+* [[Slate Tuna]]
+* [[Banditfish]]
+* [[Globe Jellyfish]]
+* [[Gazerfish]]
+* [[Phantom Ray]]
+* [[Stalactite]]
+* [[Cockatoo Squid]]
+* [[Brine Shrimp]]
+* [[150–500 C$]]
+
+== Catch Quips ==
+When catching a Coral Geode, the player has a chance to make one of the following exclamations:
+* Ooo, shiny!
+* A rock...?!
+* Woah! Glowy thing!
+* A Geode!
+* What's this thing?
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Desolate Deep}}

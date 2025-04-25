@@ -1,0 +1,71 @@
+{{FishInfobox
+|image          = RocketFuel.png
+|rarity         = Exotic
+|sea            = First Sea
+|location       = [[Mushgrove Swamp]]
+|sublocation    = 
+|sources        = Fishing Rod
+|nopassive      = 1
+|radar_location = 
+|prog_speed     = -20
+|xp             = 250
+|weather        = 
+|time           = 
+|season         = 
+|bait           = 
+|base_weight    = 1.3
+|base_value     = 800
+|weight_range   = 0.1
+|base_chance    = 0.05
+|base_resil     = 100
+}}
+'''RocketFuel''' is an {{Rarity|Exotic}} fish found in [[Mushgrove Swamp]].
+
+== Description ==
+{{Description|RocketFuel|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Dr. Crookspine might know what to do with this.|Bestiary Hint}}
+{{Fish Availability|
+Mushgrove Swamp
+|top_rods      = 
+Ethereal Prism Rod\48020.76\169371.38;
+Leviathan's Fang Rod\47164.39\199102.14;
+Seraphic Rod\46046.85\173106.34;
+No-Life Rod\44755.16\181199.55;
+Tempest Rod\43886.01\171786.6;
+Resourceful Rod\36902.9\140437.14;
+Destiny Rod\39324.56\164658.07;
+Heaven's Rod\37022.11\162538.84;
+Trident Rod\36318.45\191612.28;
+Free Spirit Rod\36148.81\190717.28;
+Training Rod\21374.05\119389.38;
+Flimsy Rod\23799.91\137087.09;
+Adventurer's Rod\22396.52\112925.03;
+Rod Of The Forgotten Fang\43014.22\170952.17;
+Challenger's Rod\41302.35\169481.16;
+Rod Of The Depths\38717.15\168400.2;
+Rod Of The Exalted One\38292.94\167925.81;
+Zeus Rod\37507.95\159300.76;
+Verdant Shear Rod\36816.68\160170.95;
+Blazebringer Rod\35653.46\151765.64;
+Depthseeker Rod\33646.78\148971.67;
+Avalanche Rod\30455.71\135682.91;
+Volcanic Rod\29267.26\126034.76;
+Steady Rod\9745.01\46201.07
+|recommended   = Ethereal Prism Rod
+}}
+
+== Gameplay Notes ==
+* RocketFuel usually cannot be caught with passive effects, such as the one provided by the [[Rod Of The Depths]] and [[Rod Of The Forgotten Fang]].
+** The only exception is when catching a RocketFuel on the Megalodon Passive reel of the [[Rod Of The Forgotten Fang]], the Megalodon will instead dupe the RocketFuel.
+
+== Catch Quips ==
+When catching a RocketFuel, the player has a chance to make one of the following exclamations:
+* Is this fueled?
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Mushgrove Swamp}}

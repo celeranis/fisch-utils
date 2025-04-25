@@ -1,0 +1,75 @@
+{{FishInfobox
+|image          = Festive Bait Crate.png
+|rarity         = Limited
+|event          = Fischmas
+|sea            = First Sea
+|location       = [[Fischmas]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 300
+|weather        = 
+|time           = 
+|season         = 
+|bait           = Magnet
+|base_weight    = 8
+|base_value     = 500
+|weight_range   = 0
+|base_chance    = 2.5
+|base_resil     = 90
+}}
+'''Festive Bait Crate''' is a {{Rarity|Limited}} fish found in the [[Winter Village]] during the [[Fischmas]] event.
+
+== Description ==
+{{Description|A festive wooden crate with patterend fabric over top to preserve the bait inside. Seems like it fell off of santa's sleigh! Opening it might give you an array of jolly baits!|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Only can be caught during Fischmas24.|Bestiary Hint}}
+{{Fish Availability|
+Fischmas/Winter Village
+|top_rods      = 
+Magnet Rod\182351.23\182883.94;
+Ethereal Prism Rod\34420.37\94739.47;
+Leviathan's Fang Rod\33961.77\106263.68;
+Seraphic Rod\32984.2\94302.04;
+No-Life Rod\32144.69\93628.83;
+Resourceful Rod\26620.35\76165.4;
+Destiny Rod\28243.95\87912.22;
+Lucky Rod\20045.79\72139.69;
+Training Rod\12986.22\53861.46;
+Rod Of The Forgotten Fang\30882.99\89240.28;
+Challenger's Rod\29628.85\89258.83;
+Rod Of The Depths\27831.56\81890.3;
+Rod Of The Exalted One\27502.36\84722.99;
+Zeus Rod\27012.31\83474.29;
+Trident Rod\26679.84\88777.84;
+Verdant Shear Rod\26592.86\84465.97;
+Free Spirit Rod\26406.47\87868.2;
+Blazebringer Rod\25735.5\80674.9;
+Depthseeker Rod\24195.18\75092.69;
+Avalanche Rod\21906.26\67777.09;
+Volcanic Rod\21063.58\66016.96;
+Steady Rod\7237.89\22121.14
+|recommended   = Magnet Rod
+}}
+
+== Contents ==
+Opening a Festive Bait Crate will yield at least one of the following:
+* [[Bait#Peppermint Worm|Peppermint Worm]]
+* [[Bait#Holly Berry|Holly Berry]]
+
+== Catch Quips ==
+When catching a Festive Bait Crate, the player has a chance to make one of the following exclamations:
+* A Crate of Festive Bait!
+* A Festive Bait Crate!
+* Woah! A Crate!
+* A Crate!
+* Who left this here?
+* Oh, the worms still moving?
+* A Crate full of Jolly Bait!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Fischmas}}

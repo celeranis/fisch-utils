@@ -1,0 +1,66 @@
+{{FishInfobox
+|image          = Octophant.png
+|rarity         = Limited
+|event          = Animal Hunt
+|sea            = Second Sea
+|location       = [[Animals: Octophant]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -95
+|xp             = 100000
+|weather        = Clear
+|time           = 
+|season         = Summer
+|bait           = Golden Worm
+|base_weight    = 25000
+|base_value     = 45000
+|weight_range   = 17000
+|base_chance    = 1
+|base_resil     = 1
+}}
+'''Octophant''' is a {{Rarity|Limited}} fish found in [[Octophant Hunt]]s in the [[Second Sea]].
+
+== Description ==
+{{Description|A massive creature with strong tusks, sifting the ocean floor with ancient grace.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It drifts where the sun warms the stillness.|Bestiary Hint}}
+{{Fish Availability|
+Octophant Hunt/Octophant Catchable
+|top_rods      = 
+Challenger's Rod\30456.85\96913.4;
+Tempest Rod\28257.7\89546.08;
+Summit Rod\25510.73\82470.95;
+Seraphic Rod\17223.69\53958.65;
+Abyssal Specter Rod\16807.48\53951.76;
+Destiny Rod\-339.46\-339.46;
+Heaven's Rod\3123.09\9231.43;
+Azure Of Lagoon\12558.31\37692.35;
+Krampus's Rod\-1080.11\-1080.11;
+Steady Rod\-1188.12\-1188.12;
+Crystalized Rod\-684.68\-684.68;
+Ethereal Prism Rod\9225.85\27437.68;
+No-Life Rod\3784.67\11496.63;
+Rod Of The Forgotten Fang\3702.66\11135.53;
+Depthseeker Rod\-37.13\-37.13;
+Rod Of The Exalted One\-506.41\-506.41;
+Avalanche Rod\-975.95\-975.95;
+Rod Of The Depths\-975.95\-975.95;
+Volcanic Rod\-1288.81\-1288.81;
+Zeus Rod\-1675.05\-1675.05
+|recommended   = 
+}}
+
+== Catch Quips ==
+When catching an Octophant, the player has a chance to make one of the following exclamations:
+* AN OCTOPHANT!
+* TENTACLED TITAN!
+* TRUNK OF THE TRENCH!
+* COLOSSAL CUTENESS!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Animals: Octophant}}

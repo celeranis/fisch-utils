@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Pollock.png
+|rarity         = Common
+|sea            = First Sea
+|location       = [[Snowcap Island]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 50
+|weather        = Foggy, Rain
+|time           = 
+|season         = Summer
+|bait           = 
+|base_weight    = 5
+|base_value     = 70
+|weight_range   = 4
+|base_chance    = 80
+|base_resil     = 60
+}}
+'''Pollock''' is a {{Rarity|Common}} fish found in [[Snowcap Island]].
+
+== Description ==
+{{Description|Pollock are sleek, silver fish with a light belly contrasting a darker dorsal. They are fast swimmers and often found feeding under Snowcap Islands docks.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in Snowcap island, especially near the docks.|Bestiary Hint}}
+{{Fish Availability|
+Snowcap Island/Surrounding Ocean
+|top_rods      = 
+Leviathan's Fang Rod\102150.66\64533.34;
+Trident Rod\101691.94\56910.08;
+Free Spirit Rod\98539.86\56715.22;
+Azure Of Lagoon\91582.86\68155.47;
+No-Life Rod\90132.43\80243.77;
+Training Rod\73027.38\73027.38;
+Flimsy Rod\53155.18\53155.18;
+Long Rod\72126.62\61218.18;
+Seraphic Rod\80598.77\79403.2;
+Fast Rod\78074.29\77645.33;
+Tempest Rod\81873.37\76730.61;
+Rapid Rod\79477.73\74895.3;
+Rod Of The Exalted One\76819.55\63074.57;
+Challenger's Rod\82167.77\72709.46;
+Zeus Rod\81242.14\67586.24;
+Blazebringer Rod\80007.69\63800.3;
+Depthseeker Rod\79596.36\65570.91;
+Rod Of The Forgotten Fang\79556.29\72468.56;
+Verdant Shear Rod\79525.39\67619.8;
+Rod Of The Depths\78775.91\65782.23;
+Avalanche Rod\78206.77\64352.46;
+Volcanic Rod\77490.89\61704.85;
+Ethereal Prism Rod\76451.1\29148.96;
+Steady Rod\40606.2\33958.08
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Pollock, the player has a chance to make one of the following exclamations:
+* A Pollock!
+* I caught a Pollock!
+* Woah, a Pollock!
+* Look! A Pollock!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Snowcap Island}}

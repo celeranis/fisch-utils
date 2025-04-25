@@ -1,0 +1,70 @@
+{{FishInfobox
+|image          = Magma Tang.png
+|rarity         = Uncommon
+|sea            = First Sea
+|location       = [[Roslit Volcano]]
+|sublocation    = 
+|sources        = Fishing Rod, Volcanic Geode
+|radar_location = 
+|xp             = 90
+|weather        = 
+|time           = Day
+|season         = Spring, Summer
+|bait           = Coal
+|base_weight    = 3
+|base_value     = 130
+|weight_range   = 2.4
+|base_chance    = 50
+|base_resil     = 40
+}}
+'''Magma Tang''' is an {{Rarity|Uncommon}} fish found in the [[Roslit Bay#Roslit Volcano|Volcano]] in [[Roslit Bay]].
+
+== Description ==
+{{Description|The Magma Tang is a rare lava imbued Tang with a resting body temperature of 950C. They are extremely common in the lava, as they practically are part of the lava.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in Roslit Volcano during the day.|Bestiary Hint}}
+{{Fish Availability|
+Roslit Bay/Roslit Volcano
+|top_rods      = 
+Training Rod\226461.83\47385.16;
+Flimsy Rod\183986.67\20107.24;
+Trident Rod\128105.03\10388.09;
+Rapid Rod\128045.12\13244.65;
+Ethereal Prism Rod\127506.77\17249.55;
+Resourceful Rod\104361.32\8773.14;
+Nocturnal Rod\77984.19\53615.54;
+Leviathan's Fang Rod\127319.98\15247.36;
+No-Life Rod\127481.38\14374.71;
+Seraphic Rod\125246.02\14122.65;
+Free Spirit Rod\117175.42\10322.07;
+Depthseeker Rod\115563.91\10994.21;
+Challenger's Rod\114595.69\12921.73;
+Rod Of The Forgotten Fang\114133.49\12869.61;
+Reinforced Rod\112168.16\9816.7;
+Avalanche Rod\111703.66\9836.69;
+Verdant Shear Rod\106939.08\11975.97;
+Zeus Rod\106208.26\11975.97;
+Rod Of The Depths\103391.08\11658.3;
+Blazebringer Rod\101981.41\11312.77;
+Volcanic Rod\98413.8\9089.53;
+Rod Of The Exalted One\97236.93\10964.37;
+Magma Rod\89437.61\8709.79;
+Steady Rod\61234.05\4950.48
+|recommended   = Training Rod
+}}
+
+== Catch Quips ==
+When catching a Magma Tang, the player has a chance to make one of the following exclamations:
+* Ouu a Blue Tang!
+* Woah, a Blue Tang!
+* A Blue Tang!
+* I caught a Blue Tang!
+* I caught a Blue Tang!
+* Found her!.. But evil!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Roslit Volcano}}

@@ -1,0 +1,40 @@
+{{FishInfobox
+|image          = Sand Dollar.png
+|rarity         = Common
+|sea            = First Sea
+|location       = [[Ocean]]
+|sublocation    = 
+|sources        = Crab Cage
+|radar_location = 
+|xp             = 35
+|weather        = 
+|time           = 
+|season         = Summer
+|bait           = 
+|base_weight    = 0.2
+|base_value     = 20
+|weight_range   = 0.1
+|base_chance    = 55
+|base_resil     = 200
+}}
+'''Sand Dollar''' is a {{Rarity|Common}} fish found in the [[Ocean]].
+
+== Description ==
+{{Description|Sand dollars are species of flat, burrowing sea urchins.. Yeah, they are urchins! Fun fact; The rattling of a fossilized Sand Dollar is their teeth-like sections moving around inside of them.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Can be easily caught while cage fishing. Best caught near docks and beaches.|Bestiary Hint}}
+
+== Catch Quips ==
+When catching a Sand Dollar, the player has a chance to make one of the following exclamations:
+* A Sand Dollar!
+* Woah! A Sand Dollar
+* Awesome!
+* A Sand Dollar!
+* Ou! A Sand Dollar!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ocean}}

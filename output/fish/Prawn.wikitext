@@ -1,0 +1,40 @@
+{{FishInfobox
+|image          = Prawn.png
+|rarity         = Uncommon
+|sea            = First Sea
+|location       = [[Ocean]]
+|sublocation    = 
+|sources        = Crab Cage
+|radar_location = 
+|xp             = 35
+|weather        = Rain
+|time           = Night
+|season         = Summer
+|bait           = 
+|base_weight    = 0.5
+|base_value     = 45
+|weight_range   = 0.4
+|base_chance    = 40
+|base_resil     = 200
+}}
+'''Prawn''' is an {{Rarity|Uncommon}} fish found in the [[Ocean]].
+
+== Description ==
+{{Description|Prawns are prized crustaceans known for their delicate flavour and versatility. they are most active in summer, and can be found in an abundance in deep oceans. Prawns; similar to shrimp-- are predominantly nocturnal, making night fishing the most effective time.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Caught at night in deep oceans in crab cages.|Bestiary Hint}}
+
+== Catch Quips ==
+When catching a Prawn, the player has a chance to make one of the following exclamations:
+* A Prawn!
+* Woah! A Prawn
+* Awesome!
+* A Prawn!
+* Ou! A Prawn!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ocean}}

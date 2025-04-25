@@ -1,0 +1,70 @@
+{{FishInfobox
+|image          = The Whispering One.png
+|rarity         = Limited
+|event          = Cults Curse
+|sea            = First Sea
+|location       = [[Cults Curse]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -95
+|xp             = 6500
+|weather        = 
+|time           = 
+|season         = 
+|bait           = 
+|base_weight    = 1400
+|base_value     = 15000
+|weight_range   = 900
+|base_chance    = 1
+|base_resil     = 1
+}}
+'''The Whispering One''' is a {{Rarity|Limited}} fish found in [[Cults Curse]] during the [[Cults Curse]] event.
+
+== Description ==
+{{Description|In the stillness, The Whispering One mutters, with a voice exhibiting a choir of dread from beyond the unknown.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Can only be caught in the Cursed Pool.|Bestiary Hint}}
+{{Fish Availability|
+Cults Curse
+|top_rods      = 
+Tempest Rod\41122.4\110581.34;
+Challenger's Rod\40726.02\109918.16;
+Seraphic Rod\28332.84\75419.7;
+Summit Rod\28312.67\77509.6;
+Abyssal Specter Rod\26687.34\72595.42;
+Resourceful Rod\6847.33\17804.58;
+Destiny Rod\662.28\1716.03;
+Heaven's Rod\9411.65\24532.02;
+Mythical Rod\-2465.4\-2465.4;
+Frostfire Rod\-1150.46\-1150.46;
+Fischmas Rod\-1102.94\-1102.94;
+Ethereal Prism Rod\21793.82\57250.25;
+Rod Of The Forgotten Fang\12078.49\32203.74;
+No-Life Rod\9318.83\25198.92;
+Depthseeker Rod\6194.24\16995.45;
+Free Spirit Rod\6166.18\16413.88;
+Rod Of The Exalted One\2082.18\5508.61;
+Steady Rod\-27.23\-27.23;
+Blazebringer Rod\-148.01\-148.01;
+Avalanche Rod\-604.42\-604.42;
+Volcanic Rod\-716.2\-716.2;
+Rod Of The Depths\-716.35\-716.35;
+Zeus Rod\-1122.91\-1122.91;
+Trident Rod\-1389.83\-1389.83;
+Verdant Shear Rod\-1591.13\-1591.13
+|recommended   = Challenger's Rod
+}}
+
+== Catch Quips ==
+When catching a The Whispering One, the player has a chance to make one of the following exclamations:
+* THE WHISPERING ONE!?!?
+* DEADLY TRANQUILITY!
+* DEAFENING SILENCE!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Cults Curse}}

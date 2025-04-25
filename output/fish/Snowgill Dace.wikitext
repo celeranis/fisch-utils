@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Snowgill Dace.png
+|rarity         = Uncommon
+|sea            = First Sea
+|location       = [[Glacial Grotto]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 90
+|weather        = 
+|time           = Day
+|season         = Winter
+|bait           = Worm
+|base_weight    = 2.5
+|base_value     = 160
+|weight_range   = 1.5
+|base_chance    = 70
+|base_resil     = 75
+}}
+'''Snowgill Dace''' is an {{Rarity|Uncommon}} fish found in the [[Glacial Grotto]].
+
+== Description ==
+{{Description|A small, silvery fish with frosty-white gills and a faint blue stripe along its side.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Common in the grotto's shallow waters.|Bestiary Hint}}
+{{Fish Availability|
+Glacial Grotto
+|top_rods      = 
+Trident Rod\198000.41\15970.06;
+Training Rod\197497.91\31695.23;
+Azure Of Lagoon\197190.8\15670.5;
+Leviathan's Fang Rod\195800.04\21934.76;
+No-Life Rod\194786.74\22750.96;
+Flimsy Rod\156416.99\36861.51;
+Resourceful Rod\175402.67\18629.07;
+Nocturnal Rod\122563.04\95407.93;
+Fungal Rod\171515.91\23697.57;
+Firefly Rod\178483.23\23468.89;
+Free Spirit Rod\194598.85\15936.34;
+Blazebringer Rod\184593.67\20630.4;
+Zeus Rod\183325.19\20488.63;
+Depthseeker Rod\182988.8\19743.74;
+Verdant Shear Rod\182866.48\19783.19;
+Avalanche Rod\180775.3\17846.22;
+Challenger's Rod\179522.6\20696.6;
+Volcanic Rod\179036.53\20009.33;
+Rod Of The Depths\168651.19\18762.24;
+Seraphic Rod\167206.98\22603.23;
+Rod Of The Forgotten Fang\166385.56\20647.49;
+Rod Of The Exalted One\157610.02\17620.71;
+Ethereal Prism Rod\153559.16\0;
+Steady Rod\84566.14\9341.47
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Snowgill Dace, the player has a chance to make one of the following exclamations:
+* A Snowgill Dace!
+* Tiny ice swimmer!
+* Look at those gills!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Glacial Grotto}}

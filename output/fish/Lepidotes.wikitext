@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Lepidotes.png
+|rarity         = Mythical
+|sea            = First Sea
+|location       = [[Ancient Archives]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 500
+|weather        = 
+|time           = Night
+|season         = 
+|bait           = Deep Coral
+|base_weight    = 200
+|base_value     = 1800
+|weight_range   = 110
+|base_chance    = 0.03
+|base_resil     = 20
+}}
+'''Lepidotes''' is a {{Rarity|Mythical}} fish found in the [[Ancient Archives]].
+
+== Description ==
+{{Description|Lepidotes is an extinct fish from the Mesozoic era. Known for its large, heavily armored body and prominent fin structure, it was a significant predator in ancient oceans.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in the dark waters of the Archives...|Bestiary Hint}}
+{{Fish Availability|
+Ancient Archives
+|top_rods      = 
+Leviathan's Fang Rod\152354.66\278058.92;
+Free Spirit Rod\145297.76\270349.48;
+Trident Rod\142098.96\264397.59;
+No-Life Rod\102917.96\197778.07;
+Azure Of Lagoon\102542.91\198083.27;
+Resourceful Rod\72783.01\139892.01;
+Destiny Rod\77267.86\137591.61;
+Heaven's Rod\80842.3\145161.67;
+Mythical Rod\48892.01\123165.61;
+Frostfire Rod\58386.83\120687.21;
+Fischmas Rod\54302.65\130630.2;
+Seraphic Rod\89921\161969.66;
+Ethereal Prism Rod\89555.87\158365.31;
+Challenger's Rod\87525.92\162771.62;
+Rod Of The Forgotten Fang\87163.26\158716.61;
+Zeus Rod\80366.69\152092.22;
+Verdant Shear Rod\79800.42\152199.57;
+Rod Of The Depths\78778.64\144108.76;
+Depthseeker Rod\78206.4\159448.47;
+Rod Of The Exalted One\77920.42\143303.91;
+Blazebringer Rod\76723.14\145365.06;
+Avalanche Rod\72754.24\149006.86;
+Volcanic Rod\70058.66\137892.13;
+Steady Rod\26727.36\75048.9
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Lepidotes, the player has a chance to make one of the following exclamations:
+* I caught a Lepidotes!
+* OMG A Lepidotes!
+* I can't believe I caught a Lepidotes!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ancient Archives}}

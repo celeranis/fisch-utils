@@ -1,0 +1,69 @@
+{{FishInfobox
+|image          = Oracle's Eye.png
+|rarity         = Unusual
+|sea            = First Sea
+|location       = [[Atlantis]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 200
+|weather        = Foggy
+|time           = Night
+|season         = Winter
+|bait           = Night Shrimp
+|base_weight    = 9
+|base_value     = 350
+|weight_range   = 4.5
+|base_chance    = 25
+|base_resil     = 40
+}}
+'''Oracle's Eye''' is an {{Rarity|Unusual}} fish found in [[Atlantis]].
+
+== Description ==
+{{Description|These unusual fish have eye-like patterns that seem to shimmer with prophetic visions. Ancient mystics believed they could see glimpses of the future in their scales.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Ethereal Abyss Pool|Bestiary Hint}}
+{{Fish Availability|
+Atlantis/Ethereal Abyss
+|top_rods      = 
+Krampus's Rod\142012\155189.59;
+Leviathan's Fang Rod\138426.48\137762.84;
+Magma Rod\133326.27\145697.89;
+Trident Rod\127948.92\137965.51;
+Plastic Rod\123862.6\135318.18;
+Fast Rod\96588.87\150430.96;
+Fischer's Rod\91835.48\143027.86;
+Adventurer's Rod\90504.53\140954.99;
+Flimsy Rod\83654.59\134338.7;
+Training Rod\57284.42\102911.96;
+Buddy Bond Rod\91901.19\128525.21;
+Free Spirit Rod\117032.63\126194.62;
+Ethereal Prism Rod\112210.41\92135.61;
+No-Life Rod\109501.26\100716.42;
+Seraphic Rod\108983.65\92834.9;
+Rod Of The Forgotten Fang\102008.82\91496.16;
+Challenger's Rod\99315.55\91975.95;
+Rod Of The Depths\91903.53\85616.9;
+Zeus Rod\90744.33\85458.74;
+Rod Of The Exalted One\89861.43\87544.69;
+Verdant Shear Rod\89388.04\85391.56;
+Blazebringer Rod\86179.99\81500.54;
+Depthseeker Rod\82316.09\79845.09;
+Avalanche Rod\74237.47\72315.46;
+Volcanic Rod\70709.86\67584.74;
+Steady Rod\28884.59\25902.06
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching an Oracle's Eye, the player has a chance to make one of the following exclamations:
+* An Oracle's Eye!
+* What does it see?
+* The future swims!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Atlantis}}

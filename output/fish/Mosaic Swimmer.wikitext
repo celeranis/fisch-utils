@@ -1,0 +1,66 @@
+{{FishInfobox
+|image          = Mosaic Swimmer.png
+|rarity         = Uncommon
+|sea            = First Sea
+|location       = [[Atlantis]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 95
+|weather        = 
+|time           = 
+|season         = Spring
+|bait           = Coral
+|base_weight    = 4
+|base_value     = 150
+|weight_range   = 2
+|base_chance    = 55
+|base_resil     = 70
+}}
+'''Mosaic Swimmer''' is an {{Rarity|Uncommon}} fish found in [[Atlantis]].
+
+== Description ==
+{{Description|The scales of these fish form intricate patterns matching the ethereal mosaics. They often gather in groups to create living recreations of the abyss's lost artwork.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Ethereal Abyss Pool|Bestiary Hint}}
+{{Fish Availability|
+Atlantis/Ethereal Abyss
+|top_rods      = 
+Summit Rod\141383.77\103005.23;
+Champions Rod\140445.02\101527.79;
+Egg Rod\139316.48\111664.01;
+Depthseeker Rod\139267.86\100002.54;
+Celestial Rod\139164.55\103026.59;
+Training Rod\129050.28\131861.77;
+Flimsy Rod\95216.48\95216.48;
+Candy Cane Rod\107323.8\102861.48;
+Ethereal Prism Rod\137487.6\160180.66;
+Leviathan's Fang Rod\129087.45\139767.42;
+No-Life Rod\131336.88\127546.01;
+Seraphic Rod\126560.97\126560.97;
+Verdant Shear Rod\137929.14\107952.24;
+Avalanche Rod\137426.23\98229.6;
+Trident Rod\133795.1\89814.15;
+Free Spirit Rod\131025.6\89590.44;
+Blazebringer Rod\128705.86\101811.31;
+Zeus Rod\127788.26\107883.53;
+Volcanic Rod\124781.9\81871.97;
+Challenger's Rod\120136.66\115930.71;
+Rod Of The Forgotten Fang\115578.38\115578.38;
+Rod Of The Depths\112868.02\104991.9;
+Rod Of The Exalted One\100614.25\105325.96;
+Steady Rod\65364.6\55727.13
+|recommended   = Depthseeker Rod
+}}
+
+== Catch Quips ==
+When catching a Mosaic Swimmer, the player has a chance to make one of the following exclamations:
+* A Mosaic Swimmer!
+* Living art!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Atlantis}}

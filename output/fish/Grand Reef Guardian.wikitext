@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Grand Reef Guardian.png
+|rarity         = Mythical
+|sea            = First Sea
+|location       = [[Grand Reef]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -75
+|xp             = 3500
+|weather        = 
+|time           = 
+|season         = 
+|bait           = Truffle Worm
+|base_weight    = 80
+|base_value     = 7000
+|weight_range   = 40
+|base_chance    = 0.008
+|base_resil     = 25
+}}
+'''Grand Reef Guardian''' is a {{Rarity|Mythical}} fish found in the [[Grand Reef]].
+
+== Description ==
+{{Description|An ancient fish species that dwells in the deepest parts of the reef. Their massive size and mysterious bioluminescent patterns have led many to believe they protect the reef's most sacred spaces.|Bestiary Entry}}
+
+== Obtainment ==
+{{Fish Availability|
+Grand Reef
+|top_rods      = 
+Leviathan's Fang Rod\58593.49\225680.38;
+Ethereal Prism Rod\57554\175409.23;
+Seraphic Rod\57071.32\184070.13;
+Tempest Rod\55170.11\187120.16;
+No-Life Rod\55054.9\189076.02;
+Resourceful Rod\42247.84\130847.95;
+Destiny Rod\43808.9\125800.63;
+Heaven's Rod\40125.15\134605.43;
+Free Spirit Rod\54589.64\232764.29;
+Trident Rod\47749.36\203598.1;
+Challenger's Rod\52479.22\189275.65;
+Riptide Rod\41033.58\140742.99;
+Frog Rod\30141.96\99813.86;
+Rod Of The Forgotten Fang\51231.94\169750.43;
+Rod Of The Depths\44219.44\142853.86;
+Rod Of The Exalted One\43973.83\138749.58;
+Zeus Rod\43017.24\145493.24;
+Verdant Shear Rod\42208.88\144037.58;
+Blazebringer Rod\41791.88\143164.4;
+Depthseeker Rod\40701.76\146493.07;
+Avalanche Rod\35656.66\125503.84;
+Volcanic Rod\33742\115464.29;
+Steady Rod\11457.32\49269.52
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching a Grand Reef Guardian, the player has a chance to make one of the following exclamations:
+* THE GUARDIAN OF THE REEF!!
+* I CAN'T BELIEVE IT!! THE GRAND REEF GUARDIAN!
+* ALKSJDAHASBDJH
+* MY SPINE!!
+* IS THIS EVEN REAL?!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Grand Reef}}

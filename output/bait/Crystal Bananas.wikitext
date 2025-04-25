@@ -1,0 +1,26 @@
+{{BaitInfobox
+|image          = Bait Crystal Bananas.png
+|rarity         = Rare
+|crates         = Tropical Bait Crate/0.75
+|angler_quests  = <!--TBD-->
+|pref_luck      = 150
+|univ_luck      = 90
+|resilience     = 25
+|lure           = 
+|ability        = 
+}}
+'''Crystal Bananas''' is a {{Rarity|Rare}} [[Bait]] that can be used in fishing.
+
+== Obtainment ==
+Crystal Bananass can be obtained in the following ways:
+* {{Item|Tropical Bait Crate}} (0.75/crate on average)
+<!--* [[Angler]] Quests, starting from the ?th completion-->
+
+== Favoring Fish ==
+{{Fish by Category Table|Crystal Bananas-Loving Fish|event=1|show_location=1|hide_bait=1|resultsheader='''%PAGES%''' [[Fish]] prefer Crystal Bananass:|noresultsheader=No fish prefer Crystal Bananass.}}
+
+== Change History ==
+{{Change History|1.0}}
+
+== Navigation ==
+{{Bait Navbox}}

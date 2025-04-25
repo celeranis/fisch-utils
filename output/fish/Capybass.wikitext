@@ -1,0 +1,73 @@
+{{FishInfobox
+|image          = Capybass.png
+|rarity         = Limited
+|event          = Animal Hunt
+|sea            = Second Sea
+|location       = [[Animals - Sea 2]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -50
+|xp             = 3700
+|weather        = Clear
+|time           = 
+|season         = Autumn
+|bait           = Seaweed
+|base_weight    = 75
+|base_value     = 1500
+|weight_range   = 50
+|base_chance    = 20
+|base_resil     = 25
+}}
+'''Capybass''' is a {{Rarity|Limited}} fish found in [[Animal Hunt]]s in the [[Second Sea]].
+
+== Description ==
+{{Description|A laid-back fish with a friendly snout, basking in calm waters.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It lounges where the autumn sun softens the ripples.|Bestiary Hint}}
+{{Fish Availability|
+Animal Hunt/Second Sea
+|top_rods      = 
+Plastic Rod\299459.66\481027.46;
+Fischer's Rod\137899.52\487625;
+Fast Rod\134571.53\487625;
+Magma Rod\103789.84\145096.26;
+North-Star Rod\101854.53\238920.1;
+Firefly Rod\72935.25\812150;
+Adventurer's Rod\65949.94\532500;
+Lucky Rod\50630.97\499148.73;
+Fungal Rod\43204.99\496235.29;
+Antler Rod\42562.52\488856.16;
+Long Rod\44216.05\486441.18;
+Candy Cane Rod\82680.95\488625;
+Steady Rod\89452.02\109024.31;
+Free Spirit Rod\79058.21\231945.51;
+Verdant Shear Rod\56174.99\178736.47;
+Blazebringer Rod\55064.85\171513.76;
+Trident Rod\53934.94\155117.72;
+Ethereal Prism Rod\38467.34\120958.28;
+Seraphic Rod\37904.03\120602.27;
+No-Life Rod\36767.76\120983.96;
+Rod Of The Exalted One\35515.57\111400.12;
+Rod Of The Forgotten Fang\35394.66\113027.57;
+Challenger's Rod\35046.34\114877.64;
+Rod Of The Depths\34244.67\110569.22;
+Depthseeker Rod\32960.26\111503.25;
+Volcanic Rod\32917.89\109590.12;
+Zeus Rod\32675.53\108783.24;
+Avalanche Rod\32508.83\110155.51
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Capybass, the player has a chance to make one of the following exclamations:
+* A Capybass!
+* Fantastic swimmer!
+* Friendliest catch!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Animals - Sea 2}}

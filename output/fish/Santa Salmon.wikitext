@@ -1,0 +1,66 @@
+{{FishInfobox
+|image          = Santa Salmon.png
+|rarity         = Limited
+|event          = Fischmas
+|sea            = First Sea
+|location       = [[Fischmas]]
+|sublocation    = 
+|sources        = Basic Present, Fishing Rod, Supreme Present, Unique Present
+|radar_location = 
+|xp             = 130
+|weather        = Rain, Clear
+|time           = 
+|season         = Spring, Winter
+|bait           = Holly Berry
+|base_weight    = 20
+|base_value     = 120
+|weight_range   = 12
+|base_chance    = 50
+|base_resil     = 70
+}}
+'''Santa Salmon''' is a {{Rarity|Limited}} fish found in the [[Winter Village]] during the [[Fischmas]] event.
+
+== Description ==
+{{Description|Santa Salmons are very old and heavy salmons. They also possess a jolly santa hat and a long white beard. How festive!|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Only can be caught during Fischmas24.|Bestiary Hint}}
+{{Fish Availability|
+Fischmas/Winter Village
+|top_rods      = 
+Ethereal Prism Rod\169841.05\354157.18;
+Leviathan's Fang Rod\158821.19\210704.41;
+No-Life Rod\157769.68\157769.68;
+Seraphic Rod\156551.21\156551.21;
+Fast Rod\155208.33\155208.33;
+Fortune Rod\94822.28\222956.73;
+Training Rod\140000\255263.16;
+Kraken Rod\133089.32\196515.36;
+Challenger's Rod\143401.98\143401.98;
+Depthseeker Rod\143215.21\122219.15;
+Rod Of The Forgotten Fang\142966.16\142966.16;
+Avalanche Rod\141687.34\109578.72;
+Verdant Shear Rod\135076.43\133533.65;
+Zeus Rod\133447.92\133447.92;
+Rod Of The Depths\129871.07\129871.07;
+Blazebringer Rod\125937.5\125937.5;
+Rod Of The Exalted One\124282.12\140105.76;
+Volcanic Rod\118574.21\101272.59;
+Trident Rod\111097.38\111097.38;
+Free Spirit Rod\110820.66\110820.66;
+Steady Rod\77781.28\55782.86
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching a Santa Salmon, the player has a chance to make one of the following exclamations:
+* A Santa Salmon!
+* Woah, A Santa Salmon!
+* A Santa Salmon!!!
+* Ho-ho-ho!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Fischmas}}

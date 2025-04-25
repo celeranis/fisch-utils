@@ -1,0 +1,136 @@
+.item {
+	display: inline-flex;
+	align-items: center;
+	line-height: normal;
+	gap: 3px;
+	vertical-align: text-top;
+}
+
+.item .item-icon {
+	display: inline-flex;
+	align-content: center;
+}
+
+.item .item-icon span[typeof="mw:File"] {
+	display: inline-block;
+	margin: auto;
+	line-height: 0;
+}
+
+.item .item-icon img {
+	filter: drop-shadow(0 0 2px black);
+}
+
+.item-text > a {
+	font-weight: 500;
+}
+
+.item-icon > span[typeof="mw:Error mw:File"] {
+	display: none;
+}
+
+/* The following is auto-generated based on in-game data */
+/* Last update: Version [[1.29]], place version 4322 */
+
+.item-abyssal-specter-rod { --item-color: 81 222 135; --item-bg-color: 12 32 19 }
+.item-adventurers-rod { --item-color: 154 170 190; --item-bg-color: 22 24 27 }
+.item-antler-rod { --item-color: 140 98 86; --item-bg-color: 20 14 12 }
+.item-arctic-rod { --item-color: 146 179 218; --item-bg-color: 21 26 31 }
+.item-astral-rod { --item-color: 105 26 241; --item-bg-color: 15 4 34 }
+.item-auric-rod { --item-color: 148 19 43; --item-bg-color: 21 3 6 }
+.item-aurora-rod { --item-color: 46 255 185; --item-bg-color: 7 36 26 }
+.item-avalanche-rod { --item-color: 98 155 222; --item-bg-color: 14 22 32 }
+.item-azure-of-lagoon { --item-color: 61 71 255; --item-bg-color: 9 10 36 }
+.item-blazebringer-rod { --item-color: 255 136 0; --item-bg-color: 36 19 0 }
+.item-brick-rod { --item-color: 245 90 90; --item-bg-color: 35 13 13 }
+.item-brothers-rod { --item-color: 75 207 196; --item-bg-color: 11 30 28 }
+.item-buddy-bond-rod { --item-color: 145 255 115; --item-bg-color: 21 36 16 }
+.item-candy-cane-rod { --item-color: 185 37 37; --item-bg-color: 26 5 5 }
+.item-carbon-rod { --item-color: 155 190 255; --item-bg-color: 22 27 36 }
+.item-celestial-rod { --item-color: 19 145 255; --item-bg-color: 3 21 36 }
+.item-challengers-rod { --item-color: 4 175 236; --item-bg-color: 1 25 34 }
+.item-champions-rod { --item-color: 219 163 3; --item-bg-color: 31 23 0 }
+.item-clickbait-caster { --item-color: 255 0 0; --item-bg-color: 36 0 0 }
+.item-crystalized-rod { --item-color: 218 112 0; --item-bg-color: 31 16 0 }
+.item-depthseeker-rod { --item-color: 47 195 255; --item-bg-color: 7 28 36 }
+.item-destiny-rod { --item-color: 255 254 220; --item-bg-color: 36 36 31 }
+.item-egg-rod { --item-color: 239 175 255; --item-bg-color: 34 25 36 }
+.item-ethereal-prism-rod { --item-color: 255 170 255; --item-bg-color: 36 24 36 }
+.item-event-horizon-rod { --item-color: 255 184 5; --item-bg-color: 36 26 1 }
+.item-fast-rod { --item-color: 255 101 101; --item-bg-color: 36 14 14 }
+.item-firefly-rod { --item-color: 255 255 73; --item-bg-color: 36 36 10 }
+.item-firework-rod { --item-color: 156 25 25; --item-bg-color: 22 4 4 }
+.item-fischers-rod { --item-color: 245 205 48; --item-bg-color: 35 29 7 }
+.item-fischmas-rod { --item-color: 144 240 255; --item-bg-color: 21 34 36 }
+.item-fish-photographer { --item-color: 255 241 206; --item-bg-color: 36 34 29 }
+.item-flimsy-rod { --item-color: 154 170 190; --item-bg-color: 22 24 27 }
+.item-fortune-rod { --item-color: 109 77 212; --item-bg-color: 16 11 30 }
+.item-free-spirit-rod { --item-color: 52 235 143; --item-bg-color: 7 34 20 }
+.item-frog-rod { --item-color: 188 255 190; --item-bg-color: 27 36 27 }
+.item-frost-warden-rod { --item-color: 144 240 255; --item-bg-color: 21 34 36 }
+.item-frostfire-rod { --item-color: 144 240 255; --item-bg-color: 21 34 36 }
+.item-fungal-rod { --item-color: 78 255 78; --item-bg-color: 11 36 11 }
+.item-great-dreamer-rod { --item-color: 18 92 89; --item-bg-color: 3 13 13 }
+.item-haunted-rod { --item-color: 94 255 105; --item-bg-color: 13 36 15 }
+.item-heavens-rod { --item-color: 190 140 24; --item-bg-color: 27 20 3 }
+.item-ice-warpers-rod { --item-color: 110 189 247; --item-bg-color: 16 27 35 }
+.item-kings-rod { --item-color: 52 96 255; --item-bg-color: 7 14 36 }
+.item-kraken-rod { --item-color: 124 49 50; --item-bg-color: 18 7 7 }
+.item-krampuss-rod { --item-color: 255 66 91; --item-bg-color: 36 9 13 }
+.item-leviathans-fang-rod { --item-color: 104 164 190; --item-bg-color: 15 23 27 }
+.item-long-rod { --item-color: 220 204 167; --item-bg-color: 31 29 24 }
+.item-lucky-rod { --item-color: 188 255 190; --item-bg-color: 27 36 27 }
+.item-magma-rod { --item-color: 255 122 55; --item-bg-color: 36 17 8 }
+.item-magnet-rod { --item-color: 0 34 255; --item-bg-color: 0 5 36 }
+.item-midas-rod { --item-color: 255 226 83; --item-bg-color: 36 32 12 }
+.item-mythical-rod { --item-color: 255 49 159; --item-bg-color: 36 7 23 }
+.item-no-life-rod { --item-color: 255 42 42; --item-bg-color: 36 6 6 }
+.item-nocturnal-rod { --item-color: 72 59 143; --item-bg-color: 10 8 20 }
+.item-north-star-rod { --item-color: 255 237 170; --item-bg-color: 36 34 24 }
+.item-phoenix-rod { --item-color: 255 98 87; --item-bg-color: 36 14 12 }
+.item-plastic-rod { --item-color: 73 240 255; --item-bg-color: 10 34 36 }
+.item-poseidon-rod { --item-color: 252 248 97; --item-bg-color: 36 35 14 }
+.item-precision-rod { --item-color: 0 58 255; --item-bg-color: 0 8 36 }
+.item-rapid-rod { --item-color: 255 163 87; --item-bg-color: 36 23 12 }
+.item-reinforced-rod { --item-color: 255 178 89; --item-bg-color: 36 25 13 }
+.item-relic-rod { --item-color: 186 178 175; --item-bg-color: 27 25 25 }
+.item-resourceful-rod { --item-color: 255 75 15; --item-bg-color: 36 11 2 }
+.item-riptide-rod { --item-color: 66 94 255; --item-bg-color: 9 13 36 }
+.item-rod-of-the-depths { --item-color: 255 66 52; --item-bg-color: 36 9 7 }
+.item-rod-of-the-eternal-king { --item-color: 255 221 25; --item-bg-color: 36 32 4 }
+.item-rod-of-the-exalted-one { --item-color: 255 128 249; --item-bg-color: 36 18 36 }
+.item-rod-of-the-forgotten-fang { --item-color: 49 155 255; --item-bg-color: 7 22 36 }
+.item-rod-of-the-zenith { --item-color: 101 148 173; --item-bg-color: 14 21 25 }
+.item-rod-of-time { --item-color: 148 19 43; --item-bg-color: 21 3 6 }
+.item-scurvy-rod { --item-color: 245 205 48; --item-bg-color: 35 29 7 }
+.item-seasons-rod { --item-color: 255 185 115; --item-bg-color: 36 26 16 }
+.item-seraphic-rod { --item-color: 255 170 0; --item-bg-color: 36 24 0 }
+.item-shamrock-rod { --item-color: 52 235 143; --item-bg-color: 7 34 20 }
+.item-sovereign-doombringer { --item-color: 137 198 255; --item-bg-color: 20 28 36 }
+.item-steady-rod { --item-color: 255 190 160; --item-bg-color: 36 27 23 }
+.item-stone-rod { --item-color: 110 110 120; --item-bg-color: 16 16 17 }
+.item-summit-rod { --item-color: 80 202 230; --item-bg-color: 11 29 33 }
+.item-sunken-rod { --item-color: 145 255 115; --item-bg-color: 21 36 16 }
+.item-tempest-rod { --item-color: 55 253 255; --item-bg-color: 8 36 36 }
+.item-the-lost-rod { --item-color: 64 255 102; --item-bg-color: 9 36 15 }
+.item-training-rod { --item-color: 100 198 207; --item-bg-color: 14 28 30 }
+.item-trident-rod { --item-color: 255 191 80; --item-bg-color: 36 27 11 }
+.item-tryhard-rod { --item-color: 238 0 4; --item-bg-color: 34 0 1 }
+.item-verdant-shear-rod { --item-color: 52 235 143; --item-bg-color: 7 34 20 }
+.item-volcanic-rod { --item-color: 255 170 0; --item-bg-color: 36 24 0 }
+.item-voyager-rod { --item-color: 204 181 255; --item-bg-color: 29 26 36 }
+.item-wildflower-rod { --item-color: 103 255 159; --item-bg-color: 15 36 23 }
+.item-wisdom-rod { --item-color: 92 81 7; --item-bg-color: 13 12 1 }
+.item-zeus-rod { --item-color: 245 205 48; --item-bg-color: 35 29 7 }
+
+
+.item.no-rarity a,
+.rod-navbox-entry a,
+.rod-option .oo-ui-labelElement-label {
+	color: rgb(var(--item-color));
+}
+
+span.fish-navbox-entry.rod-navbox-entry {
+	background-color: rgb(var(--item-bg-color));
+	border-color: rgb(var(--item-color));
+}

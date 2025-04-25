@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Brine Phantom.png
+|rarity         = Legendary
+|sea            = First Sea
+|location       = [[Brine Pool]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -30
+|xp             = 1000
+|weather        = Foggy
+|time           = Night
+|season         = Autumn
+|bait           = Fish Head
+|base_weight    = 650
+|base_value     = 3000
+|weight_range   = 170
+|base_chance    = 0.05
+|base_resil     = 15
+}}
+'''Brine Phantom''' is a {{Rarity|Legendary}} fish found in the [[Desolate Deep]]'s [[Desolate Deep#Brine Pool|Brine Pool]].
+
+== Description ==
+{{Description|The Brine Phantom is a hostile predator of the Desolate Deep Brine Pool. They possess several sharp mandibles on the front of their face, which they use to subdue prey. The Brine Phantom inhibits aggressive behaviour towards other creatures that happen to come anywhere close to it.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in the Brine Pool.|Bestiary Hint}}
+{{Fish Availability|
+Desolate Deep/Brine Pool
+|top_rods      = 
+Leviathan's Fang Rod\10261.88\68226.98;
+Free Spirit Rod\9495.71\64367.65;
+Trident Rod\9183.82\62253.47;
+No-Life Rod\7225.45\48524.15;
+Ethereal Prism Rod\6775.46\44238.19;
+Resourceful Rod\5109.11\34198.36;
+Destiny Rod\5223.87\34315.61;
+Heaven's Rod\5440.05\36050.77;
+Azure Of Lagoon\6550.48\44376.61;
+Fortune Rod\3956\26607.86;
+Seraphic Rod\6729.18\44079.86;
+Rod Of The Forgotten Fang\6257.12\41003.6;
+Challenger's Rod\6230.45\40948.1;
+Zeus Rod\5639.73\37133.67;
+Rod Of The Depths\5613.63\36831.25;
+Verdant Shear Rod\5596.25\37344.09;
+Rod Of The Exalted One\5419.97\35456.49;
+Blazebringer Rod\5389.71\35915.4;
+Depthseeker Rod\5216.85\34417.12;
+Avalanche Rod\4672.12\30829.7;
+Reinforced Rod\4651.16\30701;
+Volcanic Rod\4397.6\28955.09;
+Steady Rod\1855.02\12468.01
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Brine Phantom, the player has a chance to make one of the following exclamations:
+* WOAH! A BRINE PHANTOM??
+* BRINE PHANTOM!!
+* AHHHHHHH!!!!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Brine Pool}}

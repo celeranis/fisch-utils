@@ -1,0 +1,66 @@
+{{FishInfobox
+|image          = Tumor Pike.png
+|rarity         = Unusual
+|sea            = Second Sea
+|location       = [[The Cursed Shores]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -70
+|xp             = 310
+|weather        = Foggy
+|time           = Night
+|season         = Autumn
+|bait           = Insect
+|base_weight    = 6.6
+|base_value     = 420
+|weight_range   = 3.8
+|base_chance    = 80
+|base_resil     = 11
+}}
+'''Tumor Pike''' is an {{Rarity|Unusual}} fish found in [[The Cursed Shores]].
+
+== Description ==
+{{Description|A monstrous pike that dominates through sheer malice.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It lurks where the depths fester.|Bestiary Hint}}
+{{Fish Availability|
+The Cursed Shores
+|top_rods      = 
+Free Spirit Rod\158418.7\93776.99;
+Leviathan's Fang Rod\137494.23\139934.3;
+Azure Of Lagoon\131320.69\117614.75;
+Trident Rod\128487.38\125250.63;
+Egg Rod\99493.08\100296.3;
+Training Rod\69148.65\195494.26;
+Flimsy Rod\60247.03\57865.98;
+Great Dreamer Rod\92415.97\92333.55;
+Verdant Shear Rod\93508.54\94457.49;
+Blazebringer Rod\89549.08\88532.68;
+No-Life Rod\89270.14\83969.22;
+Seraphic Rod\81920.8\79857.11;
+Challenger's Rod\75398.13\70639.75;
+Ethereal Prism Rod\67245.53\64179.93;
+Rod Of The Forgotten Fang\63164.25\63973.69;
+Depthseeker Rod\60356.62\55586.25;
+Rod Of The Exalted One\58182.59\56621.55;
+Steady Rod\57303.55\53303.47;
+Avalanche Rod\56170.17\52259.98;
+Rod Of The Depths\55529.75\56281.24;
+Volcanic Rod\55184.32\51585.59;
+Zeus Rod\54250.74\50797.95
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Tumor Pike, the player has a chance to make one of the following exclamations:
+* A Tumor Pike!
+* Pike of pain!
+* Growth of doom!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|The Cursed Shores}}

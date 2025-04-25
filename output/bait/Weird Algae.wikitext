@@ -1,0 +1,26 @@
+{{BaitInfobox
+|image          = Bait Weird Algae.png
+|rarity         = Legendary
+|crates         = Quality Bait Crate/0.45
+|angler_quests  = <!--TBD-->
+|pref_luck      = 
+|univ_luck      = 200
+|resilience     = 
+|lure           = -35
+|ability        = 
+}}
+'''Weird Algae''' is a {{Rarity|Legendary}} [[Bait]] that can be used in fishing.
+
+== Obtainment ==
+Weird Algaes can be obtained in the following ways:
+* {{Item|Quality Bait Crate}} (0.45/crate on average)
+<!--* [[Angler]] Quests, starting from the ?th completion-->
+
+== Favoring Fish ==
+{{Fish by Category Table|Weird Algae-Loving Fish|event=1|show_location=1|hide_bait=1|resultsheader='''%PAGES%''' [[Fish]] prefer Weird Algaes:|noresultsheader=No fish prefer Weird Algaes.}}
+
+== Change History ==
+{{Change History|1.0}}
+
+== Navigation ==
+{{Bait Navbox}}

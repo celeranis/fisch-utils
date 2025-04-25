@@ -1,0 +1,7 @@
+{
+	"wikibot_options": {
+		"apiUrl": "https://fischipedia.org/w/api.php",
+		"username": "JohnDoe@node",
+		"password": "password from Special:BotPasswords"
+	}
+}

@@ -1,0 +1,64 @@
+{{FishInfobox
+|image          = Psychedelic Frogfish.png
+|rarity         = Secret
+|sea            = Second Sea
+|location       = [[Open Ocean]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -92
+|xp             = 6600
+|weather        = Foggy
+|time           = Day
+|season         = Autumn
+|bait           = Luminous Larva
+|base_weight    = 20000
+|base_value     = 13200
+|weight_range   = 12000
+|base_chance    = 1
+|base_resil     = 2
+}}
+'''Psychedelic Frogfish''' is a {{Rarity|Secret}} fish found in the [[Open Ocean]].
+
+== Description ==
+{{Description|A red fish with cyan accents, gold-cyan fins, hopping around like a disco disaster.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It grooves where the fog gets funky.|Bestiary Hint}}
+{{Fish Availability|
+Open Ocean
+Open Ocean/Sea Leviathan
+|top_rods      = 
+Challenger's Rod\234.74\2338.97;
+Azure Of Lagoon\227.52\2247.41;
+Tempest Rod\224.01\2235.26;
+Summit Rod\206.26\2035.91;
+Seraphic Rod\202.9\2033.19;
+Destiny Rod\104.12\1000.77;
+Heaven's Rod\132.17\1291.95;
+Kraken Rod\109.98\1106.23;
+Ethereal Prism Rod\166.36\1661.11;
+Leviathan's Fang Rod\135.92\1367.45;
+No-Life Rod\137.4\1368.08;
+Rod Of The Forgotten Fang\129.27\1294.47;
+Depthseeker Rod\103.06\1011.67;
+Rod Of The Exalted One\92.86\933.06;
+Rod Of The Depths\73.61\735.53;
+Avalanche Rod\70.4\689.5;
+Steady Rod\60.63\550.98;
+Volcanic Rod\60.27\598.72;
+Zeus Rod\46.38\460.76
+|recommended   = 
+}}
+
+== Catch Quips ==
+When catching a Psychedelic Frogfish, the player has a chance to make one of the following exclamations:
+* A PSYCHEDELIC FROGFISH?!
+* DISCO DIVA OF THE DEEP!
+* GROOVY RIBBIT!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Open Ocean}}

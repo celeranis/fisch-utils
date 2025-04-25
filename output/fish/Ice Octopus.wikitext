@@ -1,0 +1,66 @@
+{{FishInfobox
+|image          = Ice Octopus.png
+|rarity         = Unusual
+|sea            = First Sea
+|location       = [[Frigid Cavern]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 150
+|weather        = 
+|time           = Day
+|season         = Winter
+|bait           = Fish Head
+|base_weight    = 8
+|base_value     = 350
+|weight_range   = 5
+|base_chance    = 40
+|base_resil     = 55
+}}
+'''Ice Octopus''' is an {{Rarity|Unusual}} fish found in the [[Frigid Cavern]].
+
+== Description ==
+{{Description|An intelligent cephalopod with skin that mimics the patterns of frozen cave walls.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Hides in the icy crevices of the cavern.|Bestiary Hint}}
+{{Fish Availability|
+Frigid Cavern
+|top_rods      = 
+Leviathan's Fang Rod\292923.95\58248.23;
+Krampus's Rod\276633.89\116629.75;
+Trident Rod\275546.09\45473.9;
+Magma Rod\265463.63\111920.34;
+Free Spirit Rod\264882.41\43714.05;
+Training Rod\207245.89\56909.85;
+Flimsy Rod\207581.87\104010.81;
+Plastic Rod\243091.28\102482.45;
+Fast Rod\234704.35\104707.12;
+No-Life Rod\240796.31\52399.47;
+Seraphic Rod\233128.05\49081.54;
+Ethereal Prism Rod\231082.68\49487.09;
+Rod Of The Forgotten Fang\223334.49\45765.36;
+Challenger's Rod\220649.59\45652.19;
+Rod Of The Exalted One\208226.26\39605.97;
+Zeus Rod\203420.58\40529.9;
+Rod Of The Depths\203000.47\41052.14;
+Verdant Shear Rod\201965.2\38643.76;
+Blazebringer Rod\193864.72\38572.99;
+Depthseeker Rod\187127.84\35521.57;
+Volcanic Rod\179898.13\31555.62;
+Avalanche Rod\173944.11\32072.81;
+Steady Rod\75709.68\10256.27
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching an Ice Octopus, the player has a chance to make one of the following exclamations:
+* An Ice Octopus!
+* Eight frozen arms!
+* Clever creature!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Frigid Cavern}}

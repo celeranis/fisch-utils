@@ -1,0 +1,65 @@
+{{FishInfobox
+|image          = Horseshoe Crab.png
+|rarity         = Common
+|sea            = First Sea
+|location       = [[Desolate Deep]]
+|sublocation    = 
+|sources        = Crab Cage
+|radar_location = 
+|xp             = 60
+|weather        = Clear, Rain
+|time           = 
+|season         = Spring
+|bait           = 
+|base_weight    = 9
+|base_value     = 25
+|weight_range   = 5
+|base_chance    = 90
+|base_resil     = 70
+}}
+'''Horseshoe Crab''' is a {{Rarity|Common}} fish found in the [[Desolate Deep]].
+
+== Description ==
+{{Description|A hard shelled crab, armoured to protect itself from predators. Their gills have folds of membranes that look like the leaves of a book|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Caught in the Desolate Deep using a crab cage.|Bestiary Hint}}
+{{Fish Availability|
+Desolate Deep/Desolate Pocket
+|top_rods      = 
+Training Rod\106818.89\76181.82;
+Flimsy Rod\67724.39\52705.42;
+Trident Rod\61146.6\36310.62;
+Azure Of Lagoon\60195.6\49160.61;
+Leviathan's Fang Rod\60157.84\29794.86;
+Rod Of The Eternal King\48495.55\39387.61;
+Seraphic Rod\57560.2\51166.85;
+No-Life Rod\59380.43\48494.88;
+Free Spirit Rod\59880.89\36220.18;
+Challenger's Rod\55097.1\44922.71;
+Depthseeker Rod\54100.75\43729.18;
+Zeus Rod\53936.42\44125.91;
+Blazebringer Rod\53869\44240.8;
+Verdant Shear Rod\53720.81\44058.91;
+Avalanche Rod\53452.65\43229.57;
+Rod Of The Forgotten Fang\52483.25\46276.58;
+Volcanic Rod\52226.66\42892;
+Rod Of The Depths\51270.53\40957.92;
+Ethereal Prism Rod\51217.4\6035.83;
+Rod Of The Exalted One\47622.06\33139.15;
+Steady Rod\28249.22\23215.29
+|recommended   = Training Rod
+}}
+
+== Catch Quips ==
+When catching a Horseshoe Crab, the player has a chance to make one of the following exclamations:
+* A Horseshoe Crab!
+* Woah! A Horseshoe Crab
+* That thing is scary..
+* Ouuu! A Horseshoe Crab!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Desolate Deep}}

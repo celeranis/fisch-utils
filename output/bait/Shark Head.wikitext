@@ -1,0 +1,26 @@
+{{BaitInfobox
+|image          = Bait Shark Head.png
+|rarity         = Mythical
+|crates         = Quality Bait Crate/0.45
+|angler_quests  = <!--TBD-->
+|pref_luck      = 225
+|univ_luck      = 30
+|resilience     = 10
+|lure           = -5
+|ability        = 
+}}
+'''Shark Head''' is a {{Rarity|Mythical}} [[Bait]] that can be used in fishing.
+
+== Obtainment ==
+Shark Heads can be obtained in the following ways:
+* {{Item|Quality Bait Crate}} (0.45/crate on average)
+<!--* [[Angler]] Quests, starting from the ?th completion-->
+
+== Favoring Fish ==
+{{Fish by Category Table|Shark Head-Loving Fish|event=1|show_location=1|hide_bait=1|resultsheader='''%PAGES%''' [[Fish]] prefer Shark Heads:|noresultsheader=No fish prefer Shark Heads.}}
+
+== Change History ==
+{{Change History|1.0}}
+
+== Navigation ==
+{{Bait Navbox}}

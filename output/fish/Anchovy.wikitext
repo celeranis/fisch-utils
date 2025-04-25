@@ -1,0 +1,69 @@
+{{FishInfobox
+|image          = Anchovy.png
+|rarity         = Common
+|sea            = First Sea
+|location       = [[Moosewood]]
+|sublocation    = Saltwater
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 20
+|weather        = Clear
+|time           = Day
+|season         = Spring
+|bait           = 
+|base_weight    = 0.3
+|base_value     = 30
+|weight_range   = 0.2
+|base_chance    = 100
+|base_resil     = 100
+}}
+'''Anchovy''' is a {{Rarity|Common}} fish found in [[Moosewood]].
+
+== Description ==
+{{Description|Anchovies are extremely small and slender fish, with a silvery sheen. They are known for their schooling behaviour and are a common catch near Moosewood.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Caught in all saltwater’s of Moosewood|Bestiary Hint}}
+{{Fish Availability|
+Moosewood/Docks
+Moosewood/Seaweed and Mini-Island
+Moosewood/Surrounding Ocean
+|top_rods      = 
+Leviathan's Fang Rod\228458.1\0;
+Trident Rod\215632.52\13928.94;
+Free Spirit Rod\214029.87\13992.91;
+No-Life Rod\211923.84\32943.52;
+Seraphic Rod\207983.03\20043.18;
+Flimsy Rod\150273.7\16260.01;
+Training Rod\171435.43\15496.99;
+Resourceful Rod\173070.5\25679.82;
+Nocturnal Rod\121032.09\122751.92;
+Challenger's Rod\195375.1\33997.37;
+Tempest Rod\205079.99\33876.7;
+Riptide Rod\182501.25\33356.16;
+Frog Rod\165380.31\25653.41;
+Ethereal Prism Rod\206688.66\0;
+Rod Of The Forgotten Fang\198433.32\18302.24;
+Rod Of The Exalted One\190757.52\0;
+Rod Of The Depths\189265.72\16673.77;
+Zeus Rod\183034.46\29791.84;
+Verdant Shear Rod\182227.34\29456.26;
+Blazebringer Rod\179486.89\28235.68;
+Depthseeker Rod\178622.48\25396.84;
+Avalanche Rod\177577.38\22794.1;
+Volcanic Rod\173620.77\25298.23;
+Steady Rod\85680.73\10792.5
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching an Anchovy, the player has a chance to make one of the following exclamations:
+* I caught an Anchovy..
+* An Anchovy!
+* It really put up a battle!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Moosewood}}

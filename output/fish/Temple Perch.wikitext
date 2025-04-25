@@ -1,0 +1,66 @@
+{{FishInfobox
+|image          = Temple Perch.png
+|rarity         = Rare
+|sea            = Second Sea
+|location       = [[Lushgrove]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -5
+|xp             = 210
+|weather        = Clear
+|time           = Day
+|season         = Summer
+|bait           = Magnet
+|base_weight    = 420
+|base_value     = 420
+|weight_range   = 260
+|base_chance    = 39
+|base_resil     = 35
+}}
+'''Temple Perch''' is a {{Rarity|Rare}} fish found in [[Lushgrove]].
+
+== Description ==
+{{Description|A brown fish with light blue fins and accents, resting like a relic in ancient waters.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It lingers where the sun blesses the warm stillness.|Bestiary Hint}}
+{{Fish Availability|
+Lushgrove
+|top_rods      = 
+Steady Rod\237751.57\100323.83;
+Frostfire Rod\228568.03\96448.66;
+Krampus's Rod\191815.26\82499.01;
+Magma Rod\190304.7\80338.54;
+North-Star Rod\165721.6\91376.37;
+Resourceful Rod\132575.38\93466.32;
+Nocturnal Rod\39253.93\90060.05;
+Free Spirit Rod\137749.94\68212.93;
+Trident Rod\118693.07\50482.69;
+Verdant Shear Rod\102139.35\64764.4;
+Blazebringer Rod\98651.51\62267.04;
+No-Life Rod\79884.22\42170.26;
+Ethereal Prism Rod\69928.12\42753.84;
+Seraphic Rod\69387.66\42417.67;
+Challenger's Rod\66198.15\39884.61;
+Rod Of The Forgotten Fang\65163.05\40311.55;
+Depthseeker Rod\64797.95\38748.6;
+Rod Of The Exalted One\63948.83\40426.67;
+Rod Of The Depths\62420.01\39690.96;
+Avalanche Rod\61998.25\38512.63;
+Volcanic Rod\61711.26\38838.02;
+Zeus Rod\61441.19\38705.73
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Temple Perch, the player has a chance to make one of the following exclamations:
+* A Temple Perch!
+* Ancient swimmer!
+* A piece of the past!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Lushgrove}}

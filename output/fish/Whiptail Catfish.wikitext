@@ -1,0 +1,69 @@
+{{FishInfobox
+|image          = Whiptail Catfish.png
+|rarity         = Legendary
+|sea            = First Sea
+|location       = [[Moosewood]]
+|sublocation    = Freshwater
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 200
+|weather        = 
+|time           = Night
+|season         = Spring, Autumn
+|bait           = Seaweed
+|base_weight    = 3
+|base_value     = 600
+|weight_range   = 2
+|base_chance    = 0.05
+|base_resil     = 40
+}}
+'''Whiptail Catfish''' is a {{Rarity|Legendary}} fish found in [[Moosewood]].
+
+== Description ==
+{{Description|The Whiptail Catfish is a small herbivorous fish that have a long body which resembles a whiptail. They tend to be shy and often hide under plants and rocks during the day, but are most active at night.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Caught in Moosewood Pond during the night.|Bestiary Hint}}
+{{Fish Availability|
+Moosewood/Freshwater Pond
+|top_rods      = 
+Leviathan's Fang Rod\63476.99\664589.52;
+Ethereal Prism Rod\61005.39\443896.8;
+Seraphic Rod\57524.66\453662.64;
+No-Life Rod\55387.07\479827.35;
+Tempest Rod\54206.15\439213.66;
+Resourceful Rod\47734.57\365022.06;
+Destiny Rod\50293.86\410695.48;
+Heaven's Rod\44231.44\416078.14;
+Trident Rod\52222\606218.45;
+Free Spirit Rod\47766.55\554497.34;
+Rod Of The Zenith\51982.39\421386.26;
+Rod Of The Forgotten Fang\53659.53\447385.36;
+Precision Rod\36308.43\341795.02;
+Challenger's Rod\50530.85\440927;
+Rod Of The Exalted One\48068.32\423358.8;
+Rod Of The Depths\47840.81\398319.07;
+Zeus Rod\45083.76\411340.06;
+Verdant Shear Rod\43597.63\412433.79;
+Blazebringer Rod\42816.1\392288.02;
+Depthseeker Rod\39896.97\386124.2;
+Avalanche Rod\35890.43\349890.52;
+Volcanic Rod\35130.2\325306.81;
+Training Rod\18953.05\179377.63;
+Steady Rod\11031.49\108851.52
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching a Whiptail Catfish, the player has a chance to make one of the following exclamations:
+* A CATFISH!
+* A Whiptail Catfish!
+* Watch me Whip!
+* Watch me Nae Nae!
+* Holy Whip-a-moly!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Moosewood}}

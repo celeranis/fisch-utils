@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Deeplight Footballfish.png
+|rarity         = Rare
+|sea            = First Sea
+|location       = [[Abyssal Zenith]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 325
+|weather        = Clear
+|time           = 
+|season         = Spring
+|bait           = Seaweed
+|base_weight    = 40
+|base_value     = 1000
+|weight_range   = 22.5
+|base_chance    = 20
+|base_resil     = 65
+}}
+'''Deeplight Footballfish''' is a {{Rarity|Rare}} fish found in the [[Abyssal Zenith]] of [[Mariana's Veil]].
+
+== Description ==
+{{Description|A large footballfish with a circular shape, it can light up the entire abyss.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Typically away from groups, it prefers uncrowded skies.|Bestiary Hint}}
+{{Fish Availability|
+Mariana's Veil/Abyssal Zenith
+|top_rods      = 
+Plastic Rod\210632.2\308433.33;
+Krampus's Rod\199770.04\270806;
+Magma Rod\192747.75\261339.68;
+Buddy Bond Rod\156469.63\260985.97;
+Fast Rod\130122.59\381411.13;
+Firefly Rod\93913.51\392318.34;
+Lucky Rod\74065.25\336448.33;
+Fungal Rod\78396.1\320592.74;
+Long Rod\72736.11\292376.69;
+Ethereal Prism Rod\109573.4\128837;
+Seraphic Rod\103868.74\128605.9;
+No-Life Rod\100870.89\132056.99;
+Rod Of The Forgotten Fang\97133.15\124593.66;
+Challenger's Rod\92637.37\122944.8;
+Trident Rod\89036.89\154486.38;
+Rod Of The Depths\86994.4\115024.65;
+Rod Of The Exalted One\86849.87\117378.68;
+Free Spirit Rod\86794.72\150596.03;
+Zeus Rod\83947.61\113864.77;
+Verdant Shear Rod\82770.88\119109.16;
+Blazebringer Rod\80439.16\114273.95;
+Depthseeker Rod\75074.64\104882.96;
+Avalanche Rod\67745.95\95228.26;
+Volcanic Rod\65407.71\90060.01;
+Steady Rod\28090.81\32628.34
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching a Deeplight Footballfish, the player has a chance to make one of the following exclamations:
+* A Deeplight Footballfish!
+* Goal!
+* Not a typical football...
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Abyssal Zenith}}

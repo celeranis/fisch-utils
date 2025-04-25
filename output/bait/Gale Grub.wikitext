@@ -1,0 +1,26 @@
+{{BaitInfobox
+|image          = Bait Gale Grub.png
+|rarity         = Common
+|crates         = Tropical Bait Crate/1.12
+|angler_quests  = <!--TBD-->
+|pref_luck      = 75
+|univ_luck      = -10
+|resilience     = -5
+|lure           = 30
+|ability        = 
+}}
+'''Gale Grub''' is a {{Rarity|Common}} [[Bait]] that can be used in fishing.
+
+== Obtainment ==
+Gale Grubs can be obtained in the following ways:
+* {{Item|Tropical Bait Crate}} (1.12/crate on average)
+<!--* [[Angler]] Quests, starting from the ?th completion-->
+
+== Favoring Fish ==
+{{Fish by Category Table|Gale Grub-Loving Fish|event=1|show_location=1|hide_bait=1|resultsheader='''%PAGES%''' [[Fish]] prefer Gale Grubs:|noresultsheader=No fish prefer Gale Grubs.}}
+
+== Change History ==
+{{Change History|1.0}}
+
+== Navigation ==
+{{Bait Navbox}}

@@ -1,0 +1,71 @@
+{{FishInfobox
+|image          = Ice.png
+|rarity         = Trash
+|sea            = First Sea
+|location       = [[Snowcap Island]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 10
+|weather        = 
+|time           = 
+|season         = 
+|bait           = Magnet
+|base_weight    = 6
+|base_value     = 15
+|weight_range   = 2
+|base_chance    = 35
+|base_resil     = 90
+}}
+'''Ice''' is a {{Rarity|Trash}} fish found in [[Snowcap Island]].
+
+== Description ==
+{{Description|Chunk of ice that broke off from a glacier in Snowcap. Kinda fun to lick..|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in frozen bodies of water.|Bestiary Hint}}
+{{Fish Availability|
+Snowcap Island/Freshwater Pond
+Snowcap Island/Surrounding Ocean
+|top_rods      = 
+Ethereal Prism Rod\125524.86\154945.83;
+Fast Rod\120469.29\118533.52;
+Crystalized Rod\120121.15\93357.76;
+Firework Rod\120121.15\93357.76;
+No-Life Rod\119872.65\117946.46;
+Training Rod\119829.88\232846.64;
+Flimsy Rod\109521.61\88125;
+Fortune Rod\69259.77\91574.79;
+Leviathan's Fang Rod\116703.66\126125.47;
+Seraphic Rod\119400.74\117482.15;
+Challenger's Rod\109289\107532.88;
+Rod Of The Forgotten Fang\109029.67\107277.72;
+Verdant Shear Rod\102170.66\100528.92;
+Zeus Rod\101908.68\100271.16;
+Rod Of The Depths\99328.62\97732.55;
+Avalanche Rod\99000.86\82461.84;
+Depthseeker Rod\96902.52\91718;
+Blazebringer Rod\96224.6\94678.41;
+Rod Of The Exalted One\93120.58\91624.26;
+Trident Rod\83460.46\82119.37;
+Free Spirit Rod\83358.23\82018.78;
+Volcanic Rod\77402.01\76158.28;
+Steady Rod\61508.87\49008.01
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching an Ice, the player has a chance to make one of the following exclamations:
+* Ermm..?
+* Uhmm..?
+* A block of Ice!
+* Oh. Ice.
+* Ouu! Let me lick it!
+* Ice..
+* It's not a popsicle, but it will do!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Snowcap Island}}

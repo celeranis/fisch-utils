@@ -1,0 +1,65 @@
+{{FishInfobox
+|image          = Sunflare Tetra.png
+|rarity         = Uncommon
+|sea            = Second Sea
+|location       = [[Emberreach]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -10
+|xp             = 85
+|weather        = Rain
+|time           = Night
+|season         = Summer
+|bait           = Sapphire Krill
+|base_weight    = 204
+|base_value     = 179
+|weight_range   = 117
+|base_chance    = 68
+|base_resil     = 49
+}}
+'''Sunflare Tetra''' is an {{Rarity|Uncommon}} fish found in [[Emberreach]].
+
+== Description ==
+{{Description|A vibrant fish, its fins radiating like the sun’s fleeting touch.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It blazes where the warm rains ignite the dark.|Bestiary Hint}}
+{{Fish Availability|
+Emberreach/Surrounding Ocean
+|top_rods      = 
+Fast Rod\486254.06\386508.13;
+Lucky Rod\477874.63\430532.11;
+Fungal Rod\311690.74\311690.74;
+Antler Rod\298537.12\298537.12;
+Adventurer's Rod\232951.15\232951.15;
+Trident Rod\199881.34\178776.71;
+Free Spirit Rod\195252.76\125216.84;
+Verdant Shear Rod\161878.77\147799.05;
+Blazebringer Rod\161155.43\141968.95;
+No-Life Rod\154917.93\145869.51;
+Seraphic Rod\142619\127560.47;
+Ethereal Prism Rod\137637.43\99421.18;
+Challenger's Rod\136569.93\127795.05;
+Rod Of The Forgotten Fang\135374.16\121620.94;
+Depthseeker Rod\134870.89\133279.43;
+Rod Of The Exalted One\133184.91\121600.89;
+Avalanche Rod\132019.03\130786.35;
+Volcanic Rod\130891.2\125799.38;
+Rod Of The Depths\130478.08\119979.62;
+Zeus Rod\130170.43\125106.65;
+Steady Rod\108275.33\106479.97
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Sunflare Tetra, the player has a chance to make one of the following exclamations:
+* A Sunflare Tetra!
+* Solar fins!
+* Flaming beauty!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Emberreach}}

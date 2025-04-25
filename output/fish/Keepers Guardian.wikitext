@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Keepers Guardian.png
+|rarity         = Rare
+|sea            = First Sea
+|location       = [[Keepers Altar]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 120
+|weather        = Rain
+|time           = 
+|season         = Winter
+|bait           = Worm
+|base_weight    = 40
+|base_value     = 250
+|weight_range   = 20
+|base_chance    = 15
+|base_resil     = 25
+}}
+'''Keepers Guardian''' is a {{Rarity|Rare}} fish found in the [[Keepers Altar]].
+
+== Description ==
+{{Description|Whilst it is named the 'Keepers Guardian', they are actually friendly creatures! The Guardian can sense peoples intentions, and will only become violent when they notice someone with a harmful intention to it or the Keepers Altar.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in Keepers Altar.|Bestiary Hint}}
+{{Fish Availability|
+Keepers Altar
+|top_rods      = 
+Krampus's Rod\567964.83\426635.74;
+Magma Rod\553401.63\415696.36;
+Plastic Rod\475424.73\357047.33;
+Leviathan's Fang Rod\432834.9\329113.87;
+Free Spirit Rod\374043.31\310589.76;
+Fast Rod\249560.12\424818.24;
+Fischer's Rod\218409.47\371824.47;
+Adventurer's Rod\213250.19\363041.22;
+Buddy Bond Rod\362656.55\347644.9;
+Trident Rod\365808.55\303751.96;
+Ethereal Prism Rod\326412.39\197080.91;
+Seraphic Rod\312265.08\197331;
+No-Life Rod\310909.45\218229.48;
+Rod Of The Forgotten Fang\291318.74\189988.45;
+Challenger's Rod\280212.56\189776.01;
+Rod Of The Depths\260425.7\171847.12;
+Rod Of The Exalted One\258565.67\171729.09;
+Zeus Rod\253249.44\174149.65;
+Verdant Shear Rod\247771.33\172641.56;
+Blazebringer Rod\240660.51\166212.04;
+Depthseeker Rod\228279.54\162030.02;
+Avalanche Rod\205324.05\145982.92;
+Volcanic Rod\197333.04\138478.36;
+Steady Rod\65040.7\54212.33
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Keepers Guardian, the player has a chance to make one of the following exclamations:
+* A Keepers Guardian!
+* I caught a Keepers Guardian!
+* Woah, a Keepers Guardian!
+* What the?! A Keepers Guardian?!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Keepers Altar}}

@@ -1,0 +1,32 @@
+{{FishInfobox
+|image          = Deep Pearl.png
+|rarity         = Legendary
+|sea            = First Sea
+|location       = [[Roslit Bay]]
+|sublocation    = 
+|sources        = Clam
+|radar_location = 
+|xp             = 0
+|weather        = 
+|time           = 
+|season         = 
+|bait           = 
+|base_weight    = 0.4
+|base_value     = 880
+|weight_range   = 0.3
+|base_chance    = 5
+|base_resil     = 100
+}}
+'''Deep Pearl''' is a {{Rarity|Legendary}} fish found in [[Roslit Bay]].
+
+== Description ==
+{{Description|A gloomy pearl embued with the essence of the deep ocean.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|From catching Clams.|Bestiary Hint}}
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Roslit Bay}}

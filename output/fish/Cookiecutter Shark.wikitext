@@ -1,0 +1,72 @@
+{{FishInfobox
+|image          = Cookiecutter Shark.png
+|rarity         = Rare
+|sea            = First Sea
+|location       = [[Ocean]]
+|sublocation    = Shark Hunt
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 300
+|weather        = Clear, Foggy
+|time           = Night
+|season         = Summer, Spring
+|bait           = Bagel
+|base_weight    = 1.5
+|base_value     = 500
+|weight_range   = 1
+|base_chance    = 40
+|base_resil     = 30
+}}
+'''Cookiecutter Shark''' is a {{Rarity|Rare}} fish found in [[Shark Hunt]]s.
+
+== Description ==
+{{Description|The Cookiecutter Shark is a small, nocturnal shark with an unusual feeding habit- t bites circular chunks from larger animals, leaving a 'cookie-cutter' wound. They can be found primarily alongside sharks during shark hunts.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found during a shark hunt during the night.|Bestiary Hint}}
+{{Fish Availability|
+Ocean/Strange Whirlpool
+Shark Hunt/Great Hammerhead Shark
+Shark Hunt/Great White Shark
+Shark Hunt/Whale Shark
+|top_rods      = 
+Krampus's Rod\305522.16\432889.17;
+Magma Rod\290011.55\410912.64;
+Leviathan's Fang Rod\275283.49\547753.29;
+Plastic Rod\263500.79\373349.99;
+Trident Rod\231289.18\673795.86;
+Buddy Bond Rod\195743.45\371970.27;
+Free Spirit Rod\216965.03\632066.49;
+Fast Rod\198375.51\440461.73;
+Flimsy Rod\147906.08\376512.76;
+Training Rod\98639.39\308991.34;
+Ethereal Prism Rod\200276.96\313529.09;
+No-Life Rod\193013.15\346657.34;
+Seraphic Rod\192891.91\319940.7;
+Rod Of The Forgotten Fang\180198.92\314312.45;
+Challenger's Rod\174324.9\313070.19;
+Rod Of The Depths\161638.8\286751.57;
+Verdant Shear Rod\159412.32\378279;
+Rod Of The Exalted One\159377.98\294725.9;
+Zeus Rod\158323.89\291066.14;
+Blazebringer Rod\154412.46\360559.83;
+Depthseeker Rod\143187.5\273901.05;
+Avalanche Rod\128933.66\247558.35;
+Volcanic Rod\123368.95\230136.43;
+Steady Rod\51267.17\80814.77
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Cookiecutter Shark, the player has a chance to make one of the following exclamations:
+* A Cookiecutter Shark!
+* Woah, a Cookiecutter!
+* Nice, I can make some Gingerbread!
+* A Cookiecutter Shark!
+* I caught a Cookiecutter Shark!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ocean}}

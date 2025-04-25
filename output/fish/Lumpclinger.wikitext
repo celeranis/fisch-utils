@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Lumpclinger.png
+|rarity         = Unusual
+|sea            = Second Sea
+|location       = [[Open Ocean]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -5
+|xp             = 88
+|weather        = Windy
+|time           = Day
+|season         = Summer
+|bait           = Gale Grub
+|base_weight    = 50
+|base_value     = 175
+|weight_range   = 30
+|base_chance    = 100
+|base_resil     = 50
+}}
+'''Lumpclinger''' is an {{Rarity|Unusual}} fish found in the [[Open Ocean]].
+
+== Description ==
+{{Description|A yellow fish with brown spikes, clinging to ocean debris.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It sticks where the waves crash hard.|Bestiary Hint}}
+{{Fish Availability|
+Open Ocean
+Open Ocean/Sea Leviathan
+|top_rods      = 
+Plastic Rod\270618.27\149065.4;
+Fischer's Rod\210118.04\174863.2;
+Magma Rod\209298.44\26679.54;
+Krampus's Rod\200413.22\25182.17;
+Fast Rod\179287.34\35652.6;
+Nocturnal Rod\56723.43\55883.96;
+Buddy Bond Rod\153491.66\34247.02;
+Free Spirit Rod\170712.16\9414.43;
+Trident Rod\158413.2\12348.78;
+Verdant Shear Rod\131691.56\10928.57;
+Blazebringer Rod\130144.59\10660.88;
+No-Life Rod\124651.44\10100.47;
+Seraphic Rod\113662.45\8850.45;
+Ethereal Prism Rod\113247.6\9426.11;
+Challenger's Rod\110043.45\8865.67;
+Depthseeker Rod\109001.32\9160.01;
+Rod Of The Forgotten Fang\108114.53\8447.39;
+Avalanche Rod\106929.71\9000.62;
+Rod Of The Exalted One\106702.76\8510.76;
+Volcanic Rod\105978.37\8728.98;
+Zeus Rod\105430.86\8683.88;
+Rod Of The Depths\105348.37\8326.4;
+Steady Rod\87615.9\7317.93
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Lumpclinger, the player has a chance to make one of the following exclamations:
+* A Lumpclinger!
+* Spiky clinger!
+* Yellow lump!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Open Ocean}}

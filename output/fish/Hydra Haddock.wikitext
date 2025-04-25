@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Hydra Haddock.png
+|rarity         = Common
+|sea            = First Sea
+|location       = [[Veil of the Forsaken]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 160
+|weather        = Windy
+|time           = 
+|season         = 
+|bait           = Insect
+|base_weight    = 47
+|base_value     = 400
+|weight_range   = 26
+|base_chance    = 65
+|base_resil     = 90
+}}
+'''Hydra Haddock''' is a {{Rarity|Common}} fish found in the [[Veil of the Forsaken]] of [[Mariana's Veil]].
+
+== Description ==
+{{Description|A small, hydra-type fish with dark scales and glowing eyes.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|A steady fish, commonly spotted during windy conditions.|Bestiary Hint}}
+{{Fish Availability|
+Mariana's Veil/Scylla Hunt
+Mariana's Veil/Veil of the Forsaken
+|top_rods      = 
+Leviathan's Fang Rod\304500.4\257406.26;
+Trident Rod\299421.03\187323.23;
+Free Spirit Rod\296353.06\187093.79;
+Azure Of Lagoon\292595.47\185725.37;
+No-Life Rod\290276.44\269048.74;
+Long Rod\263444.31\296336.88;
+Resourceful Rod\273486.1\276959.93;
+Fungal Rod\279754.72\269945.45;
+Firefly Rod\277859.08\304162.59;
+Rapid Rod\284223.46\282146.12;
+Fast Rod\280220.17\280220.17;
+Antler Rod\261889.36\252706.52;
+Verdant Shear Rod\275324.37\265758.28;
+Blazebringer Rod\274289.11\237929.84;
+Zeus Rod\272601.75\236466.15;
+Challenger's Rod\272120.41\245294.23;
+Seraphic Rod\267989.58\267989.58;
+Depthseeker Rod\267303.97\238392.09;
+Volcanic Rod\266274.17\230977.34;
+Avalanche Rod\264435.07\219531.05;
+Rod Of The Depths\262197.64\222938.6;
+Rod Of The Forgotten Fang\261310.34\244712.17;
+Ethereal Prism Rod\254388.12\174515.4;
+Rod Of The Exalted One\253182.24\209004.93;
+Steady Rod\141517.55\129255.18
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Hydra Haddock, the player has a chance to make one of the following exclamations:
+* A Hydra Haddock!
+* Fierce!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Veil of the Forsaken}}

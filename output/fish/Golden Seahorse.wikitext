@@ -1,0 +1,62 @@
+{{FishInfobox
+|image          = Golden Seahorse.png
+|rarity         = Mythical
+|sea            = First Sea
+|location       = [[Forsaken Shores]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 2800
+|weather        = 
+|time           = Day
+|season         = Summer
+|bait           = Weird Algae
+|base_weight    = 0.8
+|base_value     = 2900
+|weight_range   = 0.5
+|base_chance    = 0.001
+|base_resil     = 10
+}}
+'''Golden Seahorse''' is a {{Rarity|Mythical}} fish found in [[Forsaken Shores]].
+
+== Description ==
+{{Description|Golden Sea Horses are small but enchanting, drifting near seaweed & algae. Gentle and rare, they’re a delight to find.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Drifting near seaweed & algae in the Oceanside.|Bestiary Hint}}
+{{Fish Availability|
+Forsaken Shores/Surrounding Ocean
+|top_rods      = 
+Leviathan's Fang Rod\89693.43\440041.47;
+Free Spirit Rod\76444.94\379346.83;
+Trident Rod\74761.97\370995.31;
+No-Life Rod\61495.22\301250.09;
+Ethereal Prism Rod\60257.84\252905.81;
+Flimsy Rod\55016.18\176024.53;
+Training Rod\55970.06\250393.18;
+Destiny Rod\47414.42\219087.33;
+Precision Rod\36692.74\168056.06;
+Seraphic Rod\58871.27\252360.71;
+Rod Of The Forgotten Fang\54941.68\245972.55;
+Challenger's Rod\53821.86\252043.72;
+Rod Of The Depths\49289.08\222289.6;
+Zeus Rod\48925.08\225125.4;
+Verdant Shear Rod\48181.29\217994.51;
+Rod Of The Exalted One\48112.4\210194.15;
+Blazebringer Rod\46526.74\215005.96;
+Depthseeker Rod\44691.13\203475.44;
+Avalanche Rod\40120.16\183129.64;
+Volcanic Rod\38115.53\177730.58;
+Steady Rod\13473.66\73409.16
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Golden Seahorse, the player has a chance to make one of the following exclamations:
+* IS THAT A GOLDEN SEAHORSE?!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Forsaken Shores}}

@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Banditfish.png
+|rarity         = Rare
+|sea            = First Sea
+|location       = [[Desolate Deep]]
+|sublocation    = 
+|sources        = Coral Geode, Fishing Rod
+|radar_location = 
+|xp             = 100
+|weather        = 
+|time           = 
+|season         = Spring
+|bait           = Insect
+|base_weight    = 20
+|base_value     = 250
+|weight_range   = 5
+|base_chance    = 1050
+|base_resil     = 30
+}}
+'''Banditfish''' is a {{Rarity|Rare}} fish found in the [[Desolate Deep]].
+
+== Description ==
+{{Description|Banditfish are insanely fast hunters and swimmers, hence their name. They have a single rudder-like fin at the back of their bodies, which they move in a swaying motion to glide throughout the waters. Despite being remarkably good at hunting smaller prey, they are still no match for the greater creatures within the Desolate Deep.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Caught in the Desolate Deep|Bestiary Hint}}
+{{Fish Availability|
+Desolate Deep/Desolate Pocket
+|top_rods      = 
+Leviathan's Fang Rod\254726.58\211572.59;
+Trident Rod\237195.92\196388.43;
+Free Spirit Rod\222505.96\184225.75;
+No-Life Rod\167138.36\137145.5;
+Azure Of Lagoon\166791.56\136215.53;
+Plastic Rod\138743.69\134609.15;
+Buddy Bond Rod\113563.71\138430.6;
+Krampus's Rod\160856.46\156058.06;
+Fast Rod\145111.25\182508.77;
+Fischer's Rod\126972.35\159695.18;
+Adventurer's Rod\123973\155922.85;
+Ethereal Prism Rod\153005.18\159108.28;
+Seraphic Rod\151260.6\133160.73;
+Challenger's Rod\146978.52\121531.57;
+Rod Of The Forgotten Fang\146713.78\120396.74;
+Rod Of The Exalted One\135953.99\113256;
+Zeus Rod\135537.53\112630.79;
+Depthseeker Rod\135498.56\109522.35;
+Verdant Shear Rod\134812.96\112464.59;
+Rod Of The Depths\133165.14\109617.05;
+Blazebringer Rod\131321.76\107850.14;
+Avalanche Rod\127500.05\103115.03;
+Volcanic Rod\126235.35\103672.85;
+Steady Rod\70505.8\57941.88
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Banditfish, the player has a chance to make one of the following exclamations:
+* I caught a Bandit Fish!
+* It's a Bandit Fish!
+* Woahhh, A Bandit Fish
+* It pickpocketed me! >:(
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Desolate Deep}}

@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Sweetfish.png
+|rarity         = Common
+|sea            = First Sea
+|location       = [[Sunstone Island]]
+|sublocation    = 
+|sources        = Fish Barrel, Fishing Rod
+|radar_location = 
+|xp             = 25
+|weather        = Clear
+|time           = 
+|season         = Autumn
+|bait           = Worm
+|base_weight    = 0.5
+|base_value     = 40
+|weight_range   = 0.3
+|base_chance    = 75
+|base_resil     = 85
+}}
+'''Sweetfish''' is a {{Rarity|Common}} fish found in [[Sunstone Island]].
+
+== Description ==
+{{Description|The Sweetfish is known for its delicate sweet flavour, and its golden hue. They are very commonly found in short river-like gap of Sunstone Island.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in the centre gap of Sunstone Island.|Bestiary Hint}}
+{{Fish Availability|
+Sunstone Island
+|top_rods      = 
+Leviathan's Fang Rod\198455.23\153363.5;
+Trident Rod\193486.51\115360.63;
+Free Spirit Rod\191144.81\115189.42;
+No-Life Rod\189623.47\165272.03;
+Azure Of Lagoon\185816.46\114009.84;
+Training Rod\157977.64\157977.64;
+Flimsy Rod\129820.34\117966.27;
+Resourceful Rod\163621.41\113733.23;
+Fast Rod\165418.01\165418.01;
+Seraphic Rod\173625.01\164508.76;
+Tempest Rod\176587.08\158712.11;
+Rod Of The Exalted One\162555.07\134383.41;
+Challenger's Rod\171669.61\150576.93;
+Verdant Shear Rod\171584.34\140644.91;
+Zeus Rod\171287.53\140408.43;
+Blazebringer Rod\171207.14\132576.97;
+Depthseeker Rod\168378.14\128431.55;
+Avalanche Rod\167128.46\115378.62;
+Ethereal Prism Rod\166820.81\86978.59;
+Rod Of The Forgotten Fang\166544.35\150219.63;
+Rod Of The Depths\166174.03\136745.03;
+Volcanic Rod\166160.07\116350.16;
+Steady Rod\82971.13\61528.59
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Sweetfish, the player has a chance to make one of the following exclamations:
+* A Sweetfish!
+* Is there a sour one?
+* Woah! A Sweetfish!
+* Hope it's not artificially sweet!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Sunstone Island}}

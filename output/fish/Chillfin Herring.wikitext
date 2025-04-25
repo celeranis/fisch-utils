@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Chillfin Herring.png
+|rarity         = Rare
+|sea            = First Sea
+|location       = [[Cryogenic Canal]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 200
+|weather        = 
+|time           = Day
+|season         = Winter
+|bait           = Seaweed
+|base_weight    = 7
+|base_value     = 450
+|weight_range   = 4
+|base_chance    = 35
+|base_resil     = 45
+}}
+'''Chillfin Herring''' is a {{Rarity|Rare}} fish found in the [[Cryogenic Canal]].
+
+== Description ==
+{{Description|A sleek fish with a reflective, icy-gray body and frost-tipped fins.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Schools in the colder currents of the canal.|Bestiary Hint}}
+{{Fish Availability|
+Cryogenic Canal
+|top_rods      = 
+Krampus's Rod\245450.18\120316.18;
+Magma Rod\232940.24\114183.98;
+Plastic Rod\214631.32\105542.81;
+Leviathan's Fang Rod\193344.51\67403.56;
+Ethereal Prism Rod\176305.69\55630.23;
+Fast Rod\154515.74\105445.89;
+Fischer's Rod\142834.53\97474.31;
+Training Rod\91855.36\97027.15;
+Flimsy Rod\127987.42\92604.17;
+Trident Rod\171149.41\60108.92;
+Seraphic Rod\170315.44\54649.31;
+No-Life Rod\168403.72\55360.23;
+Free Spirit Rod\160217.83\56269.67;
+Rod Of The Forgotten Fang\159392.07\51236.64;
+Challenger's Rod\153450.09\50272.59;
+Rod Of The Depths\143439.34\46353.91;
+Rod Of The Exalted One\140855.2\44865.26;
+Zeus Rod\138977.25\46150.76;
+Verdant Shear Rod\135910.49\45579.15;
+Blazebringer Rod\131962.55\43821.36;
+Depthseeker Rod\124762.91\41975.27;
+Avalanche Rod\112456.78\37883.18;
+Volcanic Rod\108292.83\35961.25;
+Steady Rod\41970.2\12190.89
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching a Chillfin Herring, the player has a chance to make one of the following exclamations:
+* A Chillfin Herring!
+* So shiny!
+* Frosty little one!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Cryogenic Canal}}

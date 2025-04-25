@@ -1,0 +1,70 @@
+{{FishInfobox
+|image          = Floppy.png
+|rarity         = Legendary
+|sea            = First Sea
+|location       = [[Ancient Isle]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -10
+|xp             = 1200
+|weather        = 
+|time           = 
+|season         = Autumn
+|bait           = Super Flakes
+|base_weight    = 10
+|base_value     = 2000
+|weight_range   = 2
+|base_chance    = 0.05
+|base_resil     = 25
+}}
+'''Floppy''' is a {{Rarity|Legendary}} fish found in the [[Ancient Isle]].
+
+== Description ==
+{{Description|The Floppy is an interesting fish in the Ancient Isle. Exhibiting signs of intense energy, attempting to catch the Floppy will not be an easy task. They spend most of the day swimming around the pond, |Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Can be found in the waters of the Ancient Isle.|Bestiary Hint}}
+{{Fish Availability|
+Ancient Isle/Freshwater Pond
+|top_rods      = 
+Leviathan's Fang Rod\126273.11\1006336.98;
+Free Spirit Rod\104814.3\735326.31;
+Ethereal Prism Rod\103981.55\594571.63;
+Trident Rod\102221.83\717138.77;
+Seraphic Rod\99464.95\596077.09;
+Lucky Rod\69681.97\461223.13;
+Training Rod\67193.68\273400.77;
+Frog Rod\71654.72\529794.42;
+Rapid Rod\96574.63\784773.15;
+Firefly Rod\85722.8\725406;
+Adventurer's Rod\56269.19\476169.53;
+Fischer's Rod\56581.8\478814.91;
+Fast Rod\77863.26\711986.82;
+No-Life Rod\97499.4\661886.69;
+Rod Of The Forgotten Fang\92651.36\583747.66;
+Challenger's Rod\88229.53\593866.56;
+Rod Of The Depths\82675.83\530393.65;
+Rod Of The Exalted One\82214.26\502094.14;
+Zeus Rod\78626.88\517880.44;
+Verdant Shear Rod\76249.41\518923.49;
+Blazebringer Rod\74772.03\492490.25;
+Depthseeker Rod\70141.72\482753.61;
+Avalanche Rod\62955.94\435271.7;
+Volcanic Rod\61279.49\403620.88;
+Steady Rod\19531.22\146231.8
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching a Floppy, the player has a chance to make one of the following exclamations:
+* A Floppy!
+* I caught a Floppy!
+* Woah! A Floppy!
+* Ouu! A Floppy!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ancient Isle}}

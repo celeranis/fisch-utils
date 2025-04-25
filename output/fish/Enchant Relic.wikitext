@@ -1,0 +1,69 @@
+{{FishInfobox
+|image          = Enchant Relic.png
+|rarity         = Relic
+|sea            = First Sea
+|location       = [[Regionless]]
+|sublocation    = 
+|sources        = Fishing Rod, Supreme Present, Unique Present
+|radar_location = 
+|prog_speed     = -20
+|xp             = 800
+|weather        = 
+|time           = 
+|season         = 
+|bait           = 
+|base_weight    = 21
+|base_value     = 3500
+|weight_range   = 0
+|base_chance    = 0.2
+|base_resil     = 35
+}}
+'''Enchant Relic''' is a {{Rarity|Relic}} fish found in [[Regionless]].
+
+== Description ==
+{{Description|A stone filled with the blessing of a Divine Lantern Keeper.. Returning it to it's throne under the Statue of Sovereignty will result in your currently equipped rod being engulfed in its power.|Bestiary Entry}}
+
+== Obtainment ==
+{{Fish Availability|
+The Depths
+The Depths/Absolute Darkness
+|top_rods      = 
+Leviathan's Fang Rod\86206.48\137296.34;
+Trident Rod\79482.19\118408.37;
+Free Spirit Rod\70939.08\105681.31;
+No-Life Rod\60274.24\96534.34;
+Seraphic Rod\57426.65\89410.14;
+Lucky Rod\40922.84\63556.19;
+Firefly Rod\53167.01\88811.45;
+Candy Cane Rod\34433.83\57700.56;
+Adventurer's Rod\34462.39\58044.65;
+Fischer's Rod\34653.85\58367.12;
+Fast Rod\51585.9\86885.58;
+Ethereal Prism Rod\57275.16\88652.3;
+Challenger's Rod\55315.07\88728.02;
+Rod Of The Forgotten Fang\55230.83\87727.18;
+Zeus Rod\50602.59\78453.13;
+Verdant Shear Rod\50251.25\78228.35;
+Rod Of The Exalted One\50040.25\75783.95;
+Rod Of The Depths\49960.62\79670.7;
+Blazebringer Rod\48359.64\74975.71;
+Depthseeker Rod\46626.25\72686.88;
+Avalanche Rod\41750.28\65554.04;
+Volcanic Rod\40032.81\62065.98;
+Steady Rod\13724.59\23851.36
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching an Enchant Relic, the player has a chance to make one of the following exclamations:
+* I feel it's power..
+* Woah.. A Relic??
+* A Relic!!
+* I caught a Relic!
+* Please don't give me Wormhole..
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Regionless}}

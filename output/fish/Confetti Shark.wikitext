@@ -1,0 +1,70 @@
+{{FishInfobox
+|image          = Confetti Shark.png
+|rarity         = Limited
+|event          = Golden Tide
+|sea            = First Sea
+|location       = [[Golden Tide]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 600
+|weather        = 
+|time           = 
+|season         = 
+|bait           = Deep Coral
+|base_weight    = 120
+|base_value     = 1200
+|weight_range   = 40
+|base_chance    = 50
+|base_resil     = 50
+}}
+'''Confetti Shark''' is a {{Rarity|Limited}} fish found in special pools in the [[Ocean]] during the [[Golden Tide]] event.
+
+== Description ==
+{{Description|A festive predator that appears during the Golden Tide celebration, known for its colorful scales that seem to shimmer and shed like confetti in the water. These sharks are drawn to the excitement of celebration, making them a sought-after catch during festivities.|Bestiary Entry}}
+
+== Obtainment ==
+{{Fish Availability|
+Golden Tide
+|top_rods      = 
+Firefly Rod\70422.68\60612.27;
+Rapid Rod\69490.58\62332.57;
+Fungal Rod\68868.84\61951.49;
+Ethereal Prism Rod\68545.79\87840.17;
+Champions Rod\67044.58\51479.97;
+Adventurer's Rod\50756.16\50756.16;
+Fischer's Rod\51174.48\51174.48;
+Plastic Rod\51011.04\46829.97;
+Leviathan's Fang Rod\65366.68\68241.52;
+Fast Rod\66681.16\66681.16;
+No-Life Rod\64882.52\64882.52;
+Seraphic Rod\63993.56\63993.56;
+Fortune Rod\37791.16\54006.79;
+Depthseeker Rod\66241.78\50952.7;
+Avalanche Rod\64736.77\49736.43;
+Verdant Shear Rod\61524.44\54392.71;
+Trident Rod\59929.18\46408.37;
+Challenger's Rod\58576.77\58576.77;
+Rod Of The Forgotten Fang\58363.59\58363.59;
+Free Spirit Rod\56982.18\46191.8;
+Blazebringer Rod\56111.2\51347.09;
+Zeus Rod\55659.91\54376.71;
+Volcanic Rod\54268.41\41269.83;
+Rod Of The Depths\52930.61\52930.61;
+Rod Of The Exalted One\50304.21\51078.19;
+Steady Rod\32640.4\28027.32
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching a Confetti Shark, the player has a chance to make one of the following exclamations:
+* A Confetti Shark! Time to celebrate!
+* The party has arrived!
+* Now THIS is how you make a splash!
+* It's raining scales!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Golden Tide}}

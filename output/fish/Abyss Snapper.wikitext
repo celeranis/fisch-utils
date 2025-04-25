@@ -1,0 +1,62 @@
+{{FishInfobox
+|image          = Abyss Snapper.png
+|rarity         = Uncommon
+|sea            = First Sea
+|location       = [[Atlantean Storm]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 180
+|weather        = Foggy
+|time           = 
+|season         = Autumn
+|bait           = Fish Head
+|base_weight    = 4
+|base_value     = 300
+|weight_range   = 2.5
+|base_chance    = 55
+|base_resil     = 60
+}}
+'''Abyss Snapper''' is an {{Rarity|Uncommon}} fish found in the [[Atlantean Storm]].
+
+== Description ==
+{{Description|A territorial fish with sharp teeth and storm-grey scales. These snappers have adapted to the constant turbulence of the Atlantean Storm, using the currents to ambush their prey.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in the mid-depths of the Atlantean Storm.|Bestiary Hint}}
+{{Fish Availability|
+Grand Reef/Atlantean Storm
+|top_rods      = 
+Ethereal Prism Rod\270787.06\309259.68;
+No-Life Rod\269564.31\269564.31;
+Seraphic Rod\266740.59\266740.59;
+Leviathan's Fang Rod\262401.59\262401.59;
+Training Rod\262307.69\314166.67;
+Flimsy Rod\190928.57\190928.57;
+Depthseeker Rod\244461.37\208074.95;
+Challenger's Rod\244254.17\244254.17;
+Rod Of The Forgotten Fang\243444.93\243444.93;
+Avalanche Rod\240865.86\186454.75;
+Verdant Shear Rod\238048.96\227156.38;
+Trident Rod\231552.05\191179.05;
+Zeus Rod\227043.65\227043.65;
+Free Spirit Rod\224374.77\190524.45;
+Blazebringer Rod\222120.01\214325.49;
+Rod Of The Depths\220983.41\220983.41;
+Volcanic Rod\215132.79\172310.22;
+Rod Of The Exalted One\207633.13\207633.13;
+Steady Rod\131531.09\93727.47
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching an Abyss Snapper, the player has a chance to make one of the following exclamations:
+* An Abyss Snapper!
+* Watch those teeth!
+* That's one angry fish!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Atlantean Storm}}

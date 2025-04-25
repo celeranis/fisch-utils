@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Sulfur Snapper.png
+|rarity         = Uncommon
+|sea            = Second Sea
+|location       = [[Emberreach]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -8
+|xp             = 70
+|weather        = Foggy
+|time           = Night
+|season         = Autumn
+|bait           = Squid
+|base_weight    = 600
+|base_value     = 165
+|weight_range   = 360
+|base_chance    = 72
+|base_resil     = 47
+}}
+'''Sulfur Snapper''' is an {{Rarity|Uncommon}} fish found in [[Emberreach]].
+
+== Description ==
+{{Description|A shadowy fish, its fins alight and eyes agleam in acrid waters.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Its glare cuts through the foggy night’s heat.|Bestiary Hint}}
+{{Fish Availability|
+Emberreach/Freshwater Pond
+|top_rods      = 
+Trident Rod\271265.94\240044.31;
+Free Spirit Rod\269195.07\166511.1;
+Leviathan's Fang Rod\267584.52\240398.01;
+Azure Of Lagoon\245858.64\167852.96;
+Verdant Shear Rod\218142.02\212853.78;
+Haunted Rod\167985.28\167985.28;
+Scurvy Rod\171469.08\171469.08;
+Rapid Rod\171835.26\171835.26;
+Wildflower Rod\206279.74\202336.52;
+Egg Rod\217240.69\193460.4;
+Resourceful Rod\167039.88\167039.88;
+Blazebringer Rod\215089.34\193236.33;
+No-Life Rod\206083.7\187983.98;
+Seraphic Rod\189672.51\167841.96;
+Ethereal Prism Rod\185175.09\151671.47;
+Challenger's Rod\180576.46\164222.82;
+Rod Of The Forgotten Fang\179883.43\159619.63;
+Depthseeker Rod\177708.1\167389.18;
+Rod Of The Exalted One\175880.19\154115.01;
+Avalanche Rod\173658.33\163814.48;
+Rod Of The Depths\173263.71\156129.93;
+Volcanic Rod\172413.8\158968.93;
+Zeus Rod\171482.23\158110.01;
+Steady Rod\142662.32\134316.01
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Sulfur Snapper, the player has a chance to make one of the following exclamations:
+* A Sulfur Snapper!
+* Sulfur snap!
+* Yellow-eyed fiend!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Emberreach}}

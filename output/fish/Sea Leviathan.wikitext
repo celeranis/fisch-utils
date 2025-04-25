@@ -1,0 +1,69 @@
+{{FishInfobox
+|image          = Sea Leviathan.png
+|rarity         = Exotic
+|sea            = Second Sea
+|location       = [[Open Ocean]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = +10
+|xp             = 15000
+|weather        = Foggy
+|time           = 
+|season         = Spring
+|bait           = Luminous Larva
+|base_weight    = 6000
+|base_value     = 21000
+|weight_range   = 3800
+|base_chance    = 1
+|base_resil     = 3
+}}
+'''Sea Leviathan''' is an {{Rarity|Exotic}} fish found in the [[Open Ocean]].
+
+== Description ==
+{{Description|A swift and deadly predator of the fog, elusive and nearly untouchable in its element.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Venture into the fog where this elusive creature lurks, quick as the mist itself.|Bestiary Hint}}
+{{Fish Availability|
+Open Ocean/Sea Leviathan
+|top_rods      = 
+Free Spirit Rod\16073.13\144028.69;
+Leviathan's Fang Rod\11864.72\90549.75;
+Egg Rod\11417.53\108506.93;
+Trident Rod\11096.61\86209.58;
+Azure Of Lagoon\10844.54\95165.51;
+Destiny Rod\7251.25\66138.87;
+Heaven's Rod\7203.68\66780.49;
+Great Dreamer Rod\10809.65\102834.94;
+Blazebringer Rod\10695.61\102404.1;
+Kraken Rod\7004.08\66742.81;
+Ethereal Prism Rod\7391.78\69940.58;
+No-Life Rod\7356.47\69575.82;
+Seraphic Rod\7263.83\69032.04;
+Rod Of The Exalted One\6911.28\65814.86;
+Rod Of The Forgotten Fang\6870.44\65259.66;
+Challenger's Rod\6748.62\63862.42;
+Rod Of The Depths\6706.55\63602.39;
+Volcanic Rod\6502.78\61397.32;
+Depthseeker Rod\6482.38\60560.07;
+Zeus Rod\6477.73\61160.8;
+Avalanche Rod\6414\59801.74;
+Steady Rod\6215.76\54087.07
+|recommended   = Free Spirit Rod
+}}
+
+== Gameplay Notes ==
+* The Sea Leviathan Progress Speed penalty cannot be reduced with the {{Enchantment|Steady}} [[Enchantment]] or the {{Item|Tempest Rod}} passive ability.
+
+== Catch Quips ==
+When catching a Sea Leviathan, the player has a chance to make one of the following exclamations:
+* A SEA LEVIATHAN!?!
+* A SHADOW IN THE MIST!
+* THE FEROCITY OF A STORM!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Open Ocean}}

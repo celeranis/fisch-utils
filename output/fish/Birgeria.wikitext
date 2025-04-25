@@ -1,0 +1,64 @@
+{{FishInfobox
+|image          = Birgeria.png
+|rarity         = Unusual
+|sea            = First Sea
+|location       = [[Ancient Archives]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 60
+|weather        = 
+|time           = Day
+|season         = 
+|bait           = Worm
+|base_weight    = 120
+|base_value     = 200
+|weight_range   = 70
+|base_chance    = 15
+|base_resil     = 55
+}}
+'''Birgeria''' is an {{Rarity|Unusual}} fish found in the [[Ancient Archives]].
+
+== Description ==
+{{Description|Birgeria is a genus of extinct fish from the Late Triassic period, recognized for its large size and long, slender body. It was a carnivorous predator that roamed ancient seas, hunting smaller fish and invertebrates.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in the dark waters of the Archives...|Bestiary Hint}}
+{{Fish Availability|
+Ancient Archives
+|top_rods      = 
+Krampus's Rod\208270.2\67782.86;
+Leviathan's Fang Rod\207197.32\65541.6;
+Trident Rod\202373.69\59131.53;
+Magma Rod\199860.41\65045.84;
+Free Spirit Rod\194541.79\56843.13;
+Plastic Rod\182951.08\59542.59;
+Nocturnal Rod\81607.2\48173.58;
+No-Life Rod\171740.01\55933.84;
+Seraphic Rod\157152.06\55091.36;
+Challenger's Rod\156791.7\50957.41;
+Depthseeker Rod\156589\42861.91;
+Rod Of The Forgotten Fang\154769.95\51719.5;
+Ethereal Prism Rod\154636.73\55848.65;
+Avalanche Rod\153860.25\38728.28;
+Verdant Shear Rod\153101.72\46547.81;
+Blazebringer Rod\152914.77\44607.17;
+Zeus Rod\152652.63\46994.21;
+Rod Of The Exalted One\150202.34\45592.72;
+Rod Of The Depths\149774.32\46922.83;
+Volcanic Rod\148008.91\36617.2;
+Steady Rod\54879.94\13065.33
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Birgeria, the player has a chance to make one of the following exclamations:
+* I caught a Birgeria!
+* OMG A Birgeria!
+* Look at this, a Birgeria!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ancient Archives}}

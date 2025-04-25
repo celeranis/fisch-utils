@@ -1,0 +1,66 @@
+{{FishInfobox
+|image          = Crawling Angler.png
+|rarity         = Rare
+|sea            = Second Sea
+|location       = [[The Cursed Shores]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -69
+|xp             = 725
+|weather        = Foggy
+|time           = Night
+|season         = Autumn
+|bait           = Sapphire Krill
+|base_weight    = 13
+|base_value     = 950
+|weight_range   = 8.5
+|base_chance    = 45
+|base_resil     = 9
+}}
+'''Crawling Angler''' is a {{Rarity|Rare}} fish found in [[The Cursed Shores]].
+
+== Description ==
+{{Description|A cunning hunter that drags its prey into oblivion.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It creeps where the shadows stretch long.|Bestiary Hint}}
+{{Fish Availability|
+The Cursed Shores
+|top_rods      = 
+Trident Rod\65901.84\37920.37;
+Leviathan's Fang Rod\60434.5\38491.58;
+Egg Rod\53519.95\53519.95;
+No-Life Rod\51119.03\48083.55;
+Azure Of Lagoon\50766.34\45338.51;
+Training Rod\43010.93\182296.43;
+Flimsy Rod\30955.43\30955.43;
+Free Spirit Rod\49114.28\53127.38;
+Verdant Shear Rod\50232.01\50232.01;
+Great Dreamer Rod\49400.81\49400.81;
+Blazebringer Rod\48797.6\48797.6;
+Challenger's Rod\42767.85\40068.77;
+Seraphic Rod\41718.98\34195.08;
+Depthseeker Rod\33224.3\31127.51;
+Ethereal Prism Rod\32956.49\32956.49;
+Steady Rod\30961.02\29833.25;
+Rod Of The Forgotten Fang\30911.73\30911.73;
+Avalanche Rod\30601.27\29408.41;
+Volcanic Rod\30135.12\29038.53;
+Rod Of The Exalted One\29845.24\29845.24;
+Zeus Rod\29682.85\28602.72;
+Rod Of The Depths\29408.41\29408.41
+|recommended   = Verdant Shear Rod
+}}
+
+== Catch Quips ==
+When catching a Crawling Angler, the player has a chance to make one of the following exclamations:
+* A Crawling Angler!
+* Crawl of death!
+* Angler’s wrath!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|The Cursed Shores}}

@@ -1,0 +1,71 @@
+{{FishInfobox
+|image          = Palaeoniscum.png
+|rarity         = Unusual
+|sea            = First Sea
+|location       = [[Ancient Archives]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 35
+|weather        = Clear
+|time           = Night
+|season         = Spring, Autumn
+|bait           = Fish Head
+|base_weight    = 70
+|base_value     = 125
+|weight_range   = 67.5
+|base_chance    = 40
+|base_resil     = 70
+}}
+'''Palaeoniscum''' is an {{Rarity|Unusual}} fish found in the [[Ancient Archives]].
+
+== Description ==
+{{Description|Palaeoniscum is an ancient ray-finned fish from the Early Permian period, approximately 290 million years ago. Known for its robust ganoid scales and streamlined body, it represents early actinopterygian evolution, the ancestor of most modern fish.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found within the Ancient Isle's waterfall.|Bestiary Hint}}
+{{Fish Availability|
+Ancient Archives
+Ancient Isle/Waterfall
+|top_rods      = 
+Plastic Rod\423048.51\621306.79;
+Krampus's Rod\407825.22\440472.34;
+Magma Rod\394096.53\425644.63;
+Leviathan's Fang Rod\372989.33\321981.02;
+Fast Rod\364872.65\642751.85;
+Flimsy Rod\304531.79\558025.06;
+Training Rod\311375.04\439245.08;
+Rapid Rod\308376.14\701430.71;
+Firefly Rod\289201.52\652898.08;
+Fischer's Rod\324048.17\570299.32;
+Buddy Bond Rod\314264.61\545305.9;
+Trident Rod\362061.78\243023.05;
+Free Spirit Rod\354567.25\237992.56;
+No-Life Rod\328240.88\275841.5;
+Depthseeker Rod\309688.6\212927.76;
+Avalanche Rod\306639.25\192879.09;
+Challenger's Rod\303449.16\260639.77;
+Verdant Shear Rod\302480.48\230584.02;
+Blazebringer Rod\301548.01\220279.62;
+Seraphic Rod\301318.25\263591.75;
+Zeus Rod\299398.14\231381.15;
+Rod Of The Forgotten Fang\297601.06\258328.04;
+Ethereal Prism Rod\295463.75\275213.55;
+Rod Of The Depths\293361.37\237381.97;
+Volcanic Rod\292354.47\181678.88;
+Rod Of The Exalted One\290943.74\227404.83;
+Steady Rod\119415.82\64465.06
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Palaeoniscum, the player has a chance to make one of the following exclamations:
+* A Palaeoniscum!
+* OMG A Palaeoniscum!
+* I can't believe I caught a Palaeoniscum!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ancient Archives}}

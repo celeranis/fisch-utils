@@ -1,0 +1,66 @@
+{{FishInfobox
+|image          = Dogefin.png
+|rarity         = Secret
+|sea            = Second Sea
+|location       = [[Open Ocean]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -65
+|xp             = 13000
+|weather        = Clear
+|time           = Night
+|season         = Winter
+|bait           = Mist Worms
+|base_weight    = 40
+|base_value     = 21000
+|weight_range   = 35
+|base_chance    = 0.5
+|base_resil     = 6
+}}
+'''Dogefin''' is a {{Rarity|Secret}} fish found in the [[Open Ocean]].
+
+== Description ==
+{{Description|hapapa.. hapa patata|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|🐶?|Bestiary Hint}}
+{{Fish Availability|
+Open Ocean
+Open Ocean/Sea Leviathan
+|top_rods      = 
+Free Spirit Rod\509.55\5560.5;
+Egg Rod\399.92\4617.35;
+Verdant Shear Rod\392.85\5037.71;
+Training Rod\375.06\3267.83;
+Blazebringer Rod\375.05\4363.01;
+Flimsy Rod\370.51\4956.44;
+Resourceful Rod\322.6\3606.17;
+Plastic Rod\232.79\5316.1;
+Fischer's Rod\234.63\5095.47;
+Trident Rod\330.04\3547.98;
+Seraphic Rod\268.06\3094.88;
+Ethereal Prism Rod\266.99\3065.99;
+No-Life Rod\259.6\2984.15;
+Challenger's Rod\249.18\2865.85;
+Rod Of The Forgotten Fang\244.06\2816.51;
+Rod Of The Exalted One\240.28\2779.33;
+Rod Of The Depths\230.55\2656.81;
+Depthseeker Rod\226.66\2573.33;
+Volcanic Rod\221.37\2540.87;
+Avalanche Rod\219.84\2490.71;
+Zeus Rod\218.4\2506.81;
+Steady Rod\211.13\2223.43
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Dogefin, the player has a chance to make one of the following exclamations:
+* woof woof
+* bark bark
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Open Ocean}}

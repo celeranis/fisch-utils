@@ -1,0 +1,26 @@
+{{BaitInfobox
+|image          = Bait Peppermint Worm.png
+|rarity         = Unusual
+|crates         = Festive Bait Crate/2.9
+|angler_quests  = <!--TBD-->
+|pref_luck      = 50
+|univ_luck      = 30
+|resilience     = 20
+|lure           = -5
+|ability        = 
+}}
+'''Peppermint Worm''' is an {{Rarity|Unusual}} [[Bait]] that can be used in fishing.
+
+== Obtainment ==
+Peppermint Worms can be obtained in the following ways:
+* {{Item|Festive Bait Crate}} (2.9/crate on average)
+<!--* [[Angler]] Quests, starting from the ?th completion-->
+
+== Favoring Fish ==
+{{Fish by Category Table|Peppermint Worm-Loving Fish|event=1|show_location=1|hide_bait=1|resultsheader='''%PAGES%''' [[Fish]] prefer Peppermint Worms:|noresultsheader=No fish prefer Peppermint Worms.}}
+
+== Change History ==
+{{Change History|1.0}}
+
+== Navigation ==
+{{Bait Navbox}}

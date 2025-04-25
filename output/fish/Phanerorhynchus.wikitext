@@ -1,0 +1,64 @@
+{{FishInfobox
+|image          = Phanerorhynchus.png
+|rarity         = Rare
+|sea            = First Sea
+|location       = [[Ancient Archives]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 90
+|weather        = 
+|time           = Night
+|season         = 
+|bait           = Deep Coral
+|base_weight    = 140
+|base_value     = 450
+|weight_range   = 80
+|base_chance    = 3
+|base_resil     = 40
+}}
+'''Phanerorhynchus''' is a {{Rarity|Rare}} fish found in the [[Ancient Archives]].
+
+== Description ==
+{{Description|Phanerorhynchus is an extinct, predatory fish from the Late Devonian period. Known for its elongated body and sharp, backward-curving teeth, it was a formidable predator in ancient aquatic ecosystems.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in the dark waters of the Archives...|Bestiary Hint}}
+{{Fish Availability|
+Ancient Archives
+|top_rods      = 
+Leviathan's Fang Rod\82298.4\122349.25;
+Trident Rod\80247.44\120014.56;
+Free Spirit Rod\73400.92\109775.21;
+No-Life Rod\60295.51\89499.22;
+Azure Of Lagoon\58648.08\88286.57;
+Resourceful Rod\46504.55\68863.61;
+Destiny Rod\52584.13\77796.47;
+Heaven's Rod\52586.48\77979.45;
+Ethereal Prism Rod\58163.69\85203.4;
+Seraphic Rod\58028\85238.38;
+Rod Of The Forgotten Fang\55606.77\82304.89;
+Challenger's Rod\55240.34\82037.28;
+Rod Of The Exalted One\51555.33\76907.82;
+Zeus Rod\50860.79\75695.05;
+Rod Of The Depths\50480.49\74820.71;
+Verdant Shear Rod\50428.17\75181.09;
+Blazebringer Rod\48505.07\72189.08;
+Depthseeker Rod\47310.8\71554.06;
+Volcanic Rod\46170.75\69662.33;
+Avalanche Rod\45505.93\68832.79;
+Steady Rod\15962.55\25437.31
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Phanerorhynchus, the player has a chance to make one of the following exclamations:
+* I caught a Phanerorhynchus!
+* OMG A Phanerorhynchus!
+* Wow, a Phanerorhynchus!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ancient Archives}}

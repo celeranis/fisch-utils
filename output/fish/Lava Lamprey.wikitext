@@ -1,0 +1,70 @@
+{{FishInfobox
+|image          = Lava Lamprey.png
+|rarity         = Limited
+|event          = Ashfall
+|sea            = First Sea
+|location       = [[Ashfall]]
+|sublocation    = 
+|sources        = Fishing Rod
+|nopassive      = 1
+|radar_location = 
+|xp             = 170
+|weather        = Rain
+|time           = 
+|season         = 
+|bait           = Insect
+|base_weight    = 75
+|base_value     = 350
+|weight_range   = 30
+|base_chance    = 75
+|base_resil     = 90
+}}
+'''Lava Lamprey''' is a {{Rarity|Limited}} fish found in [[Roslit Bay]]'s saltwater during the [[Ashfall]] event.
+
+== Description ==
+{{Description|With a resemblance to a lava lamp, the Lava Lamprey has a stylish color scheme. Don't look too close...|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Only can be caught during Ashfall.|Bestiary Hint}}
+{{Fish Availability|
+Roslit Bay/Ashfall
+|top_rods      = 
+Fast Rod\173746.6\168558.97;
+No-Life Rod\172443.82\167307.87;
+Seraphic Rod\171764.97\166649.23;
+Leviathan's Fang Rod\171356.18\164962.87;
+Trident Rod\169810.72\116486.89;
+Lucky Rod\120317.29\88600.72;
+Rod Of The Exalted One\142811.36\136215.94;
+Tempest Rod\165712.64\160777.16;
+Free Spirit Rod\168070.78\116344.21;
+Ethereal Prism Rod\167581.64\117843.94;
+Depthseeker Rod\161412.35\130102.61;
+Avalanche Rod\160271.48\116972.68;
+Blazebringer Rod\159693.21\134301.97;
+Verdant Shear Rod\159550.38\142600.97;
+Zeus Rod\158710.82\142235.33;
+Challenger's Rod\157218.63\152536.13;
+Rod Of The Forgotten Fang\156845.57\152174.18;
+Volcanic Rod\155026.85\108031.04;
+Rod Of The Depths\149676.65\138634.29;
+Steady Rod\85587.79\58763.99
+|recommended   = No-Life Rod
+}}
+
+== Gameplay Notes ==
+* Lava Lamprey usually cannot be caught with passive effects, such as the one provided by the [[Rod Of The Depths]] and [[Rod Of The Forgotten Fang]].
+** The only exception is when catching a Lava Lamprey on the Megalodon Passive reel of the [[Rod Of The Forgotten Fang]], the Megalodon will instead dupe the Lava Lamprey.
+
+== Catch Quips ==
+When catching a Lava Lamprey, the player has a chance to make one of the following exclamations:
+* Woah. a Lava Lamprey!
+* Pretty!
+* Straight out of the '60s!
+* Trippy!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ashfall}}

@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Subzero Stargazer.png
+|rarity         = Uncommon
+|sea            = First Sea
+|location       = [[Challenger's Deep]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 110
+|weather        = 
+|time           = Day
+|season         = Winter
+|bait           = Flakes
+|base_weight    = 4.5
+|base_value     = 100
+|weight_range   = 2.5
+|base_chance    = 50
+|base_resil     = 80
+}}
+'''Subzero Stargazer''' is an {{Rarity|Uncommon}} fish found in the [[Challenger's Deep]] of [[Mariana's Veil]].
+
+== Description ==
+{{Description|A unique fish with glowing eyes that stare into the abyss. Its body is covered in frost.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Lurks near the surface of freezing waters, seeking light.|Bestiary Hint}}
+{{Fish Availability|
+Mariana's Veil/Challenger's Deep
+|top_rods      = 
+Rapid Rod\260129.66\62252.86;
+Fungal Rod\250108.82\63727.4;
+Firefly Rod\247980.57\72564.73;
+Crystalized Rod\247020.42\42946.03;
+Firework Rod\247020.42\42946.03;
+Antler Rod\232994.54\59366.7;
+Nocturnal Rod\160408.85\138761.6;
+Training Rod\215336.13\74700.68;
+Fast Rod\238245.93\65809.19;
+Plastic Rod\180937.66\53197.12;
+Depthseeker Rod\246574.57\40996.31;
+Avalanche Rod\243336.69\36798.37;
+Verdant Shear Rod\237261.59\44854.85;
+No-Life Rod\237098.95\52794.75;
+Ethereal Prism Rod\236593.15\55887.37;
+Seraphic Rod\235831.07\52512.43;
+Trident Rod\228189.48\36951.14;
+Blazebringer Rod\226875.23\42288.34;
+Free Spirit Rod\225600.08\36887.52;
+Zeus Rod\224884.62\44819.42;
+Volcanic Rod\219643.76\34011.3;
+Challenger's Rod\217658.5\48065.28;
+Rod Of The Forgotten Fang\215346.93\47951.23;
+Rod Of The Depths\201792.43\43612.89;
+Rod Of The Exalted One\183924.53\40954.42;
+Steady Rod\131030.46\27105.63
+|recommended   = Depthseeker Rod
+}}
+
+== Catch Quips ==
+When catching a Subzero Stargazer, the player has a chance to make one of the following exclamations:
+* A Subzero Stargazer!
+* Rollin', Rollin', Rollin'...
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Challenger's Deep}}

@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Rockstar Hermit Crab.png
+|rarity         = Unusual
+|sea            = First Sea
+|location       = [[Desolate Deep]]
+|sublocation    = 
+|sources        = Crab Cage
+|radar_location = 
+|xp             = 75
+|weather        = Foggy
+|time           = 
+|season         = Summer
+|bait           = 
+|base_weight    = 1.2
+|base_value     = 65
+|weight_range   = 0.8
+|base_chance    = 425
+|base_resil     = 100
+}}
+'''Rockstar Hermit Crab''' is an {{Rarity|Unusual}} fish found in the [[Desolate Deep]].
+
+== Description ==
+{{Description|The Rockstar Hermit Crab is a unique evolutionary species, originating from the simple hermit crab. They possess antennae resembling two lightning-bolts on either side of their head, which is where their name comes from. Caught with rods or crab cages in the Desolate Deep.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Caught in the Desolate Deep using a crab cage.|Bestiary Hint}}
+{{Fish Availability|
+Desolate Deep/Desolate Pocket
+|top_rods      = 
+Flimsy Rod\300976.59\142125.54;
+Training Rod\282589.66\145038.56;
+Krampus's Rod\181678.24\96602.47;
+Magma Rod\176392.43\93343.12;
+Leviathan's Fang Rod\174213.35\144699.34;
+Plastic Rod\161184.9\88217.12;
+Trident Rod\164695.69\136361.23;
+Free Spirit Rod\163471.62\135347.75;
+Lucky Rod\120388\106755.22;
+No-Life Rod\156150.84\128615.06;
+Ethereal Prism Rod\153689.55\123080.64;
+Seraphic Rod\152067.43\123938.98;
+Rod Of The Forgotten Fang\149243\122587.27;
+Challenger's Rod\148908.54\123127.44;
+Rod Of The Exalted One\145626.6\121313.74;
+Rod Of The Depths\144557.27\119687.45;
+Depthseeker Rod\143060.21\115634.38;
+Blazebringer Rod\142974.25\117419.94;
+Zeus Rod\142886.48\116896.81;
+Verdant Shear Rod\142558.54\116918.82;
+Avalanche Rod\142162.36\114973.1;
+Volcanic Rod\138858.89\114040.13;
+Steady Rod\74836.84\61501.14
+|recommended   = Training Rod
+}}
+
+== Catch Quips ==
+When catching a Rockstar Hermit Crab, the player has a chance to make one of the following exclamations:
+* A Rockstar Hermit Crab!
+* Woah! A Rockstar Hermit Crab
+* Hey now, you're a rockstar.
+* Ou! A Rockstar Hermit Crab!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Desolate Deep}}

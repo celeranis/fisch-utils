@@ -1,0 +1,65 @@
+{{FishInfobox
+|image          = Firecrest.png
+|rarity         = Common
+|sea            = Second Sea
+|location       = [[Emberreach]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = +7
+|xp             = 23
+|weather        = Rain
+|time           = Night
+|season         = Summer
+|bait           = Ember Berries
+|base_weight    = 360
+|base_value     = 47
+|weight_range   = 216
+|base_chance    = 102
+|base_resil     = 62
+}}
+'''Firecrest''' is a {{Rarity|Common}} fish found in [[Emberreach]].
+
+== Description ==
+{{Description|A bold fish, its fins sharp and crowned with a fiery gleam.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It crests where the warm rains fuel the dark.|Bestiary Hint}}
+{{Fish Availability|
+Emberreach/Freshwater Pond
+|top_rods      = 
+Firefly Rod\538222.98\666055.47;
+Free Spirit Rod\420210.38\402264.46;
+Buddy Bond Rod\417144.74\368458.63;
+Azure Of Lagoon\363688.77\378576.93;
+Trident Rod\352601.32\312018.31;
+Resourceful Rod\283223.36\248286.17;
+Verdant Shear Rod\338349.8\405700.98;
+Wildflower Rod\303646.35\297841.89;
+Blazebringer Rod\316493.04\347559.27;
+No-Life Rod\288238.9\262923.73;
+Ethereal Prism Rod\273989.22\276276.12;
+Seraphic Rod\272886.88\241478.68;
+Rod Of The Forgotten Fang\261525.68\232064.9;
+Challenger's Rod\260941.29\237309.53;
+Depthseeker Rod\259306.24\244249.18;
+Rod Of The Exalted One\257902.03\226720.96;
+Avalanche Rod\256527.37\241986.08;
+Rod Of The Depths\255944.44\230634.5;
+Volcanic Rod\254636.81\234780.17;
+Zeus Rod\253572.68\233799.03;
+Steady Rod\209526.5\238489.16
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Firecrest, the player has a chance to make one of the following exclamations:
+* A Firecrest!
+* Orange crown!
+* Fiery gaze!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Emberreach}}

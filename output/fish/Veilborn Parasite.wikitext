@@ -1,0 +1,65 @@
+{{FishInfobox
+|image          = Veilborn Parasite.png
+|rarity         = Limited
+|event          = Cults Curse
+|sea            = First Sea
+|location       = [[Cults Curse]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -75
+|xp             = 2600
+|weather        = 
+|time           = 
+|season         = 
+|bait           = 
+|base_weight    = 23
+|base_value     = 7000
+|weight_range   = 14.5
+|base_chance    = 2
+|base_resil     = 5
+}}
+'''Veilborn Parasite''' is a {{Rarity|Limited}} fish found in [[Cults Curse]] during the [[Cults Curse]] event.
+
+== Description ==
+{{Description|From an unknown origin, the Veilborn Parasite clings, with tendrils threading through its target.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Can only be caught in the Cursed Pool.|Bestiary Hint}}
+{{Fish Availability|
+Cults Curse
+|top_rods      = 
+Training Rod\78145.57\221795.14;
+Flimsy Rod\60843.08\164968.26;
+Leviathan's Fang Rod\55417.58\137039.18;
+Free Spirit Rod\54344.51\138654.17;
+Seraphic Rod\47752.49\112154.87;
+Plastic Rod\31213.92\83258.99;
+Trident Rod\47534.95\121280.31;
+No-Life Rod\47273.61\112416.36;
+Ethereal Prism Rod\46881.75\108959.97;
+Challenger's Rod\45121.88\108586.5;
+Rod Of The Forgotten Fang\42411.08\99736.58;
+Zeus Rod\35947.01\85882.76;
+Rod Of The Depths\35943.36\84862.81;
+Rod Of The Exalted One\35447.12\82849.32;
+Verdant Shear Rod\35264.88\84676.3;
+Depthseeker Rod\35182.91\84627.56;
+Blazebringer Rod\35131.36\83934.06;
+Avalanche Rod\30190.87\72671.68;
+Volcanic Rod\28163.61\67287.06;
+Steady Rod\10258.47\26499.37
+|recommended   = Training Rod
+}}
+
+== Catch Quips ==
+When catching a Veilborn Parasite, the player has a chance to make one of the following exclamations:
+* A Veilborn Parasite!?
+* Not quite appetizing...
+* Parasitic!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Cults Curse}}

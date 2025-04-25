@@ -1,0 +1,65 @@
+{{FishInfobox
+|image          = Emperor Jellyfish.png
+|rarity         = Mythical
+|sea            = First Sea
+|location       = [[Desolate Deep]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -75
+|xp             = 4500
+|weather        = Rain
+|time           = 
+|season         = 
+|bait           = Magnet
+|base_weight    = 800
+|base_value     = 6000
+|weight_range   = 300
+|base_chance    = 0.03
+|base_resil     = 20
+}}
+'''Emperor Jellyfish''' is a {{Rarity|Mythical}} fish found in the [[Desolate Deep]].
+
+== Description ==
+{{Description|The Emperor Jellyfish is a very unique and incredibly rare breed of jellyfish, only found in the gloomy waters of the Desolate Deep. They carry around a stalactite in which they use as an offense mechanism against their prey. They are extremely electrifying to the touch, which makes them a menacing catch for most anglers.|Bestiary Entry}}
+
+== Obtainment ==
+{{Fish Availability|
+Desolate Deep/Desolate Pocket
+|top_rods      = 
+Leviathan's Fang Rod\7401.92\42839.03;
+Free Spirit Rod\7158.62\41381.33;
+Seraphic Rod\6657.29\37526.78;
+Ethereal Prism Rod\6588.84\36925.77;
+No-Life Rod\6551.42\37177.06;
+Resourceful Rod\4758.65\26546.28;
+Destiny Rod\4886.5\27221.9;
+Heaven's Rod\4533.88\25320.47;
+Tempest Rod\6523.11\36930.12;
+Trident Rod\6261.62\36196.1;
+Challenger's Rod\6234.96\35353.27;
+Rod Of The Forgotten Fang\5971.88\33686.55;
+Rod Of The Depths\5162.03\29180.94;
+Zeus Rod\5117.25\29110.15;
+Rod Of The Exalted One\5060.35\28448.72;
+Verdant Shear Rod\5050.49\28805.23;
+Blazebringer Rod\4978\28318.04;
+Depthseeker Rod\4910.54\28032.35;
+Avalanche Rod\4289.01\24493.22;
+Volcanic Rod\4013.53\22831.49;
+Steady Rod\1446.68\8319.2
+|recommended   = Seraphic Rod
+}}
+
+== Catch Quips ==
+When catching an Emperor Jellyfish, the player has a chance to make one of the following exclamations:
+* WOAH! AN EMPEROR JELLYFISH!!
+* NO WAY!!
+* I CAUGHT THE EMPEROR JELLYFISH!!
+* IT STINGS!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Desolate Deep}}

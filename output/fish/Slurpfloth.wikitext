@@ -1,0 +1,69 @@
+{{FishInfobox
+|image          = Slurpfloth.png
+|rarity         = Limited
+|event          = Animal Hunt
+|sea            = Second Sea
+|location       = [[Animals: Octophant]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -45
+|xp             = 1700
+|weather        = Rain
+|time           = 
+|season         = Winter
+|bait           = Fish Head
+|base_weight    = 370
+|base_value     = 1200
+|weight_range   = 275
+|base_chance    = 20
+|base_resil     = 25
+}}
+'''Slurpfloth''' is a {{Rarity|Limited}} fish found in [[Octophant Hunt]]s in the [[Second Sea]].
+
+== Description ==
+{{Description|A lazy, sloth-like swimmer with drooping fins, nibbling slowly in the dark waters.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It hangs where the rain drizzles over the sea.|Bestiary Hint}}
+{{Fish Availability|
+Octophant Hunt/Octophant Catchable
+Octophant Hunt/Octophant Uncatchable
+|top_rods      = 
+Free Spirit Rod\414239.03\381889.73;
+Trident Rod\348049.17\321308.29;
+Verdant Shear Rod\280365.17\279339.32;
+Firefly Rod\273831.95\272908.1;
+Leviathan's Fang Rod\253199.34\249404.07;
+Resourceful Rod\210330.3\209601.82;
+North-Star Rod\173965\173231.88;
+Event Horizon Rod\173119.22\173897.31;
+Astral Rod\173119.22\173897.31;
+Blazebringer Rod\226682.47\208980.23;
+No-Life Rod\171686.86\168309.87;
+Seraphic Rod\145091.63\142736.29;
+Ethereal Prism Rod\142407.99\140341.3;
+Challenger's Rod\138882.84\136228.52;
+Rod Of The Forgotten Fang\128098.49\125985.63;
+Depthseeker Rod\123092.67\120396.44;
+Steady Rod\116630.62\126521.46;
+Rod Of The Exalted One\114624\112864.1;
+Rod Of The Depths\114614.87\112619.24;
+Avalanche Rod\114614.48\111965.67;
+Volcanic Rod\108734.15\105169.02;
+Zeus Rod\105480.45\104153.17
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Slurpfloth, the player has a chance to make one of the following exclamations:
+* A Slurpfloth!
+* Sloth of the sea!
+* Lazy tide lounger!
+* Slow-munchin’ drifter!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Animals: Octophant}}

@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Tempest Ray.png
+|rarity         = Uncommon
+|sea            = First Sea
+|location       = [[Atlantean Storm]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 150
+|weather        = Windy
+|time           = 
+|season         = Winter
+|bait           = Seaweed
+|base_weight    = 2
+|base_value     = 250
+|weight_range   = 1.5
+|base_chance    = 65
+|base_resil     = 65
+}}
+'''Tempest Ray''' is an {{Rarity|Uncommon}} fish found in the [[Atlantean Storm]].
+
+== Description ==
+{{Description|A swift, flat-bodied ray with unique storm-pattern markings. They use their wing-like fins to glide through turbulent waters with ease, often found in groups near the surface of stormy seas.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found swimming in the upper waters of the Atlantean Storm.|Bestiary Hint}}
+{{Fish Availability|
+Grand Reef/Atlantean Storm
+|top_rods      = 
+No-Life Rod\322094.99\318261.26;
+Rapid Rod\320652.99\297813.23;
+Firefly Rod\319801.47\291785.04;
+Trident Rod\316944.04\224878.06;
+Seraphic Rod\315382.06\315382.06;
+Flimsy Rod\228150\273541.67;
+Training Rod\311071.43\312000;
+Fungal Rod\310622.49\286037;
+Fast Rod\311528.5\311528.5;
+Leviathan's Fang Rod\309955.88\308736.24;
+Magnet Rod\192617.63\192617.63;
+Free Spirit Rod\308962.6\224220.25;
+Ethereal Prism Rod\300668.73\210775.71;
+Depthseeker Rod\289839.11\246121.69;
+Verdant Shear Rod\289440.81\268803.94;
+Challenger's Rod\288845\288845;
+Rod Of The Forgotten Fang\287929.24\287929.24;
+Avalanche Rod\286210.46\220610.69;
+Blazebringer Rod\286157.8\253564.09;
+Zeus Rod\284043.34\268649.98;
+Volcanic Rod\277306.07\203881.58;
+Rod Of The Depths\261464.52\261464.52;
+Rod Of The Exalted One\245626.84\245626.84;
+Steady Rod\156011.28\111171.76
+|recommended   = No-Life Rod
+}}
+
+== Catch Quips ==
+When catching a Tempest Ray, the player has a chance to make one of the following exclamations:
+* A Tempest Ray!
+* The storm's getting Ray-l!
+* I caught a Tempest Ray!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Atlantean Storm}}

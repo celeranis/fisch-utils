@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Squirrelray.png
+|rarity         = Limited
+|event          = Animal Hunt
+|sea            = First Sea
+|location       = [[Animals]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = +3
+|xp             = 1050
+|weather        = Windy
+|time           = 
+|season         = Winter
+|bait           = Bagel
+|base_weight    = 29
+|base_value     = 450
+|weight_range   = 20
+|base_chance    = 70
+|base_resil     = 60
+}}
+'''Squirrelray''' is a {{Rarity|Limited}} fish found in [[Animal Hunt]]s in the [[First Sea]].
+
+== Description ==
+{{Description|A nimble ray with a bushy tail, hoarding treasures in the sand.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It scurries where the winds whip the surface.|Bestiary Hint}}
+{{Fish Availability|
+Animal Hunt/First Sea
+|top_rods      = 
+Training Rod\365658.84\580582.52;
+Flimsy Rod\191943.87\164087.01;
+Leviathan's Fang Rod\153293.62\162568.19;
+Trident Rod\152275.18\90635.56;
+Free Spirit Rod\147461.41\90303.47;
+Resourceful Rod\119106.84\124863.35;
+Rapid Rod\129355.63\138909.85;
+Abyssal Specter Rod\133046.1\137783.16;
+No-Life Rod\138024.87\127756.5;
+Blazebringer Rod\128215.74\132780.81;
+Zeus Rod\127266.18\131797.45;
+Verdant Shear Rod\127252\128322.5;
+Depthseeker Rod\127103.09\130072.37;
+Seraphic Rod\126380.37\126380.37;
+Ethereal Prism Rod\125722.29\125867.65;
+Avalanche Rod\125173.36\117269.17;
+Challenger's Rod\124801.24\115736.4;
+Volcanic Rod\124207.97\128630.35;
+Rod Of The Forgotten Fang\119107.63\115374.24;
+Rod Of The Depths\118304.32\104751.68;
+Rod Of The Exalted One\115095.83\110330.94;
+Steady Rod\66672.39\65342.79
+|recommended   = Training Rod
+}}
+
+== Catch Quips ==
+When catching a Squirrelray, the player has a chance to make one of the following exclamations:
+* A Squirrelray!
+* Nuts!
+* Tail of the tide!
+* Squirrel of the sea!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Animals}}

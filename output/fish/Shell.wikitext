@@ -1,0 +1,38 @@
+{{FishInfobox
+|image          = Shell.png
+|rarity         = Common
+|sea            = Second Sea
+|location       = Regionless
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 0
+|weather        = 
+|time           = 
+|season         = 
+|bait           = 
+|base_weight    = 1
+|base_value     = 0
+|weight_range   = 0.5
+|base_chance    = 0
+|base_resil     = 100
+}}
+'''Shell''' is a {{Rarity|Common}} fish found in any body of water.
+
+== Description ==
+{{Description|A swift, shrimp-like creature with a tail that flicks like a whip, stashing shells in hidden burrows.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It darts through the mist where the waves whisper.|Bestiary Hint}}
+
+== Catch Quips ==
+When catching a Shell, the player has a chance to make one of the following exclamations:
+* A Shrimpanzee!
+* Tail-whippin' treasure!
+* Burrow bandit!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Regionless}}

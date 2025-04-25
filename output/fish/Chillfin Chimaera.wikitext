@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Chillfin Chimaera.png
+|rarity         = Mythical
+|sea            = First Sea
+|location       = [[Challenger's Deep]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -50
+|xp             = 2800
+|weather        = 
+|time           = Night
+|season         = Winter
+|bait           = Fish Head
+|base_weight    = 2600
+|base_value     = 4000
+|weight_range   = 1700
+|base_chance    = 8
+|base_resil     = 8
+}}
+'''Chillfin Chimaera''' is a {{Rarity|Mythical}} fish found in the [[Challenger's Deep]] of [[Mariana's Veil]].
+
+== Description ==
+{{Description|A ghostly fish with glowing fins and a long, whip-like frosty tail.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Appears in the deepest, coldest waters, especially in the dark.|Bestiary Hint}}
+{{Fish Availability|
+Mariana's Veil/Challenger's Deep
+|top_rods      = 
+Leviathan's Fang Rod\217425.01\284279.77;
+Free Spirit Rod\210978\279274.29;
+Trident Rod\199574.18\260852.17;
+Azure Of Lagoon\158347.34\208261.92;
+No-Life Rod\156525.09\226933.73;
+Midas Rod\58332.19\82026.77;
+Phoenix Rod\108737.09\142236.32;
+Wisdom Rod\108747.72\143191.01;
+Magma Rod\87233.76\133462.68;
+Krampus's Rod\91396.93\135858.7;
+Magnet Rod\62239.49\83074.18;
+Seraphic Rod\141487.97\182310.33;
+Ethereal Prism Rod\139979.67\180566.43;
+Challenger's Rod\135547.78\179119.3;
+Rod Of The Forgotten Fang\131731.77\170720.55;
+Zeus Rod\118065.24\152616.83;
+Verdant Shear Rod\117962.05\154356.81;
+Rod Of The Depths\116025.46\149649.97;
+Blazebringer Rod\113810.66\148772.76;
+Depthseeker Rod\112384.32\146569.81;
+Rod Of The Exalted One\111849.48\144714.29;
+Avalanche Rod\98885.89\127998.62;
+Volcanic Rod\92139.62\119443.46;
+Steady Rod\37392.11\48963.53
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Chillfin Chimaera, the player has a chance to make one of the following exclamations:
+* A CHILLFIN CHIMAERA!?
+* SPOOKY!
+* CHILLING!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Challenger's Deep}}

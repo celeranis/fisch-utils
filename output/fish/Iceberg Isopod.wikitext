@@ -1,0 +1,66 @@
+{{FishInfobox
+|image          = Iceberg Isopod.png
+|rarity         = Rare
+|sea            = First Sea
+|location       = [[Challenger's Deep]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 350
+|weather        = Windy
+|time           = Night
+|season         = Winter
+|bait           = Minnow
+|base_weight    = 24
+|base_value     = 400
+|weight_range   = 14.5
+|base_chance    = 15
+|base_resil     = 50
+}}
+'''Iceberg Isopod''' is a {{Rarity|Rare}} fish found in the [[Challenger's Deep]] of [[Mariana's Veil]].
+
+== Description ==
+{{Description|An armored isopod that thrives in the freezing depths.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found near underwater ice formations in the dark, especially during windy weather.|Bestiary Hint}}
+{{Fish Availability|
+Mariana's Veil/Challenger's Deep
+|top_rods      = 
+Rapid Rod\312100.52\314638.7;
+Leviathan's Fang Rod\299882.83\267306.39;
+Firefly Rod\299288.67\301427.6;
+Trident Rod\293517.24\261242.26;
+Fast Rod\292162.91\294101.59;
+Long Rod\241460.04\255717.22;
+Frog Rod\271070.97\272792.94;
+Lucky Rod\244268.08\246141.61;
+Plastic Rod\257373.53\259567.88;
+Free Spirit Rod\280611.66\252940.99;
+No-Life Rod\239840.61\220863.96;
+Seraphic Rod\219751.7\202075.21;
+Challenger's Rod\218537.2\194356.26;
+Ethereal Prism Rod\217813.22\197478.34;
+Rod Of The Forgotten Fang\216890.24\193383.15;
+Zeus Rod\210529.54\186712.95;
+Rod Of The Exalted One\209816.35\186937.64;
+Rod Of The Depths\207330.17\184308.04;
+Blazebringer Rod\205249.02\189649.68;
+Verdant Shear Rod\205217.35\189583.18;
+Volcanic Rod\196743.62\179850.8;
+Depthseeker Rod\196102.81\179265;
+Avalanche Rod\175170.24\169487.38;
+Steady Rod\90116.88\79613.28
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching an Iceberg Isopod, the player has a chance to make one of the following exclamations:
+* An Iceberg Isopod!
+* It's like a living iceberg!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Challenger's Deep}}

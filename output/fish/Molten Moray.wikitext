@@ -1,0 +1,69 @@
+{{FishInfobox
+|image          = Molten Moray.png
+|rarity         = Rare
+|sea            = First Sea
+|location       = [[Volcanic Vents]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 450
+|weather        = Rain
+|time           = 
+|season         = Spring
+|bait           = Minnow
+|base_weight    = 23
+|base_value     = 1300
+|weight_range   = 15
+|base_chance    = 15
+|base_resil     = 35
+}}
+'''Molten Moray''' is a {{Rarity|Rare}} fish found in [[Volcanic Vents]] of [[Mariana's Veil]].
+
+== Description ==
+{{Description|A long, slender fish with dark, heat-resistant scales. Hot to the touch.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Small yet blindingly bright. When it rains, it hunts.|Bestiary Hint}}
+{{Fish Availability|
+Mariana's Veil/Volcanic Vents
+|top_rods      = 
+Rapid Rod\612430\277003.89;
+Firefly Rod\594531.33\257873.08;
+Fast Rod\565698.59\248239.44;
+Trident Rod\551510.5\186165.85;
+Krampus's Rod\542905.65\193632.23;
+Long Rod\422700.12\189375.15;
+Frog Rod\453034.57\190498.21;
+Candy Cane Rod\398755.57\166399.71;
+Fungal Rod\495657.71\216816.16;
+Wildflower Rod\462881.38\204030.59;
+Lucky Rod\455212.71\203579.76;
+Free Spirit Rod\490465.74\165913.98;
+No-Life Rod\388082.4\130476.79;
+Training Rod\387098.37\161535.19;
+Challenger's Rod\341182.65\118557.38;
+Seraphic Rod\339898.77\125396.17;
+Rod Of The Forgotten Fang\334232.84\119570.72;
+Ethereal Prism Rod\333015.21\125791.15;
+Rod Of The Exalted One\316801.78\109249.84;
+Verdant Shear Rod\313247.31\109020.29;
+Rod Of The Depths\312394.46\108293.87;
+Zeus Rod\311949.89\108780.2;
+Blazebringer Rod\308663.33\104876.42;
+Depthseeker Rod\291259.2\100441.42;
+Avalanche Rod\263626.4\90733.79;
+Volcanic Rod\261223.47\86020.59;
+Steady Rod\100389.1\33244.64
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Molten Moray, the player has a chance to make one of the following exclamations:
+* A Molten Moray!
+* It melted my hook!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Volcanic Vents}}

@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Abyss Dart.png
+|rarity         = Rare
+|sea            = Second Sea
+|location       = [[Waveborne]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -10
+|xp             = 200
+|weather        = Rain
+|time           = Night
+|season         = Winter
+|bait           = Squid
+|base_weight    = 180
+|base_value     = 400
+|weight_range   = 115
+|base_chance    = 30
+|base_resil     = 40
+}}
+'''Abyss Dart''' is a {{Rarity|Rare}} fish found in [[Waveborne]].
+
+== Description ==
+{{Description|A lilac colored fish with light purple fins and a sharp, pointed snout, piercing the abyss like a dart.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It hunts in the darkest corners of the sea.|Bestiary Hint}}
+{{Fish Availability|
+Waveborne
+|top_rods      = 
+Steady Rod\248609.49\215559.88;
+Frostfire Rod\241533.32\209424.4;
+Krampus's Rod\201892.01\267831.29;
+Magma Rod\199437.4\261466.98;
+North-Star Rod\185832.13\236735.8;
+Adventurer's Rod\131916.06\319427;
+Fast Rod\157240.71\299956.31;
+Resourceful Rod\130530.99\278018.89;
+Candy Cane Rod\141770.57\277183.83;
+Free Spirit Rod\128776.86\200275.05;
+Verdant Shear Rod\105157.27\150020.44;
+Blazebringer Rod\102033.74\142835.94;
+Trident Rod\99201.77\127864.58;
+No-Life Rod\70481.4\98106.09;
+Ethereal Prism Rod\70388.09\100228.46;
+Seraphic Rod\68878.01\102064.99;
+Rod Of The Exalted One\66045.24\95884.01;
+Rod Of The Forgotten Fang\65353.29\96162.15;
+Rod Of The Depths\64067.48\92205.15;
+Challenger's Rod\64012.24\90429.49;
+Volcanic Rod\61969.88\86862.38;
+Zeus Rod\61755.24\86561.53;
+Depthseeker Rod\61489.91\87780.54;
+Avalanche Rod\61092.97\87376.96
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching an Abyss Dart, the player has a chance to make one of the following exclamations:
+* An Abyss Dart!
+* Pointy and purple!
+* Darted right in!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Waveborne}}

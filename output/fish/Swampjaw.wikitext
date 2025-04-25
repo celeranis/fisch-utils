@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Swampjaw.png
+|rarity         = Unusual
+|sea            = Second Sea
+|location       = [[Azure Lagoon]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -32
+|xp             = 95
+|weather        = Rain
+|time           = Night
+|season         = Autumn
+|bait           = Insect
+|base_weight    = 120
+|base_value     = 200
+|weight_range   = 72
+|base_chance    = 75
+|base_resil     = 28
+}}
+'''Swampjaw''' is an {{Rarity|Unusual}} fish found in the [[Azure Lagoon]].
+
+== Description ==
+{{Description|A long, dark green fish with yellow fins, its jaws snapping in the swamp.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It lurks where the rain feeds the gloom.|Bestiary Hint}}
+{{Fish Availability|
+Azure Lagoon
+|top_rods      = 
+Free Spirit Rod\258268.13\130540.12;
+Leviathan's Fang Rod\248811.55\229470.93;
+Trident Rod\240989.28\230843.05;
+Azure Of Lagoon\202341.13\144985.09;
+Egg Rod\169181.12\157720.36;
+Plastic Rod\130194.82\130194.82;
+Fischer's Rod\134985.89\131075.04;
+Lucky Rod\129146.26\134449.03;
+No-Life Rod\164319.82\150988.7;
+Verdant Shear Rod\161926.48\150074.27;
+Candy Cane Rod\115094.59\111121.76;
+Blazebringer Rod\154499.01\142489.48;
+Seraphic Rod\141474.55\135518.14;
+Ethereal Prism Rod\140396.9\120957.93;
+Challenger's Rod\132663.69\121198.8;
+Rod Of The Forgotten Fang\128247.13\122467.68;
+Depthseeker Rod\124462.82\118692.37;
+Rod Of The Exalted One\121830.26\113533.49;
+Avalanche Rod\114476.9\109297.51;
+Rod Of The Depths\113605.75\103969.25;
+Volcanic Rod\111813.64\104304.51;
+Zeus Rod\111640.51\104143.01;
+Steady Rod\101166.32\97627.51
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Swampjaw, the player has a chance to make one of the following exclamations:
+* A Swampjaw!
+* Green snapper!
+* Yellow-finned terror!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Azure Lagoon}}

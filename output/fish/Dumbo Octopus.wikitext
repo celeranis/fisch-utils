@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Dumbo Octopus.png
+|rarity         = Legendary
+|sea            = First Sea
+|location       = [[Roslit Bay]]
+|sublocation    = Coral Reef
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -15
+|xp             = 400
+|weather        = Rain
+|time           = 
+|season         = Winter
+|bait           = Worm
+|base_weight    = 4
+|base_value     = 900
+|weight_range   = 2.5
+|base_chance    = 0.1
+|base_resil     = 30
+}}
+'''Dumbo Octopus''' is a {{Rarity|Legendary}} fish found in [[Roslit Bay]].
+
+== Description ==
+{{Description|The Dumbo Octopus is a deep-sea dweller, named for its ear like fins that resemble the ears of Disney's famous elephant character. With a soft, gelatinous body and gentle movements, it glides through the oceans and coral reefs of Roslit Bay.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Caught in Roslit Bays coral reef.|Bestiary Hint}}
+{{Fish Availability|
+Roslit Bay/Coral Reef
+Roslit Bay/Surrounding Ocean
+|top_rods      = 
+Leviathan's Fang Rod\70217.4\207609.5;
+Trident Rod\61972.16\196772.32;
+Free Spirit Rod\58526.59\185832.03;
+No-Life Rod\47325.34\142795.57;
+Ethereal Prism Rod\47072.5\120506.92;
+Flimsy Rod\29658.68\110020.44;
+Training Rod\29768.87\119874.1;
+Lucky Rod\28470.07\97893.12;
+Azure Of Lagoon\41106.46\144311.01;
+Firefly Rod\39972.58\135575.3;
+Seraphic Rod\46364.91\123361.35;
+Rod Of The Forgotten Fang\43327.76\120713.21;
+Challenger's Rod\42718.07\123749.88;
+Rod Of The Depths\39075.36\110373.37;
+Zeus Rod\39028.1\114856.7;
+Verdant Shear Rod\38606.89\111502.31;
+Rod Of The Exalted One\37816.76\111825.3;
+Blazebringer Rod\37120.74\109896.45;
+Depthseeker Rod\35740.47\105133.5;
+Avalanche Rod\32175.23\97158.78;
+Volcanic Rod\30421.86\101272.93;
+Steady Rod\12177.76\51207.29
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Dumbo Octopus, the player has a chance to make one of the following exclamations:
+* Woah, I caught a Dumbo!
+* A Dumbo Octopus!
+* No way! A Dumbo Octupus!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Roslit Bay}}

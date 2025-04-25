@@ -1,0 +1,25 @@
+{{BaitInfobox
+|image          = Bait Golden Worm.png
+|rarity         = Exotic
+|crates         = 
+|angler_quests  = <!--TBD-->
+|pref_luck      = 200
+|univ_luck      = 100
+|resilience     = 45
+|lure           = 20
+|ability        = 
+}}
+'''Golden Worm''' is an {{Rarity|Exotic}} [[Bait]] that can be used in fishing.
+
+== Obtainment ==
+Golden Worms can be obtained in the following ways:
+<!--* [[Angler]] Quests, starting from the ?th completion-->
+
+== Favoring Fish ==
+{{Fish by Category Table|Golden Worm-Loving Fish|event=1|show_location=1|hide_bait=1|resultsheader='''%PAGES%''' [[Fish]] prefer Golden Worms:|noresultsheader=No fish prefer Golden Worms.}}
+
+== Change History ==
+{{Change History|1.0}}
+
+== Navigation ==
+{{Bait Navbox}}

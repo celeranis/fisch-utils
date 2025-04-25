@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Reed Striker.png
+|rarity         = Rare
+|sea            = Second Sea
+|location       = [[Azure Lagoon]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -28
+|xp             = 240
+|weather        = Windy
+|time           = Night
+|season         = Summer
+|bait           = Minnow
+|base_weight    = 156
+|base_value     = 515
+|weight_range   = 96
+|base_chance    = 42
+|base_resil     = 23
+}}
+'''Reed Striker''' is a {{Rarity|Rare}} fish found in the [[Azure Lagoon]].
+
+== Description ==
+{{Description|A beige-cyan fish with yellow fins, striking from the reeds with precision.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It lunges where the wind rustles the water.|Bestiary Hint}}
+{{Fish Availability|
+Azure Lagoon
+|top_rods      = 
+Trident Rod\115796.79\57678.5;
+Leviathan's Fang Rod\100414.59\57704.32;
+No-Life Rod\92979.03\85435.72;
+Firefly Rod\85799.67\83165.63;
+Egg Rod\83328.48\83328.48;
+Candy Cane Rod\61659.38\61659.38;
+Lucky Rod\53707.31\52776.5;
+Fast Rod\61644.99\61644.99;
+Verdant Shear Rod\80067.45\80067.45;
+Great Dreamer Rod\77966.51\77966.51;
+Blazebringer Rod\75975.97\75975.97;
+Challenger's Rod\72597.84\66323.89;
+Free Spirit Rod\72443.03\73862.08;
+Depthseeker Rod\67066.32\63956.93;
+Seraphic Rod\66608.41\50410.09;
+Avalanche Rod\65282.62\62328.97;
+Volcanic Rod\62801.46\58583.87;
+Rod Of The Depths\62281.77\46716.65;
+Rod Of The Forgotten Fang\60795.65\47415.94;
+Zeus Rod\60590.15\56521.06;
+Steady Rod\55950.99\53762.24;
+Ethereal Prism Rod\51394.28\49744.94;
+Rod Of The Exalted One\50311.95\46896.59
+|recommended   = Verdant Shear Rod
+}}
+
+== Catch Quips ==
+When catching a Reed Striker, the player has a chance to make one of the following exclamations:
+* A Reed Striker!
+* Beige bolt!
+* Yellow ambush!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Azure Lagoon}}

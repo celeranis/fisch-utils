@@ -1,0 +1,27 @@
+{{BaitInfobox
+|image          = Bait Worm.png
+|rarity         = Common
+|crates         = Bait Crate/0.34, Common Crate/0.18
+|angler_quests  = <!--TBD-->
+|pref_luck      = 25
+|univ_luck      = 
+|resilience     = 
+|lure           = 15
+|ability        = 
+}}
+'''Worm''' is a {{Rarity|Common}} [[Bait]] that can be used in fishing.
+
+== Obtainment ==
+Worms can be obtained in the following ways:
+* {{Item|Bait Crate}} (0.34/crate on average)
+* {{Item|Common Crate}} (0.18/crate on average)
+<!--* [[Angler]] Quests, starting from the ?th completion-->
+
+== Favoring Fish ==
+{{Fish by Category Table|Worm-Loving Fish|event=1|show_location=1|hide_bait=1|resultsheader='''%PAGES%''' [[Fish]] prefer Worms:|noresultsheader=No fish prefer Worms.}}
+
+== Change History ==
+{{Change History|1.0}}
+
+== Navigation ==
+{{Bait Navbox}}

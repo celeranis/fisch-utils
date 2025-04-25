@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Butterflyfish.png
+|rarity         = Uncommon
+|sea            = First Sea
+|location       = [[Roslit Bay]]
+|sublocation    = Coral Reef
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 60
+|weather        = Clear, Foggy
+|time           = Day
+|season         = 
+|bait           = Flakes
+|base_weight    = 1.5
+|base_value     = 110
+|weight_range   = 1.3
+|base_chance    = 40
+|base_resil     = 60
+}}
+'''Butterflyfish''' is an {{Rarity|Uncommon}} fish found in [[Roslit Bay]].
+
+== Description ==
+{{Description|Butterflyfish are vibrant reef fish known for their striking colors and elaborate patterns. They feed and behave similar to other fish found in Roslit Bays coral reef.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in Roslit Bays coral reef.|Bestiary Hint}}
+{{Fish Availability|
+Roslit Bay/Coral Reef
+|top_rods      = 
+Krampus's Rod\244984.09\92836.82;
+Magma Rod\235816.37\89362.71;
+Plastic Rod\215599.67\81705;
+Leviathan's Fang Rod\201224.91\42187.38;
+Fast Rod\187065.64\77781.55;
+Buddy Bond Rod\160159.76\60695.14;
+Flimsy Rod\128385.04\69626.3;
+Nocturnal Rod\84784.34\52966.33;
+Trident Rod\184931.52\36265.53;
+Free Spirit Rod\179199.31\35141.43;
+Ethereal Prism Rod\174584.24\39156.21;
+No-Life Rod\173897.38\38391.59;
+Seraphic Rod\171744.43\38290.23;
+Rod Of The Forgotten Fang\161252.84\35919.94;
+Challenger's Rod\158707.25\35085.1;
+Zeus Rod\146468.73\32191.1;
+Rod Of The Depths\146283.12\32490.71;
+Rod Of The Exalted One\145571.74\31556.1;
+Verdant Shear Rod\145154.89\31733.58;
+Blazebringer Rod\139007.44\30551.25;
+Depthseeker Rod\133630.36\29156.45;
+Avalanche Rod\126238.11\26334.12;
+Volcanic Rod\125283.7\25082.28;
+Training Rod\116680.47\57000.07;
+Steady Rod\65047.21\8420.51
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Butterflyfish, the player has a chance to make one of the following exclamations:
+* Ouu a Butterflyfish!
+* Woah, a Butterflyfish!
+* It's so pretty!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Roslit Bay}}

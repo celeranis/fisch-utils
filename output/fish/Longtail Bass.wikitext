@@ -1,0 +1,66 @@
+{{FishInfobox
+|image          = Longtail Bass.png
+|rarity         = Uncommon
+|sea            = First Sea
+|location       = [[Sunstone Island]]
+|sublocation    = 
+|sources        = Carbon Crate, Fish Barrel, Fishing Rod
+|radar_location = 
+|xp             = 70
+|weather        = Foggy
+|time           = 
+|season         = Spring, Summer
+|bait           = Shrimp
+|base_weight    = 4
+|base_value     = 120
+|weight_range   = 2
+|base_chance    = 50
+|base_resil     = 70
+}}
+'''Longtail Bass''' is an {{Rarity|Uncommon}} fish found in [[Sunstone Island]].
+
+== Description ==
+{{Description|The Longtail Bass is a striking species known for its elongated tail fin and vibrant coloration. It can be found all over the ocean, and is also a common catch of Sunstone Island!|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in open ocean water and in Sunstone.|Bestiary Hint}}
+{{Fish Availability|
+Sunstone Island
+|top_rods      = 
+Ethereal Prism Rod\115516.66\181844.43;
+Rapid Rod\113692.09\103591.91;
+Champions Rod\112692.11\80239.64;
+Celestial Rod\111671.73\82879.29;
+Depthseeker Rod\111512.49\85556.16;
+Training Rod\104592.09\167568.42;
+Flimsy Rod\82527.36\77170.63;
+Fortune Rod\64342.15\126667.08;
+Leviathan's Fang Rod\108707.3\121787.89;
+Kraken Rod\91124.58\111705.53;
+No-Life Rod\110442.33\110442.33;
+Avalanche Rod\110286.47\76707.57;
+Seraphic Rod\109589.38\109589.38;
+Verdant Shear Rod\104855.28\93476.05;
+Challenger's Rod\100384.62\100384.62;
+Rod Of The Forgotten Fang\100079.54\100079.54;
+Blazebringer Rod\95214.32\88158.6;
+Zeus Rod\94535.5\93416.55;
+Volcanic Rod\92311.45\70893.09;
+Rod Of The Depths\90912.68\90912.68;
+Trident Rod\89534.87\77770.24;
+Free Spirit Rod\87681.53\77576.53;
+Rod Of The Exalted One\85948.71\89441.64;
+Steady Rod\54894.11\40707.62
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching a Longtail Bass, the player has a chance to make one of the following exclamations:
+* A Longtail Bass!
+* I caught a Longtail Bass!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Sunstone Island}}

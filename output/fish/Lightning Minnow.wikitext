@@ -1,0 +1,66 @@
+{{FishInfobox
+|image          = Lightning Minnow.png
+|rarity         = Common
+|sea            = First Sea
+|location       = [[Atlantis]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 80
+|weather        = Rain
+|time           = Day
+|season         = 
+|bait           = Flakes
+|base_weight    = 1.5
+|base_value     = 120
+|weight_range   = 1
+|base_chance    = 75
+|base_resil     = 70
+}}
+'''Lightning Minnow''' is a {{Rarity|Common}} fish found in [[Atlantis]].
+
+== Description ==
+{{Description|A tiny, energetic fish that seems to crackle with electricity. Their scales generate small static charges, making them tingle when caught.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found darting in schools through Zeus Pool.|Bestiary Hint}}
+{{Fish Availability|
+Atlantis/Zeus's Rod Room
+|top_rods      = 
+Training Rod\275109.17\74117.65;
+Leviathan's Fang Rod\216741.95\0;
+Trident Rod\214548.86\14161.75;
+Free Spirit Rod\210107.78\14126.48;
+Azure Of Lagoon\202913.03\13840.59;
+Flimsy Rod\165343.44\30988.64;
+Summit Rod\184946.36\16972.01;
+Nocturnal Rod\114617.9\88759.99;
+No-Life Rod\200165.17\20111.25;
+Seraphic Rod\178000.03\19955.93;
+Blazebringer Rod\184533.89\17728.88;
+Challenger's Rod\184473.74\18279.77;
+Verdant Shear Rod\183892.43\19244.3;
+Zeus Rod\183772.69\17602.49;
+Depthseeker Rod\183281.66\17478.91;
+Avalanche Rod\180821.02\15530.5;
+Volcanic Rod\178907.86\17188.37;
+Rod Of The Forgotten Fang\176256.61\18224.22;
+Rod Of The Depths\176096.63\16554.96;
+Rod Of The Exalted One\170175\15933.46;
+Ethereal Prism Rod\169175.6\0;
+Steady Rod\85498.24\8295.69
+|recommended   = Training Rod
+}}
+
+== Catch Quips ==
+When catching a Lightning Minnow, the player has a chance to make one of the following exclamations:
+* Ouch! Static shock!
+* A Lightning Minnow!
+* Tingly little one!
+* Zeus' smallest spark!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Atlantis}}

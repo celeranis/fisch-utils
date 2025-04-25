@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Reefdart.png
+|rarity         = Common
+|sea            = Second Sea
+|location       = [[Isle of New Beginnings]]
+|sublocation    = Coral Reef
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = +10
+|xp             = 25
+|weather        = Clear
+|time           = Night
+|season         = Spring
+|bait           = Shrimp
+|base_weight    = 18
+|base_value     = 52
+|weight_range   = 9
+|base_chance    = 110
+|base_resil     = 79
+}}
+'''Reefdart''' is a {{Rarity|Common}} fish found in the [[Isle of New Beginnings]].
+
+== Description ==
+{{Description|A slender blue eel with pink fins and eyes, weaving through coral shadows.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It slinks along the reef when the tide rests.|Bestiary Hint}}
+{{Fish Availability|
+Isle of New Beginnings
+|top_rods      = 
+Free Spirit Rod\397373.14\294981.26;
+Azure Of Lagoon\351707.73\297638.01;
+Firefly Rod\341620.09\340415.75;
+Egg Rod\336804.92\282270.27;
+Leviathan's Fang Rod\328906.19\283113.33;
+Lucky Rod\266849.44\273470.94;
+Long Rod\258840.81\255693.7;
+Trident Rod\326005.94\282759.09;
+Rapid Rod\260816.75\260816.75;
+Haunted Rod\260946.2\260586.68;
+Verdant Shear Rod\326780.63\273634.45;
+Blazebringer Rod\314923.29\276520.56;
+No-Life Rod\280042.85\237249.43;
+Ethereal Prism Rod\272040.75\230419.88;
+Seraphic Rod\269702.71\233924.87;
+Depthseeker Rod\259984.72\233078.23;
+Rod Of The Exalted One\259663.89\226163.44;
+Challenger's Rod\259151.88\218168.82;
+Rod Of The Forgotten Fang\258893.16\221846.26;
+Avalanche Rod\258384.08\232244.12;
+Volcanic Rod\255641.08\220869.1;
+Zeus Rod\254748.24\220097.7;
+Rod Of The Depths\253972.97\209364.88;
+Steady Rod\210463.2\189000.03
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Reefdart, the player has a chance to make one of the following exclamations:
+* A Reefdart!
+* Pink-finned eel!
+* Slippery blue!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Isle of New Beginnings}}

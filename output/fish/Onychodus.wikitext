@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Onychodus.png
+|rarity         = Uncommon
+|sea            = First Sea
+|location       = [[Ancient Isle]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 110
+|weather        = 
+|time           = Night
+|season         = 
+|bait           = 
+|base_weight    = 140
+|base_value     = 115
+|weight_range   = 40
+|base_chance    = 55
+|base_resil     = 60
+}}
+'''Onychodus''' is an {{Rarity|Uncommon}} fish found in the [[Ancient Isle]].
+
+== Description ==
+{{Description|Onychodus is a genus of prehistoric lobe-finned fish from the Devonian period, approximately 400 million years ago. Known for its distinctive features, Onychodus was an early example of sarcopterygian fish, which includes ancestors of modern lungfish and tetrapods.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found around the waters of the Ancient Isle.|Bestiary Hint}}
+{{Fish Availability|
+Ancient Isle/Surrounding Ocean
+|top_rods      = 
+Ethereal Prism Rod\76863.98\122396.54;
+Fast Rod\73345.38\73345.38;
+Rapid Rod\72831.48\70758.96;
+Leviathan's Fang Rod\72789.52\83816.07;
+No-Life Rod\72622.08\72622.08;
+Adventurer's Rod\55383.88\55383.88;
+Plastic Rod\54086.79\43221.88;
+Fischer's Rod\55758.09\55758.09;
+Kraken Rod\60391.42\74690.14;
+Fortune Rod\41010.5\61554.48;
+Seraphic Rod\71861.36\71861.36;
+Trident Rod\66796.28\51505.74;
+Depthseeker Rod\66550.04\56056.52;
+Verdant Shear Rod\66052.56\61198.43;
+Challenger's Rod\65803.39\65803.39;
+Rod Of The Forgotten Fang\65585.38\65585.38;
+Avalanche Rod\65383.64\50231.92;
+Free Spirit Rod\64725.84\51329.39;
+Blazebringer Rod\61621.95\57741.65;
+Zeus Rod\61166.79\61166.79;
+Rod Of The Depths\59534.12\59534.12;
+Volcanic Rod\58907.31\46421.3;
+Rod Of The Exalted One\56569.25\59742.97;
+Steady Rod\34417.11\22003.98
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching an Onychodus, the player has a chance to make one of the following exclamations:
+* Ouu an Onychodus!
+* Woah, an Onychodus!
+* An Onychodus!
+* I caught an Onychodus!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ancient Isle}}

@@ -1,0 +1,113 @@
+{{FishInfobox
+|image          = Quality Bait Crate.png
+|rarity         = Rare
+|sea            = First Sea
+|location       = [[Regionless]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 40
+|weather        = 
+|time           = 
+|season         = 
+|bait           = Magnet
+|base_weight    = 12
+|base_value     = 150
+|weight_range   = 0
+|base_chance    = 8
+|base_resil     = 120
+}}
+'''Quality Bait Crate''' is a {{Rarity|Rare}} fish found in [[Regionless]].
+
+== Description ==
+{{Description|A metal bait box with a rubber seal to protect the bait inside. Seemingly lost from a fishing boat of some kind. The bait is still alive and fresh. Therefore, finders keepers?- Opening it might give you an array of baits!|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Fallen off of a fishing boat.|Bestiary Hint}}
+{{Fish Availability|
+Ancient Isle/Algae Hunt
+Atlantis/Ancient Kraken Hunt
+Atlantis/Ethereal Abyss
+Atlantis/Kraken Hunt
+Atlantis/Kraken Pool
+Atlantis/Poseidon Temple
+Atlantis/Sunken Depths
+Atlantis/Surrounding Ocean
+Atlantis/Zeus's Rod Room
+FischFright/Frightful Pool
+Forsaken Shores/Algae Hunt
+Golden Tide
+Lovestorm/Normal
+Lovestorm/Supercharged
+Megalodon Hunt/Eclipse and Weekend
+Megalodon Hunt/Normal
+Mushgrove Swamp/Algae Hunt
+Ocean/Deep Ocean
+Ocean/Strange Whirlpool
+Orca Migration/Ancient
+Orca Migration/Normal
+Roslit Bay/Roslit Volcano
+Snowcap Island/Algae Hunt
+Snowcap Island/Freshwater Pond
+Sunstone Island
+Sunstone Island/Crate Cave
+Vertigo/Vertigos Dip
+Whale Migration/Moby
+Whale Migration/Normal
+|top_rods      = 
+Magnet Rod\727253.83\739137.31;
+Firefly Rod\157176.64\144480.15;
+Fast Rod\154153.63\138723.62;
+Krampus's Rod\146688.99\158332.15;
+Magma Rod\142592.48\153910.48;
+Lucky Rod\131761.47\124053.18;
+Adventurer's Rod\106412.45\120687.75;
+Leviathan's Fang Rod\130116.32\176609;
+Trident Rod\124605.74\165062.45;
+Free Spirit Rod\124107.38\164402.28;
+No-Life Rod\121051.02\163671.42;
+Rod Of The Depths\113549.58\149668.69;
+Rod Of The Zenith\111833.45\153266.94;
+Seraphic Rod\116769.46\163192.44;
+Challenger's Rod\115537.62\154876.28;
+Zeus Rod\114557.78\145492.88;
+Ethereal Prism Rod\114320.68\160407.66;
+Rod Of The Forgotten Fang\113980.51\155808.15;
+Verdant Shear Rod\113612.02\144299.24;
+Rod Of The Exalted One\112793.16\151301.35;
+Blazebringer Rod\112360.72\143384.09;
+Volcanic Rod\109199.44\139349.98;
+Depthseeker Rod\107107.03\136679.83;
+Avalanche Rod\105503.63\124997.74;
+Steady Rod\36387\44641.42
+|recommended   = Magnet Rod
+}}
+
+== Contents ==
+Opening a Quality Bait Crate will yield at least one of the following:
+* [[Bait#Fish Head|Fish Head]]
+* [[Bait#Rapid Catcher|Rapid Catcher]]
+* [[Bait#Instant Catcher|Instant Catcher]]
+* [[Bait#Seaweed|Seaweed]]
+* [[Bait#Squid|Squid]]
+* [[Bait#Super Flakes|Super Flakes]]
+* [[Bait#Maggot|Maggot]]
+* [[Bait#Night Shrimp|Night Shrimp]]
+* [[Bait#Weird Algae|Weird Algae]]
+* [[Bait#Shark Head|Shark Head]]
+
+== Catch Quips ==
+When catching a Quality Bait Crate, the player has a chance to make one of the following exclamations:
+* A Crate of Bait!
+* A Bait Crate!
+* Woah! A Crate!
+* A Crate!
+* Who left this here?
+* Oh, the shrimps still moving?
+* A Crate full of Bait!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Regionless}}

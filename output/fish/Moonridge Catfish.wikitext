@@ -1,0 +1,66 @@
+{{FishInfobox
+|image          = Moonridge Catfish.png
+|rarity         = Unusual
+|sea            = Second Sea
+|location       = [[Blue Moon - Second Sea]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = +25
+|xp             = 2350
+|weather        = Clear
+|time           = 
+|season         = Winter
+|bait           = Mist Worms
+|base_weight    = 6
+|base_value     = 950
+|weight_range   = 4
+|base_chance    = 85
+|base_resil     = 55
+}}
+'''Moonridge Catfish''' is an {{Rarity|Unusual}} fish found in [[Blue Moon]] events at [[Lushgrove]].
+
+== Description ==
+{{Description|A sleek fish with whiskers that lightly glow like moonlight.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It swims where the waters clear under starlight.|Bestiary Hint}}
+{{Fish Availability|
+Blue Moon/Second Sea
+|top_rods      = 
+Free Spirit Rod\167587.12\100180.22;
+Trident Rod\161789.36\161479.8;
+Training Rod\159641.48\123589.3;
+Leviathan's Fang Rod\159622.85\159006.75;
+Azure Of Lagoon\156862.99\157793.27;
+Flimsy Rod\129871.6\129871.6;
+Resourceful Rod\110267.88\127907.39;
+Egg Rod\140565.17\157628.44;
+Verdant Shear Rod\139324.22\156236.86;
+Blazebringer Rod\136897.63\153555.92;
+No-Life Rod\129081.71\128867.09;
+Seraphic Rod\119325.47\119097.15;
+Ethereal Prism Rod\118038.45\117293.12;
+Challenger's Rod\115037.68\114842.35;
+Rod Of The Forgotten Fang\114388.34\114172.01;
+Depthseeker Rod\113723.11\113575.96;
+Rod Of The Exalted One\113055.8\112722.85;
+Avalanche Rod\112370.42\112228.72;
+Rod Of The Depths\112359.96\112155.72;
+Volcanic Rod\112066.38\111894.07;
+Zeus Rod\111648\111476.34;
+Steady Rod\92060.88\91934.99
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Moonridge Catfish, the player has a chance to make one of the following exclamations:
+* A Moonridge Catfish!
+* Whiskered wanderer!
+* Moonlit whiskers!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Blue Moon - Second Sea}}

@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Abyssborn Monstrosity.png
+|rarity         = Secret
+|sea            = Second Sea
+|location       = [[The Cursed Shores]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -97
+|xp             = 15000
+|weather        = Rain
+|time           = Night
+|season         = Winter
+|bait           = Luminous Larva
+|base_weight    = 5760
+|base_value     = 25000
+|weight_range   = 3360
+|base_chance    = 1
+|base_resil     = 1
+}}
+'''Abyssborn Monstrosity''' is a {{Rarity|Secret}} fish found in [[The Cursed Shores]].
+
+== Description ==
+{{Description|A colossal terror birthed from the abyss’s cruel heart.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It rises where the void claims all.|Bestiary Hint}}
+{{Fish Availability|
+The Cursed Shores
+|top_rods      = 
+Challenger's Rod\602.56\3669.96;
+Tempest Rod\557.08\3430.36;
+Summit Rod\479.73\2699.02;
+Seraphic Rod\111.83\700.76;
+Abyssal Specter Rod\94.49\549.81;
+Free Spirit Rod\-5.08\-24.08;
+Destiny Rod\-5.56\-24.75;
+Heaven's Rod\-3.65\-16.23;
+Precision Rod\-10.92\-48.58;
+Shamrock Rod\-7.15\-31.78;
+Sunken Rod\-6.42\-28.56;
+Ethereal Prism Rod\-1.71\-7.63;
+Rod Of The Forgotten Fang\-3.43\-15.26;
+No-Life Rod\-3.88\-17.26;
+Depthseeker Rod\-4.81\-21.41;
+Rod Of The Exalted One\-5.98\-26.59;
+Avalanche Rod\-7.15\-31.78;
+Rod Of The Depths\-7.15\-31.78;
+Steady Rod\-7.67\-34.12;
+Volcanic Rod\-7.92\-35.24;
+Blazebringer Rod\-8.06\-35.83;
+Zeus Rod\-8.88\-39.5;
+Trident Rod\-9.59\-42.65
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching an Abyssborn Monstrosity, the player has a chance to make one of the following exclamations:
+* AN ABYSSBORN MONSTROSITY?!
+* BORN OF THE VOID!
+* MONSTER OF ETERNITY!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|The Cursed Shores}}

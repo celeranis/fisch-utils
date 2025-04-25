@@ -1,0 +1,69 @@
+{{FishInfobox
+|image          = Seacow.png
+|rarity         = Limited
+|event          = Animal Hunt
+|sea            = First Sea
+|location       = [[Animals]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -85
+|xp             = 10000
+|weather        = Windy
+|time           = 
+|season         = Summer
+|bait           = Shark Head
+|base_weight    = 3500
+|base_value     = 14000
+|weight_range   = 2750
+|base_chance    = 5
+|base_resil     = 5
+}}
+'''Seacow''' is a {{Rarity|Limited}} fish found in [[Animal Hunt]]s in the [[First Sea]].
+
+== Description ==
+{{Description|A gentle giant grazing the ocean floor, its bulk a marvel of the deep.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Its graze drifts where winds calm the sea.|Bestiary Hint}}
+{{Fish Availability|
+Animal Hunt/First Sea
+|top_rods      = 
+Ethereal Prism Rod\26797.63\184709.26;
+Seraphic Rod\26302.26\194222.44;
+Tempest Rod\25607.82\198698.85;
+Leviathan's Fang Rod\25249.22\177963.9;
+Challenger's Rod\24369.77\192387.85;
+Resourceful Rod\19197.6\125017.34;
+Destiny Rod\19065.04\121797.16;
+Heaven's Rod\18382.37\121379.03;
+No-Life Rod\22751.53\181199.5;
+Rod Of The Eternal King\17322.04\125901.8;
+Poseidon Rod\19795.83\142764.8;
+Rod Of The Exalted One\18246.37\130578.29;
+Rod Of The Forgotten Fang\21970.08\163541.47;
+Free Spirit Rod\19037.74\141959.97;
+Rod Of The Depths\16913.29\129038.69;
+Trident Rod\16868.9\124564.16;
+Depthseeker Rod\15935.61\135423.09;
+Blazebringer Rod\15850.69\129702.44;
+Zeus Rod\15664.21\128176.53;
+Verdant Shear Rod\14778.46\124382.79;
+Avalanche Rod\12900.62\110059.83;
+Volcanic Rod\12366.48\101192;
+Steady Rod\4142.33\37826.11
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching a Seacow, the player has a chance to make one of the following exclamations:
+* A SEACOW!
+* MOO FROM THE BLUE!
+* COW OF THE CORAL!
+* GRASS-EATER OF THE GULF!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Animals}}

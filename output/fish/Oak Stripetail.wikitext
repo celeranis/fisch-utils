@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Oak Stripetail.png
+|rarity         = Rare
+|sea            = Second Sea
+|location       = [[Pine Shoals]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -5
+|xp             = 110
+|weather        = Foggy
+|time           = Day
+|season         = Winter
+|bait           = Squid
+|base_weight    = 10
+|base_value     = 230
+|weight_range   = 6
+|base_chance    = 150
+|base_resil     = 40
+}}
+'''Oak Stripetail''' is a {{Rarity|Rare}} fish found in [[Pine Shoals]].
+
+== Description ==
+{{Description|A resilient striker with a tail of oak strength.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It lashes where the waters grow still.|Bestiary Hint}}
+{{Fish Availability|
+Pine Shoals
+|top_rods      = 
+Free Spirit Rod\317327.28\35976.01;
+Trident Rod\304466.07\36163.54;
+Leviathan's Fang Rod\295522.85\34636.17;
+Azure Of Lagoon\263879.69\30602.11;
+Egg Rod\223039.66\31177.15;
+Training Rod\196382.81\18789.67;
+Destiny Rod\177875.23\20395.36;
+Nocturnal Rod\106722.72\102495.6;
+Fortune Rod\170379.43\20417.01;
+Frog Rod\189880.69\24457.88;
+No-Life Rod\219929.63\26915.69;
+Blazebringer Rod\218920.66\31153.31;
+Verdant Shear Rod\218618.43\30083.56;
+Seraphic Rod\194904.8\23150.19;
+Ethereal Prism Rod\191532.3\22323.64;
+Challenger's Rod\187398.91\22836.47;
+Rod Of The Forgotten Fang\184075.2\21920.79;
+Depthseeker Rod\183755.53\23549.95;
+Rod Of The Exalted One\179275.11\21097.38;
+Avalanche Rod\177957.7\22879.87;
+Volcanic Rod\176948.86\21990.55;
+Rod Of The Depths\176393.73\21189.07;
+Zeus Rod\176055.88\21879.57;
+Steady Rod\147194.97\18687.71
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching an Oak Stripetail, the player has a chance to make one of the following exclamations:
+* An Oak Stripetail!
+* Tough as oak!
+* Striped strength!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Pine Shoals}}

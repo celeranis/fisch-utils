@@ -1,0 +1,62 @@
+{{FishInfobox
+|image          = Scalding Swordfish.png
+|rarity         = Legendary
+|sea            = First Sea
+|location       = [[Volcanic Vents]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -60
+|xp             = 1100
+|weather        = Clear
+|time           = Day
+|season         = Summer
+|bait           = Truffle Worm
+|base_weight    = 2500
+|base_value     = 4000
+|weight_range   = 1500
+|base_chance    = 0.005
+|base_resil     = 15
+}}
+'''Scalding Swordfish''' is a {{Rarity|Legendary}} fish found in [[Volcanic Vents]] of [[Mariana's Veil]].
+
+== Description ==
+{{Description|A sharp fish with glowing red eyes and a body wreathed in smoky tendrils, rumored to be a spirit of the lava itself.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|With a razor-sharp edge, it is said to appear when the sun blazes overhead.|Bestiary Hint}}
+{{Fish Availability|
+Mariana's Veil/Volcanic Vents
+|top_rods      = 
+Leviathan's Fang Rod\332264.67\417251.94;
+Free Spirit Rod\330303.97\418301.23;
+Trident Rod\306331.71\387114.28;
+Azure Of Lagoon\240462.48\280201.86;
+No-Life Rod\233269.09\292699.69;
+Riptide Rod\177593.59\222713.58;
+Blazebringer Rod\181744.13\228297.67;
+Challenger's Rod\220167.43\279712.46;
+Seraphic Rod\223009.4\277858.3;
+Ethereal Prism Rod\218769.1\269445.93;
+Rod Of The Forgotten Fang\209509.37\263284.5;
+Verdant Shear Rod\186562.31\232310.61;
+Zeus Rod\186057.23\233233.22;
+Rod Of The Depths\181782.23\225772.55;
+Depthseeker Rod\181696.07\228608.97;
+Rod Of The Exalted One\176612.48\219610.22;
+Avalanche Rod\157683.29\198476.25;
+Volcanic Rod\147139.24\184447.32;
+Steady Rod\60957.77\77332.57
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Scalding Swordfish, the player has a chance to make one of the following exclamations:
+* A SCALDING SWORDFISH!?
+* FROM THE UNDERWORLD!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Volcanic Vents}}

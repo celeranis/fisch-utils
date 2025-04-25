@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Whisker Bill.png
+|rarity         = Mythical
+|sea            = First Sea
+|location       = [[Moosewood]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -20
+|xp             = 1000
+|weather        = 
+|time           = 
+|season         = 
+|bait           = Truffle Worm
+|base_weight    = 100
+|base_value     = 3100
+|weight_range   = 65
+|base_chance    = 0.01
+|base_resil     = 25
+}}
+'''Whisker Bill''' is a {{Rarity|Mythical}} fish found in [[Moosewood]].
+
+== Description ==
+{{Description|The Whisker Bill is a mythical creature that was a popular staple of Moosewood Island before they were thought to be extinct. Whisker Bills are extremely strong, however are awkward swimmers due to their peculiar archetype.|Bestiary Entry}}
+
+== Obtainment ==
+{{Fish Availability|
+Moosewood/Seaweed and Mini-Island
+|top_rods      = 
+Leviathan's Fang Rod\50086.6\442168.65;
+Free Spirit Rod\43004.5\374056.03;
+Trident Rod\41790.98\363500.8;
+Ethereal Prism Rod\38234.17\257009.25;
+Seraphic Rod\36751.78\259239.05;
+Resourceful Rod\29375.09\209554.57;
+Destiny Rod\30714.38\214152.94;
+Heaven's Rod\28226.34\234615.52;
+No-Life Rod\36560.75\284807.04;
+Rod Of The Eternal King\29012.3\214252.39;
+Poseidon Rod\29525.51\241941.01;
+Rod Of The Exalted One\30237.87\228489.05;
+Rod Of The Forgotten Fang\34190.44\251402.76;
+Challenger's Rod\33040.97\256847.07;
+Rod Of The Depths\30501.81\227983.74;
+Zeus Rod\29701.51\236605.56;
+Verdant Shear Rod\29076.49\236604.98;
+Blazebringer Rod\28270.96\226271.59;
+Depthseeker Rod\26882.74\220138.81;
+Avalanche Rod\24132.9\196464.74;
+Volcanic Rod\23154.74\187105.47;
+Steady Rod\7727.73\63022.66
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Whisker Bill, the player has a chance to make one of the following exclamations:
+* The mythical Whisker Bill..
+* Woah.. A Whisker Bill..
+* I caught.. A Whisker Bill..
+* Woah...
+* I thought they were extinct!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Moosewood}}

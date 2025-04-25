@@ -1,0 +1,25 @@
+{{BaitInfobox
+|image          = Bait Neuro Slug.png
+|rarity         = Legendary
+|crates         = 
+|angler_quests  = <!--TBD-->
+|pref_luck      = 90
+|univ_luck      = 100
+|resilience     = 60
+|lure           = -20
+|ability        = 
+}}
+'''Neuro Slug''' is a {{Rarity|Legendary}} [[Bait]] that can be used in fishing.
+
+== Obtainment ==
+Neuro Slugs can be obtained in the following ways:
+<!--* [[Angler]] Quests, starting from the ?th completion-->
+
+== Favoring Fish ==
+{{Fish by Category Table|Neuro Slug-Loving Fish|event=1|show_location=1|hide_bait=1|resultsheader='''%PAGES%''' [[Fish]] prefer Neuro Slugs:|noresultsheader=No fish prefer Neuro Slugs.}}
+
+== Change History ==
+{{Change History|1.0}}
+
+== Navigation ==
+{{Bait Navbox}}

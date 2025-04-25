@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = The Depths Key.png
+|rarity         = Exotic
+|sea            = First Sea
+|location       = [[Vertigo]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -10
+|xp             = 350
+|weather        = 
+|time           = Day
+|season         = 
+|bait           = 
+|base_weight    = 100
+|base_value     = 800
+|weight_range   = 50
+|base_chance    = 0.01
+|base_resil     = 35
+}}
+'''The Depths Key''' is an {{Rarity|Exotic}} fish found in [[Vertigo]].
+
+== Description ==
+{{Description|This is the Key that leads to the gates of The Depths...|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Where does this key open up?...|Bestiary Hint}}
+{{Fish Availability|
+Ocean/Strange Whirlpool
+Vertigo/Vertigos Dip
+|top_rods      = 
+Leviathan's Fang Rod\63789.21\331312.72;
+Trident Rod\57179.64\343224.25;
+Ethereal Prism Rod\56033.25\207515.75;
+Seraphic Rod\53022.74\213536.27;
+No-Life Rod\51793.93\227383.35;
+Resourceful Rod\43685\170136.79;
+Destiny Rod\45808.55\187405.54;
+Heaven's Rod\40524.79\193395.52;
+Free Spirit Rod\50687.7\304256;
+Firefly Rod\38626.15\222151.96;
+Fungal Rod\32355.77\195887.68;
+Antler Rod\28751.7\173014.68;
+Long Rod\29644.61\169523.24;
+Rod Of The Forgotten Fang\49390.57\209408.92;
+Challenger's Rod\47070.49\207201.39;
+Rod Of The Exalted One\44126.77\197081.27;
+Rod Of The Depths\43998.56\192417.39;
+Zeus Rod\42278.02\192925.56;
+Verdant Shear Rod\41194.36\193810.95;
+Blazebringer Rod\40186.05\184185.29;
+Depthseeker Rod\37870.79\182263.53;
+Avalanche Rod\34060.52\164825.53;
+Volcanic Rod\32951.13\152590.15;
+Steady Rod\11642.66\60139.46
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a The Depths Key, the player has a chance to make one of the following exclamations:
+* I caught a depths key!
+* Woah, a key!!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Vertigo}}

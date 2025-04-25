@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Eldritch Spineback.png
+|rarity         = Limited
+|event          = Cults Curse
+|sea            = First Sea
+|location       = [[Cults Curse]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -35
+|xp             = 900
+|weather        = 
+|time           = 
+|season         = 
+|bait           = 
+|base_weight    = 180
+|base_value     = 2500
+|weight_range   = 110
+|base_chance    = 20
+|base_resil     = 40
+}}
+'''Eldritch Spineback''' is a {{Rarity|Limited}} fish found in [[Cults Curse]] during the [[Cults Curse]] event.
+
+== Description ==
+{{Description|Ancient and wrecked, the Eldritch Spineback lurks, with jagged spines whispering secrets of the forgotten age.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Can only be caught in the Cursed Pool.|Bestiary Hint}}
+{{Fish Availability|
+Cults Curse
+|top_rods      = 
+Leviathan's Fang Rod\212719.72\165466.24;
+Trident Rod\210568.86\162807.85;
+Free Spirit Rod\196883.02\152226.22;
+Plastic Rod\167191.21\175439.29;
+Azure Of Lagoon\165676.69\126724.32;
+Adventurer's Rod\158547.47\159376.2;
+Fischer's Rod\162511.15\163360.6;
+Fast Rod\163653.85\163653.85;
+No-Life Rod\161138.62\157863.64;
+Seraphic Rod\156146.79\156146.79;
+Ethereal Prism Rod\154703.89\154703.89;
+Challenger's Rod\147797.36\142733.56;
+Rod Of The Forgotten Fang\145406.69\141451.9;
+Depthseeker Rod\139986.09\120612.12;
+Zeus Rod\136626.08\130656.11;
+Rod Of The Exalted One\135570.29\120100.49;
+Verdant Shear Rod\135009.27\130656.11;
+Blazebringer Rod\134630.5\123811.06;
+Rod Of The Depths\132536.75\127472.53;
+Avalanche Rod\132425.92\107554.95;
+Volcanic Rod\129089.08\99270.48;
+Steady Rod\73455.68\54271.17
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching an Eldritch Spineback, the player has a chance to make one of the following exclamations:
+* An Eldritch Spineback!
+* Older than time itself!
+* A fossil with teeth...
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Cults Curse}}

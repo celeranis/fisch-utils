@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Magma Pike.png
+|rarity         = Uncommon
+|sea            = Second Sea
+|location       = [[Emberreach]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = +13
+|xp             = 45
+|weather        = Windy
+|time           = 
+|season         = Autumn
+|bait           = Seaweed
+|base_weight    = 105
+|base_value     = 95
+|weight_range   = 66
+|base_chance    = 88
+|base_resil     = 58
+}}
+'''Magma Pike''' is an {{Rarity|Uncommon}} fish found in [[Emberreach]].
+
+== Description ==
+{{Description|A sturdy fish, its form kissed by the glow of molten veins.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It rises when the winds fan the ancient fires.|Bestiary Hint}}
+{{Fish Availability|
+Emberreach/Volcano
+|top_rods      = 
+Free Spirit Rod\421755.78\306416.47;
+Fischer's Rod\370272.19\292727.15;
+Plastic Rod\367664.35\291580.22;
+Fast Rod\366379.92\289650.02;
+Azure Of Lagoon\359606.69\425101.73;
+Lucky Rod\359050.72\359050.72;
+Blazebringer Rod\311420.35\421781.97;
+Firefly Rod\350553.55\410782.12;
+Leviathan's Fang Rod\350094.06\359122.83;
+Trident Rod\350473.54\338367.9;
+Verdant Shear Rod\320054.1\334396.45;
+No-Life Rod\284594.42\278523.75;
+Ethereal Prism Rod\267488.52\295402.9;
+Seraphic Rod\264610.93\255471.06;
+Challenger's Rod\255556.76\249623.41;
+Rod Of The Forgotten Fang\253464.37\245001.3;
+Depthseeker Rod\253232.12\252526.72;
+Rod Of The Exalted One\251237.55\252612.62;
+Avalanche Rod\250230.71\249551.38;
+Rod Of The Depths\249073.73\241713.19;
+Volcanic Rod\248968.71\245337.91;
+Zeus Rod\247955.18\244339.17;
+Steady Rod\215463.8\222761.55
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Magma Pike, the player has a chance to make one of the following exclamations:
+* A Magma Pike!
+* Lava lance!
+* Scorching haul!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Emberreach}}

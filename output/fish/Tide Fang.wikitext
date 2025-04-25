@@ -1,0 +1,70 @@
+{{FishInfobox
+|image          = Tide Fang.png
+|rarity         = Legendary
+|sea            = Second Sea
+|location       = [[Waveborne]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -45
+|xp             = 600
+|weather        = Windy
+|time           = Day
+|season         = Autumn
+|bait           = Neuro Slug
+|base_weight    = 150
+|base_value     = 1200
+|weight_range   = 90
+|base_chance    = 10
+|base_resil     = 30
+}}
+'''Tide Fang''' is a {{Rarity|Legendary}} fish found in [[Waveborne]].
+
+== Description ==
+{{Description|A dark green fish with teal fins and light green spots, biting through the waves with feral might.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It prowls when the tide turns restless.|Bestiary Hint}}
+{{Fish Availability|
+Waveborne
+|top_rods      = 
+Steady Rod\70908.26\47100.06;
+Frostfire Rod\62620.28\46920.82;
+Fast Rod\59785.48\69361.78;
+Krampus's Rod\59275.23\47176.91;
+Magma Rod\57958.9\46991.01;
+Free Spirit Rod\51982.42\109922.25;
+Firefly Rod\38942.44\106223.71;
+Egg Rod\41150.66\81435.29;
+Verdant Shear Rod\39560.61\78288.66;
+Great Dreamer Rod\38944.42\76607.4;
+Lucky Rod\30932.57\72911.62;
+Long Rod\27555.49\69779.82;
+Fungal Rod\26992.13\70402.01;
+Blazebringer Rod\38660.83\75156.67;
+Trident Rod\36888.81\70459.15;
+Ethereal Prism Rod\26910.97\53747.03;
+Seraphic Rod\26476.43\54103;
+No-Life Rod\25710.6\52324.04;
+Rod Of The Exalted One\24964.29\49990.96;
+Rod Of The Forgotten Fang\24830.3\50015.26;
+Challenger's Rod\24506.54\49714.87;
+Rod Of The Depths\24116.63\48313.59;
+Volcanic Rod\23216.75\47708.96;
+Depthseeker Rod\23181.23\48270.4;
+Zeus Rod\23069.42\47406.21;
+Avalanche Rod\22915.1\47780.37
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Tide Fang, the player has a chance to make one of the following exclamations:
+* A TIDE FANG!
+* FEROCIOUS BITE!
+* SPOTTED A BEAST!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Waveborne}}

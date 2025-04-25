@@ -1,0 +1,66 @@
+{{FishInfobox
+|image          = Deep-sea Hatchetfish.png
+|rarity         = Common
+|sea            = First Sea
+|location       = [[The Depths]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 20
+|weather        = 
+|time           = Night
+|season         = 
+|bait           = Seaweed
+|base_weight    = 3.5
+|base_value     = 35
+|weight_range   = 3
+|base_chance    = 100
+|base_resil     = 90
+}}
+'''Deep-sea Hatchetfish''' is a {{Rarity|Common}} fish found in [[The Depths]].
+
+== Description ==
+{{Description|A small, silvery fish with sharp edges and glowing organs, resembling a metallic hatchet.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Dwells during the Night, near steep underwater cliffs.|Bestiary Hint}}
+{{Fish Availability|
+The Depths
+The Depths/Absolute Darkness
+|top_rods      = 
+Leviathan's Fang Rod\264781.13\132509.03;
+Trident Rod\256002.15\164849.16;
+Free Spirit Rod\253379.07\164647.24;
+No-Life Rod\249642.58\236769.67;
+Azure Of Lagoon\239265.07\163443;
+Flimsy Rod\205475.01\180288.98;
+Training Rod\230987.36\213510.35;
+Magnet Rod\168134.12\148178.58;
+Fast Rod\237977.99\237977.99;
+Seraphic Rod\235837.58\235837.58;
+Tempest Rod\233312.79\227527.58;
+Rapid Rod\224021.01\223842.74;
+Challenger's Rod\226977.89\215865.09;
+Ethereal Prism Rod\225156.65\12241.28;
+Rod Of The Forgotten Fang\222802.59\215352.87;
+Rod Of The Depths\221735.28\196191.58;
+Zeus Rod\220174.2\201287.66;
+Rod Of The Exalted One\218904.74\142633.69;
+Blazebringer Rod\217394.65\190060.59;
+Verdant Shear Rod\217013.94\201805.11;
+Depthseeker Rod\215277.02\184117.77;
+Avalanche Rod\213892.67\165536.64;
+Volcanic Rod\211042.21\152882.66;
+Steady Rod\113986.39\71454.44
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Deep-sea Hatchetfish, the player has a chance to make one of the following exclamations:
+* Ooh, a Deep Sea Hatchetfish!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|The Depths}}

@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Gorgon Grouper.png
+|rarity         = Unusual
+|sea            = First Sea
+|location       = [[Veil of the Forsaken]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -20
+|xp             = 1350
+|weather        = Clear
+|time           = 
+|season         = 
+|bait           = Minnow
+|base_weight    = 165
+|base_value     = 1500
+|weight_range   = 105
+|base_chance    = 25
+|base_resil     = 55
+}}
+'''Gorgon Grouper''' is an {{Rarity|Unusual}} fish found in the [[Veil of the Forsaken]] of [[Mariana's Veil]].
+
+== Description ==
+{{Description|A stone-like fish with glowing eyes and a body covered in moss.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Prefers to swim in groups, where conditions are clear.|Bestiary Hint}}
+{{Fish Availability|
+Mariana's Veil/Scylla Hunt
+Mariana's Veil/Veil of the Forsaken
+|top_rods      = 
+Krampus's Rod\332228.89\364318.6;
+Plastic Rod\326380.17\347940.01;
+Magma Rod\317471.67\348136;
+Leviathan's Fang Rod\234366.21\287998.91;
+Ethereal Prism Rod\231741.5\218424.77;
+Buddy Bond Rod\231595.77\320663.74;
+Fast Rod\217257.45\406586.17;
+Fischer's Rod\197399.06\369422.21;
+Adventurer's Rod\195076.71\365076.07;
+Seraphic Rod\222125.57\224590.68;
+No-Life Rod\214789.22\243136.91;
+Rod Of The Forgotten Fang\207318.9\216947.11;
+Challenger's Rod\197383.2\220214.67;
+Rod Of The Depths\185804.45\207564.47;
+Rod Of The Exalted One\183997.88\208960.61;
+Trident Rod\183894.04\280168.37;
+Free Spirit Rod\177889.91\271020.89;
+Zeus Rod\176456.75\201884.45;
+Verdant Shear Rod\171354.72\202236.04;
+Blazebringer Rod\167712.84\192701.73;
+Depthseeker Rod\157065.07\189118.13;
+Avalanche Rod\141368.61\171442.01;
+Volcanic Rod\137557.28\160413.93;
+Steady Rod\52482.29\64735.43
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching a Gorgon Grouper, the player has a chance to make one of the following exclamations:
+* A Gorgon Grouper!
+* Doesn't look like a monster to me!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Veil of the Forsaken}}

@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Pale Tang.png
+|rarity         = Uncommon
+|sea            = First Sea
+|location       = [[Keepers Altar]]
+|sublocation    = 
+|sources        = Fish Barrel, Fishing Rod
+|radar_location = 
+|xp             = 90
+|weather        = 
+|time           = 
+|season         = Spring, Summer
+|bait           = Bagel
+|base_weight    = 1.5
+|base_value     = 100
+|weight_range   = 1.2
+|base_chance    = 55
+|base_resil     = 35
+}}
+'''Pale Tang''' is an {{Rarity|Uncommon}} fish found in the [[Keepers Altar]].
+
+== Description ==
+{{Description|The Pale Tang is a relatively common catch within Keepers Altar. Very similar to other Tangs such as the Red Tang, just pale!- No one is sure of the Pale Tangs origin, and how it got accustomed to the Keepers Altar.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in Keepers Altar.|Bestiary Hint}}
+{{Fish Availability|
+Keepers Altar
+|top_rods      = 
+Trident Rod\724919.12\284830.05;
+Leviathan's Fang Rod\642386.02\390105.06;
+Free Spirit Rod\639214.08\282713.1;
+Azure Of Lagoon\593861.62\268882.19;
+No-Life Rod\587628.48\391780.01;
+Flimsy Rod\446006.08\402761.1;
+Training Rod\480672.27\480672.27;
+Magnet Rod\278217.01\272878.84;
+Seraphic Rod\440033.52\384047.83;
+Depthseeker Rod\525686.11\298788.34;
+Verdant Shear Rod\511396.72\325228.58;
+Blazebringer Rod\509152.64\307338.3;
+Zeus Rod\505379.27\325292.22;
+Avalanche Rod\503559.44\267189.65;
+Challenger's Rod\498055.66\351308.14;
+Volcanic Rod\490537.37\246891.56;
+Rod Of The Forgotten Fang\436206.12\349810.65;
+Rod Of The Depths\434503.24\316669.22;
+Rod Of The Exalted One\392733.55\297918.87;
+Ethereal Prism Rod\381708.45\381708.45;
+Steady Rod\184699.23\119204.7
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Pale Tang, the player has a chance to make one of the following exclamations:
+* Ouu a Pale Tang!
+* Woah, a Pale Tang!
+* A Pale Tang!
+* I caught a Pale Tang!
+* I caught a Pale Tang!
+* Found her!.. But albino!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Keepers Altar}}

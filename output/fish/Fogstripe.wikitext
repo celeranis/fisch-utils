@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Fogstripe.png
+|rarity         = Unusual
+|sea            = Second Sea
+|location       = [[Lushgrove]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -7
+|xp             = 85
+|weather        = Foggy
+|time           = 
+|season         = Spring
+|bait           = Insect
+|base_weight    = 70
+|base_value     = 170
+|weight_range   = 40
+|base_chance    = 60
+|base_resil     = 50
+}}
+'''Fogstripe''' is an {{Rarity|Unusual}} fish found in [[Lushgrove]].
+
+== Description ==
+{{Description|A green fish with beige stripes and translucent fins, fading into the mist like a ghostly streak.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It drifts through the veiled bloom of new life.|Bestiary Hint}}
+{{Fish Availability|
+Lushgrove
+|top_rods      = 
+Trident Rod\156248.07\134748.52;
+Leviathan's Fang Rod\145340.2\78432.35;
+Free Spirit Rod\134905.1\97748.26;
+Fischer's Rod\134876.08\125742.12;
+Azure Of Lagoon\131421.78\91660.95;
+Plastic Rod\125137.88\125137.88;
+Candy Cane Rod\100043.57\99972;
+Firefly Rod\126991.77\121389.52;
+Wildflower Rod\124109.21\117598.98;
+Verdant Shear Rod\124949.7\112058.76;
+No-Life Rod\123081.52\111225.35;
+Blazebringer Rod\120039.22\105824.62;
+Seraphic Rod\112270.25\96822;
+Challenger's Rod\108734.91\97733.32;
+Depthseeker Rod\107622.36\102249.86;
+Rod Of The Forgotten Fang\106736.98\92460.91;
+Avalanche Rod\105539.15\100597.55;
+Volcanic Rod\104533.76\96256.66;
+Zeus Rod\103980.9\95747.58;
+Rod Of The Depths\103975.95\91426.39;
+Rod Of The Exalted One\101557.73\70962.92;
+Ethereal Prism Rod\100852.31\68840.43;
+Steady Rod\86460.16\82192.86
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Fogstripe, the player has a chance to make one of the following exclamations:
+* A Fogstripe!
+* Stripey ghost!
+* Fades away fast!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Lushgrove}}

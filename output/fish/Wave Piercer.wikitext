@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Wave Piercer.png
+|rarity         = Mythical
+|sea            = Second Sea
+|location       = [[Waveborne]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -55
+|xp             = 1050
+|weather        = Clear
+|time           = Night
+|season         = Winter
+|bait           = Truffle Worm
+|base_weight    = 140
+|base_value     = 2100
+|weight_range   = 90
+|base_chance    = 5
+|base_resil     = 15
+}}
+'''Wave Piercer''' is a {{Rarity|Mythical}} fish found in [[Waveborne]].
+
+== Description ==
+{{Description|A grey fish with light blue fins and dark grey stripes, cutting through the waves with ethereal precision.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It appears when the sea mirrors the sky.|Bestiary Hint}}
+{{Fish Availability|
+Waveborne
+|top_rods      = 
+Plastic Rod\49513.46\149515.92;
+Free Spirit Rod\38583.91\163046.43;
+Egg Rod\30202.3\107655.65;
+Verdant Shear Rod\28823.07\101866.8;
+Great Dreamer Rod\28497.9\100222.53;
+Fischer's Rod\27603.03\150898.57;
+Krampus's Rod\27992.75\63037.54;
+Firefly Rod\27413.2\137246.27;
+Leviathan's Fang Rod\26441.56\108002.17;
+Lucky Rod\19364.13\93344.5;
+Blazebringer Rod\28479.36\99485.51;
+Steady Rod\26864.69\62613.63;
+Trident Rod\24778.9\104974.01;
+Ethereal Prism Rod\20048.04\72196.61;
+Seraphic Rod\19749.81\74312.91;
+No-Life Rod\19092.64\70331.5;
+Rod Of The Exalted One\18311.29\65834.34;
+Rod Of The Forgotten Fang\18291.3\67417.5;
+Challenger's Rod\18168.07\66607.67;
+Rod Of The Depths\17536.59\63105.18;
+Depthseeker Rod\16837.1\64205.82;
+Volcanic Rod\16754.68\62623.67;
+Zeus Rod\16602.1\62053.39;
+Avalanche Rod\16520.47\63127.47
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Wave Piercer, the player has a chance to make one of the following exclamations:
+* A WAVE PIERCER!
+* SLICES THE TIDE!
+* STRIKING BEAUTY!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Waveborne}}

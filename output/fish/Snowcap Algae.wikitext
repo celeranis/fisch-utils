@@ -1,0 +1,71 @@
+{{FishInfobox
+|image          = Snowcap Algae.png
+|rarity         = Limited
+|event          = Archeological Site
+|sea            = First Sea
+|location       = Regionless
+|sublocation    = 
+|sources        = Fishing Rod
+|nopassive      = 1
+|radar_location = 
+|xp             = 20
+|weather        = 
+|time           = 
+|season         = 
+|bait           = 
+|base_weight    = 5
+|base_value     = 50
+|weight_range   = 2.5
+|base_chance    = 40
+|base_resil     = 100
+}}
+'''Snowcap Algae''' is a {{Rarity|Limited}} fish found in any body of water during the [[Archeological Site]] event.
+
+== Description ==
+{{Description|A cold, frosty variant with a tale to tell.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Snowcap Algae can only be found in the icy and frigid peaks of Snowcap Mountain, where the harsh cold has preserved it for centuries...|Bestiary Hint}}
+{{Fish Availability|
+Snowcap Island/Algae Hunt
+|top_rods      = 
+Krampus's Rod\346601.59\329242.91;
+Magma Rod\336517.45\319663.81;
+Plastic Rod\308194.3\292670.5;
+Fast Rod\291728.74\371864.97;
+Flimsy Rod\269150.45\437017.56;
+Buddy Bond Rod\228791.1\326099.51;
+Training Rod\232829.28\353508.62;
+Fischer's Rod\256849.24\327415.7;
+Ethereal Prism Rod\232671.46\266131.2;
+No-Life Rod\232338.52\182210.14;
+Seraphic Rod\230060.74\181492.83;
+Trident Rod\224933.68\161124.63;
+Free Spirit Rod\223261.9\159927.1;
+Rod Of The Forgotten Fang\216842.75\165728.48;
+Challenger's Rod\213253.87\166122.67;
+Rod Of The Exalted One\202727.84\144918.35;
+Zeus Rod\197812.41\154904.36;
+Rod Of The Depths\197520.33\150982.58;
+Verdant Shear Rod\196748.67\155302.57;
+Blazebringer Rod\187783.36\146264.37;
+Depthseeker Rod\180609.41\141690.97;
+Avalanche Rod\179623.34\127391.55;
+Volcanic Rod\174361.83\117653.46;
+Steady Rod\91070.28\64648.43
+|recommended   = Training Rod
+}}
+
+== Gameplay Notes ==
+* Snowcap Algae usually cannot be caught with passive effects, such as the one provided by the [[Rod Of The Depths]] and [[Rod Of The Forgotten Fang]].
+** The only exception is when catching a Snowcap Algae on the Megalodon Passive reel of the [[Rod Of The Forgotten Fang]], the Megalodon will instead dupe the Snowcap Algae.
+
+== Catch Quips ==
+When catching a Snowcap Algae, the player has a chance to make one of the following exclamations:
+* Woah a algae!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Archeological Site}}

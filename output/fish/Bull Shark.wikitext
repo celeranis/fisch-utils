@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Bull Shark.png
+|rarity         = Legendary
+|sea            = First Sea
+|location       = [[Ocean]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 150
+|weather        = Rain, Foggy
+|time           = 
+|season         = Spring
+|bait           = Fish Head
+|base_weight    = 130
+|base_value     = 400
+|weight_range   = 40
+|base_chance    = 0.3
+|base_resil     = 20
+}}
+'''Bull Shark''' is a {{Rarity|Legendary}} fish found in the [[Ocean]].
+
+== Description ==
+{{Description|Bull sharks have robust bodies, and an extremely powerful nature. They have a special ability to adapt to both saltwater and freshwater, which is quite rare for sharks. Bull Sharks can be found most commonly near coats, and in freshwaters.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found roaming in all types of waters and on the coasts.|Bestiary Hint}}
+{{Fish Availability|
+Moosewood/Surrounding Ocean
+Roslit Bay/Coral Reef
+|top_rods      = 
+Leviathan's Fang Rod\62850.29\286562.01;
+Free Spirit Rod\56490.87\240647.61;
+Trident Rod\55247.19\235349.63;
+No-Life Rod\43818.02\186260.08;
+Ethereal Prism Rod\41886.99\171741.24;
+Lucky Rod\25355.69\137348.66;
+Resourceful Rod\31653.21\135085.66;
+Destiny Rod\33293.11\143108.05;
+Firefly Rod\35246.04\177699.11;
+Adventurer's Rod\22395.09\116457.86;
+Fischer's Rod\22514.21\117077.32;
+Seraphic Rod\41139.03\172782.22;
+Rod Of The Forgotten Fang\38471.22\161602.92;
+Challenger's Rod\37822.01\163610.58;
+Rod Of The Depths\34669.85\146540.05;
+Zeus Rod\34576.97\151072.66;
+Verdant Shear Rod\34150.84\150499.68;
+Rod Of The Exalted One\33627.45\144625.45;
+Blazebringer Rod\32865.74\144223.53;
+Depthseeker Rod\31604.94\139557.29;
+Avalanche Rod\28441.19\124698.18;
+Volcanic Rod\26941.56\119390.34;
+Steady Rod\9846.75\40454.11
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Bull Shark, the player has a chance to make one of the following exclamations:
+* A Bull Shark!
+* Thats some Bull Shark!
+* I caught a Bull Shark!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ocean}}

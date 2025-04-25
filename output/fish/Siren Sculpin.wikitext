@@ -1,0 +1,70 @@
+{{FishInfobox
+|image          = Siren Sculpin.png
+|rarity         = Rare
+|sea            = First Sea
+|location       = [[Veil of the Forsaken]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -50
+|xp             = 1450
+|weather        = Windy
+|time           = 
+|season         = 
+|bait           = Squid
+|base_weight    = 250
+|base_value     = 4000
+|weight_range   = 160
+|base_chance    = 10
+|base_resil     = 30
+}}
+'''Siren Sculpin''' is a {{Rarity|Rare}} fish found in the [[Veil of the Forsaken]] of [[Mariana's Veil]].
+
+== Description ==
+{{Description|A small, glowing fish with a hypnotic pattern on its scales.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Typically found alone, where wind is fierce.|Bestiary Hint}}
+{{Fish Availability|
+Mariana's Veil/Scylla Hunt
+Mariana's Veil/Veil of the Forsaken
+|top_rods      = 
+Leviathan's Fang Rod\125672.94\274460.92;
+Ethereal Prism Rod\114679.27\177518.19;
+Seraphic Rod\109962.57\179436.47;
+No-Life Rod\105550.24\185368.47;
+Tempest Rod\103781.39\176981.48;
+Plastic Rod\94652.93\161533.49;
+Buddy Bond Rod\76125.34\110093.92;
+Krampus's Rod\103493.88\119027.27;
+Trident Rod\99223.97\252395.22;
+Free Spirit Rod\97054.13\246875.81;
+Firefly Rod\83349.76\245645.46;
+Fast Rod\75777.78\239449.46;
+Lucky Rod\69349.96\157562.02;
+Long Rod\66690.23\179287.1;
+Fungal Rod\71389.07\208200.51;
+Rod Of The Forgotten Fang\101353.53\171001.96;
+Challenger's Rod\97068.4\174274.6;
+Rod Of The Exalted One\89556.25\147401.77;
+Rod Of The Depths\89522.66\152429.25;
+Zeus Rod\84230.1\154822.63;
+Verdant Shear Rod\81475.68\153583.08;
+Blazebringer Rod\80543.17\148910.67;
+Depthseeker Rod\75630.71\146910.57;
+Avalanche Rod\67459.62\130886.63;
+Volcanic Rod\65765.96\122620.78;
+Steady Rod\20815.9\49158.61
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching a Siren Sculpin, the player has a chance to make one of the following exclamations:
+* A Siren Sculpin!
+* It's so mesmerizing!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Veil of the Forsaken}}

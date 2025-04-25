@@ -1,0 +1,79 @@
+{{FishInfobox
+|image          = Haddock.png
+|rarity         = Common
+|sea            = First Sea
+|location       = [[Ocean]]
+|sublocation    = 
+|sources        = Common Crate, Fish Barrel, Fishing Rod
+|radar_location = 
+|xp             = 60
+|weather        = 
+|time           = Day
+|season         = Autumn, Winter
+|bait           = Worm
+|base_weight    = 4
+|base_value     = 50
+|weight_range   = 2.5
+|base_chance    = 110
+|base_resil     = 85
+}}
+'''Haddock''' is a {{Rarity|Common}} fish found in the [[Ocean]].
+
+== Description ==
+{{Description|Haddock are small, silvery fish found in cold ocean waters. Haddock are often found in large schools, they are relatively easy to catch and are easy to find near their signature 'Haddock Rock'.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in schools near 'Haddock rock'.|Bestiary Hint}}
+{{Fish Availability|
+Lucky Event/Blarney McBreeze
+Lucky Event/O'Mango Goldgrin
+Lucky Event/Plumrick O'Luck
+Lucky Event/Rowdy McCharm
+Lucky Event/Sunny O'Coin
+Northern Summit/Surrounding Ocean
+Ocean
+Ocean/Strange Whirlpool
+Ocean/The Arch
+Roslit Bay/Surrounding Ocean
+Shark Hunt/Great Hammerhead Shark
+Shark Hunt/Great White Shark
+Shark Hunt/Whale Shark
+|top_rods      = 
+Leviathan's Fang Rod\193196.87\0;
+Krampus's Rod\190280.36\33186;
+Magma Rod\184453.19\37199.59;
+Trident Rod\180938.67\0;
+Free Spirit Rod\178748.83\0;
+Plastic Rod\168456.74\32948.9;
+Buddy Bond Rod\125139.29\23594.04;
+Nocturnal Rod\101055.53\142399.7;
+No-Life Rod\175888.71\54188.48;
+Challenger's Rod\161379.63\53258.52;
+Blazebringer Rod\144217.64\51797.66;
+Tempest Rod\170149.69\51771.11;
+Training Rod\135785.34\38665.92;
+Long Rod\128592.63\34498.43;
+Ethereal Prism Rod\176600.11\0;
+Seraphic Rod\174199.33\0;
+Rod Of The Forgotten Fang\163967.52\7918.31;
+Rod Of The Exalted One\154422.41\0;
+Rod Of The Depths\151687.17\50611.38;
+Verdant Shear Rod\150952.26\48308.56;
+Zeus Rod\149666.03\45850.7;
+Depthseeker Rod\141054.95\33426.09;
+Avalanche Rod\139923.16\28305.42;
+Volcanic Rod\136163.91\35727.45;
+Steady Rod\70678.96\14333.1
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Haddock, the player has a chance to make one of the following exclamations:
+* I caught a Haddock!
+* Woah, a Haddock!!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ocean}}

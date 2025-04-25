@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Primordial Levi.png
+|rarity         = Secret
+|sea            = Second Sea
+|location       = [[Lushgrove]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -85
+|xp             = 6000
+|weather        = Windy
+|time           = Night
+|season         = Autumn
+|bait           = Luminous Larva
+|base_weight    = 1200
+|base_value     = 12000
+|weight_range   = 750
+|base_chance    = 1
+|base_resil     = 3
+}}
+'''Primordial Levi''' is a {{Rarity|Secret}} fish found in [[Lushgrove]].
+
+== Description ==
+{{Description|A near-black fish with bright red accents, its menacing form a relic of a primal age.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It stirs when the winds howl through the faded light.|Bestiary Hint}}
+{{Fish Availability|
+Lushgrove
+|top_rods      = 
+Free Spirit Rod\655.28\4588.14;
+Azure Of Lagoon\588.32\4512.35;
+Egg Rod\585.71\4574.83;
+Blazebringer Rod\551.21\4187.52;
+Great Dreamer Rod\526.54\4074.05;
+Resourceful Rod\508.73\3844.29;
+Destiny Rod\371.05\2656.2;
+Event Horizon Rod\244.66\2612.24;
+Astral Rod\244.66\2612.24;
+Magma Rod\272.24\2951.08;
+Verdant Shear Rod\513.72\4012.51;
+Seraphic Rod\453.45\3541.74;
+Challenger's Rod\443.77\3606.13;
+Ethereal Prism Rod\428.58\3212.78;
+Trident Rod\425.54\3323.75;
+No-Life Rod\394.97\3226.26;
+Rod Of The Forgotten Fang\372.49\2923.32;
+Rod Of The Exalted One\343.09\2630.21;
+Depthseeker Rod\330.15\2800.8;
+Rod Of The Depths\316.18\2517.95;
+Avalanche Rod\299.14\2543.45;
+Volcanic Rod\294.38\2443.03;
+Steady Rod\281.8\2490.89;
+Zeus Rod\281.07\2332.62
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Primordial Levi, the player has a chance to make one of the following exclamations:
+* A PRIMORDIAL LEVI!?!
+* RED FURY UNLEASHED!!
+* ANCIENT BEAST!?
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Lushgrove}}

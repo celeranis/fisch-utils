@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Stormcloud Angelfish.png
+|rarity         = Rare
+|sea            = First Sea
+|location       = [[Atlantis]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 231
+|weather        = Rain
+|time           = 
+|season         = 
+|bait           = Shrimp
+|base_weight    = 120
+|base_value     = 310
+|weight_range   = 60
+|base_chance    = 25
+|base_resil     = 30
+}}
+'''Stormcloud Angelfish''' is a {{Rarity|Rare}} fish found in [[Atlantis]].
+
+== Description ==
+{{Description|A majestic fish whose fins ripple like storm clouds. They can generate powerful electrical fields that mirror Zeus' lightning.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in deeper parts of Zeus Pool during storms.|Bestiary Hint}}
+{{Fish Availability|
+Atlantis/Zeus's Rod Room
+|top_rods      = 
+Leviathan's Fang Rod\194053.73\178864.75;
+Krampus's Rod\173939.24\177452.18;
+Trident Rod\166073.54\167513.45;
+Magma Rod\165107.34\168441.91;
+Free Spirit Rod\155788.31\157139.04;
+Plastic Rod\150016.76\153061.24;
+Fast Rod\114788.88\175819.54;
+Buddy Bond Rod\111439.29\143387.37;
+Adventurer's Rod\98078.54\150228.48;
+Fischer's Rod\100451.41\153863.04;
+Ethereal Prism Rod\138791.21\104437.39;
+No-Life Rod\136617.87\118449.33;
+Seraphic Rod\135671.92\104996.46;
+Rod Of The Forgotten Fang\126960.28\102588.55;
+Challenger's Rod\123408.19\103102.87;
+Rod Of The Depths\114475.41\93237.62;
+Zeus Rod\112011.93\95271.42;
+Rod Of The Exalted One\111351.09\95777.71;
+Verdant Shear Rod\109891.48\94918.99;
+Blazebringer Rod\106420.6\90905.24;
+Depthseeker Rod\101233.46\89010.22;
+Avalanche Rod\91149.32\80385.89;
+Volcanic Rod\87281.8\75327.98;
+Steady Rod\32475.45\30175.63
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Stormcloud Angelfish, the player has a chance to make one of the following exclamations:
+* A Stormcloud Angel!
+* Zeus' beauty!
+* Storm incarnate!
+* Magnificent!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Atlantis}}

@@ -1,0 +1,77 @@
+{{FishInfobox
+|image          = Pufferfish.png
+|rarity         = Rare
+|sea            = First Sea
+|location       = [[Ocean]]
+|sublocation    = Coral Reef
+|sources        = Fish Barrel, Fishing Rod, Volcanic Geode
+|radar_location = 
+|xp             = 100
+|weather        = 
+|time           = 
+|season         = Summer
+|bait           = Seaweed
+|base_weight    = 2
+|base_value     = 230
+|weight_range   = 1.5
+|base_chance    = 12
+|base_resil     = 65
+}}
+'''Pufferfish''' is a {{Rarity|Rare}} fish found in the [[Ocean]].
+
+== Description ==
+{{Description|Pufferfish are clumsy swimmers that can fill their elastic stomachs with huge amounts of water & air to blow themselves up to several times their normal size. They do this to evade and scare of predators. On top of their bloating abilities, they also are one of the most poisonous fish in the sea... Also they are the only bony fish which can close their eyes!|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in reefs and deepwaters.|Bestiary Hint}}
+{{Fish Availability|
+Lucky Event/Blarney McBreeze
+Lucky Event/O'Mango Goldgrin
+Lucky Event/Plumrick O'Luck
+Lucky Event/Rowdy McCharm
+Lucky Event/Sunny O'Coin
+Northern Summit/Surrounding Ocean
+Ocean
+Ocean/Harvesters Spike
+Roslit Bay/Coral Reef
+Roslit Bay/Surrounding Ocean
+|top_rods      = 
+Leviathan's Fang Rod\90420.7\86584.21;
+Krampus's Rod\87893.4\84915.65;
+Magma Rod\84793.12\81920.41;
+Trident Rod\83528.14\81755.58;
+Free Spirit Rod\81424.7\79696.77;
+Flimsy Rod\60107.59\116471.91;
+Plastic Rod\77476.48\74849.75;
+Buddy Bond Rod\57553.96\56995.61;
+Training Rod\55802.33\152079.07;
+No-Life Rod\78445.85\74072.4;
+Ethereal Prism Rod\77936.16\70584.21;
+Seraphic Rod\77128.97\70599.53;
+Rod Of The Forgotten Fang\72642.36\69604.67;
+Challenger's Rod\71660.66\69815.1;
+Rod Of The Exalted One\67314.37\65274.1;
+Zeus Rod\66355.29\65025.66;
+Rod Of The Depths\65994.06\64135.93;
+Verdant Shear Rod\65904.62\62834.46;
+Blazebringer Rod\62965.86\61984.57;
+Depthseeker Rod\60690.51\58325.25;
+Volcanic Rod\58214.68\54904.05;
+Avalanche Rod\57301.12\52968.86;
+Steady Rod\26481.06\19524.19
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Pufferfish, the player has a chance to make one of the following exclamations:
+* Woah! a Blowfish!
+* A Pufferfish!
+* A Water Balloon!
+* Woah, A Pufferfish!
+* Augh...
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ocean}}

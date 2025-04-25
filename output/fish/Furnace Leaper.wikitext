@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Furnace Leaper.png
+|rarity         = Unusual
+|sea            = Second Sea
+|location       = [[Emberreach]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -12
+|xp             = 80
+|weather        = Clear
+|time           = Day
+|season         = Summer
+|bait           = Flakes
+|base_weight    = 594
+|base_value     = 168
+|weight_range   = 360
+|base_chance    = 70
+|base_resil     = 46
+}}
+'''Furnace Leaper''' is an {{Rarity|Unusual}} fish found in [[Emberreach]].
+
+== Description ==
+{{Description|A robust fish, its fins alight with the heat of hidden flames.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It bounds where the sun stokes the calm flames.|Bestiary Hint}}
+{{Fish Availability|
+Emberreach/Surrounding Ocean
+|top_rods      = 
+Free Spirit Rod\211341.72\12921.47;
+Leviathan's Fang Rod\210456.81\19603.69;
+Trident Rod\209106.06\18847.34;
+Azure Of Lagoon\192240.61\11775.02;
+Egg Rod\168607.29\15357.62;
+North-Star Rod\119114.06\10797.92;
+Rapid Rod\143527.67\13066.1;
+Carbon Rod\119078.79\10793.65;
+Nocturnal Rod\73091.74\72586.96;
+Blazebringer Rod\167491.68\15601.56;
+Resourceful Rod\126028.98\12966.93;
+Verdant Shear Rod\165879.57\15109.16;
+No-Life Rod\158227.33\15070.54;
+Seraphic Rod\145098.63\13078.16;
+Ethereal Prism Rod\144181.27\8838.77;
+Challenger's Rod\138288.3\13089.51;
+Rod Of The Forgotten Fang\136979.41\12436.18;
+Depthseeker Rod\136192.82\13615.25;
+Rod Of The Exalted One\136179.82\12403.96;
+Avalanche Rod\132794.68\13308.68;
+Volcanic Rod\131710.34\12805.32;
+Rod Of The Depths\131262.32\12209;
+Zeus Rod\130961.61\12732.53;
+Steady Rod\109162.4\10889.61
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Furnace Leaper, the player has a chance to make one of the following exclamations:
+* A Furnace Leaper!
+* Tough blaze!
+* Orange jumper!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Emberreach}}

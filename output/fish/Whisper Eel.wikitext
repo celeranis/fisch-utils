@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Whisper Eel.png
+|rarity         = Exotic
+|sea            = Second Sea
+|location       = [[Isle of New Beginnings]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -90
+|xp             = 2365
+|weather        = Windy
+|time           = 
+|season         = Spring
+|bait           = Golden Worm
+|base_weight    = 1500
+|base_value     = 4967
+|weight_range   = 900
+|base_chance    = 1
+|base_resil     = 5
+}}
+'''Whisper Eel''' is an {{Rarity|Exotic}} fish found in the [[Isle of New Beginnings]].
+
+== Description ==
+{{Description|A light blue eel with translucent accents, its whispers echo through the currents.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It hums where the winds churn the waves.|Bestiary Hint}}
+{{Fish Availability|
+Isle of New Beginnings
+|top_rods      = 
+Free Spirit Rod\16686.44\117454.89;
+Azure Of Lagoon\15634.56\115239.07;
+Egg Rod\14251.84\101833.63;
+Challenger's Rod\13675.66\101238.59;
+Blazebringer Rod\13416.71\93509.29;
+Frog Rod\6488.48\54758.79;
+Destiny Rod\8909.4\61567.56;
+Tempest Rod\13199.13\96824.81;
+Wildflower Rod\8426.74\76968.35;
+Magma Rod\5748.49\49974.06;
+Seraphic Rod\12962.24\92619.03;
+Ethereal Prism Rod\11525.21\82886.21;
+Verdant Shear Rod\11328.73\80947.11;
+No-Life Rod\10076.54\74940.55;
+Rod Of The Forgotten Fang\9552.04\68544.95;
+Trident Rod\9364.64\66913.09;
+Depthseeker Rod\8081.97\61157.89;
+Rod Of The Exalted One\8068.78\56696.64;
+Rod Of The Depths\7103.5\51645.71;
+Avalanche Rod\6712.5\50710.37;
+Volcanic Rod\6341.46\47834.77;
+Steady Rod\6094.85\44782.54;
+Zeus Rod\5724.53\43181.16
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Whisper Eel, the player has a chance to make one of the following exclamations:
+* A WHISPER EEL?!
+* TRANSLUCENT WONDER!
+* EEL OF THE UNKNOWN!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Isle of New Beginnings}}

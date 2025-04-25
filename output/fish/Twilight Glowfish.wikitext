@@ -1,0 +1,64 @@
+{{FishInfobox
+|image          = Twilight Glowfish.png
+|rarity         = Rare
+|sea            = First Sea
+|location       = [[Atlantis]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 400
+|weather        = Clear
+|time           = Night
+|season         = 
+|bait           = Night Shrimp
+|base_weight    = 30
+|base_value     = 650
+|weight_range   = 15
+|base_chance    = 12
+|base_resil     = 30
+}}
+'''Twilight Glowfish''' is a {{Rarity|Rare}} fish found in [[Atlantis]].
+
+== Description ==
+{{Description|Masters of both light and shadow, these mysterious fish emit a captivating glow that intensifies during twilight hours. Their presence is said to reveal hidden pathways in ancient ruins.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Sunken's Depth Pool|Bestiary Hint}}
+{{Fish Availability|
+Atlantis/Sunken Depths
+|top_rods      = 
+Leviathan's Fang Rod\90572.14\136040.55;
+Trident Rod\77685.47\121967.36;
+Krampus's Rod\73323.51\82850.08;
+Free Spirit Rod\72874.27\114413.7;
+Magma Rod\69600.45\78643.3;
+Plastic Rod\63280.89\71491.36;
+Buddy Bond Rod\47008.66\58673.16;
+No-Life Rod\63180.28\85978.25;
+Ethereal Prism Rod\65097.81\80312.07;
+Seraphic Rod\62929.45\80602.22;
+Rod Of The Forgotten Fang\58811.49\78323.63;
+Challenger's Rod\57042.93\78492.91;
+Rod Of The Depths\52814.62\71103.87;
+Rod Of The Exalted One\51912.32\72597.41;
+Zeus Rod\51877.73\72385.97;
+Verdant Shear Rod\50969.81\71992.5;
+Blazebringer Rod\49288.14\69068.61;
+Depthseeker Rod\46976.55\67467.8;
+Avalanche Rod\42305.15\60914.63;
+Volcanic Rod\40424.11\57233.21;
+Steady Rod\14266.28\20835.12
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Twilight Glowfish, the player has a chance to make one of the following exclamations:
+* A Twilight Glowfish!
+* Between day and night!
+* Follow its light!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Atlantis}}

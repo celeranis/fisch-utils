@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Blazebelly.png
+|rarity         = Rare
+|sea            = Second Sea
+|location       = [[Emberreach]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -3
+|xp             = 210
+|weather        = Clear
+|time           = Day
+|season         = Spring
+|bait           = Coal
+|base_weight    = 1260
+|base_value     = 441
+|weight_range   = 780
+|base_chance    = 41
+|base_resil     = 37
+}}
+'''Blazebelly''' is a {{Rarity|Rare}} fish found in [[Emberreach]].
+
+== Description ==
+{{Description|A dark fish, its underbelly and fins pulsing with inner warmth.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Its fire pulses through the bright renewal.|Bestiary Hint}}
+{{Fish Availability|
+Emberreach/Freshwater Pond
+|top_rods      = 
+Trident Rod\180372.7\7384.66;
+Leviathan's Fang Rod\148936.85\7379.8;
+No-Life Rod\147408.31\11040.66;
+Brother's Rod\140431.44\10418.17;
+Wildflower Rod\140013.36\11236.63;
+Resourceful Rod\112516.5\9199.21;
+Phoenix Rod\117823.96\9572.04;
+Wisdom Rod\118276.51\9608.81;
+Nocturnal Rod\61031.91\61031.91;
+Egg Rod\134055\10968.14;
+Verdant Shear Rod\129855.61\10616.83;
+Challenger's Rod\123582.68\9229.51;
+Blazebringer Rod\122226.62\10000.36;
+Depthseeker Rod\121113.26\9355.18;
+Avalanche Rod\116617.36\9020.6;
+Volcanic Rod\116031.69\8780.62;
+Zeus Rod\115495.3\8740.02;
+Free Spirit Rod\113096.36\9609.74;
+Rod Of The Depths\110081.5\6170;
+Seraphic Rod\109624.76\6567.89;
+Rod Of The Forgotten Fang\106223.95\6224.1;
+Steady Rod\96900.67\7550.43;
+Rod Of The Exalted One\90116.7\6182.5;
+Ethereal Prism Rod\86875.23\6510.76
+|recommended   = Verdant Shear Rod
+}}
+
+== Catch Quips ==
+When catching a Blazebelly, the player has a chance to make one of the following exclamations:
+* A Blazebelly!
+* Fiery guts!
+* Hot belly haul!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Emberreach}}

@@ -1,0 +1,41 @@
+{{FishInfobox
+|image          = Turkey.png
+|rarity         = Limited
+|event          = Fischgiving
+|sea            = First Sea
+|location       = [[Fischgiving]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -65
+|xp             = 1700
+|weather        = 
+|time           = 
+|season         = Autumn
+|bait           = Insect
+|base_weight    = 30
+|base_value     = 4000
+|weight_range   = 22
+|base_chance    = 0
+|base_resil     = 20
+}}
+'''Turkey''' is a {{Rarity|Limited}} fish found in [[Fischgiving]] during the [[Fischgiving]] event.
+
+== Description ==
+{{Description|Turkeys are large and heavy birds with a uniquely-shaped tail consisting of many feathers that line up to create a circular pattern. However, the poor Turkey is the desired choice of food for many fischers for Fischgiving dinner.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Only obtainable during Fischgiving|Bestiary Hint}}
+
+== Catch Quips ==
+When catching a Turkey, the player has a chance to make one of the following exclamations:
+* Woah! a Turkey!
+* A Turkey!
+* Gobble Gobble!
+* Woah, A Turkey!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Fischgiving}}

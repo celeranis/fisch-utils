@@ -1,0 +1,63 @@
+{{FishInfobox
+|image          = Fangborn Gar.png
+|rarity         = Unusual
+|sea            = First Sea
+|location       = [[Vertigo]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 100
+|weather        = Foggy
+|time           = 
+|season         = 
+|bait           = Fish Head
+|base_weight    = 38
+|base_value     = 170
+|weight_range   = 21
+|base_chance    = 50
+|base_resil     = 30
+}}
+'''Fangborn Gar''' is an {{Rarity|Unusual}} fish found in [[Vertigo]].
+
+== Description ==
+{{Description|The Fangborn Gar is a vicious Voidwater fish that is completely blind. They roam the waters aimlessly and use a sense of smell to track food in Vertigo Dip.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in Vertigo's cave water.|Bestiary Hint}}
+{{Fish Availability|
+Vertigo/Vertigos Dip
+|top_rods      = 
+Ethereal Prism Rod\147612.7\220010.07;
+Leviathan's Fang Rod\146871.86\164802.5;
+No-Life Rod\144006.33\144006.33;
+Trident Rod\143031.83\105399.59;
+Seraphic Rod\140814.24\140814.24;
+Fortune Rod\80727.69\134233.35;
+Kraken Rod\116320.89\140967.21;
+Free Spirit Rod\134173.62\104481.34;
+Challenger's Rod\128777.91\128777.91;
+Rod Of The Forgotten Fang\128196.05\128196.05;
+Depthseeker Rod\126408.83\109478.95;
+Zeus Rod\119117.85\119117.85;
+Verdant Shear Rod\119066.09\119066.09;
+Avalanche Rod\119058.36\97841.26;
+Rod Of The Depths\115960.01\115960.01;
+Blazebringer Rod\112566.62\112566.62;
+Rod Of The Exalted One\110054.72\115908.67;
+Volcanic Rod\102289.68\90407.99;
+Steady Rod\67583.25\49926.89
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching a Fangborn Gar, the player has a chance to make one of the following exclamations:
+* A Gar!
+* I caught a Fangborn Gar!
+* Woah! A Fangborn Gar!
+* Oh my Gar!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Vertigo}}

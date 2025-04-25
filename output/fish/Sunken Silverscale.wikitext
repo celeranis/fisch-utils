@@ -1,0 +1,66 @@
+{{FishInfobox
+|image          = Sunken Silverscale.png
+|rarity         = Common
+|sea            = First Sea
+|location       = [[Atlantis]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 45
+|weather        = Clear
+|time           = Day
+|season         = Summer
+|bait           = Shrimp
+|base_weight    = 1.4
+|base_value     = 65
+|weight_range   = 1
+|base_chance    = 85
+|base_resil     = 85
+}}
+'''Sunken Silverscale''' is a {{Rarity|Common}} fish found in [[Atlantis]].
+
+== Description ==
+{{Description|These fish have adapted to live among the submerged silver treasures. Their scales have taken on a metallic sheen that mimics the precious artifacts they swim among.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Sunken's Depth Pool|Bestiary Hint}}
+{{Fish Availability|
+Atlantis/Sunken Depths
+|top_rods      = 
+Leviathan's Fang Rod\170580.37\0;
+Trident Rod\165408.35\14143.84;
+Free Spirit Rod\163406.46\14122.85;
+No-Life Rod\159000.13\20263.25;
+Azure Of Lagoon\157392.91\19280.81;
+Training Rod\123109.3\21655.37;
+Flimsy Rod\98189.57\18575.12;
+Long Rod\129360.7\15993.6;
+Nocturnal Rod\92763.41\75742.13;
+Fast Rod\138350.68\20281.53;
+Seraphic Rod\146862\20169.66;
+Challenger's Rod\145682.57\18461.55;
+Zeus Rod\143134.08\17214.83;
+Rod Of The Forgotten Fang\142246.72\18417.74;
+Blazebringer Rod\142226.55\16853.85;
+Verdant Shear Rod\141746.12\17243.83;
+Ethereal Prism Rod\141658.09\0;
+Rod Of The Depths\141542.39\16765.68;
+Depthseeker Rod\140103.65\16107.17;
+Rod Of The Exalted One\139469.93\0;
+Avalanche Rod\138806.24\15492.04;
+Volcanic Rod\138033.81\16357.01;
+Steady Rod\68024.2\8689.43
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Sunken Silverscale, the player has a chance to make one of the following exclamations:
+* A Sunken Silverscale!
+* Treasure of the deep!
+* Like swimming silver!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Atlantis}}

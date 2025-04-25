@@ -1,0 +1,71 @@
+{{FishInfobox
+|image          = Piranhamunk.png
+|rarity         = Limited
+|event          = Animal Hunt
+|sea            = First Sea
+|location       = [[Animals]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -45
+|xp             = 2400
+|weather        = Foggy
+|time           = 
+|season         = Spring
+|bait           = Minnow
+|base_weight    = 250
+|base_value     = 2600
+|weight_range   = 175
+|base_chance    = 35
+|base_resil     = 25
+}}
+'''Piranhamunk''' is a {{Rarity|Limited}} fish found in [[Animal Hunt]]s in the [[First Sea]].
+
+== Description ==
+{{Description|A chittering fish with razor teeth, gnawing through the shadows.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It bites where the fog hides the shore.|Bestiary Hint}}
+{{Fish Availability|
+Animal Hunt/First Sea
+|top_rods      = 
+Krampus's Rod\167524.69\334323.54;
+Magma Rod\163229.18\325751.14;
+Plastic Rod\143217.33\320011.88;
+Leviathan's Fang Rod\139713.43\469633.43;
+Free Spirit Rod\120998.01\313001.44;
+Buddy Bond Rod\120621.4\275252.28;
+Rapid Rod\91396.53\359036.56;
+Fast Rod\96320.77\349558.72;
+Fischer's Rod\87998.9\348928.05;
+Adventurer's Rod\83198.96\329895.61;
+Ethereal Prism Rod\118182.28\295104.52;
+Trident Rod\115727.46\302700.3;
+Seraphic Rod\112595.64\297224.88;
+No-Life Rod\109712.92\318820.5;
+Rod Of The Forgotten Fang\103846.61\288740.1;
+Challenger's Rod\100115.82\296693.52;
+Rod Of The Exalted One\92074.8\246601.34;
+Rod Of The Depths\91612.15\258274.33;
+Zeus Rod\88054.28\255510.87;
+Verdant Shear Rod\85832.43\255717.89;
+Blazebringer Rod\84134.4\244136.4;
+Depthseeker Rod\79862.34\240091.59;
+Avalanche Rod\71318.11\215189.39;
+Volcanic Rod\68723.84\199418.92;
+Steady Rod\28613.57\72202.2
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching a Piranhamunk, the player has a chance to make one of the following exclamations:
+* A Piranhamunk!
+* Chomper!
+* Teeth of the tide!
+* Monkey with attitude!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Animals}}

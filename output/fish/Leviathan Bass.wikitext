@@ -1,0 +1,70 @@
+{{FishInfobox
+|image          = Leviathan Bass.png
+|rarity         = Unusual
+|sea            = First Sea
+|location       = [[Atlantis]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 200
+|weather        = 
+|time           = Night
+|season         = 
+|bait           = Fish Head
+|base_weight    = 16
+|base_value     = 400
+|weight_range   = 8
+|base_chance    = 30
+|base_resil     = 60
+}}
+'''Leviathan Bass''' is an {{Rarity|Unusual}} fish found in [[Atlantis]].
+
+== Description ==
+{{Description|A bass grown to monstrous proportions under Poseidon's influence. Its strikes can create small whirlpools in the water.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Creates disturbances in Poseidon's Pool when hunting, Poseidon Pool fish.|Bestiary Hint}}
+{{Fish Availability|
+Atlantis/Poseidon Temple
+|top_rods      = 
+Leviathan's Fang Rod\270609.85\167676.03;
+Krampus's Rod\265263.97\232912.23;
+Trident Rod\264695.63\122164.44;
+Free Spirit Rod\256491.03\121746.15;
+Magma Rod\255337.34\224196.26;
+Flimsy Rod\247875.27\251737.84;
+Training Rod\253770.28\219635.63;
+Plastic Rod\234891.1\205772.11;
+Fast Rod\241362.92\267508.96;
+Fischer's Rod\216049.24\239453.14;
+Adventurer's Rod\214283.17\237495.76;
+Buddy Bond Rod\173542.39\233975.87;
+No-Life Rod\232768.67\172253.05;
+Challenger's Rod\212476.07\156079.73;
+Seraphic Rod\210702.86\170448.67;
+Zeus Rod\209237.76\145082.11;
+Rod Of The Forgotten Fang\207841.32\155562.62;
+Blazebringer Rod\207189.03\136955.14;
+Ethereal Prism Rod\206092.92\175909.35;
+Verdant Shear Rod\206052.87\145154.15;
+Rod Of The Depths\203815.65\141209.59;
+Rod Of The Exalted One\202151.97\132678.69;
+Volcanic Rod\200671.49\110107.16;
+Depthseeker Rod\200532.69\132961.01;
+Avalanche Rod\197791.39\119145.59;
+Steady Rod\80657.5\49508.22
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Leviathan Bass, the player has a chance to make one of the following exclamations:
+* A LEVIATHAN BASS!
+* MASSIVE!
+* POSEIDON'S BASS!
+* WHAT POWER!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Atlantis}}

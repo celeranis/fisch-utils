@@ -1,0 +1,66 @@
+{{FishInfobox
+|image          = Great White Shark.png
+|rarity         = Mythical
+|sea            = First Sea
+|location       = [[Ocean]]
+|sublocation    = Shark Hunt
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -30
+|xp             = 900
+|weather        = Clear
+|time           = 
+|season         = Autumn
+|bait           = Fish Head
+|base_weight    = 1200
+|base_value     = 6000
+|weight_range   = 500
+|base_chance    = 2
+|base_resil     = 8
+}}
+'''Great White Shark''' is a {{Rarity|Mythical}} fish found in [[Shark Hunt]]s.
+
+== Description ==
+{{Description|Great White Sharks are apex predators and will put up an intense fight when hooked. Their presence is often a sign of rich, diverse marine life in the area. Rare and challenging, they offer one of the biggest rewards for those skilled enough to catch them.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Only rarely spotted in the oceans during a Shark Hunt.|Bestiary Hint}}
+{{Fish Availability|
+Shark Hunt/Great White Shark
+|top_rods      = 
+Leviathan's Fang Rod\49985.5\382499.73;
+Ethereal Prism Rod\37297.24\233907.17;
+Free Spirit Rod\36914.12\368104.98;
+Trident Rod\35701.67\356014.46;
+Seraphic Rod\35511.62\234826.19;
+Resourceful Rod\28810.61\183532.24;
+Destiny Rod\30031.24\187765.74;
+Heaven's Rod\26770.67\189386.78;
+No-Life Rod\35156.72\260682.23;
+Rod Of The Depths\28895.57\196105.14;
+Rod Of The Zenith\30390.66\200548.19;
+Rod Of The Forgotten Fang\32805.29\222155.9;
+Challenger's Rod\31527.25\225933.55;
+Rod Of The Exalted One\29075.05\190218.54;
+Zeus Rod\27798.25\201211.27;
+Verdant Shear Rod\27008.94\198276.79;
+Blazebringer Rod\26523.77\192924.49;
+Depthseeker Rod\25163.08\191700.56;
+Avalanche Rod\22423.23\169020.66;
+Volcanic Rod\21671.47\158775.74;
+Steady Rod\7052.19\55697.32
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching a Great White Shark, the player has a chance to make one of the following exclamations:
+* WOAH!! I CAUGHT A GREAT WHITE!
+* A GREAT WHITE??
+* HOLY.. A GREAT WHITE??
+* I CAN'T FEEL MY SPINE!!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ocean}}

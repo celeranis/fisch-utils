@@ -1,0 +1,69 @@
+{{FishInfobox
+|image          = Lantern Snapper.png
+|rarity         = Legendary
+|sea            = Second Sea
+|location       = [[Isle of New Beginnings]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -60
+|xp             = 660
+|weather        = Clear
+|time           = Night
+|season         = Summer
+|bait           = Crystal Bananas
+|base_weight    = 90
+|base_value     = 1386
+|weight_range   = 57
+|base_chance    = 30
+|base_resil     = 28
+}}
+'''Lantern Snapper''' is a {{Rarity|Legendary}} fish found in the [[Isle of New Beginnings]].
+
+== Description ==
+{{Description|A tiny red fish glowing like a lantern, illuminating the reef’s shadows.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Its light dances in the warm twilight glow.|Bestiary Hint}}
+{{Fish Availability|
+Isle of New Beginnings
+|top_rods      = 
+Steady Rod\173464.38\236281.66;
+Krampus's Rod\160753.79\247240.12;
+Magma Rod\159764.59\250711.78;
+Plastic Rod\154265.03\209649.92;
+Frostfire Rod\140732.94\191697.06;
+Firefly Rod\102619.33\295397.48;
+Rod Of Time\96435.56\223518.98;
+Fischer's Rod\116359.85\223040.02;
+Fast Rod\113154.18\218478.44;
+Buddy Bond Rod\94795.86\222031.25;
+Free Spirit Rod\138484.73\189256.46;
+Verdant Shear Rod\103711.9\174588.72;
+Trident Rod\101711.6\131514.44;
+Blazebringer Rod\101410.08\167649.86;
+Ethereal Prism Rod\70980.78\116322.53;
+Seraphic Rod\70842.77\119256.8;
+No-Life Rod\69018.9\119054.37;
+Challenger's Rod\66113.72\114178.58;
+Rod Of The Forgotten Fang\65783.25\111083.8;
+Rod Of The Exalted One\65469.19\108877.97;
+Rod Of The Depths\63543.99\108323.01;
+Depthseeker Rod\62050.92\108352.72;
+Volcanic Rod\61466.45\107592.55;
+Avalanche Rod\61079.65\106417.78;
+Zeus Rod\60902.42\106605.26
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Lantern Snapper, the player has a chance to make one of the following exclamations:
+* A LANTERN SNAPPER!
+* RED BEACON!
+* GLOWING PRIZE!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Isle of New Beginnings}}

@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Lurking Crescent Pike.png
+|rarity         = Uncommon
+|sea            = Second Sea
+|location       = [[Blue Moon - Second Sea]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = +45
+|xp             = 1525
+|weather        = Windy
+|time           = 
+|season         = Winter
+|bait           = Lagoon Leech
+|base_weight    = 18
+|base_value     = 500
+|weight_range   = 11
+|base_chance    = 90
+|base_resil     = 60
+}}
+'''Lurking Crescent Pike''' is an {{Rarity|Uncommon}} fish found in [[Blue Moon]] events at [[Lushgrove]].
+
+== Description ==
+{{Description|A slender fish with crescent markings, hiding in the shadows.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It waits where the winds stir the bog's surface.|Bestiary Hint}}
+{{Fish Availability|
+Blue Moon/Second Sea
+|top_rods      = 
+Krampus's Rod\195134.05\185466.29;
+Magma Rod\194856\185202.01;
+Plastic Rod\193367.58\183787.33;
+Free Spirit Rod\178952.21\113732.36;
+Trident Rod\167614.85\167294.14;
+Magnet Rod\130504.66\200716;
+Buddy Bond Rod\139622.04\196334.23;
+Fischer's Rod\156479.78\192233.65;
+Fast Rod\156123.77\191796.3;
+Verdant Shear Rod\149105.56\167205.55;
+Blazebringer Rod\146520.16\163994.42;
+No-Life Rod\136439.03\136212.18;
+Seraphic Rod\127051.09\126808;
+Ethereal Prism Rod\125907.74\125112.71;
+Challenger's Rod\122730.37\122521.98;
+Rod Of The Forgotten Fang\122272.66\122041.42;
+Depthseeker Rod\121720.48\121562.98;
+Rod Of The Exalted One\121184.15\120827.27;
+Avalanche Rod\120682.66\120530.48;
+Rod Of The Depths\120671.43\120452.08;
+Volcanic Rod\120392.98\120207.87;
+Zeus Rod\120022.42\119837.87;
+Steady Rod\98781.39\98646.31
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Lurking Crescent Pike, the player has a chance to make one of the following exclamations:
+* A Lurking Crescent Pike!
+* Crescent shadow!
+* Starry!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Blue Moon - Second Sea}}

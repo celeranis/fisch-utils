@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Algae Lurker.png
+|rarity         = Rare
+|sea            = Second Sea
+|location       = [[Azure Lagoon]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -25
+|xp             = 245
+|weather        = Clear
+|time           = Day
+|season         = Spring
+|bait           = Squid
+|base_weight    = 180
+|base_value     = 510
+|weight_range   = 108
+|base_chance    = 48
+|base_resil     = 24
+}}
+'''Algae Lurker''' is a {{Rarity|Rare}} fish found in the [[Azure Lagoon]].
+
+== Description ==
+{{Description|A long green-blue fish with light green fins, lurking among tangled algae.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It hides where the lagoon blooms in stillness.|Bestiary Hint}}
+{{Fish Availability|
+Azure Lagoon
+|top_rods      = 
+Trident Rod\141381.42\6597.1;
+Leviathan's Fang Rod\126685.7\6598.27;
+No-Life Rod\103820.95\9832.63;
+Free Spirit Rod\103707.45\8444.33;
+Firefly Rod\96129.96\9606.52;
+Candy Cane Rod\65214.58\7122.07;
+Resourceful Rod\73641.73\7411.77;
+Fast Rod\61225.48\7117.07;
+Nocturnal Rod\42424.67\41179.29;
+Egg Rod\92619.26\9550.47;
+Verdant Shear Rod\89046.62\9182.07;
+Blazebringer Rod\84446.97\8707.78;
+Challenger's Rod\81457.19\7669.94;
+Seraphic Rod\81138.32\5769.17;
+Depthseeker Rod\76035.66\7475.11;
+Rod Of The Forgotten Fang\74877.14\5432.31;
+Avalanche Rod\73258.06\7210.54;
+Rod Of The Depths\72717.18\6859.02;
+Volcanic Rod\70610.62\6789.6;
+Zeus Rod\68256.93\6563.28;
+Ethereal Prism Rod\66433.37\5696.78;
+Rod Of The Exalted One\63027.65\5376.11;
+Steady Rod\62642.71\6232.34
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching an Algae Lurker, the player has a chance to make one of the following exclamations:
+* An Algae Lurker!
+* Green-blue stalker!
+* Algae ambush!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Azure Lagoon}}

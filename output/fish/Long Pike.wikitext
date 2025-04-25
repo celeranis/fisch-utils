@@ -1,0 +1,82 @@
+{{FishInfobox
+|image          = Long Pike.png
+|rarity         = Secret
+|sea            = First Sea
+|location       = [[Ocean]]
+|sublocation    = 
+|sources        = Fishing Rod
+|nopassive      = 1
+|radar_location = 
+|xp             = 6600
+|weather        = Rain
+|time           = 
+|season         = Autumn, Spring
+|bait           = Insect
+|base_weight    = 3.5
+|base_value     = 18000
+|weight_range   = 2.3
+|base_chance    = 0.005
+|base_resil     = 55
+}}
+'''Long Pike''' is a {{Rarity|Secret}} fish found in the [[Ocean]].
+
+== Description ==
+{{Description|Looooooooooooooooooong Piiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiike|Bestiary Entry}}
+
+== Obtainment ==
+{{Fish Availability|
+Atlantis/Surrounding Ocean
+Lucky Event/Blarney McBreeze
+Lucky Event/O'Mango Goldgrin
+Lucky Event/Plumrick O'Luck
+Lucky Event/Rowdy McCharm
+Lucky Event/Sunny O'Coin
+Ocean
+Ocean/Deep Ocean
+Orca Migration/Ancient
+Orca Migration/Normal
+Whale Migration/Moby
+Whale Migration/Normal
+|top_rods      = 
+Leviathan's Fang Rod\1102.21\4922.13;
+Ethereal Prism Rod\1001.37\3671.71;
+Trident Rod\979.3\4857.97;
+Seraphic Rod\972.72\3788.47;
+No-Life Rod\972.17\3975.12;
+Flimsy Rod\729.71\3885.37;
+Training Rod\707.2\4101.96;
+Lucky Rod\644.23\3211.44;
+Free Spirit Rod\941.4\4669.97;
+Adventurer's Rod\530.07\2702.65;
+Rod Of The Forgotten Fang\911.6\3694.64;
+Challenger's Rod\887.23\3640.64;
+Rod Of The Depths\822.73\3577.47;
+Zeus Rod\812.5\3421.39;
+Rod Of The Exalted One\803.46\3579.53;
+Verdant Shear Rod\800.58\3444.26;
+Blazebringer Rod\771.23\3260.67;
+Depthseeker Rod\735.91\3216.83;
+Avalanche Rod\664.48\2923.6;
+Volcanic Rod\633.09\2706.1;
+Steady Rod\258.92\1260.58
+|recommended   = Ethereal Prism Rod
+}}
+
+== Gameplay Notes ==
+* Long Pike usually cannot be caught with passive effects, such as the one provided by the [[Rod Of The Depths]] and [[Rod Of The Forgotten Fang]].
+** The only exception is when catching a Long Pike on the Megalodon Passive reel of the [[Rod Of The Forgotten Fang]], the Megalodon will instead dupe the Long Pike.
+
+== Catch Quips ==
+When catching a Long Pike, the player has a chance to make one of the following exclamations:
+* A Long Pike!
+* I caught a Long Pike!
+* Woah! a Long Pike!
+* LONG PIKE!!!
+* A Long Pike?!
+* That's a long Pike!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ocean}}

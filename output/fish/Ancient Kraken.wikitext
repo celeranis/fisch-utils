@@ -1,0 +1,69 @@
+{{FishInfobox
+|image          = Ancient Kraken.png
+|rarity         = Secret
+|sea            = First Sea
+|location       = [[Atlantis]]
+|sublocation    = 
+|sources        = Fishing Rod
+|nopassive      = 1
+|radar_location = 
+|prog_speed     = -95
+|xp             = 25000
+|weather        = 
+|time           = Night
+|season         = 
+|bait           = Truffle Worm
+|base_weight    = 20000
+|base_value     = 50000
+|weight_range   = 10000
+|base_chance    = 0.000001
+|base_resil     = 1
+}}
+'''Ancient Kraken''' is a {{Rarity|Secret}} fish found in [[Atlantis]].
+
+== Description ==
+{{Description|A direct descendant of the original Kraken, possessing a fraction of its progenitor's power. Its true form is impossible to comprehend, and its strength is beyond measure.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|The oldest legends speak of its existence, Kraken Pool on Poseidon Wrath Event.|Bestiary Hint}}
+{{Fish Availability|
+Atlantis/Ancient Kraken Hunt
+|top_rods      = 
+Tempest Rod\6332.19\9228.7;
+Challenger's Rod\6316.99\9255.88;
+Summit Rod\4497.8\6488.11;
+Seraphic Rod\4362.99\6276.34;
+Abyssal Specter Rod\4208.45\6246.65;
+Ice Warpers Rod\307.04\431.83;
+Celestial Rod\1434.21\2017.1;
+Champions Rod\2119.94\3024.21;
+Ethereal Prism Rod\3254.34\4615.45;
+Rod Of The Forgotten Fang\1814.42\2615.14;
+No-Life Rod\1457.25\2141.46;
+Depthseeker Rod\980\1409.7;
+Rod Of The Exalted One\308.54\434.92;
+Steady Rod\0\0;
+Avalanche Rod\0\0;
+Volcanic Rod\0\0;
+Rod Of The Depths\0\0;
+Zeus Rod\0\0
+|recommended   = Challenger's Rod
+}}
+
+== Gameplay Notes ==
+* While reeling in an Ancient Kraken, the fish will ''not'' be visible in the water.
+* Ancient Kraken usually cannot be caught with passive effects, such as the one provided by the [[Rod Of The Depths]] and [[Rod Of The Forgotten Fang]].
+** The only exception is when catching a Ancient Kraken on the Megalodon Passive reel of the [[Rod Of The Forgotten Fang]], the Megalodon will instead dupe the Ancient Kraken.
+
+== Catch Quips ==
+When catching an Ancient Kraken, the player has a chance to make one of the following exclamations:
+* THE ANCIENT ONE!
+* PRIMAL DARKNESS!
+* BEYOND REALITY!
+* THE END COMES!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Atlantis}}

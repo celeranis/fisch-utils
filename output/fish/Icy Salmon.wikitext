@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Icy Salmon.png
+|rarity         = Uncommon
+|sea            = First Sea
+|location       = [[Overgrowth Caves]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 95
+|weather        = 
+|time           = Day
+|season         = Winter
+|bait           = Worm
+|base_weight    = 10
+|base_value     = 180
+|weight_range   = 6
+|base_chance    = 60
+|base_resil     = 70
+}}
+'''Icy Salmon''' is an {{Rarity|Uncommon}} fish found in the [[Overgrowth Caves]].
+
+== Description ==
+{{Description|A sleek salmon with scales that appear to be coated in a permanent layer of frost.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in the flowing waters of the cave's streams.|Bestiary Hint}}
+{{Fish Availability|
+Overgrowth Caves
+|top_rods      = 
+Azure Of Lagoon\182721.84\17566.79;
+Training Rod\180644.51\30270.09;
+Summit Rod\180551.46\18541.81;
+No-Life Rod\180247.41\25525.66;
+Champions Rod\179188.32\18545.15;
+Flimsy Rod\122323.16\19418.37;
+Resourceful Rod\170418.17\15685.52;
+Nocturnal Rod\132504.16\82827.88;
+Seraphic Rod\163828.34\25328.52;
+Fast Rod\162422.13\25111.12;
+Trident Rod\179164.64\17974.42;
+Depthseeker Rod\178701.82\19773.92;
+Avalanche Rod\176250.87\17728.81;
+Verdant Shear Rod\176139.8\21604.38;
+Free Spirit Rod\175456\17929.65;
+Blazebringer Rod\171698.8\20375.4;
+Zeus Rod\170474.68\21590.63;
+Volcanic Rod\166464.08\16384.96;
+Challenger's Rod\164670.31\23201.1;
+Ethereal Prism Rod\160018.63\0;
+Rod Of The Depths\151951.13\21011.93;
+Rod Of The Forgotten Fang\149611.8\23130.59;
+Rod Of The Exalted One\137612.68\19736.18;
+Steady Rod\81476.36\7696.7
+|recommended   = Training Rod
+}}
+
+== Catch Quips ==
+When catching an Icy Salmon, the player has a chance to make one of the following exclamations:
+* An Icy Salmon!
+* Frozen upstream swimmer!
+* So graceful!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Overgrowth Caves}}

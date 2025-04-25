@@ -1,0 +1,71 @@
+{{FishInfobox
+|image          = Thunder Bass.png
+|rarity         = Unusual
+|sea            = First Sea
+|location       = [[Atlantis]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 250
+|weather        = Rain
+|time           = Night
+|season         = 
+|bait           = Fish Head
+|base_weight    = 60
+|base_value     = 450
+|weight_range   = 30
+|base_chance    = 45
+|base_resil     = 45
+}}
+'''Thunder Bass''' is an {{Rarity|Unusual}} fish found in [[Atlantis]].
+
+== Description ==
+{{Description|A powerful predator whose scales conduct electricity. During storms, they create impressive displays of bio-electricity across the water's surface.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Most active during thunderstorms in Zeus Pool.|Bestiary Hint}}
+{{Fish Availability|
+Atlantis/Zeus's Rod Room
+|top_rods      = 
+Champions Rod\132849.04\92179.3;
+Celestial Rod\130922.61\93009.43;
+Rapid Rod\129737.08\112199.46;
+Ice Warpers Rod\128942.74\91602.9;
+Reinforced Rod\127349.84\88363.6;
+Adventurer's Rod\80311.61\80311.61;
+Plastic Rod\80587.29\76685.37;
+Fischer's Rod\81055.24\81055.24;
+Ethereal Prism Rod\125772.01\135437.95;
+Leviathan's Fang Rod\121697.42\125239.16;
+No-Life Rod\121323.8\121323.8;
+Seraphic Rod\119439.44\119439.44;
+Tempest Rod\115347.88\115347.88;
+Fortune Rod\69070.57\81611.46;
+Depthseeker Rod\124453.23\93034.3;
+Avalanche Rod\123581.9\83277.61;
+Verdant Shear Rod\113928.99\101408.16;
+Challenger's Rod\109306.84\109306.84;
+Rod Of The Forgotten Fang\108888.57\108888.57;
+Trident Rod\107071.03\87204.1;
+Blazebringer Rod\103301.78\95759.37;
+Zeus Rod\102464.2\101391.83;
+Free Spirit Rod\100232.24\86729.34;
+Volcanic Rod\99811.86\76953.69;
+Rod Of The Depths\98699.39\98699.39;
+Rod Of The Exalted One\93174.38\95087.4;
+Steady Rod\59930.6\48716.34
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching a Thunder Bass, the player has a chance to make one of the following exclamations:
+* A Thunder Bass!
+* What power!
+* Zeus' bass!
+* It's electrifying!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Atlantis}}

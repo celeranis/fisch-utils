@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Goblin Shark.png
+|rarity         = Rare
+|sea            = First Sea
+|location       = [[The Depths]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 80
+|weather        = 
+|time           = Night
+|season         = Spring, Summer
+|bait           = Fish Head
+|base_weight    = 45
+|base_value     = 450
+|weight_range   = 25
+|base_chance    = 25
+|base_resil     = 50
+}}
+'''Goblin Shark''' is a {{Rarity|Rare}} fish found in [[The Depths]].
+
+== Description ==
+{{Description|A deep-sea predator with a protruding snout, jagged teeth, and a ghostly appearance.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Roams trench edges and dark underwater canyons.|Bestiary Hint}}
+{{Fish Availability|
+The Depths
+The Depths/Absolute Darkness
+|top_rods      = 
+Krampus's Rod\159304.36\234580.36;
+Magma Rod\152197.78\224115.71;
+Plastic Rod\139674.13\205676.65;
+Fast Rod\107819.58\238035.34;
+Buddy Bond Rod\103723.72\200702.02;
+Fischer's Rod\98102.15\216581.97;
+Adventurer's Rod\97076.69\214318.05;
+Magnet Rod\68113.15\192842.55;
+Heaven's Rod\68400.55\170302.49;
+Trident Rod\86170.08\72960.56;
+Ethereal Prism Rod\84706.25\124408.33;
+Seraphic Rod\82119.79\67896.65;
+No-Life Rod\82069.56\71040.83;
+Free Spirit Rod\81932.69\69372.74;
+Rod Of The Forgotten Fang\76915.35\66029.62;
+Challenger's Rod\74770.33\65942.42;
+Rod Of The Depths\69341.85\60224.52;
+Zeus Rod\68380.65\59399.4;
+Rod Of The Exalted One\67849.11\57586.48;
+Verdant Shear Rod\67342.75\59300.49;
+Blazebringer Rod\64917.95\56391.5;
+Depthseeker Rod\61927.5\54787.61;
+Avalanche Rod\55894.09\49543.41;
+Volcanic Rod\53392.87\46417.04;
+Steady Rod\27779.5\17414.08
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Goblin Shark, the player has a chance to make one of the following exclamations:
+* Wow, that's a Goblin Shark?
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|The Depths}}

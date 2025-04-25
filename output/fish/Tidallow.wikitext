@@ -1,0 +1,69 @@
+{{FishInfobox
+|image          = Tidallow.png
+|rarity         = Common
+|sea            = Second Sea
+|location       = [[Isle of New Beginnings]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = +14
+|xp             = 20
+|weather        = Clear
+|time           = Day
+|season         = Summer
+|bait           = Worm
+|base_weight    = 15
+|base_value     = 41
+|weight_range   = 9
+|base_chance    = 115
+|base_resil     = 82
+}}
+'''Tidallow''' is a {{Rarity|Common}} fish found in the [[Isle of New Beginnings]].
+
+== Description ==
+{{Description|A tiny, bright yellow fish with striking red eyes, darting through shallow waters.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It gleams under the sun’s gentle rays.|Bestiary Hint}}
+{{Fish Availability|
+Isle of New Beginnings
+|top_rods      = 
+Free Spirit Rod\404524.51\0;
+Azure Of Lagoon\362571.19\31073.35;
+Resourceful Rod\354150.91\26738.26;
+Firefly Rod\348004.36\38225.27;
+Egg Rod\345350.06\29565.82;
+Plastic Rod\296815.25\22445.41;
+Magma Rod\298286.33\21505.45;
+Nocturnal Rod\175600.33\163162.08;
+Leviathan's Fang Rod\342165.28\29420.36;
+Lucky Rod\280959.07\28711.87;
+Trident Rod\344814.75\29375.73;
+Verdant Shear Rod\335167.71\28671.99;
+Blazebringer Rod\330536.66\28963.58;
+Steady Rod\313735.33\19816.94;
+No-Life Rod\298025.64\24785.4;
+Seraphic Rod\287475.62\24490.85;
+Ethereal Prism Rod\283255.39\24137.5;
+Depthseeker Rod\277718.83\24436.01;
+Challenger's Rod\276528.89\22853.41;
+Rod Of The Forgotten Fang\276413.45\23250.58;
+Avalanche Rod\276199.46\24365.14;
+Rod Of The Exalted One\274037.23\23718.69;
+Volcanic Rod\273271.1\23175.42;
+Zeus Rod\272375.72\23099.49;
+Rod Of The Depths\271396.62\21964.84
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Tidallow, the player has a chance to make one of the following exclamations:
+* A Tidallow!
+* Sunny little swimmer!
+* Red-eyed catch!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Isle of New Beginnings}}

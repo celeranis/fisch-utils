@@ -1,0 +1,38 @@
+{{FishInfobox
+|image          = Sea Urchin.png
+|rarity         = Rare
+|sea            = First Sea
+|location       = [[Ocean]]
+|sublocation    = 
+|sources        = Crab Cage, Volcanic Geode
+|radar_location = 
+|xp             = 80
+|weather        = Foggy
+|time           = 
+|season         = 
+|bait           = 
+|base_weight    = 0.9
+|base_value     = 320
+|weight_range   = 0.7
+|base_chance    = 15
+|base_resil     = 200
+}}
+'''Sea Urchin''' is a {{Rarity|Rare}} fish found in the [[Ocean]].
+
+== Description ==
+{{Description|Sea Urchins are spiny, globular animals. Their hard shells are round and spiny. They use their spikes along with their tube feet to push themselves along the ocean terrain. Sea Urchins can be caught in any climate and traditionally only prefer sea water.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Can be rarely caught while cage fishing, especially in the ocean.|Bestiary Hint}}
+
+== Catch Quips ==
+When catching a Sea Urchin, the player has a chance to make one of the following exclamations:
+* A Sea Urchin!
+* I caught a Sea Urchin!
+* Woah, an Urchin!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ocean}}

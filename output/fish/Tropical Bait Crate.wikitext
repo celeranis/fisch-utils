@@ -1,0 +1,93 @@
+{{FishInfobox
+|image          = Tropical Bait Crate.png
+|rarity         = Rare
+|sea            = Second Sea
+|location       = [[Regionless]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 50
+|weather        = 
+|time           = 
+|season         = 
+|bait           = Magnet
+|base_weight    = 1
+|base_value     = 80
+|weight_range   = 0.5
+|base_chance    = 15
+|base_resil     = 110
+}}
+'''Tropical Bait Crate''' is a {{Rarity|Rare}} fish found in [[Regionless]].
+
+== Description ==
+{{Description|A weathered wooden crate adorned with tropical leaves, designed to keep the bait fresh and lively. Likely drifted ashore from a fishing vessel exploring warm, exotic waters. The bait inside is vibrant and for the taking! Open it for a haul of tropical baits!|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Washed up from a tropical fishing expedition.|Bestiary Hint}}
+{{Fish Availability|
+Azure Lagoon
+Emberreach/Freshwater Pond
+Emberreach/Surrounding Ocean
+Isle of New Beginnings
+Lushgrove
+Open Ocean
+Open Ocean/Sea Leviathan
+Pine Shoals
+The Cursed Shores
+Waveborne
+|top_rods      = 
+Training Rod\806285.71\806285.71;
+Fischer's Rod\795063.78\795063.78;
+Fast Rod\793185.48\793185.48;
+Plastic Rod\792650\792650;
+Candy Cane Rod\790928.19\790928.19;
+Flimsy Rod\790684.21\790684.21;
+Firefly Rod\115543.27\896787.5;
+Adventurer's Rod\354964.19\835625;
+Magnet Rod\785002.13\793594.04;
+Long Rod\176615.86\583094.83;
+Steady Rod\308025.41\560566.65;
+Verdant Shear Rod\110188.76\368452.91;
+Blazebringer Rod\101279.87\231336.09;
+Free Spirit Rod\96879.86\220311.24;
+Trident Rod\72169.21\167896.63;
+Ethereal Prism Rod\69546.7\159450.86;
+Seraphic Rod\67952.1\158085.81;
+Rod Of The Exalted One\65687.92\150947.53;
+No-Life Rod\65182.83\156788.44;
+Rod Of The Forgotten Fang\64798.22\151221.72;
+Rod Of The Depths\63882.73\150514.07;
+Challenger's Rod\63160.85\151175.24;
+Volcanic Rod\61284.84\149644.69;
+Zeus Rod\61127.7\149260.98;
+Depthseeker Rod\60149.23\149915.5;
+Avalanche Rod\59951.72\149734.72
+|recommended   = Verdant Shear Rod
+}}
+
+== Contents ==
+Opening a Tropical Bait Crate will yield at least one of the following:
+* [[Bait#Luminous Larva|Luminous Larva]]
+* [[Bait#Sapphire Krill|Sapphire Krill]]
+* [[Bait#Mist Worms|Mist Worms]]
+* [[Bait#Crystal Bananas|Crystal Bananas]]
+* [[Bait#Lagoon Leech|Lagoon Leech]]
+* [[Bait#Ember Berries|Ember Berries]]
+* [[Bait#Lushrooms|Lushrooms]]
+* [[Bait#Gale Grub|Gale Grub]]
+
+== Catch Quips ==
+When catching a Tropical Bait Crate, the player has a chance to make one of the following exclamations:
+* A Tropic Bait Crate!
+* Treasure from the tropics!
+* Whoa! A tropical haul!
+* A crate from paradise!
+* Did this float in from the islands?
+* The bait’s still kicking!
+* Tropical vibes in a crate!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Regionless}}

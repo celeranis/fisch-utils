@@ -1,0 +1,62 @@
+{{FishInfobox
+|image          = Scrap Metal.png
+|rarity         = Trash
+|sea            = First Sea
+|location       = [[The Depths]]
+|sublocation    = 
+|sources        = Crab Cage, Fishing Rod
+|radar_location = 
+|xp             = 20
+|weather        = 
+|time           = Day
+|season         = 
+|bait           = 
+|base_weight    = 5
+|base_value     = 40
+|weight_range   = 4
+|base_chance    = 32
+|base_resil     = 100
+}}
+'''Scrap Metal''' is a {{Rarity|Trash}} fish found in [[The Depths]].
+
+== Description ==
+{{Description|Just a piece of metal.|Bestiary Entry}}
+
+== Obtainment ==
+{{Fish Availability|
+The Depths
+The Depths/Absolute Darkness
+|top_rods      = 
+Ethereal Prism Rod\207532.43\15944.55;
+Leviathan's Fang Rod\193117.87\10249.05;
+Fast Rod\183977.86\7661.3;
+No-Life Rod\181962\7576.63;
+Seraphic Rod\181245.67\7546.8;
+Training Rod\173201.13\28410.47;
+Fortune Rod\115318.58\9692.66;
+Nocturnal Rod\28595.59\25711.89;
+Challenger's Rod\165896.43\6907.68;
+Rod Of The Forgotten Fang\165502.78\6891.29;
+Verdant Shear Rod\155091.07\6457.76;
+Zeus Rod\154693.4\6441.21;
+Rod Of The Exalted One\150901.04\7216.6;
+Rod Of The Depths\150776.96\6278.13;
+Blazebringer Rod\146065.18\6081.94;
+Depthseeker Rod\141498.01\5891.77;
+Avalanche Rod\127218.06\5297.17;
+Free Spirit Rod\126534.54\5268.71;
+Trident Rod\125956.11\5244.63;
+Volcanic Rod\117493.24\4892.25;
+Steady Rod\77180.4\2294.67
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching a Scrap Metal, the player has a chance to make one of the following exclamations:
+* Just a piece of scrap metal!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|The Depths}}

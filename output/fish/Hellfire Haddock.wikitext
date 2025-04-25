@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Hellfire Haddock.png
+|rarity         = Common
+|sea            = First Sea
+|location       = [[Volcanic Vents]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 20
+|weather        = Rain
+|time           = Night
+|season         = Summer
+|bait           = Worm
+|base_weight    = 6
+|base_value     = 50
+|weight_range   = 3.5
+|base_chance    = 70
+|base_resil     = 95
+}}
+'''Hellfire Haddock''' is a {{Rarity|Common}} fish found in [[Volcanic Vents]] of [[Mariana's Veil]].
+
+== Description ==
+{{Description|A small, scorching fish that flickers like a dying flame.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Common within the dark, especially after rainfall.|Bestiary Hint}}
+{{Fish Availability|
+Mariana's Veil/Volcanic Vents
+|top_rods      = 
+Rapid Rod\271729.9\309665.11;
+Leviathan's Fang Rod\268741.36\229166.94;
+Trident Rod\264989.95\166752.6;
+No-Life Rod\264139.89\240223.03;
+Free Spirit Rod\263160.7\167048.98;
+Long Rod\239174.21\231013.63;
+Training Rod\216045.45\216045.45;
+Wildflower Rod\247833.73\244953.11;
+Firefly Rod\252613.79\297842.02;
+Frog Rod\244316.17\259792.79;
+Fungal Rod\247031.69\256086.65;
+North-Star Rod\206486.17\206486.17;
+Blazebringer Rod\248713.75\192833.04;
+Zeus Rod\246886.81\204223.51;
+Verdant Shear Rod\245445.6\204748.88;
+Challenger's Rod\245043.25\219013.56;
+Depthseeker Rod\243070.14\186803.19;
+Avalanche Rod\241578.37\167951.05;
+Volcanic Rod\241160.62\175831.54;
+Seraphic Rod\239277.35\239277.35;
+Rod Of The Depths\235511.93\199053.1;
+Rod Of The Forgotten Fang\233954.16\218493.87;
+Rod Of The Exalted One\226046.44\186612.28;
+Ethereal Prism Rod\225179.5\127910.62;
+Steady Rod\120591.51\87722.1
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Hellfire Haddock, the player has a chance to make one of the following exclamations:
+* A Hellfire Haddock!
+* Scorching!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Volcanic Vents}}

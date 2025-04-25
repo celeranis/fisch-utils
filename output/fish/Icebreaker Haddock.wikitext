@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Icebreaker Haddock.png
+|rarity         = Rare
+|sea            = First Sea
+|location       = [[Cryogenic Canal]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 350
+|weather        = 
+|time           = Day
+|season         = Winter
+|bait           = Fish Head
+|base_weight    = 40
+|base_value     = 800
+|weight_range   = 20
+|base_chance    = 15
+|base_resil     = 35
+}}
+'''Icebreaker Haddock''' is a {{Rarity|Rare}} fish found in the [[Cryogenic Canal]].
+
+== Description ==
+{{Description|A robust fish with frosted silver scales and dark blue streaks.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Breaks through thin ice sheets near the canal surface.|Bestiary Hint}}
+{{Fish Availability|
+Cryogenic Canal
+|top_rods      = 
+Leviathan's Fang Rod\104401.01\96959.05;
+Krampus's Rod\103509.07\62731.7;
+Magma Rod\95325.89\57772.28;
+Trident Rod\94777.31\93477.82;
+Plastic Rod\89814.55\57172.65;
+Firefly Rod\67727.34\88485.07;
+Fast Rod\62597.74\85128.8;
+Free Spirit Rod\83572.07\82426.21;
+Lucky Rod\51021.69\68816.71;
+Candy Cane Rod\43044.66\57132.79;
+Ethereal Prism Rod\87472.31\70741.85;
+Seraphic Rod\84175.66\71300.22;
+No-Life Rod\83188.33\81152.7;
+Rod Of The Forgotten Fang\78667.85\66231.79;
+Challenger's Rod\75486.82\67582.97;
+Rod Of The Depths\70594.61\58599.88;
+Rod Of The Exalted One\69639.1\56293.22;
+Zeus Rod\68085.21\61500.49;
+Verdant Shear Rod\66432.61\61136.39;
+Blazebringer Rod\64673.22\58550.07;
+Depthseeker Rod\61028.29\59009.42;
+Avalanche Rod\54939.6\51927.75;
+Volcanic Rod\53053.59\47724.01;
+Steady Rod\17721.64\16481.64
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching an Icebreaker Haddock, the player has a chance to make one of the following exclamations:
+* An Icebreaker Haddock!
+* Breaking through!
+* Strong swimmer!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Cryogenic Canal}}

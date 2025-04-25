@@ -1,0 +1,65 @@
+{{FishInfobox
+|image          = Cursed Thread.png
+|rarity         = Mythical
+|sea            = Second Sea
+|location       = [[Open Ocean]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = +12
+|xp             = 20
+|weather        = Clear
+|time           = Day
+|season         = Summer
+|bait           = Sapphire Krill
+|base_weight    = 10
+|base_value     = 40
+|weight_range   = 6
+|base_chance    = 30
+|base_resil     = 85
+}}
+'''Cursed Thread''' is a {{Rarity|Mythical}} fish found in the [[Open Ocean]].
+
+== Description ==
+{{Description|???|Bestiary Entry}}
+
+== Obtainment ==
+{{Fish Availability|
+Open Ocean
+|top_rods      = 
+Frostfire Rod\110436.47\73822.74;
+Steady Rod\104574.31\70083.41;
+Flimsy Rod\83706.64\246468.11;
+Plastic Rod\81519.44\300005.73;
+North-Star Rod\81428.87\67991.65;
+Training Rod\79079.21\198572.41;
+Fischer's Rod\65318.74\289217.12;
+Free Spirit Rod\50225.64\45751.03;
+Verdant Shear Rod\47810.24\54544.99;
+Blazebringer Rod\44684.88\49655.91;
+Trident Rod\40940.27\35147.45;
+No-Life Rod\35302.93\30598.01;
+Ethereal Prism Rod\34912.26\33829.12;
+Seraphic Rod\34413.1\32556.01;
+Rod Of The Exalted One\33297.77\31846.5;
+Rod Of The Forgotten Fang\33121.51\30988.81;
+Challenger's Rod\32951.64\29639.71;
+Depthseeker Rod\32772.73\27567.98;
+Rod Of The Depths\32682.76\30257.31;
+Avalanche Rod\32597.72\27367.39;
+Volcanic Rod\32357.45\28563.53;
+Zeus Rod\32252.23\28505.44
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Cursed Thread, the player has a chance to make one of the following exclamations:
+* weird...!
+* what is this?
+* is it a fish?
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Open Ocean}}

@@ -1,0 +1,99 @@
+{{FishInfobox
+|image          = Mullet.png
+|rarity         = Common
+|sea            = First Sea
+|location       = [[Ocean]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 40
+|weather        = Clear, Foggy
+|time           = 
+|season         = Summer, Spring
+|bait           = Bagel
+|base_weight    = 2
+|base_value     = 90
+|weight_range   = 1.5
+|base_chance    = 80
+|base_resil     = 65
+}}
+'''Mullet''' is a {{Rarity|Common}} fish found in the [[Ocean]].
+
+== Description ==
+{{Description|The Mullet is a streamlined, silver-scaled fish known for its schooling behaviour and preference for shallow coastal and freshwater environments. Mullets are agile swimmers with a forked tail and a tough, sturdy body, making them a popular catch for beginners and seasoned anglers alike.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found all over the Ocean, prefers bagels.|Bestiary Hint}}
+{{Fish Availability|
+Ancient Isle/Algae Hunt
+Ancient Isle/Surrounding Ocean
+Atlantis/Surrounding Ocean
+Forsaken Shores/Algae Hunt
+Lovestorm/Normal
+Lovestorm/Supercharged
+Lucky Event/Blarney McBreeze
+Lucky Event/O'Mango Goldgrin
+Lucky Event/Plumrick O'Luck
+Lucky Event/Rowdy McCharm
+Lucky Event/Sunny O'Coin
+Megalodon Hunt/Eclipse and Weekend
+Megalodon Hunt/Normal
+Mushgrove Swamp/Algae Hunt
+Northern Summit/Surrounding Ocean
+Ocean
+Ocean/Deep Ocean
+Ocean/Harvesters Spike
+Ocean/Strange Whirlpool
+Ocean/The Arch
+Orca Migration/Ancient
+Orca Migration/Normal
+Roslit Bay/Surrounding Ocean
+Shark Hunt/Great Hammerhead Shark
+Shark Hunt/Great White Shark
+Shark Hunt/Whale Shark
+Snowcap Island/Algae Hunt
+Snowcap Island/Surrounding Ocean
+Whale Migration/Moby
+Whale Migration/Normal
+|top_rods      = 
+Leviathan's Fang Rod\299550.35\185587.55;
+Trident Rod\291329.37\149395.65;
+Free Spirit Rod\283992.97\148958.65;
+Azure Of Lagoon\246741.06\215745.46;
+No-Life Rod\245383.88\212556.01;
+Training Rod\197757.22\206153.85;
+Flimsy Rod\169391\145128.89;
+Rapid Rod\230903.22\232271.28;
+Riptide Rod\221119.4\219199.41;
+Verdant Shear Rod\223969.84\218496.44;
+Long Rod\192266.8\181512.05;
+Phoenix Rod\211467.39\208239.44;
+Wisdom Rod\211647.96\208417.25;
+Seraphic Rod\238671.9\209520.57;
+Rod Of The Forgotten Fang\233288.45\189518.05;
+Ethereal Prism Rod\232498.86\109324.25;
+Challenger's Rod\231721.71\186178.4;
+Rod Of The Exalted One\228364.33\172311.72;
+Rod Of The Depths\224491.39\168529.99;
+Zeus Rod\219917.81\202854.45;
+Blazebringer Rod\217134.08\211321.54;
+Depthseeker Rod\213045.93\191728.85;
+Avalanche Rod\210208.6\189713.17;
+Volcanic Rod\207810.05\184489.01;
+Steady Rod\107061.37\103119.5
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Mullet, the player has a chance to make one of the following exclamations:
+* The hairstyle??
+* Woah, a Mullet!
+* Nice, A Mullet!
+* A Mullet!
+* I caught an Outdated Hairstyle!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ocean}}

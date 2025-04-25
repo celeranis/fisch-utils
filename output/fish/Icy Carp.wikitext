@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Icy Carp.png
+|rarity         = Unusual
+|sea            = First Sea
+|location       = [[Overgrowth Caves]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 120
+|weather        = 
+|time           = 
+|season         = Winter
+|bait           = Bagel
+|base_weight    = 7
+|base_value     = 250
+|weight_range   = 4
+|base_chance    = 45
+|base_resil     = 65
+}}
+'''Icy Carp''' is an {{Rarity|Unusual}} fish found in the [[Overgrowth Caves]].
+
+== Description ==
+{{Description|A hardy carp whose scales have adapted to form intricate ice-crystal patterns.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Prefers the deeper pools within the cave.|Bestiary Hint}}
+{{Fish Availability|
+Overgrowth Caves
+|top_rods      = 
+Training Rod\226349.99\226349.99;
+Champions Rod\214398.53\139003.2;
+Celestial Rod\211439.34\143558.61;
+Ice Warpers Rod\209412.01\142956.42;
+Rapid Rod\209236.41\179306.1;
+Flimsy Rod\144339.98\144339.98;
+Buddy Bond Rod\114344.79\92303.69;
+Ethereal Prism Rod\193974.48\199998.45;
+No-Life Rod\191617.37\191617.37;
+Seraphic Rod\189883.87\189883.87;
+Fast Rod\187069.4\187069.4;
+Fortune Rod\107736.91\108781.8;
+Avalanche Rod\203905.7\132824.33;
+Depthseeker Rod\202733.09\148183.89;
+Verdant Shear Rod\189290.9\161840.31;
+Challenger's Rod\173906.55\173906.55;
+Rod Of The Forgotten Fang\173355.19\173355.19;
+Blazebringer Rod\171770.28\152664.77;
+Zeus Rod\170501.04\161747.62;
+Volcanic Rod\166456.9\122752.14;
+Rod Of The Depths\157421.43\157421.43;
+Rod Of The Exalted One\147885.95\147885.95;
+Trident Rod\137082.2\135393.61;
+Free Spirit Rod\134997.56\134997.56;
+Steady Rod\90954.19\57541.23
+|recommended   = Training Rod
+}}
+
+== Catch Quips ==
+When catching an Icy Carp, the player has a chance to make one of the following exclamations:
+* An Icy Carp!
+* Look at those patterns!
+* Quite the catch!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Overgrowth Caves}}

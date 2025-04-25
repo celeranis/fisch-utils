@@ -1,0 +1,69 @@
+{{FishInfobox
+|image          = Obsidian Salmon.png
+|rarity         = Legendary
+|sea            = First Sea
+|location       = [[Roslit Volcano]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -10
+|xp             = 300
+|weather        = 
+|time           = Night
+|season         = Winter
+|bait           = Coal
+|base_weight    = 18
+|base_value     = 600
+|weight_range   = 14
+|base_chance    = 3
+|base_resil     = 15
+}}
+'''Obsidian Salmon''' is a {{Rarity|Legendary}} fish found in the [[Roslit Bay#Roslit Volcano|Volcano]] in [[Roslit Bay]].
+
+== Description ==
+{{Description|The Obsidian Salmon is an extremely rare breed of Sockeye Salmon. The Obsidian Salmon breeds extremely deep in the heart of Roslit Volcano. They are extremely strong and are twice as dense as a common Sockeye Salmon.|Bestiary Entry}}
+
+== Obtainment ==
+{{Fish Availability|
+Roslit Bay/Roslit Volcano
+|top_rods      = 
+Leviathan's Fang Rod\56830.11\181626.59;
+Ethereal Prism Rod\42697.1\110895.3;
+Free Spirit Rod\41317.43\170543.35;
+Trident Rod\40295.49\166325.13;
+Seraphic Rod\39978.16\110924.58;
+Flimsy Rod\38974.44\616694.35;
+Training Rod\33330.51\534883.72;
+Resourceful Rod\33551.69\87667.45;
+Lucky Rod\22494.8\75584.88;
+No-Life Rod\39016.59\121752.69;
+Rod Of The Forgotten Fang\37094.03\105398.32;
+Challenger's Rod\35066.63\105302.49;
+Rod Of The Exalted One\33281.34\91488.04;
+Rod Of The Depths\32767.62\94378.82;
+Zeus Rod\31134.48\95403.55;
+Verdant Shear Rod\30150.09\94799.04;
+Blazebringer Rod\29623.8\91185.44;
+Depthseeker Rod\27806.28\89082.56;
+Avalanche Rod\24904.88\79654.33;
+Reinforced Rod\24692.08\79467;
+Volcanic Rod\24262.76\75370.08;
+Magma Rod\21292.9\69693.8;
+Steady Rod\7724.14\27789.62
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching an Obsidian Salmon, the player has a chance to make one of the following exclamations:
+* Obsidian Salmoff!
+* Woah! An Obsidian Salmon!
+* Awesome! An Obsidian Salmon
+* An Obsidian Salmon!
+* Woah, An Obsidian Salmon!
+* A Salmon!..? Made of obsidian?
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Roslit Volcano}}

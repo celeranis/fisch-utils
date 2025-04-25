@@ -1,0 +1,36 @@
+{{FishInfobox
+|image          = Crystal Carp.png
+|rarity         = Limited
+|event          = Winter's Edge
+|sea            = First Sea
+|location       = [[Winter's Edge]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 90
+|weather        = 
+|time           = 
+|season         = 
+|bait           = Maggot
+|base_weight    = 1.8
+|base_value     = 375
+|weight_range   = 0.8
+|base_chance    = 15
+|base_resil     = 25
+}}
+'''Crystal Carp''' is a {{Rarity|Limited}} fish found in [[Winter's Edge]] during the [[Winter's Edge]] event.
+
+== Description ==
+{{Description|This little guy was found frozen in ice crystals!|Bestiary Entry}}
+
+== Obtainment ==
+
+== Catch Quips ==
+When catching a Crystal Carp, the player has a chance to make one of the following exclamations:
+* Found a Crystal Carp!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Winter's Edge}}

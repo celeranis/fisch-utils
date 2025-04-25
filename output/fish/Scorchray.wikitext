@@ -1,0 +1,65 @@
+{{FishInfobox
+|image          = Scorchray.png
+|rarity         = Legendary
+|sea            = Second Sea
+|location       = [[Emberreach]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -47
+|xp             = 600
+|weather        = Rain
+|time           = Night
+|season         = Spring
+|bait           = Shrimp
+|base_weight    = 264
+|base_value     = 1260
+|weight_range   = 162
+|base_chance    = 24
+|base_resil     = 23
+}}
+'''Scorchray''' is a {{Rarity|Legendary}} fish found in [[Emberreach]].
+
+== Description ==
+{{Description|A broad, dark creature, its edges flickering with fiery traces.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It sweeps through the rainy embers of night.|Bestiary Hint}}
+{{Fish Availability|
+Emberreach/Surrounding Ocean
+|top_rods      = 
+Adventurer's Rod\157462.34\317167.36;
+Free Spirit Rod\113979.48\193018.24;
+Steady Rod\94322.1\104902.13;
+Long Rod\90722.07\170892.59;
+Frostfire Rod\90111.81\100219.58;
+Buddy Bond Rod\84566.25\172934.6;
+Firefly Rod\88170.63\215925.06;
+Trident Rod\78994\125140.13;
+Verdant Shear Rod\76508.31\141224.53;
+Blazebringer Rod\74420.12\135213.97;
+No-Life Rod\53357.59\95961.17;
+Ethereal Prism Rod\51765.75\93338.16;
+Seraphic Rod\51522.33\95103.61;
+Rod Of The Forgotten Fang\48223.61\89256.43;
+Rod Of The Exalted One\48118.34\87881.02;
+Challenger's Rod\48102.99\90801.06;
+Rod Of The Depths\46859.05\87451.83;
+Depthseeker Rod\45798.26\88556.96;
+Volcanic Rod\45522.96\86951.42;
+Avalanche Rod\45206.35\87522.08;
+Zeus Rod\45202.74\86339.78
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Scorchray, the player has a chance to make one of the following exclamations:
+* A SCORCHRAY!
+* FLAMING WINGS!
+* STINGING HEAT!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Emberreach}}

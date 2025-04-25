@@ -1,0 +1,70 @@
+{{FishInfobox
+|image          = Veinspawn.png
+|rarity         = Legendary
+|sea            = Second Sea
+|location       = [[The Cursed Shores]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -80
+|xp             = 2400
+|weather        = Rain
+|time           = Night
+|season         = Winter
+|bait           = Mist Worms
+|base_weight    = 14
+|base_value     = 1700
+|weight_range   = 8
+|base_chance    = 30
+|base_resil     = 8
+}}
+'''Veinspawn''' is a {{Rarity|Legendary}} fish found in [[The Cursed Shores]].
+
+== Description ==
+{{Description|A merciless spawn that pulses with unyielding power.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It emerges where the depths bleed.|Bestiary Hint}}
+{{Fish Availability|
+The Cursed Shores
+|top_rods      = 
+Free Spirit Rod\57548.92\154030.05;
+Krampus's Rod\56720.4\89265.82;
+Egg Rod\51780.83\156174.79;
+Azure Of Lagoon\48646.76\140816.11;
+Blazebringer Rod\48539.92\143359.84;
+Frostfire Rod\25804.56\63400.33;
+Plastic Rod\38192.53\60107.31;
+Magma Rod\47691.95\75057.47;
+Verdant Shear Rod\47493.02\144407.79;
+Great Dreamer Rod\47646.67\142689.31;
+Fischer's Rod\28392.57\65763.41;
+Fast Rod\22952.95\53166;
+Buddy Bond Rod\22142.94\50689.12;
+Trident Rod\38192.04\115190.02;
+Seraphic Rod\37017.56\111647.68;
+Ethereal Prism Rod\35866.62\104859.66;
+Challenger's Rod\35257.71\102908.27;
+No-Life Rod\34143.05\98455.21;
+Rod Of The Forgotten Fang\32189.59\97090.45;
+Rod Of The Exalted One\30790.76\91567.64;
+Depthseeker Rod\29477.5\78176.68;
+Rod Of The Depths\29181.01\86934.84;
+Avalanche Rod\27880.36\73591.66;
+Volcanic Rod\27721.88\77105.97;
+Zeus Rod\26977.71\75036.13;
+Steady Rod\26610.5\64993.05
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Veinspawn, the player has a chance to make one of the following exclamations:
+* A VEINSPAWN!
+* PULSE OF FURY!
+* SPAWN OF NIGHTMARES!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|The Cursed Shores}}

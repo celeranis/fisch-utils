@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Storm Eel.png
+|rarity         = Unusual
+|sea            = First Sea
+|location       = [[Atlantis]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 300
+|weather        = Rain
+|time           = Night
+|season         = 
+|bait           = Fish Head
+|base_weight    = 80
+|base_value     = 550
+|weight_range   = 40
+|base_chance    = 35
+|base_resil     = 40
+}}
+'''Storm Eel''' is an {{Rarity|Unusual}} fish found in [[Atlantis]].
+
+== Description ==
+{{Description|A serpentine fish that generates powerful electrical fields. Their bodies glow with inner lightning during storms.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Hunts during thunderstorms in Zeus Pool.|Bestiary Hint}}
+{{Fish Availability|
+Atlantis/Zeus's Rod Room
+|top_rods      = 
+Krampus's Rod\248338.04\249028.52;
+Magma Rod\233149.2\233797.44;
+Leviathan's Fang Rod\226738.87\182188.14;
+Plastic Rod\216371.55\216964.32;
+Trident Rod\207270.86\183003.58;
+Fast Rod\160548.85\244810.73;
+Fischer's Rod\152664.75\232794.65;
+Adventurer's Rod\150452.22\229420.81;
+Buddy Bond Rod\160708.69\218051.06;
+Free Spirit Rod\189587.01\167390.15;
+Ethereal Prism Rod\186429.97\129821.29;
+No-Life Rod\183143.87\155245.4;
+Seraphic Rod\182443.92\134027.94;
+Rod Of The Forgotten Fang\170923.03\125107.25;
+Challenger's Rod\166267.48\130584.14;
+Rod Of The Depths\154420.68\114029.2;
+Zeus Rod\151330.01\117737.17;
+Rod Of The Exalted One\149900.13\115878.08;
+Verdant Shear Rod\148624.2\112977.13;
+Blazebringer Rod\143718.28\112105.17;
+Depthseeker Rod\136727.67\105686.55;
+Avalanche Rod\123258.96\95737.81;
+Volcanic Rod\117919.49\91748.38;
+Steady Rod\46299.86\37636.18
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Storm Eel, the player has a chance to make one of the following exclamations:
+* A Storm Eel!
+* Lightning in water!
+* Zeus' serpent!
+* What a shock!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Atlantis}}

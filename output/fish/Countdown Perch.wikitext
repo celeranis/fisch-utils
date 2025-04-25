@@ -1,0 +1,63 @@
+{{FishInfobox
+|image          = Countdown Perch.png
+|rarity         = Limited
+|event          = Golden Tide
+|sea            = First Sea
+|location       = [[Golden Tide]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 1200
+|weather        = 
+|time           = 
+|season         = 
+|bait           = Weird Algae
+|base_weight    = 500
+|base_value     = 2000
+|weight_range   = 200
+|base_chance    = 35
+|base_resil     = 40
+}}
+'''Countdown Perch''' is a {{Rarity|Limited}} fish found in special pools in the [[Ocean]] during the [[Golden Tide]] event.
+
+== Description ==
+{{Description|This peculiar perch species appears as the Golden Tide approaches, with markings on its fins that seem to shift and change like the hands of a clock. Legend says it can sense the turning of the tide.|Bestiary Entry}}
+
+== Obtainment ==
+{{Fish Availability|
+Golden Tide
+|top_rods      = 
+Krampus's Rod\101368.89\108419.34;
+Leviathan's Fang Rod\96347.57\100779.26;
+Magma Rod\95168.97\101788.2;
+Trident Rod\88361.62\101159.4;
+Free Spirit Rod\80822.81\92528.73;
+Buddy Bond Rod\71580.55\104142.87;
+Ethereal Prism Rod\77985.33\67204.53;
+No-Life Rod\76537.32\73143.67;
+Seraphic Rod\76081.62\68008.07;
+Rod Of The Forgotten Fang\71251.56\67002.21;
+Challenger's Rod\69432.55\67168.55;
+Rod Of The Depths\64301.38\62776.23;
+Zeus Rod\63386.69\62478.01;
+Rod Of The Exalted One\62598.54\64085.59;
+Verdant Shear Rod\62399.62\62488.01;
+Blazebringer Rod\60198.4\59584.22;
+Depthseeker Rod\57450.69\58449.24;
+Avalanche Rod\51808\52944.78;
+Volcanic Rod\49392.22\49410.51;
+Steady Rod\22566.78\19706.24
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Countdown Perch, the player has a chance to make one of the following exclamations:
+* A Countdown Perch! Time is ticking!
+* The tide is turning!
+* Right on schedule!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Golden Tide}}

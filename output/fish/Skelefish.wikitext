@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Skelefish.png
+|rarity         = Limited
+|event          = FischFright
+|sea            = First Sea
+|location       = [[FischFright]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 400
+|weather        = Clear
+|time           = 
+|season         = Winter
+|bait           = Fish Head
+|base_weight    = 1
+|base_value     = 200
+|weight_range   = 0.5
+|base_chance    = 10
+|base_resil     = 50
+}}
+'''Skelefish''' is a {{Rarity|Limited}} fish found in [[FischFright]] during the [[FischFright]] event.
+
+== Description ==
+{{Description|The Skelefish is a literal fish skeleton, eerily animated as if it still had flesh. Its bony structure drifts through the water, with jagged, rib-like bones and a hollow skull that stares blankly ahead. Only can be caught during FischFright.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Only can be caught during FischFright.|Bestiary Hint}}
+{{Fish Availability|
+FischFright/Frightful Pool
+|top_rods      = 
+Leviathan's Fang Rod\34435.41\52982.75;
+Krampus's Rod\33467.53\38156.02;
+Magma Rod\31975.65\36454.87;
+Trident Rod\31046.87\50674.45;
+Ethereal Prism Rod\29706.27\43355.6;
+Flimsy Rod\28027.4\45369.97;
+Training Rod\22502.19\44747.75;
+Plastic Rod\29334.84\33444.14;
+Free Spirit Rod\29520.14\48182.55;
+No-Life Rod\29155.26\47226.3;
+Lucky Rod\18988.47\32309.46;
+Seraphic Rod\28983.55\44402.06;
+Rod Of The Forgotten Fang\27166.17\41526.13;
+Challenger's Rod\26542.81\41641.65;
+Rod Of The Depths\24544.29\37633.14;
+Zeus Rod\24345.76\35743.71;
+Verdant Shear Rod\24029.27\35508.14;
+Rod Of The Exalted One\23878.59\36623.93;
+Blazebringer Rod\23112.92\34072.07;
+Depthseeker Rod\22113.32\33039.91;
+Avalanche Rod\19964.79\29948.58;
+Volcanic Rod\18970.22\28270.47;
+Steady Rod\7996.28\10910.56
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Skelefish, the player has a chance to make one of the following exclamations:
+* Woah, a Skelefish!
+* No way! A Skelefish!
+* I caught a Skelefish!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|FischFright}}

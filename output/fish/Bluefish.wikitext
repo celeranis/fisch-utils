@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Bluefish.png
+|rarity         = Unusual
+|sea            = First Sea
+|location       = [[Keepers Altar]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 75
+|weather        = Clear
+|time           = Day
+|season         = Summer
+|bait           = Flakes
+|base_weight    = 0.9
+|base_value     = 65
+|weight_range   = 0.5
+|base_chance    = 40
+|base_resil     = 34
+}}
+'''Bluefish''' is an {{Rarity|Unusual}} fish found in the [[Keepers Altar]].
+
+== Description ==
+{{Description|Bluefish are found inside Keepers Altar. They can inhabit some of the powerful keepers power that is present in Keepers Altars water. They are only awake during the day, as the power of the Altar is too much for them to handle during the night.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Swims quietly in Keepers Altar during the day.|Bestiary Hint}}
+{{Fish Availability|
+Keepers Altar
+|top_rods      = 
+Krampus's Rod\611278.79\394510.39;
+Magma Rod\565824.73\365175;
+Plastic Rod\529675.8\341914.09;
+Leviathan's Fang Rod\493773.59\141770.97;
+Trident Rod\446664.9\126994.85;
+Flimsy Rod\350499.06\531887.39;
+Fast Rod\330097.53\357117.82;
+Ethereal Prism Rod\407633.42\106440.04;
+Free Spirit Rod\398192.4\113213.25;
+Seraphic Rod\387858.23\104138.45;
+No-Life Rod\382485.34\105429.54;
+Rod Of The Forgotten Fang\361987.97\97486.28;
+Challenger's Rod\346709.45\95301.11;
+Rod Of The Depths\323565.52\87920.25;
+Rod Of The Exalted One\322443.34\85520.53;
+Zeus Rod\313338.12\87076.13;
+Verdant Shear Rod\306265.11\85768.26;
+Blazebringer Rod\297647.65\82715.77;
+Depthseeker Rod\281571.11\79045.88;
+Training Rod\273274.5\123256.22;
+Avalanche Rod\253514.54\71237.81;
+Volcanic Rod\244160.33\67851.74;
+Steady Rod\82859.24\22798.62
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Bluefish, the player has a chance to make one of the following exclamations:
+* Woah, a Bluefish!
+* A Bluefish!
+* I caught a Bluefish!
+* Aw! I caught a Bluefish!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Keepers Altar}}

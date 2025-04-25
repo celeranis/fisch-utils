@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Ribbon Eel.png
+|rarity         = Unusual
+|sea            = First Sea
+|location       = [[Roslit Bay]]
+|sublocation    = Coral Reef
+|sources        = Carbon Crate, Fishing Rod
+|radar_location = 
+|xp             = 150
+|weather        = 
+|time           = 
+|season         = Summer
+|bait           = Minnow
+|base_weight    = 15
+|base_value     = 150
+|weight_range   = 14.5
+|base_chance    = 12
+|base_resil     = 30
+}}
+'''Ribbon Eel''' is an {{Rarity|Unusual}} fish found in [[Roslit Bay]].
+
+== Description ==
+{{Description|The ribbon eel is a striking and elusive reef fish known for its vibrant blue or green body and long, ribbon-like appearance. While they are rare, the Ribbon Eel can be best found in the coral reef of Roslit Bay|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Only comes out at night. Can be found inside the coral reef of Roslit Bay.|Bestiary Hint}}
+{{Fish Availability|
+Roslit Bay/Coral Reef
+|top_rods      = 
+Leviathan's Fang Rod\121960.8\116786.09;
+Trident Rod\109879.72\107547.95;
+Free Spirit Rod\103074.67\100887.31;
+Krampus's Rod\79629.62\76931.84;
+No-Life Rod\79169.91\77980.36;
+Flimsy Rod\52307.65\61127.4;
+Plastic Rod\68681.85\66353.29;
+Buddy Bond Rod\51020.8\49291.02;
+Rapid Rod\74568.36\78930.97;
+Training Rod\53303.72\62719.48;
+Ethereal Prism Rod\77589.11\70269.9;
+Seraphic Rod\76810.31\70307.85;
+Rod Of The Forgotten Fang\71984.24\67673.23;
+Challenger's Rod\71260.64\67492.33;
+Zeus Rod\65623.29\62032.5;
+Rod Of The Depths\65199.13\61316.43;
+Verdant Shear Rod\65111.95\61516.26;
+Rod Of The Exalted One\63904.45\61967.53;
+Blazebringer Rod\62347.56\59189.62;
+Depthseeker Rod\60213.5\57589.01;
+Avalanche Rod\54299.8\51972.63;
+Volcanic Rod\54056.49\50982.33;
+Steady Rod\25361.32\19238
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Ribbon Eel, the player has a chance to make one of the following exclamations:
+* Is it a snake?
+* A Ribbon Eel!
+* I think some slime got on me.
+* Woah! A Ribbon Eel!
+* H-eel-lo! Ribbon Eel!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Roslit Bay}}

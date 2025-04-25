@@ -1,0 +1,36 @@
+{{FishInfobox
+|image          = Opal.png
+|rarity         = Gemstone
+|sea            = First Sea
+|location       = [[Ancient Isle]]
+|sublocation    = 
+|sources        = Meteor
+|radar_location = 
+|xp             = 115
+|weather        = 
+|time           = 
+|season         = 
+|bait           = 
+|base_weight    = 3.2
+|base_value     = 500
+|weight_range   = 2.3
+|base_chance    = 100
+|base_resil     = 100
+}}
+'''Opal''' is a {{Rarity|Gemstone}} fish found in the [[Ancient Isle]].
+
+== Description ==
+{{Description|An iridescent gemstone with an array of different colors.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|From meteors.|Bestiary Hint}}
+
+== Catch Quips ==
+When catching an Opal, the player has a chance to make one of the following exclamations:
+* Ouu, shiny!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ancient Isle}}

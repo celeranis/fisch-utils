@@ -1,0 +1,66 @@
+{{FishInfobox
+|image          = Voltfin Carp.png
+|rarity         = Common
+|sea            = First Sea
+|location       = [[Atlantis]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 100
+|weather        = Rain
+|time           = 
+|season         = 
+|bait           = Worm
+|base_weight    = 25
+|base_value     = 180
+|weight_range   = 15
+|base_chance    = 65
+|base_resil     = 65
+}}
+'''Voltfin Carp''' is a {{Rarity|Common}} fish found in [[Atlantis]].
+
+== Description ==
+{{Description|These large carp have fins that spark with electrical energy. They gather in groups during storms to create spectacular light shows.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Common in Zeus Pool, especially before storms.|Bestiary Hint}}
+{{Fish Availability|
+Atlantis/Zeus's Rod Room
+|top_rods      = 
+Flimsy Rod\310408.71\266175;
+Trident Rod\228176.14\123268.24;
+Leviathan's Fang Rod\223987.18\177270.04;
+Free Spirit Rod\222430.1\122907.66;
+No-Life Rod\222047.58\174456.79;
+Resourceful Rod\184072.32\136170.71;
+Champions Rod\194087.91\134670.81;
+Seraphic Rod\190736.96\172878.54;
+Fast Rod\179262.02\170316.13;
+Kraken Rod\169518.02\146022.49;
+Verdant Shear Rod\195728.42\147346.47;
+Challenger's Rod\194124.96\158332.1;
+Blazebringer Rod\193547.62\138992.66;
+Depthseeker Rod\193406.6\136033.59;
+Zeus Rod\192117.46\147262.08;
+Avalanche Rod\190416.06\133073.99;
+Volcanic Rod\187560.6\120465.51;
+Rod Of The Depths\184498.25\143323.32;
+Rod Of The Forgotten Fang\184231.37\157830.12;
+Rod Of The Exalted One\173855.69\137963.69;
+Ethereal Prism Rod\171049.35\113044.16;
+Steady Rod\88164.13\71666.78
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Voltfin Carp, the player has a chance to make one of the following exclamations:
+* A Voltfin Carp!
+* Sparking scales!
+* Electric fins!
+* zeus carp!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Atlantis}}

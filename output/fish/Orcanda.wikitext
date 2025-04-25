@@ -1,0 +1,65 @@
+{{FishInfobox
+|image          = Orcanda.png
+|rarity         = Limited
+|event          = Animal Hunt
+|sea            = Second Sea
+|location       = [[Animals: Octophant]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -90
+|xp             = 3000
+|weather        = Foggy
+|time           = 
+|season         = Winter
+|bait           = Sapphire Krill
+|base_weight    = 10000
+|base_value     = 2000
+|weight_range   = 7000
+|base_chance    = 10
+|base_resil     = 5
+}}
+'''Orcanda''' is a {{Rarity|Limited}} fish found in [[Octophant Hunt]]s in the [[Second Sea]].
+
+== Description ==
+{{Description|A large, slow-moving beast with a dorsal fin that cuts through the sea like a plow.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It lumbers where the fog cloaks the horizon.|Bestiary Hint}}
+{{Fish Availability|
+Octophant Hunt/Octophant Catchable
+Octophant Hunt/Octophant Uncatchable
+|top_rods      = 
+Free Spirit Rod\84837.76\116328.68;
+Blazebringer Rod\73435\100901.51;
+Azure Of Lagoon\60188\88714.76;
+Egg Rod\57292.32\84524.24;
+Challenger's Rod\56733.77\83752.3;
+Precision Rod\26410.79\36309.45;
+Trident Rod\52423.74\72071.96;
+Seraphic Rod\52108.12\76875.92;
+Ethereal Prism Rod\44833.45\66097.78;
+No-Life Rod\41974.57\61969.11;
+Rod Of The Forgotten Fang\38545.71\56871.49;
+Depthseeker Rod\34687.75\51239.1;
+Rod Of The Exalted One\31956.34\47131.13;
+Rod Of The Depths\29000.53\42798.22;
+Avalanche Rod\28861.19\42633.69;
+Steady Rod\27015.51\39927.37;
+Volcanic Rod\26749.53\39500.87;
+Zeus Rod\24147.2\35658.03
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching an Orcanda, the player has a chance to make one of the following exclamations:
+* AN ORCANDA!
+* IS IT AN ORCA OR A PANDA!?
+* FIN LIKE A MOUNTAIN!
+* GIANT OF THE GULF!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Animals: Octophant}}

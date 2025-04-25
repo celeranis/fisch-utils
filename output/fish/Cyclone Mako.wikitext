@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Cyclone Mako.png
+|rarity         = Rare
+|sea            = First Sea
+|location       = [[Atlantean Storm]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 600
+|weather        = Windy
+|time           = 
+|season         = Spring
+|bait           = Fish Head
+|base_weight    = 80
+|base_value     = 1200
+|weight_range   = 40
+|base_chance    = 6
+|base_resil     = 35
+}}
+'''Cyclone Mako''' is a {{Rarity|Rare}} fish found in the [[Atlantean Storm]].
+
+== Description ==
+{{Description|An evolved species of mako shark with specialized fins that can withstand incredible water pressure. These sharks are known to create powerful water currents with their rapid movements.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in the deepest parts of the Atlantean Storm.|Bestiary Hint}}
+{{Fish Availability|
+Grand Reef/Atlantean Storm
+|top_rods      = 
+Leviathan's Fang Rod\90099.78\184969.62;
+Trident Rod\82362.91\184668.83;
+Ethereal Prism Rod\74287.28\126805.61;
+Free Spirit Rod\72625.39\162835.98;
+Seraphic Rod\71111.62\128509.99;
+Lucky Rod\45634.47\153836.16;
+Resourceful Rod\57376.29\97979.66;
+Destiny Rod\60138.05\109295.59;
+Firefly Rod\60913.69\194871.51;
+Fast Rod\56467.1\187574.77;
+Fungal Rod\50916.12\163844.59;
+Antler Rod\45305.21\145112.71;
+No-Life Rod\70448.18\147057.62;
+Rod Of The Forgotten Fang\66415.91\119449.19;
+Challenger's Rod\63860.34\122400.97;
+Rod Of The Depths\59480.5\106303.01;
+Rod Of The Exalted One\58975.52\108019.03;
+Zeus Rod\57834.55\107258.6;
+Verdant Shear Rod\56600.27\106326.29;
+Blazebringer Rod\54936.25\102316.5;
+Depthseeker Rod\52047.07\99309.85;
+Avalanche Rod\46872.79\89738.56;
+Volcanic Rod\45066.04\84817.34;
+Steady Rod\16434.25\33072.45
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Cyclone Mako, the player has a chance to make one of the following exclamations:
+* A Cyclone Mako!
+* The storm shark appears!
+* What raw power!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Atlantean Storm}}

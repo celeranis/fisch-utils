@@ -1,0 +1,90 @@
+{{FishInfobox
+|image          = Swordfish.png
+|rarity         = Rare
+|sea            = First Sea
+|location       = [[Ocean]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 300
+|weather        = Windy, Clear
+|time           = 
+|season         = Summer
+|bait           = Squid
+|base_weight    = 250
+|base_value     = 850
+|weight_range   = 150
+|base_chance    = 15
+|base_resil     = 35
+}}
+'''Swordfish''' is a {{Rarity|Rare}} fish found in the [[Ocean]].
+
+== Description ==
+{{Description|Swordfish are extremely strong and notable due to their long flattened bill that resembles a sword, as their name implies. They are a great catch, and anglers around the globe are impressed by a Swordfish catch.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in deep ocean water. Extremely strong.|Bestiary Hint}}
+{{Fish Availability|
+Ancient Isle/Algae Hunt
+Atlantis/Surrounding Ocean
+FischFright/Frightful Pool
+Forsaken Shores/Algae Hunt
+Golden Tide
+Lovestorm/Normal
+Lovestorm/Supercharged
+Lucky Event/Blarney McBreeze
+Lucky Event/O'Mango Goldgrin
+Lucky Event/Plumrick O'Luck
+Lucky Event/Rowdy McCharm
+Lucky Event/Sunny O'Coin
+Megalodon Hunt/Eclipse and Weekend
+Megalodon Hunt/Normal
+Mushgrove Swamp/Algae Hunt
+Northern Summit/Surrounding Ocean
+Ocean
+Ocean/Deep Ocean
+Ocean/Harvesters Spike
+Orca Migration/Ancient
+Orca Migration/Normal
+Roslit Bay/Surrounding Ocean
+Snowcap Island/Algae Hunt
+Whale Migration/Moby
+Whale Migration/Normal
+|top_rods      = 
+Leviathan's Fang Rod\60081.88\109349.47;
+Krampus's Rod\59323.28\75172.19;
+Trident Rod\55674.52\103366.51;
+Magma Rod\54633.32\69229.25;
+Plastic Rod\51457.39\65204.44;
+Buddy Bond Rod\38225.49\48437.58;
+Free Spirit Rod\49092.29\91145.79;
+No-Life Rod\44587.81\75733.39;
+Ethereal Prism Rod\45386.24\71452.26;
+Seraphic Rod\44177.99\71516.78;
+Rod Of The Forgotten Fang\41341.91\69042.91;
+Challenger's Rod\40330.28\68881.74;
+Rod Of The Depths\37249.07\62686.64;
+Zeus Rod\36851.63\63470.18;
+Rod Of The Exalted One\36359.97\63296.95;
+Verdant Shear Rod\36320.13\62960.73;
+Blazebringer Rod\35004.86\60545.7;
+Depthseeker Rod\33479.45\58193.55;
+Avalanche Rod\30180.68\52360.03;
+Volcanic Rod\28715.65\50190.58;
+Steady Rod\12786.29\17162.08
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Swordfish, the player has a chance to make one of the following exclamations:
+* A Swordfish!
+* WOAH! A Swordfish!!
+* SWORDFISHHHH
+* I caught a swordfish!!
+* A Fish Sword..! A Fish Sword!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ocean}}

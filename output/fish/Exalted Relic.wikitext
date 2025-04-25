@@ -1,0 +1,39 @@
+{{FishInfobox
+|image          = Exalted Relic.png
+|rarity         = Relic
+|sea            = First Sea
+|location       = [[Regionless]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -20
+|xp             = 2500
+|weather        = 
+|time           = 
+|season         = 
+|bait           = 
+|base_weight    = 21
+|base_value     = 12000
+|weight_range   = 0
+|base_chance    = 0.02
+|base_resil     = 35
+}}
+'''Exalted Relic''' is a {{Rarity|Relic}} fish found in [[Regionless]].
+
+== Description ==
+{{Description|An immortal stone filled with the essence of a Divine Lantern Keeper.. Returning it to it's throne under the Statue of Sovereignty will result in your currently equipped rod being blessed with its immense power.|Bestiary Entry}}
+
+== Obtainment ==
+
+== Catch Quips ==
+When catching an Exalted Relic, the player has a chance to make one of the following exclamations:
+* I feel it's power..
+* Woah.. An Exalted Relic??
+* An Exalted Relic!!
+* I caught an Exalted Relic!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Regionless}}

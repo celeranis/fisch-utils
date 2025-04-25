@@ -1,0 +1,69 @@
+{{FishInfobox
+|image          = Typhoon Tuna.png
+|rarity         = Rare
+|sea            = First Sea
+|location       = [[Atlantean Storm]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 450
+|weather        = Rain
+|time           = 
+|season         = Winter
+|bait           = Fish Head
+|base_weight    = 45
+|base_value     = 900
+|weight_range   = 25
+|base_chance    = 12
+|base_resil     = 45
+}}
+'''Typhoon Tuna''' is a {{Rarity|Rare}} fish found in the [[Atlantean Storm]].
+
+== Description ==
+{{Description|A massive tuna species with storm-cloud coloring and unusual fin patterns. They swim in the heart of the Atlantean Storm, using the powerful currents to achieve incredible speeds.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in the storm's strongest currents.|Bestiary Hint}}
+{{Fish Availability|
+Grand Reef/Atlantean Storm
+|top_rods      = 
+Krampus's Rod\138927.86\155622.59;
+Magma Rod\131847.08\147690.92;
+Leviathan's Fang Rod\122973.91\167694.38;
+Plastic Rod\122185.97\136666.69;
+Ethereal Prism Rod\109961.86\128462.09;
+Buddy Bond Rod\90221.99\101572.91;
+Firefly Rod\92478.23\199066.52;
+Fast Rod\91595.27\190315.86;
+Fungal Rod\77000.01\166481.4;
+Lucky Rod\69749.18\162442.44;
+Antler Rod\68674.58\148347.17;
+Trident Rod\109869.15\161555.03;
+Seraphic Rod\105718.67\130344.9;
+No-Life Rod\104852.44\145589.5;
+Free Spirit Rod\102851.63\151236.26;
+Rod Of The Forgotten Fang\98880.86\121576.91;
+Challenger's Rod\95435.98\124268.83;
+Rod Of The Depths\88823.55\109232.38;
+Rod Of The Exalted One\87626.28\110997.05;
+Zeus Rod\86817.82\109864.57;
+Verdant Shear Rod\85181.22\108031.6;
+Blazebringer Rod\82435.8\104602.29;
+Depthseeker Rod\78279.57\100617.02;
+Avalanche Rod\70588.98\91119.97;
+Volcanic Rod\67649.54\86084.85;
+Steady Rod\28898.81\33551.05
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching a Typhoon Tuna, the player has a chance to make one of the following exclamations:
+* A Typhoon Tuna!
+* The storm's fury incarnate!
+* This one's massive!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Atlantean Storm}}

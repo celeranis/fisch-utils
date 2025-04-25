@@ -1,0 +1,66 @@
+{{FishInfobox
+|image          = Poseidon's Perch.png
+|rarity         = Common
+|sea            = First Sea
+|location       = [[Atlantis]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 50
+|weather        = Clear
+|time           = Day
+|season         = Spring
+|bait           = Insect
+|base_weight    = 2.5
+|base_value     = 70
+|weight_range   = 1.5
+|base_chance    = 80
+|base_resil     = 75
+}}
+'''Poseidon's Perch''' is a {{Rarity|Common}} fish found in [[Atlantis]].
+
+== Description ==
+{{Description|These curious fish inhabit the grand sunken temples. Their fins have patterns resembling ancient waves, leading many to believe they were blessed by ancient gods.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Sunken's Depth Pool|Bestiary Hint}}
+{{Fish Availability|
+Atlantis/Sunken Depths
+|top_rods      = 
+Leviathan's Fang Rod\158626.11\0;
+Trident Rod\155264.42\13407.47;
+Free Spirit Rod\152597.05\13379.16;
+No-Life Rod\146905.03\19100.29;
+Azure Of Lagoon\146673.9\13155.98;
+Training Rod\115368.15\20293.67;
+Flimsy Rod\90257.93\17407.9;
+Long Rod\120808.48\14936.24;
+Nocturnal Rod\86307.05\70470.45;
+Seraphic Rod\133421.81\18976.27;
+Fast Rod\127172.67\18917.58;
+Challenger's Rod\134107.93\17375.57;
+Zeus Rod\134070.42\16186.4;
+Blazebringer Rod\133122.31\15775;
+Verdant Shear Rod\132470.82\16197.57;
+Depthseeker Rod\131317.12\15097.02;
+Avalanche Rod\129819.14\14489;
+Rod Of The Forgotten Fang\129732.96\17334.34;
+Rod Of The Depths\129200.44\15751.61;
+Volcanic Rod\129114.7\15300.1;
+Ethereal Prism Rod\127467.27\0;
+Rod Of The Exalted One\126339.73\15896.13;
+Steady Rod\63716.72\8139.19
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Poseidon's Perch, the player has a chance to make one of the following exclamations:
+* Poseidon's Perch!
+* Blessed by the depths!
+* A divine catch!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Atlantis}}

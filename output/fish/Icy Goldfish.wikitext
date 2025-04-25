@@ -1,0 +1,66 @@
+{{FishInfobox
+|image          = Icy Goldfish.png
+|rarity         = Rare
+|sea            = First Sea
+|location       = [[Overgrowth Caves]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 300
+|weather        = Clear
+|time           = Day
+|season         = Winter
+|bait           = Flakes
+|base_weight    = 40
+|base_value     = 800
+|weight_range   = 20
+|base_chance    = 10
+|base_resil     = 40
+}}
+'''Icy Goldfish''' is a {{Rarity|Rare}} fish found in the [[Overgrowth Caves]].
+
+== Description ==
+{{Description|A mystical goldfish with scales that sparkle like ice crystals in sunlight.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in the cave's illuminated pools.|Bestiary Hint}}
+{{Fish Availability|
+Overgrowth Caves
+|top_rods      = 
+Leviathan's Fang Rod\76287.27\80494.33;
+Krampus's Rod\70066.77\37690.35;
+Trident Rod\68835.97\75856.52;
+Magma Rod\65781.35\36229.04;
+Ethereal Prism Rod\64284.38\59972.3;
+Plastic Rod\61038.36\31952.65;
+Free Spirit Rod\62963.05\69384.62;
+No-Life Rod\62547.81\61545.04;
+Nocturnal Rod\27546.15\37221.95;
+Resourceful Rod\48954.39\46282.83;
+Destiny Rod\51905.75\52518.67;
+Seraphic Rod\62613.73\59372.02;
+Rod Of The Forgotten Fang\58626\55694.39;
+Challenger's Rod\56814.08\55076.46;
+Rod Of The Depths\52870.33\50511.3;
+Zeus Rod\51596.04\50781.72;
+Rod Of The Exalted One\51558.03\49520.66;
+Verdant Shear Rod\50580.57\50366.67;
+Blazebringer Rod\49000.81\48227.46;
+Depthseeker Rod\46501.61\46488.21;
+Avalanche Rod\41909.7\41964.22;
+Volcanic Rod\40204.7\39716.83;
+Steady Rod\13831.35\14580.38
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching an Icy Goldfish, the player has a chance to make one of the following exclamations:
+* An Icy Goldfish!
+* So beautiful!
+* Like frozen gold!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Overgrowth Caves}}

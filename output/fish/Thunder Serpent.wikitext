@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Thunder Serpent.png
+|rarity         = Legendary
+|sea            = First Sea
+|location       = [[Atlantis]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 1200
+|weather        = Rain
+|time           = Night
+|season         = 
+|bait           = 
+|base_weight    = 200
+|base_value     = 2500
+|weight_range   = 100
+|base_chance    = 1
+|base_resil     = 20
+}}
+'''Thunder Serpent''' is a {{Rarity|Legendary}} fish found in [[Atlantis]].
+
+== Description ==
+{{Description|A massive eel-like creature that channels Zeus' lightning directly. Its presence can electrify entire sections of the pool during storms.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Only appears during the fiercest thunderstorms in zeus pool.|Bestiary Hint}}
+{{Fish Availability|
+Atlantis/Zeus's Rod Room
+|top_rods      = 
+Leviathan's Fang Rod\51022.5\189798.42;
+Free Spirit Rod\42400.13\182421.72;
+Trident Rod\41466.67\178405.61;
+Ethereal Prism Rod\39123.86\109765.03;
+Seraphic Rod\37725.19\110509.82;
+Resourceful Rod\30008.44\90217.5;
+Destiny Rod\31307.07\95679.67;
+Heaven's Rod\28222.8\100370.8;
+No-Life Rod\37588.04\129947.27;
+Azure Of Lagoon\26959.48\119700.77;
+Adventurer's Rod\17919.12\80596.66;
+Fischer's Rod\18014.43\81260.92;
+Plastic Rod\18201.75\83877.33;
+Rod Of The Forgotten Fang\35202.34\107986.95;
+Challenger's Rod\33803.72\108862.85;
+Rod Of The Depths\31512.88\97753.96;
+Rod Of The Exalted One\31097.43\97474.32;
+Zeus Rod\30357.37\100225.14;
+Verdant Shear Rod\29566.35\99744.69;
+Blazebringer Rod\28854.97\95681.27;
+Depthseeker Rod\27231.21\94058.49;
+Avalanche Rod\24457.81\84620.89;
+Volcanic Rod\23653.75\79206.35;
+Steady Rod\7666.5\31971.54
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Thunder Serpent, the player has a chance to make one of the following exclamations:
+* THE THUNDER SERPENT!
+* Zeus' CHOSEN!
+* PURE LIGHTNING!
+* THE STORM INCARNATE!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Atlantis}}

@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Volcanic Prowler.png
+|rarity         = Rare
+|sea            = Second Sea
+|location       = [[Emberreach]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -6
+|xp             = 210
+|weather        = Clear
+|time           = Day
+|season         = Spring
+|bait           = Magnet
+|base_weight    = 1230
+|base_value     = 441
+|weight_range   = 765
+|base_chance    = 43
+|base_resil     = 33
+}}
+'''Volcanic Prowler''' is a {{Rarity|Rare}} fish found in [[Emberreach]].
+
+== Description ==
+{{Description|A stealthy fish, its teeth sharp and edges warm with fire.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It stalks through the bright embers of dawn.|Bestiary Hint}}
+{{Fish Availability|
+Emberreach/Surrounding Ocean
+|top_rods      = 
+Trident Rod\130149.03\6191.31;
+Leviathan's Fang Rod\112089.53\6186.78;
+No-Life Rod\101769.54\9693.16;
+Brother's Rod\93183.38\8703.53;
+Wildflower Rod\91232.13\8635.47;
+Resourceful Rod\73248.95\7873.52;
+Free Spirit Rod\76613.95\8082.22;
+Voyager Rod\77807.69\7612;
+Nocturnal Rod\40898.52\40616.07;
+Egg Rod\90215.01\9126.73;
+Verdant Shear Rod\86992.7\8800.74;
+Challenger's Rod\83198.38\7875.04;
+Blazebringer Rod\82254.86\8321.43;
+Depthseeker Rod\81162.32\8113.83;
+Avalanche Rod\77047.99\7721.75;
+Volcanic Rod\76895.59\7476.05;
+Zeus Rod\76596.93\7447.01;
+Seraphic Rod\75821.97\5472.43;
+Rod Of The Depths\74264.31\5131.64;
+Rod Of The Forgotten Fang\72995.75\5180.96;
+Steady Rod\64798.01\6555.38;
+Rod Of The Exalted One\62262.4\5143.38;
+Ethereal Prism Rod\61155.4\5421.74
+|recommended   = Verdant Shear Rod
+}}
+
+== Catch Quips ==
+When catching a Volcanic Prowler, the player has a chance to make one of the following exclamations:
+* A Volcanic Prowler!
+* Jagged hunter!
+* Orange stalker!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Emberreach}}

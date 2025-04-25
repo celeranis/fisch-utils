@@ -1,0 +1,38 @@
+/* Last update: Version [[1.29]], place version 4322 */
+
+.enchantment-sea-king { --enchant-color: #354dd3; }
+.enchantment-lucky { --enchant-color: #7ee5a4; }
+.enchantment-scrapper { --enchant-color: #ff9b53; }
+.enchantment-divine { --enchant-color: #c6e5dc; }
+.enchantment-blessed-song { --enchant-color: #00aaff; }
+.enchantment-steady { --enchant-color: #e5cfbf; }
+.enchantment-noir { --enchant-color: #ffffff; }
+.enchantment-abyssal { --enchant-color: #2739ad; }
+.enchantment-mutated { --enchant-color: #93e570; }
+.enchantment-unbreakable { --enchant-color: #e1b3e5; }
+.enchantment-piercing { --enchant-color: #0da78d; }
+.enchantment-storming { --enchant-color: #ffec83; }
+.enchantment-clever { --enchant-color: #ff6ea6; }
+.enchantment-anomalous { --enchant-color: #ff1d1d; }
+.enchantment-invincible { --enchant-color: #ff6219; }
+.enchantment-long { --enchant-color: #dfa540; }
+.enchantment-swift { --enchant-color: #b5e3e5; }
+.enchantment-mystical { --enchant-color: #c2dfff; }
+.enchantment-wormhole { --enchant-color: #915aff; }
+.enchantment-controlled { --enchant-color: #af9bff; }
+.enchantment-chaotic { --enchant-color: #141316; }
+.enchantment-scavenger { --enchant-color: #ffbf66; }
+.enchantment-insight { --enchant-color: #80ff72; }
+.enchantment-flashline { --enchant-color: #ffffff; }
+.enchantment-immortal { --enchant-color: #e8d9ff; }
+.enchantment-sea-overlord { --enchant-color: #33a8d3; }
+.enchantment-quantum { --enchant-color: #ff00b3; }
+.enchantment-herculean { --enchant-color: #ffea00; }
+.enchantment-quality { --enchant-color: #9eff37; }
+.enchantment-breezed { --enchant-color: #bcd0ff; }
+.enchantment-hasty { --enchant-color: #e5d15c; }
+.enchantment-resilient { --enchant-color: #6affc6; }
+.enchantment-blessed { --enchant-color: #ff4fa4; }
+.enchantment-ghastly { --enchant-color: #81dfad; }
+
+.enchantment, .enchantment a, .enchantment-option .oo-ui-labelElement-label { color: var(--enchant-color) }

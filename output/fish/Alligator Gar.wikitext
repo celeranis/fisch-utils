@@ -1,0 +1,70 @@
+{{FishInfobox
+|image          = Alligator Gar.png
+|rarity         = Rare
+|sea            = First Sea
+|location       = [[Roslit Bay]]
+|sublocation    = Freshwater
+|sources        = Carbon Crate, Fish Barrel, Fishing Rod, Volcanic Geode
+|radar_location = 
+|xp             = 100
+|weather        = 
+|time           = 
+|season         = Summer
+|bait           = 
+|base_weight    = 45
+|base_value     = 220
+|weight_range   = 25
+|base_chance    = 45
+|base_resil     = 40
+}}
+'''Alligator Gar''' is a {{Rarity|Rare}} fish found in [[Roslit Bay]].
+
+== Description ==
+{{Description|The Alligator Gar is a large, vicious freshwater fish that can be found in Roslit Bays pond. Gars track back to 100 million years ago, giving them the nickname as a 'living fossil'.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Can be found in lakes during summer.|Bestiary Hint}}
+{{Fish Availability|
+Roslit Bay/Freshwater Pond
+Roslit Bay/Freshwater Pond Seaweed
+|top_rods      = 
+Ethereal Prism Rod\156729.24\234673.36;
+Leviathan's Fang Rod\151419.8\163332.27;
+Champions Rod\150705.05\125992.7;
+Celestial Rod\149145.54\125281.97;
+Rapid Rod\148112.48\135313.07;
+Fortune Rod\86940.67\172384.21;
+Mythical Rod\106568.13\93813.57;
+No-Life Rod\146858.29\146858.29;
+Seraphic Rod\144283.16\144283.16;
+Kraken Rod\122232.78\136689.5;
+Depthseeker Rod\141000.84\112321.63;
+Trident Rod\139081.36\106129.29;
+Avalanche Rod\138839.45\100495.96;
+Challenger's Rod\132014\132014;
+Rod Of The Forgotten Fang\131481.54\131481.54;
+Verdant Shear Rod\128394.64\122351.69;
+Free Spirit Rod\127215.27\105454.72;
+Zeus Rod\122351.69\122351.69;
+Rod Of The Depths\119106.32\119106.32;
+Blazebringer Rod\117515.23\115576.16;
+Rod Of The Exalted One\114067.43\115988.26;
+Volcanic Rod\113404.21\92862.65;
+Steady Rod\73146.01\64459.25
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching an Alligator Gar, the player has a chance to make one of the following exclamations:
+* I caught a Gar!
+* It's an Alligator Gar!
+* A Gar!!
+* Woah, an Alligator Gar!
+* Aye!! A Gar!
+* Oh my Gar!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Roslit Bay}}

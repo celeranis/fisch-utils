@@ -1,0 +1,69 @@
+{{FishInfobox
+|image          = Bone.png
+|rarity         = Trash
+|sea            = First Sea
+|location       = [[Brine Pool]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 25
+|weather        = 
+|time           = 
+|season         = 
+|bait           = Magnet
+|base_weight    = 2.5
+|base_value     = 30
+|weight_range   = 1.5
+|base_chance    = 2900
+|base_resil     = 80
+}}
+'''Bone''' is a {{Rarity|Trash}} fish found in the [[Desolate Deep]]'s [[Desolate Deep#Brine Pool|Brine Pool]].
+
+== Description ==
+{{Description|A bone from the remains of a dissolved creature.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Find it in the Brine Pool.|Bestiary Hint}}
+{{Fish Availability|
+Desolate Deep/Brine Pool
+|top_rods      = 
+Training Rod\235009.37\407343.54;
+Flimsy Rod\233326.44\370555.97;
+Krampus's Rod\189424.02\298500.08;
+Leviathan's Fang Rod\185828.09\255753.43;
+Magma Rod\183466.77\289113.29;
+Plastic Rod\167550.2\264037.98;
+Fast Rod\180299.71\301295.26;
+Heaven's Rod\147018.93\199349.92;
+Trident Rod\177458.07\173951.32;
+Free Spirit Rod\174907.62\173642.09;
+Ethereal Prism Rod\163116.75\275811.03;
+No-Life Rod\160852.31\232623.85;
+Seraphic Rod\159286.32\247206.1;
+Challenger's Rod\152662.25\213073.21;
+Rod Of The Forgotten Fang\152487.89\223724.54;
+Rod Of The Exalted One\148881.86\201054.69;
+Rod Of The Depths\147770.69\198643.84;
+Depthseeker Rod\147260.67\174149.69;
+Blazebringer Rod\147222.98\183213.73;
+Zeus Rod\147036.65\194189.35;
+Verdant Shear Rod\146775.83\191426.74;
+Avalanche Rod\145871\156030.72;
+Reinforced Rod\145601.01\155329.07;
+Volcanic Rod\142583.88\147360.92;
+Steady Rod\76857.6\74267.78
+|recommended   = Training Rod
+}}
+
+== Catch Quips ==
+When catching a Bone, the player has a chance to make one of the following exclamations:
+* Oh.. a Bone!
+* A.. Bone?
+* How did I pull this up?
+* A Bone..?
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Brine Pool}}

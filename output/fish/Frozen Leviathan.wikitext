@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Frozen Leviathan.png
+|rarity         = Exotic
+|sea            = First Sea
+|location       = [[Challenger's Deep]]
+|sublocation    = 
+|sources        = Fishing Rod
+|nopassive      = 1
+|radar_location = 
+|prog_speed     = -90
+|xp             = 20000
+|weather        = Clear
+|time           = Night
+|season         = Winter
+|bait           = Truffle Worm
+|base_weight    = 14000
+|base_value     = 18000
+|weight_range   = 8000
+|base_chance    = 0.1
+|base_resil     = 3
+}}
+'''Frozen Leviathan''' is an {{Rarity|Exotic}} fish found in the [[Challenger's Deep]] of [[Mariana's Veil]].
+
+== Description ==
+{{Description|A chilling creature with icy tentacles that can freeze anything it touches. Legends say it guards the deepest parts of the ocean.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Appears during the coldest nights, when the moon is full.|Bestiary Hint}}
+{{Fish Availability|
+Mariana's Veil/Challenger's Deep
+|top_rods      = 
+Tempest Rod\4877.72\14728.3;
+Challenger's Rod\4758.96\14867.61;
+Seraphic Rod\4649.52\13524.95;
+Ethereal Prism Rod\4630.83\12050.32;
+Abyssal Specter Rod\3940.42\12823.81;
+Destiny Rod\2867.68\6540.21;
+Heaven's Rod\3041.29\7234.44;
+Krampus's Rod\1741.77\6482.65;
+Magnet Rod\614.5\1929.42;
+Steady Rod\704.43\2150.06;
+No-Life Rod\3709\11412.11;
+Rod Of The Forgotten Fang\3539.35\10139.64;
+Depthseeker Rod\2733.84\8848.51;
+Rod Of The Exalted One\2732.77\7274.39;
+Rod Of The Depths\2322.11\6882.99;
+Zeus Rod\2220.88\6948.78;
+Trident Rod\2204.17\6116.8;
+Avalanche Rod\1966.41\6353.61;
+Volcanic Rod\1781.36\5479.9
+|recommended   = Challenger's Rod
+}}
+
+== Gameplay Notes ==
+* Frozen Leviathan usually cannot be caught with passive effects, such as the one provided by the [[Rod Of The Depths]] and [[Rod Of The Forgotten Fang]].
+** The only exception is when catching a Frozen Leviathan on the Megalodon Passive reel of the [[Rod Of The Forgotten Fang]], the Megalodon will instead dupe the Frozen Leviathan.
+
+== Catch Quips ==
+When catching a Frozen Leviathan, the player has a chance to make one of the following exclamations:
+* THE FROZEN LEVIATHAN!?!
+* ABSOLUTE ZERO!
+* FREEZING KRAKEN!?
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Challenger's Deep}}

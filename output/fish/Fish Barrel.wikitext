@@ -1,0 +1,124 @@
+{{FishInfobox
+|image          = Fish Barrel.png
+|rarity         = Uncommon
+|sea            = First Sea
+|location       = [[Regionless]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 40
+|weather        = 
+|time           = 
+|season         = 
+|bait           = Magnet
+|base_weight    = 15
+|base_value     = 80
+|weight_range   = 0
+|base_chance    = 12
+|base_resil     = 110
+}}
+'''Fish Barrel''' is an {{Rarity|Uncommon}} fish found in [[Regionless]].
+
+== Description ==
+{{Description|A large wooden barrel with iron hoops. The barrel filled with a large array of ocean and freshwater fish that all seem pretty fresh. Therefore, finders keeps?- Opening it might give you an assortment of fish|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Fallen off of a fishing boat.|Bestiary Hint}}
+{{Fish Availability|
+Ancient Archives
+Ancient Isle/Surrounding Ocean
+Cryogenic Canal
+Forsaken Shores/Coral Reef
+Forsaken Shores/Freshwater Pond
+Forsaken Shores/Surrounding Ocean
+Frigid Cavern
+Glacial Grotto
+Grand Reef
+Lucky Event/Blarney McBreeze
+Lucky Event/O'Mango Goldgrin
+Lucky Event/Plumrick O'Luck
+Lucky Event/Rowdy McCharm
+Lucky Event/Sunny O'Coin
+Moosewood/Seaweed and Mini-Island
+Moosewood/Surrounding Ocean
+Northern Summit/Surrounding Ocean
+Ocean
+Ocean/Strange Whirlpool
+Ocean/The Arch
+Overgrowth Caves
+Snowcap Island/Surrounding Ocean
+Sunstone Island/Crate Cave
+Terrapin Island/Olm Cave
+Terrapin Island/Surrounding Ocean
+|top_rods      = 
+Magnet Rod\367035.02\369490.76;
+Krampus's Rod\173291.44\160930.72;
+Leviathan's Fang Rod\168372.97\228169.21;
+Magma Rod\168366.38\156356.96;
+No-Life Rod\156056.07\205740.2;
+Plastic Rod\153895.6\145460.58;
+Trident Rod\148075.8\217422.69;
+Free Spirit Rod\147269.65\216239;
+Seraphic Rod\151745.22\215994.11;
+Tempest Rod\150102.04\213401.75;
+Rod Of The Depths\137480.02\194276.41;
+Ethereal Prism Rod\151006.84\210156.23;
+Rod Of The Forgotten Fang\149465.52\198175.61;
+Challenger's Rod\147611.1\197318.29;
+Rod Of The Exalted One\137407.74\194811.96;
+Zeus Rod\134889.35\185403.85;
+Verdant Shear Rod\133950.19\185730.66;
+Depthseeker Rod\133599.44\171838.66;
+Avalanche Rod\132986.61\164057.14;
+Blazebringer Rod\132200.81\176548.82;
+Volcanic Rod\128442.47\168002.84;
+Steady Rod\46741.85\59792.27
+|recommended   = Magnet Rod
+}}
+
+== Contents ==
+Opening a Fish Barrel will yield at least one of the following:
+* [[Sockeye Salmon]]
+* [[Trout]]
+* [[Bream]]
+* [[Sturgeon]]
+* [[Barracuda]]
+* [[Carp]]
+* [[Pufferfish]]
+* [[Bluefin Tuna]]
+* [[Yellowfin Tuna]]
+* [[Pike]]
+* [[Alligator Gar]]
+* [[Cod]]
+* [[Minnow]]
+* [[Longtail Bass]]
+* [[Mahi Mahi]]
+* [[Sardine]]
+* [[Crab]]
+* [[Amberjack]]
+* [[Arapaima]]
+* [[Perch]]
+* [[Sea Bass]]
+* [[Haddock]]
+* [[Sweetfish]]
+* [[Goldfish]]
+* [[Halibut]]
+* [[Pale Tang]]
+* [[Porgy]]
+* [[White Bass]]
+* [[Walleye]]
+* [[Redeye Bass]]
+* [[Golden Smallmouth Bass]]
+
+== Catch Quips ==
+When catching a Fish Barrel, the player has a chance to make one of the following exclamations:
+* A Fish Barrel!
+* Woah! A Fish Barrel!
+* A Fish Barrel!
+* Don't mind if I do!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Regionless}}

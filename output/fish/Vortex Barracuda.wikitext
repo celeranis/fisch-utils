@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Vortex Barracuda.png
+|rarity         = Unusual
+|sea            = First Sea
+|location       = [[Atlantean Storm]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 300
+|weather        = Clear
+|time           = 
+|season         = Summer
+|bait           = Minnow
+|base_weight    = 16
+|base_value     = 600
+|weight_range   = 8
+|base_chance    = 20
+|base_resil     = 50
+}}
+'''Vortex Barracuda''' is an {{Rarity|Unusual}} fish found in the [[Atlantean Storm]].
+
+== Description ==
+{{Description|An aggressive predator with spiral markings and enhanced swimming muscles. These barracuda have learned to use the storm's currents to their advantage when hunting, creating their own miniature whirlpools.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found patrolling the storm's edge.|Bestiary Hint}}
+{{Fish Availability|
+Grand Reef/Atlantean Storm
+|top_rods      = 
+Krampus's Rod\233247.01\257397.36;
+Magma Rod\222841.84\245914.85;
+Plastic Rod\205696.83\226659.37;
+Leviathan's Fang Rod\176461.89\179692.52;
+Fast Rod\161233.88\244937.73;
+Buddy Bond Rod\151886.31\194114.92;
+Training Rod\94545.45\253383.5;
+Flimsy Rod\130745.96\241216.39;
+Ethereal Prism Rod\160819.65\134938.13;
+Trident Rod\157547.94\172988.14;
+Seraphic Rod\155062.88\135124.18;
+No-Life Rod\154051.56\144769;
+Free Spirit Rod\149800.56\164481.49;
+Rod Of The Forgotten Fang\145143.74\131242.69;
+Challenger's Rod\140446.82\130979.88;
+Rod Of The Depths\130599.11\122012.35;
+Rod Of The Exalted One\128433.33\124648.31;
+Zeus Rod\128085.62\121355.11;
+Verdant Shear Rod\125865.5\120771.38;
+Blazebringer Rod\121599.53\115679.63;
+Depthseeker Rod\115657.55\112450.2;
+Avalanche Rod\104357.82\101956.74;
+Volcanic Rod\99804.37\95982.37;
+Steady Rod\47401.22\37785.7
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching a Vortex Barracuda, the player has a chance to make one of the following exclamations:
+* A Vortex Barracuda!
+* It's creating its own whirlpool!
+* What a powerful fish!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Atlantean Storm}}

@@ -1,0 +1,72 @@
+{{FishInfobox
+|image          = Glacier Pike.png
+|rarity         = Unusual
+|sea            = First Sea
+|location       = [[Snowcap Island]]
+|sublocation    = Freshwater
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 90
+|weather        = Rain
+|time           = 
+|season         = Autumn, Spring
+|bait           = Insect
+|base_weight    = 3.5
+|base_value     = 230
+|weight_range   = 2.3
+|base_chance    = 45
+|base_resil     = 55
+}}
+'''Glacier Pike''' is an {{Rarity|Unusual}} fish found in [[Snowcap Island]].
+
+== Description ==
+{{Description|Pikes are a long, predatory freshwater fish known for its aggressive nature and sharp teeth. Glacier Pikes are supremely found in cold freshwaters in Snowcap Island. They can be determined by their unique ice-coloured scales and longer fins.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in Snowcaps freshwater. Seems to prefer insect baits.|Bestiary Hint}}
+{{Fish Availability|
+Snowcap Island/Freshwater Pond
+|top_rods      = 
+Ethereal Prism Rod\161289.98\199093.71;
+Champions Rod\160378.22\123733.72;
+Celestial Rod\157913.16\119973.96;
+Rapid Rod\156239.34\141995.32;
+Ice Warpers Rod\156052.92\118560.65;
+Training Rod\151136.36\164133.74;
+Flimsy Rod\122760.47\106975.45;
+Buddy Bond Rod\95030.03\80008.37;
+Leviathan's Fang Rod\154166.76\166613.07;
+No-Life Rod\155053.42\152561.93;
+Seraphic Rod\153189.44\150727.91;
+Fortune Rod\88281.9\116725.72;
+Depthseeker Rod\152078.39\117524.51;
+Avalanche Rod\151628.08\105279.63;
+Verdant Shear Rod\143541.27\128242.82;
+Challenger's Rod\140249.8\137996.19;
+Rod Of The Forgotten Fang\139763.31\137517.51;
+Trident Rod\138688.51\108638.94;
+Free Spirit Rod\133321.24\108204.44;
+Blazebringer Rod\133141.62\121028.89;
+Zeus Rod\132093.89\128190.95;
+Volcanic Rod\128870.12\97290.1;
+Rod Of The Depths\126813.57\124775.86;
+Rod Of The Exalted One\119175.29\117260.31;
+Steady Rod\77465.9\61721.99
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching a Glacier Pike, the player has a chance to make one of the following exclamations:
+* A Glacier Pike!
+* I caught a Glacier Pike!
+* Woah! a Glacier Pike!
+* GLACIER PIKE!!!
+* I'd prefer a lance.
+* A Glacier Pike?!
+* That's a big Glacier Pike!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Snowcap Island}}

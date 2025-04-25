@@ -1,0 +1,37 @@
+{{FishInfobox
+|image          = Ancient Serpent Skull.png
+|rarity         = Limited
+|event          = Archeological Site
+|sea            = First Sea
+|location       = Regionless
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -20
+|xp             = 400
+|weather        = 
+|time           = 
+|season         = 
+|bait           = 
+|base_weight    = 10
+|base_value     = 1200
+|weight_range   = 5
+|base_chance    = 0.005
+|base_resil     = 100
+}}
+'''Ancient Serpent Skull''' is a {{Rarity|Limited}} fish found in any body of water during the [[Archeological Site]] event.
+
+== Description ==
+{{Description|A haunting, bone-chilling relic from a monstrous, lost predator, shrouded in eerie mystery. Beware... Locals say the skull holds a haunting power...|Bestiary Entry}}
+
+== Obtainment ==
+
+== Catch Quips ==
+When catching an Ancient Serpent Skull, the player has a chance to make one of the following exclamations:
+* WOAH ANCIENT SERPENT'S SKULL!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Archeological Site}}

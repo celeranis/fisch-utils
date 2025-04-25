@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Snowfish.png
+|rarity         = Rare
+|sea            = First Sea
+|location       = [[Frigid Cavern]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 300
+|weather        = 
+|time           = 
+|season         = Winter
+|bait           = Fish Head
+|base_weight    = 45
+|base_value     = 800
+|weight_range   = 25
+|base_chance    = 20
+|base_resil     = 40
+}}
+'''Snowfish''' is a {{Rarity|Rare}} fish found in the [[Frigid Cavern]].
+
+== Description ==
+{{Description|A mysterious fish whose scales form intricate snowflake patterns that never melt.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Swims in the most frigid waters of the cavern.|Bestiary Hint}}
+{{Fish Availability|
+Frigid Cavern
+|top_rods      = 
+Leviathan's Fang Rod\176859.75\136721.77;
+Trident Rod\169970.57\135102.7;
+Krampus's Rod\169101.15\167487.46;
+Magma Rod\158758.59\157243.6;
+Free Spirit Rod\155469.09\123576.06;
+Plastic Rod\147377.56\145950.44;
+Fast Rod\110099.13\157111.12;
+Fischer's Rod\100396.69\149379.28;
+Adventurer's Rod\98941.66\147214.36;
+Buddy Bond Rod\109431.58\135433.94;
+No-Life Rod\132067.18\113664.2;
+Seraphic Rod\127583.85\100069.33;
+Ethereal Prism Rod\126687.48\98216.9;
+Rod Of The Forgotten Fang\120834.19\93243.03;
+Challenger's Rod\119486.03\95863.58;
+Zeus Rod\110281.88\85662.68;
+Rod Of The Exalted One\109868.22\86286.91;
+Verdant Shear Rod\109497.51\84287.1;
+Rod Of The Depths\109493.22\83840.34;
+Blazebringer Rod\104734.82\81564.98;
+Depthseeker Rod\101108.54\78697.93;
+Volcanic Rod\92406.65\66977.29;
+Avalanche Rod\91285.59\71233.69;
+Steady Rod\37208.36\26499.39
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Snowfish, the player has a chance to make one of the following exclamations:
+* A Snowfish!
+* Like swimming snow!
+* Beautiful patterns!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Frigid Cavern}}

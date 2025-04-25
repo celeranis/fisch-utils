@@ -1,0 +1,65 @@
+{{FishInfobox
+|image          = Frostjaw Cod.png
+|rarity         = Legendary
+|sea            = First Sea
+|location       = [[Cryogenic Canal]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -20
+|xp             = 800
+|weather        = 
+|time           = Night
+|season         = Winter
+|bait           = Fish Head
+|base_weight    = 100
+|base_value     = 2000
+|weight_range   = 50
+|base_chance    = 5
+|base_resil     = 25
+}}
+'''Frostjaw Cod''' is a {{Rarity|Legendary}} fish found in the [[Cryogenic Canal]].
+
+== Description ==
+{{Description|A large, muscular fish with icy blue scales and jagged, frozen-like teeth.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in the darkest depths of the canal.|Bestiary Hint}}
+{{Fish Availability|
+Cryogenic Canal
+|top_rods      = 
+Leviathan's Fang Rod\109293.67\161212.75;
+Free Spirit Rod\97952.73\153866.28;
+Trident Rod\95188.67\149524.43;
+Ethereal Prism Rod\75920.97\101156.34;
+No-Life Rod\75573.63\122942.54;
+Lucky Rod\47478.19\97167.94;
+Firefly Rod\68760.85\136419.45;
+Candy Cane Rod\44070.59\91098.41;
+Fast Rod\64947.2\133884.03;
+Seraphic Rod\74401.43\103161.81;
+Rod Of The Forgotten Fang\69371.02\94817.72;
+Challenger's Rod\68134.11\99257.24;
+Rod Of The Depths\62310.5\84996.31;
+Zeus Rod\61848.1\87502.02;
+Verdant Shear Rod\61007.49\85847.33;
+Rod Of The Exalted One\60680.74\84158.04;
+Blazebringer Rod\58869.23\83289.81;
+Depthseeker Rod\56550.5\86856.52;
+Avalanche Rod\50818.84\73233.42;
+Volcanic Rod\48215.62\75476.15;
+Steady Rod\16947.43\27255.69
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Frostjaw Cod, the player has a chance to make one of the following exclamations:
+* A Frostjaw Cod!
+* Watch those teeth!
+* Powerful catch!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Cryogenic Canal}}

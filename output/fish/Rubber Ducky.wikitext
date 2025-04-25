@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Rubber Ducky.png
+|rarity         = Legendary
+|sea            = First Sea
+|location       = [[Vertigo]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -70
+|xp             = 800
+|weather        = Rain
+|time           = 
+|season         = 
+|bait           = 
+|base_weight    = 0.7
+|base_value     = 900
+|weight_range   = 0.6
+|base_chance    = 0.01
+|base_resil     = 100
+}}
+'''Rubber Ducky''' is a {{Rarity|Legendary}} fish found in [[Vertigo]].
+
+== Description ==
+{{Description|A simple, squeezable, rubber duck! It may have been lost in one of the deepest parts of our discovered world... But, it's in great condition!|Bestiary Entry}}
+
+== Obtainment ==
+{{Fish Availability|
+Vertigo/Vertigos Dip
+|top_rods      = 
+Ethereal Prism Rod\54027.48\200704.3;
+Leviathan's Fang Rod\52279.4\227243.33;
+Seraphic Rod\52036.24\205789.25;
+No-Life Rod\49195.35\207712.49;
+Tempest Rod\48978.93\201362.89;
+Training Rod\36252.03\164830.85;
+Resourceful Rod\40671.23\160783.74;
+Destiny Rod\44311.31\187831.05;
+Free Spirit Rod\37900.9\204598.95;
+Challenger's Rod\46287.1\204222.09;
+Flimsy Rod\27397.19\178350.05;
+Lucky Rod\28082.57\152338.05;
+Rod Of The Forgotten Fang\47635.66\196926.74;
+Rod Of The Depths\42372.86\179114.41;
+Rod Of The Exalted One\42330.73\190224.17;
+Zeus Rod\40156.83\184408.27;
+Verdant Shear Rod\39495.11\185904.62;
+Blazebringer Rod\38621.78\177495.44;
+Trident Rod\37294.26\200422.41;
+Depthseeker Rod\36341.84\173059.61;
+Avalanche Rod\32801.92\155464.62;
+Volcanic Rod\31519.63\146476.82;
+Steady Rod\11285.36\58301.05
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching a Rubber Ducky, the player has a chance to make one of the following exclamations:
+* A.. Rubber Duck..?
+* Woah!.. A Ducky??
+* Awesome!!!!!!!
+* Did someone lose this?
+* How did this get down here..?
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Vertigo}}

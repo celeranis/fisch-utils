@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Storm Skipper.png
+|rarity         = Secret
+|sea            = Second Sea
+|location       = [[Waveborne]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -75
+|xp             = 5000
+|weather        = Windy
+|time           = Night
+|season         = Spring
+|bait           = Golden Worm
+|base_weight    = 150
+|base_value     = 10000
+|weight_range   = 100
+|base_chance    = 1
+|base_resil     = 5
+}}
+'''Storm Skipper''' is a {{Rarity|Secret}} fish found in [[Waveborne]].
+
+== Description ==
+{{Description|A dark blue fish crackling with light blue electric arcs, adorned with light blue spots and fins, skipping through tempests.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It thrives in the midst of chaos.|Bestiary Hint}}
+{{Fish Availability|
+Waveborne
+|top_rods      = 
+Free Spirit Rod\939.78\6731.07;
+Egg Rod\839.93\5448.01;
+Azure Of Lagoon\795.52\4968.86;
+Blazebringer Rod\793.59\4974.59;
+Great Dreamer Rod\780.12\4989.44;
+Resourceful Rod\724.6\4742.79;
+Plastic Rod\543.99\6189.58;
+Fischer's Rod\552.27\6330.25;
+Firefly Rod\672.92\5547.49;
+Lucky Rod\507.46\4484.28;
+Verdant Shear Rod\778.84\5024.86;
+Trident Rod\635.07\4347.1;
+Seraphic Rod\584.18\3944.96;
+Ethereal Prism Rod\579.72\3687.95;
+No-Life Rod\544.6\3885.59;
+Challenger's Rod\543.11\3888.36;
+Rod Of The Forgotten Fang\517.23\3501.51;
+Rod Of The Exalted One\504.03\3282.32;
+Rod Of The Depths\474.63\3245.75;
+Depthseeker Rod\466.23\3227.05;
+Volcanic Rod\447.95\3110.96;
+Avalanche Rod\444.93\3051.42;
+Zeus Rod\438.69\3042.22;
+Steady Rod\422.5\2732.48
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Storm Skipper, the player has a chance to make one of the following exclamations:
+* A STORM SKIPPER!?!
+* ELECTRIC FURY!!
+* SHOCKING CATCH!?
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Waveborne}}

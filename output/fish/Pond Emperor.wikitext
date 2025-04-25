@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Pond Emperor.png
+|rarity         = Legendary
+|sea            = First Sea
+|location       = [[Snowcap Island]]
+|sublocation    = Freshwater
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -40
+|xp             = 700
+|weather        = Clear
+|time           = 
+|season         = Winter
+|bait           = Squid
+|base_weight    = 250
+|base_value     = 900
+|weight_range   = 150
+|base_chance    = 0.05
+|base_resil     = 25
+}}
+'''Pond Emperor''' is a {{Rarity|Legendary}} fish found in [[Snowcap Island]].
+
+== Description ==
+{{Description|Pond Emperors are highly territorial, powerful swimmers that will consume almost anything. Their striking coloration, aggressive nature, and rare appearances make them a prized and fortunate catch for anglers.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in Snowcap Pond.|Bestiary Hint}}
+{{Fish Availability|
+Snowcap Island/Freshwater Pond
+|top_rods      = 
+Leviathan's Fang Rod\98107.8\472012.35;
+Ethereal Prism Rod\87542.59\284495.04;
+Seraphic Rod\83361.8\292956.14;
+No-Life Rod\80088.29\321971.6;
+Tempest Rod\78398.7\287141.28;
+Resourceful Rod\67606.36\229704.16;
+Destiny Rod\70676.2\222086.91;
+Heaven's Rod\62944.27\254313.21;
+Free Spirit Rod\76829.37\463601.46;
+Trident Rod\73810.95\445387.79;
+Azure Of Lagoon\57339.81\254174.29;
+Challenger's Rod\73150.68\285412.35;
+Rod Of The Forgotten Fang\77032.99\283911.84;
+Rod Of The Exalted One\68379.31\246924.74;
+Rod Of The Depths\68075.25\254729.95;
+Zeus Rod\63763.73\258292.37;
+Verdant Shear Rod\61506.42\258091.34;
+Blazebringer Rod\60861.95\247866.25;
+Depthseeker Rod\56903.78\246861.43;
+Avalanche Rod\50806.85\220525.11;
+Volcanic Rod\49750.33\204380.94;
+Steady Rod\15593.94\77268.63
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching a Pond Emperor, the player has a chance to make one of the following exclamations:
+* A Pond Emperor!
+* WOAH! A Pond Emperor!!
+* Pond Emperor!
+* I caught a Pond Emperor!!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Snowcap Island}}

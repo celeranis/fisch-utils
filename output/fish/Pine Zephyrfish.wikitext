@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Pine Zephyrfish.png
+|rarity         = Legendary
+|sea            = Second Sea
+|location       = [[Pine Shoals]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -35
+|xp             = 670
+|weather        = Windy
+|time           = Night
+|season         = Spring
+|bait           = Gale Grub
+|base_weight    = 12
+|base_value     = 1340
+|weight_range   = 7
+|base_chance    = 5
+|base_resil     = 30
+}}
+'''Pine Zephyrfish''' is a {{Rarity|Legendary}} fish found in [[Pine Shoals]].
+
+== Description ==
+{{Description|A swift zephyr that dances with pine’s might.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It breezes through when the wind howls.|Bestiary Hint}}
+{{Fish Availability|
+Pine Shoals
+|top_rods      = 
+Free Spirit Rod\27618.62\90817.5;
+Leviathan's Fang Rod\23685.98\65965.18;
+Krampus's Rod\23652.19\176485.46;
+Magma Rod\22826.85\170327.01;
+Trident Rod\22497.81\60869.13;
+Plastic Rod\22161.99\165366.02;
+Training Rod\13341.46\338877.18;
+Flimsy Rod\15645.04\283309.61;
+Fischer's Rod\18989.55\177654.41;
+Buddy Bond Rod\16304.02\172962.07;
+Steady Rod\20855.05\165255.8;
+Verdant Shear Rod\19358.04\74731.02;
+Blazebringer Rod\18896.49\77085.12;
+No-Life Rod\14434.55\44653.79;
+Ethereal Prism Rod\13735.21\54400.07;
+Seraphic Rod\13382.44\49641.53;
+Rod Of The Exalted One\12206.34\48910.08;
+Rod Of The Forgotten Fang\12124.7\46303.42;
+Challenger's Rod\11956.88\42630.96;
+Rod Of The Depths\11786.03\43848.4;
+Volcanic Rod\11367.99\39813.86;
+Depthseeker Rod\11340.5\38772.75;
+Zeus Rod\11307.73\39602.81;
+Avalanche Rod\11230.1\38301.97
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Pine Zephyrfish, the player has a chance to make one of the following exclamations:
+* A PINE ZEPHYRFISH!
+* WIND’S CHAMPION!
+* PINE POWER!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Pine Shoals}}

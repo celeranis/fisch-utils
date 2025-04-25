@@ -1,0 +1,37 @@
+{{FishInfobox
+|image          = Spine Blade.png
+|rarity         = Limited
+|event          = Archeological Site
+|sea            = First Sea
+|location       = [[Archeological Site]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 40
+|weather        = 
+|time           = 
+|season         = 
+|bait           = 
+|base_weight    = 6
+|base_value     = 100
+|weight_range   = 3
+|base_chance    = 12
+|base_resil     = 100
+}}
+'''Spine Blade''' is a {{Rarity|Limited}} fish found in [[Archeological Site]] during the [[Archeological Site]] event.
+
+== Description ==
+{{Description|A sturdy vertebra from a long-lost fish, steeped in ancient mystery.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|If the Spine Bone was found around Roslit... Could this be from the same zone?|Bestiary Hint}}
+
+== Catch Quips ==
+When catching a Spine Blade, the player has a chance to make one of the following exclamations:
+* Woah a bone!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Archeological Site}}

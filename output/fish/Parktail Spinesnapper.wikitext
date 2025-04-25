@@ -1,0 +1,69 @@
+{{FishInfobox
+|image          = Parktail Spinesnapper.png
+|rarity         = Mythical
+|sea            = Second Sea
+|location       = [[Pine Shoals]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -55
+|xp             = 1450
+|weather        = Clear
+|time           = Day
+|season         = Summer
+|bait           = Gale Grub
+|base_weight    = 15
+|base_value     = 2850
+|weight_range   = 9
+|base_chance    = 3
+|base_resil     = 20
+}}
+'''Parktail Spinesnapper''' is a {{Rarity|Mythical}} fish found in [[Pine Shoals]].
+
+== Description ==
+{{Description|A fierce snapper with a tail born of parkland fury.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It snaps where the stillness breaks.|Bestiary Hint}}
+{{Fish Availability|
+Pine Shoals
+|top_rods      = 
+Free Spirit Rod\16855.59\88745.97;
+Leviathan's Fang Rod\12974.92\59506.41;
+Trident Rod\12092.41\55351.35;
+Azure Of Lagoon\11813.25\71413.9;
+Egg Rod\11679.2\73834.75;
+Krampus's Rod\10046.87\132000.53;
+Plastic Rod\8037.5\105600.42;
+Magma Rod\10046.87\132000.53;
+Fischer's Rod\7397.43\122226.79;
+Fast Rod\7397.43\122226.79;
+Buddy Bond Rod\6257.6\117462;
+Verdant Shear Rod\11164.99\70583.96;
+Blazebringer Rod\10943.45\73374.28;
+Ethereal Prism Rod\7664.45\52325.71;
+No-Life Rod\7635.58\43059.73;
+Seraphic Rod\7614.26\48136.62;
+Rod Of The Forgotten Fang\7075.43\44290.29;
+Challenger's Rod\7069.1\41306.44;
+Rod Of The Exalted One\7057.06\46420.52;
+Rod Of The Depths\6823.52\41468.99;
+Depthseeker Rod\6649.53\36905.51;
+Volcanic Rod\6589.79\37536.12;
+Avalanche Rod\6540.98\36207.88;
+Zeus Rod\6532.64\37210.6;
+Steady Rod\6332.39\33544.76
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Parktail Spinesnapper, the player has a chance to make one of the following exclamations:
+* A PARKTAIL SPINESNAPPER!
+* SNAPS LIKE FATE!
+* PARKLAND BEAST!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Pine Shoals}}

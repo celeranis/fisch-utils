@@ -1,0 +1,73 @@
+{{FishInfobox
+|image          = Eel.png
+|rarity         = Unusual
+|sea            = First Sea
+|location       = [[Moosewood]]
+|sublocation    = 
+|sources        = Carbon Crate, Fishing Rod
+|radar_location = 
+|xp             = 90
+|weather        = 
+|time           = Night
+|season         = 
+|bait           = 
+|base_weight    = 4.5
+|base_value     = 130
+|weight_range   = 3.7
+|base_chance    = 30
+|base_resil     = 65
+}}
+'''Eel''' is an {{Rarity|Unusual}} fish found in [[Moosewood]].
+
+== Description ==
+{{Description|Eels are a long snake-like, ray-finned fish that is primarily nocturnal. They have a keen sense of smell and can be harmful to humans due to their strong jaws with sharp teeth. Some eels also contain toxins that will destroy red blood cells. Eels move in an interesting way due to them not having pelvic or pectoral fins. To swim, eels generate waves that travel the length of their body, animating them similar to snakes.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Only comes out at night. Can be found in all kinds of habitats near Moosewood.|Bestiary Hint}}
+{{Fish Availability|
+Moosewood/Freshwater Pond
+Moosewood/Seaweed and Mini-Island
+Moosewood/Surrounding Ocean
+|top_rods      = 
+Krampus's Rod\360670.69\571722.09;
+Magma Rod\347948.71\551555.66;
+Plastic Rod\317901.49\503925.9;
+Buddy Bond Rod\236155.39\498391.33;
+Fast Rod\192466.44\586566.05;
+Fischer's Rod\171498.19\522662.64;
+Adventurer's Rod\170234.08\518810.09;
+Flimsy Rod\131416.01\388263.68;
+Ethereal Prism Rod\191426.29\299155.78;
+Seraphic Rod\182299.12\300372.45;
+No-Life Rod\176065.71\313668.74;
+Rod Of The Forgotten Fang\170568.71\294696.05;
+Challenger's Rod\161947.47\295040.18;
+Rod Of The Depths\153014.74\269776.06;
+Rod Of The Exalted One\152110.87\285555.42;
+Trident Rod\147173.95\325194.22;
+Zeus Rod\145841.39\274971.05;
+Free Spirit Rod\143467.74\317005.01;
+Verdant Shear Rod\141776.25\274501.64;
+Blazebringer Rod\138391.81\261948.79;
+Depthseeker Rod\129613.37\255156.2;
+Avalanche Rod\116887.52\231856.64;
+Volcanic Rod\113632.21\217485.16;
+Training Rod\73454.17\268032.82;
+Steady Rod\40840.65\73312.51
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching an Eel, the player has a chance to make one of the following exclamations:
+* Is it a snake?
+* An Eel!
+* I think some slime got on me.
+* Woah! An Eel!
+* H-eel-lo!
+* An Eel! Things just got REAL!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Moosewood}}

@@ -1,0 +1,82 @@
+{{FishInfobox
+|image          = Mustard.png
+|rarity         = Secret
+|sea            = First Sea
+|location       = [[Ocean]]
+|sublocation    = 
+|sources        = Fishing Rod
+|nopassive      = 1
+|radar_location = 
+|xp             = 7000
+|weather        = Rain
+|time           = 
+|season         = Summer
+|bait           = Seaweed
+|base_weight    = 4
+|base_value     = 19000
+|weight_range   = 3
+|base_chance    = 0.004
+|base_resil     = 45
+}}
+'''Mustard''' is a {{Rarity|Secret}} fish found in the [[Ocean]].
+
+== Description ==
+{{Description|A bulbous and rotund yellow pufferfish.|Bestiary Entry}}
+
+== Obtainment ==
+{{Fish Availability|
+Atlantis/Surrounding Ocean
+Lucky Event/Blarney McBreeze
+Lucky Event/O'Mango Goldgrin
+Lucky Event/Plumrick O'Luck
+Lucky Event/Rowdy McCharm
+Lucky Event/Sunny O'Coin
+Ocean
+Ocean/Deep Ocean
+Orca Migration/Ancient
+Orca Migration/Normal
+Whale Migration/Moby
+Whale Migration/Normal
+|top_rods      = 
+Leviathan's Fang Rod\1200.57\5363.07;
+Trident Rod\1084.02\5377.87;
+Ethereal Prism Rod\1019.83\3737.13;
+Free Spirit Rod\1014.79\5034.38;
+No-Life Rod\994.36\4087;
+Flimsy Rod\741.69\3949.48;
+Training Rod\721.45\4184.91;
+Lucky Rod\641.62\3198.69;
+Adventurer's Rod\538.96\2748.18;
+Seraphic Rod\991.12\3853.92;
+Rod Of The Forgotten Fang\928.16\3808.78;
+Challenger's Rod\903.87\3708.99;
+Rod Of The Depths\836.91\3589.79;
+Zeus Rod\826.64\3477.81;
+Rod Of The Exalted One\817.51\3613.37;
+Verdant Shear Rod\814.4\3499.41;
+Blazebringer Rod\784.91\3315.93;
+Depthseeker Rod\749.46\3275.46;
+Avalanche Rod\676.21\2972.38;
+Volcanic Rod\644.13\2750.58;
+Steady Rod\263.33\1282.17
+|recommended   = Trident Rod
+}}
+
+== Gameplay Notes ==
+* Mustard usually cannot be caught with passive effects, such as the one provided by the [[Rod Of The Depths]] and [[Rod Of The Forgotten Fang]].
+** The only exception is when catching a Mustard on the Megalodon Passive reel of the [[Rod Of The Forgotten Fang]], the Megalodon will instead dupe the Mustard.
+
+== Catch Quips ==
+When catching a Mustard, the player has a chance to make one of the following exclamations:
+* Mustard!
+* I caught Mustard!
+* Woah! Mustard!
+* MUSTARD!!!
+* Mustard?!
+* Augh...
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ocean}}

@@ -1,0 +1,65 @@
+{{FishInfobox
+|image          = Smogfish.png
+|rarity         = Uncommon
+|sea            = Second Sea
+|location       = [[Emberreach]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -6
+|xp             = 75
+|weather        = Foggy
+|time           = 
+|season         = Spring
+|bait           = Insect
+|base_weight    = 216
+|base_value     = 170
+|weight_range   = 120
+|base_chance    = 65
+|base_resil     = 52
+}}
+'''Smogfish''' is an {{Rarity|Uncommon}} fish found in [[Emberreach]].
+
+== Description ==
+{{Description|A muted fish, drifting through the thick, choking haze.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It lurks in the veiled haze of renewal.|Bestiary Hint}}
+{{Fish Availability|
+Emberreach/Freshwater Pond
+|top_rods      = 
+Fungal Rod\533643.9\533643.9;
+Long Rod\521613.12\510244.14;
+Antler Rod\515603.45\515603.45;
+Adventurer's Rod\459841.51\459841.51;
+Firefly Rod\304912.16\295783.73;
+Free Spirit Rod\299270.62\149650.01;
+Trident Rod\290889.82\208663.72;
+Verdant Shear Rod\250163.06\189788.64;
+Blazebringer Rod\241020.49\159104.34;
+No-Life Rod\225009.41\168528.62;
+Seraphic Rod\212359.13\152331.38;
+Ethereal Prism Rod\206567.38\103473.71;
+Rod Of The Exalted One\201282.06\140801.31;
+Rod Of The Forgotten Fang\201242.91\145370.39;
+Challenger's Rod\199858.83\149260.32;
+Depthseeker Rod\197604.76\152636.3;
+Avalanche Rod\194087.67\150130.85;
+Rod Of The Depths\193550.08\143088.2;
+Volcanic Rod\192444.35\145630.88;
+Zeus Rod\191448.59\144877.35;
+Steady Rod\158924.65\122294.9
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Smogfish, the player has a chance to make one of the following exclamations:
+* A Smogfish!
+* Grey drifter!
+* Caught in the smog!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Emberreach}}

@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Crocokoi.png
+|rarity         = Limited
+|event          = Animal Hunt
+|sea            = Second Sea
+|location       = [[Animals - Sea 2]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -25
+|xp             = 1500
+|weather        = Foggy
+|time           = 
+|season         = Autumn
+|bait           = Minnow
+|base_weight    = 1400
+|base_value     = 700
+|weight_range   = 900
+|base_chance    = 40
+|base_resil     = 15
+}}
+'''Crocokoi''' is a {{Rarity|Limited}} fish found in [[Animal Hunt]]s in the [[Second Sea]].
+
+== Description ==
+{{Description|A scaly swimmer with snapping jaws, lurking in the shallows.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It snaps where the fog cloaks the swampy tides.|Bestiary Hint}}
+{{Fish Availability|
+Animal Hunt/Second Sea
+|top_rods      = 
+Magma Rod\205972.61\306185.68;
+Frostfire Rod\190416.96\198534.96;
+Steady Rod\186557.16\194510.61;
+Event Horizon Rod\176540.06\271104.6;
+Astral Rod\176540.06\271104.6;
+Krampus's Rod\159066.35\225593.69;
+Free Spirit Rod\158174.96\349413.25;
+Resourceful Rod\131753.31\325834.38;
+Leviathan's Fang Rod\117016.49\274295.23;
+Trident Rod\112446\250396.53;
+Verdant Shear Rod\105528.04\247054.68;
+Blazebringer Rod\102960.84\235574.61;
+No-Life Rod\77124.3\168587.44;
+Ethereal Prism Rod\71502.54\169474.43;
+Seraphic Rod\70213.84\164379.59;
+Rod Of The Exalted One\66489.9\153280.96;
+Rod Of The Forgotten Fang\66084.93\155321.44;
+Challenger's Rod\64991.84\157139.12;
+Rod Of The Depths\64284.07\152904.68;
+Volcanic Rod\62046.97\152576.72;
+Depthseeker Rod\61925.6\154965.57;
+Zeus Rod\61724.57\151783.92;
+Avalanche Rod\61224.31\153484.15
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Crocokoi, the player has a chance to make one of the following exclamations:
+* A Crocokoi!
+* Jaws of the deep!
+* Croc in the current!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Animals - Sea 2}}

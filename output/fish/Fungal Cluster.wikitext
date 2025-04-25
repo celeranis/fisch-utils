@@ -1,0 +1,64 @@
+{{FishInfobox
+|image          = Fungal Cluster.png
+|rarity         = Trash
+|sea            = First Sea
+|location       = [[Mushgrove Swamp]]
+|sublocation    = 
+|sources        = Crab Cage, Fishing Rod
+|radar_location = 
+|xp             = 20
+|weather        = 
+|time           = 
+|season         = 
+|bait           = Magnet
+|base_weight    = 0.9
+|base_value     = 9
+|weight_range   = 0
+|base_chance    = 22
+|base_resil     = 120
+}}
+'''Fungal Cluster''' is a {{Rarity|Trash}} fish found in [[Mushgrove Swamp]].
+
+== Description ==
+{{Description|Offspring of the Giant Fungal Trees of Mushgrove Swamp. These mushrooms produce heavy spores which pollute the surrounding area and sky; giving everything an uncomfortable and green feel.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Find it in Mushgrove Swamp. Gives off spores.|Bestiary Hint}}
+{{Fish Availability|
+Mushgrove Swamp
+|top_rods      = 
+Flimsy Rod\75448.89\58294.15;
+Ethereal Prism Rod\64884.88\75715.62;
+Fast Rod\62992.34\51777.43;
+Training Rod\61790.03\122667.27;
+No-Life Rod\61764.57\50768.25;
+Heaven's Rod\52415.99\99473.31;
+Leviathan's Fang Rod\60044.34\54268.66;
+Fortune Rod\36527.85\53895.65;
+Seraphic Rod\61521.42\50568.39;
+Challenger's Rod\56311.33\46285.88;
+Rod Of The Forgotten Fang\56177.71\46176.05;
+Verdant Shear Rod\52643.6\43271.14;
+Zeus Rod\52508.61\43160.18;
+Rod Of The Depths\51179.23\42067.48;
+Blazebringer Rod\49579.88\40752.87;
+Depthseeker Rod\48029.61\39478.61;
+Rod Of The Exalted One\47980.53\39438.26;
+Avalanche Rod\43182.47\35494.43;
+Free Spirit Rod\42950.46\35303.73;
+Trident Rod\42754.12\35142.35;
+Volcanic Rod\39881.51\32781.16;
+Steady Rod\32187.13\20440.01
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching a Fungal Cluster, the player has a chance to make one of the following exclamations:
+* Ermm..?
+* Hmm..?
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Mushgrove Swamp}}

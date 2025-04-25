@@ -1,0 +1,51 @@
+{{FishInfobox
+|image          = Siren’s Guppy.png
+|rarity         = Limited
+|sea            = First Sea
+|location       = [[Crypt]]
+|sublocation    = 
+|sources        = Fishing Rod
+|nopassive      = 1
+|radar_location = 
+|xp             = 80
+|weather        = 
+|time           = 
+|season         = 
+|bait           = 
+|base_weight    = 5
+|base_value     = 110
+|weight_range   = 4
+|base_chance    = 60
+|base_resil     = 70
+}}
+'''Siren’s Guppy''' is a {{Rarity|Limited}} fish found in the [[Crypt of the Green One]].
+
+== Description ==
+{{Description|🎶|Bestiary Entry}}
+
+== Obtainment ==
+{{Fish Availability|
+Crypt of the Green One
+|top_rods      = 
+Flimsy Rod\94687.5\77471.59
+|recommended   = 
+}}
+
+== Gameplay Notes ==
+* Siren’s Guppy usually cannot be caught with passive effects, such as the one provided by the [[Rod Of The Depths]] and [[Rod Of The Forgotten Fang]].
+** The only exception is when catching a Siren’s Guppy on the Megalodon Passive reel of the [[Rod Of The Forgotten Fang]], the Megalodon will instead dupe the Siren’s Guppy.
+
+== Catch Quips ==
+When catching a Siren’s Guppy, the player has a chance to make one of the following exclamations:
+* 🎵
+* 🎼
+* 🎹
+* 🎺
+* 🎸
+* 🎷
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Crypt}}

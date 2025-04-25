@@ -1,0 +1,65 @@
+{{FishInfobox
+|image          = Sunray Sunscale.png
+|rarity         = Exotic
+|sea            = Second Sea
+|location       = [[Pine Shoals]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -65
+|xp             = 4500
+|weather        = Clear
+|time           = Day
+|season         = Summer
+|bait           = 
+|base_weight    = 20
+|base_value     = 8450
+|weight_range   = 12
+|base_chance    = 1
+|base_resil     = 15
+}}
+'''Sunray Sunscale''' is an {{Rarity|Exotic}} fish found in [[Pine Shoals]].
+
+== Description ==
+{{Description|A radiant scaler that basks in sunray glory.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It shines where the sun touches the sea.|Bestiary Hint}}
+{{Fish Availability|
+Pine Shoals
+|top_rods      = 
+Free Spirit Rod\16994.87\106972.85;
+Egg Rod\12842.26\88377.12;
+Leviathan's Fang Rod\12573.18\73061.66;
+Verdant Shear Rod\12178.04\83806.1;
+Azure Of Lagoon\12120.3\86377.19;
+Resourceful Rod\10104.98\92327.39;
+Destiny Rod\8322.55\64361.02;
+Blazebringer Rod\12114.39\87606.02;
+Trident Rod\11426.63\67174.97;
+Ethereal Prism Rod\8603.79\63072.84;
+Seraphic Rod\8532.52\58718.59;
+No-Life Rod\8151.12\52282.73;
+Challenger's Rod\7865.42\50692.32;
+Rod Of The Forgotten Fang\7811.49\53312.65;
+Rod Of The Exalted One\7770.72\55297.01;
+Rod Of The Depths\7417.66\49389.36;
+Depthseeker Rod\7184.47\44552.67;
+Volcanic Rod\7078.27\44751.7;
+Avalanche Rod\7011.56\43395.96;
+Zeus Rod\6992.23\44207.7;
+Steady Rod\6720.05\40265.26
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Sunray Sunscale, the player has a chance to make one of the following exclamations:
+* A SUNRAY SUNSCALE!
+* SOLAR LEGEND!
+* RADIANT PRIZE!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Pine Shoals}}

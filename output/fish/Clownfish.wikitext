@@ -1,0 +1,70 @@
+{{FishInfobox
+|image          = Clownfish.png
+|rarity         = Uncommon
+|sea            = First Sea
+|location       = [[Roslit Bay]]
+|sublocation    = Coral Reef
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 90
+|weather        = Foggy
+|time           = 
+|season         = Spring, Summer
+|bait           = Flakes
+|base_weight    = 0.6
+|base_value     = 90
+|weight_range   = 0.5
+|base_chance    = 60
+|base_resil     = 70
+}}
+'''Clownfish''' is an {{Rarity|Uncommon}} fish found in [[Roslit Bay]].
+
+== Description ==
+{{Description|The clownfish, known for its vibrant orange and white stripes, is a small, hardy reef dweller. Often found alongside coral and see anemones inside the reef of Roslit Bay.			Best paired with the Blue Tang!|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in Roslit Bays coral reef.|Bestiary Hint}}
+{{Fish Availability|
+Roslit Bay/Coral Reef
+|top_rods      = 
+Training Rod\279844.53\279844.53;
+Rapid Rod\269980.97\247327.85;
+No-Life Rod\263671.14\263671.14;
+Firefly Rod\263000.18\227741.99;
+Seraphic Rod\261634.79\261634.79;
+Flimsy Rod\206476.2\206476.2;
+Buddy Bond Rod\163745.03\127350.28;
+Fast Rod\259401.11\259401.11;
+Leviathan's Fang Rod\254964.84\254964.84;
+Long Rod\237698.72\154160.86;
+Ethereal Prism Rod\255975.62\218506.85;
+Depthseeker Rod\255882.66\204257.64;
+Avalanche Rod\253381.77\183132.43;
+Verdant Shear Rod\249879.04\223165.66;
+Blazebringer Rod\241547.39\210470.73;
+Zeus Rod\239825.29\223023.62;
+Challenger's Rod\239659.25\239659.25;
+Rod Of The Forgotten Fang\238930.89\238930.89;
+Volcanic Rod\234183.14\169250.89;
+Trident Rod\231391.99\185669.46;
+Free Spirit Rod\226602.27\185206.99;
+Rod Of The Depths\217045.85\217045.85;
+Rod Of The Exalted One\203867.87\203867.87;
+Steady Rod\129985.07\79216.22
+|recommended   = Training Rod
+}}
+
+== Catch Quips ==
+When catching a Clownfish, the player has a chance to make one of the following exclamations:
+* Ouu a Clownfish!
+* Woah, a Clownfish!
+* A Clownfish!
+* I caught a Clownfish!
+* I caught a Clownfish!
+* What kind of circus is this?
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Roslit Bay}}

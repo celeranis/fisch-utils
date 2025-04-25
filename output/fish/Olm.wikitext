@@ -1,0 +1,71 @@
+{{FishInfobox
+|image          = Olm.png
+|rarity         = Legendary
+|sea            = First Sea
+|location       = [[Terrapin Island]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -5
+|xp             = 500
+|weather        = Clear, Foggy
+|time           = Night
+|season         = 
+|bait           = Flakes
+|base_weight    = 0.4
+|base_value     = 900
+|weight_range   = 0.3
+|base_chance    = 2
+|base_resil     = 80
+}}
+'''Olm''' is a {{Rarity|Legendary}} fish found in [[Terrapin Island]].
+
+== Description ==
+{{Description|The Olm is an aquatic salamander which is an exclusively cave-dwelling species. The olm is mostly found in dark and moist areas of freshwater. They are most notable for their adaptations to a life of darkness with-in their caves. The Olm has severely under underdeveloped eyes, leaving it blind. This blindness gives them an acute sense of smell and hearing.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Resides on the floor of caves and dark rocky areas. Loves the night.|Bestiary Hint}}
+{{Fish Availability|
+Terrapin Island/Olm Cave
+|top_rods      = 
+Ethereal Prism Rod\37360.01\228666.11;
+Leviathan's Fang Rod\36825.15\273533.85;
+Seraphic Rod\35059.75\233979.88;
+No-Life Rod\33438.71\237926.17;
+Tempest Rod\32980.5\235627.57;
+Resourceful Rod\29279.01\186459.79;
+Destiny Rod\31192.55\217350.41;
+Heaven's Rod\27252.11\214559.3;
+Trident Rod\26341.16\263581.47;
+Free Spirit Rod\26303.87\259995.86;
+Training Rod\13939.63\157575.88;
+Flimsy Rod\14530.33\151622.05;
+Rod Of The Forgotten Fang\32731.37\224537.14;
+Challenger's Rod\30865.98\223718.34;
+Rod Of The Exalted One\29495.66\220197.07;
+Rod Of The Depths\29223.46\219978.34;
+Zeus Rod\27827.82\209892.78;
+Verdant Shear Rod\27031.9\210594.15;
+Blazebringer Rod\26402.18\199902.9;
+Depthseeker Rod\24667.04\195825.78;
+Avalanche Rod\22269.1\178240.53;
+Volcanic Rod\21682.29\166021.05;
+Steady Rod\6876.93\61757.99
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching an Olm, the player has a chance to make one of the following exclamations:
+* An Olm!
+* I caught an Olm!
+* Olm.. my gosh!
+* An Olm!!
+* Woah, an Olm!
+* This ain't no Axolotl..
+* It looks like a recorder
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Terrapin Island}}

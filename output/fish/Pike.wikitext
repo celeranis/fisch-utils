@@ -1,0 +1,73 @@
+{{FishInfobox
+|image          = Pike.png
+|rarity         = Unusual
+|sea            = First Sea
+|location       = [[Moosewood]]
+|sublocation    = Freshwater
+|sources        = Carbon Crate, Fish Barrel, Fishing Rod
+|radar_location = 
+|xp             = 90
+|weather        = Rain
+|time           = 
+|season         = Autumn, Spring
+|bait           = Insect
+|base_weight    = 3.5
+|base_value     = 230
+|weight_range   = 2.3
+|base_chance    = 45
+|base_resil     = 55
+}}
+'''Pike''' is an {{Rarity|Unusual}} fish found in [[Moosewood]].
+
+== Description ==
+{{Description|Pikes are a freshwater predator known for its elongated body, sharp teeth, and aggressive hunting behaviour. It's a voracious carnivore that preys on smaller fish, frogs, and even small mammals near the water's edge. Pikes have a unique ability to ambush their prey by remaining almost motionless in the water, then striking with incredible speed to catch their meal.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in Moosewoods freshwater. Seems to prefer insect baits. Very vicious.|Bestiary Hint}}
+{{Fish Availability|
+Moosewood/Docks
+Moosewood/Freshwater Pond
+|top_rods      = 
+Champions Rod\129416.57\110371.27;
+Celestial Rod\128567.83\110329.36;
+Rapid Rod\127447.96\110752.79;
+Ice Warpers Rod\127053.28\109029.66;
+Ethereal Prism Rod\126371.4\195752.06;
+Training Rod\109359.01\194705.81;
+Fortune Rod\70520.63\138686.36;
+Flimsy Rod\86478.31\78812.49;
+Leviathan's Fang Rod\118854.94\135447.57;
+Kraken Rod\98273.86\119815.47;
+Avalanche Rod\121620.75\83596.69;
+Depthseeker Rod\121512.76\91666.18;
+No-Life Rod\118994.48\118994.48;
+Seraphic Rod\117563.99\117563.99;
+Verdant Shear Rod\112675.48\100026.19;
+Challenger's Rod\107633.57\107633.57;
+Rod Of The Forgotten Fang\107260.21\107260.21;
+Blazebringer Rod\102555.57\94399.5;
+Zeus Rod\101748.53\99985.73;
+Volcanic Rod\99265.35\75883.84;
+Trident Rod\97846.24\84735.65;
+Rod Of The Depths\97322.04\97322.04;
+Free Spirit Rod\94059.57\84396.75;
+Rod Of The Exalted One\91824.91\94076.38;
+Steady Rod\60785.19\54757.61
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching a Pike, the player has a chance to make one of the following exclamations:
+* A Pike!
+* I caught a Pike!
+* Woah! a Pike!
+* PIKE!!!
+* I'd prefer a lance.
+* A Pike?!
+* That's a big Pike!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Moosewood}}

@@ -1,0 +1,36 @@
+{{FishInfobox
+|image          = Moonstone.png
+|rarity         = Gemstone
+|sea            = First Sea
+|location       = [[Ancient Isle]]
+|sublocation    = 
+|sources        = Meteor
+|radar_location = 
+|xp             = 200
+|weather        = 
+|time           = 
+|season         = 
+|bait           = 
+|base_weight    = 2.8
+|base_value     = 1000
+|weight_range   = 2.3
+|base_chance    = 0
+|base_resil     = 100
+}}
+'''Moonstone''' is a {{Rarity|Gemstone}} fish found in the [[Ancient Isle]].
+
+== Description ==
+{{Description|A white gemstone with a pearlescent shine, typically associated with magic.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|From meteors.|Bestiary Hint}}
+
+== Catch Quips ==
+When catching a Moonstone, the player has a chance to make one of the following exclamations:
+* A Moonstone!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ancient Isle}}

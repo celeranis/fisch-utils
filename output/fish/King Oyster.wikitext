@@ -1,0 +1,40 @@
+{{FishInfobox
+|image          = King Oyster.png
+|rarity         = Rare
+|sea            = First Sea
+|location       = [[Terrapin Island]]
+|sublocation    = 
+|sources        = Crab Cage
+|radar_location = 
+|xp             = 35
+|weather        = 
+|time           = 
+|season         = Summer
+|bait           = 
+|base_weight    = 1
+|base_value     = 200
+|weight_range   = 0.6
+|base_chance    = 20
+|base_resil     = 95
+}}
+'''King Oyster''' is a {{Rarity|Rare}} fish found in [[Terrapin Island]].
+
+== Description ==
+{{Description|King Oysters are a special breed of oysters that can only be found around Terrapin Island. They filter almost all salt out of the water, making Terrapins water freshwater.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Can be easily caught while cage fishing. Only found near Terrapin Island.|Bestiary Hint}}
+
+== Catch Quips ==
+When catching a King Oyster, the player has a chance to make one of the following exclamations:
+* An Oyster!
+* Woah! A King Oyster
+* Awesome!
+* A King Oyster!
+* Ou! A King Oyster!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Terrapin Island}}

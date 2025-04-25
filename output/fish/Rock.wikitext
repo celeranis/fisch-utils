@@ -1,0 +1,78 @@
+{{FishInfobox
+|image          = Rock.png
+|rarity         = Trash
+|sea            = First Sea
+|location       = [[Regionless]]
+|sublocation    = 
+|sources        = Crab Cage, Fishing Rod, Volcanic Geode
+|radar_location = 
+|xp             = 10
+|weather        = 
+|time           = 
+|season         = 
+|bait           = Magnet
+|base_weight    = 21
+|base_value     = 15
+|weight_range   = 6
+|base_chance    = 50
+|base_resil     = 90
+}}
+'''Rock''' is a {{Rarity|Trash}} fish found in [[Regionless]].
+
+== Description ==
+{{Description|It's not a boulder.. It's a rock! Found in rocky bodies of water.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in rocky bodies of water.|Bestiary Hint}}
+{{Fish Availability|
+Desolate Deep/Brine Pool
+Desolate Deep/Desolate Pocket
+Roslit Bay/Roslit Volcano
+Sunstone Island/Crate Cave
+Vertigo/Vertigos Dip
+|top_rods      = 
+Champions Rod\325214.39\235384.34;
+Depthseeker Rod\323442.41\228840.43;
+Rapid Rod\321838.08\250356.05;
+Avalanche Rod\321466.49\228897;
+Reinforced Rod\319655.17\231360.67;
+Krampus's Rod\219654.32\176957.31;
+Crystalized Rod\272888.23\263114.58;
+Firework Rod\272888.23\263114.58;
+Auric Rod\287162.99\261495.96;
+Fungal Rod\278034.16\260416.89;
+Firefly Rod\304155.44\258652.28;
+Mythical Rod\212765.26\213122.81;
+Frostfire Rod\239780.28\196781.1;
+Fischmas Rod\230742.39\228231.96;
+Verdant Shear Rod\308616.62\191250;
+Blazebringer Rod\281942.14\180119.76;
+Zeus Rod\280207.71\190759.62;
+No-Life Rod\277071.74\224385.78;
+Volcanic Rod\273703.57\144886.36;
+Challenger's Rod\253600.68\204574.59;
+Trident Rod\231906.23\156226.97;
+Free Spirit Rod\229530.04\156035.62;
+Seraphic Rod\223502.45\223502.45;
+Rod Of The Depths\222565.51\185930.07;
+Ethereal Prism Rod\221921.33\221921.33;
+Rod Of The Forgotten Fang\207069.68\204089.16;
+Rod Of The Exalted One\178876.85\174309.44;
+Steady Rod\118028.48\107817.65
+|recommended   = Depthseeker Rod
+}}
+
+== Catch Quips ==
+When catching a Rock, the player has a chance to make one of the following exclamations:
+* Ermm..?
+* Uhmm..?
+* A Rock!
+* Oh. A Rock.
+* It's!- Oh.. A Rock..
+* A rock..
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Regionless}}

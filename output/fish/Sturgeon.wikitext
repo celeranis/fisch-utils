@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Sturgeon.png
+|rarity         = Rare
+|sea            = First Sea
+|location       = [[Snowcap Island]]
+|sublocation    = Freshwater
+|sources        = Carbon Crate, Fish Barrel, Fishing Rod, Volcanic Geode
+|radar_location = 
+|xp             = 100
+|weather        = 
+|time           = 
+|season         = 
+|bait           = Seaweed
+|base_weight    = 80
+|base_value     = 300
+|weight_range   = 60
+|base_chance    = 20
+|base_resil     = 35
+}}
+'''Sturgeon''' is a {{Rarity|Rare}} fish found in [[Snowcap Island]].
+
+== Description ==
+{{Description|A massive, ancient fish with a long, armoured body and distinctive bony plates. Sturgeons are known for their size and strength, making them challenging to catch.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|found in Snowcap Pond.|Bestiary Hint}}
+{{Fish Availability|
+Snowcap Island/Freshwater Pond
+|top_rods      = 
+Krampus's Rod\306808.51\379875.42;
+Magma Rod\282552.95\349843.36;
+Plastic Rod\266116.35\329492.36;
+Leviathan's Fang Rod\221544.34\262470.11;
+Ethereal Prism Rod\198234.91\169547.94;
+Fast Rod\155344.53\366827.58;
+Fischer's Rod\142990.36\337654.68;
+Adventurer's Rod\140421.67\331589.03;
+Trident Rod\192045.18\265289.17;
+Seraphic Rod\189411.57\170857.45;
+No-Life Rod\184570.2\181512.25;
+Rod Of The Forgotten Fang\176875.96\168012.7;
+Free Spirit Rod\169340.24\233924.82;
+Challenger's Rod\167850.77\165169.32;
+Rod Of The Depths\158340.01\152200.77;
+Rod Of The Exalted One\157201.36\154318.09;
+Zeus Rod\150068.37\152513.12;
+Verdant Shear Rod\145461.19\151709.01;
+Blazebringer Rod\142547.91\145485.85;
+Depthseeker Rod\133333.05\141875.98;
+Avalanche Rod\119924.54\128268.91;
+Volcanic Rod\116936.8\120603.45;
+Steady Rod\37127.22\43498.82
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching a Sturgeon, the player has a chance to make one of the following exclamations:
+* A Sturgeon!
+* I AMM.. I AMM A STURGEON!!
+* I caught a Sturgeon Fish!
+* A Sturgeon!!
+* Woahh a Sturgeon!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Snowcap Island}}

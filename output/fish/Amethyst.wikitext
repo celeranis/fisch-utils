@@ -1,0 +1,36 @@
+{{FishInfobox
+|image          = Amethyst.png
+|rarity         = Gemstone
+|sea            = First Sea
+|location       = [[Ancient Isle]]
+|sublocation    = 
+|sources        = Meteor
+|radar_location = 
+|xp             = 35
+|weather        = 
+|time           = 
+|season         = 
+|bait           = 
+|base_weight    = 1.6
+|base_value     = 150
+|weight_range   = 0.8
+|base_chance    = 100
+|base_resil     = 100
+}}
+'''Amethyst''' is a {{Rarity|Gemstone}} fish found in the [[Ancient Isle]].
+
+== Description ==
+{{Description|A purple variety of quartz with calming properties.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|From meteors.|Bestiary Hint}}
+
+== Catch Quips ==
+When catching an Amethyst, the player has a chance to make one of the following exclamations:
+* Ouu, shiny!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ancient Isle}}

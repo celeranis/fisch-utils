@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Deep Crownfish.png
+|rarity         = Legendary
+|sea            = First Sea
+|location       = [[Atlantis]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 1000
+|weather        = Clear
+|time           = Day
+|season         = 
+|bait           = 
+|base_weight    = 100
+|base_value     = 2000
+|weight_range   = 50
+|base_chance    = 0.5
+|base_resil     = 20
+}}
+'''Deep Crownfish''' is a {{Rarity|Legendary}} fish found in [[Atlantis]].
+
+== Description ==
+{{Description|This regal fish bears markings resembling an ancient crown and is believed to be descended from royal aquariums. Its presence is said to calm the waters around it.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Sunken's Depth Pool|Bestiary Hint}}
+{{Fish Availability|
+Atlantis/Sunken Depths
+|top_rods      = 
+Leviathan's Fang Rod\41599.34\193458.68;
+Free Spirit Rod\35372.94\180804.12;
+Trident Rod\34594.19\176823.62;
+Ethereal Prism Rod\31695.49\110359.32;
+Seraphic Rod\30338.53\112159.18;
+Resourceful Rod\24459.29\90782.65;
+Destiny Rod\25534.89\96117.87;
+Heaven's Rod\23109.22\101274.53;
+No-Life Rod\30272.12\126877.08;
+Firefly Rod\23393.85\114605.29;
+Long Rod\17862.51\86626.54;
+Fungal Rod\19630.21\95647.67;
+Antler Rod\17371.33\83374.22;
+Rod Of The Forgotten Fang\28285.47\110308.33;
+Challenger's Rod\27196.43\110173.83;
+Rod Of The Depths\25254.8\98541.87;
+Rod Of The Exalted One\25092.17\99633.06;
+Zeus Rod\24525.43\101895.8;
+Verdant Shear Rod\23963.21\101807.67;
+Blazebringer Rod\23311.65\97276.18;
+Depthseeker Rod\22094.68\96141.58;
+Avalanche Rod\19853.13\86546.21;
+Volcanic Rod\19109.63\80526.64;
+Steady Rod\6270\30307.52
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Deep Crownfish, the player has a chance to make one of the following exclamations:
+* THE DEEP CROWNFISH!
+* ROYALTY OF THE DEPTHS!
+* THE CROWNED ONE!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Atlantis}}

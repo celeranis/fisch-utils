@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Polar Prowler.png
+|rarity         = Legendary
+|sea            = First Sea
+|location       = [[Challenger's Deep]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -20
+|xp             = 2000
+|weather        = Clear
+|time           = Night
+|season         = Winter
+|bait           = Truffle Worm
+|base_weight    = 2300
+|base_value     = 1500
+|weight_range   = 1400
+|base_chance    = 10
+|base_resil     = 12
+}}
+'''Polar Prowler''' is a {{Rarity|Legendary}} fish found in the [[Challenger's Deep]] of [[Mariana's Veil]].
+
+== Description ==
+{{Description|A sleek, predatory fish that hunts in the freezing cold with unmatched speed.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in the deepest of trenches, most notably when the stars are present.|Bestiary Hint}}
+{{Fish Availability|
+Mariana's Veil/Challenger's Deep
+|top_rods      = 
+Leviathan's Fang Rod\273281.39\310814.91;
+Free Spirit Rod\263555.11\303892.07;
+Trident Rod\254723.36\290010.03;
+Azure Of Lagoon\192130.68\218906.68;
+No-Life Rod\184988.51\240886.62;
+Midas Rod\83451.76\101149.87;
+Phoenix Rod\133317.99\157325.92;
+Wisdom Rod\133861.33\161590.7;
+Magma Rod\117125.72\150703.83;
+Krampus's Rod\120199.3\152865.13;
+Magnet Rod\78045.94\93403.1;
+Seraphic Rod\164134.27\199382.3;
+Ethereal Prism Rod\163025.11\192692.92;
+Challenger's Rod\159514.07\189524.51;
+Rod Of The Forgotten Fang\157755.91\179264.72;
+Zeus Rod\144069.37\166444.67;
+Verdant Shear Rod\143203.76\164967.4;
+Rod Of The Depths\140793.16\160034.73;
+Blazebringer Rod\138654.29\160325.41;
+Depthseeker Rod\136166.8\167527.82;
+Rod Of The Exalted One\135801.1\154246.71;
+Avalanche Rod\121177.92\137912.9;
+Volcanic Rod\119035.24\139932.75;
+Steady Rod\54373.89\61158.86
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Polar Prowler, the player has a chance to make one of the following exclamations:
+* A POLAR PROWLER!?
+* IT'S QUICK!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Challenger's Deep}}

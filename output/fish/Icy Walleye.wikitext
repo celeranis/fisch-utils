@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Icy Walleye.png
+|rarity         = Unusual
+|sea            = First Sea
+|location       = [[Glacial Grotto]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 160
+|weather        = 
+|time           = Night
+|season         = Winter
+|bait           = Minnow
+|base_weight    = 9
+|base_value     = 350
+|weight_range   = 5
+|base_chance    = 45
+|base_resil     = 60
+}}
+'''Icy Walleye''' is an {{Rarity|Unusual}} fish found in the [[Glacial Grotto]].
+
+== Description ==
+{{Description|A medium-sized predator fish with glowing, frosted eyes and a shimmering gray body.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Hunts during twilight in the grotto's waters.|Bestiary Hint}}
+{{Fish Availability|
+Glacial Grotto
+|top_rods      = 
+Training Rod\201923.08\201923.08;
+Champions Rod\167848.83\113526.56;
+Celestial Rod\165692.34\115361.08;
+Rapid Rod\163968.37\136883.45;
+Ice Warpers Rod\163939.41\114140.63;
+Flimsy Rod\147726.19\146975.81;
+Fungal Rod\153104.75\150246.13;
+Ethereal Prism Rod\149257.79\151352.65;
+Firefly Rod\163907.24\147994.13;
+Fortune Rod\82777.13\87134.67;
+Avalanche Rod\158830.93\101442.23;
+Depthseeker Rod\158178.01\113204.87;
+Verdant Shear Rod\147070.03\123586.28;
+No-Life Rod\146658.66\146658.66;
+Seraphic Rod\145122.39\145122.39;
+Blazebringer Rod\133481.17\116605.53;
+Challenger's Rod\132888.47\132888.47;
+Zeus Rod\132461.19\123524.95;
+Rod Of The Forgotten Fang\132448.2\132448.2;
+Volcanic Rod\129282.26\93746.78;
+Rod Of The Depths\120227.83\120227.83;
+Trident Rod\117292.93\104012.52;
+Free Spirit Rod\113657.28\103656.38;
+Rod Of The Exalted One\112964.5\112964.5;
+Steady Rod\73666.8\59475.4
+|recommended   = Training Rod
+}}
+
+== Catch Quips ==
+When catching an Icy Walleye, the player has a chance to make one of the following exclamations:
+* An Icy Walleye!
+* Those eyes!
+* What a predator!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Glacial Grotto}}

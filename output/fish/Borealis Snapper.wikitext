@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Borealis Snapper.png
+|rarity         = Legendary
+|sea            = First Sea
+|location       = [[Glacial Grotto]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -30
+|xp             = 1200
+|weather        = Clear
+|time           = Night
+|season         = Winter
+|bait           = Fish Head
+|base_weight    = 160
+|base_value     = 3500
+|weight_range   = 80
+|base_chance    = 1
+|base_resil     = 20
+}}
+'''Borealis Snapper''' is a {{Rarity|Legendary}} fish found in the [[Glacial Grotto]].
+
+== Description ==
+{{Description|A vibrant fish with glowing, aurora-like patterns across its scales and frosted fins.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Active in the Glacial Grotto during the northern lights.|Bestiary Hint}}
+{{Fish Availability|
+Glacial Grotto
+|top_rods      = 
+Leviathan's Fang Rod\57468.44\189114.96;
+Free Spirit Rod\49554.01\183123.59;
+Trident Rod\47926.39\177108.84;
+Ethereal Prism Rod\43483.44\114604.6;
+No-Life Rod\42806.66\141111.96;
+Lucky Rod\24375.78\89309.21;
+Resourceful Rod\32799.36\91693.12;
+Destiny Rod\34042.01\92256.61;
+Azure Of Lagoon\30705.58\133474.62;
+Long Rod\25776.37\95593;
+Adventurer's Rod\21075.27\87846.1;
+Seraphic Rod\42646.23\116444.31;
+Rod Of The Forgotten Fang\39634.38\110631;
+Challenger's Rod\38664.17\112805.59;
+Rod Of The Depths\35457.99\99183.73;
+Rod Of The Exalted One\34609.48\95222.85;
+Zeus Rod\34511.01\101765.99;
+Verdant Shear Rod\33754.69\101120.25;
+Blazebringer Rod\32899.03\97535.95;
+Depthseeker Rod\31330.4\96434.2;
+Avalanche Rod\28048.72\86120.53;
+Volcanic Rod\26912.29\80462.94;
+Steady Rod\8894.95\32722.09
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Borealis Snapper, the player has a chance to make one of the following exclamations:
+* A BOREALIS SNAPPER!
+* LIKE THE AURORA!
+* SUCH BEAUTY!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Glacial Grotto}}

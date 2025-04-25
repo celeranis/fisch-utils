@@ -1,0 +1,74 @@
+{{FishInfobox
+|image          = Ashcloud Archerfish.png
+|rarity         = Limited
+|event          = Ashfall
+|sea            = First Sea
+|location       = [[Ashfall]]
+|sublocation    = 
+|sources        = Fishing Rod
+|nopassive      = 1
+|radar_location = 
+|prog_speed     = -90
+|xp             = 6000
+|weather        = Foggy
+|time           = 
+|season         = 
+|bait           = Coal
+|base_weight    = 1600
+|base_value     = 24000
+|weight_range   = 600
+|base_chance    = 1
+|base_resil     = 5
+}}
+'''Ashcloud Archerfish''' is a {{Rarity|Limited}} fish found in [[Roslit Bay]]'s saltwater during the [[Ashfall]] event.
+
+== Description ==
+{{Description|The guardian of Ashfall, wreathing in plumes of smoke and flickering embers. With masterful precision, the Ashcloud Archerfish shoots scorching lava at its targets with ferocious intent. Nothing is left behind...|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Only can be caught during Ashfall.|Bestiary Hint}}
+{{Fish Availability|
+Roslit Bay/Ashfall
+|top_rods      = 
+Tempest Rod\19549.59\100773.38;
+Challenger's Rod\18833.28\98290.76;
+Seraphic Rod\18737.26\93249.53;
+Ethereal Prism Rod\18121.65\85960.73;
+Abyssal Specter Rod\15202\81421.59;
+Resourceful Rod\11813.08\53904.64;
+Destiny Rod\11084.72\49890.46;
+Heaven's Rod\11723.16\53999.17;
+No-Life Rod\14778\77616.06;
+Rod Of The Forgotten Fang\14412.05\72131.84;
+Free Spirit Rod\11992.94\59685.16;
+Rod Of The Exalted One\11033.28\53716.38;
+Depthseeker Rod\10404.01\57284.22;
+Rod Of The Depths\9718.71\49498.13;
+Blazebringer Rod\9600.56\51420.43;
+Trident Rod\9079.49\45185.8;
+Zeus Rod\8833.3\47310.97;
+Verdant Shear Rod\8110.91\44343.44;
+Avalanche Rod\7593.2\41928;
+Volcanic Rod\7088.45\37965.59;
+Steady Rod\2555.74\14348.65
+|recommended   = Challenger's Rod
+}}
+
+== Gameplay Notes ==
+* Ashcloud Archerfish usually cannot be caught with passive effects, such as the one provided by the [[Rod Of The Depths]] and [[Rod Of The Forgotten Fang]].
+** The only exception is when catching a Ashcloud Archerfish on the Megalodon Passive reel of the [[Rod Of The Forgotten Fang]], the Megalodon will instead dupe the Ashcloud Archerfish.
+
+== Catch Quips ==
+When catching an Ashcloud Archerfish, the player has a chance to make one of the following exclamations:
+* HOT HOT HOT!!!
+* IT'S HUGE!
+* STILL DRIPPING LAVA!
+* WHAT IS IT AIMING FOR!?
+* THE ASHCLOUD ARCHERFISH?!?
+* THE LEGEND IS TRUE!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ashfall}}

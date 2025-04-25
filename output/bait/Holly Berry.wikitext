@@ -1,0 +1,26 @@
+{{BaitInfobox
+|image          = Bait Holly Berry.png
+|rarity         = Legendary
+|crates         = Festive Bait Crate/2.9
+|angler_quests  = <!--TBD-->
+|pref_luck      = 80
+|univ_luck      = 30
+|resilience     = 10
+|lure           = -5
+|ability        = 
+}}
+'''Holly Berry''' is a {{Rarity|Legendary}} [[Bait]] that can be used in fishing.
+
+== Obtainment ==
+Holly Berrys can be obtained in the following ways:
+* {{Item|Festive Bait Crate}} (2.9/crate on average)
+<!--* [[Angler]] Quests, starting from the ?th completion-->
+
+== Favoring Fish ==
+{{Fish by Category Table|Holly Berry-Loving Fish|event=1|show_location=1|hide_bait=1|resultsheader='''%PAGES%''' [[Fish]] prefer Holly Berrys:|noresultsheader=No fish prefer Holly Berrys.}}
+
+== Change History ==
+{{Change History|1.0}}
+
+== Navigation ==
+{{Bait Navbox}}

@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Pumpkinseed.png
+|rarity         = Uncommon
+|sea            = First Sea
+|location       = [[Roslit Bay]]
+|sublocation    = Freshwater
+|sources        = Common Crate, Fishing Rod
+|radar_location = 
+|xp             = 30
+|weather        = Clear
+|time           = 
+|season         = Summer
+|bait           = Minnow
+|base_weight    = 0.5
+|base_value     = 90
+|weight_range   = 0.4
+|base_chance    = 65
+|base_resil     = 80
+}}
+'''Pumpkinseed''' is an {{Rarity|Uncommon}} fish found in [[Roslit Bay]].
+
+== Description ==
+{{Description|Pumpkinseed are known for their distinctive red or orange edge on the ear flap and their round body shape. They prefer warmer waters and are often found in Roslit Bays freshwater. Pumpkinseed are also much less aggressive compared to other sunfish species.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in Roslit freshwater during warm days.|Bestiary Hint}}
+{{Fish Availability|
+Roslit Bay/Freshwater Pond
+Roslit Bay/Freshwater Pond Seaweed
+|top_rods      = 
+Leviathan's Fang Rod\280220.35\227118.68;
+Trident Rod\265671.84\147218.14;
+Free Spirit Rod\261853.56\146956.43;
+No-Life Rod\243144.45\210341.11;
+Azure Of Lagoon\242138.61\144993.61;
+Training Rod\239000.85\277411.12;
+Flimsy Rod\210651.57\175985.78;
+Resourceful Rod\215788.17\200242.34;
+Egg Rod\227769.32\217238.25;
+Verdant Shear Rod\226203.3\215744.64;
+Seraphic Rod\235215.18\209216.32;
+Challenger's Rod\231530.63\191498.32;
+Ethereal Prism Rod\230813.53\196021.15;
+Rod Of The Forgotten Fang\229558.92\191043.91;
+Rod Of The Exalted One\225183.68\168952.76;
+Blazebringer Rod\224716.62\190962.84;
+Zeus Rod\223228.72\189698.43;
+Depthseeker Rod\222147.08\194046.75;
+Rod Of The Depths\221657.98\173759.39;
+Avalanche Rod\219362.87\187792.94;
+Volcanic Rod\218026.45\185277.57;
+Steady Rod\109262.35\96286.45
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Pumpkinseed, the player has a chance to make one of the following exclamations:
+* A Pumpkinseed!
+* I caught a Pumpkinseed!
+* Can it hear me?
+* Woah.. Cool ears!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Roslit Bay}}

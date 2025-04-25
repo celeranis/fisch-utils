@@ -1,0 +1,69 @@
+{{FishInfobox
+|image          = Bloomtail.png
+|rarity         = Mythical
+|sea            = Second Sea
+|location       = [[Azure Lagoon]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -80
+|xp             = 2390
+|weather        = Rain
+|time           = Night
+|season         = Spring
+|bait           = Mist Worms
+|base_weight    = 300
+|base_value     = 3950
+|weight_range   = 180
+|base_chance    = 18
+|base_resil     = 3
+}}
+'''Bloomtail''' is a {{Rarity|Mythical}} fish found in the [[Azure Lagoon]].
+
+== Description ==
+{{Description|A dark blue fish with light blue fins, its tail blooming like a lagoon flower.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It blossoms where the rain meets the deep.|Bestiary Hint}}
+{{Fish Availability|
+Azure Lagoon
+|top_rods      = 
+Free Spirit Rod\56393.29\150076.46;
+Egg Rod\51596.58\140806.79;
+Azure Of Lagoon\49131.77\138598.22;
+Blazebringer Rod\48210.82\129359.53;
+Great Dreamer Rod\47209.62\128089.92;
+Magma Rod\31174.69\100249.15;
+Krampus's Rod\43467.35\78816.16;
+Frostfire Rod\25056.57\75315.52;
+Firefly Rod\37593.58\141704.23;
+Carbon Rod\24436.03\96579.6;
+Long Rod\23347.71\87222.54;
+Verdant Shear Rod\46899.69\127989.02;
+Trident Rod\38703.32\105621.16;
+Seraphic Rod\37327.65\101866.96;
+Ethereal Prism Rod\35864.74\95454.71;
+Challenger's Rod\35545.19\100010.93;
+No-Life Rod\34264.71\96790.46;
+Rod Of The Forgotten Fang\32167.62\88111.94;
+Rod Of The Exalted One\30487.89\82257.81;
+Depthseeker Rod\29232.77\84978.67;
+Rod Of The Depths\28765.47\79689.57;
+Avalanche Rod\27383.09\79736.65;
+Volcanic Rod\27236.43\77871.79;
+Zeus Rod\26449.8\75622.75;
+Steady Rod\26074.55\78375.38
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Bloomtail, the player has a chance to make one of the following exclamations:
+* A BLOOMTAIL!
+* BLUE BLOOM!
+* TAIL OF WONDER!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Azure Lagoon}}

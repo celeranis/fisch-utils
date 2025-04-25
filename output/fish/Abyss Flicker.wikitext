@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Abyss Flicker.png
+|rarity         = Mythical
+|sea            = Second Sea
+|location       = [[Isle of New Beginnings]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -75
+|xp             = 1320
+|weather        = Rain
+|time           = Night
+|season         = Winter
+|bait           = Crystal Bananas
+|base_weight    = 114
+|base_value     = 2772
+|weight_range   = 72
+|base_chance    = 15
+|base_resil     = 20
+}}
+'''Abyss Flicker''' is a {{Rarity|Mythical}} fish found in the [[Isle of New Beginnings]].
+
+== Description ==
+{{Description|A dark purple fish with white accents, flickering like a ghost in the deep.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It haunts the abyss under stormy skies.|Bestiary Hint}}
+{{Fish Availability|
+Isle of New Beginnings
+|top_rods      = 
+Krampus's Rod\69118.14\106833.44;
+Magma Rod\66729.37\103024.78;
+Free Spirit Rod\65870.22\138160.93;
+Plastic Rod\61056.4\105207.08;
+Egg Rod\56547.56\135863.09;
+Firefly Rod\49799.05\204047.09;
+Resourceful Rod\45354.65\157863.52;
+Lucky Rod\34335.47\134461.54;
+Long Rod\30072.76\125879.45;
+Verdant Shear Rod\53143.59\127684.6;
+Blazebringer Rod\52949.03\125034.35;
+Trident Rod\42253.02\98213.27;
+Seraphic Rod\38497.31\92494.94;
+Ethereal Prism Rod\37956.77\88883.67;
+No-Life Rod\36383.93\89853.99;
+Challenger's Rod\36197.33\89111.7;
+Rod Of The Forgotten Fang\34682.76\83577;
+Rod Of The Exalted One\33954.45\80637.48;
+Rod Of The Depths\32645.6\79380.59;
+Depthseeker Rod\32241.33\80137.6;
+Volcanic Rod\31283.96\78006.03;
+Avalanche Rod\31256.71\77510.03;
+Zeus Rod\30743.94\76659.5;
+Steady Rod\29949.98\71410.46
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching an Abyss Flicker, the player has a chance to make one of the following exclamations:
+* AN ABYSS FLICKER!
+* PURPLE PHANTOM!
+* WHITE GLEAM!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Isle of New Beginnings}}

@@ -1,0 +1,70 @@
+{{FishInfobox
+|image          = Salmoose.png
+|rarity         = Limited
+|event          = Animal Hunt
+|sea            = First Sea
+|location       = [[Animals]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -50
+|xp             = 3400
+|weather        = Clear
+|time           = 
+|season         = Winter
+|bait           = Truffle Worm
+|base_weight    = 300
+|base_value     = 3500
+|weight_range   = 205
+|base_chance    = 20
+|base_resil     = 15
+}}
+'''Salmoose''' is a {{Rarity|Limited}} fish found in [[Animal Hunt]]s in the [[First Sea]].
+
+== Description ==
+{{Description|A majestic fish with antlers, swimming through icy streams.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Its antlers sway where snow dusts the water.|Bestiary Hint}}
+{{Fish Availability|
+Animal Hunt/First Sea
+|top_rods      = 
+Krampus's Rod\92877.07\196734.19;
+Leviathan's Fang Rod\91413.88\360767.96;
+Magma Rod\90495.61\191689.72;
+Plastic Rod\77326.54\232637.45;
+Ethereal Prism Rod\72662.46\235131.06;
+Buddy Bond Rod\63528.83\146077.2;
+Rapid Rod\54638.84\277201.69;
+Firefly Rod\48347\251917.57;
+Trident Rod\68548.94\251518.67;
+No-Life Rod\67323.44\248604.2;
+Adventurer's Rod\44194.13\230214.76;
+Fischer's Rod\47207.37\233045.27;
+Free Spirit Rod\72071.27\246018.42;
+Seraphic Rod\69176.73\237261.2;
+Rod Of The Forgotten Fang\63460.3\224539.76;
+Challenger's Rod\61342.88\230924.71;
+Rod Of The Exalted One\56137.14\191192.83;
+Rod Of The Depths\55532.85\196884.97;
+Zeus Rod\53204.66\200112.31;
+Verdant Shear Rod\51705.22\199425.28;
+Blazebringer Rod\50954.71\191649.82;
+Depthseeker Rod\48466.65\188549.8;
+Avalanche Rod\43039.54\168019.55;
+Volcanic Rod\41533.05\156213.26;
+Steady Rod\14589.78\56174.68
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching a Salmoose, the player has a chance to make one of the following exclamations:
+* A SALMOOSE!
+* MOOSE ON THE LOOSE!
+* ANTLERS AHOY!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Animals}}

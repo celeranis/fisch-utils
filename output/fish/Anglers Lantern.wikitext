@@ -1,0 +1,39 @@
+{{FishInfobox
+|image          = Anglers Lantern.png
+|rarity         = Exotic
+|sea            = First Sea
+|location       = [[Regionless]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -95
+|xp             = 350
+|weather        = 
+|time           = 
+|season         = 
+|bait           = 
+|base_weight    = 2
+|base_value     = 1200
+|weight_range   = 0.2
+|base_chance    = 0.1
+|base_resil     = 3
+}}
+'''Anglers Lantern''' is an {{Rarity|Exotic}} fish found in [[Regionless]].
+
+== Description ==
+{{Description|A glowing anglerfish lantern with eerie deep-sea bioluminescence and sharp teeth.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Can be collected by feeding a baby anglerfish|Bestiary Hint}}
+
+== Catch Quips ==
+When catching an Anglers Lantern, the player has a chance to make one of the following exclamations:
+* A baby angler fish lantern
+* I love angler fish
+* SPOOKY!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Regionless}}

@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Toilet Fish.png
+|rarity         = Secret
+|sea            = Second Sea
+|location       = [[Open Ocean]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -65
+|xp             = 12000
+|weather        = Clear
+|time           = Day
+|season         = Summer
+|bait           = Mist Worms
+|base_weight    = 20
+|base_value     = 20000
+|weight_range   = 16.5
+|base_chance    = 0.5
+|base_resil     = 6
+}}
+'''Toilet Fish''' is a {{Rarity|Secret}} fish found in the [[Open Ocean]].
+
+== Description ==
+{{Description|i need to take a dump|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Kiwi would be fond of this|Bestiary Hint}}
+{{Fish Availability|
+Open Ocean
+Open Ocean/Sea Leviathan
+|top_rods      = 
+Free Spirit Rod\544.34\5511.77;
+Egg Rod\424.37\4577.14;
+Verdant Shear Rod\416.86\4993.84;
+Blazebringer Rod\397.76\4325.37;
+Great Dreamer Rod\396.85\4285.18;
+Flimsy Rod\347.95\4910.68;
+Training Rod\353.4\3236.48;
+Resourceful Rod\341.08\3576.73;
+Plastic Rod\247.78\5267.37;
+Fischer's Rod\249.77\5048.65;
+Trident Rod\356.66\3517.09;
+Seraphic Rod\284.44\3067.93;
+Ethereal Prism Rod\283.09\3039.65;
+No-Life Rod\275.71\2957.77;
+Challenger's Rod\264.62\2840.56;
+Rod Of The Forgotten Fang\259.01\2791.95;
+Rod Of The Exalted One\254.87\2755.28;
+Rod Of The Depths\244.74\2633.52;
+Depthseeker Rod\240.91\2550.29;
+Volcanic Rod\235.18\2518.29;
+Avalanche Rod\233.68\2468.38;
+Zeus Rod\232.03\2484.53;
+Steady Rod\224.6\2203.23
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Toilet Fish, the player has a chance to make one of the following exclamations:
+* sigma
+* toilet!!!!!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Open Ocean}}

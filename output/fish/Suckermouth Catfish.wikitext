@@ -1,0 +1,65 @@
+{{FishInfobox
+|image          = Suckermouth Catfish.png
+|rarity         = Rare
+|sea            = First Sea
+|location       = [[Roslit Bay]]
+|sublocation    = Freshwater
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 80
+|weather        = 
+|time           = Day
+|season         = Spring, Autumn
+|bait           = Seaweed
+|base_weight    = 17
+|base_value     = 160
+|weight_range   = 7.5
+|base_chance    = 35
+|base_resil     = 60
+}}
+'''Suckermouth Catfish''' is a {{Rarity|Rare}} fish found in [[Roslit Bay]].
+
+== Description ==
+{{Description|The Suckermouth Catfish is a tropical freshwater fish found on the ground and near the seaweed of Roslits Bays pond. They are easily notable for their large armour like scutes covering their upper parts of the head and body.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found best near seaweed of Roslit Bays pond.|Bestiary Hint}}
+{{Fish Availability|
+Roslit Bay/Freshwater Pond Seaweed
+|top_rods      = 
+Krampus's Rod\428003.21\421856.8;
+Magma Rod\411986.61\406070.2;
+Plastic Rod\376664.34\371255.18;
+Buddy Bond Rod\279807.8\324040.82;
+Fast Rod\232537.09\402820.85;
+Flimsy Rod\178856.7\594834.52;
+Ethereal Prism Rod\226984.07\170427.6;
+Seraphic Rod\215707.88\167633.21;
+No-Life Rod\208792.36\169307.03;
+Rod Of The Forgotten Fang\201728.77\157370.65;
+Challenger's Rod\191681.56\154585.89;
+Rod Of The Depths\180805.28\142674.11;
+Trident Rod\180651.62\148769.57;
+Rod Of The Exalted One\180020.21\137773.31;
+Free Spirit Rod\175052.08\144158.25;
+Zeus Rod\172731.82\142371.19;
+Verdant Shear Rod\168069.2\140791.15;
+Blazebringer Rod\163932.66\135118.63;
+Depthseeker Rod\153766.48\129502.63;
+Avalanche Rod\138648.87\117020.61;
+Volcanic Rod\134587.12\110931.08;
+Steady Rod\52672.4\37742.93
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching a Suckermouth Catfish, the player has a chance to make one of the following exclamations:
+* A Suckermouth Catfish!
+* I caught a Catfish!
+* Woah, a Suckermouth!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Roslit Bay}}

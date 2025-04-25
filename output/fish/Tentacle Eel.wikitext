@@ -1,0 +1,71 @@
+{{FishInfobox
+|image          = Tentacle Eel.png
+|rarity         = Unusual
+|sea            = First Sea
+|location       = [[Atlantis]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 250
+|weather        = 
+|time           = Night
+|season         = 
+|bait           = Fish Head
+|base_weight    = 20
+|base_value     = 450
+|weight_range   = 10
+|base_chance    = 30
+|base_resil     = 65
+}}
+'''Tentacle Eel''' is an {{Rarity|Unusual}} fish found in [[Atlantis]].
+
+== Description ==
+{{Description|An eel twisted by void energies, its body now covered in small tentacles that reach for anything nearby. Even other Kraken-touched creatures avoid it.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Watch for reaching tendrils in dark waters, Kraken Pool.|Bestiary Hint}}
+{{Fish Availability|
+Atlantis/Ancient Kraken Hunt
+Atlantis/Kraken Hunt
+Atlantis/Kraken Pool
+|top_rods      = 
+Krampus's Rod\274182.8\272155.8;
+Magma Rod\264511.52\262556.01;
+Plastic Rod\245088.35\242289.64;
+Fast Rod\202968.31\302898.43;
+Leviathan's Fang Rod\202019.95\118339.32;
+Flimsy Rod\188052.13\298099.54;
+Buddy Bond Rod\180028.2\255462.48;
+Fischer's Rod\180855.94\269899.18;
+Adventurer's Rod\179522.85\267909.75;
+No-Life Rod\182204.31\115592.88;
+Trident Rod\182086.96\114184.23;
+Ethereal Prism Rod\181405.16\115151.53;
+Seraphic Rod\180250.83\109388.35;
+Free Spirit Rod\177501.55\111308.78;
+Rod Of The Forgotten Fang\169483.51\99866.5;
+Challenger's Rod\166727.11\101228.01;
+Rod Of The Depths\154341.8\90687.38;
+Zeus Rod\153321.77\95869.08;
+Verdant Shear Rod\151461.75\98168.26;
+Rod Of The Exalted One\148278.87\90230.07;
+Blazebringer Rod\145490.09\91193.18;
+Depthseeker Rod\139222.12\92633.42;
+Avalanche Rod\125827.36\83577.4;
+Volcanic Rod\123430.82\80537.25;
+Steady Rod\53392.76\36132.85
+|recommended   = No-Life Rod
+}}
+
+== Catch Quips ==
+When catching a Tentacle Eel, the player has a chance to make one of the following exclamations:
+* A TENTACLE EEL!
+* IT REACHES!
+* VOID-TOUCHED!
+* THE TENDRILS GRASP!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Atlantis}}

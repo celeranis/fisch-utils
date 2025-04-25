@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Quartzfin Queenfish.png
+|rarity         = Common
+|sea            = First Sea
+|location       = [[Calm Zone]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 50
+|weather        = Clear
+|time           = Day
+|season         = Summer
+|bait           = Insect
+|base_weight    = 40
+|base_value     = 300
+|weight_range   = 22
+|base_chance    = 65
+|base_resil     = 100
+}}
+'''Quartzfin Queenfish''' is a {{Rarity|Common}} fish found in the [[Calm Zone]] of [[Mariana's Veil]].
+
+== Description ==
+{{Description|A small, shimmering fish with quartz-like fins that sparkle in the light.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in shallow, clear waters, especially on warm days.|Bestiary Hint}}
+{{Fish Availability|
+Mariana's Veil/Calm Zone
+|top_rods      = 
+Leviathan's Fang Rod\350452.35\73602.15;
+No-Life Rod\342446.7\77153.06;
+Trident Rod\341402.62\53411.8;
+Free Spirit Rod\338865.2\53657.09;
+Azure Of Lagoon\329286.35\53259.05;
+Resourceful Rod\299142.08\54595.83;
+Champions Rod\298769.16\56225.24;
+Reinforced Rod\294282.64\53803.32;
+Nocturnal Rod\202731.34\170821.24;
+Fast Rod\305822.65\78013.63;
+Seraphic Rod\317496.82\76849.33;
+Tempest Rod\321952.07\74141.46;
+Adventurer's Rod\219760.12\58325.5;
+Plastic Rod\219341.67\55331.94;
+Verdant Shear Rod\310958.03\65766.51;
+Blazebringer Rod\310622.23\61939.07;
+Challenger's Rod\309609.33\70341.16;
+Zeus Rod\307824.87\65591;
+Ethereal Prism Rod\306259.86\0;
+Rod Of The Depths\302951.72\63937.11;
+Rod Of The Forgotten Fang\302124.79\70174.25;
+Volcanic Rod\300687.11\49817.89;
+Depthseeker Rod\300268.03\60002.36;
+Avalanche Rod\296465.5\53941.28;
+Rod Of The Exalted One\296034.56\59934.76;
+Steady Rod\158970.57\30298.96
+|recommended   = No-Life Rod
+}}
+
+== Catch Quips ==
+When catching a Quartzfin Queenfish, the player has a chance to make one of the following exclamations:
+* A Quartzfin Queenfish!
+* From the Nether!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Calm Zone}}

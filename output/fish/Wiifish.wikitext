@@ -1,0 +1,69 @@
+{{FishInfobox
+|image          = Wiifish.png
+|rarity         = Legendary
+|sea            = First Sea
+|location       = [[Sunstone Island]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -20
+|xp             = 500
+|weather        = 
+|time           = 
+|season         = Autumn
+|bait           = 
+|base_weight    = 40
+|base_value     = 1200
+|weight_range   = 20
+|base_chance    = 1
+|base_resil     = 40
+}}
+'''Wiifish''' is a {{Rarity|Legendary}} fish found in [[Sunstone Island]].
+
+== Description ==
+{{Description|The Wiifish is a legendary tropic fish that can only be found in the saltwater’s Sunstone Island during the day. They are an extremely old fish, dating back over 230,000,000 years ago. While the Wiifish is a slow swimmer, they can put up an immense fight for even advanced anglers.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found rarely near Sunstone Island during the day.|Bestiary Hint}}
+{{Fish Availability|
+Sunstone Island
+|top_rods      = 
+Leviathan's Fang Rod\31570.71\145712.38;
+Ethereal Prism Rod\30789.2\99353.51;
+Seraphic Rod\28853.68\100144.28;
+No-Life Rod\27744.85\106951.52;
+Tempest Rod\27112.79\99215.26;
+Resourceful Rod\24175.61\81831.25;
+Destiny Rod\25493.41\91155.65;
+Heaven's Rod\22400.49\92796.1;
+Trident Rod\26279.13\135095.37;
+Free Spirit Rod\24277.11\124803.39;
+Lucky Rod\16473.45\79185.54;
+Long Rod\16142.34\73391;
+Adventurer's Rod\12634.58\64094.04;
+Rod Of The Forgotten Fang\26816.98\98061.25;
+Challenger's Rod\25347.12\98944.05;
+Rod Of The Exalted One\24091.8\91387.86;
+Rod Of The Depths\23784.69\89156.22;
+Zeus Rod\22589.13\91215.9;
+Verdant Shear Rod\21913.75\90972.17;
+Blazebringer Rod\21484.06\87144.34;
+Depthseeker Rod\20125.53\84284.3;
+Avalanche Rod\18084.15\75736.65;
+Volcanic Rod\17610.47\72171.09;
+Steady Rod\5592.96\25517.15
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching a Wiifish, the player has a chance to make one of the following exclamations:
+* Woah, a Wiifish!
+* This thing is super ancient!
+* A Wiifish!!
+* This brings me back!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Sunstone Island}}

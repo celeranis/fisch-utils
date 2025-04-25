@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Axolotl.png
+|rarity         = Legendary
+|sea            = First Sea
+|location       = [[Roslit Bay]]
+|sublocation    = Freshwater
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -10
+|xp             = 550
+|weather        = 
+|time           = Night
+|season         = Spring, Autumn
+|bait           = Insect
+|base_weight    = 1.5
+|base_value     = 1000
+|weight_range   = 1
+|base_chance    = 0.05
+|base_resil     = 75
+}}
+'''Axolotl''' is a {{Rarity|Legendary}} fish found in [[Roslit Bay]].
+
+== Description ==
+{{Description|Axolotls are small carnivorous creatures who reside in the Roslit Bay pond. They are nocturnal creatures and are known to hunt primarily worms. They are well known for their ability to regenerate and adorable faces.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Caught in Roslit Bays pond at night.|Bestiary Hint}}
+{{Fish Availability|
+Roslit Bay/Freshwater Pond
+Roslit Bay/Freshwater Pond Seaweed
+|top_rods      = 
+Ethereal Prism Rod\90154.86\641327.04;
+Leviathan's Fang Rod\88592.61\793000.32;
+Seraphic Rod\83097.77\653700.43;
+Rod Of The Forgotten Fang\77419.11\643650.53;
+Destiny Rod\76922.6\618718.58;
+Resourceful Rod\71773.18\532256.88;
+Heaven's Rod\66569.35\612487.37;
+Trident Rod\62616.7\765794.23;
+Free Spirit Rod\62534.54\753994.43;
+No-Life Rod\76799.45\677344.28;
+Flimsy Rod\34489.24\603571.43;
+Training Rod\27622.57\368768.62;
+Rod Of The Depths\68628.83\628271.26;
+Challenger's Rod\71209.32\640465.38;
+Rod Of The Exalted One\70380.38\629249.43;
+Zeus Rod\62848.47\600273.2;
+Verdant Shear Rod\60182.79\602642.32;
+Blazebringer Rod\59652.54\571982.52;
+Depthseeker Rod\54738.16\561111.69;
+Avalanche Rod\49265.42\510425.98;
+Volcanic Rod\48975.39\474866.88;
+Steady Rod\14763.66\163951.58
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching an Axolotl, the player has a chance to make one of the following exclamations:
+* This an Axolotl..
+* An Axolotl!
+* It's so cute!
+* That's a cute axolotl!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Roslit Bay}}

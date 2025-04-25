@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Static Ray.png
+|rarity         = Uncommon
+|sea            = First Sea
+|location       = [[Atlantis]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 150
+|weather        = Rain
+|time           = 
+|season         = 
+|bait           = Shrimp
+|base_weight    = 30
+|base_value     = 280
+|weight_range   = 15
+|base_chance    = 55
+|base_resil     = 60
+}}
+'''Static Ray''' is an {{Rarity|Uncommon}} fish found in [[Atlantis]].
+
+== Description ==
+{{Description|This unique ray channels Zeus' power through its flat body, creating electromagnetic fields that stun smaller fish.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Glides along the bottom of Zeus Pool during storms.|Bestiary Hint}}
+{{Fish Availability|
+Atlantis/Zeus's Rod Room
+|top_rods      = 
+Rapid Rod\173976.69\137914.44;
+Trident Rod\166700.26\104795.93;
+No-Life Rod\165073.92\147763.27;
+Summit Rod\164835.76\117716.15;
+Champions Rod\163856.8\113694.5;
+Haunted Rod\122442.98\94091.32;
+Scurvy Rod\136025.06\104528.47;
+Ethereal Prism Rod\154026.18\165863.52;
+Leviathan's Fang Rod\155800.51\150665.63;
+Seraphic Rod\146215.43\146215.43;
+Fast Rod\142945.16\142945.16;
+Kraken Rod\121168.23\123440.75;
+Depthseeker Rod\163126.51\114735.92;
+Free Spirit Rod\161533.15\104437.1;
+Avalanche Rod\160248.25\111990.95;
+Verdant Shear Rod\159958.96\124517.11;
+Blazebringer Rod\150234.58\117483.78;
+Zeus Rod\149086.59\124455.32;
+Volcanic Rod\145508.66\94452.86;
+Challenger's Rod\145137.15\133889.37;
+Rod Of The Depths\134920.16\121133.36;
+Rod Of The Forgotten Fang\133445.78\133445.78;
+Rod Of The Exalted One\119950.05\116623.38;
+Steady Rod\74330.04\60421.33
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Static Ray, the player has a chance to make one of the following exclamations:
+* A Static Ray!
+* Watch the charge!
+* Stunning catch!
+* Kwijts Electric Guitar!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Atlantis}}

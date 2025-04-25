@@ -1,0 +1,78 @@
+{{FishInfobox
+|image          = Unique Present.png
+|rarity         = Limited
+|event          = Fischmas
+|sea            = First Sea
+|location       = [[Fischmas]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 55
+|weather        = 
+|time           = 
+|season         = 
+|bait           = Magnet
+|base_weight    = 9
+|base_value     = 180
+|weight_range   = 0
+|base_chance    = 4
+|base_resil     = 50
+}}
+'''Unique Present''' is a {{Rarity|Limited}} fish found in the [[Winter Village]] during the [[Fischmas]] event.
+
+== Description ==
+{{Description|A nice christmas present wrapped in white and teal gift paper. Maybe it has some better goodies inside!|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Only can be caught during Fischmas24.|Bestiary Hint}}
+{{Fish Availability|
+Fischmas/Winter Village
+|top_rods      = 
+Magnet Rod\170243.75\170741.08;
+Leviathan's Fang Rod\40430.02\114138.26;
+Ethereal Prism Rod\38262.03\88836.1;
+Seraphic Rod\36683.84\88386.87;
+No-Life Rod\36185.27\89572.7;
+Resourceful Rod\29586.4\70760.59;
+Destiny Rod\30915.59\79979.36;
+Trident Rod\35421.18\97035.22;
+Free Spirit Rod\33679.35\92263.54;
+Lucky Rod\21523.94\64192.92;
+Fortune Rod\24015.45\68614.39;
+Rod Of The Forgotten Fang\34312.78\83194.9;
+Challenger's Rod\33018.76\83155;
+Rod Of The Depths\30804.94\75906.86;
+Rod Of The Exalted One\30465.36\77056.45;
+Zeus Rod\30001.91\77124.48;
+Verdant Shear Rod\29496.02\77828.79;
+Blazebringer Rod\28585.64\74645.68;
+Depthseeker Rod\26978.8\69515.69;
+Avalanche Rod\24332.2\62398.79;
+Volcanic Rod\23377.51\60999.42;
+Training Rod\14693.99\49412.9;
+Steady Rod\8505.89\20685.74
+|recommended   = Magnet Rod
+}}
+
+== Contents ==
+Opening an Unique Present will yield at least one of the following:
+* [[Icicle]]
+* [[Glass of Milk]]
+* [[Candy Cane Carp]]
+* [[Ornament Fish]]
+* [[Santa Salmon]]
+* [[Gingerbread Fish]]
+* [[Enchant Relic]]
+* [[90–130 C$]]
+
+== Catch Quips ==
+When catching an Unique Present, the player has a chance to make one of the following exclamations:
+* A Present!
+* Woah! A Present!
+* It's my lucky day!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Fischmas}}

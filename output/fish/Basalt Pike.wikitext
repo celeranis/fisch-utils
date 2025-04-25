@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Basalt Pike.png
+|rarity         = Unusual
+|sea            = Second Sea
+|location       = [[Emberreach]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -5
+|xp             = 80
+|weather        = Rain
+|time           = Night
+|season         = Winter
+|bait           = Minnow
+|base_weight    = 219
+|base_value     = 175
+|weight_range   = 126
+|base_chance    = 62
+|base_resil     = 48
+}}
+'''Basalt Pike''' is an {{Rarity|Unusual}} fish found in [[Emberreach]].
+
+== Description ==
+{{Description|A rugged fish, its form dark and unyielding as stone forged in fire.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It pierces the cold, wet dusk.|Bestiary Hint}}
+{{Fish Availability|
+Emberreach/Volcano
+|top_rods      = 
+Trident Rod\261176.85\252155.59;
+Free Spirit Rod\247960.11\153448.3;
+Leviathan's Fang Rod\247505.94\179436.46;
+Firefly Rod\224496.02\224496.02;
+Azure Of Lagoon\224358.57\147407.44;
+Long Rod\179242.26\179242.26;
+Adventurer's Rod\157261.45\157261.45;
+Egg Rod\208581.95\201377.36;
+Brother's Rod\204865.57\199417.17;
+Great Dreamer Rod\206205.2\198640.46;
+Verdant Shear Rod\205415.74\197509.36;
+No-Life Rod\201665.29\197363.57;
+Blazebringer Rod\200843.59\170097.46;
+Seraphic Rod\184083.54\177725.15;
+Challenger's Rod\177155.6\173042.51;
+Rod Of The Forgotten Fang\174803.63\168967.01;
+Depthseeker Rod\174120.75\173635.72;
+Avalanche Rod\170420.84\169958.18;
+Ethereal Prism Rod\169764.93\110649.28;
+Rod Of The Depths\169632.88\164619.94;
+Volcanic Rod\169554.77\167082.1;
+Rod Of The Exalted One\168995.43\148103.21;
+Zeus Rod\168672.61\166212.8;
+Steady Rod\140029.24\139296.4
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Basalt Pike, the player has a chance to make one of the following exclamations:
+* A Basalt Pike!
+* Rocky catch!
+* Dark spear!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Emberreach}}

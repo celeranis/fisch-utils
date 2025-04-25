@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Snowflake Flounder.png
+|rarity         = Limited
+|event          = Fischmas
+|sea            = First Sea
+|location       = [[Fischmas]]
+|sublocation    = 
+|sources        = Fishing Rod, Supreme Present
+|radar_location = 
+|xp             = 180
+|weather        = 
+|time           = Night
+|season         = 
+|bait           = Peppermint Worm
+|base_weight    = 5.5
+|base_value     = 145
+|weight_range   = 4
+|base_chance    = 10
+|base_resil     = 80
+}}
+'''Snowflake Flounder''' is a {{Rarity|Limited}} fish found in the [[Winter Village]] during the [[Fischmas]] event.
+
+== Description ==
+{{Description|A very cold Flounder with a unique snowflake-like pattern on its body. Beware when holding - it's freezing cold!|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Only can be caught during Fischmas24.|Bestiary Hint}}
+{{Fish Availability|
+Fischmas/Winter Village
+|top_rods      = 
+Krampus's Rod\89468.39\153739.55;
+Magma Rod\86655.53\148906.42;
+Plastic Rod\79134.35\135982.23;
+Fast Rod\60461.14\127485.72;
+Buddy Bond Rod\58785.51\115699.03;
+Flimsy Rod\39669\119981.97;
+Ethereal Prism Rod\58529.88\82098.23;
+Seraphic Rod\56516.21\82325.21;
+No-Life Rod\55656.04\84558.3;
+Rod Of The Forgotten Fang\52964.91\80276.12;
+Challenger's Rod\51171.68\79994.85;
+Trident Rod\49711.51\80683.99;
+Free Spirit Rod\48997.05\79524.39;
+Rod Of The Depths\47790.82\73486.48;
+Rod Of The Exalted One\46957.31\75233.81;
+Zeus Rod\46863.18\74509.02;
+Verdant Shear Rod\46219.87\75196.84;
+Blazebringer Rod\44612.63\72031.97;
+Depthseeker Rod\42183.74\66850.87;
+Avalanche Rod\38150.16\60298.49;
+Volcanic Rod\36510.53\58929.36;
+Training Rod\28137.25\87500;
+Steady Rod\16385.82\19899.02
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching a Snowflake Flounder, the player has a chance to make one of the following exclamations:
+* A Snowflake Flounder!
+* A Snowflake!
+* I caught a Snowflake Flounder!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Fischmas}}

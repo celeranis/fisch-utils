@@ -1,0 +1,66 @@
+{{FishInfobox
+|image          = Leviathan Humpback Anglerfish.png
+|rarity         = Common
+|sea            = First Sea
+|location       = [[Abyssal Zenith]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 25
+|weather        = Rain
+|time           = 
+|season         = Summer
+|bait           = Worm
+|base_weight    = 80
+|base_value     = 40
+|weight_range   = 45
+|base_chance    = 70
+|base_resil     = 90
+}}
+'''Leviathan Humpback Anglerfish''' is a {{Rarity|Common}} fish found in the [[Abyssal Zenith]] of [[Mariana's Veil]].
+
+== Description ==
+{{Description|An anglerfish with a humpback and a glowing lure that pulses like a heartbeat.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Noticed within the warmer parts of the abyss, especially during rainfall.|Bestiary Hint}}
+{{Fish Availability|
+Mariana's Veil/Abyssal Zenith
+|top_rods      = 
+Rapid Rod\209233.8\195168.93;
+Leviathan's Fang Rod\208572.23\201896.9;
+Fungal Rod\208217.34\207198.29;
+Fast Rod\207470.7\207470.7;
+Firefly Rod\206806.44\227533.7;
+Long Rod\191233.74\191667.78;
+Antler Rod\194920.42\193966.44;
+No-Life Rod\200516.51\197175.9;
+Candy Cane Rod\179803.88\179803.88;
+Trident Rod\206722.46\137292.53;
+Free Spirit Rod\204604.31\137124.37;
+Seraphic Rod\196412.87\196399.68;
+Blazebringer Rod\191698.84\158289.55;
+Verdant Shear Rod\189659.07\168070.83;
+Zeus Rod\189479.45\167627.37;
+Ethereal Prism Rod\188520.5\128888.42;
+Depthseeker Rod\187852.54\153328.71;
+Challenger's Rod\187065.37\179767.09;
+Avalanche Rod\186535.68\137854.81;
+Volcanic Rod\185081.28\141064.6;
+Rod Of The Depths\179957.27\163383.48;
+Rod Of The Forgotten Fang\179352.57\179340.53;
+Rod Of The Exalted One\173456.72\153172.01;
+Steady Rod\99590.49\74877.95
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Leviathan Humpback Anglerfish, the player has a chance to make one of the following exclamations:
+* A Leviathan Humpback Anglerfish!
+* Like a lantern!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Abyssal Zenith}}

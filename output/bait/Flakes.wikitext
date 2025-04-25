@@ -1,0 +1,27 @@
+{{BaitInfobox
+|image          = Bait Flakes.png
+|rarity         = Common
+|crates         = Bait Crate/0.34, Common Crate/0.18
+|angler_quests  = <!--TBD-->
+|pref_luck      = 55
+|univ_luck      = 
+|resilience     = -3
+|lure           = 10
+|ability        = 
+}}
+'''Flakes''' is a {{Rarity|Common}} [[Bait]] that can be used in fishing.
+
+== Obtainment ==
+Flakess can be obtained in the following ways:
+* {{Item|Bait Crate}} (0.34/crate on average)
+* {{Item|Common Crate}} (0.18/crate on average)
+<!--* [[Angler]] Quests, starting from the ?th completion-->
+
+== Favoring Fish ==
+{{Fish by Category Table|Flakes-Loving Fish|event=1|show_location=1|hide_bait=1|resultsheader='''%PAGES%''' [[Fish]] prefer Flakess:|noresultsheader=No fish prefer Flakess.}}
+
+== Change History ==
+{{Change History|1.0}}
+
+== Navigation ==
+{{Bait Navbox}}

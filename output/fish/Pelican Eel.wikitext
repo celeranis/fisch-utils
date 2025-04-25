@@ -1,0 +1,66 @@
+{{FishInfobox
+|image          = Pelican Eel.png
+|rarity         = Mythical
+|sea            = Second Sea
+|location       = [[Open Ocean]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -68
+|xp             = 1350
+|weather        = Rain
+|time           = Day
+|season         = Spring
+|bait           = Mist Worms
+|base_weight    = 6000
+|base_value     = 2650
+|weight_range   = 3500
+|base_chance    = 12
+|base_resil     = 10
+}}
+'''Pelican Eel''' is a {{Rarity|Mythical}} fish found in the [[Open Ocean]].
+
+== Description ==
+{{Description|A deadly blue eel with a giant mouth and sharp teeth, swallowing the ocean whole.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It gulps where the rain pours deep.|Bestiary Hint}}
+{{Fish Availability|
+Open Ocean
+Open Ocean/Sea Leviathan
+|top_rods      = 
+Free Spirit Rod\27676.32\67767.9;
+Leviathan's Fang Rod\21042.78\45752.46;
+Egg Rod\21032.64\58211.59;
+Azure Of Lagoon\20229.09\52795.52;
+Great Dreamer Rod\19633.15\54646.38;
+Steady Rod\18732.67\26807.04;
+Krampus's Rod\18128.63\24703.44;
+Blazebringer Rod\19628.3\55496.92;
+Destiny Rod\13171.6\36330.94;
+Trident Rod\19514.55\43952.88;
+Seraphic Rod\14144.07\39146.22;
+Ethereal Prism Rod\13959.02\39213.09;
+No-Life Rod\13706.43\36912.01;
+Challenger's Rod\13270.62\35853.02;
+Rod Of The Forgotten Fang\12860\35489.95;
+Rod Of The Exalted One\12597.9\35258.67;
+Rod Of The Depths\12174.56\33301.72;
+Depthseeker Rod\12104.94\31552.47;
+Volcanic Rod\11766.04\31374.72;
+Avalanche Rod\11748.78\30522.35;
+Zeus Rod\11598.04\30926.76
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Pelican Eel, the player has a chance to make one of the following exclamations:
+* A PELICAN EEL!
+* MOUTH OF DOOM!
+* TEETH OF TERROR!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Open Ocean}}

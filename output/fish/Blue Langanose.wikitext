@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Blue Langanose.png
+|rarity         = Unusual
+|sea            = First Sea
+|location       = [[Blue Moon - First Sea]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = +15
+|xp             = 1880
+|weather        = Clear
+|time           = 
+|season         = Winter
+|bait           = Seaweed
+|base_weight    = 180
+|base_value     = 2850
+|weight_range   = 120
+|base_chance    = 80
+|base_resil     = 62
+}}
+'''Blue Langanose''' is an {{Rarity|Unusual}} fish found in [[Blue Moon]] events at [[Snowcap Island]].
+
+== Description ==
+{{Description|A long fish with a deep blue hue, blending into the icy abyss.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It probes the clear, cold depths.|Bestiary Hint}}
+{{Fish Availability|
+Blue Moon/First Sea
+|top_rods      = 
+Leviathan's Fang Rod\145388.98\127772.43;
+Trident Rod\143858.7\86391.48;
+Free Spirit Rod\139383.89\86022.91;
+Azure Of Lagoon\133006.85\124087.62;
+No-Life Rod\131061.19\122272.43;
+Resourceful Rod\113127.95\112978.67;
+Long Rod\107671.36\107262.2;
+Great Dreamer Rod\118739.58\121067.17;
+Rapid Rod\119585.25\123836.28;
+Egg Rod\119785.24\123654.25;
+Rod Of The Exalted One\110068.01\110711.62;
+Depthseeker Rod\120089.29\119882.46;
+Zeus Rod\119551.42\121894.92;
+Blazebringer Rod\118931.25\118072.12;
+Verdant Shear Rod\118797.63\119360.14;
+Challenger's Rod\118785.1\107656.61;
+Avalanche Rod\118522.93\118320.92;
+Seraphic Rod\117923.75\120465.19;
+Ethereal Prism Rod\115888.28\91732.56;
+Volcanic Rod\115317.79\114484.76;
+Rod Of The Forgotten Fang\113395.42\108690.92;
+Rod Of The Depths\112829.68\97588.34;
+Steady Rod\62551.57\62476.95
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Blue Langanose, the player has a chance to make one of the following exclamations:
+* A Blue Langanose!
+* Frozen whiskers!
+* Blue beauty!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Blue Moon - First Sea}}

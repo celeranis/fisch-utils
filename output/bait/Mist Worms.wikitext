@@ -1,0 +1,26 @@
+{{BaitInfobox
+|image          = Bait Mist Worms.png
+|rarity         = Legendary
+|crates         = Tropical Bait Crate/0.56
+|angler_quests  = <!--TBD-->
+|pref_luck      = 100
+|univ_luck      = 80
+|resilience     = 25
+|lure           = 20
+|ability        = 
+}}
+'''Mist Worms''' is a {{Rarity|Legendary}} [[Bait]] that can be used in fishing.
+
+== Obtainment ==
+Mist Wormss can be obtained in the following ways:
+* {{Item|Tropical Bait Crate}} (0.56/crate on average)
+<!--* [[Angler]] Quests, starting from the ?th completion-->
+
+== Favoring Fish ==
+{{Fish by Category Table|Mist Worms-Loving Fish|event=1|show_location=1|hide_bait=1|resultsheader='''%PAGES%''' [[Fish]] prefer Mist Wormss:|noresultsheader=No fish prefer Mist Wormss.}}
+
+== Change History ==
+{{Change History|1.0}}
+
+== Navigation ==
+{{Bait Navbox}}

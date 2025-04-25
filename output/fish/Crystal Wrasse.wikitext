@@ -1,0 +1,58 @@
+{{FishInfobox
+|image          = Crystal Wrasse.png
+|rarity         = Unusual
+|sea            = First Sea
+|location       = [[Grand Reef]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 300
+|weather        = 
+|time           = 
+|season         = 
+|bait           = Insect
+|base_weight    = 9
+|base_value     = 450
+|weight_range   = 5
+|base_chance    = 12
+|base_resil     = 65
+}}
+'''Crystal Wrasse''' is an {{Rarity|Unusual}} fish found in the [[Grand Reef]].
+
+== Description ==
+{{Description|A unique reef predator with transparent fins and a needle-like snout. They hunt by picking off small prey trapped in coral branches, using their pointed mouth to reach deep into crevices.|Bestiary Entry}}
+
+== Obtainment ==
+{{Fish Availability|
+Grand Reef
+|top_rods      = 
+Krampus's Rod\93178.78\100205.44;
+Magma Rod\89892.07\96670.88;
+Leviathan's Fang Rod\83947.23\103410.01;
+Plastic Rod\82129.42\88322.84;
+Ethereal Prism Rod\78902.02\84525.56;
+Trident Rod\74888.09\97502.06;
+Free Spirit Rod\73002.22\95046.72;
+Flimsy Rod\48746.51\79409.46;
+Training Rod\40542.29\86947.21;
+Seraphic Rod\76796.1\84507.32;
+No-Life Rod\76673.89\86935.52;
+Rod Of The Forgotten Fang\72032.45\81806.06;
+Challenger's Rod\70193.91\81338.66;
+Rod Of The Depths\65104.95\76488.79;
+Zeus Rod\64424.24\75440.97;
+Verdant Shear Rod\63541.17\74996.82;
+Rod Of The Exalted One\63454.77\77897.33;
+Blazebringer Rod\61133.44\71868.19;
+Depthseeker Rod\58373.69\69604.66;
+Avalanche Rod\52745.44\63208.61;
+Volcanic Rod\50196.09\59669.16;
+Steady Rod\19890.96\23270.84
+|recommended   = Ethereal Prism Rod
+}}
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Grand Reef}}

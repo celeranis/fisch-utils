@@ -1,0 +1,70 @@
+{{FishInfobox
+|image          = Eternal Frostwhale.png
+|rarity         = Limited
+|event          = Golden Tide
+|sea            = First Sea
+|location       = [[Golden Tide]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = +120
+|xp             = 8000
+|weather        = 
+|time           = 
+|season         = 
+|bait           = Shark Head
+|base_weight    = 1500
+|base_value     = 12000
+|weight_range   = 500
+|base_chance    = 0.01
+|base_resil     = 3
+}}
+'''Eternal Frostwhale''' is a {{Rarity|Limited}} fish found in special pools in the [[Ocean]] during the [[Golden Tide]] event.
+
+== Description ==
+{{Description|An ancient behemoth that emerges only during the Golden Tide, its crystalline body seemming to contain an entire frozen cosmos. This legendary creature is said to have witnessed countless celebrations, its presence marking truly special occasions.|Bestiary Entry}}
+
+== Obtainment ==
+{{Fish Availability|
+Golden Tide
+|top_rods      = 
+Leviathan's Fang Rod\38326.86\207475.29;
+Free Spirit Rod\31593.93\201836.13;
+Trident Rod\31293.98\199919.9;
+Ethereal Prism Rod\25760.87\112486.67;
+No-Life Rod\25645.01\142287.7;
+Resourceful Rod\19822.63\92899.16;
+Destiny Rod\20862.25\104942.29;
+Heaven's Rod\19585.78\103278.54;
+Azure Of Lagoon\20396.52\122581.53;
+The Lost Rod\17750.96\91764.22;
+Volcanic Rod\16020.26\83187.38;
+Seraphic Rod\24850.43\115564.49;
+Rod Of The Forgotten Fang\23337.43\113981.94;
+Challenger's Rod\22514.06\113194.14;
+Rod Of The Depths\21023.15\109259.09;
+Rod Of The Exalted One\20635.83\107825.72;
+Zeus Rod\20584.42\105434.11;
+Verdant Shear Rod\20156.65\105655.98;
+Blazebringer Rod\19503.19\100236.9;
+Depthseeker Rod\18508.38\99359.29;
+Avalanche Rod\16684.8\89764.09;
+Steady Rod\5441.29\34270.34
+|recommended   = Trident Rod
+}}
+
+== Gameplay Notes ==
+* The Eternal Frostwhale Progress Speed penalty cannot be reduced with the {{Enchantment|Steady}} [[Enchantment]] or the {{Item|Tempest Rod}} passive ability.
+
+== Catch Quips ==
+When catching an Eternal Frostwhale, the player has a chance to make one of the following exclamations:
+* THE ETERNAL FROSTWHALE! IMPOSSIBLE!
+* A legend frozen in time!
+* The ancient one appears!
+* The tide bows to its eternal majesty!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Golden Tide}}

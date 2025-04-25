@@ -1,0 +1,69 @@
+{{FishInfobox
+|image          = Horizon Tetra.png
+|rarity         = Unusual
+|sea            = Second Sea
+|location       = [[Isle of New Beginnings]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -8
+|xp             = 88
+|weather        = Clear
+|time           = Day
+|season         = Spring
+|bait           = Flakes
+|base_weight    = 39
+|base_value     = 185
+|weight_range   = 24
+|base_chance    = 78
+|base_resil     = 45
+}}
+'''Horizon Tetra''' is an {{Rarity|Unusual}} fish found in the [[Isle of New Beginnings]].
+
+== Description ==
+{{Description|A shimmering metallic blue fish with yellow fins, glinting at the water’s edge.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It sparkles where the sun kisses the horizon.|Bestiary Hint}}
+{{Fish Availability|
+Isle of New Beginnings
+|top_rods      = 
+Trident Rod\277616.03\23650.89;
+Leviathan's Fang Rod\271236.34\23321.68;
+Free Spirit Rod\269377.85\17408.08;
+Azure Of Lagoon\247445.27\15300.25;
+Egg Rod\217358.73\19543.13;
+Fungal Rod\175923.91\17255.82;
+Antler Rod\166586.95\16339.99;
+Nocturnal Rod\105924.54\98421.61;
+Firefly Rod\215981.53\20847.14;
+Rapid Rod\172422.55\16912.39;
+Haunted Rod\170416.29\16694.51;
+Verdant Shear Rod\213906.76\18835;
+Blazebringer Rod\213626.48\18368.22;
+No-Life Rod\208509.09\17340.73;
+Seraphic Rod\190048.34\16190.75;
+Ethereal Prism Rod\186082.67\15856.97;
+Challenger's Rod\181345.71\14987.1;
+Rod Of The Forgotten Fang\179585.93\15105.91;
+Depthseeker Rod\179352.13\15780.89;
+Rod Of The Exalted One\175572.84\15196.32;
+Avalanche Rod\174891.24\15428.16;
+Volcanic Rod\173057.8\14676.59;
+Zeus Rod\172122.09\14597.23;
+Rod Of The Depths\171850.05\13908.27;
+Steady Rod\143723.27\12850.74
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Horizon Tetra, the player has a chance to make one of the following exclamations:
+* A Horizon Tetra!
+* Metallic marvel!
+* Yellow shimmer!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Isle of New Beginnings}}

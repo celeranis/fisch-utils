@@ -1,0 +1,27 @@
+{{BaitInfobox
+|image          = Bait Truffle Worm.png
+|rarity         = Legendary
+|crates         = Coral Geode/0.28, Volcanic Geode/0.12
+|angler_quests  = <!--TBD-->
+|pref_luck      = 300
+|univ_luck      = 
+|resilience     = 
+|lure           = -10
+|ability        = 
+}}
+'''Truffle Worm''' is a {{Rarity|Legendary}} [[Bait]] that can be used in fishing.
+
+== Obtainment ==
+Truffle Worms can be obtained in the following ways:
+* {{Item|Coral Geode}} (0.28/crate on average)
+* {{Item|Volcanic Geode}} (0.12/crate on average)
+<!--* [[Angler]] Quests, starting from the ?th completion-->
+
+== Favoring Fish ==
+{{Fish by Category Table|Truffle Worm-Loving Fish|event=1|show_location=1|hide_bait=1|resultsheader='''%PAGES%''' [[Fish]] prefer Truffle Worms:|noresultsheader=No fish prefer Truffle Worms.}}
+
+== Change History ==
+{{Change History|1.0}}
+
+== Navigation ==
+{{Bait Navbox}}

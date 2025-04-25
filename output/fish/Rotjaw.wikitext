@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Rotjaw.png
+|rarity         = Uncommon
+|sea            = Second Sea
+|location       = [[The Cursed Shores]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -62
+|xp             = 210
+|weather        = Foggy
+|time           = Day
+|season         = Autumn
+|bait           = Minnow
+|base_weight    = 3.6
+|base_value     = 220
+|weight_range   = 2.1
+|base_chance    = 100
+|base_resil     = 14
+}}
+'''Rotjaw''' is an {{Rarity|Uncommon}} fish found in [[The Cursed Shores]].
+
+== Description ==
+{{Description|A brutal predator that crushes all in its relentless grip.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It prowls where decay lingers.|Bestiary Hint}}
+{{Fish Availability|
+The Cursed Shores
+|top_rods      = 
+Free Spirit Rod\530390.42\12029.08;
+Leviathan's Fang Rod\419718.04\19337.32;
+Trident Rod\402735.58\17569.26;
+Azure Of Lagoon\383699.28\17717.7;
+Egg Rod\334991.14\13424.96;
+Training Rod\220644.06\70093.71;
+Flimsy Rod\201033.44\8634.72;
+Haunted Rod\191734.65\6539.55;
+Nocturnal Rod\60624.46\52436.37;
+Verdant Shear Rod\318695.44\12423.88;
+Blazebringer Rod\306468.34\12831.01;
+No-Life Rod\276750.71\11730.15;
+Seraphic Rod\245963.99\10730.13;
+Ethereal Prism Rod\226320.99\9730.42;
+Challenger's Rod\221327.22\9351.94;
+Rod Of The Forgotten Fang\207841.6\8571.25;
+Depthseeker Rod\204406.87\7551.3;
+Rod Of The Exalted One\201018.42\8186.74;
+Avalanche Rod\200232.16\7299.21;
+Steady Rod\198634.1\8535.86;
+Rod Of The Depths\197991.63\7846.3;
+Volcanic Rod\197506.79\6924.53;
+Zeus Rod\195302.4\6818.2
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Rotjaw, the player has a chance to make one of the following exclamations:
+* A Rotjaw!
+* Jaws of ruin!
+* Ugly but fierce!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|The Cursed Shores}}

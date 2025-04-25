@@ -1,0 +1,81 @@
+{{FishInfobox
+|image          = Porgy.png
+|rarity         = Common
+|sea            = First Sea
+|location       = [[Ocean]]
+|sublocation    = 
+|sources        = Fish Barrel, Fishing Rod
+|radar_location = 
+|xp             = 40
+|weather        = Clear, Foggy
+|time           = Day
+|season         = Summer, Spring
+|bait           = Shrimp
+|base_weight    = 3
+|base_value     = 90
+|weight_range   = 2.5
+|base_chance    = 60
+|base_resil     = 65
+}}
+'''Porgy''' is a {{Rarity|Common}} fish found in the [[Ocean]].
+
+== Description ==
+{{Description|Porgies are a common catch for coastal anglers. They are a relatively easy to catch ocean fish with no real special qualities besides their taste and fun to say name.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found all over the Ocean during the day and prefers shrimp.|Bestiary Hint}}
+{{Fish Availability|
+Lucky Event/Blarney McBreeze
+Lucky Event/O'Mango Goldgrin
+Lucky Event/Plumrick O'Luck
+Lucky Event/Rowdy McCharm
+Lucky Event/Sunny O'Coin
+Northern Summit/Surrounding Ocean
+Ocean
+Shark Hunt/Great Hammerhead Shark
+Shark Hunt/Great White Shark
+Shark Hunt/Whale Shark
+Snowcap Island/Surrounding Ocean
+|top_rods      = 
+Ethereal Prism Rod\77026.98\0;
+Trident Rod\75876.67\11204.67;
+Champions Rod\75349.28\14660.16;
+Summit Rod\74953.48\14361.21;
+Celestial Rod\74921.16\14710.56;
+Training Rod\73810.3\15461.54;
+Flimsy Rod\59773.31\10651.73;
+Resourceful Rod\70410.05\15154.24;
+Nocturnal Rod\52836.14\51723.16;
+Leviathan's Fang Rod\73919.1\19196.53;
+Kraken Rod\61902.07\18122.75;
+Rapid Rod\74771.97\17420.35;
+Seraphic Rod\72524.93\15714.04;
+Depthseeker Rod\74507.65\14379.66;
+Free Spirit Rod\73965.9\11171.9;
+Verdant Shear Rod\73509.37\15001.59;
+Avalanche Rod\73494.38\14228.49;
+No-Life Rod\72976.34\15385.42;
+Blazebringer Rod\70434.2\12257.86;
+Zeus Rod\69348.7\12987.11;
+Volcanic Rod\67703.81\9856.07;
+Challenger's Rod\66231.28\13963.38;
+Rod Of The Forgotten Fang\66114.19\14213.85;
+Rod Of The Depths\61283.46\12639.75;
+Rod Of The Exalted One\57465.98\12923.38;
+Steady Rod\38137.49\7733.96
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching a Porgy, the player has a chance to make one of the following exclamations:
+* A Corgi.. I mean Porgy??
+* Woah, a Porgy!
+* Nice, A Porgy!
+* A Porgy!
+* I caught a Porgy!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ocean}}

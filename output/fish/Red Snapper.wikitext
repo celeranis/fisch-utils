@@ -1,0 +1,74 @@
+{{FishInfobox
+|image          = Red Snapper.png
+|rarity         = Common
+|sea            = First Sea
+|location       = [[Moosewood]]
+|sublocation    = Saltwater
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 80
+|weather        = 
+|time           = 
+|season         = Summer, Autumn
+|bait           = 
+|base_weight    = 7
+|base_value     = 70
+|weight_range   = 6
+|base_chance    = 75
+|base_resil     = 75
+}}
+'''Red Snapper''' is a {{Rarity|Common}} fish found in [[Moosewood]].
+
+== Description ==
+{{Description|The Red Snapper is a common salt water fish that can be commonly found all around Moosewoods oceans. They are a very noticeable fish with their obvious red and light red tones.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in saltwater near Moosewood Docks. Prefers the Summer and Autumn.|Bestiary Hint}}
+{{Fish Availability|
+Moosewood/Docks
+Moosewood/Seaweed and Mini-Island
+Moosewood/Surrounding Ocean
+|top_rods      = 
+Leviathan's Fang Rod\221056.71\159305.79;
+Trident Rod\209138.95\106170.72;
+Free Spirit Rod\205546.03\105946.6;
+Azure Of Lagoon\188418.42\161760.61;
+No-Life Rod\187223.85\159788.5;
+Training Rod\156920.8\159909.02;
+Flimsy Rod\115624.71\115624.71;
+Resourceful Rod\162920.91\187288.48;
+Abyssal Specter Rod\177448.09\198684.32;
+Egg Rod\173703.59\196762.64;
+Great Dreamer Rod\171091.28\194066.89;
+Phoenix Rod\168539.74\193747.7;
+Wisdom Rod\168521.23\193726.42;
+Summit Rod\170518.11\186720.98;
+Seraphic Rod\185274.43\150268.82;
+Ethereal Prism Rod\181487.85\91073.26;
+Rod Of The Forgotten Fang\177677.84\137266.79;
+Challenger's Rod\177536.87\137593.28;
+Rod Of The Exalted One\174908.68\130931.22;
+Blazebringer Rod\172447.6\193085.38;
+Verdant Shear Rod\172144.55\193662.15;
+Zeus Rod\171841.68\191758.55;
+Rod Of The Depths\171473.85\124733.48;
+Depthseeker Rod\167804.86\184786.93;
+Volcanic Rod\167256.11\187272.6;
+Avalanche Rod\165329.76\168706.78;
+Steady Rod\80107.28\80107.28
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Red Snapper, the player has a chance to make one of the following exclamations:
+* A Red Snapper!
+* Woah! I caught a Red Snapper!
+* I caught a Red Snapper!
+* Red Snapper!!!
+* Oh Snap!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Moosewood}}

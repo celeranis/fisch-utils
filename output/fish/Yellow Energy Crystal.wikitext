@@ -1,0 +1,35 @@
+{{FishInfobox
+|image          = Yellow Energy Crystal.png
+|rarity         = Mythical
+|sea            = First Sea
+|location       = [[Regionless]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 250
+|weather        = 
+|time           = 
+|season         = 
+|bait           = 
+|base_weight    = 5
+|base_value     = 0
+|weight_range   = 2.5
+|base_chance    = 0.001
+|base_resil     = 100
+}}
+'''Yellow Energy Crystal''' is a {{Rarity|Mythical}} fish found in [[Regionless]].
+
+== Description ==
+{{Description|A yellow-hued crystal, told to possess mystical powers.|Bestiary Entry}}
+
+== Obtainment ==
+
+== Catch Quips ==
+When catching a Yellow Energy Crystal, the player has a chance to make one of the following exclamations:
+* Found a Meg Spine!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Regionless}}

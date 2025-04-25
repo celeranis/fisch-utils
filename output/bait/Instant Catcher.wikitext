@@ -1,0 +1,29 @@
+{{BaitInfobox
+|image          = Bait Instant Catcher.png
+|rarity         = Legendary
+|crates         = Bait Crate/0.34, Coral Geode/0.09, Quality Bait Crate/0.45, Volcanic Geode/0.12
+|angler_quests  = <!--TBD-->
+|pref_luck      = 
+|univ_luck      = -20
+|resilience     = -15
+|lure           = 65
+|ability        = 
+}}
+'''Instant Catcher''' is a {{Rarity|Legendary}} [[Bait]] that can be used in fishing.
+
+== Obtainment ==
+Instant Catchers can be obtained in the following ways:
+* {{Item|Bait Crate}} (0.34/crate on average)
+* {{Item|Coral Geode}} (0.09/crate on average)
+* {{Item|Quality Bait Crate}} (0.45/crate on average)
+* {{Item|Volcanic Geode}} (0.12/crate on average)
+<!--* [[Angler]] Quests, starting from the ?th completion-->
+
+== Favoring Fish ==
+{{Fish by Category Table|Instant Catcher-Loving Fish|event=1|show_location=1|hide_bait=1|resultsheader='''%PAGES%''' [[Fish]] prefer Instant Catchers:|noresultsheader=No fish prefer Instant Catchers.}}
+
+== Change History ==
+{{Change History|1.0}}
+
+== Navigation ==
+{{Bait Navbox}}

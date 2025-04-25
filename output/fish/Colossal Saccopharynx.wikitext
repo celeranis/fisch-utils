@@ -1,0 +1,65 @@
+{{FishInfobox
+|image          = Colossal Saccopharynx.png
+|rarity         = Uncommon
+|sea            = First Sea
+|location       = [[Abyssal Zenith]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 90
+|weather        = Windy
+|time           = 
+|season         = 
+|bait           = Flakes
+|base_weight    = 200
+|base_value     = 100
+|weight_range   = 120
+|base_chance    = 55
+|base_resil     = 70
+}}
+'''Colossal Saccopharynx''' is an {{Rarity|Uncommon}} fish found in the [[Abyssal Zenith]] of [[Mariana's Veil]].
+
+== Description ==
+{{Description|A large, eel-like fish with a jaw that can unhinge to swallow prey whole.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Discovered in the deepest ends of the abyss, especially during gusty weather.|Bestiary Hint}}
+{{Fish Availability|
+Mariana's Veil/Abyssal Zenith
+|top_rods      = 
+Fungal Rod\161430.07\160640;
+Ethereal Prism Rod\161189.75\234116.67;
+Fast Rod\160058.59\160058.59;
+Firefly Rod\159646.67\158865.33;
+Rapid Rod\158389.49\152606.63;
+Antler Rod\149231.89\148501.53;
+Leviathan's Fang Rod\151698.85\160823.17;
+Fortune Rod\86650.08\127695.61;
+No-Life Rod\155407.65\155397.21;
+Seraphic Rod\154207.43\154197.07;
+Depthseeker Rod\146368.76\120381.28;
+Avalanche Rod\144699.12\107930.93;
+Verdant Shear Rod\144225.84\131534.72;
+Challenger's Rod\141255.06\141245.57;
+Rod Of The Forgotten Fang\140825.76\140816.31;
+Trident Rod\136732.19\109434.31;
+Free Spirit Rod\133901.89\109161.73;
+Blazebringer Rod\133577.18\124052.28;
+Zeus Rod\131900.8\131441.2;
+Volcanic Rod\128797.69\99749.7;
+Rod Of The Depths\127926.73\127918.14;
+Rod Of The Exalted One\120159.63\120151.57;
+Steady Rod\77496.78\58266.6
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching a Colossal Saccopharynx, the player has a chance to make one of the following exclamations:
+* A Colossal Saccopharynx!
+* It's like a living nightmare!!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Abyssal Zenith}}

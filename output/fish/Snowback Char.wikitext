@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Snowback Char.png
+|rarity         = Unusual
+|sea            = First Sea
+|location       = [[Cryogenic Canal]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 150
+|weather        = 
+|time           = Day
+|season         = Winter
+|bait           = Insect
+|base_weight    = 7.5
+|base_value     = 320
+|weight_range   = 4
+|base_chance    = 45
+|base_resil     = 55
+}}
+'''Snowback Char''' is an {{Rarity|Unusual}} fish found in the [[Cryogenic Canal]].
+
+== Description ==
+{{Description|A majestic cold-water fish with crystalline scales that shimmer like fresh snow.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in the deeper sections of the canal.|Bestiary Hint}}
+{{Fish Availability|
+Cryogenic Canal
+|top_rods      = 
+Champions Rod\118821.35\15404.47;
+Celestial Rod\117404.54\15904.91;
+Firefly Rod\116664.55\23112.04;
+Rapid Rod\116246.74\19832.32;
+Ice Warpers Rod\116021.5\15831.69;
+Training Rod\115451.39\26814.52;
+Flimsy Rod\77243.02\16387.73;
+Fungal Rod\109780.49\19858.79;
+Nocturnal Rod\79648.42\45934.5;
+Ethereal Prism Rod\108304.96\22326.51;
+No-Life Rod\108562.73\21308.15;
+Avalanche Rod\111771.08\14704.28;
+Depthseeker Rod\111560.82\16414.51;
+Seraphic Rod\107257.64\21051.99;
+Verdant Shear Rod\103850.94\17911.53;
+Challenger's Rod\98197.78\19273.77;
+Rod Of The Forgotten Fang\97857.15\19206.91;
+Blazebringer Rod\94257.63\16903.97;
+Zeus Rod\93515.9\17904.28;
+Volcanic Rod\91233.63\13588.4;
+Rod Of The Depths\88790.22\17427.3;
+Trident Rod\86634.76\15173.48;
+Rod Of The Exalted One\83442.17\16377.61;
+Free Spirit Rod\83281.98\15112.79;
+Steady Rod\54530.79\7420.05
+|recommended   = Training Rod
+}}
+
+== Catch Quips ==
+When catching a Snowback Char, the player has a chance to make one of the following exclamations:
+* A Snowback Char!
+* What a beautiful char!
+* Arctic beauty!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Cryogenic Canal}}

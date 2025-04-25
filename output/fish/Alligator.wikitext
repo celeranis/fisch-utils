@@ -1,0 +1,66 @@
+{{FishInfobox
+|image          = Alligator.png
+|rarity         = Legendary
+|sea            = First Sea
+|location       = [[Mushgrove Swamp]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -20
+|xp             = 400
+|weather        = 
+|time           = Night
+|season         = Spring
+|bait           = Fish Head
+|base_weight    = 300
+|base_value     = 700
+|weight_range   = 150
+|base_chance    = 0.9
+|base_resil     = 15
+}}
+'''Alligator''' is a {{Rarity|Legendary}} fish found in [[Mushgrove Swamp]].
+
+== Description ==
+{{Description|The Alligator is a massive, fearsome reptile known for its powerful bite and armoured body. Found in Mushgrove Swamp, Alligators are the apex predator with a stealthy and ambush-based hunting style.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in Mushgrove Swamp during the night.|Bestiary Hint}}
+{{Fish Availability|
+Mushgrove Swamp
+|top_rods      = 
+Leviathan's Fang Rod\44067.18\187379.99;
+Free Spirit Rod\33666.91\179603.93;
+Trident Rod\32716.89\174535.81;
+Ethereal Prism Rod\32384.62\114510.21;
+Seraphic Rod\30821.3\115556.66;
+Resourceful Rod\25060.96\90095.68;
+Destiny Rod\26206.88\93286.45;
+Heaven's Rod\23281.51\97794.52;
+No-Life Rod\30477.56\125294.77;
+Rod Of The Depths\25335.52\97120.01;
+Rod Of The Zenith\26978.84\99269.09;
+Rod Of The Forgotten Fang\28591.37\108488.84;
+Challenger's Rod\27399.93\109598.69;
+Rod Of The Exalted One\25403.08\93503.09;
+Zeus Rod\24393.53\99268.65;
+Verdant Shear Rod\23739.62\98280.54;
+Blazebringer Rod\23232.76\94993.92;
+Depthseeker Rod\21980\93642.71;
+Avalanche Rod\19672.53\83557.83;
+Volcanic Rod\19014.52\78430.88;
+Steady Rod\6172.94\28375.25
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching an Alligator, the player has a chance to make one of the following exclamations:
+* WOAH!!
+* OH MY GOD!!
+* AN ALLIGATOR!
+* WHAT????
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Mushgrove Swamp}}

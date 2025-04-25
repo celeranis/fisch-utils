@@ -1,0 +1,25 @@
+{{BaitInfobox
+|image          = Bait Hangman's Hook.png
+|rarity         = Mythical
+|crates         = 
+|angler_quests  = <!--TBD-->
+|pref_luck      = 150
+|univ_luck      = 35
+|resilience     = 20
+|lure           = -5
+|ability        = 
+}}
+'''Hangman's Hook''' is a {{Rarity|Mythical}} [[Bait]] that can be used in fishing.
+
+== Obtainment ==
+Hangman's Hooks can be obtained in the following ways:
+<!--* [[Angler]] Quests, starting from the ?th completion-->
+
+== Favoring Fish ==
+{{Fish by Category Table|Hangman's Hook-Loving Fish|event=1|show_location=1|hide_bait=1|resultsheader='''%PAGES%''' [[Fish]] prefer Hangman's Hooks:|noresultsheader=No fish prefer Hangman's Hooks.}}
+
+== Change History ==
+{{Change History|1.0}}
+
+== Navigation ==
+{{Bait Navbox}}

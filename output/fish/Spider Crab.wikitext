@@ -1,0 +1,65 @@
+{{FishInfobox
+|image          = Spider Crab.png
+|rarity         = Rare
+|sea            = First Sea
+|location       = [[The Depths]]
+|sublocation    = 
+|sources        = Crab Cage
+|radar_location = 
+|xp             = 135
+|weather        = 
+|time           = Day
+|season         = Summer
+|bait           = Deep Coral
+|base_weight    = 25
+|base_value     = 550
+|weight_range   = 17
+|base_chance    = 20
+|base_resil     = 60
+}}
+'''Spider Crab''' is a {{Rarity|Rare}} fish found in [[The Depths]].
+
+== Description ==
+{{Description|A large, eerie crab with long, spindly legs and a tough, armoured shell.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Can be found during the day through fishing or inside crab cages.|Bestiary Hint}}
+{{Fish Availability|
+The Depths
+The Depths/Absolute Darkness
+|top_rods      = 
+Krampus's Rod\255793.29\83594.36;
+Magma Rod\246221.08\80466.12;
+Plastic Rod\225125.53\73592.36;
+Fast Rod\224190.68\58623.89;
+Leviathan's Fang Rod\201309.95\41394.3;
+Flimsy Rod\158794.89\61708.28;
+Trident Rod\181159.84\30919.19;
+Free Spirit Rod\175544.55\29960.8;
+No-Life Rod\163392.07\37113.91;
+Seraphic Rod\154829.08\36781.69;
+Ethereal Prism Rod\153537.9\37430.8;
+Challenger's Rod\153371.48\33890.32;
+Rod Of The Forgotten Fang\151554.8\34526.21;
+Rod Of The Exalted One\148520.76\30242.86;
+Verdant Shear Rod\144422.07\30845.28;
+Zeus Rod\143826.14\31200.07;
+Rod Of The Depths\139234.51\31291.9;
+Blazebringer Rod\137041.46\29610.7;
+Depthseeker Rod\133054.18\28369.69;
+Avalanche Rod\120148.42\25634.43;
+Training Rod\116956.35\27333.04;
+Volcanic Rod\113758.01\24310.09;
+Steady Rod\47280.61\8264.3
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Spider Crab, the player has a chance to make one of the following exclamations:
+* Is that a Spider.. Or a Crab??
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|The Depths}}

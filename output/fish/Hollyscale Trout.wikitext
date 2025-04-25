@@ -1,0 +1,36 @@
+{{FishInfobox
+|image          = Hollyscale Trout.png
+|rarity         = Limited
+|event          = Winter's Edge
+|sea            = First Sea
+|location       = [[Winter's Edge]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 50
+|weather        = 
+|time           = 
+|season         = 
+|bait           = Insect
+|base_weight    = 1
+|base_value     = 150
+|weight_range   = 0.5
+|base_chance    = 30
+|base_resil     = 25
+}}
+'''Hollyscale Trout''' is a {{Rarity|Limited}} fish found in [[Winter's Edge]] during the [[Winter's Edge]] event.
+
+== Description ==
+{{Description|Colorful and proud, even if he's not that rare.|Bestiary Entry}}
+
+== Obtainment ==
+
+== Catch Quips ==
+When catching a Hollyscale Trout, the player has a chance to make one of the following exclamations:
+* Found a Hollyscale Trout!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Winter's Edge}}

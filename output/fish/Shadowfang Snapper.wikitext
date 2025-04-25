@@ -1,0 +1,71 @@
+{{FishInfobox
+|image          = Shadowfang Snapper.png
+|rarity         = Uncommon
+|sea            = First Sea
+|location       = [[Atlantis]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 120
+|weather        = 
+|time           = Night
+|season         = 
+|bait           = Fish Head
+|base_weight    = 5
+|base_value     = 200
+|weight_range   = 3
+|base_chance    = 60
+|base_resil     = 75
+}}
+'''Shadowfang Snapper''' is an {{Rarity|Uncommon}} fish found in [[Atlantis]].
+
+== Description ==
+{{Description|A twisted snapper warped by the Kraken's influence, with teeth sharp enough to pierce steel and scales that seem to absorb light.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Hunts in the shadowy corners of Kraken's Pool.|Bestiary Hint}}
+{{Fish Availability|
+Atlantis/Ancient Kraken Hunt
+Atlantis/Kraken Hunt
+Atlantis/Kraken Pool
+|top_rods      = 
+Training Rod\290409.48\290409.48;
+Firefly Rod\254897.23\223136.78;
+Rapid Rod\248782.48\207250.46;
+Summit Rod\245209.1\160326.57;
+Azure Of Lagoon\244181.09\151798.24;
+Flimsy Rod\201145.33\183639.71;
+Fungal Rod\236285.68\225311.02;
+No-Life Rod\241204.14\220385.82;
+Fast Rod\237187\219501.2;
+Plastic Rod\160182.45\150400.73;
+Depthseeker Rod\242624.81\171000;
+Verdant Shear Rod\239699.71\186893.2;
+Avalanche Rod\239598.7\153349.51;
+Blazebringer Rod\233336.7\176229.2;
+Zeus Rod\231733.27\186764.31;
+Trident Rod\231542.72\154700.02;
+Free Spirit Rod\227564.92\154373.45;
+Volcanic Rod\226312.16\141730.24;
+Challenger's Rod\220833.96\200485.44;
+Seraphic Rod\218954.8\218954.8;
+Ethereal Prism Rod\211747.94\175294.08;
+Rod Of The Depths\202193.62\181747.57;
+Rod Of The Forgotten Fang\200009.71\200009.71;
+Rod Of The Exalted One\179847.68\170689.66;
+Steady Rod\107430.58\72702.23
+|recommended   = Training Rod
+}}
+
+== Catch Quips ==
+When catching a Shadowfang Snapper, the player has a chance to make one of the following exclamations:
+* A SHADOWFANG SNAPPER!
+* THOSE TEETH!
+* DARKNESS BITES!
+* SHADOW HUNTER!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Atlantis}}

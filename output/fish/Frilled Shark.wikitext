@@ -1,0 +1,64 @@
+{{FishInfobox
+|image          = Frilled Shark.png
+|rarity         = Unusual
+|sea            = First Sea
+|location       = [[The Depths]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 45
+|weather        = 
+|time           = Night
+|season         = 
+|bait           = Fish Head
+|base_weight    = 9
+|base_value     = 150
+|weight_range   = 5
+|base_chance    = 50
+|base_resil     = 70
+}}
+'''Frilled Shark''' is an {{Rarity|Unusual}} fish found in [[The Depths]].
+
+== Description ==
+{{Description|A serpentine predator with a ruffled neck and razor-sharp teeth, ancient and elusive.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Hides in deep ocean caves near rocky crevices, appears during the Night time.|Bestiary Hint}}
+{{Fish Availability|
+The Depths
+The Depths/Absolute Darkness
+|top_rods      = 
+Ethereal Prism Rod\126676.41\249133.62;
+Leviathan's Fang Rod\119873.44\162820.31;
+No-Life Rod\118746.5\118746.5;
+Seraphic Rod\117829.41\117829.41;
+Training Rod\117399.81\219323.75;
+Flimsy Rod\91872.45\89645.54;
+Magnet Rod\75334.04\72521.26;
+Fortune Rod\70274.74\150788.93;
+Kraken Rod\100150.94\147608.48;
+Challenger's Rod\107932.55\107932.55;
+Rod Of The Forgotten Fang\107604.52\107604.52;
+Depthseeker Rod\106741.76\91989.13;
+Avalanche Rod\105585.72\82475.22;
+Verdant Shear Rod\100504.52\100504.52;
+Zeus Rod\100440.55\100440.55;
+Rod Of The Depths\97748.41\97748.41;
+Blazebringer Rod\94787.25\94787.25;
+Rod Of The Exalted One\94297.88\112573.96;
+Volcanic Rod\87709.64\76223.55;
+Trident Rod\83617.79\83617.79;
+Free Spirit Rod\83409.51\83409.51;
+Steady Rod\56444.82\35383.46
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching a Frilled Shark, the player has a chance to make one of the following exclamations:
+* That's a large frilled shark!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|The Depths}}

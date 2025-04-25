@@ -1,0 +1,82 @@
+{{FishInfobox
+|image          = Driftwood.png
+|rarity         = Trash
+|sea            = First Sea
+|location       = [[Regionless]]
+|sublocation    = 
+|sources        = Crab Cage, Fishing Rod
+|radar_location = 
+|xp             = 30
+|weather        = 
+|time           = 
+|season         = 
+|bait           = Magnet
+|base_weight    = 0.6
+|base_value     = 10
+|weight_range   = 0
+|base_chance    = 17
+|base_resil     = 120
+}}
+'''Driftwood''' is a {{Rarity|Trash}} fish found in [[Regionless]].
+
+== Description ==
+{{Description|A wood that has been washed up onto the shore by the tides. Could be great for a crafts project!|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Find it washed on beaches.|Bestiary Hint}}
+{{Fish Availability|
+Moosewood/Docks
+Moosewood/Freshwater Pond
+Mushgrove Swamp
+Roslit Bay/Clam Abundance
+Roslit Bay/Coral Reef
+Roslit Bay/Freshwater Pond
+Roslit Bay/Freshwater Pond Seaweed
+Roslit Bay/Surrounding Ocean
+Shark Hunt/Great Hammerhead Shark
+Shark Hunt/Great White Shark
+Shark Hunt/Whale Shark
+Sunstone Island
+Sunstone Island/Crate Cave
+Terrapin Island/Olm Cave
+Terrapin Island/Surrounding Ocean
+|top_rods      = 
+Training Rod\119692.53\561847.51;
+Flimsy Rod\110672.54\787327.19;
+Fast Rod\77807.69\77807.69;
+No-Life Rod\76291.17\76291.17;
+Firefly Rod\76096.51\69513.28;
+Magnet Rod\71604.72\394927.01;
+Heaven's Rod\54712.65\324883;
+Ethereal Prism Rod\75453.25\101637;
+Seraphic Rod\75990.83\75990.83;
+Challenger's Rod\69555.36\69555.36;
+Rod Of The Forgotten Fang\69390.31\69390.31;
+Verdant Shear Rod\65025\65025;
+Zeus Rod\64858.27\64858.27;
+Rod Of The Depths\63216.22\63216.22;
+Blazebringer Rod\61240.72\61240.72;
+Depthseeker Rod\59325.84\59325.84;
+Rod Of The Exalted One\59265.21\59265.21;
+Avalanche Rod\53338.69\53338.69;
+Free Spirit Rod\53052.11\53052.11;
+Trident Rod\52809.59\52809.59;
+Volcanic Rod\49261.36\49261.36;
+Steady Rod\40494.35\36991.12
+|recommended   = Training Rod
+}}
+
+== Catch Quips ==
+When catching a Driftwood, the player has a chance to make one of the following exclamations:
+* Ermm..?
+* Uhmm..?
+* Driftwood!
+* Oh. Driftwood.
+* It's!- Oh.. Driftwood..
+* Driftwood..
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Regionless}}

@@ -1,0 +1,81 @@
+{{FishInfobox
+|image          = Anglerfish.png
+|rarity         = Rare
+|sea            = First Sea
+|location       = [[Ocean]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 100
+|weather        = Foggy
+|time           = Night
+|season         = Winter, Autumn
+|bait           = Squid
+|base_weight    = 2
+|base_value     = 230
+|weight_range   = 1.5
+|base_chance    = 12
+|base_resil     = 35
+}}
+'''Anglerfish''' is a {{Rarity|Rare}} fish found in the [[Ocean]].
+
+== Description ==
+{{Description|The anglerfish is a deep-sea predator known for it's bioluminescent lure that dangles in front of its mouth to attract prey. With its menacing appearance, sharp teeth, and eerie glow, the Anglerfish thrives in dark, deep waters, making it a rare and exciting catch in the Deep Ocean.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in the far, deep ocean during the night.|Bestiary Hint}}
+{{Fish Availability|
+Ancient Isle/Algae Hunt
+Atlantis/Surrounding Ocean
+FischFright/Frightful Pool
+Forsaken Shores/Algae Hunt
+Golden Tide
+Lovestorm/Normal
+Lovestorm/Supercharged
+Megalodon Hunt/Eclipse and Weekend
+Megalodon Hunt/Normal
+Mushgrove Swamp/Algae Hunt
+Ocean/Deep Ocean
+Orca Migration/Ancient
+Orca Migration/Normal
+Snowcap Island/Algae Hunt
+Whale Migration/Moby
+Whale Migration/Normal
+|top_rods      = 
+Krampus's Rod\40790.26\50838.5;
+Leviathan's Fang Rod\40213.76\51184.01;
+Trident Rod\37855.86\51025.94;
+Magma Rod\37565.48\46819.33;
+Plastic Rod\35511.17\44233.65;
+Flimsy Rod\32130\68192.26;
+Buddy Bond Rod\26351.72\33164.58;
+Training Rod\23242.19\69255.36;
+Free Spirit Rod\33380.28\44993.29;
+Ethereal Prism Rod\30329.4\33890.77;
+No-Life Rod\29825.86\35507.71;
+Seraphic Rod\29537.76\33849.05;
+Rod Of The Forgotten Fang\27643.08\32462.61;
+Challenger's Rod\26976.58\32278.17;
+Rod Of The Depths\24910.5\29434.4;
+Zeus Rod\24654.34\29672.96;
+Rod Of The Exalted One\24304.94\29867.09;
+Verdant Shear Rod\24301.8\29403.28;
+Blazebringer Rod\23418.82\28305.73;
+Depthseeker Rod\22401.96\27459.01;
+Avalanche Rod\20194.97\24811.09;
+Volcanic Rod\19211.24\23464.61;
+Steady Rod\8211.52\8861.59
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching an Anglerfish, the player has a chance to make one of the following exclamations:
+* Woah, an Anglerfish!
+* No way! An anglerfish!
+* I caught an Anglerfish!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ocean}}

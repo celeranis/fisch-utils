@@ -1,0 +1,69 @@
+{{FishInfobox
+|image          = Barbed Shark.png
+|rarity         = Legendary
+|sea            = First Sea
+|location       = [[Desolate Deep]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -60
+|xp             = 4000
+|weather        = 
+|time           = 
+|season         = 
+|bait           = Fish Head
+|base_weight    = 950
+|base_value     = 8300
+|weight_range   = 250
+|base_chance    = 0.08
+|base_resil     = 10
+}}
+'''Barbed Shark''' is a {{Rarity|Legendary}} fish found in the [[Desolate Deep]].
+
+== Description ==
+{{Description|The Barbed Shark, a fierce apex predator within the Desolate Deep, is not a fish to be messed with. When they bite on to a hook, they put up a fierce fight, but give a great reward due to the valuable materials that make up their many scales.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Can be found within the Desolate Deep|Bestiary Hint}}
+{{Fish Availability|
+Desolate Deep/Desolate Pocket
+|top_rods      = 
+Leviathan's Fang Rod\8261.63\47575.94;
+Free Spirit Rod\7703.51\44298.56;
+Trident Rod\7205.52\41434.86;
+No-Life Rod\6195.81\34993.48;
+Ethereal Prism Rod\6130\34198.04;
+Resourceful Rod\4518.02\25090.71;
+Destiny Rod\4630.35\25679.58;
+Heaven's Rod\4257.47\23807.09;
+Seraphic Rod\6120.52\34341.58;
+Challenger's Rod\5664.61\31968.37;
+Rod Of The Forgotten Fang\5590.1\31386.95;
+Rod Of The Depths\4907.57\27613.21;
+Zeus Rod\4896.19\27720.54;
+Verdant Shear Rod\4825.53\27390.64;
+Rod Of The Exalted One\4792.48\26819.17;
+Blazebringer Rod\4711.28\26673.6;
+Depthseeker Rod\4608.91\26184.35;
+Avalanche Rod\4066\23108.26;
+Volcanic Rod\3825.23\21657.11;
+Steady Rod\1383.56\7913.92
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Barbed Shark, the player has a chance to make one of the following exclamations:
+* FINALLY!
+* FINALLY! I CAUGHT A BARBED SHARK!!
+* ALKSJDAHASBDJH
+* holy barb
+* BUHBUHBUHBARBED SHARK?!
+* olm my BARB!!!
+* YES YES YES!! BARBED SHARK!
+* AHHHHHHHHHHHHHHHHHHH
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Desolate Deep}}

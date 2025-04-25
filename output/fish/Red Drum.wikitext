@@ -1,0 +1,65 @@
+{{FishInfobox
+|image          = Red Drum.png
+|rarity         = Common
+|sea            = First Sea
+|location       = [[Snowcap Island]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 50
+|weather        = 
+|time           = 
+|season         = Spring, Autumn
+|bait           = Insect
+|base_weight    = 2.5
+|base_value     = 80
+|weight_range   = 1.5
+|base_chance    = 40
+|base_resil     = 50
+}}
+'''Red Drum''' is a {{Rarity|Common}} fish found in [[Snowcap Island]].
+
+== Description ==
+{{Description|The Red Drum is a close relative to the Black Drum; Red Drum can be found all around Snowcaps vast salt-waters.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in salt-water of Snowcap.|Bestiary Hint}}
+{{Fish Availability|
+Snowcap Island/Surrounding Ocean
+|top_rods      = 
+Ethereal Prism Rod\42451.69\63681.98;
+Leviathan's Fang Rod\40441.85\44951.6;
+No-Life Rod\40211.97\40211.97;
+Seraphic Rod\39661.03\39661.03;
+Celestial Rod\39373.78\31883.99;
+Training Rod\36192.45\49946.44;
+Fortune Rod\23430.62\40937.91;
+Challenger's Rod\36303.88\36303.88;
+Rod Of The Forgotten Fang\36171.77\36171.77;
+Avalanche Rod\34402.46\27678.87;
+Depthseeker Rod\34295.93\30909.19;
+Verdant Shear Rod\33710.75\33710.75;
+Zeus Rod\33700.83\33700.83;
+Rod Of The Depths\32804.58\32804.58;
+Blazebringer Rod\31823.18\31823.18;
+Rod Of The Exalted One\30972.93\31467.24;
+Trident Rod\28762.32\28762.32;
+Free Spirit Rod\28628.1\28628.1;
+Volcanic Rod\25644.45\25577.64;
+Steady Rod\20121.31\16827.01
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching a Red Drum, the player has a chance to make one of the following exclamations:
+* A Red Drum!
+* I caught a Red Drum!
+* Woah, a Drum!
+* It'a Red Drum!
+* All I see is Red Drum.
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Snowcap Island}}

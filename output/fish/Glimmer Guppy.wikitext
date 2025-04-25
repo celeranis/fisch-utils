@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Glimmer Guppy.png
+|rarity         = Unusual
+|sea            = Second Sea
+|location       = [[Azure Lagoon]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -30
+|xp             = 90
+|weather        = Foggy
+|time           = Day
+|season         = Winter
+|bait           = Flakes
+|base_weight    = 96
+|base_value     = 195
+|weight_range   = 60
+|base_chance    = 80
+|base_resil     = 34
+}}
+'''Glimmer Guppy''' is an {{Rarity|Unusual}} fish found in the [[Azure Lagoon]].
+
+== Description ==
+{{Description|A dark pastel purple fish with pink fins and yellow spots, shimmering faintly.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It glints where the mist cloaks the lagoon.|Bestiary Hint}}
+{{Fish Availability|
+Azure Lagoon
+|top_rods      = 
+Free Spirit Rod\252348.97\13832.3;
+Trident Rod\249379.01\24759.28;
+Leviathan's Fang Rod\247430\23755.45;
+Azure Of Lagoon\209926.57\12762.73;
+Egg Rod\175006.04\17411.24;
+Plastic Rod\130304.19\14139.8;
+Fischer's Rod\135565.81\14228.28;
+Candy Cane Rod\115202.88\12116.89;
+Nocturnal Rod\68543.26\66531.16;
+Great Dreamer Rod\165655.78\16595.78;
+No-Life Rod\168554.78\15963.41;
+Verdant Shear Rod\167983.35\16489.08;
+Blazebringer Rod\165128.62\15853.79;
+Seraphic Rod\149338.19\14826.85;
+Ethereal Prism Rod\148742.84\14231.23;
+Challenger's Rod\141005.31\13276.94;
+Rod Of The Forgotten Fang\137707.38\13592.21;
+Depthseeker Rod\134835.07\13255.71;
+Rod Of The Exalted One\132735.68\12875.22;
+Avalanche Rod\125894.71\12391.38;
+Volcanic Rod\125779.05\12094.35;
+Zeus Rod\125027.55\12022.09;
+Rod Of The Depths\124965.19\11787.3;
+Steady Rod\107871.58\10732.16
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Glimmer Guppy, the player has a chance to make one of the following exclamations:
+* A Glimmer Guppy!
+* Pastel sparkle!
+* Spotty glow!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Azure Lagoon}}

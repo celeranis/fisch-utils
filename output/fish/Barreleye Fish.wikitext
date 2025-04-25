@@ -1,0 +1,64 @@
+{{FishInfobox
+|image          = Barreleye Fish.png
+|rarity         = Mythical
+|sea            = First Sea
+|location       = [[The Depths]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -15
+|xp             = 950
+|weather        = 
+|time           = Night
+|season         = Summer
+|bait           = Deep Coral
+|base_weight    = 15
+|base_value     = 4500
+|weight_range   = 10
+|base_chance    = 0.01
+|base_resil     = 20
+}}
+'''Barreleye Fish''' is a {{Rarity|Mythical}} fish found in [[The Depths]].
+
+== Description ==
+{{Description|A transparent fish with a dome-shaped head and large, upward-facing eyes, adapted for deep waters with it's 3 eyes. The third eye has a similar effect that night-vision goggles have, giving it full 20/20 vision, even in the darkest of waters.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in the deep ocean during the Night, drifting near bioluminescent creatures.|Bestiary Hint}}
+{{Fish Availability|
+The Depths
+The Depths/Absolute Darkness
+|top_rods      = 
+Leviathan's Fang Rod\132492.54\215525.67;
+Free Spirit Rod\117441.65\178886.63;
+Trident Rod\114345.71\174170.91;
+No-Life Rod\87068.8\142395.38;
+Seraphic Rod\78740.66\126821.46;
+Flimsy Rod\71689.87\221981.89;
+Training Rod\57085.92\130942;
+Lucky Rod\54314.55\86195.08;
+Adventurer's Rod\47961.25\82501.04;
+Ethereal Prism Rod\78172.73\126566.46;
+Challenger's Rod\77184.94\126434.9;
+Rod Of The Forgotten Fang\76446.1\123939.21;
+Zeus Rod\70508.46\111671.93;
+Verdant Shear Rod\70060.16\110052.61;
+Rod Of The Depths\68890.94\112155.55;
+Blazebringer Rod\67409.93\106764.46;
+Rod Of The Exalted One\66643.94\106323.07;
+Depthseeker Rod\65566.22\102618.85;
+Avalanche Rod\58413.82\92389.46;
+Volcanic Rod\55732.62\88269.83;
+Steady Rod\19327.82\38589.73
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Barreleye Fish, the player has a chance to make one of the following exclamations:
+* That fish is translucent, beautiful...
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|The Depths}}

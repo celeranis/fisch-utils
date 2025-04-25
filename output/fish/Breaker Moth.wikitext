@@ -1,0 +1,66 @@
+{{FishInfobox
+|image          = Breaker Moth.png
+|rarity         = Legendary
+|sea            = Second Sea
+|location       = [[Waveborne]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -35
+|xp             = 550
+|weather        = Foggy
+|time           = Night
+|season         = Spring
+|bait           = Gale Grub
+|base_weight    = 80
+|base_value     = 1100
+|weight_range   = 50
+|base_chance    = 20
+|base_resil     = 25
+}}
+'''Breaker Moth''' is a {{Rarity|Legendary}} fish found in [[Waveborne]].
+
+== Description ==
+{{Description|A grey fish with sharp teeth, golden accents, and light purple fins, snapping through the tide.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It emerges when the moon glows faintly.|Bestiary Hint}}
+{{Fish Availability|
+Waveborne
+|top_rods      = 
+Plastic Rod\219532.49\285263.26;
+Steady Rod\142836.82\133638.55;
+Fischer's Rod\136572.93\298877.34;
+Frostfire Rod\134001.56\125372.25;
+Krampus's Rod\119595.82\146104.07;
+Free Spirit Rod\104456.3\195382.66;
+Adventurer's Rod\68849.47\165009.61;
+Firefly Rod\71338.19\162189.68;
+Verdant Shear Rod\72306.46\121599.64;
+Blazebringer Rod\70548.71\117149.65;
+Trident Rod\70270.96\118574.41;
+Ethereal Prism Rod\49005.32\83208.81;
+Seraphic Rod\48146.78\84935.92;
+No-Life Rod\47569.59\82131.57;
+Rod Of The Exalted One\45572.34\78251.57;
+Rod Of The Forgotten Fang\45284.18\78939.84;
+Challenger's Rod\44581.26\74624.28;
+Rod Of The Depths\44065.38\74552.25;
+Volcanic Rod\42491.62\72297.98;
+Depthseeker Rod\42385.05\73397.27;
+Zeus Rod\42256.36\71897.69;
+Avalanche Rod\41931.54\72742.49
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Breaker Moth, the player has a chance to make one of the following exclamations:
+* A BREAKER MOTH!
+* TEETH LIKE DAGGERS!
+* GOLDEN SNAP!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Waveborne}}

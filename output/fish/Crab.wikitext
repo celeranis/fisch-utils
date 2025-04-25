@@ -1,0 +1,40 @@
+{{FishInfobox
+|image          = Crab.png
+|rarity         = Uncommon
+|sea            = First Sea
+|location       = [[Ocean]]
+|sublocation    = 
+|sources        = Crab Cage, Fish Barrel
+|radar_location = 
+|xp             = 50
+|weather        = 
+|time           = 
+|season         = Spring, Autumn
+|bait           = 
+|base_weight    = 1.4
+|base_value     = 100
+|weight_range   = 0.8
+|base_chance    = 40
+|base_resil     = 90
+}}
+'''Crab''' is an {{Rarity|Uncommon}} fish found in the [[Ocean]].
+
+== Description ==
+{{Description|Crabs are cute crustaceans that search the ocean floor for food. They can be found in plenty of ocean regions. Be careful, some can have harshly strong claws.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Can be caught while cage fishing in open oceans.|Bestiary Hint}}
+
+== Catch Quips ==
+When catching a Crab, the player has a chance to make one of the following exclamations:
+* A Crusty Crab!
+* Woah! A Crab
+* Awesome!
+* A Crab!
+* Ou! A Crab!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ocean}}

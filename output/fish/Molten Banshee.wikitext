@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Molten Banshee.png
+|rarity         = Exotic
+|sea            = First Sea
+|location       = [[Roslit Volcano]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -35
+|xp             = 2000
+|weather        = Clear
+|time           = 
+|season         = Summer
+|bait           = Truffle Worm
+|base_weight    = 550
+|base_value     = 6500
+|weight_range   = 250
+|base_chance    = 0.01
+|base_resil     = 40
+}}
+'''Molten Banshee''' is an {{Rarity|Exotic}} fish found in the [[Roslit Bay#Roslit Volcano|Volcano]] in [[Roslit Bay]].
+
+== Description ==
+{{Description|The Molten Banshee is a complex fish of unknown terrestrial origin, that has resided inside the Roslit Volcano. It possesses a torpedo-like body with many sharp mandibles and scorching hot encrustments. They are rumored to have possibly come from another planet, and may be a bio-mechanical lifeform.|Bestiary Entry}}
+
+== Obtainment ==
+{{Fish Availability|
+Roslit Bay/Roslit Volcano
+|top_rods      = 
+Leviathan's Fang Rod\20771.36\111801.2;
+Ethereal Prism Rod\20274.57\76635.77;
+Seraphic Rod\19122.3\79156.99;
+No-Life Rod\18428.97\82101.84;
+Tempest Rod\18017.06\77284.6;
+Resourceful Rod\16003.77\62543.29;
+Destiny Rod\16868.91\68560.96;
+Heaven's Rod\14817.9\70950.83;
+Trident Rod\17711.41\111680.28;
+Free Spirit Rod\16560.26\104421.66;
+Rod Of The Depths\15706.85\69728.06;
+Rod Of The Zenith\16862.08\70869.47;
+Rod Of The Forgotten Fang\17726.27\76750.85;
+Challenger's Rod\16879.93\76786.44;
+Rod Of The Exalted One\15851.5\71452.34;
+Zeus Rod\14985.82\70520.2;
+Verdant Shear Rod\14574.8\70702.56;
+Blazebringer Rod\14277.07\67513.04;
+Depthseeker Rod\13437.73\66779.46;
+Avalanche Rod\12057.47\60189.21;
+Reinforced Rod\11949.22\60071.45;
+Volcanic Rod\11689.62\55826.98;
+Magma Rod\9643.37\50725.13;
+Steady Rod\3764.43\21567.9
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching a Molten Banshee, the player has a chance to make one of the following exclamations:
+* A Molten Banshee!
+* WOAH! A Molten Banshee!!
+* MOLTEN BANSHEEEEEEEEE
+* I caught a Molten Banshee!!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Roslit Volcano}}

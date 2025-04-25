@@ -1,0 +1,83 @@
+{{FishInfobox
+|image          = Coelacanth.png
+|rarity         = Rare
+|sea            = First Sea
+|location       = [[Ocean]]
+|sublocation    = 
+|sources        = Carbon Crate, Fishing Rod
+|radar_location = 
+|xp             = 300
+|weather        = Clear
+|time           = Night
+|season         = Spring, Autumn
+|bait           = 
+|base_weight    = 10
+|base_value     = 370
+|weight_range   = 3
+|base_chance    = 14
+|base_resil     = 40
+}}
+'''Coelacanth''' is a {{Rarity|Rare}} fish found in the [[Ocean]].
+
+== Description ==
+{{Description|The Coelacanth is an ancient fish with a distinctive shape and strong swimming behaviours Known as a 'living fossil,' this fish was thought to be extinct until its rediscovery in 1938. Coelacanths are deep-sea dwellers, often found in underwater caves and steep slopes.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in the Deep Ocean.|Bestiary Hint}}
+{{Fish Availability|
+Ancient Isle/Algae Hunt
+Atlantis/Surrounding Ocean
+FischFright/Frightful Pool
+Forsaken Shores/Algae Hunt
+Golden Tide
+Lovestorm/Normal
+Lovestorm/Supercharged
+Megalodon Hunt/Eclipse and Weekend
+Megalodon Hunt/Normal
+Mushgrove Swamp/Algae Hunt
+Ocean/Deep Ocean
+Orca Migration/Ancient
+Orca Migration/Normal
+Roslit Bay/Ashfall
+Snowcap Island/Algae Hunt
+Whale Migration/Moby
+Whale Migration/Normal
+|top_rods      = 
+Krampus's Rod\48607.84\60726.55;
+Magma Rod\45634.89\57012.4;
+Plastic Rod\42501.23\53067.1;
+Leviathan's Fang Rod\42373.93\49191.04;
+Trident Rod\39108.66\48031.46;
+Flimsy Rod\38822.66\86840.92;
+Buddy Bond Rod\31538.82\40938.65;
+Training Rod\27360.18\81039.11;
+Free Spirit Rod\35772.01\43933.53;
+Ethereal Prism Rod\33797.43\34534.56;
+No-Life Rod\33227.97\36020.35;
+Seraphic Rod\32943.11\34504.24;
+Rod Of The Forgotten Fang\30847.94\33182.64;
+Challenger's Rod\30124.07\33006.35;
+Rod Of The Depths\27827.8\30140.34;
+Zeus Rod\27572.17\30410.64;
+Verdant Shear Rod\27195.69\30166.21;
+Rod Of The Exalted One\27116.88\30844.9;
+Blazebringer Rod\26185.32\29002.11;
+Depthseeker Rod\25055.06\28132.08;
+Avalanche Rod\22600.08\25451.21;
+Volcanic Rod\21484.81\24050.14;
+Steady Rod\9506.44\9096
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Coelacanth, the player has a chance to make one of the following exclamations:
+* Woah, a Coelacanth!
+* I caught a Coelacanth!
+* It's a Coelacanth!
+* Nice! It's a Coelacanth!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ocean}}

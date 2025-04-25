@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Chronos Deep Swimmer.png
+|rarity         = Unusual
+|sea            = First Sea
+|location       = [[Atlantis]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 240
+|weather        = 
+|time           = 
+|season         = 
+|bait           = Truffle Worm
+|base_weight    = 10
+|base_value     = 400
+|weight_range   = 4.5
+|base_chance    = 22
+|base_resil     = 38
+}}
+'''Chronos Deep Swimmer''' is an {{Rarity|Unusual}} fish found in [[Atlantis]].
+
+== Description ==
+{{Description|These enigmatic fish appear to bend time around them, moving in impossible patterns through the abyss. Their very presence seems to distort the flow of time in ancient ruins.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Ethereal Abyss Pool|Bestiary Hint}}
+{{Fish Availability|
+Atlantis/Ethereal Abyss
+|top_rods      = 
+Krampus's Rod\132374.03\137728.62;
+Leviathan's Fang Rod\126764.57\134071.14;
+Magma Rod\123498.88\128494.47;
+Trident Rod\117872.56\134960.49;
+Plastic Rod\115146.91\119900.43;
+Fast Rod\84920.3\131698.71;
+Flimsy Rod\72890.9\116558.67;
+Training Rod\51141.39\97418.53;
+Adventurer's Rod\78568\121847.23;
+Free Spirit Rod\106471.54\121906.67;
+Ethereal Prism Rod\100827.06\92742.57;
+No-Life Rod\98353.16\98855.17;
+Seraphic Rod\97872.83\96232.44;
+Rod Of The Forgotten Fang\91585.75\87162.4;
+Challenger's Rod\89126.22\87630.26;
+Rod Of The Depths\82472.4\80769.43;
+Zeus Rod\81376.38\81278.69;
+Rod Of The Exalted One\80697.35\82942.72;
+Verdant Shear Rod\80131.54\81120.11;
+Blazebringer Rod\77289.17\77521.84;
+Depthseeker Rod\73805.66\75870.1;
+Avalanche Rod\66546.14\68674.76;
+Volcanic Rod\63410.32\64276.9;
+Steady Rod\25340.67\24535.5
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Chronos Deep Swimmer, the player has a chance to make one of the following exclamations:
+* A Chronos Deep Swimmer!
+* Time bends!
+* The eternal one!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Atlantis}}

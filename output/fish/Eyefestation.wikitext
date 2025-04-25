@@ -1,0 +1,41 @@
+{{FishInfobox
+|image          = Eyefestation.png
+|rarity         = Legendary
+|sea            = First Sea
+|location       = Regionless
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -30
+|xp             = 1000
+|weather        = Foggy
+|time           = Night
+|season         = Autumn
+|bait           = Fish Head
+|base_weight    = 650
+|base_value     = 3000
+|weight_range   = 170
+|base_chance    = 0.05
+|base_resil     = 15
+}}
+'''Eyefestation''' is a {{Rarity|Legendary}} fish found in any body of water.
+
+== Description ==
+{{Description|The Eyefestation is an evolved breed of Bull Sharks. They possess a large amount of bright green eyes all over their face for spotting prey in the Brine Pool to feed on. The Eyefestation inhibits aggressive behaviour towards other creatures, but this is likely a territorial response. If something happens to gaze into one of the Eyefestation's many eyes, they will be put in a dazed state where they become a vulnerable target.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in the Brine Pool.|Bestiary Hint}}
+
+== Catch Quips ==
+When catching an Eyefestation, the player has a chance to make one of the following exclamations:
+* WOAH! EYFESTATION??
+* Eyefestation!!
+* It's looking at me..
+* I feel dizzy!
+* Wait.. This looks familiar..
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Regionless}}

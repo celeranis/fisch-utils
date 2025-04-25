@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Wretched Guppy.png
+|rarity         = Limited
+|event          = Cults Curse
+|sea            = First Sea
+|location       = [[Cults Curse]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = +10
+|xp             = 100
+|weather        = 
+|time           = 
+|season         = 
+|bait           = 
+|base_weight    = 18
+|base_value     = 1300
+|weight_range   = 10
+|base_chance    = 35
+|base_resil     = 110
+}}
+'''Wretched Guppy''' is a {{Rarity|Limited}} fish found in [[Cults Curse]] during the [[Cults Curse]] event.
+
+== Description ==
+{{Description|In the shadowed shallows, the Wretched Guppy festers, with scales peeling like forgotten curses.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Can only be caught in the Cursed Pool.|Bestiary Hint}}
+{{Fish Availability|
+Cults Curse
+|top_rods      = 
+Training Rod\808073.39\808073.39;
+Flimsy Rod\747545.49\751526.06;
+Fischer's Rod\347615.16\351523.7;
+Adventurer's Rod\346383.93\350278.63;
+Plastic Rod\345288.4\341359.69;
+Fast Rod\336875\342200.01;
+No-Life Rod\278028.2\278028.2;
+Seraphic Rod\276744.65\276744.65;
+Ethereal Prism Rod\274966.58\274966.58;
+Trident Rod\274644.35\192578.66;
+Free Spirit Rod\272908.17\193380.8;
+Depthseeker Rod\254767.29\216276.74;
+Avalanche Rod\253892.13\194468.58;
+Challenger's Rod\253393.67\253393.67;
+Rod Of The Forgotten Fang\252907.75\252907.75;
+Verdant Shear Rod\251803.29\237132.35;
+Blazebringer Rod\250843.83\223278.74;
+Zeus Rod\249626.88\236580.88;
+Rod Of The Depths\246660.4\230481.28;
+Rod Of The Exalted One\244793.46\216076.2;
+Volcanic Rod\243793.02\179645.72;
+Steady Rod\140955.07\104141.65
+|recommended   = Training Rod
+}}
+
+== Catch Quips ==
+When catching a Wretched Guppy, the player has a chance to make one of the following exclamations:
+* A Wretched Guppy!
+* Tiny terror!
+* Sorrowful...
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Cults Curse}}

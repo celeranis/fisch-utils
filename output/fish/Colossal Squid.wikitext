@@ -1,0 +1,82 @@
+{{FishInfobox
+|image          = Colossal Squid.png
+|rarity         = Mythical
+|sea            = First Sea
+|location       = [[Ocean]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -70
+|xp             = 3000
+|weather        = Foggy
+|time           = Night
+|season         = 
+|bait           = 
+|base_weight    = 1200
+|base_value     = 6500
+|weight_range   = 500
+|base_chance    = 0.02
+|base_resil     = 5
+}}
+'''Colossal Squid''' is a {{Rarity|Mythical}} fish found in the [[Ocean]].
+
+== Description ==
+{{Description|The Colossal Squid is a massive, deep-sea creature with enormous tentacles and large appetite for anglers. Known for its incredible size and strength, it lurks in the deepest parts of the ocean, only occasionally venturing near the surface during the nights.|Bestiary Entry}}
+
+== Obtainment ==
+{{Fish Availability|
+Ancient Isle/Algae Hunt
+Ancient Isle/Surrounding Ocean
+Atlantis/Surrounding Ocean
+Forsaken Shores/Algae Hunt
+Lovestorm/Normal
+Lovestorm/Supercharged
+Megalodon Hunt/Eclipse and Weekend
+Megalodon Hunt/Normal
+Mushgrove Swamp/Algae Hunt
+Ocean/Deep Ocean
+Orca Migration/Ancient
+Orca Migration/Normal
+Snowcap Island/Algae Hunt
+Snowcap Island/Surrounding Ocean
+Whale Migration/Moby
+Whale Migration/Normal
+|top_rods      = 
+Leviathan's Fang Rod\25230.37\118675.16;
+Ethereal Prism Rod\22691.25\86053.21;
+Seraphic Rod\22030.71\88198.68;
+No-Life Rod\21049.42\89884.59;
+Tempest Rod\20949.76\87388.22;
+Resourceful Rod\18066.96\64884.32;
+Destiny Rod\17385.32\62119.13;
+Fortune Rod\12206.13\44837.16;
+Free Spirit Rod\20805.44\116213.1;
+Trident Rod\18819.57\105120.62;
+Rapid Rod\17641.19\92628.27;
+Wildflower Rod\13188.12\68240.21;
+North-Star Rod\9796.3\48360.74;
+Challenger's Rod\19776.96\85570.21;
+Rod Of The Forgotten Fang\19707.27\79402.08;
+Rod Of The Exalted One\17023.93\66487.07;
+Rod Of The Depths\16704.78\68639.8;
+Zeus Rod\15944.97\69770.21;
+Blazebringer Rod\15829.87\67719.15;
+Verdant Shear Rod\15719.21\69022.34;
+Depthseeker Rod\14975.85\67815.1;
+Avalanche Rod\12960.15\58896.01;
+Volcanic Rod\12473.96\54582.14;
+Steady Rod\4099.11\19914.57
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching a Colossal Squid, the player has a chance to make one of the following exclamations:
+* WOAH. A COLOSSAL SQUID!!
+* MY BACCKK
+* I CAN'T BELIEVE IT! COLOSSAL SQUID!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ocean}}

@@ -1,0 +1,69 @@
+{{FishInfobox
+|image          = Brine Shrimp.png
+|rarity         = Uncommon
+|sea            = First Sea
+|location       = [[Brine Pool]]
+|sublocation    = 
+|sources        = Coral Geode, Fishing Rod
+|radar_location = 
+|xp             = 130
+|weather        = 
+|time           = Day
+|season         = 
+|bait           = 
+|base_weight    = 0.3
+|base_value     = 230
+|weight_range   = 0.2
+|base_chance    = 2250
+|base_resil     = 65
+}}
+'''Brine Shrimp''' is an {{Rarity|Uncommon}} fish found in the [[Desolate Deep]]'s [[Desolate Deep#Brine Pool|Brine Pool]].
+
+== Description ==
+{{Description|The Brine Shrimp is a small crustacean abundant in the Brine Pool within the Desolate Deep. They possess the ability to adapt and survive within harsh conditions, particularly incredibly salty water like the Brine Pool. They feed on microorganisms during the day, and are at the bottom of the food chain within the Brine Pool.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in the Brine Pool during the day.|Bestiary Hint}}
+{{Fish Availability|
+Desolate Deep/Brine Pool
+|top_rods      = 
+Training Rod\205660.26\150083.35;
+Leviathan's Fang Rod\185626.61\177339.25;
+Trident Rod\178350.63\173509.2;
+Free Spirit Rod\173859.32\169139.8;
+Azure Of Lagoon\156877.57\152568.12;
+Flimsy Rod\148011.24\137125.38;
+Lucky Rod\114801.45\115367.88;
+No-Life Rod\155004.68\150312.65;
+Long Rod\126184.78\127592.91;
+Seraphic Rod\148097.64\140083.81;
+Ethereal Prism Rod\147488.99\138770.33;
+Challenger's Rod\145638.98\139525.74;
+Rod Of The Forgotten Fang\145390.23\138474.54;
+Rod Of The Exalted One\141106.87\135249.15;
+Depthseeker Rod\139771.31\133517.7;
+Rod Of The Depths\139641.13\134603.58;
+Zeus Rod\139407.11\135788.11;
+Blazebringer Rod\139351.01\137638.79;
+Verdant Shear Rod\138966.26\136907.77;
+Avalanche Rod\137845.95\131731.87;
+Reinforced Rod\137650.79\131629.75;
+Volcanic Rod\134798.41\131748.46;
+Steady Rod\72869.57\70414.13
+|recommended   = Training Rod
+}}
+
+== Catch Quips ==
+When catching a Brine Shrimp, the player has a chance to make one of the following exclamations:
+* Ouu a Brine Shrimp!
+* Woah, a Brine Shrimp!
+* A Brine Shrimp!
+* I caught a Brine Shrimp!
+* I caught a Brine Shrimp!
+* Shrimplo Dimplo!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Brine Pool}}

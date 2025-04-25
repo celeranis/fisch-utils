@@ -1,0 +1,99 @@
+{{FishInfobox
+|image          = Barracuda.png
+|rarity         = Uncommon
+|sea            = First Sea
+|location       = [[Ocean]]
+|sublocation    = Saltwater
+|sources        = Carbon Crate, Fish Barrel, Fishing Rod
+|radar_location = 
+|xp             = 90
+|weather        = 
+|time           = Day
+|season         = 
+|bait           = Worm
+|base_weight    = 11
+|base_value     = 150
+|weight_range   = 5.5
+|base_chance    = 60
+|base_resil     = 55
+}}
+'''Barracuda''' is an {{Rarity|Uncommon}} fish found in the [[Ocean]].
+
+== Description ==
+{{Description|Barracudas are large predatory fish, known for their fearsome appearance and ferocious behaviour. The barracuda is an adept saltwater hunter and are commonly mistaken as a hazard towards humans, when in reality they are relatively comfortable and friendly swimmers. They can be found in deep oceans, and near Moosewood.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in deeper saltwater and near Moosewood.|Bestiary Hint}}
+{{Fish Availability|
+Ancient Isle/Algae Hunt
+Atlantis/Surrounding Ocean
+FischFright/Frightful Pool
+Forsaken Shores/Algae Hunt
+Golden Tide
+Lovestorm/Normal
+Lovestorm/Supercharged
+Lucky Event/Blarney McBreeze
+Lucky Event/O'Mango Goldgrin
+Lucky Event/Plumrick O'Luck
+Lucky Event/Rowdy McCharm
+Lucky Event/Sunny O'Coin
+Megalodon Hunt/Eclipse and Weekend
+Megalodon Hunt/Normal
+Moosewood/Seaweed and Mini-Island
+Moosewood/Surrounding Ocean
+Mushgrove Swamp/Algae Hunt
+Northern Summit/Surrounding Ocean
+Ocean
+Ocean/Deep Ocean
+Ocean/Harvesters Spike
+Ocean/Strange Whirlpool
+Ocean/The Arch
+Orca Migration/Ancient
+Orca Migration/Normal
+Shark Hunt/Great Hammerhead Shark
+Shark Hunt/Great White Shark
+Shark Hunt/Whale Shark
+Snowcap Island/Algae Hunt
+Whale Migration/Moby
+Whale Migration/Normal
+|top_rods      = 
+Trident Rod\110722.35\11315.42;
+Leviathan's Fang Rod\106934.08\19375.26;
+Free Spirit Rod\106437.38\11270.16;
+Champions Rod\106240.65\14589.11;
+Summit Rod\105485.04\14261.69;
+Training Rod\103149.41\15346.15;
+Flimsy Rod\77403.65\10388.37;
+Resourceful Rod\95801.37\14664.23;
+Nocturnal Rod\68052.36\58049.85;
+Kraken Rod\82053.07\18087.07;
+Rapid Rod\104524.02\17176.36;
+Seraphic Rod\97035.75\15699.2;
+Depthseeker Rod\104932.47\14280.26;
+No-Life Rod\103715.71\15417.18;
+Avalanche Rod\103014.26\14058.88;
+Verdant Shear Rod\101999.25\14801.57;
+Ethereal Prism Rod\101835.88\0;
+Blazebringer Rod\97895.85\12230.63;
+Zeus Rod\97125.48\12954.36;
+Volcanic Rod\94755.12\9831.67;
+Challenger's Rod\92701.88\13945.23;
+Rod Of The Forgotten Fang\88531.15\14191.13;
+Rod Of The Depths\85217.06\12609.25;
+Rod Of The Exalted One\79042.07\12896.87;
+Steady Rod\50178.91\7673.9
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Barracuda, the player has a chance to make one of the following exclamations:
+* Woah, a Barracuda!
+* I caught a Barracuda!
+* A Barracuda!!
+* !!!!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ocean}}

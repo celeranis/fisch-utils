@@ -1,0 +1,63 @@
+{{FishInfobox
+|image          = Captain's Goldfish.png
+|rarity         = Mythical
+|sea            = First Sea
+|location       = [[Forsaken Shores]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 2800
+|weather        = 
+|time           = Day
+|season         = Summer
+|bait           = Truffle Worm
+|base_weight    = 2.5
+|base_value     = 1700
+|weight_range   = 1.5
+|base_chance    = 0.001
+|base_resil     = 5
+}}
+'''Captain's Goldfish''' is a {{Rarity|Mythical}} fish found in [[Forsaken Shores]].
+
+== Description ==
+{{Description|A mythical, elusive goldfish found beneath waterfalls, said to bring fortune to rare finders.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found beneath enchanted waterfalls.|Bestiary Hint}}
+{{Fish Availability|
+Forsaken Shores/Freshwater Pond
+|top_rods      = 
+Leviathan's Fang Rod\205367.09\617067.36;
+Free Spirit Rod\183540.89\605528.34;
+Trident Rod\179500.14\592197.31;
+No-Life Rod\142975.85\430449.63;
+Azure Of Lagoon\134795.04\456489.3;
+Flimsy Rod\118844.78\272789.23;
+Training Rod\117242.16\300049.51;
+Fortune Rod\84669.63\251475.26;
+Candy Cane Rod\68630.61\233876.67;
+Seraphic Rod\123368.83\358316.63;
+Ethereal Prism Rod\122836.18\346538.79;
+Rod Of The Forgotten Fang\118621.96\348882.86;
+Challenger's Rod\118253.26\359863.93;
+Zeus Rod\106750.33\320452.82;
+Verdant Shear Rod\106323.13\321404.28;
+Rod Of The Depths\105809.24\312761.28;
+Rod Of The Exalted One\102293.82\306475.18;
+Blazebringer Rod\101543.71\317476.54;
+Depthseeker Rod\99220.44\326456.59;
+Avalanche Rod\89094.52\325181.92;
+Volcanic Rod\86898.85\302557.53;
+Steady Rod\31098.87\137769.91
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Captain's Goldfish, the player has a chance to make one of the following exclamations:
+* IS THAT A CAPTAIN GOLDFISH?!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Forsaken Shores}}

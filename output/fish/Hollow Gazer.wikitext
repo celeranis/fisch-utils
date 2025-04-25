@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Hollow Gazer.png
+|rarity         = Limited
+|event          = Cults Curse
+|sea            = First Sea
+|location       = [[Cults Curse]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -15
+|xp             = 800
+|weather        = 
+|time           = 
+|season         = 
+|bait           = 
+|base_weight    = 78
+|base_value     = 2200
+|weight_range   = 48
+|base_chance    = 25
+|base_resil     = 45
+}}
+'''Hollow Gazer''' is a {{Rarity|Limited}} fish found in [[Cults Curse]] during the [[Cults Curse]] event.
+
+== Description ==
+{{Description|From darkest depths, the Hollow Gazer stares, with empty eyes inviting the coldest embrace.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Can only be caught in the Cursed Pool.|Bestiary Hint}}
+{{Fish Availability|
+Cults Curse
+|top_rods      = 
+Leviathan's Fang Rod\254500.26\195903;
+Trident Rod\251217.94\174373.48;
+Free Spirit Rod\236557\164197.15;
+Plastic Rod\224825.94\231051.7;
+Fischer's Rod\222416.75\225926.65;
+Adventurer's Rod\219161.87\222620.4;
+Fast Rod\215336.13\215336.13;
+Firefly Rod\209684.26\200460.53;
+No-Life Rod\199998.67\199045.73;
+Seraphic Rod\196364.1\196364.1;
+Ethereal Prism Rod\195014.28\195014.28;
+Challenger's Rod\181324.74\179621.85;
+Rod Of The Forgotten Fang\178917.89\178687.28;
+Depthseeker Rod\177206.37\152581.25;
+Zeus Rod\173044.95\166005.34;
+Verdant Shear Rod\172476.96\166037;
+Blazebringer Rod\172182.96\156938.11;
+Avalanche Rod\171610.02\136444.28;
+Rod Of The Exalted One\170960.97\152122.87;
+Rod Of The Depths\168389.95\161711.74;
+Volcanic Rod\166073.24\126036.38;
+Steady Rod\95400.8\70484.85
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Hollow Gazer, the player has a chance to make one of the following exclamations:
+* A Hollow Gazer!
+* Hypnotic gaze...
+* Doesn't seem hollow to me!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Cults Curse}}

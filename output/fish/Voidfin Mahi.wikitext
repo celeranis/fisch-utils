@@ -1,0 +1,65 @@
+{{FishInfobox
+|image          = Voidfin Mahi.png
+|rarity         = Rare
+|sea            = First Sea
+|location       = [[Vertigo]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 400
+|weather        = Clear, Windy
+|time           = 
+|season         = Spring
+|bait           = Truffle Worm
+|base_weight    = 15.5
+|base_value     = 450
+|weight_range   = 8
+|base_chance    = 10
+|base_resil     = 10
+}}
+'''Voidfin Mahi''' is a {{Rarity|Rare}} fish found in [[Vertigo]].
+
+== Description ==
+{{Description|The Voidfin Mahi are extremely fast and sensitive fish. They can sense a heartbeat from hundreds of miles, and are capable of swimming through some solid bio-matters, such as wood.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in Vertigo.|Bestiary Hint}}
+{{Fish Availability|
+Vertigo/Vertigos Dip
+|top_rods      = 
+Leviathan's Fang Rod\89154.63\150692.47;
+Krampus's Rod\81435.64\113536.42;
+Magma Rod\79347.55\110625.23;
+Free Spirit Rod\69186.95\130514.21;
+Plastic Rod\68137.78\94996.73;
+Trident Rod\67663.77\127640.87;
+Training Rod\48927.7\118146.59;
+Flimsy Rod\40687.42\103108.37;
+Ethereal Prism Rod\64273.26\94485.41;
+Seraphic Rod\60913.87\95171.42;
+No-Life Rod\60652.92\103609.13;
+Rod Of The Forgotten Fang\56649.29\86472.2;
+Challenger's Rod\54107.95\86332;
+Rod Of The Exalted One\50470.73\75050.13;
+Rod Of The Depths\50281.81\77334.52;
+Zeus Rod\48444.43\78292.7;
+Verdant Shear Rod\47149.41\77835.26;
+Blazebringer Rod\46069.65\74773.43;
+Depthseeker Rod\43559.05\72438.12;
+Avalanche Rod\39040.75\65116.94;
+Volcanic Rod\37741.08\61810.03;
+Steady Rod\13018.11\21560.27
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Voidfin Mahi, the player has a chance to make one of the following exclamations:
+* I caught a Voidfin Mahi!
+* Woah, a Voidfin Mahi!!
+* It's a Voidfin Mahi!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Vertigo}}

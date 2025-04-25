@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Frostbite Flounder.png
+|rarity         = Rare
+|sea            = First Sea
+|location       = [[Glacial Grotto]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 300
+|weather        = 
+|time           = 
+|season         = Winter
+|bait           = Squid
+|base_weight    = 30
+|base_value     = 750
+|weight_range   = 15
+|base_chance    = 25
+|base_resil     = 45
+}}
+'''Frostbite Flounder''' is a {{Rarity|Rare}} fish found in the [[Glacial Grotto]].
+
+== Description ==
+{{Description|A flat fish with an ice-like sheen and speckled, snowflake-shaped patterns across its body.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Camouflaged against the icy grotto floor.|Bestiary Hint}}
+{{Fish Availability|
+Glacial Grotto
+|top_rods      = 
+Leviathan's Fang Rod\191530.77\154392.62;
+Krampus's Rod\176726.04\165541.78;
+Trident Rod\175693.64\152216.41;
+Magma Rod\167718.78\157104.56;
+Free Spirit Rod\164471.81\142494.12;
+Plastic Rod\154489.26\144708.61;
+Fast Rod\130629.54\164374.41;
+Buddy Bond Rod\114754.96\142426.15;
+Adventurer's Rod\119287.45\150102.38;
+Fischer's Rod\120754.1\151947.9;
+No-Life Rod\157109.65\119392.59;
+Ethereal Prism Rod\156277.42\108836.78;
+Seraphic Rod\154871.88\109472.22;
+Rod Of The Forgotten Fang\145370.19\107654.47;
+Challenger's Rod\142766.51\108205.26;
+Rod Of The Depths\132015.57\101606.11;
+Zeus Rod\130744.07\103324.73;
+Verdant Shear Rod\128955.89\100483.72;
+Rod Of The Exalted One\126605.34\103482.63;
+Blazebringer Rod\124144.93\100069.39;
+Depthseeker Rod\118721.74\93805.32;
+Avalanche Rod\107136.14\85033.02;
+Volcanic Rod\101877.44\92341.64;
+Steady Rod\40330.51\32561.12
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Frostbite Flounder, the player has a chance to make one of the following exclamations:
+* A Frostbite Flounder!
+* Beautiful patterns!
+* Ice cold catch!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Glacial Grotto}}

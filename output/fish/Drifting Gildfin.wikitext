@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Drifting Gildfin.png
+|rarity         = Common
+|sea            = Second Sea
+|location       = [[Pine Shoals]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = +15
+|xp             = 22
+|weather        = Foggy
+|time           = Night
+|season         = Autumn
+|bait           = Shrimp
+|base_weight    = 4.5
+|base_value     = 35
+|weight_range   = 3
+|base_chance    = 195
+|base_resil     = 75
+}}
+'''Drifting Gildfin''' is a {{Rarity|Common}} fish found in [[Pine Shoals]].
+
+== Description ==
+{{Description|A wanderer that drifts with gilded grace.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It floats where the currents whisper.|Bestiary Hint}}
+{{Fish Availability|
+Pine Shoals
+|top_rods      = 
+Free Spirit Rod\494014.48\404209.28;
+Resourceful Rod\469893.16\304183.36;
+Azure Of Lagoon\459164.75\383825.41;
+Trident Rod\444086.18\379717.16;
+Leviathan's Fang Rod\440860.05\372229.34;
+Training Rod\407009.88\436311.44;
+Flimsy Rod\396441.99\284620.38;
+Fischer's Rod\399727.45\275482.98;
+Firefly Rod\411515.53\378183.06;
+Riptide Rod\344502.57\304375.54;
+No-Life Rod\381781.72\335827.66;
+Blazebringer Rod\416598.1\351744.37;
+Verdant Shear Rod\414422.74\361007.35;
+Steady Rod\400546.98\259489.56;
+Seraphic Rod\362241.92\309736;
+Ethereal Prism Rod\357629.33\300370.81;
+Challenger's Rod\351772.09\308176.28;
+Depthseeker Rod\351759.91\323267.6;
+Avalanche Rod\349491.15\322159.3;
+Rod Of The Forgotten Fang\348701.19\298892.73;
+Volcanic Rod\346369.96\309147.58;
+Rod Of The Depths\345221.95\298352.03;
+Zeus Rod\345173.64\308079.82;
+Rod Of The Exalted One\345040.83\292452.25
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Drifting Gildfin, the player has a chance to make one of the following exclamations:
+* A Drifting Gildfin!
+* Drifts like royalty!
+* Gilded catch!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Pine Shoals}}

@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Cragscale.png
+|rarity         = Rare
+|sea            = Second Sea
+|location       = [[Emberreach]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -14
+|xp             = 220
+|weather        = Foggy
+|time           = Night
+|season         = Autumn
+|bait           = Minnow
+|base_weight    = 576
+|base_value     = 465
+|weight_range   = 363
+|base_chance    = 37
+|base_resil     = 42
+}}
+'''Cragscale''' is a {{Rarity|Rare}} fish found in [[Emberreach]].
+
+== Description ==
+{{Description|A deep-hued fish, edged with rough shadows and faint, ghostly fins.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It prowls the shrouded embers of night.|Bestiary Hint}}
+{{Fish Availability|
+Emberreach/Freshwater Pond
+|top_rods      = 
+Steady Rod\404486.34\483819.3;
+Frostfire Rod\399353.63\476434.53;
+Magma Rod\326608.57\521887.6;
+Krampus's Rod\325864.32\524932.82;
+North-Star Rod\276689.28\487826.28;
+Resourceful Rod\191291.23\530405.65;
+Rod Of Time\218988.25\511262.11;
+Relic Rod\218988.25\511262.11;
+Free Spirit Rod\183311.79\338890.58;
+Verdant Shear Rod\157651.54\499780;
+Blazebringer Rod\147629.47\313893.84;
+Trident Rod\147527.94\253563.88;
+No-Life Rod\106419.87\219227.69;
+Ethereal Prism Rod\101801.88\217672.28;
+Seraphic Rod\99841.36\216762.67;
+Rod Of The Exalted One\95598.64\204662.49;
+Rod Of The Forgotten Fang\94717.18\206373.42;
+Challenger's Rod\92954.67\207828.86;
+Rod Of The Depths\92899.49\204627.91;
+Volcanic Rod\90015.68\204389.68;
+Depthseeker Rod\89752.34\206315.02;
+Zeus Rod\89693.79\203658.81;
+Avalanche Rod\88846.89\205324.74
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Cragscale, the player has a chance to make one of the following exclamations:
+* A Cragscale!
+* Jagged beast!
+* Blue rock snag!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Emberreach}}

@@ -1,0 +1,74 @@
+{{FishInfobox
+|image          = Log.png
+|rarity         = Trash
+|sea            = First Sea
+|location       = [[Regionless]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 45
+|weather        = 
+|time           = 
+|season         = 
+|bait           = Magnet
+|base_weight    = 7.5
+|base_value     = 124
+|weight_range   = 3
+|base_chance    = 10
+|base_resil     = 80
+}}
+'''Log''' is a {{Rarity|Trash}} fish found in [[Regionless]].
+
+== Description ==
+{{Description|A large log of wood than must have drifted on to shore. Could be great for house projects!|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Find it washed on beaches and in the ocean.|Bestiary Hint}}
+{{Fish Availability|
+Ancient Isle/Freshwater Pond
+Ancient Isle/Waterfall
+Desolate Deep/Desolate Pocket
+Mushgrove Swamp
+Roslit Bay/Clam Abundance
+Roslit Bay/Coral Reef
+Roslit Bay/Surrounding Ocean
+Terrapin Island/Olm Cave
+Terrapin Island/Surrounding Ocean
+|top_rods      = 
+Fast Rod\102609.64\420953.04;
+Fischer's Rod\101475.25\372218.54;
+Adventurer's Rod\100897.59\370099.65;
+Training Rod\76324.46\446374.95;
+Flimsy Rod\75295.79\467818.71;
+Buddy Bond Rod\64582.05\408812.5;
+Ethereal Prism Rod\44169.77\73440.34;
+No-Life Rod\43873.49\43873.49;
+Seraphic Rod\43638.87\43638.87;
+Challenger's Rod\39943.21\39943.21;
+Rod Of The Forgotten Fang\39848.43\39848.43;
+Verdant Shear Rod\37273.19\37273.19;
+Zeus Rod\37245.83\37245.83;
+Rod Of The Depths\36243.18\36243.18;
+Blazebringer Rod\35140.49\35140.49;
+Depthseeker Rod\34068.75\34068.75;
+Rod Of The Exalted One\34033.94\34033.94;
+Trident Rod\30707.14\30707.14;
+Free Spirit Rod\30652.55\30652.55;
+Avalanche Rod\30580.18\30580.18;
+Volcanic Rod\28264.06\28264.06;
+Steady Rod\7900.63\7900.63
+|recommended   = Training Rod
+}}
+
+== Catch Quips ==
+When catching a Log, the player has a chance to make one of the following exclamations:
+* Oh.. a Log!
+* A.. Log?
+* How did I pull this up?
+* A Log..?
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Regionless}}

@@ -1,0 +1,89 @@
+{{FishInfobox
+|image          = Flying Fish.png
+|rarity         = Legendary
+|sea            = First Sea
+|location       = [[Ocean]]
+|sublocation    = Saltwater
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -30
+|xp             = 700
+|weather        = 
+|time           = Night
+|season         = 
+|bait           = Minnow
+|base_weight    = 5
+|base_value     = 1200
+|weight_range   = 3.5
+|base_chance    = 0.15
+|base_resil     = 25
+}}
+'''Flying Fish''' is a {{Rarity|Legendary}} fish found in the [[Ocean]].
+
+== Description ==
+{{Description|The Flying Fish is a unique fish, renowned for their wing-like fins which give them the ability to soar above the ocean's surface. They use this ability to swiftly evade predators as well as dwelling near the surface to find small organisms to feed on.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|In salt waters during the night. |Bestiary Hint}}
+{{Fish Availability|
+Ancient Isle/Algae Hunt
+Atlantis/Surrounding Ocean
+Forsaken Shores/Algae Hunt
+Lovestorm/Normal
+Lovestorm/Supercharged
+Lucky Event/Blarney McBreeze
+Lucky Event/O'Mango Goldgrin
+Lucky Event/Plumrick O'Luck
+Lucky Event/Rowdy McCharm
+Lucky Event/Sunny O'Coin
+Megalodon Hunt/Eclipse and Weekend
+Megalodon Hunt/Normal
+Mushgrove Swamp/Algae Hunt
+Northern Summit/Surrounding Ocean
+Ocean
+Ocean/Deep Ocean
+Orca Migration/Ancient
+Orca Migration/Normal
+Roslit Bay/Clam Abundance
+Roslit Bay/Surrounding Ocean
+Snowcap Island/Algae Hunt
+Whale Migration/Moby
+Whale Migration/Normal
+|top_rods      = 
+Leviathan's Fang Rod\32607.66\144480.36;
+Free Spirit Rod\29622.08\140273.85;
+Trident Rod\28649.13\135666.51;
+Ethereal Prism Rod\24050.02\85790.34;
+No-Life Rod\23491.39\94377.72;
+Flimsy Rod\17246.42\85035.48;
+Training Rod\17105.93\90389.97;
+Lucky Rod\14101.38\60825.63;
+Rapid Rod\20680.51\93538.02;
+Adventurer's Rod\12945.16\61691.1;
+Seraphic Rod\23403.32\87234.43;
+Rod Of The Forgotten Fang\21750.54\85030.94;
+Challenger's Rod\21253.1\85956.95;
+Rod Of The Depths\20315.48\76399.54;
+Verdant Shear Rod\19591.94\77980.3;
+Zeus Rod\19112.06\78241.15;
+Rod Of The Exalted One\19089.84\75708.07;
+Blazebringer Rod\19008.43\74933.2;
+Depthseeker Rod\18177.62\74081.15;
+Avalanche Rod\15633.93\66387.63;
+Volcanic Rod\14904.65\61888.45;
+Steady Rod\5006.7\23930.36
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Flying Fish, the player has a chance to make one of the following exclamations:
+* A Flying Fish!
+* I caught a Flying Fish!
+* Woah! A Flying Fish!
+* Ouu! A Flying Fish!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ocean}}

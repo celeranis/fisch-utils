@@ -1,0 +1,88 @@
+{{FishInfobox
+|image          = Dolphin.png
+|rarity         = Legendary
+|sea            = First Sea
+|location       = [[Ocean]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -5
+|xp             = 600
+|weather        = Clear
+|time           = Day
+|season         = Summer, Spring
+|bait           = 
+|base_weight    = 200
+|base_value     = 1200
+|weight_range   = 50
+|base_chance    = 0.8
+|base_resil     = 5
+}}
+'''Dolphin''' is a {{Rarity|Legendary}} fish found in the [[Ocean]].
+
+== Description ==
+{{Description|The Dolphin is a playful, intelligent marine mammal known for its sleek body, curved dorsal fin, and high intelligence. Dolphins are fast swimmers, known for jumping out of the water in graceful arcs and interacting with boats and swimmers. Found in the ocean.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in the ocean.|Bestiary Hint}}
+{{Fish Availability|
+Ancient Isle/Algae Hunt
+Atlantis/Surrounding Ocean
+Forsaken Shores/Algae Hunt
+Lovestorm/Normal
+Lovestorm/Supercharged
+Lucky Event/Blarney McBreeze
+Lucky Event/O'Mango Goldgrin
+Lucky Event/Plumrick O'Luck
+Lucky Event/Rowdy McCharm
+Lucky Event/Sunny O'Coin
+Megalodon Hunt/Eclipse and Weekend
+Megalodon Hunt/Normal
+Mushgrove Swamp/Algae Hunt
+Northern Summit/Surrounding Ocean
+Ocean
+Ocean/Deep Ocean
+Orca Migration/Ancient
+Orca Migration/Normal
+Snowcap Island/Algae Hunt
+Whale Migration/Moby
+Whale Migration/Normal
+|top_rods      = 
+Leviathan's Fang Rod\27238.57\84501.81;
+Free Spirit Rod\23034.08\92344.36;
+Trident Rod\22497.49\90193.14;
+Ethereal Prism Rod\18866.59\49820.23;
+No-Life Rod\18579.41\57875.18;
+Lucky Rod\11023.39\46823;
+Resourceful Rod\15129.66\45581.36;
+Fortune Rod\11448.16\39538.94;
+Firefly Rod\15151.25\60786.86;
+Fast Rod\14115.96\59102.96;
+Fungal Rod\12819.3\51438.14;
+Antler Rod\11209.47\44273.21;
+Seraphic Rod\18237.22\50040.72;
+Rod Of The Forgotten Fang\16968.98\47974.46;
+Challenger's Rod\16472.13\48331.17;
+Rod Of The Depths\15803\48776.62;
+Verdant Shear Rod\15128.29\49287.56;
+Rod Of The Exalted One\14937.11\41348.76;
+Zeus Rod\14820.35\43705.39;
+Blazebringer Rod\14719.02\47796.71;
+Depthseeker Rod\14044.02\47229.08;
+Avalanche Rod\12055.31\36585.85;
+Volcanic Rod\11545.34\34471.11;
+Steady Rod\3849.8\13541.41
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Dolphin, the player has a chance to make one of the following exclamations:
+* I caught a Dolphin!
+* It's a Dolphin!
+* A DOLPHINN!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ocean}}

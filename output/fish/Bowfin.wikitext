@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Bowfin.png
+|rarity         = Uncommon
+|sea            = First Sea
+|location       = [[Mushgrove Swamp]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 50
+|weather        = Rain
+|time           = Night
+|season         = Spring, Summer
+|bait           = Worm
+|base_weight    = 6
+|base_value     = 100
+|weight_range   = 3
+|base_chance    = 60
+|base_resil     = 60
+}}
+'''Bowfin''' is an {{Rarity|Uncommon}} fish found in [[Mushgrove Swamp]].
+
+== Description ==
+{{Description|The Mudfish, also known as Bowfin, is a resilient, ancient fish species known for its ability to survive in harsh, low-oxygen environments like swamps and muddy waters. They can be found all over Mushgrove Swamp, especially lurking in dense vegetation and during the night.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Caught in Mushgrove Swamp at night.|Bestiary Hint}}
+{{Fish Availability|
+Mushgrove Swamp
+|top_rods      = 
+Trident Rod\151798.77\98684.58;
+Azure Of Lagoon\148108.68\95578.68;
+Rapid Rod\147229.04\129871.74;
+Free Spirit Rod\147093.56\98346.69;
+Summit Rod\146728.9\100738.41;
+Training Rod\133161.35\136064.15;
+Flimsy Rod\97928.41\96925.51;
+Resourceful Rod\135905.32\97664.65;
+Ethereal Prism Rod\138952.15\157174.33;
+Leviathan's Fang Rod\146293.84\151773.2;
+No-Life Rod\145763.01\139146.22;
+Seraphic Rod\137688.64\137688.64;
+Kraken Rod\113690.01\133261.63;
+Depthseeker Rod\145270.26\107406.07;
+Avalanche Rod\142733.38\97654.52;
+Verdant Shear Rod\142387.81\117255.7;
+Blazebringer Rod\138117.62\110632.53;
+Zeus Rod\137062.21\117197.51;
+Volcanic Rod\133772.86\88944.69;
+Challenger's Rod\131759.96\126081.4;
+Rod Of The Forgotten Fang\125663.67\125663.67;
+Rod Of The Depths\121545.39\114069.28;
+Rod Of The Exalted One\111465.75\107178;
+Steady Rod\70759.67\54339.86
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Bowfin, the player has a chance to make one of the following exclamations:
+* A Mudfish!
+* Ouu, A Mudfish!
+* I caught a Mudfish!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Mushgrove Swamp}}

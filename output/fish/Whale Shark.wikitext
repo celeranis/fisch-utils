@@ -1,0 +1,62 @@
+{{FishInfobox
+|image          = Whale Shark.png
+|rarity         = Mythical
+|sea            = First Sea
+|location       = [[Ocean]]
+|sublocation    = Shark Hunt
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -70
+|xp             = 3000
+|weather        = Clear
+|time           = Day
+|season         = Summer, Autumn
+|bait           = Shrimp
+|base_weight    = 10000
+|base_value     = 6500
+|weight_range   = 2000
+|base_chance    = 0.01
+|base_resil     = 50
+}}
+'''Whale Shark''' is a {{Rarity|Mythical}} fish found in [[Shark Hunt]]s.
+
+== Description ==
+{{Description|Whale Sharks are large but friendly sharks, as opposed to other sharks found in the Ocean. They are most active during the day, where they swim around in search of small organisms to eat. Despite being playful and harmless, they will still put up quite a hefty fight when hooked.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Only rarely spotted in the oceans during a Shark Hunt near the Desolate Deep.|Bestiary Hint}}
+{{Fish Availability|
+Shark Hunt/Whale Shark
+|top_rods      = 
+Ethereal Prism Rod\54173.64\360949.34;
+Leviathan's Fang Rod\53558.34\444379.59;
+Seraphic Rod\52482.37\375500.39;
+No-Life Rod\50193.58\376290.49;
+Tempest Rod\50025.91\368854.36;
+Destiny Rod\43085.45\301286.17;
+Heaven's Rod\38539.11\321626.79;
+Challenger's Rod\47267.84\369166.2;
+Azure Of Lagoon\35484.15\289096.79;
+Rod Of The Forgotten Fang\47885.25\358104.95;
+Rod Of The Depths\42057.89\318411.13;
+Rod Of The Exalted One\42012.05\315848.15;
+Zeus Rod\40434.94\320196.09;
+Depthseeker Rod\37153.8\310083.93;
+Avalanche Rod\33073.92\275837.52;
+Volcanic Rod\31658.52\254514.84;
+Steady Rod\10409.17\89708.42
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching a Whale Shark, the player has a chance to make one of the following exclamations:
+* WOAH! A WHALE SHARKKKK!
+* NO WAY!!
+* I CAUGHT A WHALE SHARK!!
+* WUHWUHWUHWUHWUHWHALE SHARK??!!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ocean}}

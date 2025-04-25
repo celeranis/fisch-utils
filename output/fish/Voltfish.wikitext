@@ -1,0 +1,69 @@
+{{FishInfobox
+|image          = Voltfish.png
+|rarity         = Mythical
+|sea            = First Sea
+|location       = [[Sunstone Island]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -60
+|xp             = 850
+|weather        = Rain
+|time           = Night
+|season         = 
+|bait           = Super Flakes
+|base_weight    = 1.6
+|base_value     = 2200
+|weight_range   = 0.8
+|base_chance    = 0.01
+|base_resil     = 30
+}}
+'''Voltfish''' is a {{Rarity|Mythical}} fish found in [[Sunstone Island]].
+
+== Description ==
+{{Description|The Voltfish is a lightning-fast relative of the Mythic Fish. They swim solo near the surface of the waters surrounding Sunstone, and make sporadic movements when hooked.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found swimming near Sunstone Island during the Night.|Bestiary Hint}}
+{{Fish Availability|
+Sunstone Island
+|top_rods      = 
+Leviathan's Fang Rod\49330.66\267317.2;
+Ethereal Prism Rod\46474.68\174266.7;
+Seraphic Rod\44234.7\178338.84;
+No-Life Rod\42307.94\184723.89;
+Tempest Rod\41677.26\177971.6;
+Resourceful Rod\35732.03\137378.02;
+Destiny Rod\37518.87\132234.5;
+Heaven's Rod\33399.81\151351.57;
+Free Spirit Rod\39742.86\233966.24;
+Trident Rod\39634.56\233328.69;
+Flimsy Rod\19214.97\151843.02;
+Training Rod\17793.87\133578.36;
+Lucky Rod\24001.42\103891.2;
+Rod Of The Forgotten Fang\40466.13\169285.77;
+Challenger's Rod\39178.61\176495.59;
+Rod Of The Exalted One\35836.93\145764.15;
+Rod Of The Depths\35395.39\149628.5;
+Zeus Rod\33698.29\155205.53;
+Verdant Shear Rod\32763.06\155151.04;
+Blazebringer Rod\32333.93\149928.84;
+Depthseeker Rod\30665.5\148683.36;
+Avalanche Rod\27263.23\131021.82;
+Volcanic Rod\26339.55\123038.05;
+Steady Rod\8512.71\45558.07
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching a Voltfish, the player has a chance to make one of the following exclamations:
+* A Voltfish!
+* Woah, a Voltfish!
+* Ouu! A Voltfish!
+* It zapped me!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Sunstone Island}}

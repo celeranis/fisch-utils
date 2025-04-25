@@ -1,0 +1,70 @@
+{{FishInfobox
+|image          = Handfish.png
+|rarity         = Mythical
+|sea            = First Sea
+|location       = [[Mushgrove Swamp]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -50
+|xp             = 500
+|weather        = Foggy
+|time           = 
+|season         = Spring
+|bait           = Insect
+|base_weight    = 6
+|base_value     = 1000
+|weight_range   = 4
+|base_chance    = 0.01
+|base_resil     = 50
+}}
+'''Handfish''' is a {{Rarity|Mythical}} fish found in [[Mushgrove Swamp]].
+
+== Description ==
+{{Description|The Handfish is a unique, small, and critically rare species with pectoral fins that resemble hands, which it uses to 'walk' along the ocean floor rather than swim. They can only be found stomping on the floors of Mushgrove Swamp|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Can be found in Mushgrove Swamp.|Bestiary Hint}}
+{{Fish Availability|
+Mushgrove Swamp
+|top_rods      = 
+Leviathan's Fang Rod\56131.14\260987.25;
+Ethereal Prism Rod\55569.94\197074.58;
+Seraphic Rod\53548.11\203981.54;
+No-Life Rod\52195.69\215546.14;
+Tempest Rod\51098.85\200304.88;
+Resourceful Rod\42293.59\159442.49;
+Destiny Rod\44623.22\176813.8;
+Heaven's Rod\41282.7\181903.85;
+Trident Rod\48049.78\254483.33;
+Free Spirit Rod\47097.34\249438.98;
+Training Rod\25091.37\140709.46;
+Flimsy Rod\26823.32\155075.46;
+Adventurer's Rod\25333.04\128202.06;
+Rod Of The Forgotten Fang\49574.24\197874.33;
+Challenger's Rod\48143.99\198148.77;
+Rod Of The Depths\44119.05\180335.17;
+Rod Of The Exalted One\43780.57\184220.27;
+Zeus Rod\42785.4\180571.2;
+Verdant Shear Rod\41931\181465.7;
+Blazebringer Rod\40844.71\173285.91;
+Depthseeker Rod\38841.61\171891.59;
+Avalanche Rod\34845.88\154801.88;
+Volcanic Rod\33403.77\143103.98;
+Steady Rod\11349.67\53218.08
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching a Handfish, the player has a chance to make one of the following exclamations:
+* A Handfish!
+* They look like mine!
+* Woah! A Handfish
+* Hey. Don't get handsy with me!
+* Kinda weird lookin'...
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Mushgrove Swamp}}

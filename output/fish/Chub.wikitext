@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Chub.png
+|rarity         = Common
+|sea            = First Sea
+|location       = [[Roslit Bay]]
+|sublocation    = Freshwater
+|sources        = Common Crate, Fishing Rod
+|radar_location = 
+|xp             = 40
+|weather        = 
+|time           = Day
+|season         = Spring, Summer
+|bait           = Seaweed
+|base_weight    = 3
+|base_value     = 40
+|weight_range   = 2
+|base_chance    = 100
+|base_resil     = 80
+}}
+'''Chub''' is a {{Rarity|Common}} fish found in [[Roslit Bay]].
+
+== Description ==
+{{Description|The Chub is a hardy and adaptable freshwater fish, typically found in Roslit Pond. The Chub is an easy catch for novice anglers and is thankfully a common catch.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|commonly caught in Roslit Pond.|Bestiary Hint}}
+{{Fish Availability|
+Roslit Bay/Freshwater Pond
+|top_rods      = 
+Krampus's Rod\411133.69\46457.77;
+Magma Rod\398201.86\44803.84;
+Leviathan's Fang Rod\392898.13\0;
+Ethereal Prism Rod\370163.74\0;
+No-Life Rod\366433.3\66133.56;
+Plastic Rod\363640.3\39878.95;
+Nocturnal Rod\193850.78\180692.3;
+Riptide Rod\295223.48\76428.95;
+Challenger's Rod\336445.43\66626.91;
+Zeus Rod\309960.6\66598.86;
+Tempest Rod\356073.29\66344.29;
+Frog Rod\248384.22\58511.82;
+Seraphic Rod\365556.84\32187.13;
+Trident Rod\358305.55\22648.94;
+Free Spirit Rod\353155.93\22608.68;
+Rod Of The Forgotten Fang\343535.22\29391.37;
+Rod Of The Depths\312671.24\26732.21;
+Rod Of The Exalted One\306696.68\0;
+Verdant Shear Rod\306252.37\55454.71;
+Blazebringer Rod\294012.11\63375.02;
+Depthseeker Rod\281048.53\49753.45;
+Volcanic Rod\258444.53\52295.82;
+Training Rod\257628.97\28970.35;
+Avalanche Rod\256077.75\43623.55;
+Steady Rod\129195.82\14813.3
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching a Chub, the player has a chance to make one of the following exclamations:
+* I caught a Chub!
+* Woah, a Chub!!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Roslit Bay}}

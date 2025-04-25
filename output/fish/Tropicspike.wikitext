@@ -1,0 +1,66 @@
+{{FishInfobox
+|image          = Tropicspike.png
+|rarity         = Exotic
+|sea            = Second Sea
+|location       = [[Emberreach]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -80
+|xp             = 2150
+|weather        = Windy
+|time           = 
+|season         = Winter
+|bait           = Golden Worm
+|base_weight    = 5100
+|base_value     = 4515
+|weight_range   = 2970
+|base_chance    = 1
+|base_resil     = 12
+}}
+'''Tropicspike''' is an {{Rarity|Exotic}} fish found in [[Emberreach]].
+
+== Description ==
+{{Description|A striking fish, its fins a vivid dance of shifting hues.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It spikes through the restless frost’s blaze.|Bestiary Hint}}
+{{Fish Availability|
+Emberreach/Freshwater Pond
+|top_rods      = 
+Free Spirit Rod\37538.78\256893.69;
+Egg Rod\35315.03\244333.04;
+Blazebringer Rod\33299.35\245111.1;
+Azure Of Lagoon\33095.42\244481.55;
+Great Dreamer Rod\32659.86\229295.03;
+Destiny Rod\22846.15\161857.27;
+Heaven's Rod\23251.79\169464.12;
+Leviathan's Fang Rod\27284.5\210516.61;
+Kraken Rod\21969.63\165437.6;
+Trident Rod\25742.85\185680.94;
+Seraphic Rod\25038.95\179285.35;
+Ethereal Prism Rod\24533.67\184076.01;
+Challenger's Rod\23549.82\169496.15;
+No-Life Rod\22805.92\165198.56;
+Rod Of The Forgotten Fang\21883.07\154196.58;
+Rod Of The Exalted One\21139.33\156603.42;
+Rod Of The Depths\19940.21\140473.9;
+Depthseeker Rod\19431.93\147449.83;
+Volcanic Rod\18614.8\137503.68;
+Avalanche Rod\18468.92\140527.08;
+Zeus Rod\18141.86\134010.19;
+Steady Rod\17253.17\137555.52
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Tropicspike, the player has a chance to make one of the following exclamations:
+* A TROPICSPIKE?!
+* COLORFUL FURY!
+* SPIKED SPECTRUM!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Emberreach}}

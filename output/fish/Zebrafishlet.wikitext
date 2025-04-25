@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Zebrafishlet.png
+|rarity         = Limited
+|event          = Animal Hunt
+|sea            = First Sea
+|location       = [[Animals]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = +8
+|xp             = 650
+|weather        = Foggy
+|time           = 
+|season         = Autumn
+|bait           = Insect
+|base_weight    = 35
+|base_value     = 300
+|weight_range   = 26.5
+|base_chance    = 90
+|base_resil     = 80
+}}
+'''Zebrafishlet''' is a {{Rarity|Limited}} fish found in [[Animal Hunt]]s in the [[First Sea]].
+
+== Description ==
+{{Description|A tiny striped swimmer, darting through the currents like a zebra in the herd.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Its zebra stripes flicker where the river bends in the fog.|Bestiary Hint}}
+{{Fish Availability|
+Animal Hunt/First Sea
+|top_rods      = 
+Training Rod\476102.94\560954.15;
+Flimsy Rod\268117.09\224396.66;
+Leviathan's Fang Rod\218427.91\111219;
+Trident Rod\208138.58\146777.7;
+Free Spirit Rod\204923.49\144510.45;
+Plastic Rod\134994.79\154625.69;
+No-Life Rod\195436.28\255055.14;
+Zeus Rod\173015.34\222270.78;
+Azure Of Lagoon\189091.55\220284.72;
+Frog Rod\157705.33\182627.67;
+Seraphic Rod\185134.76\162824.52;
+Ethereal Prism Rod\184033.71\36968.74;
+Rod Of The Forgotten Fang\179164.13\148778.04;
+Challenger's Rod\179104.37\219851.63;
+Rod Of The Exalted One\174854.83\111776.42;
+Rod Of The Depths\173585.14\177497.7;
+Blazebringer Rod\169727.13\211104.26;
+Verdant Shear Rod\167776.3\188994.01;
+Depthseeker Rod\165394.2\175850.54;
+Avalanche Rod\164002.11\156681.7;
+Volcanic Rod\162633.23\173171.36;
+Steady Rod\86916.4\85183.09
+|recommended   = Training Rod
+}}
+
+== Catch Quips ==
+When catching a Zebrafishlet, the player has a chance to make one of the following exclamations:
+* A Zebrafishlet!
+* Striped!
+* A zebra in the deep!
+* Black and white!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Animals}}

@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Scallop.png
+|rarity         = Uncommon
+|sea            = First Sea
+|location       = [[Ocean]]
+|sublocation    = 
+|sources        = Crab Cage, Fishing Rod
+|radar_location = 
+|xp             = 40
+|weather        = 
+|time           = 
+|season         = Winter, Autumn
+|bait           = 
+|base_weight    = 0.5
+|base_value     = 100
+|weight_range   = 0.3
+|base_chance    = 40
+|base_resil     = 60
+}}
+'''Scallop''' is an {{Rarity|Uncommon}} fish found in the [[Ocean]].
+
+== Description ==
+{{Description|Scallops are known for their ability to 'swim' by rapidly opening and closing their shells, which propels them through the water. They can be found best in sandy or grass filled areas of the ocean.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Best caught in sandy or grass filled areas of the ocean.|Bestiary Hint}}
+{{Fish Availability|
+Ocean/Hidden Scallop Abundance
+|top_rods      = 
+Leviathan's Fang Rod\1273837.21\1273837.21;
+Trident Rod\1231133.72\1231133.72;
+Free Spirit Rod\1192973.04\1192973.04;
+Azure Of Lagoon\1072235.17\1072235.17;
+No-Life Rod\1055253.7\1055253.7;
+Long Rod\850288.46\850288.46;
+Krampus's Rod\912912.74\912912.74;
+Fortune Rod\809375\809375;
+Seraphic Rod\987884.62\987884.62;
+Ethereal Prism Rod\982500\982500;
+Challenger's Rod\978260.87\978260.87;
+Rod Of The Forgotten Fang\974090.91\974090.91;
+Depthseeker Rod\953928.57\953928.57;
+Rod Of The Exalted One\948076.92\948076.92;
+Zeus Rod\945000\945000;
+Blazebringer Rod\943750\943750;
+Verdant Shear Rod\942307.69\942307.69;
+Avalanche Rod\938636.36\938636.36;
+Rod Of The Depths\938636.36\938636.36;
+Volcanic Rod\914062.5\914062.5;
+Training Rod\586153.85\586153.85;
+Steady Rod\302562.92\354375
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Scallop, the player has a chance to make one of the following exclamations:
+* A Scallop!
+* Woah! A Scallop
+* Awesome!
+* A Scallop!
+* Ou! A Scallop!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ocean}}

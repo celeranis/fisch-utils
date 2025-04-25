@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Four Eyes Fish.png
+|rarity         = Uncommon
+|sea            = Second Sea
+|location       = [[Open Ocean]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = +18
+|xp             = 50
+|weather        = Windy
+|time           = 
+|season         = Spring
+|bait           = Lagoon Leech
+|base_weight    = 26
+|base_value     = 100
+|weight_range   = 21
+|base_chance    = 110
+|base_resil     = 60
+}}
+'''Four Eyes Fish''' is an {{Rarity|Uncommon}} fish found in the [[Open Ocean]].
+
+== Description ==
+{{Description|A lilac fish with light purple fins, sporting four curious eyes.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It stares where the currents swirl.|Bestiary Hint}}
+{{Fish Availability|
+Open Ocean
+Open Ocean/Sea Leviathan
+|top_rods      = 
+Plastic Rod\294858\435960.83;
+Flimsy Rod\250758.44\473341.81;
+Training Rod\242589.88\495894.64;
+Fischer's Rod\224167.89\455830.32;
+Magma Rod\211644.88\187891.8;
+Fast Rod\184185.12\228736.45;
+Free Spirit Rod\186567.76\140160.11;
+Trident Rod\166093.17\129474.59;
+Verdant Shear Rod\152119.78\124159.31;
+Blazebringer Rod\146762.6\120221.56;
+No-Life Rod\136723.09\110786.35;
+Ethereal Prism Rod\126672.92\105435.61;
+Seraphic Rod\126660.94\98625.96;
+Challenger's Rod\123083.77\99162.65;
+Depthseeker Rod\122946.76\103319.25;
+Avalanche Rod\121703.45\102441.76;
+Rod Of The Forgotten Fang\121571.87\94988.63;
+Rod Of The Exalted One\120806.64\96357.06;
+Volcanic Rod\120662.87\99384.79;
+Zeus Rod\120201.07\99004.43;
+Rod Of The Depths\119903.63\94768;
+Steady Rod\99393.85\83016.58
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Four Eyes Fish, the player has a chance to make one of the following exclamations:
+* A Four-Eyes Fish!
+* Quadruple glare!
+* Lilac looker!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Open Ocean}}

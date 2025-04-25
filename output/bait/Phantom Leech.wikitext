@@ -1,0 +1,25 @@
+{{BaitInfobox
+|image          = Bait Phantom Leech.png
+|rarity         = Rare
+|crates         = 
+|angler_quests  = <!--TBD-->
+|pref_luck      = 55
+|univ_luck      = 30
+|resilience     = 25
+|lure           = 10
+|ability        = 
+}}
+'''Phantom Leech''' is a {{Rarity|Rare}} [[Bait]] that can be used in fishing.
+
+== Obtainment ==
+Phantom Leechs can be obtained in the following ways:
+<!--* [[Angler]] Quests, starting from the ?th completion-->
+
+== Favoring Fish ==
+{{Fish by Category Table|Phantom Leech-Loving Fish|event=1|show_location=1|hide_bait=1|resultsheader='''%PAGES%''' [[Fish]] prefer Phantom Leechs:|noresultsheader=No fish prefer Phantom Leechs.}}
+
+== Change History ==
+{{Change History|1.0}}
+
+== Navigation ==
+{{Bait Navbox}}

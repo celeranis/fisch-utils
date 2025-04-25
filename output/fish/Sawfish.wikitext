@@ -1,0 +1,87 @@
+{{FishInfobox
+|image          = Sawfish.png
+|rarity         = Legendary
+|sea            = First Sea
+|location       = [[Ocean]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 900
+|weather        = Foggy
+|time           = Night
+|season         = Autumn
+|bait           = Fish Head
+|base_weight    = 600
+|base_value     = 1500
+|weight_range   = 200
+|base_chance    = 0.7
+|base_resil     = 10
+}}
+'''Sawfish''' is a {{Rarity|Legendary}} fish found in the [[Ocean]].
+
+== Description ==
+{{Description|The Sawfish is a large, unique fish with a long, flattened snout that is lined with sharp teeth, resembling a saw. They are found all across the ocean mostly during the night.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|found all around the ocean during the night.|Bestiary Hint}}
+{{Fish Availability|
+Ancient Isle/Algae Hunt
+Atlantis/Surrounding Ocean
+Forsaken Shores/Algae Hunt
+Lovestorm/Normal
+Lovestorm/Supercharged
+Lucky Event/Blarney McBreeze
+Lucky Event/O'Mango Goldgrin
+Lucky Event/Plumrick O'Luck
+Lucky Event/Rowdy McCharm
+Lucky Event/Sunny O'Coin
+Megalodon Hunt/Eclipse and Weekend
+Megalodon Hunt/Normal
+Mushgrove Swamp/Algae Hunt
+Northern Summit/Surrounding Ocean
+Ocean
+Ocean/Deep Ocean
+Ocean/Harvesters Spike
+Orca Migration/Ancient
+Orca Migration/Normal
+Snowcap Island/Algae Hunt
+Whale Migration/Moby
+Whale Migration/Normal
+|top_rods      = 
+Leviathan's Fang Rod\30471.96\155792.55;
+Free Spirit Rod\26119.63\140959.74;
+Trident Rod\25544.59\137856.43;
+Ethereal Prism Rod\20936.05\94113.71;
+No-Life Rod\20628.76\106469.35;
+Resourceful Rod\16779.55\73401.81;
+Fortune Rod\12771.12\64207.62;
+Destiny Rod\16629.14\78524.91;
+Rod Of The Eternal King\15983.88\75075.86;
+Poseidon Rod\16264.91\82619.62;
+Rod Of The Exalted One\16635.39\75972.65;
+Seraphic Rod\20270.15\93812.3;
+Rod Of The Forgotten Fang\18896.37\87999.44;
+Challenger's Rod\18357.72\88877.45;
+Rod Of The Depths\17658.93\79064.69;
+Verdant Shear Rod\16975.82\80467.11;
+Zeus Rod\16598.61\81252.26;
+Blazebringer Rod\16474.28\77599.95;
+Depthseeker Rod\15718.92\75672.76;
+Avalanche Rod\13523.5\67329.95;
+Volcanic Rod\12931.3\64146.52;
+Steady Rod\4324.61\22207.16
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Sawfish, the player has a chance to make one of the following exclamations:
+* A Sawfish!
+* Chainsawfish!
+* I caught a Sawfish!
+* Woah, a Sawfish!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ocean}}

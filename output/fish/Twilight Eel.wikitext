@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Twilight Eel.png
+|rarity         = Uncommon
+|sea            = First Sea
+|location       = [[Vertigo]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 100
+|weather        = 
+|time           = 
+|season         = Winter
+|bait           = Insect
+|base_weight    = 20
+|base_value     = 90
+|weight_range   = 10
+|base_chance    = 70
+|base_resil     = 40
+}}
+'''Twilight Eel''' is an {{Rarity|Uncommon}} fish found in [[Vertigo]].
+
+== Description ==
+{{Description|The Twilight Eel, whilst resembling a giant tadpole, is an Eel. Twilight Eels are extremely slimy, and use the bulb on their head to attract prey.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in Vertigo's Dip.|Bestiary Hint}}
+{{Fish Availability|
+Vertigo/Vertigos Dip
+|top_rods      = 
+Trident Rod\265106.65\145219.69;
+Leviathan's Fang Rod\256625.6\227354.13;
+Free Spirit Rod\242488.38\144296.67;
+No-Life Rod\215639.69\200950.34;
+Azure Of Lagoon\212787.46\137727.22;
+Flimsy Rod\174992.12\174992.12;
+Resourceful Rod\162892.71\122643.53;
+Buddy Bond Rod\115657.38\95139.92;
+Seraphic Rod\197426.71\197426.71;
+Tempest Rod\190620.95\190620.95;
+Rapid Rod\186165.59\185152.68;
+Lucky Rod\127720.16\107173.93;
+Ethereal Prism Rod\190232.21\133463.74;
+Blazebringer Rod\182611.48\158146.12;
+Challenger's Rod\182276.28\180638.47;
+Verdant Shear Rod\181377.48\167417.27;
+Zeus Rod\181157.24\167417.27;
+Depthseeker Rod\180076.3\153692.85;
+Rod Of The Forgotten Fang\179909.9\179909.9;
+Volcanic Rod\176223.2\130032.73;
+Avalanche Rod\174114.26\137511.45;
+Rod Of The Depths\168357.18\162976.53;
+Rod Of The Exalted One\164747.5\162787.4;
+Steady Rod\96352.63\71180.18
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Twilight Eel, the player has a chance to make one of the following exclamations:
+* Woah, a Twilight Eel!
+* I caught an Eel!
+* It looks like a tadpole!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Vertigo}}

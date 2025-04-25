@@ -1,0 +1,64 @@
+{{FishInfobox
+|image          = Luminescent Minnow.png
+|rarity         = Unusual
+|sea            = First Sea
+|location       = [[The Depths]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 30
+|weather        = 
+|time           = Night
+|season         = Spring
+|bait           = Seaweed
+|base_weight    = 0.8
+|base_value     = 120
+|weight_range   = 0.6
+|base_chance    = 60
+|base_resil     = 80
+}}
+'''Luminescent Minnow''' is an {{Rarity|Unusual}} fish found in [[The Depths]].
+
+== Description ==
+{{Description|A tiny, glowing fish that sparkles like a gem, illuminating the dark waters.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in shallow caves under glowing coral clusters.|Bestiary Hint}}
+{{Fish Availability|
+The Depths
+The Depths/Absolute Darkness
+|top_rods      = 
+Ethereal Prism Rod\146824.73\227552.25;
+Leviathan's Fang Rod\142796.21\193955.59;
+No-Life Rod\142263.3\142263.3;
+Fast Rod\141677.84\141677.84;
+Training Rod\141570.36\178263.09;
+Flimsy Rod\111830.49\107897.05;
+Magnet Rod\91587.61\88111.07;
+Kraken Rod\120369.5\177407.81;
+Seraphic Rod\141502.55\141502.55;
+Challenger's Rod\129519.05\129519.05;
+Rod Of The Forgotten Fang\129211.72\129211.72;
+Depthseeker Rod\128687.94\110470.66;
+Avalanche Rod\127628.08\99158.69;
+Verdant Shear Rod\127050.64\120861.3;
+Blazebringer Rod\121954.88\113945.84;
+Zeus Rod\121147.39\120772.6;
+Volcanic Rod\118324.09\91648.49;
+Rod Of The Depths\117521.41\117521.41;
+Trident Rod\116715.55\99570.35;
+Free Spirit Rod\115038.09\99393.34;
+Rod Of The Exalted One\113343.81\135311.23;
+Steady Rod\68097.44\42688.12
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching a Luminescent Minnow, the player has a chance to make one of the following exclamations:
+* What is that glowing fish...
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|The Depths}}

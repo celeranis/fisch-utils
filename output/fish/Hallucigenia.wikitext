@@ -1,0 +1,70 @@
+{{FishInfobox
+|image          = Hallucigenia.png
+|rarity         = Rare
+|sea            = First Sea
+|location       = [[Ancient Isle]]
+|sublocation    = Freshwater
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 125
+|weather        = 
+|time           = Day
+|season         = Autumn
+|bait           = Flakes
+|base_weight    = 10
+|base_value     = 200
+|weight_range   = 7
+|base_chance    = 30
+|base_resil     = 75
+}}
+'''Hallucigenia''' is a {{Rarity|Rare}} fish found in the [[Ancient Isle]].
+
+== Description ==
+{{Description|The Hallucigenia is an elongated, worm-like creature with spiney appendages throughout its body. They went extinct around 485 million years ago, at the end of the Ordovician period. They are quite low on the food chain, primarily feeding on small microorganisms.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Can be found in freshwater at the Ancient Isle.|Bestiary Hint}}
+{{Fish Availability|
+Ancient Isle/Freshwater Pond
+Ancient Isle/Waterfall
+|top_rods      = 
+Plastic Rod\322619.84\815305;
+Krampus's Rod\261915.34\262877.58;
+Magma Rod\253422.55\254353.59;
+Buddy Bond Rod\239660.45\605655.14;
+Fast Rod\234781.23\503735.15;
+Flimsy Rod\226500.91\331220.45;
+Fischer's Rod\207996.16\446266.4;
+Adventurer's Rod\206714.87\443517.33;
+Training Rod\183621.86\172727.03;
+Ethereal Prism Rod\158775.42\125830.51;
+Seraphic Rod\154879.56\123468.36;
+No-Life Rod\154529.36\123644.21;
+Trident Rod\148000.24\96179.4;
+Free Spirit Rod\145457.66\95193.91;
+Rod Of The Forgotten Fang\145381.96\115959.68;
+Challenger's Rod\141767.26\113403.61;
+Rod Of The Depths\131565.77\105091.51;
+Zeus Rod\130454.45\104431.06;
+Verdant Shear Rod\128793.37\103097.39;
+Rod Of The Exalted One\128009\101801.45;
+Blazebringer Rod\123757.5\99070.04;
+Depthseeker Rod\118271.3\94660.64;
+Avalanche Rod\107769.27\85579.1;
+Volcanic Rod\107666.18\81363.15;
+Steady Rod\55939.99\27431.06
+|recommended   = Training Rod
+}}
+
+== Catch Quips ==
+When catching a Hallucigenia, the player has a chance to make one of the following exclamations:
+* A Hallucigenia!
+* I caught a Hallucigenia!
+* Woah! A Hallucigenia!
+* Ouu! A Hallucigenia!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ancient Isle}}

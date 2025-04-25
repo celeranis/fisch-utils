@@ -1,0 +1,64 @@
+{{FishInfobox
+|image          = Column Crawler.png
+|rarity         = Common
+|sea            = First Sea
+|location       = [[Atlantis]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 35
+|weather        = 
+|time           = 
+|season         = 
+|bait           = Worm
+|base_weight    = 1.2
+|base_value     = 55
+|weight_range   = 0.7
+|base_chance    = 80
+|base_resil     = 85
+}}
+'''Column Crawler''' is a {{Rarity|Common}} fish found in [[Atlantis]].
+
+== Description ==
+{{Description|These agile fish have adapted to life among the ethereal columns. Their flattened bodies allow them to slip through the narrowest gaps in the mysterious structures.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Ethereal Abyss Pool|Bestiary Hint}}
+{{Fish Availability|
+Atlantis/Ethereal Abyss
+|top_rods      = 
+Leviathan's Fang Rod\255964.48\145848.68;
+Trident Rod\252932.38\129188.84;
+Free Spirit Rod\249871.22\128997.1;
+No-Life Rod\233807.84\185083.08;
+Azure Of Lagoon\230796.43\157893.26;
+Training Rod\189013.04\189013.04;
+Flimsy Rod\151896.05\171523.56;
+Long Rod\191530.31\155613.38;
+Fast Rod\205290.54\185294.12;
+Seraphic Rod\219775.12\184228.32;
+Tempest Rod\220170.26\177736.83;
+Rod Of The Exalted One\210636.9\153453.69;
+Challenger's Rod\221962.64\168626.49;
+Rod Of The Forgotten Fang\217638.68\168226.36;
+Rod Of The Depths\214252.78\153136.56;
+Zeus Rod\212931.77\163499.31;
+Blazebringer Rod\210610.99\162659.04;
+Verdant Shear Rod\210396.38\163211.8;
+Ethereal Prism Rod\207940.42\53255.07;
+Volcanic Rod\204402.32\157863.96;
+Depthseeker Rod\203914.99\155452.72;
+Avalanche Rod\201945.35\144346.61;
+Steady Rod\95803.17\81677.8
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Column Crawler, the player has a chance to make one of the following exclamations:
+* A Column Crawler!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Atlantis}}

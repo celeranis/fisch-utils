@@ -1,0 +1,40 @@
+{{FishInfobox
+|image          = Night Shrimp.png
+|rarity         = Common
+|sea            = First Sea
+|location       = [[Vertigo]]
+|sublocation    = 
+|sources        = Crab Cage
+|radar_location = 
+|xp             = 35
+|weather        = Clear
+|time           = Day
+|season         = Summer, Winter
+|bait           = 
+|base_weight    = 0.2
+|base_value     = 55
+|weight_range   = 0.1
+|base_chance    = 45
+|base_resil     = 200
+}}
+'''Night Shrimp''' is a {{Rarity|Common}} fish found in [[Vertigo]].
+
+== Description ==
+{{Description|Night Shrimp are small, versatile crustaceans that can be found in an abundance in Vertigo's calm water. night Shrimp are predominantly diurnal, making day fishing the most effective time.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Caught with crab cages in Vertigo.|Bestiary Hint}}
+
+== Catch Quips ==
+When catching a Night Shrimp, the player has a chance to make one of the following exclamations:
+* A Night Shrimp!
+* Woah! A Night Shrimp
+* Awesome!
+* A Night Shrimp!
+* Ou! A Night Shrimpy!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Vertigo}}

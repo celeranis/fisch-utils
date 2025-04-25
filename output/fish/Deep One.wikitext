@@ -1,0 +1,69 @@
+{{FishInfobox
+|image          = Deep One.png
+|rarity         = Rare
+|sea            = First Sea
+|location       = [[Atlantis]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 400
+|weather        = 
+|time           = Night
+|season         = 
+|bait           = Truffle Worm
+|base_weight    = 45
+|base_value     = 900
+|weight_range   = 25
+|base_chance    = 15
+|base_resil     = 45
+}}
+'''Deep One''' is a {{Rarity|Rare}} fish found in [[Atlantis]].
+
+== Description ==
+{{Description|An ancient creature that dwells in the blackest depths. Its form suggests it existed long before normal fish, perhaps even before the oceans themselves.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|The oldest parts of the pool hold its secrets, Kraken Pool.|Bestiary Hint}}
+{{Fish Availability|
+Atlantis/Ancient Kraken Hunt
+Atlantis/Kraken Hunt
+Atlantis/Kraken Pool
+|top_rods      = 
+Krampus's Rod\134603.91\141475.21;
+Magma Rod\127743.51\134264.59;
+Leviathan's Fang Rod\125616.95\104355.68;
+Plastic Rod\119322.96\124905.48;
+Trident Rod\114790.48\101443.15;
+Buddy Bond Rod\87647.98\100236.78;
+Fast Rod\93137.1\130775.01;
+Firefly Rod\99233.67\124383.12;
+Free Spirit Rod\107458.63\94963.82;
+No-Life Rod\103458.75\81571.73;
+Ethereal Prism Rod\103121.58\75444.02;
+Seraphic Rod\102097.72\76036.14;
+Rod Of The Forgotten Fang\95822.59\73393.43;
+Challenger's Rod\94026.01\73295.13;
+Rod Of The Depths\86987.57\67714.4;
+Zeus Rod\86060\67835.21;
+Verdant Shear Rod\84842.59\67495.96;
+Rod Of The Exalted One\83500.28\69411.58;
+Blazebringer Rod\81716.23\65455.13;
+Depthseeker Rod\78096\62920.47;
+Avalanche Rod\70469.96\57002.86;
+Volcanic Rod\67059.04\58659.12;
+Steady Rod\26212.59\21145.79
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Deep One, the player has a chance to make one of the following exclamations:
+* A DEEP ONE!
+* ANCIENT TERROR!
+* IT REMEMBERS!
+* PRIMORDIAL BEING!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Atlantis}}

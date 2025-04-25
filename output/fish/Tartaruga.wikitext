@@ -1,0 +1,65 @@
+{{FishInfobox
+|image          = Tartaruga.png
+|rarity         = Exotic
+|sea            = Second Sea
+|location       = [[Isle of New Beginnings]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -80
+|xp             = 60000
+|weather        = Foggy
+|time           = 
+|season         = Winter
+|bait           = Mist Worms
+|base_weight    = 4000
+|base_value     = 10000
+|weight_range   = 3050
+|base_chance    = 1
+|base_resil     = 1
+}}
+'''Tartaruga''' is an {{Rarity|Exotic}} fish found in the [[Isle of New Beginnings]].
+
+== Description ==
+{{Description|A colossal sea turtle cloaked in shadow, its shell a fortress of ancient secrets.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It looms where the cold mists shroud the deep.|Bestiary Hint}}
+{{Fish Availability|
+Isle of New Beginnings
+|top_rods      = 
+Free Spirit Rod\22482.14\158588.87;
+Egg Rod\20484.23\146365.89;
+Azure Of Lagoon\19973.24\135952.79;
+Blazebringer Rod\19283.89\134401.28;
+Great Dreamer Rod\18748.22\132834.9;
+Destiny Rod\13045.91\86192.19;
+Heaven's Rod\13524.68\91015.86;
+Rod Of The Depths\11343.85\82475.03;
+Verdant Shear Rod\18546.36\132519.23;
+Trident Rod\15481.86\110622.48;
+Seraphic Rod\14898.97\106457.55;
+Ethereal Prism Rod\14453.34\99535.59;
+Challenger's Rod\14141.88\104689.91;
+No-Life Rod\13597.19\101124.12;
+Rod Of The Forgotten Fang\12782.65\91727.67;
+Rod Of The Exalted One\12140.21\85305.21;
+Depthseeker Rod\11499.5\87019.01;
+Avalanche Rod\10719.46\80981.36;
+Volcanic Rod\10688.18\80622.81;
+Zeus Rod\10369.85\78221.61;
+Steady Rod\10202.25\74962.08
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Tartaruga, the player has a chance to make one of the following exclamations:
+* A TORTUGA!
+* SILLY TORTOISE!
+* DONATELLO!?
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Isle of New Beginnings}}

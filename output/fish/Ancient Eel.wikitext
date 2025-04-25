@@ -1,0 +1,65 @@
+{{FishInfobox
+|image          = Ancient Eel.png
+|rarity         = Legendary
+|sea            = First Sea
+|location       = [[The Depths]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -30
+|xp             = 350
+|weather        = 
+|time           = Night
+|season         = Spring, Summer
+|bait           = Coal
+|base_weight    = 200
+|base_value     = 1500
+|weight_range   = 100
+|base_chance    = 0.4
+|base_resil     = 10
+}}
+'''Ancient Eel''' is a {{Rarity|Legendary}} fish found in [[The Depths]].
+
+== Description ==
+{{Description|A long, snake-like eel with glowing patterns and a menacing, ancient presence. This is one of the oldest creatures known to man, with it dating back to 3400 BCE.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in deep ocean caves during the Night.|Bestiary Hint}}
+{{Fish Availability|
+The Depths
+The Depths/Absolute Darkness
+|top_rods      = 
+Leviathan's Fang Rod\80685.8\131558.05;
+Free Spirit Rod\70288.99\107327.93;
+Trident Rod\67980.33\103802.71;
+No-Life Rod\55228.58\90530.91;
+Seraphic Rod\50642.56\80570.57;
+Lucky Rod\31556.5\50198.54;
+Firefly Rod\44883.35\76716.31;
+Candy Cane Rod\29020.65\49767.73;
+Adventurer's Rod\29200.62\50346.5;
+Fischer's Rod\29467.7\50806.98;
+Ethereal Prism Rod\50511.63\79801.15;
+Challenger's Rod\47881.83\78615.65;
+Rod Of The Forgotten Fang\47543.22\77253.65;
+Zeus Rod\42939.92\69104.85;
+Verdant Shear Rod\42660.18\68887.46;
+Rod Of The Depths\42303.22\68443.83;
+Rod Of The Exalted One\40975.23\66166.6;
+Blazebringer Rod\40964.8\65926.22;
+Depthseeker Rod\40002.6\64672.6;
+Avalanche Rod\35784.19\57880.59;
+Volcanic Rod\33555.07\53877.73;
+Steady Rod\11865.73\19361.59
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching an Ancient Eel, the player has a chance to make one of the following exclamations:
+* A-A-Ancient Eel?!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|The Depths}}

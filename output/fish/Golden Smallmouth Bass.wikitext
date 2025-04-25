@@ -1,0 +1,70 @@
+{{FishInfobox
+|image          = Golden Smallmouth Bass.png
+|rarity         = Legendary
+|sea            = First Sea
+|location       = [[Terrapin Island]]
+|sublocation    = Freshwater
+|sources        = Fish Barrel, Fishing Rod
+|radar_location = 
+|xp             = 250
+|weather        = Foggy
+|time           = Day
+|season         = Autumn
+|bait           = Flakes
+|base_weight    = 4.5
+|base_value     = 700
+|weight_range   = 3
+|base_chance    = 4
+|base_resil     = 55
+}}
+'''Golden Smallmouth Bass''' is a {{Rarity|Legendary}} fish found in [[Terrapin Island]].
+
+== Description ==
+{{Description|A special and extremely rare breed of the Smallmouth Bass. They are extremely scarce in quantity, but they have slightly more haste and resilience than their cousins. Can be found alongside the Common Smallmouth Bass.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Swims fiercely in freshwater alongside their cousin; the Smallmouth Bass.|Bestiary Hint}}
+{{Fish Availability|
+Terrapin Island/Surrounding Ocean
+|top_rods      = 
+Leviathan's Fang Rod\28365.52\165619.5;
+Ethereal Prism Rod\28137.34\129697.03;
+Seraphic Rod\26420.28\130410.7;
+No-Life Rod\25455.47\133609.81;
+Tempest Rod\24945.14\129174.42;
+Resourceful Rod\22038.72\104877.21;
+Destiny Rod\23340.26\121087.71;
+Heaven's Rod\20463.87\119430.47;
+Trident Rod\22010.98\157341.82;
+Free Spirit Rod\21159.15\151252.66;
+Training Rod\10520.47\136743.91;
+Flimsy Rod\11159.27\129220.5;
+Rod Of The Forgotten Fang\24663.26\125167.07;
+Challenger's Rod\23329.96\124507.18;
+Rod Of The Exalted One\22161.08\118440.48;
+Rod Of The Depths\21994.06\115868.35;
+Zeus Rod\21000.75\115244.89;
+Verdant Shear Rod\20417.04\114507.42;
+Blazebringer Rod\19934.03\109831.17;
+Depthseeker Rod\18682.06\106439.56;
+Avalanche Rod\16837.56\96547.41;
+Volcanic Rod\16363.47\91151.38;
+Steady Rod\5228.51\33524.28
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching a Golden Smallmouth Bass, the player has a chance to make one of the following exclamations:
+* Now, where's the cymbol?
+* A Golden Bass??
+* Golden Bass!
+* A Golden Smallmouth Bass!
+* A Gold Bass!
+* I usually wear silver.
+* So shiny! A Golden Bass!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Terrapin Island}}

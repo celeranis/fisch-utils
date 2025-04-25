@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Umbral Shark.png
+|rarity         = Legendary
+|sea            = First Sea
+|location       = [[Keepers Altar]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -10
+|xp             = 500
+|weather        = Clear
+|time           = Night
+|season         = Winter
+|bait           = Fish Head
+|base_weight    = 155
+|base_value     = 1000
+|weight_range   = 50
+|base_chance    = 0.01
+|base_resil     = 10
+}}
+'''Umbral Shark''' is a {{Rarity|Legendary}} fish found in the [[Keepers Altar]].
+
+== Description ==
+{{Description|Umbral Sharks are a nocturnal bottom feeder, spending most of their time on the floor or in small crevices. They are gentle and slow-moving until provoked. Once angered, they can be extremely strong swimmers and often will break fishing lines. They are extremely rare, as they don't often come high enough in the water for anyone to see.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Caught at night in Keepers Altar.|Bestiary Hint}}
+{{Fish Availability|
+Keepers Altar
+|top_rods      = 
+Leviathan's Fang Rod\297616.64\746728.07;
+Free Spirit Rod\235242.44\731016.22;
+Trident Rod\229423.96\712935.29;
+Ethereal Prism Rod\213964.68\425123.82;
+Seraphic Rod\204052.55\437982.28;
+Resourceful Rod\165527.96\345053.98;
+Destiny Rod\172835.79\363569.81;
+Heaven's Rod\153674.45\371870.97;
+Azure Of Lagoon\150493.26\563067.6;
+No-Life Rod\203891.95\555181.31;
+Midas Rod\77067.12\218078.7;
+Long Rod\113910.15\295652.04;
+Great Dreamer Rod\156212.14\400160.53;
+Rod Of The Forgotten Fang\189573.79\426462.43;
+Challenger's Rod\182075.4\442589.53;
+Rod Of The Depths\168273.83\382911.28;
+Rod Of The Exalted One\168207.6\366622.65;
+Zeus Rod\162853.22\407784.64;
+Verdant Shear Rod\158751.92\399381.23;
+Blazebringer Rod\154995.48\389866.53;
+Depthseeker Rod\147034.88\371244.6;
+Avalanche Rod\131650.51\331273.13;
+Volcanic Rod\126896.88\339708.66;
+Steady Rod\41588.41\128768.12
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching an Umbral Shark, the player has a chance to make one of the following exclamations:
+* An Umbral Shark!
+* Woah! An Umbral Shark!
+* I Caught an Umbral Shark!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Keepers Altar}}

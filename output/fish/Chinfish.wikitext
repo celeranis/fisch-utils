@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Chinfish.png
+|rarity         = Uncommon
+|sea            = First Sea
+|location       = [[Sunstone Island]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 40
+|weather        = Rain
+|time           = 
+|season         = Autumn, Winter
+|bait           = 
+|base_weight    = 4
+|base_value     = 85
+|weight_range   = 2
+|base_chance    = 70
+|base_resil     = 80
+}}
+'''Chinfish''' is an {{Rarity|Uncommon}} fish found in [[Sunstone Island]].
+
+== Description ==
+{{Description|The Chinfish is a peculiar species with a distinct chin-like protrusion on its lower jaw. They are sluggish swimmers and are an interesting catch to have on the other side of your line.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Caught near Sunstone Island.|Bestiary Hint}}
+{{Fish Availability|
+Sunstone Island
+|top_rods      = 
+Leviathan's Fang Rod\177399.1\169256.2;
+Trident Rod\174960.89\108041.75;
+Free Spirit Rod\172446.32\107849.68;
+No-Life Rod\171215.29\154366.99;
+Azure Of Lagoon\169392.2\106409.19;
+Training Rod\147146.72\165993.54;
+Flimsy Rod\119201.67\109519.99;
+Resourceful Rod\151749.78\105481.26;
+Fast Rod\153748.31\153748.31;
+Seraphic Rod\153906.54\153541.51;
+Blazebringer Rod\159380.39\123640.29;
+Zeus Rod\158325.1\131047.87;
+Verdant Shear Rod\158076.36\131144.12;
+Depthseeker Rod\156846.14\119869.45;
+Avalanche Rod\155528.53\107595.06;
+Challenger's Rod\155379.47\140538.47;
+Volcanic Rod\154635.38\108280.23;
+Rod Of The Depths\149055.91\127520.07;
+Rod Of The Forgotten Fang\148773.63\140204.99;
+Ethereal Prism Rod\148613.57\110122.04;
+Rod Of The Exalted One\143879.89\125424.52;
+Steady Rod\77264.36\57296.64
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Chinfish, the player has a chance to make one of the following exclamations:
+* Woah, a Chinfish!
+* The Megachin!
+* I caught a Chinfish!
+* It's a Chinfish!
+* It's mewing!?
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Sunstone Island}}

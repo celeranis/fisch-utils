@@ -1,0 +1,70 @@
+{{FishInfobox
+|image          = Colossal Carp.png
+|rarity         = Uncommon
+|sea            = First Sea
+|location       = [[Atlantis]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 100
+|weather        = 
+|time           = Day
+|season         = 
+|bait           = Seaweed
+|base_weight    = 5
+|base_value     = 180
+|weight_range   = 3
+|base_chance    = 60
+|base_resil     = 75
+}}
+'''Colossal Carp''' is an {{Rarity|Uncommon}} fish found in [[Atlantis]].
+
+== Description ==
+{{Description|A normally peaceful species grown enormous in Poseidon's waters. Their size alone commands respect from other inhabitants.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Makes large waves when surfacing in Poseidon's Pool.|Bestiary Hint}}
+{{Fish Availability|
+Atlantis/Poseidon Temple
+|top_rods      = 
+Rapid Rod\251763\32295.84;
+Firefly Rod\248948.91\33810.03;
+Champions Rod\236704.1\24981.84;
+Celestial Rod\234369.5\25821.38;
+Summit Rod\234236.07\24993.4;
+Flimsy Rod\173962.82\32861.84;
+Training Rod\227618.24\44325.66;
+Fungal Rod\225858.7\34139.47;
+Nocturnal Rod\146267.19\85956.93;
+No-Life Rod\229809.51\34356.06;
+Fast Rod\219235.62\34159.46;
+Depthseeker Rod\234024.44\26657.28;
+Avalanche Rod\232067.69\23905.74;
+Verdant Shear Rod\228973.23\29134.88;
+Blazebringer Rod\222367.19\27472.47;
+Zeus Rod\220839.14\29114.79;
+Trident Rod\218895.82\24116.27;
+Volcanic Rod\215672.89\22094.4;
+Free Spirit Rod\215135.29\24065.36;
+Seraphic Rod\211744.79\34132.98;
+Challenger's Rod\209805.42\31253.78;
+Ethereal Prism Rod\204721.21\0;
+Rod Of The Forgotten Fang\193423.54\31179.62;
+Rod Of The Depths\191592.13\28332.73;
+Rod Of The Exalted One\169671.45\26608.9;
+Steady Rod\105232.24\9997.69
+|recommended   = Depthseeker Rod
+}}
+
+== Catch Quips ==
+When catching a Colossal Carp, the player has a chance to make one of the following exclamations:
+* A COLOSSAL CARP!
+* GIANT SCALES!
+* POSEIDON'S BLESSING!
+* ENORMOUS!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Atlantis}}

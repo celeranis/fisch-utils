@@ -1,0 +1,38 @@
+{{FishInfobox
+|image          = Ancient Serpent Spine.png
+|rarity         = Limited
+|event          = Archeological Site
+|sea            = First Sea
+|location       = [[Archeological Site]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -20
+|xp             = 250
+|weather        = 
+|time           = 
+|season         = 
+|bait           = 
+|base_weight    = 8
+|base_value     = 800
+|weight_range   = 5
+|base_chance    = 0.01
+|base_resil     = 100
+}}
+'''Ancient Serpent Spine''' is a {{Rarity|Limited}} fish found in [[Archeological Site]] during the [[Archeological Site]] event.
+
+== Description ==
+{{Description|A chilling relic of a fearsome, long-forgotten creature, radiating an aura of dread.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Legends say the Pirates had only ONCE ever caught this... No One else ever got to lay their hands on this fish...|Bestiary Hint}}
+
+== Catch Quips ==
+When catching an Ancient Serpent Spine, the player has a chance to make one of the following exclamations:
+* WOAH! ANCIENT SERPENT SPINE?!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Archeological Site}}

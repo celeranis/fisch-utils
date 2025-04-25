@@ -1,0 +1,25 @@
+{{BaitInfobox
+|image          = Bait Kraken Tentacle.png
+|rarity         = Legendary
+|crates         = 
+|angler_quests  = <!--TBD-->
+|pref_luck      = 100
+|univ_luck      = 35
+|resilience     = 15
+|lure           = 35
+|ability        = 
+}}
+'''Kraken Tentacle''' is a {{Rarity|Legendary}} [[Bait]] that can be used in fishing.
+
+== Obtainment ==
+Kraken Tentacles can be obtained in the following ways:
+<!--* [[Angler]] Quests, starting from the ?th completion-->
+
+== Favoring Fish ==
+{{Fish by Category Table|Kraken Tentacle-Loving Fish|event=1|show_location=1|hide_bait=1|resultsheader='''%PAGES%''' [[Fish]] prefer Kraken Tentacles:|noresultsheader=No fish prefer Kraken Tentacles.}}
+
+== Change History ==
+{{Change History|1.0}}
+
+== Navigation ==
+{{Bait Navbox}}

@@ -1,0 +1,69 @@
+{{FishInfobox
+|image          = Jungle Phantom.png
+|rarity         = Mythical
+|sea            = Second Sea
+|location       = [[Lushgrove]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -70
+|xp             = 1200
+|weather        = Rain
+|time           = Night
+|season         = Summer
+|bait           = Lushrooms
+|base_weight    = 160
+|base_value     = 2400
+|weight_range   = 100
+|base_chance    = 11
+|base_resil     = 20
+}}
+'''Jungle Phantom''' is a {{Rarity|Mythical}} fish found in [[Lushgrove]].
+
+== Description ==
+{{Description|A green fish with light green fins and dark green accents, fading into the jungle depths like a specter.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It slips away when the warm rains drench the dark.|Bestiary Hint}}
+{{Fish Availability|
+Lushgrove
+|top_rods      = 
+Krampus's Rod\45645.18\67375.81;
+Free Spirit Rod\44961.25\128473.99;
+Magma Rod\44446\81727.2;
+Egg Rod\36624.12\115250.96;
+Verdant Shear Rod\34652.83\109047.58;
+Frostfire Rod\30715.28\66108.92;
+Firefly Rod\31823.23\128449.29;
+Great Dreamer Rod\34321.42\107258.55;
+Lucky Rod\22155.77\88945.4;
+Long Rod\19582.29\84549.06;
+Fungal Rod\19764.04\87886.82;
+Blazebringer Rod\34346.02\105892.02;
+Trident Rod\28998.2\91841.16;
+Steady Rod\27424.36\66849.64;
+Seraphic Rod\24517.23\77152.28;
+Ethereal Prism Rod\24413.39\75981.18;
+No-Life Rod\23394.54\76064.76;
+Challenger's Rod\22872.33\74087.86;
+Rod Of The Forgotten Fang\22349.66\70578.46;
+Rod Of The Exalted One\22064.4\68485.07;
+Rod Of The Depths\21225.79\67750.65;
+Depthseeker Rod\20771.4\69405.86;
+Volcanic Rod\20355.24\66947.25;
+Avalanche Rod\20250.14\67773.59;
+Zeus Rod\20073.61\66020.98
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Jungle Phantom, the player has a chance to make one of the following exclamations:
+* A JUNGLE PHANTOM!
+* GHOST OF THE DEPTHS!
+* GREEN SHADOW!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Lushgrove}}

@@ -1,0 +1,65 @@
+{{FishInfobox
+|image          = Smolderfang.png
+|rarity         = Unusual
+|sea            = Second Sea
+|location       = [[Emberreach]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -7
+|xp             = 85
+|weather        = Rain
+|time           = Night
+|season         = Winter
+|bait           = Seaweed
+|base_weight    = 225
+|base_value     = 179
+|weight_range   = 126
+|base_chance    = 58
+|base_resil     = 51
+}}
+'''Smolderfang''' is an {{Rarity|Unusual}} fish found in [[Emberreach]].
+
+== Description ==
+{{Description|A dark fish, its fins and gaze simmering with quiet intensity.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It glows in the cold, wet shadows of dusk.|Bestiary Hint}}
+{{Fish Availability|
+Emberreach/Surrounding Ocean
+|top_rods      = 
+Fungal Rod\268387.45\268387.45;
+Antler Rod\258674.92\258674.92;
+Adventurer's Rod\201015.57\201015.57;
+Long Rod\198423.81\196548.54;
+Trident Rod\168395.97\150615.76;
+Firefly Rod\159586.65\152588.99;
+Free Spirit Rod\143186.47\106691.25;
+Verdant Shear Rod\135975.7\121618.6;
+No-Life Rod\132013.69\124303.06;
+Blazebringer Rod\129002.41\112866.12;
+Seraphic Rod\122020.16\109136.57;
+Challenger's Rod\116930.48\109417.48;
+Rod Of The Forgotten Fang\116064.78\104273.27;
+Depthseeker Rod\115718.24\114352.77;
+Avalanche Rod\113556.4\112496.11;
+Volcanic Rod\112579.97\108200.48;
+Rod Of The Depths\112230.95\103200.67;
+Zeus Rod\111987.38\107630.94;
+Rod Of The Exalted One\109098.16\70643.71;
+Ethereal Prism Rod\108916.75\73415.02;
+Steady Rod\93021.56\91310.62
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Smolderfang, the player has a chance to make one of the following exclamations:
+* A Smolderfang!
+* Yellow glare!
+* Smoky snap!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Emberreach}}

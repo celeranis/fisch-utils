@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Ornament Fish.png
+|rarity         = Limited
+|event          = Fischmas
+|sea            = First Sea
+|location       = [[Fischmas]]
+|sublocation    = 
+|sources        = Basic Present, Fishing Rod, Supreme Present, Unique Present
+|radar_location = 
+|prog_speed     = -5
+|xp             = 165
+|weather        = 
+|time           = 
+|season         = Autumn
+|bait           = Holly Berry
+|base_weight    = 0.7
+|base_value     = 140
+|weight_range   = 0.4
+|base_chance    = 15
+|base_resil     = 80
+}}
+'''Ornament Fish''' is a {{Rarity|Limited}} fish found in the [[Winter Village]] during the [[Fischmas]] event.
+
+== Description ==
+{{Description|An decorative ornament in the shape of a fish. Seems to exhibit signs of low intelligence.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Only can be caught during Fischmas24.|Bestiary Hint}}
+{{Fish Availability|
+Fischmas/Winter Village
+|top_rods      = 
+Krampus's Rod\146639.45\234755.53;
+Magma Rod\141982.18\227300;
+Plastic Rod\129596.95\207472.41;
+Buddy Bond Rod\96272.02\172869.15;
+Fast Rod\93212.22\232889.22;
+Fischer's Rod\82469.68\206049.15;
+Ethereal Prism Rod\77037.54\106147.55;
+Seraphic Rod\74609.42\85813.21;
+No-Life Rod\73664.58\88275.91;
+Rod Of The Forgotten Fang\69910.94\83917.92;
+Challenger's Rod\67723.67\83805.4;
+Trident Rod\66798.17\84754.06;
+Free Spirit Rod\65889.49\83601.12;
+Rod Of The Depths\63125.46\76843.99;
+Zeus Rod\62068.7\78081.14;
+Rod Of The Exalted One\61875.17\78930.02;
+Verdant Shear Rod\61294.01\78891.03;
+Blazebringer Rod\59101.78\75505.98;
+Depthseeker Rod\55981.77\70194.09;
+Avalanche Rod\50630.32\63228.44;
+Volcanic Rod\48361.37\61760.65;
+Training Rod\42124.61\131064.97;
+Steady Rod\23403.62\20810.33
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching an Ornament Fish, the player has a chance to make one of the following exclamations:
+* Woah, an Ornament!
+* Ouu! An Ornament Fish!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Fischmas}}

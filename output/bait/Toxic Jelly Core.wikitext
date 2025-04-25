@@ -1,0 +1,25 @@
+{{BaitInfobox
+|image          = Bait Toxic Jelly Core.png
+|rarity         = Legendary
+|crates         = 
+|angler_quests  = <!--TBD-->
+|pref_luck      = 180
+|univ_luck      = 90
+|resilience     = 35
+|lure           = -5
+|ability        = 
+}}
+'''Toxic Jelly Core''' is a {{Rarity|Legendary}} [[Bait]] that can be used in fishing.
+
+== Obtainment ==
+Toxic Jelly Cores can be obtained in the following ways:
+<!--* [[Angler]] Quests, starting from the ?th completion-->
+
+== Favoring Fish ==
+{{Fish by Category Table|Toxic Jelly Core-Loving Fish|event=1|show_location=1|hide_bait=1|resultsheader='''%PAGES%''' [[Fish]] prefer Toxic Jelly Cores:|noresultsheader=No fish prefer Toxic Jelly Cores.}}
+
+== Change History ==
+{{Change History|1.0}}
+
+== Navigation ==
+{{Bait Navbox}}

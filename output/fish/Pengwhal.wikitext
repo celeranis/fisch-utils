@@ -1,0 +1,70 @@
+{{FishInfobox
+|image          = Pengwhal.png
+|rarity         = Limited
+|event          = Animal Hunt
+|sea            = Second Sea
+|location       = [[Animals - Sea 2]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -5
+|xp             = 1000
+|weather        = Clear
+|time           = 
+|season         = Winter
+|bait           = Squid
+|base_weight    = 44
+|base_value     = 450
+|weight_range   = 29
+|base_chance    = 60
+|base_resil     = 70
+}}
+'''Pengwhal''' is a {{Rarity|Limited}} fish found in [[Animal Hunt]]s in the [[Second Sea]].
+
+== Description ==
+{{Description|A sleek swimmer with a horned snout, waddling through icy seas.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It spears the chill where snow dusts the waves.|Bestiary Hint}}
+{{Fish Availability|
+Animal Hunt/Second Sea
+|top_rods      = 
+Firefly Rod\146095.53\167577;
+Trident Rod\129550.51\127996.88;
+Leviathan's Fang Rod\123292.45\82351.02;
+Wildflower Rod\122959.54\121240.28;
+Fungal Rod\121502.24\121502.24;
+Long Rod\119910.51\119910.51;
+Great Dreamer Rod\119341.04\120368.78;
+Adventurer's Rod\105436.29\111255.06;
+Candy Cane Rod\98107.11\102236.84;
+Plastic Rod\99237.3\102910.93;
+Verdant Shear Rod\118404.77\116984.81;
+Free Spirit Rod\117737.75\83886.84;
+Blazebringer Rod\114391.45\95318.56;
+No-Life Rod\109672.18\108341.94;
+Seraphic Rod\104418.21\103165.98;
+Challenger's Rod\100673.07\99129.94;
+Rod Of The Forgotten Fang\99830.31\97573.04;
+Depthseeker Rod\99608.11\99608.11;
+Avalanche Rod\98634.35\98634.35;
+Volcanic Rod\98218.77\97894.32;
+Rod Of The Depths\98167.05\95453.64;
+Zeus Rod\97784.44\97461.43;
+Rod Of The Exalted One\96829.48\82262.5;
+Ethereal Prism Rod\95840.1\61911.36;
+Steady Rod\80566.68\80566.68
+|recommended   = Verdant Shear Rod
+}}
+
+== Catch Quips ==
+When catching a Pengwhal, the player has a chance to make one of the following exclamations:
+* A Pengwhal!
+* Penguin of the sea!
+* Icebound swimmer!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Animals - Sea 2}}

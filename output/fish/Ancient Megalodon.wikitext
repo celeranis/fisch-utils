@@ -1,0 +1,63 @@
+{{FishInfobox
+|image          = Ancient Megalodon.png
+|rarity         = Exotic
+|sea            = First Sea
+|location       = [[Ancient Isle]]
+|sublocation    = 
+|sources        = Fishing Rod
+|nopassive      = 1
+|radar_location = 
+|prog_speed     = -80
+|xp             = 9000
+|weather        = 
+|time           = 
+|season         = 
+|bait           = Shark Head
+|base_weight    = 70000
+|base_value     = 16000
+|weight_range   = 20000
+|base_chance    = 0.005
+|base_resil     = 5
+}}
+'''Ancient Megalodon''' is an {{Rarity|Exotic}} fish found in the [[Ancient Isle]].
+
+== Description ==
+{{Description|The Ancient Megalodon is a colossal predatory shark from prehistoric times, unmatched in size and ferocity. With its massive mouth and serrated teeth, it can effortlessly rip through any obstacle. A true apex predator of the Ancient Isle, it offers an incredible battle for those daring to catch it.|Bestiary Entry}}
+
+== Obtainment ==
+{{Fish Availability|
+Megalodon Hunt/Eclipse and Weekend
+Megalodon Hunt/Normal
+|top_rods      = 
+Leviathan's Fang Rod\20409.01\61249.46;
+Seraphic Rod\20306.94\57429.62;
+Ethereal Prism Rod\20182.39\54386.57;
+Tempest Rod\19914.11\56762.22;
+No-Life Rod\19172.62\55501.85;
+Destiny Rod\14444.45\36935.97;
+Heaven's Rod\13760.34\35828.02;
+Challenger's Rod\19038.88\56723.59;
+The Lost Rod\12387.3\36450.22;
+Volcanic Rod\11069.73\32573.21;
+Zeus Rod\14093.66\41471.26;
+Rod Of The Forgotten Fang\17648.9\49105.1;
+Rod Of The Exalted One\14719.16\40048.5;
+Avalanche Rod\11747.86\35469.55;
+Steady Rod\3869.1\12886.37
+|recommended   = Seraphic Rod
+}}
+
+== Gameplay Notes ==
+* While reeling in an Ancient Megalodon, the fish will ''not'' be visible in the water.
+* Ancient Megalodon usually cannot be caught with passive effects, such as the one provided by the [[Rod Of The Depths]] and [[Rod Of The Forgotten Fang]].
+** The only exception is when catching a Ancient Megalodon on the Megalodon Passive reel of the [[Rod Of The Forgotten Fang]], the Megalodon will instead dupe the Ancient Megalodon.
+
+== Catch Quips ==
+When catching an Ancient Megalodon, the player has a chance to make one of the following exclamations:
+* WOAH THE ANCIENT MEG!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ancient Isle}}

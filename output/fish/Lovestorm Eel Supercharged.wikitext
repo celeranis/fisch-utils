@@ -1,0 +1,69 @@
+{{FishInfobox
+|image          = Lovestorm Eel Supercharged.png
+|rarity         = Secret
+|event          = Love
+|sea            = First Sea
+|location       = [[Valentine's Day]]
+|sublocation    = 
+|sources        = Fishing Rod
+|nopassive      = 1
+|radar_location = 
+|prog_speed     = -95
+|xp             = 20000
+|weather        = Clear
+|time           = 
+|season         = Winter
+|bait           = Chocolate Fish
+|base_weight    = 10500
+|base_value     = 25000
+|weight_range   = 4500
+|base_chance    = 0.001
+|base_resil     = 1
+}}
+'''Lovestorm Eel Supercharged''' is a {{Rarity|Secret}} fish found in [[Lovestorm]]s during the [[Valentine's Day]] event during the [[Love]] event.
+
+== Description ==
+{{Description|A Love Eel infused with fury of the tempest, with power beyond comprehension.|Bestiary Entry}}
+
+== Obtainment ==
+{{Fish Availability|
+Lovestorm/Supercharged
+|top_rods      = 
+Tempest Rod\897.21\3050.96;
+Challenger's Rod\883.67\3014.65;
+Seraphic Rod\628\2124.1;
+Summit Rod\601.86\2137.06;
+Abyssal Specter Rod\572.45\1994.32;
+Destiny Rod\15.37\45.85;
+Heaven's Rod\216.09\657.67;
+Ethereal Prism Rod\493.69\1579.26;
+Krampus's Rod\0\-0.01;
+Rod Of The Depths\0\-0.01;
+Rod Of The Forgotten Fang\267.04\883.75;
+No-Life Rod\201.63\689.92;
+Depthseeker Rod\131.27\469.19;
+Rod Of The Exalted One\46.61\148.95;
+Steady Rod\0\0;
+Avalanche Rod\0\0;
+Volcanic Rod\0\-0.01;
+Zeus Rod\-0.01\-0.01;
+Trident Rod\-0.01\-0.01
+|recommended   = Challenger's Rod
+}}
+
+== Gameplay Notes ==
+* Lovestorm Eel Supercharged usually cannot be caught with passive effects, such as the one provided by the [[Rod Of The Depths]] and [[Rod Of The Forgotten Fang]].
+** The only exception is when catching a Lovestorm Eel Supercharged on the Megalodon Passive reel of the [[Rod Of The Forgotten Fang]], the Megalodon will instead dupe the Lovestorm Eel Supercharged.
+
+== Catch Quips ==
+When catching a Lovestorm Eel Supercharged, the player has a chance to make one of the following exclamations:
+* SUPERCHARGED?
+* UNSTOPPABLE LOVE!
+* INCARNATE OF THUNDER!
+* DESTRUCTIVE LOVE!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Love}}

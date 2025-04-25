@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Ice Jellyfish.png
+|rarity         = Unusual
+|sea            = First Sea
+|location       = [[Frigid Cavern]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 130
+|weather        = 
+|time           = 
+|season         = Winter
+|bait           = 
+|base_weight    = 4.5
+|base_value     = 280
+|weight_range   = 2.5
+|base_chance    = 45
+|base_resil     = 60
+}}
+'''Ice Jellyfish''' is an {{Rarity|Unusual}} fish found in the [[Frigid Cavern]].
+
+== Description ==
+{{Description|A translucent jellyfish with tentacles that sparkle like icicles in the dim light.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Drifts through the cavern's larger chambers.|Bestiary Hint}}
+{{Fish Availability|
+Frigid Cavern
+|top_rods      = 
+Training Rod\225570.37\175932.71;
+Champions Rod\199801.15\96576.41;
+Celestial Rod\197014.49\99728.25;
+Ice Warpers Rod\194930.19\99290.44;
+Rapid Rod\194891.8\124462.83;
+Flimsy Rod\142753.82\102005.22;
+Fungal Rod\179001.3\109610.37;
+Ethereal Prism Rod\178828.03\150974.59;
+No-Life Rod\177201.41\133351.05;
+Seraphic Rod\175345.2\131954.18;
+Leviathan's Fang Rod\172492.91\129807.72;
+Fortune Rod\99019.52\92431.5;
+Avalanche Rod\189312.64\92237.5;
+Depthseeker Rod\188608.98\102932.81;
+Verdant Shear Rod\175527.21\112372.23;
+Challenger's Rod\160563.48\120830.35;
+Rod Of The Forgotten Fang\160031.51\120430.03;
+Blazebringer Rod\159046.21\106024.9;
+Zeus Rod\157830.88\112316.46;
+Volcanic Rod\154043.11\85240.32;
+Rod Of The Depths\145266.16\109318.51;
+Rod Of The Exalted One\136490.19\102714.25;
+Trident Rod\129709.57\94574.56;
+Free Spirit Rod\125689.04\94250.74;
+Steady Rod\85528.95\48396.76
+|recommended   = Training Rod
+}}
+
+== Catch Quips ==
+When catching an Ice Jellyfish, the player has a chance to make one of the following exclamations:
+* An Ice Jellyfish!
+* Like floating frost!
+* Beautiful!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Frigid Cavern}}

@@ -1,0 +1,26 @@
+{{BaitInfobox
+|image          = Bait Deep Coral.png
+|rarity         = Legendary
+|crates         = Coral Geode/0.28
+|angler_quests  = <!--TBD-->
+|pref_luck      = -10
+|univ_luck      = 
+|resilience     = 50
+|lure           = 
+|ability        = 
+}}
+'''Deep Coral''' is a {{Rarity|Legendary}} [[Bait]] that can be used in fishing.
+
+== Obtainment ==
+Deep Corals can be obtained in the following ways:
+* {{Item|Coral Geode}} (0.28/crate on average)
+<!--* [[Angler]] Quests, starting from the ?th completion-->
+
+== Favoring Fish ==
+{{Fish by Category Table|Deep Coral-Loving Fish|event=1|show_location=1|hide_bait=1|resultsheader='''%PAGES%''' [[Fish]] prefer Deep Corals:|noresultsheader=No fish prefer Deep Corals.}}
+
+== Change History ==
+{{Change History|1.0}}
+
+== Navigation ==
+{{Bait Navbox}}

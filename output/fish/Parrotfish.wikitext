@@ -1,0 +1,69 @@
+{{FishInfobox
+|image          = Parrotfish.png
+|rarity         = Limited
+|event          = Animal Hunt
+|sea            = Second Sea
+|location       = [[Animals - Sea 2]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = +5
+|xp             = 880
+|weather        = Windy
+|time           = 
+|season         = Summer
+|bait           = Crystal Bananas
+|base_weight    = 12
+|base_value     = 280
+|weight_range   = 7.5
+|base_chance    = 70
+|base_resil     = 50
+}}
+'''Parrotfish''' is a {{Rarity|Limited}} fish found in [[Animal Hunt]]s in the [[Second Sea]].
+
+== Description ==
+{{Description|A vibrant fish with a beak, squawking through the coral reefs.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It chatters where the winds stir the tropical waters.|Bestiary Hint}}
+{{Fish Availability|
+Animal Hunt/Second Sea
+|top_rods      = 
+Training Rod\225793.98\NaN;
+Flimsy Rod\196725.52\204044.12;
+Leviathan's Fang Rod\169533.54\184438.3;
+Free Spirit Rod\169297.23\99857.57;
+Trident Rod\169198.2\167169.09;
+Lucky Rod\141431.41\164805.21;
+Great Dreamer Rod\137121.09\149176.26;
+Verdant Shear Rod\138988.5\148702.89;
+Long Rod\135906.43\135906.43;
+Adventurer's Rod\124540.87\126666.67;
+Candy Cane Rod\109736.84\115506.41;
+Blazebringer Rod\140018.21\152328.09;
+No-Life Rod\131742.52\130144.58;
+Seraphic Rod\120842.76\119393.56;
+Ethereal Prism Rod\118962.15\108033.3;
+Challenger's Rod\116142.52\114362.27;
+Rod Of The Forgotten Fang\114954.18\112354.94;
+Rod Of The Exalted One\114559.34\120816.55;
+Depthseeker Rod\114489.04\114489.04;
+Avalanche Rod\112486.84\112486.84;
+Volcanic Rod\112094.72\111724.44;
+Rod Of The Depths\111953.91\108859.43;
+Zeus Rod\111575.76\111207.19;
+Steady Rod\92336.84\92336.84
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Parrotfish, the player has a chance to make one of the following exclamations:
+* A Parrotfish!
+* Parrot of the deep!
+* Colorful catch!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Animals - Sea 2}}

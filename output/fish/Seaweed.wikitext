@@ -1,0 +1,116 @@
+{{FishInfobox
+|image          = Seaweed.png
+|rarity         = Trash
+|sea            = First Sea
+|location       = [[Regionless]]
+|sublocation    = Saltwater
+|sources        = Crab Cage, Fishing Rod
+|radar_location = 
+|xp             = 20
+|weather        = 
+|time           = 
+|season         = 
+|bait           = Magnet
+|base_weight    = 0.3
+|base_value     = 9
+|weight_range   = 0.2
+|base_chance    = 20
+|base_resil     = 90
+}}
+'''Seaweed''' is a {{Rarity|Trash}} fish found in [[Regionless]].
+
+== Description ==
+{{Description|Some lovely seaweed that caught your hook. Not as cool as a fish, but it's better than finding a lonesome boot!|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Find it in saltwater or near patches of seaweed.|Bestiary Hint}}
+{{Fish Availability|
+Ancient Archives
+Ancient Isle/Algae Hunt
+Atlantis/Ancient Kraken Hunt
+Atlantis/Ethereal Abyss
+Atlantis/Kraken Hunt
+Atlantis/Kraken Pool
+Atlantis/Poseidon Temple
+Atlantis/Sunken Depths
+Atlantis/Surrounding Ocean
+Atlantis/Zeus's Rod Room
+Cryogenic Canal
+FischFright/Frightful Pool
+Forsaken Shores/Algae Hunt
+Forsaken Shores/Coral Reef
+Forsaken Shores/Freshwater Pond
+Forsaken Shores/Surrounding Ocean
+Frigid Cavern
+Glacial Grotto
+Golden Tide
+Grand Reef
+Keepers Altar
+Lovestorm/Normal
+Lovestorm/Supercharged
+Lucky Event/Blarney McBreeze
+Lucky Event/O'Mango Goldgrin
+Lucky Event/Plumrick O'Luck
+Lucky Event/Rowdy McCharm
+Lucky Event/Sunny O'Coin
+Megalodon Hunt/Eclipse and Weekend
+Megalodon Hunt/Normal
+Moosewood/Docks
+Moosewood/Seaweed and Mini-Island
+Moosewood/Surrounding Ocean
+Mushgrove Swamp/Algae Hunt
+Northern Summit/Surrounding Ocean
+Ocean
+Ocean/Deep Ocean
+Ocean/Hidden Scallop Abundance
+Ocean/Strange Whirlpool
+Ocean/The Arch
+Orca Migration/Ancient
+Orca Migration/Normal
+Overgrowth Caves
+Roslit Bay/Freshwater Pond Seaweed
+Snowcap Island/Algae Hunt
+Sunstone Island
+Sunstone Island/Crate Cave
+Whale Migration/Moby
+Whale Migration/Normal
+|top_rods      = 
+Training Rod\232155.73\302941.97;
+Resourceful Rod\216472.65\311547.62;
+Flimsy Rod\213998.87\334735.65;
+Fast Rod\201795.21\201795.21;
+Crystalized Rod\201080.82\135186.17;
+Magnet Rod\154484.29\238811.17;
+Stone Rod\156047.25\224583.33;
+Heaven's Rod\129557.04\205891.29;
+No-Life Rod\200795.79\200795.79;
+Seraphic Rod\200005.32\200005.32;
+Ethereal Prism Rod\198590.43\198590.43;
+Challenger's Rod\183067.38\183067.38;
+Rod Of The Forgotten Fang\182632.98\182632.98;
+Verdant Shear Rod\171143.62\171143.62;
+Zeus Rod\170704.79\170704.79;
+Rod Of The Depths\166382.98\166382.98;
+Blazebringer Rod\161183.51\161183.51;
+Depthseeker Rod\156143.62\156143.62;
+Rod Of The Exalted One\155984.04\155984.04;
+Avalanche Rod\140385.64\140385.64;
+Trident Rod\139802.61\139802.61;
+Free Spirit Rod\139631.37\139631.37;
+Volcanic Rod\129654.26\129654.26;
+Steady Rod\107313.83\107313.83
+|recommended   = Training Rod
+}}
+
+== Catch Quips ==
+When catching a Seaweed, the player has a chance to make one of the following exclamations:
+* Seaweed!
+* Oh. Seaweed.
+* It's!- Oh.. Seaweed..
+* Seaweed..
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Regionless}}

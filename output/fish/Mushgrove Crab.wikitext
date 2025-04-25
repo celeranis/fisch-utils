@@ -1,0 +1,40 @@
+{{FishInfobox
+|image          = Mushgrove Crab.png
+|rarity         = Rare
+|sea            = First Sea
+|location       = [[Mushgrove Swamp]]
+|sublocation    = 
+|sources        = Crab Cage
+|radar_location = 
+|xp             = 80
+|weather        = 
+|time           = 
+|season         = Summer
+|bait           = 
+|base_weight    = 1.4
+|base_value     = 330
+|weight_range   = 0.8
+|base_chance    = 14
+|base_resil     = 90
+}}
+'''Mushgrove Crab''' is a {{Rarity|Rare}} fish found in [[Mushgrove Swamp]].
+
+== Description ==
+{{Description|The Mushgrove Crab is a rare species of crab. They have fully adapted to the Mushgrove Swamp and commonly eat off of the massive fungal life that has over taken the swamp.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Can be caught while cage fishing in mushgrove.|Bestiary Hint}}
+
+== Catch Quips ==
+When catching a Mushgrove Crab, the player has a chance to make one of the following exclamations:
+* A Crusty Mushgrove Crab!
+* Woah! A Mushgrove Crab
+* Awesome!
+* A Mushgrove Crab!
+* Ou! A Mushgrove Crab!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Mushgrove Swamp}}

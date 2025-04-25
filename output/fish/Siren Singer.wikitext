@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Siren Singer.png
+|rarity         = Unusual
+|sea            = First Sea
+|location       = [[Atlantis]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 220
+|weather        = Clear
+|time           = Night
+|season         = Summer
+|bait           = Deep Coral
+|base_weight    = 9.5
+|base_value     = 380
+|weight_range   = 4.5
+|base_chance    = 28
+|base_resil     = 35
+}}
+'''Siren Singer''' is an {{Rarity|Unusual}} fish found in [[Atlantis]].
+
+== Description ==
+{{Description|These enchanting fish produce melodic vibrations that ancient mariners often mistook for ethereal songs. Their scales shimmer with hypnotic patterns when they sing.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Ethereal Abyss Pool|Bestiary Hint}}
+{{Fish Availability|
+Atlantis/Ethereal Abyss
+|top_rods      = 
+Leviathan's Fang Rod\162536.28\153907.15;
+Krampus's Rod\155332.03\167664.45;
+Trident Rod\153864.11\157986.3;
+Magma Rod\143051.85\154409.29;
+Free Spirit Rod\135673.21\139308.05;
+Plastic Rod\134893.03\145561.96;
+Fast Rod\108194.24\168611.09;
+Fischer's Rod\99589.81\155201.86;
+Flimsy Rod\91401.63\146871.39;
+Training Rod\63352.81\109868.79;
+Buddy Bond Rod\100085.34\137830.7;
+Ethereal Prism Rod\123527.34\96447.74;
+No-Life Rod\120963.12\108279.41;
+Seraphic Rod\120051.42\97600.07;
+Rod Of The Forgotten Fang\112322.95\96077.47;
+Challenger's Rod\109432.24\96389.19;
+Rod Of The Depths\101145.67\88599.26;
+Zeus Rod\99923.53\89502.82;
+Rod Of The Exalted One\98883.5\91162.31;
+Verdant Shear Rod\98433.56\89463.11;
+Blazebringer Rod\94916\85378.85;
+Depthseeker Rod\90720.41\83812.22;
+Avalanche Rod\81776.49\75829.19;
+Volcanic Rod\77862.76\70776.53;
+Steady Rod\32088.44\27357.27
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Siren Singer, the player has a chance to make one of the following exclamations:
+* A Siren Singer!
+* Such a beautiful song!
+* Don't get hypnotized!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Atlantis}}

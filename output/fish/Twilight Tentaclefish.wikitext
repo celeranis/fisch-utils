@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Twilight Tentaclefish.png
+|rarity         = Mythical
+|sea            = First Sea
+|location       = [[Veil of the Forsaken]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -85
+|xp             = 3400
+|weather        = Clear
+|time           = 
+|season         = 
+|bait           = Truffle Worm
+|base_weight    = 750
+|base_value     = 13000
+|weight_range   = 470
+|base_chance    = 3
+|base_resil     = 5
+}}
+'''Twilight Tentaclefish''' is a {{Rarity|Mythical}} fish found in the [[Veil of the Forsaken]] of [[Mariana's Veil]].
+
+== Description ==
+{{Description|A long, tentacle-like fish with glowing eyes and a body that shimmers in the dark.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Rarely spotted in dark, murky waters|Bestiary Hint}}
+{{Fish Availability|
+Mariana's Veil/Scylla Hunt
+Mariana's Veil/Veil of the Forsaken
+|top_rods      = 
+Ethereal Prism Rod\59495.05\162552.84;
+Seraphic Rod\58964.85\171345.84;
+Tempest Rod\57439.77\175632.15;
+Leviathan's Fang Rod\56239.29\156737.47;
+Challenger's Rod\54444.54\170699.36;
+Resourceful Rod\46376.02\135436.03;
+Destiny Rod\41877.15\106920.09;
+Heaven's Rod\40547.53\106667.67;
+No-Life Rod\50726.85\160335.27;
+Frog Rod\23664.11\86408.75;
+Wildflower Rod\25312.02\103773.97;
+Rod Of The Forgotten Fang\49305.92\144322.31;
+Free Spirit Rod\42679.12\141288.68;
+Rod Of The Exalted One\40729.14\115065.84;
+Rod Of The Depths\38079.87\113982.37;
+Trident Rod\37816.99\109892.29;
+Blazebringer Rod\35125.1\114900;
+Depthseeker Rod\35019.52\120170.27;
+Zeus Rod\34711.86\113548.24;
+Verdant Shear Rod\32545.24\110324.95;
+Avalanche Rod\28325.88\97681.21;
+Volcanic Rod\27404.1\89643.35;
+Steady Rod\8964.77\33682.76
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching a Twilight Tentaclefish, the player has a chance to make one of the following exclamations:
+* A TWILIGHT TENTACLEFISH!?
+* OCTOPUS THING!
+* TWILIGHT!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Veil of the Forsaken}}

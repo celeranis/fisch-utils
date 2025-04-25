@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Inferno Hide.png
+|rarity         = Common
+|sea            = First Sea
+|location       = [[Volcanic Vents]]
+|sublocation    = 
+|sources        = Fishing Rod
+|nopassive      = 1
+|radar_location = 
+|prog_speed     = -20
+|xp             = 250
+|weather        = 
+|time           = 
+|season         = 
+|bait           = 
+|base_weight    = 8
+|base_value     = 50
+|weight_range   = 5
+|base_chance    = 20
+|base_resil     = 100
+}}
+'''Inferno Hide''' is a {{Rarity|Common}} fish found in [[Volcanic Vents]] of [[Mariana's Veil]].
+
+== Description ==
+{{Description|Inferno Hide.. Used to craft something?|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Its pretty|Bestiary Hint}}
+{{Fish Availability|
+Mariana's Veil/Volcanic Vents
+|top_rods      = 
+Flimsy Rod\374360.98\162861.39;
+Ethereal Prism Rod\362280.72\84111.26;
+Magnet Rod\353577.43\153891.24;
+Fast Rod\319562.15\68560.61;
+No-Life Rod\318353.81\68324.02;
+Training Rod\286016.95\120517.85;
+Heaven's Rod\297867.45\131369.11;
+Seraphic Rod\317699.51\68183.6;
+Challenger's Rod\290579.46\62363.18;
+Rod Of The Forgotten Fang\289467.55\62124.55;
+Verdant Shear Rod\270852.75\58124.68;
+Zeus Rod\269956.16\57937.08;
+Rod Of The Depths\263470.01\56545.04;
+Blazebringer Rod\255258.2\54778.11;
+Depthseeker Rod\247320.82\53079.16;
+Rod Of The Exalted One\247003.13\53010.98;
+Avalanche Rod\222302.82\47709.88;
+Free Spirit Rod\221263.22\47482.83;
+Trident Rod\219973.72\47210.02;
+Volcanic Rod\205174.09\44033.77;
+Steady Rod\129680.62\24872.4
+|recommended   = Ethereal Prism Rod
+}}
+
+== Gameplay Notes ==
+* Inferno Hide usually cannot be caught with passive effects, such as the one provided by the [[Rod Of The Depths]] and [[Rod Of The Forgotten Fang]].
+** The only exception is when catching a Inferno Hide on the Megalodon Passive reel of the [[Rod Of The Forgotten Fang]], the Megalodon will instead dupe the Inferno Hide.
+
+== Catch Quips ==
+When catching an Inferno Hide, the player has a chance to make one of the following exclamations:
+* Thats pretty
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Volcanic Vents}}

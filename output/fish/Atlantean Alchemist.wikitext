@@ -1,0 +1,66 @@
+{{FishInfobox
+|image          = Atlantean Alchemist.png
+|rarity         = Rare
+|sea            = First Sea
+|location       = [[Atlantis]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 500
+|weather        = Clear
+|time           = Night
+|season         = 
+|bait           = Fish Head
+|base_weight    = 40
+|base_value     = 800
+|weight_range   = 20
+|base_chance    = 10
+|base_resil     = 25
+}}
+'''Atlantean Alchemist''' is a {{Rarity|Rare}} fish found in [[Atlantis]].
+
+== Description ==
+{{Description|These fish have evolved to process magical minerals, causing their scales to transmute between different precious metals. They're living examples of ancient alchemy.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Sunken's Depth Pool|Bestiary Hint}}
+{{Fish Availability|
+Atlantis/Sunken Depths
+|top_rods      = 
+Leviathan's Fang Rod\79923.02\135294.56;
+Free Spirit Rod\69853.14\122746.83;
+Trident Rod\68315.28\120044.49;
+Krampus's Rod\59291.87\66000.86;
+Ethereal Prism Rod\57792.28\84484.23;
+Plastic Rod\49643.51\55252.03;
+Buddy Bond Rod\37884.64\48894.3;
+No-Life Rod\56105.24\93318.24;
+Seraphic Rod\55807.28\86497.68;
+Lucky Rod\31723.65\61422.94;
+Long Rod\33514.25\60185.85;
+Fungal Rod\37225.44\66759.2;
+Rod Of The Forgotten Fang\52118.93\80155.93;
+Challenger's Rod\50510.61\77220.2;
+Rod Of The Depths\46741.25\69787.38;
+Rod Of The Exalted One\46016.79\70222.37;
+Zeus Rod\45851.54\71022.81;
+Verdant Shear Rod\45010.3\70545.45;
+Blazebringer Rod\43572.27\67785.65;
+Depthseeker Rod\41516.19\66256.29;
+Avalanche Rod\37358.28\59711.89;
+Volcanic Rod\35727.71\56144.3;
+Steady Rod\12035.26\20430.47
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching an Atlantean Alchemist, the player has a chance to make one of the following exclamations:
+* An Atlantean Alchemist!
+* Pure gold!
+* Now it's silver!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Atlantis}}

@@ -1,0 +1,92 @@
+{{FishInfobox
+|image          = Salmon.png
+|rarity         = Uncommon
+|sea            = First Sea
+|location       = [[Ocean]]
+|sublocation    = Freshwater
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 90
+|weather        = Rain, Clear
+|time           = 
+|season         = Spring, Winter
+|bait           = Worm
+|base_weight    = 10
+|base_value     = 130
+|weight_range   = 6
+|base_chance    = 70
+|base_resil     = 70
+}}
+'''Salmon''' is an {{Rarity|Uncommon}} fish found in the [[Ocean]].
+
+== Description ==
+{{Description|Salmon are visually known for their silver skin and streamlined bodies. They are extremely strong swimmers and leapers, making them a difficult catch. You can find these Ocean Salmon in any deep bodies of salt water, and some freshwaters.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in oceans and some freshwaters.|Bestiary Hint}}
+{{Fish Availability|
+Ancient Isle/Algae Hunt
+Atlantis/Surrounding Ocean
+FischFright/Frightful Pool
+Forsaken Shores/Algae Hunt
+Golden Tide
+Lovestorm/Normal
+Lovestorm/Supercharged
+Lucky Event/Blarney McBreeze
+Lucky Event/O'Mango Goldgrin
+Lucky Event/Plumrick O'Luck
+Lucky Event/Rowdy McCharm
+Lucky Event/Sunny O'Coin
+Megalodon Hunt/Eclipse and Weekend
+Megalodon Hunt/Normal
+Mushgrove Swamp/Algae Hunt
+Northern Summit/Surrounding Ocean
+Ocean
+Ocean/Deep Ocean
+Ocean/Harvesters Spike
+Ocean/The Arch
+Orca Migration/Ancient
+Orca Migration/Normal
+Roslit Bay/Surrounding Ocean
+Snowcap Island/Algae Hunt
+Snowcap Island/Surrounding Ocean
+Whale Migration/Moby
+Whale Migration/Normal
+|top_rods      = 
+Training Rod\147438.9\152723.31;
+Leviathan's Fang Rod\131209.82\139738.22;
+Trident Rod\131196.75\88079.15;
+Free Spirit Rod\128481.03\87859.77;
+Ethereal Prism Rod\126565.8\94313.87;
+Flimsy Rod\111141.61\99502.51;
+Seraphic Rod\122097.73\124116.11;
+No-Life Rod\123319.31\122537.74;
+Fast Rod\120549.94\120549.94;
+Depthseeker Rod\119511.07\94926.09;
+Avalanche Rod\118196.47\86402.6;
+Verdant Shear Rod\117466.13\103713.35;
+Blazebringer Rod\117451.79\97813.54;
+Zeus Rod\116614.42\103647.34;
+Volcanic Rod\113870.94\82710.7;
+Challenger's Rod\113188.21\111378.53;
+Rod Of The Forgotten Fang\111265.25\112635.99;
+Rod Of The Depths\107501.66\100869.25;
+Rod Of The Exalted One\103542.61\100309.88;
+Steady Rod\61878.61\48023.95
+|recommended   = Training Rod
+}}
+
+== Catch Quips ==
+When catching a Salmon, the player has a chance to make one of the following exclamations:
+* Salmoff!
+* Woah!
+* Awesome!
+* A Salmon!
+* Woah, A Salmon!
+* A Salmon!!!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ocean}}

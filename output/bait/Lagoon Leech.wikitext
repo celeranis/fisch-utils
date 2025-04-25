@@ -1,0 +1,26 @@
+{{BaitInfobox
+|image          = Bait Lagoon Leech.png
+|rarity         = Rare
+|crates         = Tropical Bait Crate/0.75
+|angler_quests  = <!--TBD-->
+|pref_luck      = 65
+|univ_luck      = -10
+|resilience     = 20
+|lure           = 15
+|ability        = 
+}}
+'''Lagoon Leech''' is a {{Rarity|Rare}} [[Bait]] that can be used in fishing.
+
+== Obtainment ==
+Lagoon Leechs can be obtained in the following ways:
+* {{Item|Tropical Bait Crate}} (0.75/crate on average)
+<!--* [[Angler]] Quests, starting from the ?th completion-->
+
+== Favoring Fish ==
+{{Fish by Category Table|Lagoon Leech-Loving Fish|event=1|show_location=1|hide_bait=1|resultsheader='''%PAGES%''' [[Fish]] prefer Lagoon Leechs:|noresultsheader=No fish prefer Lagoon Leechs.}}
+
+== Change History ==
+{{Change History|1.0}}
+
+== Navigation ==
+{{Bait Navbox}}

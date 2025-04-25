@@ -1,0 +1,66 @@
+{{FishInfobox
+|image          = Leedsichthys.png
+|rarity         = Legendary
+|sea            = First Sea
+|location       = [[Ancient Isle]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -25
+|xp             = 1500
+|weather        = Foggy
+|time           = Day
+|season         = 
+|bait           = Squid
+|base_weight    = 1100
+|base_value     = 2200
+|weight_range   = 200
+|base_chance    = 0.25
+|base_resil     = 30
+}}
+'''Leedsichthys''' is a {{Rarity|Legendary}} fish found in the [[Ancient Isle]].
+
+== Description ==
+{{Description|Leedsichthys is a colossal, plankton-feeding fish from the Jurassic period, approximately 165–150 million years ago. It is one of the largest fish ever to exist, showcasing the diversity of prehistoric marine life.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Can be found in the waterfalls on the Ancient Isle.|Bestiary Hint}}
+{{Fish Availability|
+Ancient Isle/Waterfall
+|top_rods      = 
+Leviathan's Fang Rod\82048.23\660032.61;
+Trident Rod\68790.33\485876.38;
+Ethereal Prism Rod\66784.1\397020.24;
+Free Spirit Rod\65369.59\461715.21;
+Seraphic Rod\64299.03\398980.21;
+Resourceful Rod\51205.56\325323.93;
+Destiny Rod\53557.87\344348.7;
+Heaven's Rod\47723.72\365611.39;
+No-Life Rod\63145.24\434090.31;
+Rod Of The Depths\53380.18\354046.98;
+Rod Of The Zenith\56941.77\362383.28;
+Rod Of The Forgotten Fang\59806.24\390758.58;
+Challenger's Rod\57401.05\397353.61;
+Rod Of The Exalted One\52858.19\336236.89;
+Zeus Rod\51149.47\347022.42;
+Verdant Shear Rod\49769.63\347478.85;
+Blazebringer Rod\48697.96\330390.16;
+Depthseeker Rod\45902.58\323663.47;
+Avalanche Rod\41182.03\291543.04;
+Volcanic Rod\39882.63\271024.88;
+Steady Rod\12967\97665.41
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Leedsichthys, the player has a chance to make one of the following exclamations:
+* Woah, I caught a Leedsichthys!
+* A Leedsichthys!
+* Ouu, a Leedsichthys!
+* This thing's massive!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ancient Isle}}

@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Obsidian Koi.png
+|rarity         = Mythical
+|sea            = Second Sea
+|location       = [[Emberreach]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -72
+|xp             = 1220
+|weather        = Windy
+|time           = 
+|season         = Summer
+|bait           = Magnet
+|base_weight    = 468
+|base_value     = 2525
+|weight_range   = 294
+|base_chance    = 9
+|base_resil     = 18
+}}
+'''Obsidian Koi''' is a {{Rarity|Mythical}} fish found in [[Emberreach]].
+
+== Description ==
+{{Description|A sleek fish, its fins flowing like dark, polished glass.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It drifts where the warm gusts fan the flames.|Bestiary Hint}}
+{{Fish Availability|
+Emberreach/Surrounding Ocean
+|top_rods      = 
+Krampus's Rod\45097.47\62242.48;
+Free Spirit Rod\44118.61\128906.77;
+Magma Rod\43186.74\61506.29;
+Firefly Rod\39747.75\155276.31;
+Egg Rod\37882.03\113946.03;
+Frostfire Rod\27476.88\63021.08;
+Steady Rod\23840.23\63853.95;
+Verdant Shear Rod\35716.39\107431.95;
+Great Dreamer Rod\35475.4\105897.39;
+Resourceful Rod\29142.75\76502.96;
+Blazebringer Rod\35666.77\104891.96;
+Trident Rod\27650.45\83170.28;
+Seraphic Rod\25562.36\76889.46;
+Ethereal Prism Rod\25474.56\74229.57;
+No-Life Rod\24147.13\75272.18;
+Challenger's Rod\23761.6\73768.18;
+Rod Of The Forgotten Fang\23152.93\69910.7;
+Rod Of The Exalted One\22851.58\67703.67;
+Rod Of The Depths\21829.75\66692.28;
+Depthseeker Rod\21250.35\68230.39;
+Volcanic Rod\20791.14\65623.64;
+Avalanche Rod\20643.23\66396.7;
+Zeus Rod\20471.82\64615.78
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching an Obsidian Koi, the player has a chance to make one of the following exclamations:
+* AN OBSIDIAN KOI!
+* SHINY ELEGANCE!
+* BLACK BEAUTY!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Emberreach}}

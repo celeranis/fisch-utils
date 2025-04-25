@@ -1,0 +1,71 @@
+{{FishInfobox
+|image          = Resin.png
+|rarity         = Secret
+|sea            = First Sea
+|location       = [[Mushgrove Swamp]]
+|sublocation    = 
+|sources        = Fishing Rod
+|nopassive      = 1
+|radar_location = 
+|prog_speed     = -20
+|xp             = 250
+|weather        = 
+|time           = 
+|season         = 
+|bait           = 
+|base_weight    = 8
+|base_value     = 800
+|weight_range   = 5
+|base_chance    = 0.05
+|base_resil     = 100
+}}
+'''Resin''' is a {{Rarity|Secret}} fish found in [[Mushgrove Swamp]].
+
+== Description ==
+{{Description|Resin|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Its pretty|Bestiary Hint}}
+{{Fish Availability|
+Mushgrove Swamp
+|top_rods      = 
+Ethereal Prism Rod\1920.83\6774.86;
+Leviathan's Fang Rod\1886.58\7964.09;
+Seraphic Rod\1841.87\6924.25;
+No-Life Rod\1790.21\7247.98;
+Tempest Rod\1755.44\6871.46;
+Resourceful Rod\1476.12\5617.49;
+Destiny Rod\1572.98\6586.32;
+Heaven's Rod\1480.88\6501.55;
+Trident Rod\1452.74\7664.49;
+Free Spirit Rod\1445.95\7628.69;
+Training Rod\854.96\4775.58;
+Flimsy Rod\952\5483.48;
+Adventurer's Rod\895.86\4517;
+Rod Of The Forgotten Fang\1720.57\6838.09;
+Challenger's Rod\1652.09\6779.25;
+Rod Of The Depths\1548.69\6736.01;
+Rod Of The Exalted One\1531.72\6717.03;
+Zeus Rod\1500.32\6372.03;
+Verdant Shear Rod\1472.67\6406.84;
+Blazebringer Rod\1426.14\6070.63;
+Depthseeker Rod\1345.87\5958.87;
+Avalanche Rod\1218.23\5427.32;
+Volcanic Rod\1170.69\5041.39;
+Steady Rod\389.8\1848.04
+|recommended   = Ethereal Prism Rod
+}}
+
+== Gameplay Notes ==
+* Resin usually cannot be caught with passive effects, such as the one provided by the [[Rod Of The Depths]] and [[Rod Of The Forgotten Fang]].
+** The only exception is when catching a Resin on the Megalodon Passive reel of the [[Rod Of The Forgotten Fang]], the Megalodon will instead dupe the Resin.
+
+== Catch Quips ==
+When catching a Resin, the player has a chance to make one of the following exclamations:
+* Thats pretty
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Mushgrove Swamp}}

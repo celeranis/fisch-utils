@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Gazerfish.png
+|rarity         = Common
+|sea            = First Sea
+|location       = [[Brine Pool]]
+|sublocation    = 
+|sources        = Coral Geode, Fishing Rod
+|radar_location = 
+|xp             = 100
+|weather        = 
+|time           = Day
+|season         = Autumn, Winter
+|bait           = Worm
+|base_weight    = 14
+|base_value     = 190
+|weight_range   = 6
+|base_chance    = 2900
+|base_resil     = 85
+}}
+'''Gazerfish''' is a {{Rarity|Common}} fish found in the [[Desolate Deep]]'s [[Desolate Deep#Brine Pool|Brine Pool]].
+
+== Description ==
+{{Description|The Gazerfish is a fast-moving prey fish within the Brine Pool of the Desolate Deep. They have a singular large eyeball on the front of their bodies, which they can close to disguise themselves from possible predators during the night. When they are most active during the day, they swim near the surface looking for smaller creatures to feed on.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in the Brine Pool during the day.|Bestiary Hint}}
+{{Fish Availability|
+Desolate Deep/Brine Pool
+|top_rods      = 
+Training Rod\208461.21\157626.91;
+Leviathan's Fang Rod\183801.35\175595.48;
+Trident Rod\175302.74\170544.04;
+Free Spirit Rod\173181.1\168480;
+Flimsy Rod\172365.4\147451.18;
+Buddy Bond Rod\107757.17\97230.16;
+Azure Of Lagoon\161189.54\156761.65;
+Long Rod\134335.56\135834.65;
+No-Life Rod\160575.79\155295.27;
+Seraphic Rod\155056.16\146849.81;
+Ethereal Prism Rod\154236.85\145548.66;
+Challenger's Rod\152765.13\146389.63;
+Rod Of The Forgotten Fang\152614.48\145402.54;
+Rod Of The Exalted One\149223.85\143029.18;
+Rod Of The Depths\148205.88\142859.36;
+Blazebringer Rod\147604.42\145790.79;
+Depthseeker Rod\147548.72\140947.13;
+Zeus Rod\147370.36\143544.63;
+Verdant Shear Rod\147152.18\144972.42;
+Avalanche Rod\146300.6\139811.51;
+Reinforced Rod\146022.23\139635.01;
+Volcanic Rod\142996.37\139760.94;
+Steady Rod\77032.04\74436.34
+|recommended   = Training Rod
+}}
+
+== Catch Quips ==
+When catching a Gazerfish, the player has a chance to make one of the following exclamations:
+* Ouu a Gazerfish!
+* Woah, a Gazerfish!
+* A Gazerfish!
+* I caught a Gazerfish!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Brine Pool}}

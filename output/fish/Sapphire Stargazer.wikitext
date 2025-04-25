@@ -1,0 +1,66 @@
+{{FishInfobox
+|image          = Sapphire Stargazer.png
+|rarity         = Unusual
+|sea            = First Sea
+|location       = [[Calm Zone]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 250
+|weather        = Clear
+|time           = 
+|season         = Spring
+|bait           = Seaweed
+|base_weight    = 140
+|base_value     = 1300
+|weight_range   = 90
+|base_chance    = 25
+|base_resil     = 85
+}}
+'''Sapphire Stargazer''' is an {{Rarity|Unusual}} fish found in the [[Calm Zone]] of [[Mariana's Veil]].
+
+== Description ==
+{{Description|A flat fish with sapphire-blue scales and glowing eyes that stare into the light.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Located in clear waters with a glistening deep blue shine.|Bestiary Hint}}
+{{Fish Availability|
+Mariana's Veil/Calm Zone
+|top_rods      = 
+Krampus's Rod\536078.2\382107.37;
+Magma Rod\519725.37\370418.44;
+Plastic Rod\479780.07\357433.26;
+Leviathan's Fang Rod\399934.6\284776.49;
+Trident Rod\388407.29\255112.52;
+Buddy Bond Rod\352599.31\324057.48;
+Fast Rod\376355.97\399722.4;
+Fischer's Rod\360026.6\377681.77;
+Adventurer's Rod\358121.69\375683.46;
+Free Spirit Rod\383706.52\252024.97;
+No-Life Rod\357416.67\296945.74;
+Challenger's Rod\338076.47\270542.92;
+Seraphic Rod\336240.95\295574.36;
+Rod Of The Forgotten Fang\333231.36\269900.95;
+Ethereal Prism Rod\331152.58\319612.49;
+Rod Of The Depths\330754.29\245716.76;
+Zeus Rod\328730.95\252273.08;
+Rod Of The Exalted One\326169.17\230518.29;
+Blazebringer Rod\325426.98\238227.2;
+Verdant Shear Rod\319954.39\252724.46;
+Volcanic Rod\304626.46\208015.61;
+Depthseeker Rod\302427.13\230778.3;
+Avalanche Rod\279947.76\207301.79;
+Steady Rod\150408.95\115884.13
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Sapphire Stargazer, the player has a chance to make one of the following exclamations:
+* A Sapphire Stargazer!
+* Rollin', Rollin', Rollin'...
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Calm Zone}}

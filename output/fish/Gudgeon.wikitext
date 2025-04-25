@@ -1,0 +1,70 @@
+{{FishInfobox
+|image          = Gudgeon.png
+|rarity         = Common
+|sea            = First Sea
+|location       = [[Terrapin Island]]
+|sublocation    = 
+|sources        = Common Crate, Fishing Rod
+|radar_location = 
+|xp             = 10
+|weather        = 
+|time           = Day
+|season         = 
+|bait           = Insect
+|base_weight    = 0.3
+|base_value     = 40
+|weight_range   = 0.2
+|base_chance    = 80
+|base_resil     = 100
+}}
+'''Gudgeon''' is a {{Rarity|Common}} fish found in [[Terrapin Island]].
+
+== Description ==
+{{Description|The Gudgeon is an extremely small, slender fish. They are adaptable and can thrive in a variety of freshwater environments but are native and commonly found near Terrapin Island.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in the water of Terrapin Island.|Bestiary Hint}}
+{{Fish Availability|
+Terrapin Island/Olm Cave
+Terrapin Island/Surrounding Ocean
+|top_rods      = 
+Leviathan's Fang Rod\173602.1\0;
+Trident Rod\167162.49\13420.99;
+Free Spirit Rod\165920.09\13482.62;
+No-Life Rod\161052.85\19388.58;
+Azure Of Lagoon\160358.84\13384.01;
+Training Rod\133542.81\19573.98;
+Resourceful Rod\141544.57\20546.39;
+Long Rod\131926.86\19732.15;
+Nocturnal Rod\110040.87\101378.92;
+Great Dreamer Rod\149148.99\26628.88;
+Phoenix Rod\144232.16\25091.5;
+Wisdom Rod\144059.66\25055.27;
+Egg Rod\147608.45\24891.32;
+Seraphic Rod\151716.47\19312.25;
+Challenger's Rod\150938.21\17676.74;
+Zeus Rod\149341.66\21957.57;
+Ethereal Prism Rod\148440.9\0;
+Rod Of The Forgotten Fang\148432.38\17634.8;
+Rod Of The Depths\147725.65\16065.72;
+Blazebringer Rod\146812.02\20971.93;
+Verdant Shear Rod\146734.07\24117.86;
+Rod Of The Exalted One\146290.9\15061.61;
+Depthseeker Rod\146022.48\20586.86;
+Avalanche Rod\145154.12\18569.49;
+Volcanic Rod\142586.19\18784.95;
+Steady Rod\74396.52\10137.79
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Gudgeon, the player has a chance to make one of the following exclamations:
+* I can barely see it!
+* A Gudgeon.!
+* Oh, cool!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Terrapin Island}}

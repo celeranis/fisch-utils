@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Squid.png
+|rarity         = Unusual
+|sea            = First Sea
+|location       = [[Roslit Bay]]
+|sublocation    = 
+|sources        = Carbon Crate, Fishing Rod
+|radar_location = 
+|xp             = 95
+|weather        = Foggy
+|time           = Night
+|season         = Winter
+|bait           = Shrimp
+|base_weight    = 2.5
+|base_value     = 140
+|weight_range   = 2
+|base_chance    = 25
+|base_resil     = 45
+}}
+'''Squid''' is an {{Rarity|Unusual}} fish found in [[Roslit Bay]].
+
+== Description ==
+{{Description|Squids can be found best at night in the surrounding ocean of Roslit Bay. Squids are rapid swimmers and largely locate their prey by sight. Squids are extremely intelligent and can even hunt in cooperative groups.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Best found at night in ocean near Roslit Bay.|Bestiary Hint}}
+{{Fish Availability|
+Roslit Bay/Clam Abundance
+Roslit Bay/Surrounding Ocean
+|top_rods      = 
+Krampus's Rod\101454.77\123895.69;
+Magma Rod\96283.89\117581.05;
+Plastic Rod\88686.29\108302.29;
+Leviathan's Fang Rod\82328.65\88055.46;
+Trident Rod\74114.91\85761.18;
+Flimsy Rod\69927.54\158914.61;
+Buddy Bond Rod\65881.25\95817.25;
+Training Rod\50640.28\166195.45;
+Fast Rod\70534.69\113883.34;
+Free Spirit Rod\69381.07\80283.48;
+Ethereal Prism Rod\68220.14\77716.09;
+No-Life Rod\67111.93\66978.67;
+Seraphic Rod\66567.98\63617;
+Rod Of The Forgotten Fang\62370.55\61863.31;
+Challenger's Rod\60968.39\61829.38;
+Rod Of The Depths\56325.84\57246.52;
+Zeus Rod\55896.19\57257.02;
+Verdant Shear Rod\55179.49\57000.76;
+Rod Of The Exalted One\54804.03\58630.09;
+Blazebringer Rod\53074.9\54591.83;
+Depthseeker Rod\50815.39\53147.22;
+Avalanche Rod\45861.99\48152.75;
+Volcanic Rod\43555.02\45284.19;
+Steady Rod\21629.85\16963.93
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Squid, the player has a chance to make one of the following exclamations:
+* A Squid!
+* A cute Squid!
+* I caught a Squid!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Roslit Bay}}

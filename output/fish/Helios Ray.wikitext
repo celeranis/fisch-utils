@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Helios Ray.png
+|rarity         = Unusual
+|sea            = First Sea
+|location       = [[Atlantis]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 110
+|weather        = Clear
+|time           = Day
+|season         = Summer
+|bait           = Fish Head
+|base_weight    = 6
+|base_value     = 180
+|weight_range   = 3
+|base_chance    = 45
+|base_resil     = 55
+}}
+'''Helios Ray''' is an {{Rarity|Unusual}} fish found in [[Atlantis]].
+
+== Description ==
+{{Description|These ray-like fish have skin that seems to capture and store sunlight, making them glow like miniature suns in the darker depths. Ancient texts suggest they once lit the streets of the sunken city.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Sunken's Depth Pool|Bestiary Hint}}
+{{Fish Availability|
+Atlantis/Sunken Depths
+|top_rods      = 
+Champions Rod\73644.07\8262.98;
+Ethereal Prism Rod\73349.73\14748.15;
+Celestial Rod\72915.6\8368.94;
+Rapid Rod\72228.31\10038.06;
+Ice Warpers Rod\72056.65\8270.36;
+Training Rod\64051.8\19086.24;
+Flimsy Rod\47372.69\7768.82;
+Fortune Rod\40597.4\8910.7;
+Nocturnal Rod\44013.47\26391.81;
+Leviathan's Fang Rod\69924.19\12326.4;
+No-Life Rod\69447.78\10785.05;
+Avalanche Rod\69129.34\7442.52;
+Depthseeker Rod\68949.62\8308.15;
+Seraphic Rod\68612.91\10655.4;
+Verdant Shear Rod\63923.31\9065.86;
+Challenger's Rod\62817.3\9755.35;
+Rod Of The Forgotten Fang\62599.4\9721.51;
+Zeus Rod\58353.85\9062.19;
+Rod Of The Depths\56799.27\8820.77;
+Blazebringer Rod\56595.3\8555.89;
+Volcanic Rod\54779.59\6877.72;
+Rod Of The Exalted One\53870.6\8907.48;
+Trident Rod\49489.26\7680;
+Free Spirit Rod\49255.79\7649.29;
+Steady Rod\35348.77\4515.46
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching a Helios Ray, the player has a chance to make one of the following exclamations:
+* A Helios Ray!
+* Light of the deep!
+* Sun beneath the waves!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Atlantis}}

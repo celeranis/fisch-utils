@@ -1,0 +1,73 @@
+{{FishInfobox
+|image          = Blistered Eel.png
+|rarity         = Limited
+|event          = Ashfall
+|sea            = First Sea
+|location       = [[Ashfall]]
+|sublocation    = 
+|sources        = Fishing Rod
+|nopassive      = 1
+|radar_location = 
+|xp             = 140
+|weather        = Windy
+|time           = 
+|season         = 
+|bait           = Worm
+|base_weight    = 19
+|base_value     = 300
+|weight_range   = 7.5
+|base_chance    = 80
+|base_resil     = 45
+}}
+'''Blistered Eel''' is a {{Rarity|Limited}} fish found in [[Roslit Bay]]'s saltwater during the [[Ashfall]] event.
+
+== Description ==
+{{Description|Despite blistering skin, the Blistered Eel is capable of withstanding extreme temperatures.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Only can be caught during Ashfall.|Bestiary Hint}}
+{{Fish Availability|
+Roslit Bay/Ashfall
+|top_rods      = 
+Trident Rod\230089.35\129364.87;
+Leviathan's Fang Rod\226760.7\156206.91;
+Free Spirit Rod\215393.18\128660.58;
+Azure Of Lagoon\193363.67\123192.81;
+No-Life Rod\190211.27\179980.5;
+Rod Of The Exalted One\153412.65\144279.14;
+Poseidon Rod\158214.97\137102.19;
+Adventurer's Rod\123105.33\119429.72;
+Seraphic Rod\182624.26\177185.1;
+Tempest Rod\176368.22\171115.38;
+Fast Rod\172375.38\167228.69;
+Rapid Rod\171973.23\166839.16;
+Ethereal Prism Rod\175850.47\89924.53;
+Challenger's Rod\167886.54\162153.67;
+Depthseeker Rod\167478.76\138013.81;
+Rod Of The Forgotten Fang\166491.86\161533.18;
+Zeus Rod\166175.67\150411.96;
+Verdant Shear Rod\163892.48\150436.19;
+Blazebringer Rod\163702.82\142056.37;
+Avalanche Rod\163004.03\123540.02;
+Volcanic Rod\158172.32\114158.67;
+Rod Of The Depths\156812.07\146417.8;
+Steady Rod\88493.75\60759.2
+|recommended   = Trident Rod
+}}
+
+== Gameplay Notes ==
+* Blistered Eel usually cannot be caught with passive effects, such as the one provided by the [[Rod Of The Depths]] and [[Rod Of The Forgotten Fang]].
+** The only exception is when catching a Blistered Eel on the Megalodon Passive reel of the [[Rod Of The Forgotten Fang]], the Megalodon will instead dupe the Blistered Eel.
+
+== Catch Quips ==
+When catching a Blistered Eel, the player has a chance to make one of the following exclamations:
+* Woah, a Blistered Eel!
+* It comes cooked!
+* It's well done!
+* Could use skin care...
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ashfall}}

@@ -1,0 +1,70 @@
+{{FishInfobox
+|image          = Manta Ray.png
+|rarity         = Mythical
+|sea            = First Sea
+|location       = [[Roslit Bay]]
+|sublocation    = Coral Reef
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -10
+|xp             = 1000
+|weather        = 
+|time           = Night
+|season         = Summer
+|bait           = Shrimp
+|base_weight    = 1000
+|base_value     = 3000
+|weight_range   = 225
+|base_chance    = 0.01
+|base_resil     = 10
+}}
+'''Manta Ray''' is a {{Rarity|Mythical}} fish found in [[Roslit Bay]].
+
+== Description ==
+{{Description|Manta Rays are very elegant and remarkably large creatures that coast alongside the coral reefs of Roslit Bay. They move their wing-like fins in a wavy motion to generate enough speed to guide through the ocean. Manta Rays typically feed on small fish during the night.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found gliding through Roslit Bays coral reef during the night.|Bestiary Hint}}
+{{Fish Availability|
+Roslit Bay/Coral Reef
+Roslit Bay/Surrounding Ocean
+|top_rods      = 
+Leviathan's Fang Rod\91511.34\274008.84;
+Free Spirit Rod\83727.98\268341.25;
+Trident Rod\81657.06\261704.11;
+No-Life Rod\63278.22\197219.7;
+Ethereal Prism Rod\59485.59\155960.25;
+Resourceful Rod\44697.19\126551.94;
+Destiny Rod\47569.9\133333.96;
+Heaven's Rod\47404.89\136402;
+Azure Of Lagoon\57985.73\205597.8;
+North-Star Rod\30166.99\99855.88;
+Event Horizon Rod\31286.8\103351.47;
+Astral Rod\31286.8\103351.47;
+Seraphic Rod\58794.7\160752.98;
+Rod Of The Forgotten Fang\54850.48\156515.15;
+Challenger's Rod\54303.16\162516.88;
+Zeus Rod\49472.8\149797.76;
+Rod Of The Depths\49311.23\140558.98;
+Verdant Shear Rod\48926.75\142557.26;
+Rod Of The Exalted One\47685.51\134545.53;
+Blazebringer Rod\47085.71\143215.62;
+Depthseeker Rod\45539.44\136241.72;
+Avalanche Rod\40855.82\128613.2;
+Volcanic Rod\38549.71\126818.36;
+Steady Rod\16017.17\68260.93
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Manta Ray, the player has a chance to make one of the following exclamations:
+* WOAH.. A Manta Ray!
+* I caught a Manta Ray!
+* Woah.. A Manta Ray!!
+* Hol-ey Mol-ray!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Roslit Bay}}

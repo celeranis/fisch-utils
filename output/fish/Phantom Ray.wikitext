@@ -1,0 +1,66 @@
+{{FishInfobox
+|image          = Phantom Ray.png
+|rarity         = Uncommon
+|sea            = First Sea
+|location       = [[Desolate Deep]]
+|sublocation    = 
+|sources        = Coral Geode, Fishing Rod
+|radar_location = 
+|xp             = 60
+|weather        = 
+|time           = Night
+|season         = Summer, Autumn
+|bait           = Weird Algae
+|base_weight    = 6
+|base_value     = 140
+|weight_range   = 2
+|base_chance    = 1620
+|base_resil     = 45
+}}
+'''Phantom Ray''' is an {{Rarity|Uncommon}} fish found in the [[Desolate Deep]].
+
+== Description ==
+{{Description|The Phantom Ray is a menacing yet beautiful species of ray, resembling the shape of an anchor with bioluminescent engravings throughout its body, as well as a translucent fin that they use to move around. They typically like to feed on microorganisms during the night, and spend most of the day sitting underneath ledges or large vegetation.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in the Desolate Deep.|Bestiary Hint}}
+{{Fish Availability|
+Desolate Deep/Desolate Pocket
+|top_rods      = 
+Leviathan's Fang Rod\183045.19\174724.07;
+Training Rod\182863.62\195018.81;
+Trident Rod\179099.77\170222.73;
+Free Spirit Rod\167660.39\159350.34;
+Flimsy Rod\161300.35\249046.7;
+Plastic Rod\109970.47\202480.58;
+Krampus's Rod\125800.32\231614.01;
+Magma Rod\119388.61\219809.26;
+No-Life Rod\139785.76\132072.77;
+Seraphic Rod\131613.75\133438.67;
+Ethereal Prism Rod\131255.46\159503.65;
+Challenger's Rod\128449.11\122083.99;
+Rod Of The Forgotten Fang\128304.82\121098.99;
+Rod Of The Exalted One\122165.23\116881.99;
+Depthseeker Rod\121121.25\112141.79;
+Zeus Rod\120402.47\113723.33;
+Rod Of The Depths\119551.03\113625.52;
+Blazebringer Rod\119429.45\112407.19;
+Verdant Shear Rod\119338.1\113755.64;
+Avalanche Rod\117821.95\109149.94;
+Volcanic Rod\115394.67\108609.65;
+Steady Rod\63079.99\59403.72
+|recommended   = Training Rod
+}}
+
+== Catch Quips ==
+When catching a Phantom Ray, the player has a chance to make one of the following exclamations:
+* A Phantom Ray!
+* Phantuah!
+* Ouu! A Phantom Ray!
+* It looks like an anchor!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Desolate Deep}}

@@ -1,0 +1,69 @@
+{{FishInfobox
+|image          = Philosopher's Fish.png
+|rarity         = Unusual
+|sea            = First Sea
+|location       = [[Atlantis]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 180
+|weather        = Clear
+|time           = Day
+|season         = 
+|bait           = Coral
+|base_weight    = 7
+|base_value     = 300
+|weight_range   = 3.5
+|base_chance    = 30
+|base_resil     = 45
+}}
+'''Philosopher's Fish''' is an {{Rarity|Unusual}} fish found in [[Atlantis]].
+
+== Description ==
+{{Description|These contemplative creatures gather in ancient libraries. They swim in complex patterns that some scholars believe correspond to mathematical formulas.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Sunken's Depth Pool|Bestiary Hint}}
+{{Fish Availability|
+Atlantis/Sunken Depths
+|top_rods      = 
+Krampus's Rod\144804.93\81777.29;
+Magma Rod\137424.61\77609.32;
+Plastic Rod\126581.72\71519.34;
+Leviathan's Fang Rod\94840.11\58154.65;
+Buddy Bond Rod\94032.14\53128.66;
+Fast Rod\88695.86\67530.3;
+Fischer's Rod\81990.56\62425.09;
+Training Rod\42251.71\45618.99;
+Flimsy Rod\65130.49\60217.46;
+Nocturnal Rod\32393.65\50413.78;
+Trident Rod\84875.85\50400.96;
+Ethereal Prism Rod\84337.69\47403.08;
+Seraphic Rod\81549.56\46649.83;
+No-Life Rod\81027.71\47363.03;
+Free Spirit Rod\79454.7\47181.77;
+Rod Of The Forgotten Fang\76327.38\43746.45;
+Challenger's Rod\73765.77\42998.3;
+Rod Of The Depths\68710.04\39605.45;
+Rod Of The Exalted One\67415.05\38265.96;
+Zeus Rod\67053.16\39519.28;
+Verdant Shear Rod\65756.76\39068.42;
+Blazebringer Rod\63668.73\37524.6;
+Depthseeker Rod\60420.09\35992.05;
+Avalanche Rod\54481.06\32487.97;
+Volcanic Rod\52248.67\30793.92;
+Steady Rod\23319.9\10483.48
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Philosopher's Fish, the player has a chance to make one of the following exclamations:
+* A Philosopher's Fish!
+* Such wisdom!
+* The patterns make sense!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Atlantis}}

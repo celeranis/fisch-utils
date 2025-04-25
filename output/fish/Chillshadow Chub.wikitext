@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Chillshadow Chub.png
+|rarity         = Uncommon
+|sea            = First Sea
+|location       = [[Challenger's Deep]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 100
+|weather        = Clear
+|time           = Day
+|season         = 
+|bait           = Insect
+|base_weight    = 1.6
+|base_value     = 100
+|weight_range   = 1
+|base_chance    = 45
+|base_resil     = 70
+}}
+'''Chillshadow Chub''' is an {{Rarity|Uncommon}} fish found in the [[Challenger's Deep]] of [[Mariana's Veil]].
+
+== Description ==
+{{Description|A small fish that blends into the icy shadows of the deep.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in areas with heavy ice cover, especially under clear skies.|Bestiary Hint}}
+{{Fish Availability|
+Mariana's Veil/Challenger's Deep
+|top_rods      = 
+Rapid Rod\233365.45\55882.26;
+Fungal Rod\223420.19\56927.17;
+Champions Rod\220962.33\34577.68;
+Firefly Rod\220951.96\64409.21;
+Crystalized Rod\220919.49\38408.22;
+Training Rod\192857.14\66902.65;
+Antler Rod\206537.84\52625.57;
+Nocturnal Rod\134569.84\80383.46;
+Fast Rod\212183.54\58610.14;
+Plastic Rod\161244.77\47407.26;
+No-Life Rod\213737.8\47592.93;
+Ethereal Prism Rod\212933.84\50298.63;
+Seraphic Rod\212087.09\47225.36;
+Avalanche Rod\210078.58\33055.6;
+Depthseeker Rod\208717.45\36868.73;
+Verdant Shear Rod\198484.85\40283.9;
+Challenger's Rod\194273.22\43258.76;
+Rod Of The Forgotten Fang\193682.79\43127.29;
+Blazebringer Rod\185380.69\37992.32;
+Zeus Rod\183660.15\40256.01;
+Volcanic Rod\179339.34\30549.97;
+Rod Of The Depths\175942.28\39177.01;
+Trident Rod\171306.13\33513.54;
+Free Spirit Rod\168274.95\33431.93;
+Rod Of The Exalted One\165259.92\36798.37;
+Steady Rod\117297.66\24264.79
+|recommended   = No-Life Rod
+}}
+
+== Catch Quips ==
+When catching a Chillshadow Chub, the player has a chance to make one of the following exclamations:
+* A Chillshadow Chub!
+* Slippery little guy!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Challenger's Deep}}

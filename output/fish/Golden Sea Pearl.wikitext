@@ -1,0 +1,32 @@
+{{FishInfobox
+|image          = Golden Sea Pearl.png
+|rarity         = Exotic
+|sea            = First Sea
+|location       = [[Roslit Bay]]
+|sublocation    = 
+|sources        = Clam
+|radar_location = 
+|xp             = 600
+|weather        = 
+|time           = 
+|season         = 
+|bait           = 
+|base_weight    = 0.4
+|base_value     = 3500
+|weight_range   = 0.3
+|base_chance    = 0.2
+|base_resil     = 100
+}}
+'''Golden Sea Pearl''' is an {{Rarity|Exotic}} fish found in [[Roslit Bay]].
+
+== Description ==
+{{Description|A strikingly shiny pearl, rumored to have originated from the deepest depths of Atlantis.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|From catching Clams.|Bestiary Hint}}
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Roslit Bay}}

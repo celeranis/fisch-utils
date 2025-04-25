@@ -1,0 +1,63 @@
+{{FishInfobox
+|image          = Inferno Wood.png
+|rarity         = Mythical
+|sea            = First Sea
+|location       = [[Roslit Volcano]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 90
+|weather        = 
+|time           = 
+|season         = 
+|bait           = 
+|base_weight    = 0.2
+|base_value     = 700
+|weight_range   = 0.1
+|base_chance    = 0.01
+|base_resil     = 100
+}}
+'''Inferno Wood''' is a {{Rarity|Mythical}} fish found in the [[Roslit Bay#Roslit Volcano|Volcano]] in [[Roslit Bay]].
+
+== Description ==
+{{Description|Holds the Power of Earth's Magma Core... Said to be used in crafting one of the strongest Rods...|Bestiary Entry}}
+
+== Obtainment ==
+{{Fish Availability|
+Roslit Bay/Roslit Volcano
+|top_rods      = 
+Ethereal Prism Rod\61675.24\235390.08;
+Flimsy Rod\60530.9\367064.87;
+Leviathan's Fang Rod\60314.48\278189.16;
+Seraphic Rod\58043.12\240599.56;
+No-Life Rod\55548.94\246012.68;
+Training Rod\51606.02\311939.2;
+Resourceful Rod\48838.62\195680.03;
+Trident Rod\43110.04\268405.42;
+Free Spirit Rod\43308.02\266410.54;
+Fungal Rod\35923.43\202160.63;
+Rod Of The Forgotten Fang\54236.3\238004.03;
+Challenger's Rod\51304.76\235260.31;
+Rod Of The Exalted One\48787.42\234527.87;
+Rod Of The Depths\48582.92\235585.73;
+Zeus Rod\46397.95\222126.14;
+Verdant Shear Rod\45241.38\223400.45;
+Blazebringer Rod\44045.58\211375.57;
+Depthseeker Rod\41225.07\207468.46;
+Avalanche Rod\37295\189148.32;
+Reinforced Rod\36983.54\189018.32;
+Volcanic Rod\36180.06\175662.83;
+Magma Rod\30010.55\157858.67;
+Steady Rod\12308.4\67428.69
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching an Inferno Wood, the player has a chance to make one of the following exclamations:
+* Woah, Inferno Wood!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Roslit Volcano}}

@@ -1,0 +1,70 @@
+{{FishInfobox
+|image          = Gingerbread Fish.png
+|rarity         = Limited
+|event          = Fischmas
+|sea            = First Sea
+|location       = [[Fischmas]]
+|sublocation    = 
+|sources        = Fishing Rod, Supreme Present, Unique Present
+|radar_location = 
+|xp             = 150
+|weather        = Clear
+|time           = 
+|season         = Winter
+|bait           = Peppermint Worm
+|base_weight    = 3.5
+|base_value     = 135
+|weight_range   = 1.5
+|base_chance    = 20
+|base_resil     = 50
+}}
+'''Gingerbread Fish''' is a {{Rarity|Limited}} fish found in the [[Winter Village]] during the [[Fischmas]] event.
+
+== Description ==
+{{Description|A gingerbread cookie that was decorated with frosting and gumdrops to look like a fish. It seems to have come to life. Also makes for a yummy snack!|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Only can be caught during Fischmas24.|Bestiary Hint}}
+{{Fish Availability|
+Fischmas/Winter Village
+|top_rods      = 
+Krampus's Rod\188584.79\297080.44;
+Magma Rod\180174.93\283832.64;
+Plastic Rod\165294.66\260391.5;
+Buddy Bond Rod\122790.32\242308.65;
+Fast Rod\116561.55\303547.9;
+Fischer's Rod\106056.23\276190.1;
+Adventurer's Rod\104947.63\273303.09;
+Flimsy Rod\79059.14\224665.18;
+Trident Rod\97142.59\105190.95;
+Ethereal Prism Rod\96136.53\141482.64;
+Seraphic Rod\93093.98\91219.54;
+No-Life Rod\92913\96403.08;
+Free Spirit Rod\92365.63\100018.22;
+Rod Of The Forgotten Fang\87181.99\89337.89;
+Challenger's Rod\84662.83\89533.89;
+Rod Of The Depths\78563.9\81598.67;
+Zeus Rod\77377.02\83196.14;
+Rod Of The Exalted One\76957.05\83307.49;
+Verdant Shear Rod\76432.46\84092.5;
+Blazebringer Rod\73724.34\80522.19;
+Depthseeker Rod\70025.06\75155;
+Avalanche Rod\63198.02\67436.87;
+Volcanic Rod\60292.21\65801.62;
+Training Rod\55151.52\173345.59;
+Steady Rod\30624.24\22236.85
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Gingerbread Fish, the player has a chance to make one of the following exclamations:
+* Woah, a Gingerbread Fish!
+* No way! A Gingerbread Fish!
+* I caught a Gingerbread Fish!
+* You can't catch me, I'm the Gingerbread Fish!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Fischmas}}

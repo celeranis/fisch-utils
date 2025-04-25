@@ -1,0 +1,70 @@
+{{FishInfobox
+|image          = Crestscale.png
+|rarity         = Uncommon
+|sea            = Second Sea
+|location       = [[Isle of New Beginnings]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = +16
+|xp             = 50
+|weather        = Windy
+|time           = 
+|season         = Summer
+|bait           = Seaweed
+|base_weight    = 30
+|base_value     = 105
+|weight_range   = 18
+|base_chance    = 95
+|base_resil     = 60
+}}
+'''Crestscale''' is an {{Rarity|Uncommon}} fish found in the [[Isle of New Beginnings]].
+
+== Description ==
+{{Description|A small green fish with beige fins, its scales rising like a gentle wave.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It basks where the breeze meets the tide.|Bestiary Hint}}
+{{Fish Availability|
+Isle of New Beginnings
+|top_rods      = 
+Free Spirit Rod\347491.58\210133.67;
+Azure Of Lagoon\310130.39\262452.55;
+Trident Rod\308992.07\263238.99;
+Leviathan's Fang Rod\304723.53\262010.11;
+Firefly Rod\280253.47\266688.45;
+Candy Cane Rod\202971.68\179166.09;
+Carbon Rod\206433.28\182221.69;
+Long Rod\223561.09\216626.54;
+Egg Rod\274905.4\238060.74;
+Rapid Rod\225177.48\220869.5;
+Haunted Rod\224746.21\220168.33;
+Fungal Rod\226899.32\222558.4;
+Verdant Shear Rod\269543.89\233297.83;
+Blazebringer Rod\269542.93\231760.8;
+No-Life Rod\251249.41\208952.41;
+Seraphic Rod\235849.05\200926.41;
+Ethereal Prism Rod\233395.41\197687.09;
+Depthseeker Rod\226429.86\199231.83;
+Challenger's Rod\226214.72\186952.5;
+Rod Of The Forgotten Fang\225722.77\189867.19;
+Avalanche Rod\224102.69\197693.84;
+Rod Of The Exalted One\222976.3\192992.27;
+Volcanic Rod\221699.91\188018.04;
+Zeus Rod\220835.85\187285.25;
+Rod Of The Depths\220205.76\178218.28;
+Steady Rod\182896.36\161750.6
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Crestscale, the player has a chance to make one of the following exclamations:
+* A Crestscale!
+* Wavy green!
+* Beige beauty!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Isle of New Beginnings}}

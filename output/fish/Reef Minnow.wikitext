@@ -1,0 +1,63 @@
+{{FishInfobox
+|image          = Reef Minnow.png
+|rarity         = Common
+|sea            = First Sea
+|location       = [[Grand Reef]]
+|sublocation    = Coral Reef
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 65
+|weather        = 
+|time           = 
+|season         = 
+|bait           = Seaweed
+|base_weight    = 0.6
+|base_value     = 85
+|weight_range   = 0.5
+|base_chance    = 65
+|base_resil     = 90
+}}
+'''Reef Minnow''' is a {{Rarity|Common}} fish found in the [[Grand Reef]].
+
+== Description ==
+{{Description|A quick, small reef fish that swims in tight groups near coral formations. They use their silvery scales and small size to hide from predators, darting between coral branches when threatened.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found swimming among shallow coral reefs.|Bestiary Hint}}
+{{Fish Availability|
+Grand Reef
+|top_rods      = 
+Rapid Rod\247534.73\200637.82;
+Azure Of Lagoon\241897.69\146499.49;
+Champions Rod\240023.77\154658.57;
+No-Life Rod\239980.48\212224.66;
+Abyssal Specter Rod\239171.2\171664.83;
+Training Rod\211842.11\211842.11;
+Flimsy Rod\158625\158625;
+Resourceful Rod\230019.52\153399.74;
+Fast Rod\213280.97\213280.97;
+Seraphic Rod\211389.2\211389.2;
+Tempest Rod\216129.78\203940.66;
+Long Rod\215065.92\129531.12;
+Depthseeker Rod\238062\165030.98;
+Verdant Shear Rod\237320.31\180884.75;
+Avalanche Rod\236614.94\148376.09;
+Blazebringer Rod\233830.69\170357.73;
+Zeus Rod\232392.22\180420.94;
+Trident Rod\229054.54\147759.88;
+Volcanic Rod\226997.97\137033.9;
+Free Spirit Rod\226707.57\147578.89;
+Challenger's Rod\222830.86\193487.18;
+Rod Of The Depths\207189.06\175853.15;
+Rod Of The Forgotten Fang\201476.99\193028.06;
+Ethereal Prism Rod\199919.72\133779.41;
+Rod Of The Exalted One\187948.75\164862.32;
+Steady Rod\106800.9\79097.13
+|recommended   = No-Life Rod
+}}
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Grand Reef}}

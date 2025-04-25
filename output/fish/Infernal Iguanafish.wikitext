@@ -1,0 +1,64 @@
+{{FishInfobox
+|image          = Infernal Iguanafish.png
+|rarity         = Uncommon
+|sea            = First Sea
+|location       = [[Volcanic Vents]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 80
+|weather        = Windy
+|time           = Night
+|season         = 
+|bait           = Insect
+|base_weight    = 2
+|base_value     = 120
+|weight_range   = 1.2
+|base_chance    = 55
+|base_resil     = 80
+}}
+'''Infernal Iguanafish''' is an {{Rarity|Uncommon}} fish found in [[Volcanic Vents]] of [[Mariana's Veil]].
+
+== Description ==
+{{Description|A fearsome, lizard-like fish with jagged scales that glow like molten rock.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Not quite a lizard, typically found when under star-lit skies.|Bestiary Hint}}
+{{Fish Availability|
+Mariana's Veil/Volcanic Vents
+|top_rods      = 
+Rapid Rod\211765.55\241329.35;
+Firefly Rod\194208.85\231633.08;
+Wildflower Rod\193013.5\190770.07;
+Fungal Rod\192482.34\199537.8;
+Ethereal Prism Rod\192066.64\232340.56;
+Training Rod\168823.53\168823.53;
+North-Star Rod\160727.27\160727.27;
+Depthseeker Rod\189975.05\146773.93;
+No-Life Rod\189014.39\189014.39;
+Avalanche Rod\188332.53\131744.58;
+Seraphic Rod\188003.63\188003.63;
+Verdant Shear Rod\187053.32\160579.48;
+Blazebringer Rod\174046.08\151391.42;
+Zeus Rod\172648.26\160461.33;
+Challenger's Rod\172082.08\172082.08;
+Rod Of The Forgotten Fang\171673.75\171673.75;
+Trident Rod\171633.26\132291.52;
+Free Spirit Rod\169475.23\132056.59;
+Volcanic Rod\168624.75\121766.36;
+Rod Of The Depths\156141.72\156141.72;
+Rod Of The Exalted One\146623.93\146623.93;
+Steady Rod\94167.59\68500.5
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching an Infernal Iguanafish, the player has a chance to make one of the following exclamations:
+* An Infernal Iguanafish!
+* That's not a reptile!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Volcanic Vents}}

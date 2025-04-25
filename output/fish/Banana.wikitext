@@ -1,0 +1,76 @@
+{{FishInfobox
+|image          = Banana.png
+|rarity         = Secret
+|sea            = First Sea
+|location       = [[Ancient Isle]]
+|sublocation    = 
+|sources        = Fishing Rod
+|nopassive      = 1
+|radar_location = 
+|xp             = 6900
+|weather        = Rain
+|time           = 
+|season         = Summer
+|bait           = 
+|base_weight    = 1
+|base_value     = 18500
+|weight_range   = 0.6
+|base_chance    = 0.005
+|base_resil     = 45
+}}
+'''Banana''' is a {{Rarity|Secret}} fish found in the [[Ancient Isle]].
+
+== Description ==
+{{Description|A simple banana, rich in potassium. How did it get in the water?|Bestiary Entry}}
+
+== Obtainment ==
+{{Fish Availability|
+Ancient Isle/Freshwater Pond
+Ancient Isle/Surrounding Ocean
+Ancient Isle/Waterfall
+|top_rods      = 
+Leviathan's Fang Rod\459.48\3591.18;
+Ethereal Prism Rod\436.92\2560.07;
+Seraphic Rod\418.65\2563.29;
+Rapid Rod\415.23\5659.23;
+No-Life Rod\408.58\2759.24;
+Lucky Rod\295.94\3407.96;
+Training Rod\292.62\1558.73;
+Frog Rod\306.46\3874.34;
+Firefly Rod\370.54\5278.5;
+Fast Rod\337.66\5236.98;
+Fungal Rod\311.19\4294.22;
+Wildflower Rod\298.41\3993.23;
+Adventurer's Rod\243.45\3494.37;
+Fischer's Rod\244.41\3508.09;
+Rod Of The Forgotten Fang\391.42\2508.42;
+Trident Rod\385.23\2714.13;
+Challenger's Rod\373\2554.64;
+Free Spirit Rod\360.63\2540.78;
+Rod Of The Depths\351.18\2303.27;
+Rod Of The Exalted One\347.54\2173.47;
+Zeus Rod\335.26\2236.23;
+Verdant Shear Rod\325.9\2226.66;
+Blazebringer Rod\318.33\2131.64;
+Depthseeker Rod\298.55\2062.89;
+Avalanche Rod\268.88\1866.34;
+Volcanic Rod\261.24\1758.92;
+Steady Rod\87.81\628.48
+|recommended   = Ethereal Prism Rod
+}}
+
+== Gameplay Notes ==
+* Banana usually cannot be caught with passive effects, such as the one provided by the [[Rod Of The Depths]] and [[Rod Of The Forgotten Fang]].
+** The only exception is when catching a Banana on the Megalodon Passive reel of the [[Rod Of The Forgotten Fang]], the Megalodon will instead dupe the Banana.
+
+== Catch Quips ==
+When catching a Banana, the player has a chance to make one of the following exclamations:
+* A BANANA!!
+* I CAUGHT A BANANA!
+* A Banana!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ancient Isle}}

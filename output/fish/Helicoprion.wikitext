@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Helicoprion.png
+|rarity         = Mythical
+|sea            = First Sea
+|location       = [[Ancient Isle]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -70
+|xp             = 2500
+|weather        = Clear
+|time           = 
+|season         = 
+|bait           = Squid
+|base_weight    = 420
+|base_value     = 6000
+|weight_range   = 170
+|base_chance    = 0.03
+|base_resil     = 20
+}}
+'''Helicoprion''' is a {{Rarity|Mythical}} fish found in the [[Ancient Isle]].
+
+== Description ==
+{{Description|Helicoprion is a prehistoric shark with a unique, spiral tooth structure, using its powerful jaws to capture prey in the Ancient isles shallow seas.|Bestiary Entry}}
+
+== Obtainment ==
+{{Fish Availability|
+Ancient Isle/Surrounding Ocean
+|top_rods      = 
+Leviathan's Fang Rod\23220.99\96903.48;
+Ethereal Prism Rod\22077.32\70849.75;
+Seraphic Rod\21395.38\72639.57;
+No-Life Rod\20386.86\74016.14;
+Tempest Rod\20319.67\71999.26;
+Resourceful Rod\17651.79\65633.65;
+Frog Rod\13410.02\69991.68;
+Destiny Rod\17262.99\52080.05;
+Free Spirit Rod\19890.07\99677.96;
+Rapid Rod\17873.27\93763.79;
+Trident Rod\17991.57\90163.75;
+Carbon Rod\8878.76\54967.43;
+Buddy Bond Rod\8858.99\57165.32;
+Rod Of The Forgotten Fang\19302.69\67105.79;
+Challenger's Rod\19173.56\71659.95;
+Rod Of The Exalted One\16812.78\56071.28;
+Rod Of The Depths\16646.16\58068.11;
+Zeus Rod\15850.98\59027.47;
+Verdant Shear Rod\15731.2\64203.09;
+Blazebringer Rod\15681.61\62280.12;
+Depthseeker Rod\14697.06\56718.68;
+Avalanche Rod\12901.31\49972.88;
+Volcanic Rod\12411.76\46220.16;
+Steady Rod\4037.27\17166.76
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching a Helicoprion, the player has a chance to make one of the following exclamations:
+* WOAH! A HELICOPRION!!
+* NO WAY!!
+* I CAUGHT A HELICOPRION!!
+* IT'S A HELICOPRION!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ancient Isle}}

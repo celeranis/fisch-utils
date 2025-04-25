@@ -1,0 +1,65 @@
+{{FishInfobox
+|image          = Molten Ripple.png
+|rarity         = Secret
+|sea            = Second Sea
+|location       = [[Emberreach]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -85
+|xp             = 6000
+|weather        = Windy
+|time           = Day
+|season         = Summer
+|bait           = Luminous Larva
+|base_weight    = 3600
+|base_value     = 12600
+|weight_range   = 2250
+|base_chance    = 1
+|base_resil     = 5
+}}
+'''Molten Ripple''' is a {{Rarity|Secret}} fish found in [[Emberreach]].
+
+== Description ==
+{{Description|A round, cheerful fish, its surface rippling with molten charm.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It bobs where the winds warm the ancient glow.|Bestiary Hint}}
+{{Fish Availability|
+Emberreach/Volcano
+|top_rods      = 
+Free Spirit Rod\1071.92\28607.43;
+Azure Of Lagoon\940.78\27920.24;
+Egg Rod\932.52\28742.98;
+Blazebringer Rod\884.69\26338.17;
+Great Dreamer Rod\843.35\25690.65;
+Krampus's Rod\432.61\15996.59;
+Steady Rod\436.23\15649.13;
+Magnet Rod\342.35\12962.39;
+Verdant Shear Rod\822.83\25362.01;
+Seraphic Rod\716.26\22077.27;
+Challenger's Rod\691.84\22397.22;
+Ethereal Prism Rod\686.69\20103.69;
+Trident Rod\673.75\20767.1;
+No-Life Rod\618.08\20137.61;
+Rod Of The Forgotten Fang\590.92\18322.74;
+Rod Of The Exalted One\550.8\16585.72;
+Depthseeker Rod\513.88\17538.3;
+Rod Of The Depths\504.09\15916.69;
+Avalanche Rod\468.51\16033.87;
+Volcanic Rod\464.46\15430.69;
+Zeus Rod\444.25\14759.11
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Molten Ripple, the player has a chance to make one of the following exclamations:
+* A MOLTEN RIPPLE?!
+* SMILING FLAME!
+* CUTE INFERNO!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Emberreach}}

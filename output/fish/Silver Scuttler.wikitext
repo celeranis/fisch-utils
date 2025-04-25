@@ -1,0 +1,66 @@
+{{FishInfobox
+|image          = Silver Scuttler.png
+|rarity         = Common
+|sea            = First Sea
+|location       = [[Blue Moon - First Sea]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = +10
+|xp             = 370
+|weather        = Windy
+|time           = 
+|season         = Winter
+|bait           = Bagel
+|base_weight    = 240
+|base_value     = 580
+|weight_range   = 150
+|base_chance    = 95
+|base_resil     = 80
+}}
+'''Silver Scuttler''' is a {{Rarity|Common}} fish found in [[Blue Moon]] events at [[Snowcap Island]].
+
+== Description ==
+{{Description|A small, quick fish with shimmering scales that skitter across the ice.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It darts beneath the frozen winds.|Bestiary Hint}}
+{{Fish Availability|
+Blue Moon/First Sea
+|top_rods      = 
+Leviathan's Fang Rod\178140.03\96950.09;
+Trident Rod\171863.35\168284.95;
+Free Spirit Rod\169166.82\165644.56;
+No-Life Rod\158928.94\204004.51;
+Azure Of Lagoon\157786.24\165200.07;
+Riptide Rod\142334.54\164010.99;
+Frog Rod\130357.32\132912.65;
+Resourceful Rod\138109.03\138023.64;
+Challenger's Rod\148896.42\176089.47;
+Tempest Rod\148556.18\173561.35;
+Zeus Rod\143823.5\165921.56;
+Seraphic Rod\148457.44\143855.76;
+Rod Of The Forgotten Fang\146851.5\147530.38;
+Ethereal Prism Rod\145901.21\24970.34;
+Rod Of The Depths\144052.57\157683.56;
+Depthseeker Rod\143551.77\143304.53;
+Rod Of The Exalted One\143358.16\92467.15;
+Blazebringer Rod\142562.56\157981.39;
+Verdant Shear Rod\142341.94\151592.96;
+Avalanche Rod\142315.65\142073.09;
+Volcanic Rod\138382.55\137382.91;
+Steady Rod\74833.94\74744.66
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Silver Scuttler, the player has a chance to make one of the following exclamations:
+* A Silver Scuttler!
+* Gleaming skitterer!
+* Quick catch!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Blue Moon - First Sea}}

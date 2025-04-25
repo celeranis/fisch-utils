@@ -1,0 +1,64 @@
+{{FishInfobox
+|image          = Titanic Black Seadevil.png
+|rarity         = Common
+|sea            = First Sea
+|location       = [[Abyssal Zenith]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 20
+|weather        = Rain
+|time           = 
+|season         = 
+|bait           = Bagel
+|base_weight    = 10.5
+|base_value     = 45
+|weight_range   = 5
+|base_chance    = 80
+|base_resil     = 95
+}}
+'''Titanic Black Seadevil''' is a {{Rarity|Common}} fish found in the [[Abyssal Zenith]] of [[Mariana's Veil]].
+
+== Description ==
+{{Description|An all black anglerfish with a glowing lure that can be seen from miles away.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Commonly swims around shallow trenches, typically during storms.|Bestiary Hint}}
+{{Fish Availability|
+Mariana's Veil/Abyssal Zenith
+|top_rods      = 
+Training Rod\848750\848750;
+Flimsy Rod\444254.97\443152.17;
+Leviathan's Fang Rod\260538.79\166823.86;
+Trident Rod\253320.46\156435.8;
+Free Spirit Rod\251113.51\156713.57;
+Long Rod\219192.07\304833;
+Fast Rod\241362.29\337681.73;
+Firefly Rod\247688.58\322684.37;
+No-Life Rod\243738.64\225343.89;
+Seraphic Rod\227856.89\224456.78;
+Challenger's Rod\225675.77\205448.11;
+Zeus Rod\223323.67\191574.14;
+Ethereal Prism Rod\222040.56\77836.49;
+Rod Of The Forgotten Fang\221286.35\204960.6;
+Verdant Shear Rod\220942.36\192080.95;
+Rod Of The Depths\220300.12\186723.97;
+Blazebringer Rod\219533.64\185571.57;
+Rod Of The Exalted One\217637.73\175053.72;
+Depthseeker Rod\215029.31\175232.81;
+Avalanche Rod\213673.34\157548.35;
+Volcanic Rod\212005.5\161585.6;
+Steady Rod\114029.26\85733.86
+|recommended   = Training Rod
+}}
+
+== Catch Quips ==
+When catching a Titanic Black Seadevil, the player has a chance to make one of the following exclamations:
+* A Titanic Black Seadevil!
+* Glowy!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Abyssal Zenith}}

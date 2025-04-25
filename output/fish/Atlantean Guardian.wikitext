@@ -1,0 +1,69 @@
+{{FishInfobox
+|image          = Atlantean Guardian.png
+|rarity         = Unusual
+|sea            = First Sea
+|location       = [[Atlantis]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 150
+|weather        = 
+|time           = 
+|season         = 
+|bait           = Fish Head
+|base_weight    = 8
+|base_value     = 250
+|weight_range   = 4
+|base_chance    = 35
+|base_resil     = 50
+}}
+'''Atlantean Guardian''' is an {{Rarity|Unusual}} fish found in [[Atlantis]].
+
+== Description ==
+{{Description|These impressive fish patrol the ancient ruins like sentinels. Their scales bear markings reminiscent of ancient armor, and they're known to chase away threatening predators.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Sunken's Depth Pool|Bestiary Hint}}
+{{Fish Availability|
+Atlantis/Sunken Depths
+|top_rods      = 
+Krampus's Rod\226622.67\237670.12;
+Magma Rod\216513.02\227067.64;
+Plastic Rod\198766.11\208422.65;
+Leviathan's Fang Rod\175487.29\154027.43;
+Trident Rod\158926.76\146413.27;
+Buddy Bond Rod\147654.82\230784.94;
+Fast Rod\158126.47\262384.45;
+Fischer's Rod\143875.03\238736.57;
+Adventurer's Rod\142371.11\236241.07;
+Flimsy Rod\131575.25\229701.24;
+Training Rod\87212.49\188292.54;
+Ethereal Prism Rod\153856.52\117980.45;
+Free Spirit Rod\151111.58\139213.44;
+No-Life Rod\149742.9\123600.63;
+Seraphic Rod\149475.32\122265.84;
+Rod Of The Forgotten Fang\140037.35\114515.22;
+Challenger's Rod\136386.21\111173.84;
+Rod Of The Depths\126346.54\103268.51;
+Zeus Rod\124875.91\103994.76;
+Rod Of The Exalted One\123379.6\108028.22;
+Verdant Shear Rod\123094.23\104353.8;
+Blazebringer Rod\118552.36\99131.18;
+Depthseeker Rod\113231.97\97456.56;
+Avalanche Rod\102213.36\88472.16;
+Volcanic Rod\97303.37\82251.7;
+Steady Rod\41983.58\34951.09
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching an Atlantean Guardian, the player has a chance to make one of the following exclamations:
+* An Atlantean Guardian!
+* Protector of the deep!
+* Still standing watch!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Atlantis}}

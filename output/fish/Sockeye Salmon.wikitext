@@ -1,0 +1,73 @@
+{{FishInfobox
+|image          = Sockeye Salmon.png
+|rarity         = Common
+|sea            = First Sea
+|location       = [[Moosewood]]
+|sublocation    = Freshwater
+|sources        = Common Crate, Fish Barrel, Fishing Rod
+|radar_location = 
+|prog_speed     = +20
+|xp             = 25
+|weather        = Rain
+|time           = 
+|season         = Autumn, Winter
+|bait           = Bagel
+|base_weight    = 7
+|base_value     = 45
+|weight_range   = 5
+|base_chance    = 90
+|base_resil     = 90
+}}
+'''Sockeye Salmon''' is a {{Rarity|Common}} fish found in [[Moosewood]].
+
+== Description ==
+{{Description|The Sockeye Salmon are a very common type of salmon found near Moosewood, known for their vibrant red and green colours and interesting habits when laying eggs. They are very common during colder seasons such as Autumn, as that is the time most Sockeye Salmon lay their eggs.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Resides in oceans, some freshwaters along Moosewood. Prefers shrimp.|Bestiary Hint}}
+{{Fish Availability|
+Moosewood/Docks
+Moosewood/Seaweed and Mini-Island
+Moosewood/Surrounding Ocean
+Ocean/Harvesters Spike
+|top_rods      = 
+Leviathan's Fang Rod\289914.65\120956.59;
+Trident Rod\266244.99\206495.14;
+Free Spirit Rod\262966.15\203952.12;
+No-Life Rod\259870.06\322937.01;
+Seraphic Rod\253264.41\180707.62;
+Destiny Rod\242643.68\132089.55;
+Heaven's Rod\236020.68\0;
+Challenger's Rod\243095.56\285862.88;
+Zeus Rod\226879.76\268994.26;
+Azure Of Lagoon\233852.24\265996.98;
+Tempest Rod\250859.42\259763.56;
+The Lost Rod\209275.07\234320.21;
+Ethereal Prism Rod\250052.82\33940.11;
+Rod Of The Forgotten Fang\245361.56\202962.7;
+Rod Of The Exalted One\235448.95\123821.8;
+Rod Of The Depths\228346.66\246351.81;
+Verdant Shear Rod\225789.13\235803.3;
+Blazebringer Rod\215783.08\254791.93;
+Depthseeker Rod\208227.66\224294.96;
+Volcanic Rod\203935.08\228341.16;
+Avalanche Rod\201548.67\205665.5;
+Training Rod\190493.05\194120.59;
+Steady Rod\97448.03\97448.03
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Sockeye Salmon, the player has a chance to make one of the following exclamations:
+* Salmoff!
+* Woah!
+* Awesome!
+* A Sockeye Salmon!
+* Woah, A Sockeye Salmon!
+* A Salmon!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Moosewood}}

@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Frigid Shrimp.png
+|rarity         = Uncommon
+|sea            = First Sea
+|location       = [[Frigid Cavern]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 90
+|weather        = 
+|time           = Night
+|season         = Winter
+|bait           = Flakes
+|base_weight    = 0.8
+|base_value     = 175
+|weight_range   = 0.5
+|base_chance    = 60
+|base_resil     = 70
+}}
+'''Frigid Shrimp''' is an {{Rarity|Uncommon}} fish found in the [[Frigid Cavern]].
+
+== Description ==
+{{Description|A tiny crustacean whose shell appears to be made of delicate frost crystals.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Clusters in the cavern's cold water pools.|Bestiary Hint}}
+{{Fish Availability|
+Frigid Cavern
+|top_rods      = 
+Training Rod\207406.55\207406.55;
+Azure Of Lagoon\201444.68\122130.68;
+Trident Rod\199414.77\124964.64;
+No-Life Rod\198716.71\177463.59;
+Summit Rod\197780.29\128909.38;
+Flimsy Rod\138754.57\138754.57;
+Resourceful Rod\186742.77\123749.03;
+Seraphic Rod\176093.03\176093.03;
+Fast Rod\175525.78\174608.83;
+Leviathan's Fang Rod\193021.87\171603.83;
+Adventurer's Rod\122812.12\122812.12;
+Depthseeker Rod\195682.66\137475.4;
+Free Spirit Rod\195286.96\124653.38;
+Avalanche Rod\192968.8\123257.1;
+Verdant Shear Rod\192947.65\150201.42;
+Blazebringer Rod\188571.84\141657.11;
+Zeus Rod\187227.43\150105.82;
+Volcanic Rod\182822.7\113914.14;
+Challenger's Rod\181758.23\161302.42;
+Ethereal Prism Rod\172226.13\153218.12;
+Rod Of The Depths\168456.7\146082.49;
+Rod Of The Forgotten Fang\165000.42\160812.19;
+Rod Of The Exalted One\153725.61\137213.06;
+Steady Rod\88091.35\64970.85
+|recommended   = Training Rod
+}}
+
+== Catch Quips ==
+When catching a Frigid Shrimp, the player has a chance to make one of the following exclamations:
+* A Frigid Shrimp!
+* Tiny ice dancer!
+* So delicate!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Frigid Cavern}}

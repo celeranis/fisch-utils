@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Starfish.png
+|rarity         = Uncommon
+|sea            = First Sea
+|location       = [[Ancient Isle]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 115
+|weather        = 
+|time           = 
+|season         = Summer
+|bait           = 
+|base_weight    = 7
+|base_value     = 110
+|weight_range   = 5
+|base_chance    = 55
+|base_resil     = 95
+}}
+'''Starfish''' is an {{Rarity|Uncommon}} fish found in the [[Ancient Isle]].
+
+== Description ==
+{{Description|The starfish is a marine invertebrate with five arms that have hundreds of little feet which they use to move around. They prey on small organisms in their habitats, and are usually out and about during the daytime.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found at the Ancient Isle.|Bestiary Hint}}
+{{Fish Availability|
+Ancient Isle/Surrounding Ocean
+|top_rods      = 
+Training Rod\110218.7\254771.38;
+Ethereal Prism Rod\85888.17\122396.54;
+Fast Rod\84335\76061;
+Flimsy Rod\81568.89\71356.13;
+Fungal Rod\80881.17\56067.63;
+Leviathan's Fang Rod\78597.36\81735.34;
+Kraken Rod\67235.41\74996.25;
+Fortune Rod\46460.46\61992.73;
+No-Life Rod\79769.03\72263.34;
+Seraphic Rod\79455.01\71978.86;
+Verdant Shear Rod\74389.34\61593.26;
+Depthseeker Rod\73962.05\56193.71;
+Avalanche Rod\73322.15\50522.65;
+Challenger's Rod\72726.16\65883.16;
+Rod Of The Forgotten Fang\72553.59\65726.82;
+Blazebringer Rod\68556.47\58008.7;
+Zeus Rod\67814.95\61434.05;
+Rod Of The Depths\66098.05\59878.7;
+Volcanic Rod\65628.85\46660.59;
+Rod Of The Exalted One\62740.38\59955.28;
+Trident Rod\62317.52\50163.18;
+Free Spirit Rod\61774.6\50252.25;
+Steady Rod\38321.19\22411.46
+|recommended   = Training Rod
+}}
+
+== Catch Quips ==
+When catching a Starfish, the player has a chance to make one of the following exclamations:
+* Ouu a Starfish!
+* Woah, a Starfish!
+* A Starfish!
+* I caught a Starfish!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ancient Isle}}

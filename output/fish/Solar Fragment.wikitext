@@ -1,0 +1,36 @@
+{{FishInfobox
+|image          = Solar Fragment.png
+|rarity         = Fragment
+|sea            = First Sea
+|location       = [[Ancient Isle]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 10
+|weather        = 
+|time           = 
+|season         = 
+|bait           = 
+|base_weight    = 0.1
+|base_value     = 50
+|weight_range   = 0
+|base_chance    = 0
+|base_resil     = 100
+}}
+'''Solar Fragment''' is a {{Rarity|Fragment}} fish found in the [[Ancient Isle]].
+
+== Description ==
+{{Description|A magical stone with an etching representing the scorching heat of the sun.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Only said to appear at the highest peaks during the Eclipse.|Bestiary Hint}}
+
+== Catch Quips ==
+When catching a Solar Fragment, the player has a chance to make one of the following exclamations:
+* Woah a bone!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ancient Isle}}

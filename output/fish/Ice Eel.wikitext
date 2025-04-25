@@ -1,0 +1,66 @@
+{{FishInfobox
+|image          = Ice Eel.png
+|rarity         = Uncommon
+|sea            = First Sea
+|location       = [[Frigid Cavern]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 95
+|weather        = 
+|time           = Night
+|season         = Winter
+|bait           = Worm
+|base_weight    = 2
+|base_value     = 155
+|weight_range   = 1.2
+|base_chance    = 65
+|base_resil     = 75
+}}
+'''Ice Eel''' is an {{Rarity|Uncommon}} fish found in the [[Frigid Cavern]].
+
+== Description ==
+{{Description|A serpentine creature with translucent skin that seems to blend with the surrounding ice.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Slithers through the narrow ice tunnels of Frigid Cavern.|Bestiary Hint}}
+{{Fish Availability|
+Frigid Cavern
+|top_rods      = 
+Trident Rod\228474.77\134837.45;
+Azure Of Lagoon\227171.9\132308.24;
+Leviathan's Fang Rod\225734.19\185198.27;
+Training Rod\225275.56\225275.56;
+Free Spirit Rod\224549.67\134552.8;
+Flimsy Rod\153046.44\151433.67;
+Resourceful Rod\204156.96\135288.91;
+No-Life Rod\224402.32\192089.57;
+Seraphic Rod\192941.91\190842.29;
+Fast Rod\199974.09\190233.78;
+Adventurer's Rod\136905.04\133655.83;
+Verdant Shear Rod\214385.77\162897.22;
+Depthseeker Rod\212513.36\149044.61;
+Blazebringer Rod\212311.8\153602.4;
+Zeus Rod\210852.85\162784.87;
+Avalanche Rod\209867.32\133660.34;
+Challenger's Rod\206900.17\174744.29;
+Volcanic Rod\205920.22\123532.91;
+Rod Of The Depths\194566.83\158412.25;
+Rod Of The Forgotten Fang\191996.49\174329.64;
+Rod Of The Exalted One\181786.52\148774.11;
+Ethereal Prism Rod\181488.3\125762.54;
+Steady Rod\95702.72\70584.53
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching an Ice Eel, the player has a chance to make one of the following exclamations:
+* An Ice Eel!
+* So slippery!
+* Like living ice!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Frigid Cavern}}

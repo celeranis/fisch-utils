@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Void Angler.png
+|rarity         = Mythical
+|sea            = First Sea
+|location       = [[Atlantean Storm]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -75
+|xp             = 2000
+|weather        = Clear
+|time           = 
+|season         = Summer
+|bait           = Truffle Worm
+|base_weight    = 1200
+|base_value     = 4500
+|weight_range   = 500
+|base_chance    = 0.01
+|base_resil     = 15
+}}
+'''Void Angler''' is a {{Rarity|Mythical}} fish found in the [[Atlantean Storm]].
+
+== Description ==
+{{Description|An ancient deep-sea predator that dwells in the darkest depths of the Atlantean Storm. Their bioluminescent lures create hypnotic patterns that mirror the swirling waters above, attracting both prey and the unwary.|Bestiary Entry}}
+
+== Obtainment ==
+{{Fish Availability|
+Grand Reef/Atlantean Storm
+|top_rods      = 
+Leviathan's Fang Rod\80152.2\320954.39;
+Ethereal Prism Rod\77960.21\247444.36;
+Seraphic Rod\76440.99\259458.11;
+Tempest Rod\73302.01\261390.17;
+No-Life Rod\72715.51\261083.77;
+Resourceful Rod\57652.2\179705.49;
+Destiny Rod\59438.12\174736.47;
+Heaven's Rod\54558.79\170759.45;
+Free Spirit Rod\68637.29\330473.8;
+Trident Rod\60036.79\289064.26;
+Challenger's Rod\69541.21\264316.54;
+Riptide Rod\53243.77\191400.69;
+Azure Of Lagoon\52427.06\259741.72;
+Rod Of The Forgotten Fang\68110.18\233402.95;
+Rod Of The Exalted One\58567.66\188567.62;
+Rod Of The Depths\57882.55\196586.34;
+Zeus Rod\55639.25\200349.72;
+Blazebringer Rod\54202.29\195175.44;
+Verdant Shear Rod\54110.62\199642.4;
+Depthseeker Rod\52740.33\201576.2;
+Avalanche Rod\45762.33\170846.73;
+Volcanic Rod\43630.33\157107.17;
+Steady Rod\14615.62\67284.81
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching a Void Angler, the player has a chance to make one of the following exclamations:
+* THE VOID ANGLER EXISTS!
+* I CAN'T BELIEVE MY EYES!
+* THOSE PATTERNS... HYPNOTIC!
+* IS THIS EVEN REAL?!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Atlantean Storm}}

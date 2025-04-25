@@ -1,0 +1,26 @@
+{{BaitInfobox
+|image          = Bait Coral.png
+|rarity         = Unusual
+|crates         = Coral Geode/0.46
+|angler_quests  = <!--TBD-->
+|pref_luck      = 
+|univ_luck      = 
+|resilience     = 20
+|lure           = 20
+|ability        = 
+}}
+'''Coral''' is an {{Rarity|Unusual}} [[Bait]] that can be used in fishing.
+
+== Obtainment ==
+Corals can be obtained in the following ways:
+* {{Item|Coral Geode}} (0.46/crate on average)
+<!--* [[Angler]] Quests, starting from the ?th completion-->
+
+== Favoring Fish ==
+{{Fish by Category Table|Coral-Loving Fish|event=1|show_location=1|hide_bait=1|resultsheader='''%PAGES%''' [[Fish]] prefer Corals:|noresultsheader=No fish prefer Corals.}}
+
+== Change History ==
+{{Change History|1.0}}
+
+== Navigation ==
+{{Bait Navbox}}

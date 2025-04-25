@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Depth Lurker.png
+|rarity         = Unusual
+|sea            = Second Sea
+|location       = [[Waveborne]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 75
+|weather        = Foggy
+|time           = 
+|season         = Autumn
+|bait           = Insect
+|base_weight    = 60
+|base_value     = 150
+|weight_range   = 35
+|base_chance    = 50
+|base_resil     = 50
+}}
+'''Depth Lurker''' is an {{Rarity|Unusual}} fish found in [[Waveborne]].
+
+== Description ==
+{{Description|A grey fish with light purple fins, lurking in the shadows of the deep like a silent phantom.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It waits where the light barely reaches.|Bestiary Hint}}
+{{Fish Availability|
+Waveborne
+|top_rods      = 
+Trident Rod\140618.83\83173.87;
+Leviathan's Fang Rod\124343.74\72461.19;
+Firefly Rod\120600.83\116358;
+Brother's Rod\118014.45\98111.89;
+No-Life Rod\115486.42\98113.37;
+Plastic Rod\108694.93\107367.97;
+Fischer's Rod\109373.83\109194.77;
+Long Rod\105210.09\94353.6;
+Egg Rod\114441.5\109936.89;
+Verdant Shear Rod\112498.35\106182.04;
+Resourceful Rod\95746.48\89819.9;
+Free Spirit Rod\105386.48\90172.73;
+Blazebringer Rod\102696.61\100236.57;
+Challenger's Rod\101803.79\85816.21;
+Depthseeker Rod\101498.77\92530.73;
+Seraphic Rod\100665.57\65670.09;
+Avalanche Rod\99714.34\91326.88;
+Volcanic Rod\98470.43\85818.53;
+Zeus Rod\97989.57\85399.45;
+Rod Of The Forgotten Fang\97845.53\68665.88;
+Rod Of The Depths\97560.82\80004.74;
+Rod Of The Exalted One\87418.61\61996.69;
+Ethereal Prism Rod\85461.59\65166.63;
+Steady Rod\81595.04\74334.58
+|recommended   = Verdant Shear Rod
+}}
+
+== Catch Quips ==
+When catching a Depth Lurker, the player has a chance to make one of the following exclamations:
+* A Depth Lurker!
+* Sneaky shadow!
+* Purple fins, huh?
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Waveborne}}

@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Grayling.png
+|rarity         = Common
+|sea            = First Sea
+|location       = [[Snowcap Island]]
+|sublocation    = Freshwater
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 100
+|weather        = Foggy
+|time           = Day
+|season         = Spring, Summer
+|bait           = Insect
+|base_weight    = 2
+|base_value     = 80
+|weight_range   = 1.5
+|base_chance    = 75
+|base_resil     = 70
+}}
+'''Grayling''' is a {{Rarity|Common}} fish found in [[Snowcap Island]].
+
+== Description ==
+{{Description|An interesting, cold-water fish with shimmering silver scales and a signature large, colourful dorsal fin. It is known for it's beauty and its agile swimming behaviour. The Grayling is often found in Snowcap Pond during the day, but it can rarely be found at night.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in Snowcap Pond during the day.|Bestiary Hint}}
+{{Fish Availability|
+Snowcap Island/Freshwater Pond
+|top_rods      = 
+Leviathan's Fang Rod\424547.69\0;
+Trident Rod\400254.29\17851.75;
+Free Spirit Rod\391969.18\17807.28;
+No-Life Rod\357233.47\25351.45;
+Seraphic Rod\346576.77\25155.66;
+Flimsy Rod\251795.57\21882.15;
+Training Rod\254545.45\25000;
+Rod Of The Eternal King\326313.62\18957.74;
+Nocturnal Rod\158025.33\131928.9;
+Egg Rod\326893.34\28588.9;
+Verdant Shear Rod\316857.82\27628.75;
+Abyssal Specter Rod\306852.25\26954.41;
+Blazebringer Rod\301174.55\26125.07;
+Resourceful Rod\281379.86\24132.28;
+Ethereal Prism Rod\341914.52\0;
+Challenger's Rod\337484.64\23042.76;
+Rod Of The Forgotten Fang\334757.8\22972.73;
+Rod Of The Exalted One\329063.98\19601.49;
+Rod Of The Depths\321581.28\20868.53;
+Zeus Rod\316205.05\25938.82;
+Depthseeker Rod\293395.64\25143.82;
+Volcanic Rod\283690.43\25328.58;
+Avalanche Rod\266378.8\22870.27;
+Steady Rod\130536.54\10400.67
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Grayling, the player has a chance to make one of the following exclamations:
+* A Grayling!
+* I caught a Grayling!
+* Oh, a Grayling!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Snowcap Island}}

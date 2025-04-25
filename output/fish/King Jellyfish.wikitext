@@ -1,0 +1,64 @@
+{{FishInfobox
+|image          = King Jellyfish.png
+|rarity         = Mythical
+|sea            = First Sea
+|location       = [[Atlantis]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 1800
+|weather        = Clear
+|time           = Night
+|season         = Winter
+|bait           = Truffle Worm
+|base_weight    = 500
+|base_value     = 3500
+|weight_range   = 200
+|base_chance    = 0.2
+|base_resil     = 12
+}}
+'''King Jellyfish''' is a {{Rarity|Mythical}} fish found in [[Atlantis]].
+
+== Description ==
+{{Description|A behemoth composed partly of pure ethereal energy, this jellyfish is believed to be an ancient guardian of the abyss. It pulses with otherworldly power and commands lesser creatures with its presence.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Ethereal Abyss Pool|Bestiary Hint}}
+{{Fish Availability|
+Atlantis/Ethereal Abyss
+|top_rods      = 
+Leviathan's Fang Rod\51401.03\218530.17;
+Free Spirit Rod\41276.48\212798.56;
+Trident Rod\40367.76\208113.69;
+Ethereal Prism Rod\35847.06\123873.09;
+No-Life Rod\34698.81\151975.79;
+Resourceful Rod\27303.83\101298.12;
+Destiny Rod\28364.71\107900.31;
+Heaven's Rod\25866.55\110742.03;
+Seraphic Rod\34439.86\127991.72;
+Rod Of The Depths\28625.26\111867.49;
+Rod Of The Zenith\30573.81\112028.49;
+Rod Of The Forgotten Fang\32086.5\124025.24;
+Challenger's Rod\30963.45\123564.81;
+Rod Of The Exalted One\28381.89\108281.15;
+Zeus Rod\27907.44\113882.8;
+Verdant Shear Rod\27288.93\113634.66;
+Blazebringer Rod\26536.69\108757.15;
+Depthseeker Rod\25231.33\108051.36;
+Avalanche Rod\22638.76\96812.07;
+Volcanic Rod\21742.44\89932;
+Steady Rod\7186.79\35531.41
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a King Jellyfish, the player has a chance to make one of the following exclamations:
+* THE KING JELLYFISH!
+* RULER OF THE VOID!
+* LIVING ETHEREAL!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Atlantis}}

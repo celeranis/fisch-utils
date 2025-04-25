@@ -1,0 +1,69 @@
+{{FishInfobox
+|image          = Void Emperor.png
+|rarity         = Mythical
+|sea            = First Sea
+|location       = [[Atlantis]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -70
+|xp             = 3000
+|weather        = 
+|time           = Night
+|season         = 
+|bait           = Truffle Worm
+|base_weight    = 1200
+|base_value     = 6000
+|weight_range   = 500
+|base_chance    = 0.2
+|base_resil     = 15
+}}
+'''Void Emperor''' is a {{Rarity|Mythical}} fish found in [[Atlantis]].
+
+== Description ==
+{{Description|An entity of pure darkness that commands the void itself. Its presence can extinguish light and create areas of absolute darkness in the water.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Look for patches where light cannot penetrate, Kraken Pool.|Bestiary Hint}}
+{{Fish Availability|
+Atlantis/Ancient Kraken Hunt
+Atlantis/Kraken Hunt
+Atlantis/Kraken Pool
+|top_rods      = 
+Leviathan's Fang Rod\98945.21\149101.99;
+Free Spirit Rod\98083.34\150258.17;
+Trident Rod\88721.34\135916.11;
+Azure Of Lagoon\77163.51\121325.44;
+No-Life Rod\76296.54\113442.53;
+Resourceful Rod\59087.01\91675.36;
+Wildflower Rod\50609.53\78285.22;
+Haunted Rod\37854.39\58642.27;
+Rapid Rod\69243.9\107301.96;
+Seraphic Rod\75203.29\109706.53;
+Ethereal Prism Rod\73624.28\105900.48;
+Challenger's Rod\72612.73\110584.97;
+Rod Of The Forgotten Fang\68091.72\101103.86;
+Zeus Rod\60267.16\88251.77;
+Verdant Shear Rod\59855.56\87941.06;
+Rod Of The Depths\59553.61\86530.15;
+Blazebringer Rod\58354.45\85933.35;
+Depthseeker Rod\57956.7\87581.12;
+Rod Of The Exalted One\57429.24\83360.8;
+Avalanche Rod\50852.46\74836.33;
+Volcanic Rod\47182.85\69301.09;
+Steady Rod\18957.14\29300.49
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Void Emperor, the player has a chance to make one of the following exclamations:
+* THE VOID EMPEROR!
+* DARKNESS REIGNS!
+* THE VOID COMMANDS!
+* ALL LIGHT DIES!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Atlantis}}

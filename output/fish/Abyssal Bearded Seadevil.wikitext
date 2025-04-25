@@ -1,0 +1,66 @@
+{{FishInfobox
+|image          = Abyssal Bearded Seadevil.png
+|rarity         = Uncommon
+|sea            = First Sea
+|location       = [[Abyssal Zenith]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 95
+|weather        = 
+|time           = 
+|season         = Winter
+|bait           = Insect
+|base_weight    = 40
+|base_value     = 120
+|weight_range   = 22
+|base_chance    = 60
+|base_resil     = 85
+}}
+'''Abyssal Bearded Seadevil''' is an {{Rarity|Uncommon}} fish found in the [[Abyssal Zenith]] of [[Mariana's Veil]].
+
+== Description ==
+{{Description|A terrifying fish with a glowing beard-like lure and razor-sharp teeth.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Located in the coldest parts of the trench, typically found in groups.|Bestiary Hint}}
+{{Fish Availability|
+Mariana's Veil/Abyssal Zenith
+|top_rods      = 
+Rapid Rod\178858.63\167106.76;
+Fungal Rod\177978.99\177107.93;
+Fast Rod\177187.5\177187.5;
+Firefly Rod\176632.44\194368.82;
+Ethereal Prism Rod\169843.22\194396.49;
+Antler Rod\166248.56\165434.91;
+Leviathan's Fang Rod\163739.22\173587.74;
+Candy Cane Rod\153386.37\153386.37;
+No-Life Rod\169135\169123.64;
+Seraphic Rod\168353.89\168342.59;
+Depthseeker Rod\160734.05\131424.61;
+Avalanche Rod\159474.54\118067.48;
+Verdant Shear Rod\159143.45\143933.34;
+Trident Rod\157584.36\118057.89;
+Free Spirit Rod\155677.17\117882.67;
+Challenger's Rod\154096.43\154086.08;
+Blazebringer Rod\154026.54\135676.76;
+Rod Of The Forgotten Fang\153730.78\153720.45;
+Zeus Rod\152208.2\143680.61;
+Volcanic Rod\148669.84\109128.76;
+Rod Of The Depths\139941.22\139931.82;
+Rod Of The Exalted One\131299.11\131290.29;
+Steady Rod\85188.75\64049.87
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching an Abyssal Bearded Seadevil, the player has a chance to make one of the following exclamations:
+* An Abyssal Bearded Seadevil!
+* Horrifying!
+* Could use a shave...
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Abyssal Zenith}}

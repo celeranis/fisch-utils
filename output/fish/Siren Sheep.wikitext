@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Siren Sheep.png
+|rarity         = Limited
+|event          = Animal Hunt
+|sea            = Second Sea
+|location       = [[Animals - Sea 2]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -45
+|xp             = 3100
+|weather        = Windy
+|time           = 
+|season         = Winter
+|bait           = Seaweed
+|base_weight    = 800
+|base_value     = 1200
+|weight_range   = 500
+|base_chance    = 25
+|base_resil     = 35
+}}
+'''Siren Sheep''' is a {{Rarity|Limited}} fish found in [[Animal Hunt]]s in the [[Second Sea]].
+
+== Description ==
+{{Description|A woolly fish with a haunting bleat, drifting through misty waters.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It baas where the wind howls over the waves.|Bestiary Hint}}
+{{Fish Availability|
+Animal Hunt/Second Sea
+|top_rods      = 
+North-Star Rod\154208.76\321878.59;
+Magma Rod\135405.88\169624.63;
+Steady Rod\129494.98\147490.35;
+Frostfire Rod\119863.12\136519.99;
+Krampus's Rod\106588.51\134196.89;
+Carbon Rod\105990.77\322032.94;
+Rapid Rod\48258.05\262116.19;
+Free Spirit Rod\86067.07\226685.96;
+Egg Rod\71694.89\203773.45;
+Verdant Shear Rod\68983.79\196067.88;
+Trident Rod\67688.68\157954.82;
+Blazebringer Rod\67365.95\187375.12;
+Ethereal Prism Rod\46847.11\133202.89;
+Seraphic Rod\46049.44\130883.17;
+No-Life Rod\45489.71\131224.92;
+Rod Of The Exalted One\43514.73\121897.8;
+Rod Of The Forgotten Fang\43241.13\123355.44;
+Challenger's Rod\42643.5\124925.51;
+Rod Of The Depths\42052.65\121318.73;
+Volcanic Rod\40496.38\120526.48;
+Depthseeker Rod\40397.47\122210.88;
+Zeus Rod\40250.2\119793.77;
+Avalanche Rod\39969.91\121118.55
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Siren Sheep, the player has a chance to make one of the following exclamations:
+* A Siren Sheep!
+* Sheep of the sea!
+* Woolly wonder!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Animals - Sea 2}}

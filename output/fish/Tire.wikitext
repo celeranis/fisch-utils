@@ -1,0 +1,116 @@
+{{FishInfobox
+|image          = Tire.png
+|rarity         = Trash
+|sea            = First Sea
+|location       = [[Regionless]]
+|sublocation    = 
+|sources        = Crab Cage, Fishing Rod
+|radar_location = 
+|xp             = 10
+|weather        = 
+|time           = 
+|season         = 
+|bait           = Magnet
+|base_weight    = 11
+|base_value     = 20
+|weight_range   = 0
+|base_chance    = 17
+|base_resil     = 130
+}}
+'''Tire''' is a {{Rarity|Trash}} fish found in [[Regionless]].
+
+== Description ==
+{{Description|Who would leave this in an ocean? Seems to be in great condition too. A common tire for cars and pickup trucks.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Find it in cheap bodies of water.|Bestiary Hint}}
+{{Fish Availability|
+Ancient Archives
+Ancient Isle/Algae Hunt
+Ancient Isle/Surrounding Ocean
+Atlantis/Ancient Kraken Hunt
+Atlantis/Ethereal Abyss
+Atlantis/Kraken Hunt
+Atlantis/Kraken Pool
+Atlantis/Poseidon Temple
+Atlantis/Sunken Depths
+Atlantis/Surrounding Ocean
+Atlantis/Zeus's Rod Room
+Cryogenic Canal
+FischFright/Frightful Pool
+Forsaken Shores/Algae Hunt
+Forsaken Shores/Coral Reef
+Forsaken Shores/Freshwater Pond
+Forsaken Shores/Surrounding Ocean
+Frigid Cavern
+Glacial Grotto
+Golden Tide
+Grand Reef
+Keepers Altar
+Lovestorm/Normal
+Lovestorm/Supercharged
+Lucky Event/Blarney McBreeze
+Lucky Event/O'Mango Goldgrin
+Lucky Event/Plumrick O'Luck
+Lucky Event/Rowdy McCharm
+Lucky Event/Sunny O'Coin
+Megalodon Hunt/Eclipse and Weekend
+Megalodon Hunt/Normal
+Moosewood/Freshwater Pond
+Moosewood/Seaweed and Mini-Island
+Moosewood/Surrounding Ocean
+Mushgrove Swamp/Algae Hunt
+Northern Summit/Surrounding Ocean
+Ocean
+Ocean/Deep Ocean
+Ocean/Hidden Scallop Abundance
+Ocean/Strange Whirlpool
+Ocean/The Arch
+Orca Migration/Ancient
+Orca Migration/Normal
+Overgrowth Caves
+Snowcap Island/Algae Hunt
+Snowcap Island/Surrounding Ocean
+Sunstone Island/Crate Cave
+Whale Migration/Moby
+Whale Migration/Normal
+|top_rods      = 
+Fast Rod\174634.31\174634.31;
+Firefly Rod\173656.34\173656.34;
+No-Life Rod\170676.42\170676.42;
+Seraphic Rod\170004.52\170004.52;
+Ethereal Prism Rod\168801.86\168801.86;
+Long Rod\100349.73\100349.73;
+Krampus's Rod\145108.17\145108.17;
+Fortune Rod\92335.77\92335.77;
+Heaven's Rod\110123.49\134562.12;
+Magnet Rod\133969.9\160347.08;
+Challenger's Rod\155607.27\155607.27;
+Rod Of The Forgotten Fang\155238.03\155238.03;
+Verdant Shear Rod\145472.07\145472.07;
+Zeus Rod\145099.07\145099.07;
+Rod Of The Depths\141425.53\141425.53;
+Blazebringer Rod\137005.98\137005.98;
+Depthseeker Rod\132722.07\132722.07;
+Rod Of The Exalted One\132586.44\132586.44;
+Avalanche Rod\119327.79\119327.79;
+Free Spirit Rod\118686.67\118686.67;
+Trident Rod\118144.11\118144.11;
+Volcanic Rod\110206.12\110206.12;
+Steady Rod\92245.74\92245.74
+|recommended   = No-Life Rod
+}}
+
+== Catch Quips ==
+When catching a Tire, the player has a chance to make one of the following exclamations:
+* Ermm..?
+* A tire.?
+* Who would put this in here?
+* Oh. A tire.
+* A tire!..?
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Regionless}}

@@ -1,0 +1,70 @@
+{{FishInfobox
+|image          = Ghoulfish.png
+|rarity         = Limited
+|event          = FischFright
+|sea            = First Sea
+|location       = [[FischFright]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -10
+|xp             = 600
+|weather        = Clear
+|time           = 
+|season         = 
+|bait           = Squid
+|base_weight    = 12
+|base_value     = 1000
+|weight_range   = 7.5
+|base_chance    = 0.1
+|base_resil     = 30
+}}
+'''Ghoulfish''' is a {{Rarity|Limited}} fish found in [[FischFright]] during the [[FischFright]] event.
+
+== Description ==
+{{Description|The Ghoulfish is known for its eerie appearance. They only appear during FischFright season, and are a scary bite to have on the end of your rod.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Only can be caught during FischFright.|Bestiary Hint}}
+{{Fish Availability|
+FischFright/Frightful Pool
+|top_rods      = 
+Leviathan's Fang Rod\28405.98\120833.26;
+Trident Rod\24227.04\114613;
+Free Spirit Rod\22822.43\107968.08;
+Ethereal Prism Rod\20246.05\69762.34;
+No-Life Rod\19819.81\77974.08;
+Flimsy Rod\13783.01\62511.61;
+Training Rod\13943.44\71455.52;
+Resourceful Rod\15852.56\63209.28;
+Rapid Rod\17412.5\74994.19;
+Long Rod\11762.38\51814.61;
+Seraphic Rod\19679.64\71309.49;
+Rod Of The Forgotten Fang\18377.16\69918.79;
+Challenger's Rod\17906.96\69694.63;
+Rod Of The Depths\16508.8\64212.2;
+Zeus Rod\16274.62\64579.29;
+Rod Of The Exalted One\16165.8\65062.98;
+Verdant Shear Rod\16012.38\64678.54;
+Blazebringer Rod\15472.93\61671.68;
+Depthseeker Rod\14784.36\60905.72;
+Avalanche Rod\13305.91\54971.98;
+Volcanic Rod\12684.22\51069.84;
+Steady Rod\4387.85\22580.51
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Ghoulfish, the player has a chance to make one of the following exclamations:
+* A Ghoulfish!
+* I caught a Ghoulfish!
+* Woah! A Ghoulfish!
+* Ouu! A Ghoulfish!
+* what? there's nothing there..
+* 👻👻👻
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|FischFright}}

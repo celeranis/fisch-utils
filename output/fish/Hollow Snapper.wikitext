@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Hollow Snapper.png
+|rarity         = Unusual
+|sea            = Second Sea
+|location       = [[Lushgrove]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -10
+|xp             = 80
+|weather        = Foggy
+|time           = Night
+|season         = Autumn
+|bait           = Squid
+|base_weight    = 200
+|base_value     = 160
+|weight_range   = 120
+|base_chance    = 70
+|base_resil     = 45
+}}
+'''Hollow Snapper''' is an {{Rarity|Unusual}} fish found in [[Lushgrove]].
+
+== Description ==
+{{Description|A dark green fish with glowing fins, and a menacing glare that pierces the gloom.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Its eerie light cuts through the shrouded dusk.|Bestiary Hint}}
+{{Fish Availability|
+Lushgrove
+|top_rods      = 
+Trident Rod\189865.72\163740.42;
+Leviathan's Fang Rod\187062.56\164421.79;
+Free Spirit Rod\183714.87\114528.74;
+Azure Of Lagoon\166903.53\106829.88;
+Egg Rod\149375.86\135055.67;
+Resourceful Rod\115834.32\115657.25;
+Long Rod\117582.61\115189.52;
+Adventurer's Rod\103555.77\103555.77;
+Firefly Rod\146893.59\139494.46;
+Wildflower Rod\142529.38\135052.9;
+Blazebringer Rod\147328.21\129496.61;
+Verdant Shear Rod\146946.98\130324.61;
+No-Life Rod\144569.48\130643.42;
+Seraphic Rod\130149.6\112241.17;
+Challenger's Rod\125851.44\113118.04;
+Ethereal Prism Rod\125379.22\91071.9;
+Depthseeker Rod\124058.71\117865.71;
+Rod Of The Forgotten Fang\123222.98\106741.91;
+Avalanche Rod\120905.9\115244.79;
+Rod Of The Exalted One\120580.02\104591.27;
+Volcanic Rod\119819.57\110332.13;
+Zeus Rod\119155.54\109720.68;
+Rod Of The Depths\119115.1\104738.29;
+Steady Rod\99415.49\94917.45
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Hollow Snapper, the player has a chance to make one of the following exclamations:
+* A Hollow Snapper!
+* Teal terror!
+* Eyes that bite!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Lushgrove}}

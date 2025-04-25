@@ -1,0 +1,75 @@
+{{FishInfobox
+|image          = Ember Catfish.png
+|rarity         = Limited
+|event          = Ashfall
+|sea            = First Sea
+|location       = [[Ashfall]]
+|sublocation    = 
+|sources        = Fishing Rod
+|nopassive      = 1
+|radar_location = 
+|xp             = 130
+|weather        = Clear
+|time           = 
+|season         = 
+|bait           = Bagel
+|base_weight    = 20
+|base_value     = 275
+|weight_range   = 7
+|base_chance    = 90
+|base_resil     = 85
+}}
+'''Ember Catfish''' is a {{Rarity|Limited}} fish found in [[Roslit Bay]]'s saltwater during the [[Ashfall]] event.
+
+== Description ==
+{{Description|A faintly glowing body with whiskers that spark indefinitely, the Ember Catfish is a peculiar fish.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Only can be caught during Ashfall.|Bestiary Hint}}
+{{Fish Availability|
+Roslit Bay/Ashfall
+|top_rods      = 
+Krampus's Rod\512434.08\220699.45;
+Magma Rod\496714.04\211567.99;
+Plastic Rod\456736.94\184433.98;
+Fast Rod\436652.83\342614.02;
+Leviathan's Fang Rod\424828.95\290207.01;
+Buddy Bond Rod\339179.93\166453.23;
+Ethereal Prism Rod\370216.24\354217.98;
+No-Life Rod\376991.05\341541.77;
+Seraphic Rod\369236.97\339964.44;
+Tempest Rod\363334.08\327985.41;
+Fortune Rod\298131.85\226325.55;
+Adventurer's Rod\383483.4\240352.32;
+Trident Rod\399237.57\238397.72;
+Free Spirit Rod\394405.73\238043.89;
+Rod Of The Forgotten Fang\356347.76\310435.33;
+Challenger's Rod\353925.21\311173.71;
+Rod Of The Exalted One\342344.55\242646.8;
+Rod Of The Depths\338184.3\282589.48;
+Zeus Rod\331159.02\290160.07;
+Depthseeker Rod\328703.66\265409.33;
+Verdant Shear Rod\327909.42\290648.77;
+Avalanche Rod\326108.9\238434.88;
+Blazebringer Rod\325027.52\273976.02;
+Volcanic Rod\315445.93\220383.32;
+Steady Rod\174242.11\119633.44
+|recommended   = Trident Rod
+}}
+
+== Gameplay Notes ==
+* Ember Catfish usually cannot be caught with passive effects, such as the one provided by the [[Rod Of The Depths]] and [[Rod Of The Forgotten Fang]].
+** The only exception is when catching a Ember Catfish on the Megalodon Passive reel of the [[Rod Of The Forgotten Fang]], the Megalodon will instead dupe the Ember Catfish.
+
+== Catch Quips ==
+When catching an Ember Catfish, the player has a chance to make one of the following exclamations:
+* Woah, an Ember Catfish!
+* Why isn't it purring?
+* Smoldering!
+* A little fire hazard!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ashfall}}

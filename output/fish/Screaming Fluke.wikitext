@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Screaming Fluke.png
+|rarity         = Legendary
+|sea            = Second Sea
+|location       = [[The Cursed Shores]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -82
+|xp             = 2500
+|weather        = Windy
+|time           = Night
+|season         = Autumn
+|bait           = Mist Worms
+|base_weight    = 19.2
+|base_value     = 2000
+|weight_range   = 11.2
+|base_chance    = 25
+|base_resil     = 7
+}}
+'''Screaming Fluke''' is a {{Rarity|Legendary}} fish found in [[The Cursed Shores]].
+
+== Description ==
+{{Description|A deafening horror that shatters the silence of the deep.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It wails where the waters tremble.|Bestiary Hint}}
+{{Fish Availability|
+The Cursed Shores
+|top_rods      = 
+Free Spirit Rod\44970.97\134814.2;
+Egg Rod\42475\139158.5;
+Azure Of Lagoon\40503.41\127462.97;
+Krampus's Rod\39910.12\65015.23;
+Blazebringer Rod\39831.01\127841.58;
+Frostfire Rod\20728.6\55204.13;
+Plastic Rod\22098.66\47062.06;
+Magma Rod\30867.96\52919.71;
+Verdant Shear Rod\38529.82\127260.09;
+Fischer's Rod\19110.17\47951.72;
+Fast Rod\18036.57\45257.8;
+Trident Rod\31148.87\102051.33;
+Seraphic Rod\31037.98\101688.04;
+Ethereal Prism Rod\29823.7\94774.09;
+Challenger's Rod\29818.13\94477.97;
+No-Life Rod\28198.97\88264.45;
+Rod Of The Forgotten Fang\26572.07\87053.83;
+Rod Of The Exalted One\25155.65\81286.58;
+Depthseeker Rod\24171.81\69538.84;
+Rod Of The Depths\23702.74\76681.58;
+Avalanche Rod\22626.53\64783.19;
+Volcanic Rod\22418.57\67666.21;
+Zeus Rod\21708.32\65522.47;
+Steady Rod\21525.19\56985.92
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Screaming Fluke, the player has a chance to make one of the following exclamations:
+* A SCREAMING FLUKE!
+* SCREAMS OF DOOM!
+* FLUKE OF FEAR!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|The Cursed Shores}}

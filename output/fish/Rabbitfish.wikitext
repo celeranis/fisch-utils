@@ -1,0 +1,66 @@
+{{FishInfobox
+|image          = Rabbitfish.png
+|rarity         = Legendary
+|sea            = First Sea
+|location       = [[Ocean]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -20
+|xp             = 800
+|weather        = 
+|time           = 
+|season         = 
+|bait           = Seaweed
+|base_weight    = 6
+|base_value     = 1100
+|weight_range   = 3.5
+|base_chance    = 1
+|base_resil     = 35
+}}
+'''Rabbitfish''' is a {{Rarity|Legendary}} fish found in the [[Ocean]].
+
+== Description ==
+{{Description|The Rabbitfish is an elusive saltwater fish that is only found under The Arch. They are odd creatures that both resemble a rabbit, and swim in a pattern similar to a bunny jumping.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found under The Arch.|Bestiary Hint}}
+{{Fish Availability|
+Ocean/The Arch
+|top_rods      = 
+Leviathan's Fang Rod\22944.98\141091.37;
+Trident Rod\20084.08\142654.19;
+Ethereal Prism Rod\19784.71\92132.35;
+Seraphic Rod\18892.46\93368.71;
+No-Life Rod\18562.89\98392.18;
+Flimsy Rod\11780.27\93178.29;
+Resourceful Rod\15283.9\74811.58;
+Destiny Rod\16035.68\81986.4;
+Free Spirit Rod\17925.35\127321.07;
+Training Rod\10788.38\84533.81;
+Lucky Rod\10593.84\71386.63;
+Rod Of The Forgotten Fang\17585.83\91453.5;
+Challenger's Rod\16881.81\90372.78;
+Rod Of The Depths\15684.31\82507.53;
+Rod Of The Exalted One\15626.92\83378.86;
+Zeus Rod\15161.94\82975.95;
+Verdant Shear Rod\14806.86\82655.08;
+Blazebringer Rod\14423.81\79298.06;
+Depthseeker Rod\13643.21\77690.33;
+Avalanche Rod\12262.68\70061.13;
+Volcanic Rod\11820.3\65644.09;
+Steady Rod\3855.11\24392.49
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Rabbitfish, the player has a chance to make one of the following exclamations:
+* Woah!! A Rabbitfish!
+* A Rabbit!!
+* I caught a Rabbitfish!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ocean}}

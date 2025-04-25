@@ -1,0 +1,66 @@
+{{FishInfobox
+|image          = Frost Minnow.png
+|rarity         = Uncommon
+|sea            = First Sea
+|location       = [[Cryogenic Canal]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 85
+|weather        = 
+|time           = Day
+|season         = Winter
+|bait           = Worm
+|base_weight    = 1.6
+|base_value     = 150
+|weight_range   = 0.8
+|base_chance    = 65
+|base_resil     = 70
+}}
+'''Frost Minnow''' is an {{Rarity|Uncommon}} fish found in the [[Cryogenic Canal]].
+
+== Description ==
+{{Description|A tiny, silver fish with faint ice-like patterns on its scales.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in the shallow waters of Cryogenic Canal.|Bestiary Hint}}
+{{Fish Availability|
+Cryogenic Canal
+|top_rods      = 
+Trident Rod\196172.18\21608.89;
+Leviathan's Fang Rod\195256.75\29673.74;
+Free Spirit Rod\192111.49\21555.06;
+Azure Of Lagoon\189646.13\21118.84;
+No-Life Rod\187077.94\30687.01;
+Training Rod\168518.52\42504.9;
+Flimsy Rod\121895.8\24489.5;
+Resourceful Rod\166071.09\21001.32;
+Nocturnal Rod\125964.49\91900.59;
+Firefly Rod\170340\39331.73;
+Seraphic Rod\164280.92\30450.01;
+Verdant Shear Rod\176034.71\25972.83;
+Blazebringer Rod\174717.55\24495.35;
+Zeus Rod\173471.9\25956.3;
+Depthseeker Rod\172207.77\23772.25;
+Challenger's Rod\171991.08\27892.42;
+Avalanche Rod\169876.6\21313.62;
+Volcanic Rod\169390.79\19698.03;
+Rod Of The Depths\162590.48\25260.59;
+Rod Of The Forgotten Fang\161554.06\27807.65;
+Rod Of The Exalted One\154073.04\23726.88;
+Ethereal Prism Rod\152104.69\0;
+Steady Rod\79637.09\10836.29
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Frost Minnow, the player has a chance to make one of the following exclamations:
+* A tiny frozen friend!
+* So small!
+* A Frost Minnow!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Cryogenic Canal}}

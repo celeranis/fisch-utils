@@ -1,0 +1,66 @@
+{{FishInfobox
+|image          = Lapisjack.png
+|rarity         = Rare
+|sea            = First Sea
+|location       = [[Keepers Altar]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 80
+|weather        = Clear, Rain
+|time           = Day
+|season         = Spring
+|bait           = Minnow
+|base_weight    = 40
+|base_value     = 115
+|weight_range   = 20
+|base_chance    = 55
+|base_resil     = 20
+}}
+'''Lapisjack''' is a {{Rarity|Rare}} fish found in the [[Keepers Altar]].
+
+== Description ==
+{{Description|The Lapisjack is a strong, fast-swimming fish known for their vigorous fights and robust body. Mostly active in spring, and only found in Keepers Altar. They are capable of sustaining their conscious when the Altar is active.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in Keepers Altar.|Bestiary Hint}}
+{{Fish Availability|
+Keepers Altar
+|top_rods      = 
+Free Spirit Rod\383591.48\28954.99;
+Trident Rod\375146.51\29309.71;
+Leviathan's Fang Rod\365104.25\40040.73;
+Azure Of Lagoon\313658.99\27159.8;
+No-Life Rod\313175.71\39405.7;
+Magnet Rod\137996.33\24553.57;
+Adventurer's Rod\169498.79\24079.38;
+Fischer's Rod\170895.76\24375.44;
+Nocturnal Rod\180884.36\115776.34;
+Seraphic Rod\233874.22\38307.31;
+Ethereal Prism Rod\232359.42\38059.19;
+Depthseeker Rod\268798.75\29736.34;
+Avalanche Rod\250615.41\26534.43;
+Challenger's Rod\248515.84\35013.71;
+Verdant Shear Rod\248286.01\32272.25;
+Zeus Rod\243668.02\32307.52;
+Blazebringer Rod\237207.29\30544.39;
+Volcanic Rod\226060.33\24519.41;
+Rod Of The Forgotten Fang\217760.61\34834.15;
+Rod Of The Depths\209235.98\31448.21;
+Rod Of The Exalted One\193171.55\29626.99;
+Steady Rod\109742.33\11461.1
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Lapisjack, the player has a chance to make one of the following exclamations:
+* A Lapisjack!
+* I caught an Lapisjack!
+* Woah, a Lapisjack!
+* Lumberjack- I mean Lapisjack!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Keepers Altar}}

@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Diplurus.png
+|rarity         = Legendary
+|sea            = First Sea
+|location       = [[Ancient Archives]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 250
+|weather        = 
+|time           = Day
+|season         = 
+|bait           = Shrimp
+|base_weight    = 160
+|base_value     = 800
+|weight_range   = 80
+|base_chance    = 0.1
+|base_resil     = 30
+}}
+'''Diplurus''' is a {{Rarity|Legendary}} fish found in the [[Ancient Archives]].
+
+== Description ==
+{{Description|Diplurus is an extinct fish from the Late Devonian period, distinguished by its unique, two-lobed tail. It was an active predator, preying on smaller fish and invertebrates in ancient freshwater habitats.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in the dark waters of the Archives...|Bestiary Hint}}
+{{Fish Availability|
+Ancient Archives
+|top_rods      = 
+Leviathan's Fang Rod\132719.18\238986.59;
+Trident Rod\123073.77\226324.1;
+Free Spirit Rod\115451.59\212307.45;
+No-Life Rod\86436.02\163350.18;
+Azure Of Lagoon\85858.28\163796.37;
+Resourceful Rod\64042.9\122033.9;
+Destiny Rod\69967.65\123243.07;
+Heaven's Rod\72047.11\127947.29;
+Buddy Bond Rod\42058.68\80237.57;
+Adventurer's Rod\46021.42\87341.45;
+Fischer's Rod\46332.38\87931.59;
+Seraphic Rod\79209.67\139385.12;
+Ethereal Prism Rod\79057.25\136996.62;
+Challenger's Rod\76624.82\139498.32;
+Rod Of The Forgotten Fang\76614.83\136987.84;
+Rod Of The Exalted One\70680.3\128499.96;
+Zeus Rod\70572.45\132668.8;
+Verdant Shear Rod\70116.44\131736.41;
+Rod Of The Depths\69494.36\126400.84;
+Depthseeker Rod\68386.47\137552.78;
+Blazebringer Rod\67338.2\130462.15;
+Volcanic Rod\64540.24\125409.04;
+Avalanche Rod\64203.44\129714.6;
+Steady Rod\23151.79\62284.56
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Diplurus, the player has a chance to make one of the following exclamations:
+* I caught a Diplurus!
+* OMG A Diplurus!
+* I can't believe I caught a Diplurus!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ancient Archives}}

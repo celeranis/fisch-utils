@@ -1,0 +1,92 @@
+{{FishInfobox
+|image          = Moonfish.png
+|rarity         = Legendary
+|sea            = First Sea
+|location       = [[Ocean]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -40
+|xp             = 900
+|weather        = Clear
+|time           = Night
+|season         = Winter
+|bait           = Minnow
+|base_weight    = 500
+|base_value     = 1800
+|weight_range   = 250
+|base_chance    = 0.2
+|base_resil     = 20
+}}
+'''Moonfish''' is a {{Rarity|Legendary}} fish found in the [[Ocean]].
+
+== Description ==
+{{Description|The Moonfish is a sizable, flat, bony fish that inhabits deep and occasionally warm waters. While their behaviour resembles that of the Ocean Sunfish, Moonfish are far more aggressive, using their rock-hard skulls to charge at fish, boats, and swimmers.|Bestiary Entry}}
+
+== Obtainment ==
+{{Fish Availability|
+Ancient Isle/Algae Hunt
+Atlantis/Surrounding Ocean
+Forsaken Shores/Algae Hunt
+Lovestorm/Normal
+Lovestorm/Supercharged
+Lucky Event/Blarney McBreeze
+Lucky Event/O'Mango Goldgrin
+Lucky Event/Plumrick O'Luck
+Lucky Event/Rowdy McCharm
+Lucky Event/Sunny O'Coin
+Megalodon Hunt/Eclipse and Weekend
+Megalodon Hunt/Normal
+Moosewood/Surrounding Ocean
+Mushgrove Swamp/Algae Hunt
+Northern Summit/Surrounding Ocean
+Ocean
+Ocean/Deep Ocean
+Ocean/The Arch
+Orca Migration/Ancient
+Orca Migration/Normal
+Snowcap Island/Algae Hunt
+Snowcap Island/Surrounding Ocean
+Whale Migration/Moby
+Whale Migration/Normal
+|top_rods      = 
+Leviathan's Fang Rod\33745.08\281820.86;
+Free Spirit Rod\28487.23\239226.73;
+Ethereal Prism Rod\27382.16\169866.26;
+Trident Rod\27368.04\229828.15;
+Seraphic Rod\26295.22\171100.72;
+Resourceful Rod\20984.36\137308.31;
+Destiny Rod\21913.94\133708.46;
+Heaven's Rod\19568.36\149602.98;
+No-Life Rod\25935.6\186448.35;
+Rod Of The Eternal King\20558.17\138760.3;
+Poseidon Rod\21054.99\155333.83;
+Rod Of The Exalted One\21448.99\142951.54;
+Rod Of The Forgotten Fang\24295.81\166309.07;
+Challenger's Rod\23528.15\170538.14;
+Rod Of The Depths\21491.31\148521.49;
+Zeus Rod\20797.37\153146.11;
+Verdant Shear Rod\20300.34\152118.9;
+Blazebringer Rod\19859.14\147035.87;
+Depthseeker Rod\18897.47\143562.24;
+Avalanche Rod\16876.7\126783.73;
+Volcanic Rod\16225.81\121121.5;
+Steady Rod\5332.83\41639.88
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching a Moonfish, the player has a chance to make one of the following exclamations:
+* I think my backbone snapped..
+* Woah!!
+* OH MY! A MOONFISH?
+* A Moonfish!!
+* Woah, a Moonfish!!
+* How did I pull this up?
+* A Moonfish!!!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ocean}}

@@ -1,0 +1,65 @@
+{{FishInfobox
+|image          = Magma Leviathan.png
+|rarity         = Exotic
+|sea            = First Sea
+|location       = [[Volcanic Vents]]
+|sublocation    = 
+|sources        = Fishing Rod
+|nopassive      = 1
+|radar_location = 
+|prog_speed     = -90
+|xp             = 12000
+|weather        = Foggy
+|time           = Day
+|season         = Summer
+|bait           = Truffle Worm
+|base_weight    = 14000
+|base_value     = 25000
+|weight_range   = 8000
+|base_chance    = 0.1
+|base_resil     = 3
+}}
+'''Magma Leviathan''' is an {{Rarity|Exotic}} fish found in [[Volcanic Vents]] of [[Mariana's Veil]].
+
+== Description ==
+{{Description|A behemoth of the volcanic depths, its scales radiate intense heat, turning the water around it into steam. Some say it sleeps for centuries, only waking during great eruptions.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Surfaces in thick fog, as if the volcano itself breathes it to life.|Bestiary Hint}}
+{{Fish Availability|
+Mariana's Veil/Volcanic Vents
+|top_rods      = 
+Tempest Rod\7355.44\8992.91;
+Challenger's Rod\7185.36\8792.29;
+Seraphic Rod\6758.52\8244.1;
+Ethereal Prism Rod\6197.94\7537.66;
+Abyssal Specter Rod\5965.4\7328.17;
+No-Life Rod\5603.7\6859.85;
+Azure Of Lagoon\4282.02\5241.9;
+Rod Of The Forgotten Fang\5194.29\6338.35;
+Depthseeker Rod\4150.86\5098.15;
+Rod Of The Exalted One\3826.29\4660.85;
+Rod Of The Depths\3497.45\4272.64;
+Zeus Rod\3362.19\4121.44;
+Trident Rod\3203.97\3908.23;
+Avalanche Rod\2986.58\3668.92;
+Volcanic Rod\2696.8\3305.78;
+Steady Rod\1075.85\1326.61
+|recommended   = Challenger's Rod
+}}
+
+== Gameplay Notes ==
+* Magma Leviathan usually cannot be caught with passive effects, such as the one provided by the [[Rod Of The Depths]] and [[Rod Of The Forgotten Fang]].
+** The only exception is when catching a Magma Leviathan on the Megalodon Passive reel of the [[Rod Of The Forgotten Fang]], the Megalodon will instead dupe the Magma Leviathan.
+
+== Catch Quips ==
+When catching a Magma Leviathan, the player has a chance to make one of the following exclamations:
+* THE MAGMA LEVIATHAN!?!
+* A TITAN OF FLAME AND FURY!
+* SCORCHING KRAKEN!?
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Volcanic Vents}}

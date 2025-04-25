@@ -1,0 +1,70 @@
+{{FishInfobox
+|image          = Santa Pufferfish.png
+|rarity         = Limited
+|event          = Fischmas
+|sea            = First Sea
+|location       = [[Fischmas]]
+|sublocation    = 
+|sources        = Fishing Rod, Supreme Present
+|radar_location = 
+|prog_speed     = -12
+|xp             = 1200
+|weather        = Foggy
+|time           = Night
+|season         = Winter
+|bait           = Peppermint Worm
+|base_weight    = 2.5
+|base_value     = 2000
+|weight_range   = 1.7
+|base_chance    = 0.1
+|base_resil     = 50
+}}
+'''Santa Pufferfish''' is a {{Rarity|Limited}} fish found in the [[Winter Village]] during the [[Fischmas]] event.
+
+== Description ==
+{{Description|A pufferfish, but with a santa hat! How jolly!|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Only can be caught during Fischmas24.|Bestiary Hint}}
+{{Fish Availability|
+Fischmas/Winter Village
+|top_rods      = 
+Leviathan's Fang Rod\42122.49\199322.31;
+Ethereal Prism Rod\39962.22\144431.83;
+Seraphic Rod\38373.05\145959.56;
+No-Life Rod\37827.05\154507.93;
+Trident Rod\36910.95\173639.21;
+Resourceful Rod\30831.14\120679.79;
+Destiny Rod\32224.96\135322.34;
+Heaven's Rod\30602.95\136244.64;
+Free Spirit Rod\35232.58\165743.71;
+Lucky Rod\22339.14\112236.98;
+Midas Rod\15307.93\70742.82;
+Long Rod\22151.82\99872.37;
+Rod Of The Forgotten Fang\35846.89\141864.62;
+Challenger's Rod\34553.64\144277.36;
+Rod Of The Depths\32154.73\130058.05;
+Rod Of The Exalted One\31789.08\136113.59;
+Zeus Rod\31326.31\134836.31;
+Verdant Shear Rod\30810.55\137362.57;
+Blazebringer Rod\29869.45\130617.79;
+Depthseeker Rod\28218.76\123334.99;
+Avalanche Rod\25433.82\110679.11;
+Volcanic Rod\24415.8\106672.95;
+Training Rod\15463.68\67682.66;
+Steady Rod\9094.59\45004.14
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching a Santa Pufferfish, the player has a chance to make one of the following exclamations:
+* Woah! a Santa Pufferfish!
+* A Santa Pufferfish!
+* Woah, A Santa Pufferfish!
+* Ho-ho-ho!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Fischmas}}

@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Icebeard Shark.png
+|rarity         = Mythical
+|sea            = First Sea
+|location       = [[Glacial Grotto]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -50
+|xp             = 2500
+|weather        = 
+|time           = Night
+|season         = Winter
+|bait           = Truffle Worm
+|base_weight    = 600
+|base_value     = 8000
+|weight_range   = 300
+|base_chance    = 0.01
+|base_resil     = 10
+}}
+'''Icebeard Shark''' is a {{Rarity|Mythical}} fish found in the [[Glacial Grotto]].
+
+== Description ==
+{{Description|A massive, ancient shark with frost-covered skin and icicle-like protrusions.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Only appears in the deepest, darkest parts of the Glacial Grotto.|Bestiary Hint}}
+{{Fish Availability|
+Glacial Grotto
+|top_rods      = 
+Leviathan's Fang Rod\90582.9\328800.32;
+Free Spirit Rod\77315.58\327187.87;
+Trident Rod\73536.94\311197.25;
+Ethereal Prism Rod\66390.65\200264.3;
+No-Life Rod\66371.51\238828.26;
+Resourceful Rod\49389.47\157385.1;
+Destiny Rod\50818.35\148498.24;
+Heaven's Rod\46382.38\158870.04;
+Azure Of Lagoon\51655.73\261067.65;
+Midas Rod\24090.45\93545.86;
+Summit Rod\46664.07\176118.59;
+Verdant Shear Rod\51381.67\182522.9;
+Seraphic Rod\65855.88\208639.1;
+Rod Of The Forgotten Fang\60601.36\198859.62;
+Challenger's Rod\60141.05\212285.15;
+Rod Of The Depths\53623.38\172565.41;
+Zeus Rod\52508\185675.77;
+Rod Of The Exalted One\52310\165225.16;
+Blazebringer Rod\50316.61\179063.3;
+Depthseeker Rod\48460.27\173821.14;
+Avalanche Rod\42971.78\150539.09;
+Volcanic Rod\40981.86\146293.54;
+Steady Rod\13799.73\59579.98
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching an Icebeard Shark, the player has a chance to make one of the following exclamations:
+* AN ICEBEARD SHARK!
+* THE LEGEND EXISTS!
+* INCREDIBLE!
+* THE FROZEN TERROR!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Glacial Grotto}}

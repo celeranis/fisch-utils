@@ -1,0 +1,93 @@
+{{FishInfobox
+|image          = Yellowfin Tuna.png
+|rarity         = Uncommon
+|sea            = First Sea
+|location       = [[Moosewood]]
+|sublocation    = Saltwater
+|sources        = Carbon Crate, Fish Barrel, Fishing Rod
+|radar_location = 
+|xp             = 80
+|weather        = 
+|time           = 
+|season         = Summer
+|bait           = 
+|base_weight    = 136
+|base_value     = 120
+|weight_range   = 91
+|base_chance    = 65
+|base_resil     = 60
+}}
+'''Yellowfin Tuna''' is an {{Rarity|Uncommon}} fish found in [[Moosewood]].
+
+== Description ==
+{{Description|The Yellowfin Tuna is a species of tuna known for their speed and agility. The Yellowfin Tuna can be found best near Moosewoods waters, but you can find them in most open saltwater due to them being highly migratory. They are less endangered than Bluefin Tuna but still face threats.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in open saltwater near moosewood.|Bestiary Hint}}
+{{Fish Availability|
+Ancient Isle/Algae Hunt
+Atlantis/Surrounding Ocean
+FischFright/Frightful Pool
+Forsaken Shores/Algae Hunt
+Golden Tide
+Lovestorm/Normal
+Lovestorm/Supercharged
+Lucky Event/Blarney McBreeze
+Lucky Event/O'Mango Goldgrin
+Lucky Event/Plumrick O'Luck
+Lucky Event/Rowdy McCharm
+Lucky Event/Sunny O'Coin
+Megalodon Hunt/Eclipse and Weekend
+Megalodon Hunt/Normal
+Moosewood/Seaweed and Mini-Island
+Moosewood/Surrounding Ocean
+Mushgrove Swamp/Algae Hunt
+Northern Summit/Surrounding Ocean
+Ocean
+Ocean/Deep Ocean
+Ocean/The Arch
+Orca Migration/Ancient
+Orca Migration/Normal
+Snowcap Island/Algae Hunt
+Whale Migration/Moby
+Whale Migration/Normal
+|top_rods      = 
+Trident Rod\146448.93\87616.17;
+Leviathan's Fang Rod\144013.52\148437.19;
+Free Spirit Rod\141909.55\87316.17;
+Azure Of Lagoon\139515.93\84858.62;
+No-Life Rod\137306.35\123539.65;
+Resourceful Rod\124129.04\104820.71;
+Wildflower Rod\126288.41\107229.24;
+Haunted Rod\102165.38\89670.15;
+Ethereal Prism Rod\125578.26\139061.79;
+Kraken Rod\106360.31\133727.61;
+Seraphic Rod\122245.55\122245.55;
+Lucky Rod\88039.98\70177.09;
+Depthseeker Rod\134086.96\109372.49;
+Verdant Shear Rod\132444.8\106648.77;
+Avalanche Rod\132022.46\108016.3;
+Blazebringer Rod\129916.93\98224.04;
+Zeus Rod\128924.18\104052.69;
+Volcanic Rod\125830.14\85275.84;
+Challenger's Rod\123891.02\111940.17;
+Rod Of The Depths\115468.27\101275.32;
+Rod Of The Forgotten Fang\115057.54\111569.3;
+Rod Of The Exalted One\109191.78\103310.85;
+Steady Rod\63261.24\56155.76
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Yellowfin Tuna, the player has a chance to make one of the following exclamations:
+* A Yellowfin Tuna!
+* I caught a Yellowfin Tuna!
+* Woah, a Yellowfin Tuna!
+* Tunaaaaa!
+* What's up, Tuna!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Moosewood}}

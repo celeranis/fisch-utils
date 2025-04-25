@@ -1,0 +1,9 @@
+@echo off
+node src/scripts/dump_bait
+node src/scripts/dump_bobbers
+node src/scripts/dump_enchants
+node src/scripts/dump_mutations
+node src/scripts/dump_rods
+node src/scripts/dump_titles
+node src/scripts/dump_fish
+echo Finished

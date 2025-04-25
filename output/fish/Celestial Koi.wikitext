@@ -1,0 +1,65 @@
+{{FishInfobox
+|image          = Celestial Koi.png
+|rarity         = Mythical
+|sea            = First Sea
+|location       = [[Atlantis]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 3000
+|weather        = Rain
+|time           = Night
+|season         = Winter
+|bait           = Truffle Worm
+|base_weight    = 1000
+|base_value     = 8000
+|weight_range   = 500
+|base_chance    = 0.1
+|base_resil     = 10
+}}
+'''Celestial Koi''' is a {{Rarity|Mythical}} fish found in [[Atlantis]].
+
+== Description ==
+{{Description|A Celestial koi fish that ancient texts claim once guided lost souls through the depths. Its scales shine with otherworldly light, and its presence causes the surrounding waters to swirl with magical energy.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Sunken's Depth Pool|Bestiary Hint}}
+{{Fish Availability|
+Atlantis/Sunken Depths
+|top_rods      = 
+Leviathan's Fang Rod\56613.49\247582.87;
+Free Spirit Rod\45801.64\233274.7;
+Trident Rod\44793.29\228139.03;
+Ethereal Prism Rod\39473.3\139851.34;
+No-Life Rod\38321.39\168611.42;
+Resourceful Rod\30351.11\113858.32;
+Destiny Rod\31572.63\121418.79;
+Heaven's Rod\28307.24\123625.62;
+Seraphic Rod\37941.21\145707.1;
+Rod Of The Zenith\33613.21\125972.37;
+Rod Of The Forgotten Fang\35340.62\140523.19;
+Precision Rod\23647.64\103344.02;
+Challenger's Rod\34131.77\139363.21;
+Rod Of The Depths\31517.38\123057.03;
+Rod Of The Exalted One\31239.55\122835.3;
+Zeus Rod\30754.86\128504.17;
+Verdant Shear Rod\30076.92\128326.9;
+Blazebringer Rod\29247.24\122727.88;
+Depthseeker Rod\27831.25\122350.42;
+Avalanche Rod\24960.39\109476.83;
+Volcanic Rod\23959.85\101450.66;
+Steady Rod\7934.68\38949.13
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Celestial Koi, the player has a chance to make one of the following exclamations:
+* THE CELESTIAL KOI!
+* GUIDE OF THE DEPTHS!
+* THE ANCIENT ONE APPEARS!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Atlantis}}

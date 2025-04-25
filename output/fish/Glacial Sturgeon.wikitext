@@ -1,0 +1,66 @@
+{{FishInfobox
+|image          = Glacial Sturgeon.png
+|rarity         = Mythical
+|sea            = First Sea
+|location       = [[Cryogenic Canal]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -40
+|xp             = 2200
+|weather        = 
+|time           = Night
+|season         = Winter
+|bait           = Truffle Worm
+|base_weight    = 500
+|base_value     = 7000
+|weight_range   = 250
+|base_chance    = 0.01
+|base_resil     = 15
+}}
+'''Glacial Sturgeon''' is a {{Rarity|Mythical}} fish found in the [[Cryogenic Canal]].
+
+== Description ==
+{{Description|A massive, ancient fish with icy armor-like scales and a frosted dorsal fin, marking it as one of the oldest species in these waters.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Dwells in the oldest, deepest parts of the frozen waters.|Bestiary Hint}}
+{{Fish Availability|
+Cryogenic Canal
+|top_rods      = 
+Leviathan's Fang Rod\130463.83\363735.04;
+Free Spirit Rod\118458.77\361171.73;
+Trident Rod\113804.84\346982.25;
+No-Life Rod\92523.71\267650.07;
+Ethereal Prism Rod\92169.95\216110.57;
+Resourceful Rod\69106.31\178229.86;
+Destiny Rod\71280.64\168237.95;
+Heaven's Rod\69628.83\184435.46;
+Azure Of Lagoon\80600.46\282837.35;
+Avalanche Rod\61461.26\182726.42;
+Seasons Rod\54875.29\164011.1;
+Depthseeker Rod\68834.17\207031.96;
+Seraphic Rod\90874.69\225560.03;
+Rod Of The Forgotten Fang\84125.25\217212.94;
+Challenger's Rod\83398.2\229943.24;
+Rod Of The Depths\74959.62\193425;
+Zeus Rod\74535.81\208334.52;
+Verdant Shear Rod\73495.7\210425.87;
+Rod Of The Exalted One\73089.18\181955.95;
+Blazebringer Rod\71204.48\200189.11;
+Volcanic Rod\58146.22\174207.34;
+Steady Rod\20700.13\81356.51
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Glacial Sturgeon, the player has a chance to make one of the following exclamations:
+* A GLACIAL STURGEON!
+* ANCIENT ICE DWELLER!
+* WHAT A MONSTER!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Cryogenic Canal}}

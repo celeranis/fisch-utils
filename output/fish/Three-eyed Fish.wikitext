@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Three-eyed Fish.png
+|rarity         = Unusual
+|sea            = First Sea
+|location       = [[The Depths]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 55
+|weather        = 
+|time           = Night
+|season         = 
+|bait           = Seaweed
+|base_weight    = 6
+|base_value     = 200
+|weight_range   = 4
+|base_chance    = 40
+|base_resil     = 70
+}}
+'''Three-eyed Fish''' is an {{Rarity|Unusual}} fish found in [[The Depths]].
+
+== Description ==
+{{Description|A mutant fish with three glowing eyes, sleek scales, and a bizarre, eerie charm.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Swims during the dark night and underwater ruins.|Bestiary Hint}}
+{{Fish Availability|
+The Depths
+The Depths/Absolute Darkness
+|top_rods      = 
+Krampus's Rod\258231.33\359769.54;
+Magma Rod\249538.44\347658.55;
+Plastic Rod\227986.81\317636.38;
+Fast Rod\183099.3\400031.93;
+Buddy Bond Rod\169305.8\348101.43;
+Flimsy Rod\146688.35\602927.05;
+Training Rod\93919.85\455894.14;
+Fischer's Rod\162612.88\355273.59;
+Heaven's Rod\105554.95\299792.29;
+Ethereal Prism Rod\128311.08\199306.9;
+Seraphic Rod\124700.71\94263.53;
+No-Life Rod\124139.02\94997.2;
+Trident Rod\119113.29\84587.44;
+Rod Of The Forgotten Fang\116977.25\86083.62;
+Free Spirit Rod\116647.69\82836.52;
+Challenger's Rod\113835.71\86346.04;
+Rod Of The Depths\105705.32\78198.73;
+Zeus Rod\104474.02\80352.44;
+Rod Of The Exalted One\103172.25\90059.17;
+Verdant Shear Rod\103010.65\80403.62;
+Blazebringer Rod\99123.77\75829.8;
+Depthseeker Rod\94587.63\73591.31;
+Avalanche Rod\85485.97\65980.18;
+Volcanic Rod\84740.41\60978.84;
+Steady Rod\45155.86\28306.77
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching a Three-eyed Fish, the player has a chance to make one of the following exclamations:
+* Woah! The Three Eyed Fish!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|The Depths}}

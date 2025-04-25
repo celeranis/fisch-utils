@@ -1,0 +1,64 @@
+{{FishInfobox
+|image          = Cockatoo Squid.png
+|rarity         = Unusual
+|sea            = First Sea
+|location       = [[Desolate Deep]]
+|sublocation    = 
+|sources        = Coral Geode, Fishing Rod
+|radar_location = 
+|xp             = 65
+|weather        = 
+|time           = Night
+|season         = Summer, Winter
+|bait           = Minnow
+|base_weight    = 2
+|base_value     = 200
+|weight_range   = 1.6
+|base_chance    = 765
+|base_resil     = 35
+}}
+'''Cockatoo Squid''' is an {{Rarity|Unusual}} fish found in the [[Desolate Deep]].
+
+== Description ==
+{{Description|The Cockatoo Squid is an intriguing species of squid. Their bodies are almost entirely translucent and bioluminescent, which they can use to hide from possible predators. They typically leave their hiding spots at night in search of microorganisms to feed on. [Contribution by @Johnny_D3pp]|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in the Desolate Deep during the night.|Bestiary Hint}}
+{{Fish Availability|
+Desolate Deep/Desolate Pocket
+|top_rods      = 
+Trident Rod\206630\196388.43;
+Leviathan's Fang Rod\203633.68\194376.61;
+Free Spirit Rod\182200.75\173170.01;
+Training Rod\179945.59\191906.81;
+Flimsy Rod\147067.96\159029.76;
+Plastic Rod\105323.84\79310.7;
+Ethereal Prism Rod\131047.24\159250.61;
+Fortune Rod\99297.24\94587.35;
+No-Life Rod\143075.82\134668.12;
+Seraphic Rod\131439.7\133262.2;
+Challenger's Rod\128083.16\121736.17;
+Rod Of The Forgotten Fang\127837.98\120658.37;
+Rod Of The Exalted One\119954.46\114766.83;
+Depthseeker Rod\119444.7\110589.53;
+Zeus Rod\118624.71\113040.49;
+Verdant Shear Rod\117881.64\112956.42;
+Blazebringer Rod\116662.74\109803.16;
+Rod Of The Depths\116343.4\110172.05;
+Avalanche Rod\114202.85\105797.21;
+Volcanic Rod\112397.4\105788.62;
+Steady Rod\62148.6\58526.62
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Cockatoo Squid, the player has a chance to make one of the following exclamations:
+* A Cockatoo Squid!
+* Ouu! A Cockatoo Squid!
+* So cool!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Desolate Deep}}

@@ -1,0 +1,66 @@
+{{FishInfobox
+|image          = Shiverfin Haddock.png
+|rarity         = Rare
+|sea            = First Sea
+|location       = [[Glacial Grotto]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 220
+|weather        = 
+|time           = Day
+|season         = Winter
+|bait           = Fish Head
+|base_weight    = 12
+|base_value     = 500
+|weight_range   = 7
+|base_chance    = 35
+|base_resil     = 50
+}}
+'''Shiverfin Haddock''' is a {{Rarity|Rare}} fish found in the [[Glacial Grotto]].
+
+== Description ==
+{{Description|A fish with frosty blue scales and faint frost patterns across its fins.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Prefers the deeper grotto waters.|Bestiary Hint}}
+{{Fish Availability|
+Glacial Grotto
+|top_rods      = 
+Krampus's Rod\187865.39\85451.05;
+Magma Rod\179484.7\81639.07;
+Plastic Rod\164662.36\74900.32;
+Leviathan's Fang Rod\162258.07\65858.58;
+Flimsy Rod\154796.65\151008.64;
+Training Rod\97000.15\97135.44;
+Nocturnal Rod\60766.56\62325.58;
+Trident Rod\147461.31\53969.87;
+Ethereal Prism Rod\141340.53\54505.93;
+Free Spirit Rod\140209.94\51315.92;
+No-Life Rod\137939.75\58335.51;
+Seraphic Rod\137497.2\54153.37;
+Rod Of The Forgotten Fang\128835.21\50444.2;
+Challenger's Rod\125615.22\50426.46;
+Rod Of The Depths\116293.78\45127.28;
+Zeus Rod\115090.73\45995.13;
+Verdant Shear Rod\113507.6\45164.07;
+Rod Of The Exalted One\113424.75\43554;
+Blazebringer Rod\109262.69\43784.39;
+Depthseeker Rod\104431.92\40397.27;
+Avalanche Rod\94276.37\35902.1;
+Volcanic Rod\89678.75\35795.81;
+Steady Rod\41501.89\11532.59
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Shiverfin Haddock, the player has a chance to make one of the following exclamations:
+* A Shiverfin Haddock!
+* Look at those patterns!
+* Frosty fins!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Glacial Grotto}}

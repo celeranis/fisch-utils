@@ -1,0 +1,71 @@
+{{FishInfobox
+|image          = Flounder.png
+|rarity         = Unusual
+|sea            = First Sea
+|location       = [[Moosewood]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 80
+|weather        = Windy
+|time           = Night
+|season         = 
+|bait           = Squid
+|base_weight    = 5.5
+|base_value     = 120
+|weight_range   = 4
+|base_chance    = 40
+|base_resil     = 80
+}}
+'''Flounder''' is an {{Rarity|Unusual}} fish found in [[Moosewood]].
+
+== Description ==
+{{Description|Flounders are a demersal flatfish- meaning they feed at the bottom of the ocean, and has a flat body to blend in with the seafloor. Both of a flounders eyes are on one side, pointing upwards to the sky. They are easy to find in dark areas with a lot of surface or at night near Moosewood Docks.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Lays flat at the bottom of the ocean. Prefers the night.|Bestiary Hint}}
+{{Fish Availability|
+Moosewood/Docks
+Moosewood/Seaweed and Mini-Island
+Moosewood/Surrounding Ocean
+|top_rods      = 
+Krampus's Rod\306489.17\490729.77;
+Magma Rod\296848.83\475294.32;
+Plastic Rod\271084.12\434041.6;
+Buddy Bond Rod\201376.77\455168.79;
+Fast Rod\191267.65\525447.11;
+Leviathan's Fang Rod\183976.36\506481.33;
+Fischer's Rod\169124.25\464615.14;
+Adventurer's Rod\168161.5\461970.28;
+Flimsy Rod\125492.12\344749.73;
+Ethereal Prism Rod\184791.52\413135.81;
+Seraphic Rod\178587.96\416471.42;
+No-Life Rod\173350.57\434312.83;
+Rod Of The Forgotten Fang\167389.23\408604.02;
+Challenger's Rod\159871.44\412781.83;
+Rod Of The Depths\151109\376098.32;
+Rod Of The Exalted One\148313.5\388915.57;
+Zeus Rod\144628.19\388149.06;
+Verdant Shear Rod\140834.6\388365.12;
+Trident Rod\137527.21\390375.87;
+Blazebringer Rod\137186.6\369573.97;
+Free Spirit Rod\135550.64\384765.33;
+Depthseeker Rod\128595.56\349018.94;
+Avalanche Rod\116156.08\316168.24;
+Volcanic Rod\112678.05\306988.02;
+Training Rod\83882.9\217661.13;
+Steady Rod\42831.89\101841.7
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching a Flounder, the player has a chance to make one of the following exclamations:
+* A Flounder!
+* A Flatfish!
+* I caught a Flounder!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Moosewood}}

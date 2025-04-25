@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Chasm Leech.png
+|rarity         = Mythical
+|sea            = Second Sea
+|location       = [[The Cursed Shores]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -92
+|xp             = 3800
+|weather        = Foggy
+|time           = 
+|season         = Winter
+|bait           = Mist Worms
+|base_weight    = 2.8
+|base_value     = 3000
+|weight_range   = 1.6
+|base_chance    = 15
+|base_resil     = 6
+}}
+'''Chasm Leech''' is a {{Rarity|Mythical}} fish found in [[The Cursed Shores]].
+
+== Description ==
+{{Description|A tenacious parasite that drains the life from the abyss.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It clings where the chasms yawn wide.|Bestiary Hint}}
+{{Fish Availability|
+The Cursed Shores
+|top_rods      = 
+Challenger's Rod\43860.11\78038.7;
+Free Spirit Rod\43292.66\74958.37;
+Azure Of Lagoon\42602.74\76727.64;
+Tempest Rod\41929.16\75678.3;
+Summit Rod\39031.54\63353.62;
+Frostfire Rod\10486.55\15490.34;
+Plastic Rod\3732.74\5280.89;
+Magma Rod\11823.57\16727.37;
+Training Rod\19538.84\97331.49;
+Flimsy Rod\-58.07\-58.07;
+Seraphic Rod\38428.7\71258.19;
+Blazebringer Rod\33392.33\61002.9;
+Ethereal Prism Rod\31880.62\57823.17;
+No-Life Rod\27123.35\47626.24;
+Rod Of The Forgotten Fang\25496.78\47231.68;
+Verdant Shear Rod\24873.69\46465.19;
+Depthseeker Rod\20949.35\33563.78;
+Trident Rod\20652.53\38295.9;
+Rod Of The Exalted One\19281.49\35397.26;
+Rod Of The Depths\16118.54\29399.29;
+Avalanche Rod\15519.63\24735.56;
+Volcanic Rod\13654.5\23049.04;
+Steady Rod\13416.59\19713.93;
+Zeus Rod\11162.81\18843.01
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Chasm Leech, the player has a chance to make one of the following exclamations:
+* A CHASM LEECH!
+* DRAINER OF DEPTHS!
+* LEECH OF LEGEND!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|The Cursed Shores}}

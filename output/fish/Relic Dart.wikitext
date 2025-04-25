@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Relic Dart.png
+|rarity         = Rare
+|sea            = Second Sea
+|location       = [[Lushgrove]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -12
+|xp             = 225
+|weather        = Rain
+|time           = Night
+|season         = Winter
+|bait           = Minnow
+|base_weight    = 190
+|base_value     = 450
+|weight_range   = 120
+|base_chance    = 39
+|base_resil     = 40
+}}
+'''Relic Dart''' is a {{Rarity|Rare}} fish found in [[Lushgrove]].
+
+== Description ==
+{{Description|A golden fish with light blue translucent fins, streaking through the deep like a forgotten treasure.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It flashes through the cold, wet twilight.|Bestiary Hint}}
+{{Fish Availability|
+Lushgrove
+|top_rods      = 
+Steady Rod\256757.74\234911.2;
+Frostfire Rod\249261.51\228052.79;
+Krampus's Rod\206948.12\306276.35;
+Magma Rod\206078.5\301458.14;
+North-Star Rod\185665.37\250209.14;
+Adventurer's Rod\139348.53\338783.72;
+Fast Rod\154825.56\329504.17;
+Buddy Bond Rod\123036.88\329172.04;
+Resourceful Rod\138448.05\302777.13;
+Free Spirit Rod\138580.54\212279.62;
+Trident Rod\112980.83\156219.59;
+Verdant Shear Rod\110353.86\182956.66;
+Blazebringer Rod\106720.28\178114.56;
+No-Life Rod\81342.86\122020.15;
+Ethereal Prism Rod\73512.4\128641.6;
+Seraphic Rod\72697.97\119906.59;
+Challenger's Rod\69457.53\115458.03;
+Rod Of The Exalted One\69155.03\117237.97;
+Rod Of The Forgotten Fang\68641.64\114225.82;
+Depthseeker Rod\68130.05\115197.76;
+Rod Of The Depths\67397.03\113436.71;
+Avalanche Rod\65800.29\114669.43;
+Volcanic Rod\65506.21\113832.59;
+Zeus Rod\65273.93\113428.95
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Relic Dart, the player has a chance to make one of the following exclamations:
+* A Relic Dart!
+* Gold!
+* Not a relic for enchanting...
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Lushgrove}}

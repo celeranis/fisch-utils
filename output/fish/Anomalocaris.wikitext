@@ -1,0 +1,71 @@
+{{FishInfobox
+|image          = Anomalocaris.png
+|rarity         = Uncommon
+|sea            = First Sea
+|location       = [[Ancient Isle]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 100
+|weather        = 
+|time           = Night
+|season         = 
+|bait           = Minnow
+|base_weight    = 40
+|base_value     = 90
+|weight_range   = 30
+|base_chance    = 65
+|base_resil     = 65
+}}
+'''Anomalocaris''' is an {{Rarity|Uncommon}} fish found in the [[Ancient Isle]].
+
+== Description ==
+{{Description|The Anomalocaris is a large predator of the Ancient Isle. They flex their fins in a wave-like motion to generate speed, which they use to pursue prey. They bear strong armor-like scales on their backs, making them quite strong. The Anomalocaris went extinct around 485 million years ago at the end of the Ordovician period.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found around the Ancient Isle.|Bestiary Hint}}
+{{Fish Availability|
+Ancient Isle/Freshwater Pond
+Ancient Isle/Surrounding Ocean
+Ancient Isle/Waterfall
+|top_rods      = 
+Rapid Rod\301268.89\256591.48;
+Firefly Rod\275197.67\238686.27;
+Trident Rod\274981.95\166234.93;
+Leviathan's Fang Rod\274625.88\307435.76;
+Free Spirit Rod\268057.22\165748.66;
+Flimsy Rod\247704.22\224210.27;
+Adventurer's Rod\226743.38\226743.38;
+Fischer's Rod\228148.81\228148.81;
+Ethereal Prism Rod\242475.57\275292.64;
+Kraken Rod\208410.97\270216.41;
+Fast Rod\259411.04\259411.04;
+Lucky Rod\201514.62\174427.57;
+No-Life Rod\266973.97\235265.9;
+Verdant Shear Rod\238764.45\199427.66;
+Seraphic Rod\237033.09\233137.53;
+Depthseeker Rod\236752.96\189334.52;
+Blazebringer Rod\235674.4\187440.29;
+Challenger's Rod\234327.06\213520.74;
+Zeus Rod\233932.96\198592.12;
+Avalanche Rod\232773.2\183614.02;
+Volcanic Rod\228384.27\162545.7;
+Rod Of The Forgotten Fang\223511.33\212843.79;
+Rod Of The Depths\218483.01\193280.47;
+Rod Of The Exalted One\211975.82\219724.56;
+Steady Rod\123368.66\100338.26
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching an Anomalocaris, the player has a chance to make one of the following exclamations:
+* Ouu an Anomalocaris!
+* Woah, an Anomalocaris!
+* An Anomalocaris!
+* I caught an Anomalocaris!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ancient Isle}}

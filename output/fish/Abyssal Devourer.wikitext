@@ -1,0 +1,69 @@
+{{FishInfobox
+|image          = Abyssal Devourer.png
+|rarity         = Mythical
+|sea            = First Sea
+|location       = [[Atlantis]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -75
+|xp             = 4000
+|weather        = 
+|time           = Night
+|season         = 
+|bait           = Truffle Worm
+|base_weight    = 2400
+|base_value     = 8000
+|weight_range   = 1200
+|base_chance    = 0.1
+|base_resil     = 12
+}}
+'''Abyssal Devourer''' is a {{Rarity|Mythical}} fish found in [[Atlantis]].
+
+== Description ==
+{{Description|A colossal entity that feeds on darkness itself. Its hunger is endless, and its presence creates a void that nothing escapes.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|The depths grow hollow in its wake, Kraken Pool.|Bestiary Hint}}
+{{Fish Availability|
+Atlantis/Ancient Kraken Hunt
+Atlantis/Kraken Hunt
+Atlantis/Kraken Pool
+|top_rods      = 
+Free Spirit Rod\99109.96\151737.71;
+Leviathan's Fang Rod\97965.74\147775;
+Trident Rod\86691.13\132724.43;
+Azure Of Lagoon\81214.62\127610.75;
+No-Life Rod\81075.13\119178.99;
+Midas Rod\26795.75\39311.27;
+Great Dreamer Rod\61635.66\90403.59;
+Phoenix Rod\57635.61\84536.54;
+Challenger's Rod\78641.36\120420.69;
+The Lost Rod\54896.64\80359.16;
+Volcanic Rod\49304.75\72159.42;
+Zeus Rod\62886.84\92937.19;
+Seraphic Rod\80832.41\119008.73;
+Ethereal Prism Rod\78591.72\113853.68;
+Rod Of The Forgotten Fang\72276.8\105998.73;
+Verdant Shear Rod\62309.27\91495.42;
+Rod Of The Depths\62231.23\90372.07;
+Depthseeker Rod\61443.79\91619.94;
+Blazebringer Rod\61318.53\90305.91;
+Rod Of The Exalted One\60360.29\87082.02;
+Avalanche Rod\53283.45\78370.27;
+Steady Rod\19692.08\30417.37
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching an Abyssal Devourer, the player has a chance to make one of the following exclamations:
+* THE DEVOURER RISES!
+* ENDLESS HUNGER!
+* ALL SHALL BE CONSUMED!
+* DARKNESS FALLS!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Atlantis}}

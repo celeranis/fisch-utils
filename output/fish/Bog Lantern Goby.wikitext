@@ -1,0 +1,70 @@
+{{FishInfobox
+|image          = Bog Lantern Goby.png
+|rarity         = Legendary
+|sea            = Second Sea
+|location       = [[Blue Moon - Second Sea]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = +30
+|xp             = 5425
+|weather        = Foggy
+|time           = 
+|season         = Winter
+|bait           = Crystal Bananas
+|base_weight    = 4
+|base_value     = 1750
+|weight_range   = 2.5
+|base_chance    = 70
+|base_resil     = 45
+}}
+'''Bog Lantern Goby''' is a {{Rarity|Legendary}} fish found in [[Blue Moon]] events at [[Lushgrove]].
+
+== Description ==
+{{Description|A tiny fish with a large black eyes, looming within the bog's depths.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It gleams where the fog hides the secrets.|Bestiary Hint}}
+{{Fish Availability|
+Blue Moon/Second Sea
+|top_rods      = 
+Steady Rod\324429.83\409322.99;
+Frostfire Rod\319954.93\403677.16;
+North-Star Rod\217321.54\402385.25;
+Event Horizon Rod\215791.1\399551.55;
+Astral Rod\215791.1\399551.55;
+Training Rod\163977.94\346147.32;
+Egg Rod\135900.42\471722.26;
+Free Spirit Rod\167349.36\464421.02;
+Verdant Shear Rod\131703.19\457153.32;
+Firefly Rod\128222.49\455250.93;
+Great Dreamer Rod\128915.33\445123.17;
+Flimsy Rod\174351.84\394814.1;
+Magnet Rod\128143.64\398998.7;
+Trident Rod\145255.38\333413.35;
+Blazebringer Rod\126793.14\433306.33;
+No-Life Rod\108789.03\300732.18;
+Seraphic Rod\97755.07\296855.51;
+Ethereal Prism Rod\96831.09\294878.77;
+Challenger's Rod\94064.88\284764.83;
+Rod Of The Forgotten Fang\93418.11\284009.74;
+Depthseeker Rod\92767.02\277142.9;
+Rod Of The Exalted One\92031.63\282633.59;
+Avalanche Rod\91144.78\274902.09;
+Rod Of The Depths\91136.29\282426.79;
+Volcanic Rod\90969.76\282001.34;
+Zeus Rod\90633.48\281359.06
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Bog Lantern Goby, the player has a chance to make one of the following exclamations:
+* A BOG LANTERN GOBY!
+* GLOWING GUIDE!
+* BOGGED LIGHT!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Blue Moon - Second Sea}}

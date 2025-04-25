@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Lurkerfish.png
+|rarity         = Limited
+|event          = FischFright
+|sea            = First Sea
+|location       = [[FischFright]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -10
+|xp             = 800
+|weather        = Foggy
+|time           = 
+|season         = Winter, Autumn
+|bait           = Squid
+|base_weight    = 2
+|base_value     = 1500
+|weight_range   = 1.5
+|base_chance    = 0.01
+|base_resil     = 20
+}}
+'''Lurkerfish''' is a {{Rarity|Limited}} fish found in [[FischFright]] during the [[FischFright]] event.
+
+== Description ==
+{{Description|The Lurkerfish is an interesting breed of the Anglerfish that is only visible during FischFright. It is said this fish gains its visible body from the though of FischFight, and during the rest of the year, the Lurkerfish is completely invisible to the untrained eye.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Only can be caught during FischFright.|Bestiary Hint}}
+{{Fish Availability|
+FischFright/Frightful Pool
+|top_rods      = 
+Leviathan's Fang Rod\36747.62\158304.44;
+Free Spirit Rod\32463.56\155016.94;
+Trident Rod\31660.61\151182.76;
+Ethereal Prism Rod\25617.25\90598.37;
+No-Life Rod\25412.69\106166.65;
+Flimsy Rod\17675.64\80886.85;
+Training Rod\18281.15\94589.9;
+Resourceful Rod\19993.66\81387.49;
+Rapid Rod\22213.8\97395.6;
+Seraphic Rod\24991.29\93428.97;
+Rod Of The Forgotten Fang\23316.48\91270.55;
+Challenger's Rod\22806.8\91710.24;
+Rod Of The Depths\20927.06\82878.91;
+Zeus Rod\20710.66\83597.21;
+Rod Of The Exalted One\20448.89\81317.16;
+Verdant Shear Rod\20394.73\83766;
+Blazebringer Rod\19700.38\79880.09;
+Depthseeker Rod\18885.73\79423.75;
+Avalanche Rod\16971.75\71397.18;
+Volcanic Rod\16140.65\66073.65;
+Steady Rod\6100.45\31817.51
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Lurkerfish, the player has a chance to make one of the following exclamations:
+* Woah, a Lurkerfish!
+* No way! A Lurkerfish!
+* I caught a Lurkerfish!
+* I'm lurking...
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|FischFright}}

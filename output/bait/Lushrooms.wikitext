@@ -1,0 +1,26 @@
+{{BaitInfobox
+|image          = Bait Lushrooms.png
+|rarity         = Common
+|crates         = Tropical Bait Crate/1.12
+|angler_quests  = <!--TBD-->
+|pref_luck      = 50
+|univ_luck      = 20
+|resilience     = 10
+|lure           = 10
+|ability        = 
+}}
+'''Lushrooms''' is a {{Rarity|Common}} [[Bait]] that can be used in fishing.
+
+== Obtainment ==
+Lushroomss can be obtained in the following ways:
+* {{Item|Tropical Bait Crate}} (1.12/crate on average)
+<!--* [[Angler]] Quests, starting from the ?th completion-->
+
+== Favoring Fish ==
+{{Fish by Category Table|Lushrooms-Loving Fish|event=1|show_location=1|hide_bait=1|resultsheader='''%PAGES%''' [[Fish]] prefer Lushroomss:|noresultsheader=No fish prefer Lushroomss.}}
+
+== Change History ==
+{{Change History|1.0}}
+
+== Navigation ==
+{{Bait Navbox}}

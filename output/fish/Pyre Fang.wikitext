@@ -1,0 +1,65 @@
+{{FishInfobox
+|image          = Pyre Fang.png
+|rarity         = Common
+|sea            = Second Sea
+|location       = [[Emberreach]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = +12
+|xp             = 18
+|weather        = Foggy
+|time           = Day
+|season         = Autumn
+|bait           = Worm
+|base_weight    = 24
+|base_value     = 37
+|weight_range   = 12
+|base_chance    = 108
+|base_resil     = 78
+}}
+'''Pyre Fang''' is a {{Rarity|Common}} fish found in [[Emberreach]].
+
+== Description ==
+{{Description|A rugged fish, its fins sharp and tinged with embers.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It lurks where the haze fuels the daylight’s glow.|Bestiary Hint}}
+{{Fish Availability|
+Emberreach/Freshwater Pond
+|top_rods      = 
+Lucky Rod\680293.19\221604.98;
+Fischer's Rod\630122.14\268766.61;
+Fast Rod\627069.58\267464.6;
+Plastic Rod\617015.22\267832.23;
+Free Spirit Rod\589240.7\0;
+Candy Cane Rod\575816.6\266512.03;
+Verdant Shear Rod\531495.79\44245.13;
+Blazebringer Rod\480521.38\37275.01;
+Trident Rod\435304.76\31225.68;
+Ethereal Prism Rod\374558.3\29507.16;
+No-Life Rod\367185.01\36438.66;
+Seraphic Rod\358838.25\25740.51;
+Rod Of The Exalted One\347152.16\24846.36;
+Steady Rod\345623.67\26542.26;
+Rod Of The Forgotten Fang\344039.27\24852.12;
+Challenger's Rod\339582.7\35800.99;
+Depthseeker Rod\339160.5\26197.85;
+Avalanche Rod\337002.48\26067.84;
+Rod Of The Depths\336069.04\30499.58;
+Volcanic Rod\334312.38\28769.93;
+Zeus Rod\333156.44\28692.36
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Pyre Fang, the player has a chance to make one of the following exclamations:
+* A Pyre Fang!
+* Jagged blaze!
+* Fiery bite!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Emberreach}}

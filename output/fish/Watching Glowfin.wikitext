@@ -1,0 +1,69 @@
+{{FishInfobox
+|image          = Watching Glowfin.png
+|rarity         = Common
+|sea            = Second Sea
+|location       = [[Pine Shoals]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = +20
+|xp             = 20
+|weather        = Clear
+|time           = Day
+|season         = Spring
+|bait           = Worm
+|base_weight    = 4
+|base_value     = 30
+|weight_range   = 3
+|base_chance    = 230
+|base_resil     = 80
+}}
+'''Watching Glowfin''' is a {{Rarity|Common}} fish found in [[Pine Shoals]].
+
+== Description ==
+{{Description|A vigilant presence that glows with quiet menace.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It watches from the shallows when the sun is high.|Bestiary Hint}}
+{{Fish Availability|
+Pine Shoals
+|top_rods      = 
+Free Spirit Rod\416282.24\47194.73;
+Resourceful Rod\392809.6\36277.46;
+Azure Of Lagoon\389152.59\45130;
+Trident Rod\372332.55\44224.51;
+Leviathan's Fang Rod\370147.75\43382.43;
+Krampus's Rod\333379.17\32327.25;
+Frostfire Rod\356056.99\30672.4;
+Steady Rod\357103.98\30762.59;
+Nocturnal Rod\190247.55\182712.14;
+Firefly Rod\350905.11\44971.7;
+Flimsy Rod\325482.3\33840.85;
+Training Rod\324132.38\29423.39;
+Blazebringer Rod\355446.4\41659.39;
+Verdant Shear Rod\353938.05\42295.61;
+No-Life Rod\322951.49\39523.83;
+Seraphic Rod\308224.17\36609.92;
+Ethereal Prism Rod\304843.29\35530.37;
+Challenger's Rod\299158.6\36455.53;
+Depthseeker Rod\298738.29\38286.05;
+Rod Of The Forgotten Fang\297110.64\35381.74;
+Avalanche Rod\297086.27\38196.14;
+Volcanic Rod\294993.05\36660.64;
+Rod Of The Depths\294475.35\35373.48;
+Rod Of The Exalted One\294470\34653.7;
+Zeus Rod\294060.75\36544.78
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Watching Glowfin, the player has a chance to make one of the following exclamations:
+* A Watching Glowfin!
+* Caught it staring!
+* Glows with grit!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Pine Shoals}}

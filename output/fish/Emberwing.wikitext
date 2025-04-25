@@ -1,0 +1,69 @@
+{{FishInfobox
+|image          = Emberwing.png
+|rarity         = Legendary
+|sea            = Second Sea
+|location       = [[Emberreach]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -53
+|xp             = 650
+|weather        = Foggy
+|time           = Night
+|season         = Autumn
+|bait           = Ember Berries
+|base_weight    = 486
+|base_value     = 1365
+|weight_range   = 288
+|base_chance    = 16
+|base_resil     = 32
+}}
+'''Emberwing''' is a {{Rarity|Legendary}} fish found in [[Emberreach]].
+
+== Description ==
+{{Description|A shadowed fish, its fins flaring like wisps of flame.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Its wings flare in the foggy night’s glow.|Bestiary Hint}}
+{{Fish Availability|
+Emberreach/Volcano
+|top_rods      = 
+Steady Rod\370499.3\602280.05;
+Frostfire Rod\326379.3\530555.04;
+Krampus's Rod\311002.28\546064.28;
+Magma Rod\307524.99\531994.68;
+North-Star Rod\137468.35\507520.81;
+Free Spirit Rod\107133.03\831725.67;
+Egg Rod\91217.33\817300.48;
+Verdant Shear Rod\87535.13\784308.24;
+Blazebringer Rod\86045.84\773261.71;
+Great Dreamer Rod\86352.4\766932.95;
+Haunted Rod\48013.09\495597.43;
+Resourceful Rod\75703.45\626120.69;
+Mythical Rod\47762.68\495597.43;
+Trident Rod\75430.23\703383.47;
+Ethereal Prism Rod\60179.97\553252.56;
+Seraphic Rod\59005.43\528684.24;
+No-Life Rod\56651.86\528913.44;
+Rod Of The Exalted One\55458.77\515479.43;
+Rod Of The Forgotten Fang\55086.59\495770.02;
+Challenger's Rod\54349.45\505036.4;
+Rod Of The Depths\53257.02\485826.4;
+Volcanic Rod\50943.58\482483.37;
+Depthseeker Rod\50846.92\491118.29;
+Zeus Rod\50566.52\478912.29;
+Avalanche Rod\50180.81\485654.39
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching an Emberwing, the player has a chance to make one of the following exclamations:
+* AN EMBERWING!
+* FLAMED FINS!
+* WINGED BLAZE!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Emberreach}}

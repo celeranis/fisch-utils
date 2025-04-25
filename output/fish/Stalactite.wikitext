@@ -1,0 +1,71 @@
+{{FishInfobox
+|image          = Stalactite.png
+|rarity         = Trash
+|sea            = First Sea
+|location       = [[Desolate Deep]]
+|sublocation    = 
+|sources        = Coral Geode, Crab Cage, Fishing Rod
+|radar_location = 
+|xp             = 20
+|weather        = 
+|time           = 
+|season         = 
+|bait           = Magnet
+|base_weight    = 13
+|base_value     = 35
+|weight_range   = 7
+|base_chance    = 2200
+|base_resil     = 80
+}}
+'''Stalactite''' is a {{Rarity|Trash}} fish found in the [[Desolate Deep]].
+
+== Description ==
+{{Description|A sharp and spiky rock formation that has fallen from the ceiling of a formidable cavern.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Find it fallen in the waters of the Desolate Deep.|Bestiary Hint}}
+{{Fish Availability|
+Desolate Deep/Brine Pool
+Desolate Deep/Desolate Pocket
+|top_rods      = 
+Flimsy Rod\295799.74\370555.97;
+Training Rod\280634.02\407343.54;
+Krampus's Rod\189424.02\298500.08;
+Leviathan's Fang Rod\185828.09\255753.43;
+Magma Rod\183466.77\289113.29;
+Plastic Rod\167550.2\264037.98;
+Fast Rod\180299.71\301295.26;
+Heaven's Rod\147018.93\199349.92;
+Trident Rod\177458.07\173951.32;
+Free Spirit Rod\174907.62\173642.09;
+Ethereal Prism Rod\163116.75\275811.03;
+No-Life Rod\160852.31\232623.85;
+Seraphic Rod\159286.32\247206.1;
+Challenger's Rod\152662.25\213073.21;
+Rod Of The Forgotten Fang\152487.89\223724.54;
+Rod Of The Exalted One\148881.86\201054.69;
+Rod Of The Depths\147770.69\198643.84;
+Depthseeker Rod\147260.67\174149.69;
+Blazebringer Rod\147222.98\183213.73;
+Zeus Rod\147036.65\194189.35;
+Verdant Shear Rod\146775.83\191426.74;
+Avalanche Rod\145871\156030.72;
+Volcanic Rod\142583.88\147360.92;
+Steady Rod\76857.6\74267.78
+|recommended   = Training Rod
+}}
+
+== Catch Quips ==
+When catching a Stalactite, the player has a chance to make one of the following exclamations:
+* Oh.. a Stalactite!
+* A.. Stalactite?
+* How did I pull this up?
+* A Stalactite..?
+* It poked me!
+* That was surprisingly heavy..
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Desolate Deep}}

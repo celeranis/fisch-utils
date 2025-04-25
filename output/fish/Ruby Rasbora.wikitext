@@ -1,0 +1,66 @@
+{{FishInfobox
+|image          = Ruby Rasbora.png
+|rarity         = Rare
+|sea            = First Sea
+|location       = [[Calm Zone]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 350
+|weather        = Clear
+|time           = Night
+|season         = Winter
+|bait           = Squid
+|base_weight    = 100
+|base_value     = 1400
+|weight_range   = 60.5
+|base_chance    = 20
+|base_resil     = 70
+}}
+'''Ruby Rasbora''' is a {{Rarity|Rare}} fish found in the [[Calm Zone]] of [[Mariana's Veil]].
+
+== Description ==
+{{Description|A small, red fish with ruby-like scales that shimmer in the light.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Located in clear waters with a glistening red shine, typically during cold nights.|Bestiary Hint}}
+{{Fish Availability|
+Mariana's Veil/Calm Zone
+|top_rods      = 
+Leviathan's Fang Rod\342980.98\246994.1;
+Trident Rod\334057.37\244408.8;
+Free Spirit Rod\327142.51\239349.64;
+Azure Of Lagoon\299913.77\214173.44;
+Krampus's Rod\296375.16\310429.39;
+Adventurer's Rod\281291.48\292019.75;
+Fischer's Rod\283192.1\293992.85;
+Plastic Rod\282591.79\289507.17;
+Fast Rod\294300.72\309325.13;
+Magma Rod\286433.67\300006.11;
+No-Life Rod\295852.33\238119.27;
+Seraphic Rod\276073.44\236280.26;
+Challenger's Rod\275755.26\216434.34;
+Rod Of The Forgotten Fang\272928.7\215776.56;
+Ethereal Prism Rod\272752.52\255689.99;
+Rod Of The Depths\269395.5\196651.46;
+Zeus Rod\267384.61\201410.83;
+Rod Of The Exalted One\267069.33\192115.41;
+Blazebringer Rod\264896.8\198324.29;
+Verdant Shear Rod\259326.85\201560.23;
+Volcanic Rod\247099.5\186504.1;
+Depthseeker Rod\246133.46\189972.26;
+Avalanche Rod\226155.57\176444.2;
+Steady Rod\119413.57\92003.42
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Ruby Rasbora, the player has a chance to make one of the following exclamations:
+* A Ruby Rasbora!
+* Red like a rose!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Calm Zone}}

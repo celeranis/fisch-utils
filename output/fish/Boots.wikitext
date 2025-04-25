@@ -1,0 +1,75 @@
+{{FishInfobox
+|image          = Boots.png
+|rarity         = Exotic
+|sea            = First Sea
+|location       = [[Ocean]]
+|sublocation    = 
+|sources        = Fishing Rod
+|nopassive      = 1
+|radar_location = 
+|prog_speed     = -20
+|xp             = 250
+|weather        = 
+|time           = 
+|season         = 
+|bait           = 
+|base_weight    = 1.3
+|base_value     = 800
+|weight_range   = 0.1
+|base_chance    = 0.05
+|base_resil     = 100
+}}
+'''Boots''' is an {{Rarity|Exotic}} fish found in the [[Ocean]].
+
+== Description ==
+{{Description|Boots|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Dr. Crookspine might know what to do with this.|Bestiary Hint}}
+{{Fish Availability|
+Lucky Event/Blarney McBreeze
+Lucky Event/O'Mango Goldgrin
+Lucky Event/Plumrick O'Luck
+Lucky Event/Rowdy McCharm
+Lucky Event/Sunny O'Coin
+Ocean
+|top_rods      = 
+Ethereal Prism Rod\19831.92\71343.19;
+Leviathan's Fang Rod\19559.61\83865.68;
+Seraphic Rod\19261.67\72915.07;
+No-Life Rod\18981.66\75287.59;
+Tempest Rod\18525.18\72203.5;
+Flimsy Rod\14376.43\71280.96;
+Training Rod\13517.08\72105.63;
+Resourceful Rod\15078.26\59156.05;
+Trident Rod\16046.23\80721.41;
+Free Spirit Rod\15971.29\80344.38;
+Firefly Rod\15742.8\74992.37;
+Adventurer's Rod\9958.68\50109.93;
+Rod Of The Forgotten Fang\18019.75\72007.88;
+Challenger's Rod\17489.37\71389.55;
+Rod Of The Depths\16293.03\70942.75;
+Zeus Rod\15985.71\67100.84;
+Rod Of The Exalted One\15925.54\70733.29;
+Verdant Shear Rod\15770.3\67466.96;
+Blazebringer Rod\15195.34\63926.89;
+Depthseeker Rod\14437.25\62749.48;
+Avalanche Rod\13077.06\57151.97;
+Volcanic Rod\12473.57\53088.5;
+Steady Rod\4539.85\22809.9
+|recommended   = Ethereal Prism Rod
+}}
+
+== Gameplay Notes ==
+* Boots usually cannot be caught with passive effects, such as the one provided by the [[Rod Of The Depths]] and [[Rod Of The Forgotten Fang]].
+** The only exception is when catching a Boots on the Megalodon Passive reel of the [[Rod Of The Forgotten Fang]], the Megalodon will instead dupe the Boots.
+
+== Catch Quips ==
+When catching a Boots, the player has a chance to make one of the following exclamations:
+* Cool
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ocean}}

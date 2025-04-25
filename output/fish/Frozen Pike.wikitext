@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Frozen Pike.png
+|rarity         = Rare
+|sea            = First Sea
+|location       = [[Cryogenic Canal]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 280
+|weather        = 
+|time           = 
+|season         = Winter
+|bait           = Fish Head
+|base_weight    = 25
+|base_value     = 650
+|weight_range   = 15
+|base_chance    = 25
+|base_resil     = 40
+}}
+'''Frozen Pike''' is a {{Rarity|Rare}} fish found in the [[Cryogenic Canal]].
+
+== Description ==
+{{Description|A long and sleek predator fish, its body covered in frost-like patterns and icy fins.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Hunts in the deepest parts of the canal.|Bestiary Hint}}
+{{Fish Availability|
+Cryogenic Canal
+|top_rods      = 
+Leviathan's Fang Rod\288148.79\171630.87;
+Trident Rod\275636.25\172051.37;
+Krampus's Rod\265240.52\232245.4;
+Free Spirit Rod\252119.62\157372.35;
+Magma Rod\249017.89\218040.81;
+Flimsy Rod\174830.7\214180.97;
+Plastic Rod\232398.66\203037.82;
+Fast Rod\197316.36\236109.69;
+Fischer's Rod\181899.88\224490.12;
+Adventurer's Rod\179263.65\221236.64;
+Buddy Bond Rod\171646.91\215408.39;
+No-Life Rod\216714.71\142763.29;
+Ethereal Prism Rod\214343.29\123772.31;
+Seraphic Rod\211701.59\124312.35;
+Rod Of The Forgotten Fang\198546.44\115951.48;
+Challenger's Rod\196129.98\120230.01;
+Zeus Rod\180795.35\111375.71;
+Rod Of The Depths\179968.84\107020.69;
+Verdant Shear Rod\179333.1\112352.98;
+Rod Of The Exalted One\178524.92\109096.28;
+Blazebringer Rod\171701.54\109249.72;
+Depthseeker Rod\165538.04\107888.4;
+Avalanche Rod\149435.27\95745.38;
+Volcanic Rod\147097.2\105427.84;
+Steady Rod\56554.77\40518.53
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Frozen Pike, the player has a chance to make one of the following exclamations:
+* A Frozen Pike!
+* What a predator!
+* Ice cold hunter!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Cryogenic Canal}}

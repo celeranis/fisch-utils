@@ -1,0 +1,66 @@
+{{FishInfobox
+|image          = Buccaneer Barracuda.png
+|rarity         = Uncommon
+|sea            = First Sea
+|location       = [[Forsaken Shores]]
+|sublocation    = Coral Reef
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 100
+|weather        = 
+|time           = Night
+|season         = Winter
+|bait           = Deep Coral
+|base_weight    = 25
+|base_value     = 250
+|weight_range   = 16
+|base_chance    = 60
+|base_resil     = 50
+}}
+'''Buccaneer Barracuda''' is an {{Rarity|Uncommon}} fish found in [[Forsaken Shores]].
+
+== Description ==
+{{Description|Known for its sharp teeth, the Buccaneer Barracuda lurks near reefs, making it a thrilling catch for the daring.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Lurks near reefs during the Night & when it's cold.|Bestiary Hint}}
+{{Fish Availability|
+Forsaken Shores/Surrounding Ocean
+|top_rods      = 
+Training Rod\284072.85\292839.73;
+Flimsy Rod\194343.82\194343.82;
+Trident Rod\186970.71\120478.61;
+Azure Of Lagoon\181608.8\111488.98;
+Champions Rod\178571.63\122249.91;
+Rapid Rod\175550.93\150944.34;
+Leviathan's Fang Rod\176656.26\199942.85;
+Ethereal Prism Rod\170520.13\194568.12;
+Kraken Rod\138610.78\173747.82;
+No-Life Rod\178550.61\162673.34;
+Free Spirit Rod\177776.47\119916.38;
+Depthseeker Rod\176045.01\125039.9;
+Avalanche Rod\172296.82\116785.76;
+Verdant Shear Rod\171255.7\136373.32;
+Blazebringer Rod\165806.66\128737.35;
+Zeus Rod\164473.09\136333.21;
+Seraphic Rod\162432.06\166130.71;
+Volcanic Rod\160361.27\103471.66;
+Challenger's Rod\157743.34\146863.58;
+Rod Of The Forgotten Fang\147652.3\151515.02;
+Rod Of The Depths\140361.57\132707.53;
+Rod Of The Exalted One\130235.74\144889.19;
+Steady Rod\80150.37\62384.3
+|recommended   = Training Rod
+}}
+
+== Catch Quips ==
+When catching a Buccaneer Barracuda, the player has a chance to make one of the following exclamations:
+* WOAH! A BUCCANEER BARRACUDA!
+* OMG, IS THAT A BUCCANEER BARRACUDA?
+* NO WAY!!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Forsaken Shores}}

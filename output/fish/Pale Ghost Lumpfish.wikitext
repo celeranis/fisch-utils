@@ -1,0 +1,66 @@
+{{FishInfobox
+|image          = Pale Ghost Lumpfish.png
+|rarity         = Uncommon
+|sea            = First Sea
+|location       = [[Blue Moon - First Sea]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = +40
+|xp             = 750
+|weather        = Foggy
+|time           = 
+|season         = Winter
+|bait           = Flakes
+|base_weight    = 0.8
+|base_value     = 1000
+|weight_range   = 0.6
+|base_chance    = 90
+|base_resil     = 60
+}}
+'''Pale Ghost Lumpfish''' is an {{Rarity|Uncommon}} fish found in [[Blue Moon]] events at [[Snowcap Island]].
+
+== Description ==
+{{Description|A round, pallid fish that clings to ice with an eerie, spectral presence.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It haunts the foggy chill of dusk.|Bestiary Hint}}
+{{Fish Availability|
+Blue Moon/First Sea
+|top_rods      = 
+Training Rod\346153.85\346153.85;
+Flimsy Rod\267444.1\269187.76;
+Leviathan's Fang Rod\177635.81\107752.63;
+Trident Rod\174253.12\124814.88;
+Free Spirit Rod\167817.79\120205.35;
+Resourceful Rod\129099.93\130963.14;
+Azure Of Lagoon\153660.59\160880.57;
+No-Life Rod\151537.88\158901.23;
+Zeus Rod\136081.07\157409;
+The Lost Rod\134426.58\136949.65;
+Challenger's Rod\138978.92\151424.91;
+Seraphic Rod\137128.53\135759.11;
+Rod Of The Forgotten Fang\136174.94\122652.14;
+Depthseeker Rod\135949.69\135715.54;
+Blazebringer Rod\134802.78\149799.08;
+Verdant Shear Rod\134695.47\141787.64;
+Avalanche Rod\134414.58\134185.49;
+Ethereal Prism Rod\134137.85\44701.7;
+Rod Of The Depths\133774.64\126351.62;
+Rod Of The Exalted One\132549.4\98072.27;
+Volcanic Rod\130821.39\129876.37;
+Steady Rod\70909.18\70824.59
+|recommended   = Training Rod
+}}
+
+== Catch Quips ==
+When catching a Pale Ghost Lumpfish, the player has a chance to make one of the following exclamations:
+* A Pale Ghost Lumpfish!
+* Spooky lump!
+* Ghostly grab!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Blue Moon - First Sea}}

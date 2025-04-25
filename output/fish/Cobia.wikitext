@@ -1,0 +1,69 @@
+{{FishInfobox
+|image          = Cobia.png
+|rarity         = Rare
+|sea            = First Sea
+|location       = [[Ancient Isle]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 140
+|weather        = Rain
+|time           = 
+|season         = Summer, Autumn
+|bait           = Insect
+|base_weight    = 70
+|base_value     = 230
+|weight_range   = 30
+|base_chance    = 25
+|base_resil     = 55
+}}
+'''Cobia''' is a {{Rarity|Rare}} fish found in the [[Ancient Isle]].
+
+== Description ==
+{{Description|The Cobia is a long fish with dark scales throughout the top half of its body, and a lighter underbelly. The torpedo-shaped structure it possesses allows it to dart towards any prey, or swiftly evade larger predators. They feed on smaller fish during the day, and lurk near cover during the night. Their dark body provides nocturnal camoflauge to stay hidden from any nearby prey or predators.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found around the Ancient Isle.|Bestiary Hint}}
+{{Fish Availability|
+Ancient Isle/Surrounding Ocean
+|top_rods      = 
+Plastic Rod\144539.13\275402.23;
+Krampus's Rod\135029.29\222805.28;
+Magma Rod\129587.68\213829.18;
+Buddy Bond Rod\107350.19\280348.34;
+Fast Rod\84892.47\327112.56;
+Fischer's Rod\77185.47\294721.35;
+Adventurer's Rod\76477.34\292017.49;
+Ethereal Prism Rod\59702.17\55600.62;
+Seraphic Rod\57351.09\45899.16;
+No-Life Rod\56447.75\47321.94;
+Trident Rod\55189.48\56727.31;
+Rod Of The Forgotten Fang\53680.24\44281.86;
+Free Spirit Rod\53053.64\54531.95;
+Challenger's Rod\51623.48\44016.94;
+Rod Of The Depths\48264.95\40353.73;
+Rod Of The Exalted One\47608.28\40348.15;
+Verdant Shear Rod\46921.44\43509.05;
+Zeus Rod\46880.63\40172.01;
+Blazebringer Rod\45516.22\41757.15;
+Depthseeker Rod\42101.07\36807.07;
+Avalanche Rod\37981.86\33289.08;
+Volcanic Rod\36528.7\31773.5;
+Steady Rod\17030.92\11180.31
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching a Cobia, the player has a chance to make one of the following exclamations:
+* A Cobia!
+* I caught a Cobia!
+* Woah! a Cobia!
+* COBIA!!!
+* A Cobia?!
+* That's a big Cobia!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ancient Isle}}

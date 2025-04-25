@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Plumrick O'Luck.png
+|rarity         = Limited
+|sea            = First Sea
+|location       = [[Lucky Event]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -55
+|xp             = 1900
+|weather        = Rain
+|time           = 
+|season         = Spring
+|bait           = Lucky
+|base_weight    = 300
+|base_value     = 5000
+|weight_range   = 180
+|base_chance    = 4
+|base_resil     = 20
+}}
+'''Plumrick O'Luck''' is a {{Rarity|Limited}} fish found in within the [[Lucky Event]].
+
+== Description ==
+{{Description|A hefty purple fish with stylish shades, it glides through pools where St. Patrick's luck runs deep!|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Appears randomly in Lucky Event pools, lured by a rainbow glow.|Bestiary Hint}}
+{{Fish Availability|
+Lucky Event/Plumrick O'Luck
+|top_rods      = 
+Leviathan's Fang Rod\20687.11\53625.95;
+Free Spirit Rod\18037.31\51306.27;
+Trident Rod\17033.3\48450.38;
+Ethereal Prism Rod\16702.87\36246.95;
+Seraphic Rod\16299.13\36576.75;
+Resourceful Rod\12725.16\28261.82;
+Destiny Rod\13071.69\27601.49;
+Heaven's Rod\12104.96\29305.84;
+No-Life Rod\16142.98\38667.18;
+Lucky Rod\8737.71\20957.98;
+Fungal Rod\10342.62\28486.75;
+Antler Rod\8938.14\24043.54;
+Challenger's Rod\15068.78\36214.25;
+Rod Of The Forgotten Fang\15026.65\34930.09;
+Rod Of The Depths\13192.49\30079.27;
+Rod Of The Exalted One\13058.74\29550.09;
+Zeus Rod\12892.08\30831.47;
+Verdant Shear Rod\12636.58\30266.45;
+Blazebringer Rod\12360.44\29792.93;
+Depthseeker Rod\11940.55\29980.93;
+Avalanche Rod\10562.91\25939.12;
+Volcanic Rod\10069.74\24340.63;
+Steady Rod\3812.96\10016.72
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Plumrick O'Luck, the player has a chance to make one of the following exclamations:
+* PLUMRICK O'LUCK!
+* PURPLE CHASER!
+* LUCKY DISGUISE!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Lucky Event}}

@@ -1,0 +1,89 @@
+{{FishInfobox
+|image          = Sea Pickle.png
+|rarity         = Mythical
+|sea            = First Sea
+|location       = [[Ocean]]
+|sublocation    = 
+|sources        = Crab Cage, Fishing Rod
+|radar_location = 
+|xp             = 60
+|weather        = Clear, Foggy
+|time           = Night
+|season         = Autumn, Summer
+|bait           = Seaweed
+|base_weight    = 1
+|base_value     = 2000
+|weight_range   = 0.6
+|base_chance    = 0.01
+|base_resil     = 50
+}}
+'''Sea Pickle''' is a {{Rarity|Mythical}} fish found in the [[Ocean]].
+
+== Description ==
+{{Description|The Sea Pickle is a quirky, small, tube-like sea creature found on ocean beds. Its glowing green body gives off a faint bioluminescent light, making it easy to spot at night. It's know to wriggle out of nets and rods, making it a tricky catch. Despite its unassuming appearance, it's highly valued for its oddity and unique glow.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in the ocean. Can be caught in rods and cages.|Bestiary Hint}}
+{{Fish Availability|
+Ancient Isle/Algae Hunt
+Atlantis/Surrounding Ocean
+FischFright/Frightful Pool
+Forsaken Shores/Algae Hunt
+Golden Tide
+Lovestorm/Normal
+Lovestorm/Supercharged
+Lucky Event/Blarney McBreeze
+Lucky Event/O'Mango Goldgrin
+Lucky Event/Plumrick O'Luck
+Lucky Event/Rowdy McCharm
+Lucky Event/Sunny O'Coin
+Megalodon Hunt/Eclipse and Weekend
+Megalodon Hunt/Normal
+Mushgrove Swamp/Algae Hunt
+Northern Summit/Surrounding Ocean
+Ocean
+Ocean/Deep Ocean
+Ocean/Harvesters Spike
+Ocean/The Arch
+Orca Migration/Ancient
+Orca Migration/Normal
+Snowcap Island/Algae Hunt
+Whale Migration/Moby
+Whale Migration/Normal
+|top_rods      = 
+Leviathan's Fang Rod\33096.28\233292.65;
+Ethereal Prism Rod\31031.44\168595.99;
+Seraphic Rod\29780.75\173638.68;
+No-Life Rod\29420.69\182218.2;
+Tempest Rod\28546.86\170472.96;
+Flimsy Rod\19585.91\183370.95;
+Training Rod\18367.44\165747.78;
+Resourceful Rod\23881.95\138335.51;
+Trident Rod\28481.2\231662.4;
+Free Spirit Rod\27080.64\220270.47;
+Fungal Rod\19393.49\151173.75;
+Rod Of The Forgotten Fang\27859.75\171718.69;
+Challenger's Rod\26840.72\167506.96;
+Rod Of The Depths\25023.09\163396.6;
+Rod Of The Exalted One\24720.27\163948.05;
+Zeus Rod\24409.45\157219.74;
+Verdant Shear Rod\23931.25\158210.92;
+Blazebringer Rod\23173.39\149866.96;
+Depthseeker Rod\21972.66\147904.06;
+Avalanche Rod\19819.42\134324.92;
+Volcanic Rod\19019.86\124348.49;
+Steady Rod\6627.39\47768.5
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching a Sea Pickle, the player has a chance to make one of the following exclamations:
+* A SEA PICKLE!!
+* I CAUGHT A SEA PICKLE!
+* A Sea pickle!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ocean}}

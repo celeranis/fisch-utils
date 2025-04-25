@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Piglet Pike.png
+|rarity         = Limited
+|event          = Animal Hunt
+|sea            = First Sea
+|location       = [[Animals]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -4
+|xp             = 880
+|weather        = Rain
+|time           = 
+|season         = Autumn
+|bait           = Shrimp
+|base_weight    = 41
+|base_value     = 280
+|weight_range   = 29.5
+|base_chance    = 80
+|base_resil     = 70
+}}
+'''Piglet Pike''' is a {{Rarity|Limited}} fish found in [[Animal Hunt]]s in the [[First Sea]].
+
+== Description ==
+{{Description|A stout fish with a snout, wallowing in the muddy depths.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It snorts and snuffles where cool rains turn the waters murky.|Bestiary Hint}}
+{{Fish Availability|
+Animal Hunt/First Sea
+|top_rods      = 
+Leviathan's Fang Rod\185514.5\133304.44;
+Trident Rod\179729.64\102419.22;
+Free Spirit Rod\176139.41\102196.14;
+No-Life Rod\166646.38\169813.33;
+Azure Of Lagoon\165856.29\172170.03;
+Long Rod\133278.06\133675.97;
+Resourceful Rod\138530.96\143467.99;
+Adventurer's Rod\110574.88\105944.82;
+Egg Rod\148520.42\172128.35;
+Great Dreamer Rod\148858.94\168054.29;
+Verdant Shear Rod\146976.55\166101.42;
+Seraphic Rod\154213.13\144441.11;
+Challenger's Rod\150719.11\142866.36;
+Ethereal Prism Rod\150563.48\75916.43;
+Zeus Rod\149713.39\165551.18;
+Rod Of The Forgotten Fang\148093.87\131859.25;
+Blazebringer Rod\147212.47\158367.91;
+Depthseeker Rod\145676.92\148912.06;
+Rod Of The Depths\145337.38\119748.52;
+Rod Of The Exalted One\144683.03\126104.63;
+Avalanche Rod\143890.36\134804.27;
+Volcanic Rod\142688.84\147769.23;
+Steady Rod\76426.16\74902.04
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Piglet Pike, the player has a chance to make one of the following exclamations:
+* A Piglet Pike!
+* A pig in the pond!
+* Muddy and proud!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Animals}}

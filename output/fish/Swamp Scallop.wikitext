@@ -1,0 +1,40 @@
+{{FishInfobox
+|image          = Swamp Scallop.png
+|rarity         = Unusual
+|sea            = First Sea
+|location       = [[Mushgrove Swamp]]
+|sublocation    = 
+|sources        = Crab Cage
+|radar_location = 
+|xp             = 40
+|weather        = 
+|time           = 
+|season         = Winter
+|bait           = 
+|base_weight    = 1.4
+|base_value     = 150
+|weight_range   = 0.8
+|base_chance    = 40
+|base_resil     = 90
+}}
+'''Swamp Scallop''' is an {{Rarity|Unusual}} fish found in [[Mushgrove Swamp]].
+
+== Description ==
+{{Description|Swamp Scallops are a special kind of Scallops with a rich umami taste. They formed from an invasive growth of the Scallop population in Mushgrove Swamp.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Can be caught while cage fishing in mushgrove.|Bestiary Hint}}
+
+== Catch Quips ==
+When catching a Swamp Scallop, the player has a chance to make one of the following exclamations:
+* A Swamp Scallop!
+* Woah! A Swamp Scallop
+* Awesome!
+* A Swamp Scallop!
+* Ou! A Swamp Scallop!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Mushgrove Swamp}}

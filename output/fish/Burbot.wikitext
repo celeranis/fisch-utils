@@ -1,0 +1,66 @@
+{{FishInfobox
+|image          = Burbot.png
+|rarity         = Uncommon
+|sea            = First Sea
+|location       = [[Snowcap Island]]
+|sublocation    = Freshwater
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 110
+|weather        = Foggy
+|time           = 
+|season         = Autumn
+|bait           = Minnow
+|base_weight    = 3.5
+|base_value     = 80
+|weight_range   = 2.5
+|base_chance    = 50
+|base_resil     = 50
+}}
+'''Burbot''' is an {{Rarity|Uncommon}} fish found in [[Snowcap Island]].
+
+== Description ==
+{{Description|The Burbot is a long, slender freshwater fish with a mottled brown and green appearance, resembling a cross between a catfish and an eel. Burbots are known for being active in colder temperatures, particularly under the ice in Snowcap Pond.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in Snowcap Pond.|Bestiary Hint}}
+{{Fish Availability|
+Snowcap Island/Freshwater Pond
+|top_rods      = 
+Trident Rod\197247.99\121389.25;
+Free Spirit Rod\187548.37\120822.77;
+Leviathan's Fang Rod\183670.99\186101.45;
+Azure Of Lagoon\179429.12\116312.7;
+Rapid Rod\179392.29\157475.16;
+Training Rod\167125.8\181828.05;
+Flimsy Rod\132261.01\116709.18;
+Buddy Bond Rod\103676.85\87288.36;
+Ethereal Prism Rod\179093.08\221069.56;
+No-Life Rod\176407.63\169711.63;
+Seraphic Rod\170119.99\167386.4;
+Fortune Rod\100046.61\129475.92;
+Depthseeker Rod\178049.71\140380.3;
+Avalanche Rod\172957.16\135204.81;
+Verdant Shear Rod\168661.41\142273.7;
+Blazebringer Rod\160859.44\134307.34;
+Zeus Rod\159565.66\142231.86;
+Challenger's Rod\157631.77\153217.83;
+Volcanic Rod\155576.52\107948.5;
+Rod Of The Forgotten Fang\155153.33\152660.24;
+Rod Of The Depths\146765.31\138449.3;
+Rod Of The Exalted One\133084.63\130138.59;
+Steady Rod\85658.62\68249.65
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Burbot, the player has a chance to make one of the following exclamations:
+* A Burbot!
+* I caught a Burbot!
+* Oh, a Burbot!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Snowcap Island}}

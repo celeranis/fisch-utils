@@ -1,0 +1,65 @@
+{{FishInfobox
+|image          = Vinefish.png
+|rarity         = Uncommon
+|sea            = Second Sea
+|location       = [[Lushgrove]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = +15
+|xp             = 45
+|weather        = Windy
+|time           = 
+|season         = Summer
+|bait           = Seaweed
+|base_weight    = 34
+|base_value     = 90
+|weight_range   = 22
+|base_chance    = 90
+|base_resil     = 55
+}}
+'''Vinefish''' is an {{Rarity|Uncommon}} fish found in [[Lushgrove]].
+
+== Description ==
+{{Description|A slender green fish with yellow fins, slithering through the currents with serpentine grace.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It weaves through the currents when the warm gusts stir.|Bestiary Hint}}
+{{Fish Availability|
+Lushgrove
+|top_rods      = 
+Free Spirit Rod\259118.91\146697.59;
+Fischer's Rod\244543.03\212404.52;
+Plastic Rod\241982.48\213655.29;
+Trident Rod\230059.57\198403.64;
+Azure Of Lagoon\228836.7\224506.71;
+Candy Cane Rod\157268.17\156864.62;
+Leviathan's Fang Rod\228076.36\200471.55;
+Blazebringer Rod\196368.67\194960.09;
+Verdant Shear Rod\194905.96\176454.96;
+No-Life Rod\185453.99\167589.62;
+Ethereal Prism Rod\170508.8\157282.87;
+Seraphic Rod\170197.83\146778.81;
+Challenger's Rod\165288.76\148565.17;
+Depthseeker Rod\164797.46\156570.79;
+Rod Of The Forgotten Fang\163027.32\141222.42;
+Avalanche Rod\162749.85\155129.51;
+Volcanic Rod\161271.39\148501.75;
+Rod Of The Exalted One\161028.17\139676.05;
+Zeus Rod\160613.14\147895.62;
+Rod Of The Depths\160339.28\140986.85;
+Steady Rod\133033.55\125784.28
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Vinefish, the player has a chance to make one of the following exclamations:
+* A Vinefish!
+* Slippery!
+* Flashy!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Lushgrove}}

@@ -1,0 +1,65 @@
+{{FishInfobox
+|image          = Shimmering Silverside.png
+|rarity         = Mythical
+|sea            = First Sea
+|location       = [[Calm Zone]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -20
+|xp             = 2400
+|weather        = Clear
+|time           = Night
+|season         = Spring
+|bait           = Truffle Worm
+|base_weight    = 70
+|base_value     = 7800
+|weight_range   = 45
+|base_chance    = 3
+|base_resil     = 20
+}}
+'''Shimmering Silverside''' is a {{Rarity|Mythical}} fish found in the [[Calm Zone]] of [[Mariana's Veil]].
+
+== Description ==
+{{Description|A sleek, silver fish with scales that shimmer like liquid metal.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Located in clear waters with a unique indescribable shine, rarely spotted within the darkness.|Bestiary Hint}}
+{{Fish Availability|
+Mariana's Veil/Calm Zone
+|top_rods      = 
+Leviathan's Fang Rod\157884\317267.94;
+Free Spirit Rod\149587.66\314154.29;
+Trident Rod\145366.55\305289.38;
+No-Life Rod\105025.33\222560.17;
+Azure Of Lagoon\102553.71\219322.14;
+Plastic Rod\61584.25\144525.99;
+Adventurer's Rod\61137.29\141648.29;
+Fischer's Rod\61550.38\145075.26;
+Ethereal Prism Rod\98440.38\189171.95;
+Seraphic Rod\98393.59\194646.01;
+Rod Of The Forgotten Fang\93040.17\183999.92;
+Challenger's Rod\92931.19\186010.53;
+Verdant Shear Rod\84479.92\173032.71;
+Zeus Rod\84154.14\169406.56;
+Rod Of The Depths\84074.99\170098.78;
+Blazebringer Rod\81048.8\166614;
+Rod Of The Exalted One\80821.02\160929.94;
+Depthseeker Rod\79085.9\164181.73;
+Avalanche Rod\70122.71\142992.8;
+Volcanic Rod\66361.29\144023.71;
+Steady Rod\26183.6\67008.42
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Shimmering Silverside, the player has a chance to make one of the following exclamations:
+* A SHIMMERING SILVERSIDE!?
+* UNMATCHED BEAUTY!
+* ONE OF A KIND!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Calm Zone}}

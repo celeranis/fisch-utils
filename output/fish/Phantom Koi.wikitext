@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Phantom Koi.png
+|rarity         = Secret
+|sea            = Second Sea
+|location       = [[Isle of New Beginnings]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -85
+|xp             = 6600
+|weather        = Foggy
+|time           = Day
+|season         = Autumn
+|bait           = Luminous Larva
+|base_weight    = 960
+|base_value     = 13860
+|weight_range   = 600
+|base_chance    = 1
+|base_resil     = 4
+}}
+'''Phantom Koi''' is a {{Rarity|Secret}} fish found in the [[Isle of New Beginnings]].
+
+== Description ==
+{{Description|A white koi with grey accents and ornate fins, a spectral beauty of the depths.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It glides where the fog veils the tide.|Bestiary Hint}}
+{{Fish Availability|
+Isle of New Beginnings
+|top_rods      = 
+Free Spirit Rod\796.08\5249.66;
+Egg Rod\720.03\5287.72;
+Azure Of Lagoon\717.2\5024.4;
+Blazebringer Rod\676.76\4851.19;
+Great Dreamer Rod\648.1\4720.58;
+Resourceful Rod\643.15\6405.41;
+Destiny Rod\455.06\3097.13;
+North-Star Rod\324.69\3782.08;
+Event Horizon Rod\315.08\3670.11;
+Verdant Shear Rod\633.48\4652.11;
+Seraphic Rod\555.19\4077.22;
+Challenger's Rod\543.74\4133.04;
+Ethereal Prism Rod\524.35\3715.26;
+Trident Rod\521.65\3830.89;
+No-Life Rod\485.34\3705.79;
+Rod Of The Forgotten Fang\457.49\3373.69;
+Rod Of The Exalted One\422.04\3049.37;
+Depthseeker Rod\407.33\3161.81;
+Rod Of The Depths\390.4\2915.86;
+Avalanche Rod\370.4\2870.21;
+Volcanic Rod\364.3\2820.22;
+Steady Rod\349.18\2629.43;
+Zeus Rod\348.15\2695.17
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Phantom Koi, the player has a chance to make one of the following exclamations:
+* A PHANTOM KOI?!
+* GHOSTLY GRACE!
+* FIND A BED!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Isle of New Beginnings}}

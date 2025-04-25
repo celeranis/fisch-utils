@@ -1,0 +1,70 @@
+{{FishInfobox
+|image          = Carp.png
+|rarity         = Uncommon
+|sea            = First Sea
+|location       = [[Moosewood]]
+|sublocation    = Freshwater
+|sources        = Common Crate, Fish Barrel, Fishing Rod
+|radar_location = 
+|xp             = 80
+|weather        = 
+|time           = 
+|season         = 
+|bait           = Bagel
+|base_weight    = 5
+|base_value     = 110
+|weight_range   = 4
+|base_chance    = 60
+|base_resil     = 70
+}}
+'''Carp''' is an {{Rarity|Uncommon}} fish found in [[Moosewood]].
+
+== Description ==
+{{Description|Carps are freshwater fish that are known for their whisker-like barbels around their mouth. Carps can adapt to plenty of different environments, as they can thrive in various water conditions. Due to their resilience, they are a common choice for stocking man-made ponds and lakes! They are also pretty cute, in my opinion.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in the back of Moosewood Pond.|Bestiary Hint}}
+{{Fish Availability|
+Moosewood/Freshwater Pond
+|top_rods      = 
+Trident Rod\190237.37\111391.33;
+Leviathan's Fang Rod\188541.11\178197.86;
+Free Spirit Rod\186299.53\111113.88;
+Azure Of Lagoon\181800.53\108865.19;
+No-Life Rod\179338.58\158187.99;
+Resourceful Rod\166761.45\162523.61;
+Training Rod\147346.88\169466.98;
+Ice Warpers Rod\171423.77\151855.3;
+Ethereal Prism Rod\162845.81\198783.09;
+Great Dreamer Rod\173694.15\162666.94;
+Depthseeker Rod\173141.36\153312.9;
+Verdant Shear Rod\171725.31\155184.08;
+Avalanche Rod\170627.76\148372.68;
+Blazebringer Rod\169412.77\126270.71;
+Zeus Rod\168204.95\133801.75;
+Challenger's Rod\165543.45\143782.2;
+Volcanic Rod\164247.75\101541.1;
+Seraphic Rod\159698.26\156966.3;
+Rod Of The Depths\157995.17\130215.42;
+Rod Of The Forgotten Fang\156756.45\143345.23;
+Rod Of The Exalted One\149009.93\125808.11;
+Steady Rod\81942.52\73816.93
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Carp, the player has a chance to make one of the following exclamations:
+* Is it magic?
+* Woah, a Carp!
+* It's a Carp!
+* Woahh! This is bigger than I thought.
+* Carp-tastic!
+* !!!
+* Woah!
+* A Carp! My skill are sharp!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Moosewood}}

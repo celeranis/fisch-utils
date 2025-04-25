@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Snipefish.png
+|rarity         = Unusual
+|sea            = Second Sea
+|location       = [[Open Ocean]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -10
+|xp             = 92
+|weather        = Foggy
+|time           = Day
+|season         = Autumn
+|bait           = Flakes
+|base_weight    = 46
+|base_value     = 185
+|weight_range   = 28
+|base_chance    = 95
+|base_resil     = 48
+}}
+'''Snipefish''' is an {{Rarity|Unusual}} fish found in the [[Open Ocean]].
+
+== Description ==
+{{Description|A black fish with purple fins and a ridiculous sniper scope on top, its long mouth aimed for disaster.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It scopes out prey in the foggy dawn.|Bestiary Hint}}
+{{Fish Availability|
+Open Ocean
+Open Ocean/Sea Leviathan
+|top_rods      = 
+Free Spirit Rod\160608.74\8947.77;
+Trident Rod\152176.05\11862.58;
+Leviathan's Fang Rod\151152.94\12264.25;
+Azure Of Lagoon\144160.13\12124.01;
+Verdant Shear Rod\127270.34\10277.67;
+Fischer's Rod\109539.33\8646.1;
+Plastic Rod\106572.88\8644.08;
+Lucky Rod\103927.05\8795.8;
+Nocturnal Rod\52879.09\52096.51;
+Firefly Rod\124046.11\10966.54;
+Blazebringer Rod\122696.07\10050.73;
+No-Life Rod\118367.62\9591.3;
+Seraphic Rod\107547.08\8374.27;
+Ethereal Prism Rod\107042.38\8909.62;
+Challenger's Rod\104029.03\8381.12;
+Depthseeker Rod\102751.74\8634.82;
+Rod Of The Forgotten Fang\102014.15\7970.75;
+Avalanche Rod\100483.04\8457.99;
+Rod Of The Exalted One\100458.34\8012.7;
+Volcanic Rod\99590.1\8202.81;
+Zeus Rod\99039.91\8157.49;
+Rod Of The Depths\98997.04\7824.41;
+Steady Rod\82447.2\6886.23
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Snipefish, the player has a chance to make one of the following exclamations:
+* A Snipefish!
+* Deadly accurate!
+* No-scope! Or not...
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Open Ocean}}

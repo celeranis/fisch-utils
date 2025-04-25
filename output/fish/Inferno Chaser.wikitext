@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Inferno Chaser.png
+|rarity         = Rare
+|sea            = Second Sea
+|location       = [[Emberreach]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -11
+|xp             = 225
+|weather        = Windy
+|time           = Night
+|season         = Winter
+|bait           = Minnow
+|base_weight    = 561
+|base_value     = 473
+|weight_range   = 357
+|base_chance    = 35
+|base_resil     = 39
+}}
+'''Inferno Chaser''' is a {{Rarity|Rare}} fish found in [[Emberreach]].
+
+== Description ==
+{{Description|A slender, fiery fish, its whiskers trailing like sparks in pursuit.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|It races through the restless chill of ash.|Bestiary Hint}}
+{{Fish Availability|
+Emberreach/Surrounding Ocean
+|top_rods      = 
+Steady Rod\179544.15\185951.18;
+Frostfire Rod\173996.68\180205.75;
+North-Star Rod\150282.96\188942.75;
+Event Horizon Rod\147722.59\185723.72;
+Astral Rod\147722.59\185723.72;
+Krampus's Rod\144751.47\213236.96;
+Resourceful Rod\124474.67\216515.78;
+Free Spirit Rod\144573.4\210351.6;
+Magma Rod\142863.64\207669.74;
+Rod Of Time\132403.14\202448.44;
+Trident Rod\116222.36\140242.54;
+Verdant Shear Rod\111671\174759.66;
+Blazebringer Rod\107718.67\165768.1;
+No-Life Rod\81447.31\116175.39;
+Ethereal Prism Rod\75134.39\114836.25;
+Seraphic Rod\73569.35\114530.66;
+Rod Of The Exalted One\69860\108100.53;
+Rod Of The Forgotten Fang\69490.71\109063.58;
+Challenger's Rod\69183.28\109904.25;
+Rod Of The Depths\68319.14\108173.25;
+Depthseeker Rod\67788.59\109243.96;
+Volcanic Rod\66643.6\108162.17;
+Zeus Rod\66408.22\107780.15;
+Avalanche Rod\66023.99\108717.71
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching an Inferno Chaser, the player has a chance to make one of the following exclamations:
+* An Inferno Chaser!
+* Whiskers of flame!
+* Hot pursuit!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Emberreach}}
