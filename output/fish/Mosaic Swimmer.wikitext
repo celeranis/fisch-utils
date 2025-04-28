@@ -28,13 +28,13 @@
 Atlantis/Ethereal Abyss
 |top_rods      = 
 Summit Rod\141383.77\103005.23;
+Fast Rod\140558.69\125536.15;
 Champions Rod\140445.02\101527.79;
 Egg Rod\139316.48\111664.01;
 Depthseeker Rod\139267.86\100002.54;
-Celestial Rod\139164.55\103026.59;
 Training Rod\129050.28\131861.77;
-Flimsy Rod\95216.48\95216.48;
-Candy Cane Rod\107323.8\102861.48;
+Flimsy Rod\119282.38\112654.57;
+Candy Cane Rod\107694.32\102861.48;
 Ethereal Prism Rod\137487.6\160180.66;
 Leviathan's Fang Rod\129087.45\139767.42;
 No-Life Rod\131336.88\127546.01;

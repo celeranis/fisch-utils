@@ -30,6 +30,7 @@ Atlantis/Surrounding Ocean
 FischFright/Frightful Pool
 Forsaken Shores/Algae Hunt
 Golden Tide
+LEGO Pool/Studalodon Hunt
 Lovestorm/Normal
 Lovestorm/Supercharged
 Lucky Event/Blarney McBreeze
@@ -61,9 +62,9 @@ Leviathan's Fang Rod\132848.09\0;
 Free Spirit Rod\124687.5\14318.02;
 Azure Of Lagoon\107395.09\13259.28;
 No-Life Rod\105840.17\19345.89;
-Fungal Rod\87771.12\18783.84;
-Antler Rod\73456.07\15720.29;
-Resourceful Rod\83582.18\17189.34;
+Fungal Rod\88554.67\18783.84;
+Antler Rod\79711.55\15720.29;
+Resourceful Rod\88424.84\17189.34;
 Nocturnal Rod\60380.85\58259.6;
 Seraphic Rod\90412.95\19589.86;
 Rapid Rod\93084.29\19120.09;
@@ -76,8 +77,8 @@ Avalanche Rod\89999.51\17028.42;
 Ethereal Prism Rod\89738.89\0;
 Rod Of The Forgotten Fang\88841.05\17687.05;
 Volcanic Rod\88018.54\16634.01;
-Rod Of The Exalted One\84808.69\16060.08;
-Rod Of The Depths\84652.45\15690.08;
+Rod Of The Depths\86382.99\15690.08;
+Rod Of The Exalted One\85249.34\16060.08;
 Steady Rod\46493.81\9428.55
 |recommended   = Trident Rod
 }}

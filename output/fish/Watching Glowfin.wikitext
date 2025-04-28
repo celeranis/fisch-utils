@@ -29,19 +29,19 @@
 Pine Shoals
 |top_rods      = 
 Free Spirit Rod\416282.24\47194.73;
-Resourceful Rod\392809.6\36277.46;
+Resourceful Rod\392809.6\40711.16;
 Azure Of Lagoon\389152.59\45130;
 Trident Rod\372332.55\44224.51;
 Leviathan's Fang Rod\370147.75\43382.43;
-Krampus's Rod\333379.17\32327.25;
-Frostfire Rod\356056.99\30672.4;
-Steady Rod\357103.98\30762.59;
+Krampus's Rod\333379.17\32504.55;
+Steady Rod\357103.98\32017.85;
+Frostfire Rod\356056.99\31992.47;
 Nocturnal Rod\190247.55\182712.14;
-Firefly Rod\350905.11\44971.7;
-Flimsy Rod\325482.3\33840.85;
-Training Rod\324132.38\29423.39;
-Blazebringer Rod\355446.4\41659.39;
-Verdant Shear Rod\353938.05\42295.61;
+Firefly Rod\354166.7\44971.7;
+Flimsy Rod\325482.3\36278.99;
+Training Rod\324132.38\38967.49;
+Blazebringer Rod\357702.41\41659.39;
+Verdant Shear Rod\356584.39\42295.61;
 No-Life Rod\322951.49\39523.83;
 Seraphic Rod\308224.17\36609.92;
 Ethereal Prism Rod\304843.29\35530.37;

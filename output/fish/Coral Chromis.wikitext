@@ -33,10 +33,10 @@ Summit Rod\201536.41\131076.85;
 Depthseeker Rod\201083.77\139641.6;
 Celestial Rod\200732.26\135262.79;
 Training Rod\178926.28\178926.28;
-Flimsy Rod\133609.2\133609.2;
+Flimsy Rod\168763.77\144195.64;
 Resourceful Rod\186378.94\129101.58;
 Ethereal Prism Rod\180050.88\196287.21;
-Fast Rod\179814.43\179814.43;
+Fast Rod\199563.72\179814.43;
 No-Life Rod\183411.41\179697.67;
 Seraphic Rod\178867.78\178867.78;
 Avalanche Rod\199695.25\125449.35;
@@ -53,6 +53,10 @@ Rod Of The Exalted One\139498.89\139498.89;
 Steady Rod\90185.22\66791.5
 |recommended   = Depthseeker Rod
 }}
+
+== Catch Quips ==
+When catching a Coral Chromis, the player has a chance to make one of the following exclamations:
+* Could've been on Roslit.. but hey!
 
 == Change History ==
 {{Change History|{{subst:Current Version}}}}

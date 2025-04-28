@@ -29,27 +29,28 @@
 Lushgrove
 |top_rods      = 
 Free Spirit Rod\286587.53\219533.88;
-Plastic Rod\286578.87\237624.46;
-Fischer's Rod\285856.2\236245.19;
+Plastic Rod\286578.87\238842.2;
+Fischer's Rod\285856.2\240299.39;
 Azure Of Lagoon\250453.53\245714.51;
 Trident Rod\241172.13\207987.13;
-Candy Cane Rod\177196.11\176741.41;
-Firefly Rod\229287.02\238641.63;
-Blazebringer Rod\219088.41\233314.5;
+Candy Cane Rod\201074.91\182516.4;
+Resourceful Rod\236473.63\252500.94;
+Brother's Rod\232479.04\242128.86;
 Frog Rod\202480.89\215327.01;
-Verdant Shear Rod\224766.08\206175.64;
-No-Life Rod\202626.96\183108.35;
+Blazebringer Rod\236010.28\233314.5;
+Verdant Shear Rod\233750.87\217284.14;
+No-Life Rod\202626.96\186701.02;
 Ethereal Prism Rod\189912.95\175181.89;
-Seraphic Rod\189573.65\163488.54;
-Challenger's Rod\184320.39\165671.22;
+Seraphic Rod\189573.65\172210.42;
+Challenger's Rod\184320.39\179115.39;
 Depthseeker Rod\183912.46\174731.57;
 Avalanche Rod\182143.95\173615.53;
-Rod Of The Forgotten Fang\181839.96\157518.87;
-Volcanic Rod\180412.85\166127.57;
+Rod Of The Forgotten Fang\181839.96\168785.23;
+Volcanic Rod\180412.85\166971.79;
 Rod Of The Exalted One\179894.19\156040.46;
-Zeus Rod\179663.1\165437.19;
-Rod Of The Depths\179446.12\157787.56;
-Steady Rod\148570.56\144025.1
+Zeus Rod\179663.1\166459.39;
+Rod Of The Depths\179446.12\177973.21;
+Steady Rod\165779.2\144025.1
 |recommended   = Free Spirit Rod
 }}
 

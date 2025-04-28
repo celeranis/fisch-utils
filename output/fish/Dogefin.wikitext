@@ -5,6 +5,7 @@
 |location       = [[Open Ocean]]
 |sublocation    = 
 |sources        = Fishing Rod
+|nopassive      = 1
 |radar_location = 
 |prog_speed     = -65
 |xp             = 13000
@@ -38,7 +39,7 @@ Flimsy Rod\370.51\4956.44;
 Resourceful Rod\322.6\3606.17;
 Plastic Rod\232.79\5316.1;
 Fischer's Rod\234.63\5095.47;
-Trident Rod\330.04\3547.98;
+Trident Rod\338.39\3547.98;
 Seraphic Rod\268.06\3094.88;
 Ethereal Prism Rod\266.99\3065.99;
 No-Life Rod\259.6\2984.15;
@@ -53,6 +54,10 @@ Zeus Rod\218.4\2506.81;
 Steady Rod\211.13\2223.43
 |recommended   = Free Spirit Rod
 }}
+
+== Gameplay Notes ==
+* Dogefin usually cannot be caught with passive effects, such as the one provided by the [[Rod Of The Depths]] and [[Rod Of The Forgotten Fang]].
+** The only exception is when catching a Dogefin on the Megalodon Passive reel of the [[Rod Of The Forgotten Fang]], the Megalodon will instead dupe the Dogefin.
 
 == Catch Quips ==
 When catching a Dogefin, the player has a chance to make one of the following exclamations:

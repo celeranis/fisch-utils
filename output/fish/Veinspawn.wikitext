@@ -6,7 +6,7 @@
 |sublocation    = 
 |sources        = Fishing Rod
 |radar_location = 
-|prog_speed     = -80
+|prog_speed     = -65
 |xp             = 2400
 |weather        = Rain
 |time           = Night
@@ -28,32 +28,31 @@
 {{Fish Availability|
 The Cursed Shores
 |top_rods      = 
-Free Spirit Rod\57548.92\154030.05;
-Krampus's Rod\56720.4\89265.82;
-Egg Rod\51780.83\156174.79;
-Azure Of Lagoon\48646.76\140816.11;
-Blazebringer Rod\48539.92\143359.84;
-Frostfire Rod\25804.56\63400.33;
-Plastic Rod\38192.53\60107.31;
-Magma Rod\47691.95\75057.47;
-Verdant Shear Rod\47493.02\144407.79;
-Great Dreamer Rod\47646.67\142689.31;
-Fischer's Rod\28392.57\65763.41;
-Fast Rod\22952.95\53166;
-Buddy Bond Rod\22142.94\50689.12;
-Trident Rod\38192.04\115190.02;
-Seraphic Rod\37017.56\111647.68;
-Ethereal Prism Rod\35866.62\104859.66;
-Challenger's Rod\35257.71\102908.27;
-No-Life Rod\34143.05\98455.21;
-Rod Of The Forgotten Fang\32189.59\97090.45;
-Rod Of The Exalted One\30790.76\91567.64;
-Depthseeker Rod\29477.5\78176.68;
-Rod Of The Depths\29181.01\86934.84;
-Avalanche Rod\27880.36\73591.66;
-Volcanic Rod\27721.88\77105.97;
-Zeus Rod\26977.71\75036.13;
-Steady Rod\26610.5\64993.05
+Krampus's Rod\83841.73\156859.5;
+Magma Rod\78695.54\156921.06;
+Free Spirit Rod\77785.45\208193.26;
+Frostfire Rod\76070.6\119719.71;
+Plastic Rod\73267.31\115307.9;
+Egg Rod\58453.19\176299.12;
+Verdant Shear Rod\55242.07\167969.61;
+Great Dreamer Rod\54715.13\163857.5;
+Blazebringer Rod\54794.67\161832.87;
+Fast Rod\46379.93\126911.18;
+Fischer's Rod\52582.46\126911.18;
+Buddy Bond Rod\37586.76\109401.87;
+Steady Rod\70531.61\111001.72;
+Trident Rod\53417.85\133764.55;
+Ethereal Prism Rod\39249.59\113951.54;
+Seraphic Rod\39095.47\117914.81;
+No-Life Rod\37838.59\109111.71;
+Challenger's Rod\36358.75\106121.92;
+Rod Of The Forgotten Fang\35653.66\107538.82;
+Rod Of The Exalted One\35146.42\104520.79;
+Rod Of The Depths\33756.43\100565.74;
+Depthseeker Rod\33189.76\88021.91;
+Volcanic Rod\32436.48\90219.22;
+Avalanche Rod\32251.85\85130.42;
+Zeus Rod\32011.24\89036.46
 |recommended   = Free Spirit Rod
 }}
 

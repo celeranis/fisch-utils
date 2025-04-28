@@ -29,31 +29,33 @@ Ancient Isle/Freshwater Pond
 Ancient Isle/Surrounding Ocean
 Ancient Isle/Waterfall
 |top_rods      = 
-Rapid Rod\301268.89\256591.48;
-Firefly Rod\275197.67\238686.27;
-Trident Rod\274981.95\166234.93;
-Leviathan's Fang Rod\274625.88\307435.76;
-Free Spirit Rod\268057.22\165748.66;
-Flimsy Rod\247704.22\224210.27;
-Adventurer's Rod\226743.38\226743.38;
-Fischer's Rod\228148.81\228148.81;
-Ethereal Prism Rod\242475.57\275292.64;
-Kraken Rod\208410.97\270216.41;
-Fast Rod\259411.04\259411.04;
-Lucky Rod\201514.62\174427.57;
-No-Life Rod\266973.97\235265.9;
-Verdant Shear Rod\238764.45\199427.66;
-Seraphic Rod\237033.09\233137.53;
-Depthseeker Rod\236752.96\189334.52;
-Blazebringer Rod\235674.4\187440.29;
-Challenger's Rod\234327.06\213520.74;
-Zeus Rod\233932.96\198592.12;
-Avalanche Rod\232773.2\183614.02;
-Volcanic Rod\228384.27\162545.7;
-Rod Of The Forgotten Fang\223511.33\212843.79;
-Rod Of The Depths\218483.01\193280.47;
-Rod Of The Exalted One\211975.82\219724.56;
-Steady Rod\123368.66\100338.26
+Rapid Rod\320934.44\331978.33;
+Firefly Rod\292169.76\309103.56;
+Fast Rod\280378.07\295063.79;
+Fischer's Rod\279758.78\273692.65;
+Plastic Rod\279131.34\272068.48;
+Flimsy Rod\274177.51\270407.2;
+Adventurer's Rod\278537.12\272497.49;
+Leviathan's Fang Rod\278651\307495.1;
+Long Rod\257716.28\304251.26;
+Brick Built Rod\254139.5\300028.63;
+Lucky Rod\220176.81\174504;
+Trident Rod\278747.6\166258.75;
+Free Spirit Rod\271728.04\165772.41;
+No-Life Rod\270672.33\235299.61;
+Ethereal Prism Rod\242514.26\275373.89;
+Verdant Shear Rod\241461.32\213194.13;
+Seraphic Rod\240733.78\233170.93;
+Depthseeker Rod\239374.71\202079.42;
+Blazebringer Rod\238370.03\187467.15;
+Challenger's Rod\237629.58\213551.33;
+Zeus Rod\236608.67\198620.58;
+Avalanche Rod\235343.05\195255.31;
+Volcanic Rod\230996.51\174171.82;
+Rod Of The Forgotten Fang\226966.21\212874.28;
+Rod Of The Depths\221284.52\193308.16;
+Rod Of The Exalted One\215016.27\219762.66;
+Steady Rod\124736.89\106942.11
 |recommended   = Trident Rod
 }}
 

@@ -33,7 +33,7 @@ Depthseeker Rod\163351.71\98455.56;
 Celestial Rod\162497.1\95390.38;
 Rapid Rod\162439.01\119049.09;
 Training Rod\150968.7\196147.26;
-Flimsy Rod\112023.77\88848.38;
+Flimsy Rod\137120.87\88848.38;
 Resourceful Rod\148819.91\89525.93;
 Ethereal Prism Rod\162212.2\189289.06;
 Leviathan's Fang Rod\153932.2\139125.44;

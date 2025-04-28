@@ -33,7 +33,7 @@ Celestial Rod\72915.6\8368.94;
 Rapid Rod\72228.31\10038.06;
 Ice Warpers Rod\72056.65\8270.36;
 Training Rod\64051.8\19086.24;
-Flimsy Rod\47372.69\7768.82;
+Flimsy Rod\57059.28\9423.17;
 Fortune Rod\40597.4\8910.7;
 Nocturnal Rod\44013.47\26391.81;
 Leviathan's Fang Rod\69924.19\12326.4;

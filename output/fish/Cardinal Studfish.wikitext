@@ -1,0 +1,44 @@
+{{FishInfobox
+|image          = Cardinal Studfish.png
+|rarity         = Limited
+|sea            = First Sea
+|location       = [[LEGO Event]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 180
+|weather        = 
+|time           = 
+|season         = 
+|bait           = Stud Bait
+|base_weight    = 5.4
+|base_value     = 400
+|weight_range   = 3.5
+|base_chance    = 75
+|base_resil     = 70
+}}
+'''Cardinal Studfish''' is a {{Rarity|Limited}} fish found in [[LEGO Pool]]s.
+
+== Description ==
+{{Description|A striking black & white fish with LEGO studs, resembling a cardinal's vibrant crest.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Catchable during LEGO event.|Bestiary Hint}}
+{{Fish Availability|
+LEGO Pool
+|top_rods      = 
+Brick Built Rod\64606.52\64643.07
+|recommended   = 
+}}
+
+== Catch Quips ==
+When catching a Cardinal Studfish, the player has a chance to make one of the following exclamations:
+* A Cardinal Studfish!
+* Striped!
+* Blocky!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|LEGO Event}}

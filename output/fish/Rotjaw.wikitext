@@ -6,7 +6,7 @@
 |sublocation    = 
 |sources        = Fishing Rod
 |radar_location = 
-|prog_speed     = -62
+|prog_speed     = -35
 |xp             = 210
 |weather        = Foggy
 |time           = Day
@@ -28,29 +28,29 @@
 {{Fish Availability|
 The Cursed Shores
 |top_rods      = 
-Free Spirit Rod\530390.42\12029.08;
-Leviathan's Fang Rod\419718.04\19337.32;
-Trident Rod\402735.58\17569.26;
-Azure Of Lagoon\383699.28\17717.7;
-Egg Rod\334991.14\13424.96;
-Training Rod\220644.06\70093.71;
-Flimsy Rod\201033.44\8634.72;
-Haunted Rod\191734.65\6539.55;
-Nocturnal Rod\60624.46\52436.37;
-Verdant Shear Rod\318695.44\12423.88;
-Blazebringer Rod\306468.34\12831.01;
-No-Life Rod\276750.71\11730.15;
-Seraphic Rod\245963.99\10730.13;
-Ethereal Prism Rod\226320.99\9730.42;
-Challenger's Rod\221327.22\9351.94;
-Rod Of The Forgotten Fang\207841.6\8571.25;
-Depthseeker Rod\204406.87\7551.3;
-Rod Of The Exalted One\201018.42\8186.74;
-Avalanche Rod\200232.16\7299.21;
-Steady Rod\198634.1\8535.86;
-Rod Of The Depths\197991.63\7846.3;
-Volcanic Rod\197506.79\6924.53;
-Zeus Rod\195302.4\6818.2
+Free Spirit Rod\598903.55\12566.61;
+Leviathan's Fang Rod\482115.19\22212.09;
+Trident Rod\471039.87\20549.02;
+Azure Of Lagoon\416002.44\19209.33;
+Egg Rod\354545.98\14659.51;
+Training Rod\274064.36\89082.31;
+Flimsy Rod\235648.58\10554.93;
+Riptide Rod\239482.04\11280.46;
+Nocturnal Rod\78527.49\79149.75;
+Blazebringer Rod\349537.58\14010.94;
+Verdant Shear Rod\339065.95\13915.98;
+No-Life Rod\322101.11\13748.25;
+Ethereal Prism Rod\283806\11382.34;
+Seraphic Rod\280288.36\11895.27;
+Rod Of The Forgotten Fang\261938.68\10103.66;
+Challenger's Rod\261634.61\12342.94;
+Rod Of The Exalted One\258193.06\10319.95;
+Rod Of The Depths\248675.64\9193.64;
+Depthseeker Rod\247322.33\11356.82;
+Steady Rod\240580.38\10683.01;
+Avalanche Rod\239768.38\11017.06;
+Volcanic Rod\239129.12\11042.03;
+Zeus Rod\237225.22\10954.11
 |recommended   = Free Spirit Rod
 }}
 

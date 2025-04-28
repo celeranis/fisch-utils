@@ -29,13 +29,13 @@
 {{Fish Availability|
 Mariana's Veil/Volcanic Vents
 |top_rods      = 
+Training Rod\382765.74\170609.38;
 Flimsy Rod\374360.98\162861.39;
 Ethereal Prism Rod\362280.72\84111.26;
 Magnet Rod\353577.43\153891.24;
 Fast Rod\319562.15\68560.61;
-No-Life Rod\318353.81\68324.02;
-Training Rod\286016.95\120517.85;
 Heaven's Rod\297867.45\131369.11;
+No-Life Rod\318353.81\68324.02;
 Seraphic Rod\317699.51\68183.6;
 Challenger's Rod\290579.46\62363.18;
 Rod Of The Forgotten Fang\289467.55\62124.55;
@@ -50,7 +50,7 @@ Free Spirit Rod\221263.22\47482.83;
 Trident Rod\219973.72\47210.02;
 Volcanic Rod\205174.09\44033.77;
 Steady Rod\129680.62\24872.4
-|recommended   = Ethereal Prism Rod
+|recommended   = Training Rod
 }}
 
 == Gameplay Notes ==

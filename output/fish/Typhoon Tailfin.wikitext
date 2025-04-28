@@ -30,28 +30,28 @@ Mariana's Veil/Scylla Hunt
 Mariana's Veil/Veil of the Forsaken
 |top_rods      = 
 Ethereal Prism Rod\73587.46\164149.25;
-Leviathan's Fang Rod\73287.66\174928.25;
+Leviathan's Fang Rod\73287.66\180704.64;
 Seraphic Rod\71974.33\170094.23;
 Tempest Rod\68680.26\170273.76;
 No-Life Rod\65128.94\166635.87;
 Destiny Rod\55059.51\115231.05;
-Heaven's Rod\51246.25\110315.37;
+Heaven's Rod\51246.25\127028.61;
 Fortune Rod\36072.43\79977.87;
 Free Spirit Rod\54323.57\181869.49;
 Riptide Rod\45928.55\118778.06;
-Azure Of Lagoon\47336.19\137638.1;
+Azure Of Lagoon\47336.19\152772.71;
 Challenger's Rod\64795.95\165709.31;
 Rod Of The Forgotten Fang\62688.13\149157.4;
-Rod Of The Exalted One\53395.36\122903.09;
+Rod Of The Exalted One\53395.36\124283.32;
 Rod Of The Depths\51528.84\125190.54;
 Trident Rod\51028.35\148708.83;
 Zeus Rod\47557.84\125705.4;
 Blazebringer Rod\46901.48\123970.52;
-Depthseeker Rod\45442.11\125674.56;
+Depthseeker Rod\45442.11\131174.98;
 Verdant Shear Rod\45323.58\123909.78;
 Avalanche Rod\38508.35\106995.45;
 Volcanic Rod\37378.79\98800.03;
-Steady Rod\12002.12\38041.84
+Steady Rod\12002.12\41627.55
 |recommended   = Ethereal Prism Rod
 }}
 

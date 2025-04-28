@@ -5,8 +5,9 @@
 |location       = [[The Cursed Shores]]
 |sublocation    = 
 |sources        = Fishing Rod
+|nopassive      = 1
 |radar_location = 
-|prog_speed     = -97
+|prog_speed     = -90
 |xp             = 15000
 |weather        = Rain
 |time           = Night
@@ -28,31 +29,33 @@
 {{Fish Availability|
 The Cursed Shores
 |top_rods      = 
-Challenger's Rod\602.56\3669.96;
-Tempest Rod\557.08\3430.36;
-Summit Rod\479.73\2699.02;
-Seraphic Rod\111.83\700.76;
-Abyssal Specter Rod\94.49\549.81;
-Free Spirit Rod\-5.08\-24.08;
-Destiny Rod\-5.56\-24.75;
-Heaven's Rod\-3.65\-16.23;
-Precision Rod\-10.92\-48.58;
-Shamrock Rod\-7.15\-31.78;
-Sunken Rod\-6.42\-28.56;
-Ethereal Prism Rod\-1.71\-7.63;
-Rod Of The Forgotten Fang\-3.43\-15.26;
-No-Life Rod\-3.88\-17.26;
-Depthseeker Rod\-4.81\-21.41;
-Rod Of The Exalted One\-5.98\-26.59;
-Avalanche Rod\-7.15\-31.78;
-Rod Of The Depths\-7.15\-31.78;
-Steady Rod\-7.67\-34.12;
-Volcanic Rod\-7.92\-35.24;
-Blazebringer Rod\-8.06\-35.83;
-Zeus Rod\-8.88\-39.5;
-Trident Rod\-9.59\-42.65
+Free Spirit Rod\762.22\4291.01;
+Azure Of Lagoon\720.52\4311.31;
+Challenger's Rod\637.19\3880.88;
+Egg Rod\630.85\3953.13;
+Tempest Rod\613.05\3775.04;
+Destiny Rod\385.21\2240.88;
+Heaven's Rod\445.31\2635.96;
+Precision Rod\183.81\1151.81;
+Trident Rod\413.01\2588.07;
+Seraphic Rod\595.33\3730.53;
+Blazebringer Rod\592.49\3625.68;
+Ethereal Prism Rod\522.44\3160.85;
+No-Life Rod\454.96\2739.31;
+Rod Of The Forgotten Fang\428.07\2683.87;
+Depthseeker Rod\360.25\2004.39;
+Rod Of The Exalted One\351.16\2165.62;
+Rod Of The Depths\303.13\1880.15;
+Avalanche Rod\288.02\1595.4;
+Volcanic Rod\269.2\1566.41;
+Steady Rod\262.64\1359.27;
+Zeus Rod\239.18\1391.73
 |recommended   = Free Spirit Rod
 }}
+
+== Gameplay Notes ==
+* Abyssborn Monstrosity usually cannot be caught with passive effects, such as the one provided by the [[Rod Of The Depths]] and [[Rod Of The Forgotten Fang]].
+** The only exception is when catching a Abyssborn Monstrosity on the Megalodon Passive reel of the [[Rod Of The Forgotten Fang]], the Megalodon will instead dupe the Abyssborn Monstrosity.
 
 == Catch Quips ==
 When catching an Abyssborn Monstrosity, the player has a chance to make one of the following exclamations:

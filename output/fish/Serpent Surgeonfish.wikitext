@@ -30,8 +30,8 @@ Mariana's Veil/Scylla Hunt
 Mariana's Veil/Veil of the Forsaken
 |top_rods      = 
 Rapid Rod\237741.35\233331.99;
+Fast Rod\236532.47\233299.6;
 Fungal Rod\233772.94\225575.96;
-Fast Rod\233299.6\233299.6;
 Firefly Rod\231390.83\253741.09;
 Ethereal Prism Rod\228891.22\255816.88;
 Antler Rod\216759.59\209159.17;

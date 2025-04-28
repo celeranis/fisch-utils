@@ -2,7 +2,7 @@
 |image          = Tropical Bait Crate.png
 |rarity         = Rare
 |sea            = Second Sea
-|location       = [[Regionless]]
+|location       = [[Open Ocean]]
 |sublocation    = 
 |sources        = Fishing Rod
 |radar_location = 
@@ -17,7 +17,7 @@
 |base_chance    = 15
 |base_resil     = 110
 }}
-'''Tropical Bait Crate''' is a {{Rarity|Rare}} fish found in [[Regionless]].
+'''Tropical Bait Crate''' is a {{Rarity|Rare}} fish found in the [[Open Ocean]].
 
 == Description ==
 {{Description|A weathered wooden crate adorned with tropical leaves, designed to keep the bait fresh and lively. Likely drifted ashore from a fishing vessel exploring warm, exotic waters. The bait inside is vibrant and for the taking! Open it for a haul of tropical baits!|Bestiary Entry}}
@@ -46,10 +46,11 @@ Firefly Rod\115543.27\896787.5;
 Adventurer's Rod\354964.19\835625;
 Magnet Rod\785002.13\793594.04;
 Long Rod\176615.86\583094.83;
+Fungal Rod\170662.83\538350;
 Steady Rod\308025.41\560566.65;
 Verdant Shear Rod\110188.76\368452.91;
+Free Spirit Rod\101778.66\264772.2;
 Blazebringer Rod\101279.87\231336.09;
-Free Spirit Rod\96879.86\220311.24;
 Trident Rod\72169.21\167896.63;
 Ethereal Prism Rod\69546.7\159450.86;
 Seraphic Rod\67952.1\158085.81;
@@ -90,4 +91,4 @@ When catching a Tropical Bait Crate, the player has a chance to make one of the 
 {{Change History|{{subst:Current Version}}}}
 
 == Navigation ==
-{{Fish Navbox|Regionless}}
+{{Fish Navbox|Open Ocean}}

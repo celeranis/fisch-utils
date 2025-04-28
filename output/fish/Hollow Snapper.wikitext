@@ -33,10 +33,10 @@ Leviathan's Fang Rod\187062.56\164421.79;
 Free Spirit Rod\183714.87\114528.74;
 Azure Of Lagoon\166903.53\106829.88;
 Egg Rod\149375.86\135055.67;
-Resourceful Rod\115834.32\115657.25;
+Resourceful Rod\141080.47\115657.25;
 Long Rod\117582.61\115189.52;
-Adventurer's Rod\103555.77\103555.77;
-Firefly Rod\146893.59\139494.46;
+Fungal Rod\120869\120869;
+Firefly Rod\147769.46\139494.46;
 Wildflower Rod\142529.38\135052.9;
 Blazebringer Rod\147328.21\129496.61;
 Verdant Shear Rod\146946.98\130324.61;
@@ -51,7 +51,7 @@ Rod Of The Exalted One\120580.02\104591.27;
 Volcanic Rod\119819.57\110332.13;
 Zeus Rod\119155.54\109720.68;
 Rod Of The Depths\119115.1\104738.29;
-Steady Rod\99415.49\94917.45
+Steady Rod\113870.49\97787.59
 |recommended   = Free Spirit Rod
 }}
 

@@ -42,13 +42,13 @@ Challenger's Rod\45121.88\108586.5;
 Rod Of The Forgotten Fang\42411.08\99736.58;
 Zeus Rod\35947.01\85882.76;
 Rod Of The Depths\35943.36\84862.81;
-Rod Of The Exalted One\35447.12\82849.32;
+Rod Of The Exalted One\35447.12\85551.6;
 Verdant Shear Rod\35264.88\84676.3;
-Depthseeker Rod\35182.91\84627.56;
+Depthseeker Rod\35182.91\90378.51;
 Blazebringer Rod\35131.36\83934.06;
 Avalanche Rod\30190.87\72671.68;
-Volcanic Rod\28163.61\67287.06;
-Steady Rod\10258.47\26499.37
+Volcanic Rod\28163.61\68581.02;
+Steady Rod\14149.76\38271.33
 |recommended   = Training Rod
 }}
 

@@ -30,10 +30,10 @@ Atlantis/Sunken Depths
 Trident Rod\163595.21\100959.38;
 Free Spirit Rod\160208.85\100707.91;
 Summit Rod\159212.31\110990.94;
+Fast Rod\158743.02\141080.67;
 Champions Rod\157548.97\110930.54;
-Azure Of Lagoon\157160.21\98669.81;
 Training Rod\151807.23\152119.31;
-Flimsy Rod\109298.5\107165.31;
+Flimsy Rod\134645.37\126978.82;
 Firefly Rod\152227.06\129825.37;
 Leviathan's Fang Rod\156780.09\162168.94;
 Ethereal Prism Rod\150942.05\149765.11;

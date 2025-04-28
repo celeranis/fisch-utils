@@ -28,14 +28,14 @@
 {{Fish Availability|
 Azure Lagoon
 |top_rods      = 
-Free Spirit Rod\56393.29\150076.46;
+Free Spirit Rod\59692.87\180456.65;
 Egg Rod\51596.58\140806.79;
 Azure Of Lagoon\49131.77\138598.22;
 Blazebringer Rod\48210.82\129359.53;
 Great Dreamer Rod\47209.62\128089.92;
 Magma Rod\31174.69\100249.15;
 Krampus's Rod\43467.35\78816.16;
-Frostfire Rod\25056.57\75315.52;
+Steady Rod\26074.55\78375.38;
 Firefly Rod\37593.58\141704.23;
 Carbon Rod\24436.03\96579.6;
 Long Rod\23347.71\87222.54;
@@ -51,8 +51,7 @@ Depthseeker Rod\29232.77\84978.67;
 Rod Of The Depths\28765.47\79689.57;
 Avalanche Rod\27383.09\79736.65;
 Volcanic Rod\27236.43\77871.79;
-Zeus Rod\26449.8\75622.75;
-Steady Rod\26074.55\78375.38
+Zeus Rod\26449.8\75622.75
 |recommended   = Free Spirit Rod
 }}
 

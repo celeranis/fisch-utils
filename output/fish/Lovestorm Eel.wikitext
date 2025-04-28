@@ -1,6 +1,6 @@
 {{FishInfobox
 |image          = Lovestorm Eel.png
-|rarity         = Secret
+|rarity         = Limited
 |event          = Love
 |sea            = First Sea
 |location       = [[Valentine's Day]]
@@ -20,7 +20,7 @@
 |base_chance    = 0.0001
 |base_resil     = 3
 }}
-'''Lovestorm Eel''' is a {{Rarity|Secret}} fish found in [[Lovestorm]]s during the [[Valentine's Day]] event during the [[Love]] event.
+'''Lovestorm Eel''' is a {{Rarity|Limited}} fish found in [[Lovestorm]]s during the [[Valentine's Day]] event during the [[Love]] event.
 
 == Description ==
 {{Description|A lovely yet dangerous creature, striking with unpredictable ruthlessness. It thrives in a rare storm, leaving chaos behind it as it travels through the waters.|Bestiary Entry}}
@@ -30,26 +30,26 @@
 {{Fish Availability|
 Lovestorm/Normal
 |top_rods      = 
-Tempest Rod\1113.43\3829.19;
-Challenger's Rod\1079.35\3774.05;
-Seraphic Rod\1045.6\3570.01;
-Ethereal Prism Rod\987.69\3183.32;
-Abyssal Specter Rod\881.77\3196.64;
-Destiny Rod\578.14\1724.07;
-Heaven's Rod\627.05\1907.73;
-Rod Of The Depths\533.39\1815.14;
-Riptide Rod\473.52\1629.09;
-No-Life Rod\838.46\2867.68;
-Rod Of The Forgotten Fang\800.79\2675.95;
-Free Spirit Rod\666.99\2172.6;
-Depthseeker Rod\603.08\2154.63;
-Rod Of The Exalted One\600.05\1921.09;
-Blazebringer Rod\543.56\1892.83;
-Zeus Rod\496.98\1730.63;
-Trident Rod\495.68\1614.6;
-Avalanche Rod\433.15\1551.65;
-Volcanic Rod\398.62\1388.13;
-Steady Rod\151.19\568.01
+Tempest Rod\26991.92\85997.91;
+Challenger's Rod\26172.34\85156.71;
+Seraphic Rod\25329.5\80257.11;
+Ethereal Prism Rod\23902.81\71749.72;
+Abyssal Specter Rod\21392.38\80637.48;
+Destiny Rod\13975.9\39114.85;
+Heaven's Rod\15165.75\43261.96;
+Rod Of The Depths\12927.48\40744.6;
+Riptide Rod\11484.88\36831.91;
+No-Life Rod\20333.64\64845.06;
+Rod Of The Forgotten Fang\19401.22\60136.77;
+Free Spirit Rod\16157.65\49188.1;
+Depthseeker Rod\14639.23\48665.16;
+Rod Of The Exalted One\14529.49\43413.73;
+Blazebringer Rod\13187.12\42781.24;
+Zeus Rod\12057.09\39115.25;
+Trident Rod\12007.8\36554.88;
+Avalanche Rod\10514.82\35043.54;
+Volcanic Rod\9670.93\31374.13;
+Steady Rod\3673.7\12811.46
 |recommended   = Challenger's Rod
 }}
 

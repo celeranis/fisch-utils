@@ -35,22 +35,22 @@ Magma Rod\249688.54\94213.98;
 North-Star Rod\224178.09\111304.82;
 Resourceful Rod\171413.22\115110.12;
 Event Horizon Rod\219684.4\109073.7;
-Nocturnal Rod\48612.9\86297.95;
+Nocturnal Rod\49093.8\86297.95;
 Free Spirit Rod\167774.44\69136.55;
 Trident Rod\138853.99\47721.84;
 Verdant Shear Rod\125958.53\56578.84;
 Blazebringer Rod\121906.18\54379.01;
 No-Life Rod\93082.46\36780.3;
-Ethereal Prism Rod\83937.47\37307.87;
-Seraphic Rod\82296.73\36966.56;
-Rod Of The Exalted One\78968.82\35308.92;
-Rod Of The Forgotten Fang\78221.33\35175.46;
-Challenger's Rod\76822.94\34759.36;
-Rod Of The Depths\76820.47\34659.69;
+Ethereal Prism Rod\91233.53\39009.24;
+Seraphic Rod\87039.13\36966.56;
+Rod Of The Exalted One\84833.24\35308.92;
+Rod Of The Forgotten Fang\82730.8\35175.46;
+Rod Of The Depths\79745.23\34659.69;
+Challenger's Rod\79073.35\34759.36;
 Depthseeker Rod\75907.8\33794.36;
-Volcanic Rod\74545.62\33908.9;
-Zeus Rod\74316.86\33804.84;
-Avalanche Rod\73582.56\33604.2
+Volcanic Rod\75383.77\33908.9;
+Zeus Rod\75084.08\33804.84;
+Avalanche Rod\73858.56\33604.2
 |recommended   = Free Spirit Rod
 }}
 

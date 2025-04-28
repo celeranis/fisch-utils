@@ -29,32 +29,33 @@ Ancient Isle/Freshwater Pond
 Ancient Isle/Surrounding Ocean
 Ancient Isle/Waterfall
 |top_rods      = 
-Training Rod\740692.38\725260.7;
-Plastic Rod\610913.04\382815.46;
-Leviathan's Fang Rod\552978.65\194320.88;
-Rapid Rod\538500.73\562853.86;
-Trident Rod\519757.74\316731.41;
-Buddy Bond Rod\453821.12\331062.85;
-Fast Rod\471403.91\538512.15;
-Firefly Rod\493379.35\509724.01;
-Frog Rod\395899.87\448638.09;
-Long Rod\376660.57\382843.01;
-Adventurer's Rod\457034.35\365204.42;
-Free Spirit Rod\508998.96\310175.2;
-No-Life Rod\489737.68\419189.5;
-Seraphic Rod\473719.8\358824.34;
-Ethereal Prism Rod\467470.82\44464.02;
-Rod Of The Forgotten Fang\447433.68\327686.62;
-Challenger's Rod\443035.6\393874.91;
-Rod Of The Exalted One\424503.45\213994.36;
-Rod Of The Depths\417595.42\341180.07;
-Zeus Rod\410666.44\365312.71;
-Verdant Shear Rod\408096.82\347471.61;
-Blazebringer Rod\391145.81\358737.49;
-Depthseeker Rod\378490.11\309128.28;
-Volcanic Rod\362624.9\309233.25;
-Avalanche Rod\359754.5\283778.24;
-Steady Rod\190404.9\154860.22
+Training Rod\741195.02\725829.41;
+Plastic Rod\612079.84\539145.76;
+Rapid Rod\600471.13\789036.71;
+Leviathan's Fang Rod\561420.09\194358.39;
+Firefly Rod\547840.85\781121.12;
+Flimsy Rod\520485.81\434418.66;
+Buddy Bond Rod\454687.88\466258.95;
+Fast Rod\519497.01\764451.13;
+Wildflower Rod\444615.61\749540.77;
+Long Rod\445159.25\667862.96;
+Adventurer's Rod\457457.15\518430.14;
+Trident Rod\526875.39\349650.69;
+Free Spirit Rod\515969.28\342413.06;
+No-Life Rod\496521.96\455762.61;
+Seraphic Rod\481115.77\358875.75;
+Ethereal Prism Rod\475260.59\50318.96;
+Rod Of The Forgotten Fang\454847.2\327733.57;
+Challenger's Rod\449930.14\428392.9;
+Rod Of The Exalted One\448827.46\214031.46;
+Rod Of The Depths\439713.59\372886.12;
+Blazebringer Rod\432145.86\388665.06;
+Zeus Rod\429753.91\395788.81;
+Depthseeker Rod\423378.4\382278.15;
+Verdant Shear Rod\422301.08\377787.54;
+Avalanche Rod\398680.46\369676.04;
+Volcanic Rod\387496.1\331351.22;
+Steady Rod\192516.62\165052.47
 |recommended   = Training Rod
 }}
 

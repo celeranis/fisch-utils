@@ -44,7 +44,6 @@ Rod Of The Forgotten Fang\2246.74\6238.12;
 No-Life Rod\1742.31\5046.74;
 Rod Of The Exalted One\386.22\1050.4;
 Avalanche Rod\-2.96\-7.54;
-Volcanic Rod\-3.5\-8.93;
 Zeus Rod\-5.49\-14.01
 |recommended   = Challenger's Rod
 }}

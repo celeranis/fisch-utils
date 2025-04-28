@@ -31,6 +31,7 @@ Atlantis/Surrounding Ocean
 FischFright/Frightful Pool
 Forsaken Shores/Algae Hunt
 Golden Tide
+LEGO Pool/Studalodon Hunt
 Lovestorm/Normal
 Lovestorm/Supercharged
 Lucky Event/Blarney McBreeze
@@ -65,20 +66,20 @@ Free Spirit Rod\253243.31\139105.43;
 Azure Of Lagoon\225148.37\166751.58;
 No-Life Rod\222882.58\192142.24;
 Training Rod\185950.82\193846.15;
-Flimsy Rod\158355.71\134343.8;
+Flimsy Rod\161928.55\159018.09;
 Seraphic Rod\215038.68\196508.34;
-Fungal Rod\195072.36\196186.82;
+Fungal Rod\195985.51\196186.82;
 Rapid Rod\209491.11\195243.18;
-Verdant Shear Rod\204079.08\194095.42;
-Resourceful Rod\191389.03\191571.8;
+Verdant Shear Rod\208318.35\194095.42;
+Resourceful Rod\211442.24\191571.8;
+Blazebringer Rod\212101.87\193495.18;
+Challenger's Rod\211449.04\174644.32;
 Rod Of The Forgotten Fang\210493.04\177800.49;
 Ethereal Prism Rod\207898.99\142983.28;
-Challenger's Rod\207701.47\174644.32;
+Zeus Rod\207188.39\177900.11;
+Rod Of The Depths\207065.95\158165.49;
 Rod Of The Exalted One\206230.3\161690.17;
-Blazebringer Rod\204359.52\193495.18;
-Rod Of The Depths\204083.67\158165.49;
-Zeus Rod\202644.48\177900.11;
-Depthseeker Rod\200291.45\180250.57;
+Depthseeker Rod\206172.05\180250.57;
 Avalanche Rod\197974.1\178671.53;
 Volcanic Rod\195673.91\173714.82;
 Steady Rod\100691.02\96983.7

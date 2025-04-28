@@ -36,21 +36,22 @@ Ethereal Prism Rod\22679.37\78680.28;
 Tempest Rod\22362.7\83276.33;
 No-Life Rod\21526.36\79824.98;
 Destiny Rod\16237.44\52812.84;
-Heaven's Rod\15466.02\51269.49;
+Heaven's Rod\15870.52\59882.91;
 Fortune Rod\10814.91\36584.53;
-Free Spirit Rod\19817.06\94628.55;
-Challenger's Rod\21377.45\82415.29;
+Free Spirit Rod\19895.28\94628.55;
+Abyssal Specter Rod\18754.77\85392.9;
 Rod Of The Depths\16256.08\59165.96;
+Challenger's Rod\21377.45\82621.71;
 Rod Of The Forgotten Fang\19824.03\70969.16;
-Rod Of The Exalted One\16536.93\57424.72;
-Trident Rod\16207.97\77374.72;
+Trident Rod\17085.39\77374.72;
+Rod Of The Exalted One\16536.93\58183.77;
 Zeus Rod\15820.92\59695.78;
-Depthseeker Rod\15670.14\60611.4;
+Depthseeker Rod\15670.14\64652.62;
 Blazebringer Rod\15641.24\59017.79;
 Verdant Shear Rod\15308.97\58837.28;
 Avalanche Rod\13183.61\51126.01;
 Volcanic Rod\12426.4\46887.49;
-Steady Rod\4339.57\19059.59
+Steady Rod\4825.32\20752.92
 |recommended   = Seraphic Rod
 }}
 

@@ -30,7 +30,7 @@
 }
 
 /* The following is auto-generated based on in-game data */
-/* Last update: Version [[1.29]], place version 4322 */
+/* Last update: Version [[1.30]], place version 4322 */
 
 .item-abyssal-specter-rod { --item-color: 81 222 135; --item-bg-color: 12 32 19 }
 .item-adventurers-rod { --item-color: 154 170 190; --item-bg-color: 22 24 27 }
@@ -42,6 +42,7 @@
 .item-avalanche-rod { --item-color: 98 155 222; --item-bg-color: 14 22 32 }
 .item-azure-of-lagoon { --item-color: 61 71 255; --item-bg-color: 9 10 36 }
 .item-blazebringer-rod { --item-color: 255 136 0; --item-bg-color: 36 19 0 }
+.item-brick-built-rod { --item-color: 255 0 0; --item-bg-color: 36 0 0 }
 .item-brick-rod { --item-color: 245 90 90; --item-bg-color: 35 13 13 }
 .item-brothers-rod { --item-color: 75 207 196; --item-bg-color: 11 30 28 }
 .item-buddy-bond-rod { --item-color: 145 255 115; --item-bg-color: 21 36 16 }
@@ -111,6 +112,7 @@
 .item-stone-rod { --item-color: 110 110 120; --item-bg-color: 16 16 17 }
 .item-summit-rod { --item-color: 80 202 230; --item-bg-color: 11 29 33 }
 .item-sunken-rod { --item-color: 145 255 115; --item-bg-color: 21 36 16 }
+.item-superstar-rod { --item-color: 75 207 196; --item-bg-color: 11 30 28 }
 .item-tempest-rod { --item-color: 55 253 255; --item-bg-color: 8 36 36 }
 .item-the-lost-rod { --item-color: 64 255 102; --item-bg-color: 9 36 15 }
 .item-training-rod { --item-color: 100 198 207; --item-bg-color: 14 28 30 }

@@ -467,6 +467,7 @@ export class Fish {
 								// if ((zone == 'Brine Pool Water' || zone == 'Brine Pool') && rod.Name != 'Reinforced Rod') continue
 								// if (zone == 'Lava' && rod.Name != 'Reinforced Rod' && rod.Name != 'Magma Rod') continue
 								if (zone == 'Notes Island Pool' && rod.Name != 'Flimsy Rod') continue
+								if (ZoneData[zone]?.ExclusiveRods && !ZoneData[zone]?.ExclusiveRods?.[0]?.includes(rod.Name)) continue
 								
 								const conditions = {
 									zone, time, weather, season, bait,

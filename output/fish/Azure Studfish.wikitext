@@ -1,0 +1,44 @@
+{{FishInfobox
+|image          = Azure Studfish.png
+|rarity         = Limited
+|sea            = First Sea
+|location       = [[LEGO Event]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 20
+|weather        = 
+|time           = 
+|season         = 
+|bait           = Stud Bait
+|base_weight    = 2.5
+|base_value     = 60
+|weight_range   = 1.6
+|base_chance    = 130
+|base_resil     = 100
+}}
+'''Azure Studfish''' is a {{Rarity|Limited}} fish found in [[LEGO Pool]]s.
+
+== Description ==
+{{Description|A vibrant blue fish adorned with LEGO studs, shimmering like a sapphire in the sea.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Catchable during LEGO event.|Bestiary Hint}}
+{{Fish Availability|
+LEGO Pool
+|top_rods      = 
+Brick Built Rod\121881.59\132584.02
+|recommended   = 
+}}
+
+== Catch Quips ==
+When catching an Azure Studfish, the player has a chance to make one of the following exclamations:
+* An Azure Studfish!
+* Plastic!
+* Studded!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|LEGO Event}}

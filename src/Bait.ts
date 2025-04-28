@@ -1,3 +1,4 @@
+import { IGNORE_BAIT } from './Constants.js'
 import { getFile } from './DataParser.js'
 import { Fish } from './Fish.js'
 import { BaitData, BaitLibrary } from './types/bait.js'
@@ -33,6 +34,7 @@ export class Bait {
 	
 	static loadAll(): Bait[] {
 		return Object.entries(baitData)
+			.filter(([name]) => !IGNORE_BAIT.includes(name))
 			.map(([name, data]) => new this(name, data))
 	}
 	

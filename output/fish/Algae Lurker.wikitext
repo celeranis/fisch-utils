@@ -33,9 +33,9 @@ Leviathan's Fang Rod\126685.7\6598.27;
 No-Life Rod\103820.95\9832.63;
 Free Spirit Rod\103707.45\8444.33;
 Firefly Rod\96129.96\9606.52;
-Candy Cane Rod\65214.58\7122.07;
+Candy Cane Rod\78800.11\7122.07;
 Resourceful Rod\73641.73\7411.77;
-Fast Rod\61225.48\7117.07;
+Fast Rod\76363.24\8841.96;
 Nocturnal Rod\42424.67\41179.29;
 Egg Rod\92619.26\9550.47;
 Verdant Shear Rod\89046.62\9182.07;
@@ -46,11 +46,11 @@ Depthseeker Rod\76035.66\7475.11;
 Rod Of The Forgotten Fang\74877.14\5432.31;
 Avalanche Rod\73258.06\7210.54;
 Rod Of The Depths\72717.18\6859.02;
+Steady Rod\71446.71\6232.34;
 Volcanic Rod\70610.62\6789.6;
 Zeus Rod\68256.93\6563.28;
 Ethereal Prism Rod\66433.37\5696.78;
-Rod Of The Exalted One\63027.65\5376.11;
-Steady Rod\62642.71\6232.34
+Rod Of The Exalted One\63027.65\5376.11
 |recommended   = Free Spirit Rod
 }}
 

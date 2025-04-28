@@ -30,17 +30,19 @@
 Animal Hunt/Second Sea
 |top_rods      = 
 Training Rod\225793.98\NaN;
-Flimsy Rod\196725.52\204044.12;
+Flimsy Rod\198457.14\204044.12;
+Firefly Rod\175604.95\189413.15;
 Leviathan's Fang Rod\169533.54\184438.3;
 Free Spirit Rod\169297.23\99857.57;
+Brick Built Rod\153845.11\161551.81;
 Trident Rod\169198.2\167169.09;
-Lucky Rod\141431.41\164805.21;
+Egg Rod\140677.6\154971.05;
 Great Dreamer Rod\137121.09\149176.26;
-Verdant Shear Rod\138988.5\148702.89;
-Long Rod\135906.43\135906.43;
-Adventurer's Rod\124540.87\126666.67;
-Candy Cane Rod\109736.84\115506.41;
+Fungal Rod\138333.33\144601.77;
+Adventurer's Rod\138554.32\136241.92;
+Buddy Bond Rod\130259.93\128465.35;
 Blazebringer Rod\140018.21\152328.09;
+Verdant Shear Rod\138988.5\148702.89;
 No-Life Rod\131742.52\130144.58;
 Seraphic Rod\120842.76\119393.56;
 Ethereal Prism Rod\118962.15\108033.3;
@@ -52,7 +54,7 @@ Avalanche Rod\112486.84\112486.84;
 Volcanic Rod\112094.72\111724.44;
 Rod Of The Depths\111953.91\108859.43;
 Zeus Rod\111575.76\111207.19;
-Steady Rod\92336.84\92336.84
+Steady Rod\106092.57\105923.85
 |recommended   = Free Spirit Rod
 }}
 

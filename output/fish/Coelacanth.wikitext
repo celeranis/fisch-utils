@@ -30,6 +30,7 @@ Atlantis/Surrounding Ocean
 FischFright/Frightful Pool
 Forsaken Shores/Algae Hunt
 Golden Tide
+LEGO Pool/Studalodon Hunt
 Lovestorm/Normal
 Lovestorm/Supercharged
 Megalodon Hunt/Eclipse and Weekend
@@ -50,22 +51,22 @@ Leviathan's Fang Rod\42373.93\49191.04;
 Trident Rod\39108.66\48031.46;
 Flimsy Rod\38822.66\86840.92;
 Buddy Bond Rod\31538.82\40938.65;
-Training Rod\27360.18\81039.11;
+Training Rod\34861.12\113043.69;
 Free Spirit Rod\35772.01\43933.53;
 Ethereal Prism Rod\33797.43\34534.56;
 No-Life Rod\33227.97\36020.35;
 Seraphic Rod\32943.11\34504.24;
 Rod Of The Forgotten Fang\30847.94\33182.64;
 Challenger's Rod\30124.07\33006.35;
-Rod Of The Depths\27827.8\30140.34;
-Zeus Rod\27572.17\30410.64;
+Rod Of The Exalted One\28871.87\32680.11;
+Rod Of The Depths\27827.8\32021.8;
+Zeus Rod\27572.17\31286.79;
 Verdant Shear Rod\27195.69\30166.21;
-Rod Of The Exalted One\27116.88\30844.9;
-Blazebringer Rod\26185.32\29002.11;
-Depthseeker Rod\25055.06\28132.08;
-Avalanche Rod\22600.08\25451.21;
-Volcanic Rod\21484.81\24050.14;
-Steady Rod\9506.44\9096
+Blazebringer Rod\26185.32\31503.27;
+Depthseeker Rod\25055.06\29709.47;
+Avalanche Rod\23003.44\27624.43;
+Volcanic Rod\22964.95\28204.5;
+Steady Rod\9919.67\9620.26
 |recommended   = Trident Rod
 }}
 

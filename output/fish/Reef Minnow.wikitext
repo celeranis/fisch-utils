@@ -33,12 +33,12 @@ Champions Rod\240023.77\154658.57;
 No-Life Rod\239980.48\212224.66;
 Abyssal Specter Rod\239171.2\171664.83;
 Training Rod\211842.11\211842.11;
-Flimsy Rod\158625\158625;
+Flimsy Rod\199854.03\170759.86;
 Resourceful Rod\230019.52\153399.74;
-Fast Rod\213280.97\213280.97;
+Fast Rod\236331.24\213280.97;
 Seraphic Rod\211389.2\211389.2;
 Tempest Rod\216129.78\203940.66;
-Long Rod\215065.92\129531.12;
+Rod Of The Eternal King\192618.8\159570.71;
 Depthseeker Rod\238062\165030.98;
 Verdant Shear Rod\237320.31\180884.75;
 Avalanche Rod\236614.94\148376.09;
@@ -55,6 +55,10 @@ Rod Of The Exalted One\187948.75\164862.32;
 Steady Rod\106800.9\79097.13
 |recommended   = No-Life Rod
 }}
+
+== Catch Quips ==
+When catching a Reef Minnow, the player has a chance to make one of the following exclamations:
+* Small but dangerous..
 
 == Change History ==
 {{Change History|{{subst:Current Version}}}}

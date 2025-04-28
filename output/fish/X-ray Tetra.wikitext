@@ -29,7 +29,7 @@
 Open Ocean
 Open Ocean/Sea Leviathan
 |top_rods      = 
-Free Spirit Rod\10617.91\84561;
+Free Spirit Rod\10906.18\84561;
 Egg Rod\9665.93\82712.42;
 Verdant Shear Rod\9336.71\88738.8;
 Blazebringer Rod\9061.16\78367.1;

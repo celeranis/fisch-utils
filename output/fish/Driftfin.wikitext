@@ -40,7 +40,7 @@ Egg Rod\111592.63\111592.63;
 Verdant Shear Rod\107681.79\107681.79;
 Great Dreamer Rod\104669.88\104669.88;
 Wildflower Rod\115163.34\103171.48;
-Adventurer's Rod\84098.42\84098.42;
+Fungal Rod\97640.07\97640.07;
 Challenger's Rod\101900.32\85785.5;
 Blazebringer Rod\101746.22\101746.22;
 Depthseeker Rod\100460.17\90063.29;
@@ -50,7 +50,7 @@ Seraphic Rod\95800.23\66799.72;
 Zeus Rod\95775.95\82748.62;
 Rod Of The Depths\95359.32\78610.3;
 Rod Of The Forgotten Fang\92624.79\63319.66;
-Steady Rod\80376.98\73640.9;
+Steady Rod\82292.32\73640.9;
 Rod Of The Exalted One\80171.38\62905.79;
 Ethereal Prism Rod\76878.2\66229.1
 |recommended   = Verdant Shear Rod

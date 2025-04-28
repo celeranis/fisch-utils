@@ -5,6 +5,7 @@
 |location       = [[Azure Lagoon]]
 |sublocation    = 
 |sources        = Fishing Rod
+|nopassive      = 1
 |radar_location = 
 |prog_speed     = -88
 |xp             = 15000
@@ -28,7 +29,7 @@
 {{Fish Availability|
 Azure Lagoon
 |top_rods      = 
-Free Spirit Rod\611.14\5206.1;
+Free Spirit Rod\611.14\5384.75;
 Azure Of Lagoon\558.57\5113.7;
 Egg Rod\519.87\5023.81;
 Blazebringer Rod\489.74\4603.25;
@@ -53,6 +54,10 @@ Steady Rod\233.67\2553.26;
 Zeus Rod\224.85\2308.05
 |recommended   = Free Spirit Rod
 }}
+
+== Gameplay Notes ==
+* Verdant Mirage usually cannot be caught with passive effects, such as the one provided by the [[Rod Of The Depths]] and [[Rod Of The Forgotten Fang]].
+** The only exception is when catching a Verdant Mirage on the Megalodon Passive reel of the [[Rod Of The Forgotten Fang]], the Megalodon will instead dupe the Verdant Mirage.
 
 == Catch Quips ==
 When catching a Verdant Mirage, the player has a chance to make one of the following exclamations:

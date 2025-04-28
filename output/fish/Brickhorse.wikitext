@@ -1,0 +1,44 @@
+{{FishInfobox
+|image          = Brickhorse.png
+|rarity         = Limited
+|sea            = First Sea
+|location       = [[LEGO Event]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 150
+|weather        = 
+|time           = 
+|season         = 
+|bait           = Stud Bait
+|base_weight    = 5.5
+|base_value     = 350
+|weight_range   = 3.5
+|base_chance    = 85
+|base_resil     = 75
+}}
+'''Brickhorse''' is a {{Rarity|Limited}} fish found in [[LEGO Pool]]s.
+
+== Description ==
+{{Description|A majestic seahorse crafted from purple LEGO bricks, elegant and cute.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Catchable during LEGO event.|Bestiary Hint}}
+{{Fish Availability|
+LEGO Pool
+|top_rods      = 
+Brick Built Rod\73540.93\73582.54
+|recommended   = 
+}}
+
+== Catch Quips ==
+When catching a Brickhorse, the player has a chance to make one of the following exclamations:
+* A Brickhorse!
+* Regal!
+* Studded!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|LEGO Event}}

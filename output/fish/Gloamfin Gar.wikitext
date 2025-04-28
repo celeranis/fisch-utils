@@ -37,12 +37,12 @@ Magnet Rod\153084.7\231603.61;
 Buddy Bond Rod\163540.55\226353.55;
 Free Spirit Rod\180445.8\156772.53;
 Trident Rod\162067.83\161757.73;
-Blazebringer Rod\154999.4\160271.38;
-Verdant Shear Rod\153956.57\166386.1;
+Verdant Shear Rod\155532.23\166386.1;
+Blazebringer Rod\155095.81\160271.38;
 No-Life Rod\140088.69\139855.77;
 Seraphic Rod\134313.11\134056.12;
 Ethereal Prism Rod\133038.94\132198.89;
-Challenger's Rod\129886.09\129665.55;
+Challenger's Rod\129886.09\129702.6;
 Rod Of The Forgotten Fang\129348.22\129103.6;
 Depthseeker Rod\128802.59\128635.92;
 Rod Of The Exalted One\128342.6\127964.63;
@@ -50,7 +50,7 @@ Avalanche Rod\128005.36\127843.94;
 Rod Of The Depths\127993.44\127760.78;
 Volcanic Rod\127632.84\127436.6;
 Zeus Rod\127211.11\127015.51;
-Steady Rod\104551.3\107589.11
+Steady Rod\117729.96\117502.2
 |recommended   = Free Spirit Rod
 }}
 

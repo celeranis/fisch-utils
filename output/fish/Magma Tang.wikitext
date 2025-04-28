@@ -47,9 +47,9 @@ Verdant Shear Rod\106939.08\11975.97;
 Zeus Rod\106208.26\11975.97;
 Rod Of The Depths\103391.08\11658.3;
 Blazebringer Rod\101981.41\11312.77;
+Magma Rod\98905.28\8709.79;
 Volcanic Rod\98413.8\9089.53;
 Rod Of The Exalted One\97236.93\10964.37;
-Magma Rod\89437.61\8709.79;
 Steady Rod\61234.05\4950.48
 |recommended   = Training Rod
 }}

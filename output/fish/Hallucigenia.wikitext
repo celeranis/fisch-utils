@@ -28,31 +28,33 @@
 Ancient Isle/Freshwater Pond
 Ancient Isle/Waterfall
 |top_rods      = 
-Plastic Rod\322619.84\815305;
-Krampus's Rod\261915.34\262877.58;
-Magma Rod\253422.55\254353.59;
-Buddy Bond Rod\239660.45\605655.14;
-Fast Rod\234781.23\503735.15;
-Flimsy Rod\226500.91\331220.45;
-Fischer's Rod\207996.16\446266.4;
-Adventurer's Rod\206714.87\443517.33;
-Training Rod\183621.86\172727.03;
-Ethereal Prism Rod\158775.42\125830.51;
-Seraphic Rod\154879.56\123468.36;
-No-Life Rod\154529.36\123644.21;
-Trident Rod\148000.24\96179.4;
-Free Spirit Rod\145457.66\95193.91;
-Rod Of The Forgotten Fang\145381.96\115959.68;
-Challenger's Rod\141767.26\113403.61;
-Rod Of The Depths\131565.77\105091.51;
-Zeus Rod\130454.45\104431.06;
-Verdant Shear Rod\128793.37\103097.39;
-Rod Of The Exalted One\128009\101801.45;
-Blazebringer Rod\123757.5\99070.04;
-Depthseeker Rod\118271.3\94660.64;
-Avalanche Rod\107769.27\85579.1;
-Volcanic Rod\107666.18\81363.15;
-Steady Rod\55939.99\27431.06
+Plastic Rod\322917.06\818748.85;
+Krampus's Rod\261915.34\263035.19;
+Magma Rod\253422.55\254506.08;
+Buddy Bond Rod\239881.25\608213.43;
+Fast Rod\234924.14\848620.31;
+Flimsy Rod\226666.47\360362.42;
+Rapid Rod\174646.48\940379.24;
+Firefly Rod\158834.04\871074.23;
+Fungal Rod\131294.61\710603.89;
+Lucky Rod\129697.9\704712.42;
+Training Rod\209310.03\179798.99;
+Ethereal Prism Rod\160778.11\141015.95;
+Seraphic Rod\156780.55\138714.49;
+No-Life Rod\156369.17\139330.38;
+Trident Rod\149526.63\124529.72;
+Rod Of The Forgotten Fang\147160.66\130318.46;
+Free Spirit Rod\146957.83\123851.75;
+Challenger's Rod\143461.15\127743.93;
+Rod Of The Exalted One\138859.88\124185.37;
+Rod Of The Depths\133159.6\118217.61;
+Zeus Rod\131990.61\117815.23;
+Verdant Shear Rod\130292.58\116455.19;
+Blazebringer Rod\125214.8\111767.12;
+Depthseeker Rod\121044.66\106972.02;
+Avalanche Rod\113937.49\96726.58;
+Volcanic Rod\111975.01\91790.87;
+Steady Rod\56473.98\31105.45
 |recommended   = Training Rod
 }}
 

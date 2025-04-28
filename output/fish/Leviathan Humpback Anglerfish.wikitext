@@ -27,15 +27,15 @@
 {{Fish Availability|
 Mariana's Veil/Abyssal Zenith
 |top_rods      = 
+Firefly Rod\212575.5\236164.02;
 Rapid Rod\209233.8\195168.93;
+Fast Rod\209177.3\207470.7;
 Leviathan's Fang Rod\208572.23\201896.9;
 Fungal Rod\208217.34\207198.29;
-Fast Rod\207470.7\207470.7;
-Firefly Rod\206806.44\227533.7;
 Long Rod\191233.74\191667.78;
-Antler Rod\194920.42\193966.44;
+Brick Built Rod\188260.36\188687.65;
 No-Life Rod\200516.51\197175.9;
-Candy Cane Rod\179803.88\179803.88;
+Candy Cane Rod\179803.88\182605.97;
 Trident Rod\206722.46\137292.53;
 Free Spirit Rod\204604.31\137124.37;
 Seraphic Rod\196412.87\196399.68;

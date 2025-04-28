@@ -38,8 +38,8 @@ Nocturnal Rod\56723.43\55883.96;
 Buddy Bond Rod\153491.66\34247.02;
 Free Spirit Rod\170712.16\9414.43;
 Trident Rod\158413.2\12348.78;
-Verdant Shear Rod\131691.56\10928.57;
-Blazebringer Rod\130144.59\10660.88;
+Verdant Shear Rod\135328.19\10928.57;
+Blazebringer Rod\131575.68\10660.88;
 No-Life Rod\124651.44\10100.47;
 Seraphic Rod\113662.45\8850.45;
 Ethereal Prism Rod\113247.6\9426.11;
@@ -51,7 +51,7 @@ Rod Of The Exalted One\106702.76\8510.76;
 Volcanic Rod\105978.37\8728.98;
 Zeus Rod\105430.86\8683.88;
 Rod Of The Depths\105348.37\8326.4;
-Steady Rod\87615.9\7317.93
+Steady Rod\99537.6\7775.45
 |recommended   = Free Spirit Rod
 }}
 

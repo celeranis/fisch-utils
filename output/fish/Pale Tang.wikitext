@@ -32,9 +32,9 @@ Leviathan's Fang Rod\642386.02\390105.06;
 Free Spirit Rod\639214.08\282713.1;
 Azure Of Lagoon\593861.62\268882.19;
 No-Life Rod\587628.48\391780.01;
-Flimsy Rod\446006.08\402761.1;
 Training Rod\480672.27\480672.27;
-Magnet Rod\278217.01\272878.84;
+Flimsy Rod\554165.73\402761.1;
+Magnet Rod\356954.55\272878.84;
 Seraphic Rod\440033.52\384047.83;
 Depthseeker Rod\525686.11\298788.34;
 Verdant Shear Rod\511396.72\325228.58;
@@ -47,7 +47,7 @@ Rod Of The Forgotten Fang\436206.12\349810.65;
 Rod Of The Depths\434503.24\316669.22;
 Rod Of The Exalted One\392733.55\297918.87;
 Ethereal Prism Rod\381708.45\381708.45;
-Steady Rod\184699.23\119204.7
+Steady Rod\236837.93\119204.7
 |recommended   = Trident Rod
 }}
 

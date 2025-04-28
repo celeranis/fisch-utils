@@ -1,0 +1,44 @@
+{{FishInfobox
+|image          = Glow Brick.png
+|rarity         = Limited
+|sea            = First Sea
+|location       = [[LEGO Event]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 500
+|weather        = 
+|time           = 
+|season         = 
+|bait           = Stud Bait
+|base_weight    = 30
+|base_value     = 800
+|weight_range   = 21
+|base_chance    = 55
+|base_resil     = 20
+}}
+'''Glow Brick''' is a {{Rarity|Limited}} fish found in [[LEGO Pool]]s.
+
+== Description ==
+{{Description|A massive fish that glows with dark LEGO bricks, illuminating the deep sea.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Catchable during LEGO event.|Bestiary Hint}}
+{{Fish Availability|
+LEGO Pool
+|top_rods      = 
+Brick Built Rod\39330.88\30223.99
+|recommended   = 
+}}
+
+== Catch Quips ==
+When catching a Glow Brick, the player has a chance to make one of the following exclamations:
+* A Glow Brick!
+* Glowing!
+* Blocky!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|LEGO Event}}

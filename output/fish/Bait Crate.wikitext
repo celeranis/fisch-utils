@@ -46,6 +46,7 @@ Frigid Cavern
 Glacial Grotto
 Golden Tide
 Grand Reef
+LEGO Pool/Studalodon Hunt
 Lovestorm/Normal
 Lovestorm/Supercharged
 Lucky Event/Blarney McBreeze
@@ -77,28 +78,27 @@ Whale Migration/Moby
 Whale Migration/Normal
 |top_rods      = 
 Magnet Rod\367887.04\370943.05;
+Flimsy Rod\280183.18\370006.05;
 Krampus's Rod\279427.51\210123.43;
-Training Rod\279048.37\289478.26;
+Training Rod\279048.37\367361.95;
 Magma Rod\271624.07\204255.41;
-Plastic Rod\249051.22\186771.75;
-Flimsy Rod\246978.13\370006.05;
 Leviathan's Fang Rod\200800.15\320864.32;
 No-Life Rod\191349.51\295080.7;
-Ethereal Prism Rod\176788.75\291341.42;
-Trident Rod\193761.92\243673;
-Free Spirit Rod\192986.97\242698.44;
+Trident Rod\193761.92\273916.91;
+Free Spirit Rod\192986.97\273581.41;
 Challenger's Rod\182218.36\281092.77;
 Zeus Rod\181528.51\263115.24;
 Verdant Shear Rod\180504.13\261934.36;
+Depthseeker Rod\179123.69\236194.08;
 Blazebringer Rod\179024.98\250548.65;
 Seraphic Rod\178723.07\287341.58;
-Rod Of The Depths\177687.07\259297.03;
+Rod Of The Depths\177687.07\278387.39;
 Rod Of The Forgotten Fang\177499.52\281924.65;
-Rod Of The Exalted One\174472.81\263250.52;
+Ethereal Prism Rod\176788.75\291341.42;
+Rod Of The Exalted One\175242.07\280321.12;
 Volcanic Rod\173988.1\208256.55;
-Depthseeker Rod\172954.99\236194.08;
 Avalanche Rod\170848.36\214438.84;
-Steady Rod\59783.76\69721.81
+Steady Rod\81655.81\81603.23
 |recommended   = Magnet Rod
 }}
 

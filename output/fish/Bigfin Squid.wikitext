@@ -32,14 +32,14 @@ Open Ocean/Sea Leviathan
 Free Spirit Rod\20423.12\89444.24;
 Egg Rod\16691.43\78782.34;
 Verdant Shear Rod\15883.35\85294.7;
+Azure Of Lagoon\15700.29\71587.76;
 Blazebringer Rod\15639.27\74727.28;
-Great Dreamer Rod\15538.05\73524.11;
 Frostfire Rod\12950.19\40507.08;
 Steady Rod\11038.66\36903.29;
 Magma Rod\12904.41\37291.34;
 Firefly Rod\13855.01\79957.96;
+Brick Built Rod\11209.14\68861.69;
 Long Rod\8461.45\49663.74;
-Fungal Rod\8625.74\46499.67;
 Trident Rod\13593.74\59571.83;
 Seraphic Rod\11399.76\53806.06;
 Ethereal Prism Rod\11246.65\53154.11;

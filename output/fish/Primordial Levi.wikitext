@@ -5,6 +5,7 @@
 |location       = [[Lushgrove]]
 |sublocation    = 
 |sources        = Fishing Rod
+|nopassive      = 1
 |radar_location = 
 |prog_speed     = -85
 |xp             = 6000
@@ -28,7 +29,7 @@
 {{Fish Availability|
 Lushgrove
 |top_rods      = 
-Free Spirit Rod\655.28\4588.14;
+Free Spirit Rod\655.28\5463.97;
 Azure Of Lagoon\588.32\4512.35;
 Egg Rod\585.71\4574.83;
 Blazebringer Rod\551.21\4187.52;
@@ -54,6 +55,10 @@ Steady Rod\281.8\2490.89;
 Zeus Rod\281.07\2332.62
 |recommended   = Free Spirit Rod
 }}
+
+== Gameplay Notes ==
+* Primordial Levi usually cannot be caught with passive effects, such as the one provided by the [[Rod Of The Depths]] and [[Rod Of The Forgotten Fang]].
+** The only exception is when catching a Primordial Levi on the Megalodon Passive reel of the [[Rod Of The Forgotten Fang]], the Megalodon will instead dupe the Primordial Levi.
 
 == Catch Quips ==
 When catching a Primordial Levi, the player has a chance to make one of the following exclamations:

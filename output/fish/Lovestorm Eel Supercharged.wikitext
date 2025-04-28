@@ -1,6 +1,6 @@
 {{FishInfobox
 |image          = Lovestorm Eel Supercharged.png
-|rarity         = Secret
+|rarity         = Limited
 |event          = Love
 |sea            = First Sea
 |location       = [[Valentine's Day]]
@@ -20,7 +20,7 @@
 |base_chance    = 0.001
 |base_resil     = 1
 }}
-'''Lovestorm Eel Supercharged''' is a {{Rarity|Secret}} fish found in [[Lovestorm]]s during the [[Valentine's Day]] event during the [[Love]] event.
+'''Lovestorm Eel Supercharged''' is a {{Rarity|Limited}} fish found in [[Lovestorm]]s during the [[Valentine's Day]] event during the [[Love]] event.
 
 == Description ==
 {{Description|A Love Eel infused with fury of the tempest, with power beyond comprehension.|Bestiary Entry}}
@@ -29,25 +29,25 @@
 {{Fish Availability|
 Lovestorm/Supercharged
 |top_rods      = 
-Tempest Rod\897.21\3050.96;
-Challenger's Rod\883.67\3014.65;
-Seraphic Rod\628\2124.1;
-Summit Rod\601.86\2137.06;
-Abyssal Specter Rod\572.45\1994.32;
-Destiny Rod\15.37\45.85;
-Heaven's Rod\216.09\657.67;
-Ethereal Prism Rod\493.69\1579.26;
-Krampus's Rod\0\-0.01;
-Rod Of The Depths\0\-0.01;
-Rod Of The Forgotten Fang\267.04\883.75;
-No-Life Rod\201.63\689.92;
-Depthseeker Rod\131.27\469.19;
-Rod Of The Exalted One\46.61\148.95;
+Tempest Rod\21852.68\69680.5;
+Challenger's Rod\21527.68\69011.44;
+Seraphic Rod\15285.91\48540.66;
+Summit Rod\14674.23\49012.47;
+Abyssal Specter Rod\13952.28\45772.85;
+Destiny Rod\373.37\1054.82;
+Heaven's Rod\5252.09\15126.14;
+Ethereal Prism Rod\12006.09\36159.11;
+Krampus's Rod\-0.1\-0.14;
+Rod Of The Depths\-0.09\-0.13;
+Rod Of The Forgotten Fang\6500.55\20190.48;
+No-Life Rod\4912.63\15834.35;
+Depthseeker Rod\3200.89\10759.14;
+Rod Of The Exalted One\1134.11\3422.79;
 Steady Rod\0\0;
-Avalanche Rod\0\0;
-Volcanic Rod\0\-0.01;
-Zeus Rod\-0.01\-0.01;
-Trident Rod\-0.01\-0.01
+Avalanche Rod\-0.08\-0.11;
+Volcanic Rod\-0.09\-0.13;
+Zeus Rod\-0.14\-0.2;
+Trident Rod\-0.17\-0.25
 |recommended   = Challenger's Rod
 }}
 

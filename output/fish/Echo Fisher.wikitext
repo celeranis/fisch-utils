@@ -33,7 +33,7 @@ Ethereal Prism Rod\119989.17\139794.03;
 Rapid Rod\119603.71\104091.34;
 Ice Warpers Rod\119516.31\88480.57;
 Training Rod\111903.74\116539.24;
-Flimsy Rod\81452.51\81452.51;
+Flimsy Rod\103416.11\97669.9;
 Fortune Rod\65963.27\84173.76;
 Leviathan's Fang Rod\113625.25\123025.96;
 No-Life Rod\111524.77\111524.77;

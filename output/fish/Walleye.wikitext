@@ -34,7 +34,7 @@ Leviathan's Fang Rod\157521.63\158135.36;
 Azure Of Lagoon\156942.07\100380.06;
 Champions Rod\156739.58\140842.55;
 Training Rod\145077.72\203609.97;
-Flimsy Rod\105353.92\98533.03;
+Flimsy Rod\120608.02\112862.86;
 Resourceful Rod\146268.41\151590.22;
 Ethereal Prism Rod\152193.77\205114.13;
 Kraken Rod\121496.29\146340.07;

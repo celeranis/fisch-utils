@@ -5,6 +5,7 @@
 |location       = [[Waveborne]]
 |sublocation    = 
 |sources        = Fishing Rod
+|nopassive      = 1
 |radar_location = 
 |prog_speed     = -75
 |xp             = 5000
@@ -28,9 +29,9 @@
 {{Fish Availability|
 Waveborne
 |top_rods      = 
-Free Spirit Rod\939.78\6731.07;
+Free Spirit Rod\964.4\6731.07;
 Egg Rod\839.93\5448.01;
-Azure Of Lagoon\795.52\4968.86;
+Azure Of Lagoon\795.52\5447.2;
 Blazebringer Rod\793.59\4974.59;
 Great Dreamer Rod\780.12\4989.44;
 Resourceful Rod\724.6\4742.79;
@@ -54,6 +55,10 @@ Zeus Rod\438.69\3042.22;
 Steady Rod\422.5\2732.48
 |recommended   = Free Spirit Rod
 }}
+
+== Gameplay Notes ==
+* Storm Skipper usually cannot be caught with passive effects, such as the one provided by the [[Rod Of The Depths]] and [[Rod Of The Forgotten Fang]].
+** The only exception is when catching a Storm Skipper on the Megalodon Passive reel of the [[Rod Of The Forgotten Fang]], the Megalodon will instead dupe the Storm Skipper.
 
 == Catch Quips ==
 When catching a Storm Skipper, the player has a chance to make one of the following exclamations:

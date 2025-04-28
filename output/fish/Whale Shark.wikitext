@@ -31,20 +31,21 @@ Shark Hunt/Whale Shark
 Ethereal Prism Rod\54173.64\360949.34;
 Leviathan's Fang Rod\53558.34\444379.59;
 Seraphic Rod\52482.37\375500.39;
-No-Life Rod\50193.58\376290.49;
+No-Life Rod\50193.58\380804.59;
 Tempest Rod\50025.91\368854.36;
-Destiny Rod\43085.45\301286.17;
-Heaven's Rod\38539.11\321626.79;
-Challenger's Rod\47267.84\369166.2;
-Azure Of Lagoon\35484.15\289096.79;
+Destiny Rod\44798.99\326426.96;
+Heaven's Rod\41100.93\321626.79;
+Abyssal Specter Rod\40974.07\379098.12;
+Challenger's Rod\47267.84\373242.28;
+Azure Of Lagoon\35639.14\354262.49;
 Rod Of The Forgotten Fang\47885.25\358104.95;
-Rod Of The Depths\42057.89\318411.13;
-Rod Of The Exalted One\42012.05\315848.15;
-Zeus Rod\40434.94\320196.09;
+Rod Of The Depths\42057.89\338668.94;
+Rod Of The Exalted One\42012.05\340657.91;
+Zeus Rod\40434.94\339360.37;
 Depthseeker Rod\37153.8\310083.93;
 Avalanche Rod\33073.92\275837.52;
-Volcanic Rod\31658.52\254514.84;
-Steady Rod\10409.17\89708.42
+Volcanic Rod\31658.52\307486.02;
+Steady Rod\11419.91\89708.42
 |recommended   = Ethereal Prism Rod
 }}
 

@@ -28,14 +28,14 @@
 {{Fish Availability|
 Waveborne
 |top_rods      = 
-Training Rod\306753.74\153242.85;
-Flimsy Rod\259404.41\134976.85;
+Training Rod\306753.74\160058.83;
+Flimsy Rod\269118.14\134976.85;
 Free Spirit Rod\192109.54\12528.22;
 Leviathan's Fang Rod\188757.29\17492.08;
 Trident Rod\187159.44\16017.25;
-Plastic Rod\146988.55\15525.51;
+Plastic Rod\151516.74\16033.32;
 Nocturnal Rod\90709.38\85285.12;
-Firefly Rod\165408.99\16567.59;
+Firefly Rod\170358.78\16567.59;
 Blazebringer Rod\166977.55\15473.76;
 Verdant Shear Rod\165175.16\14944.83;
 No-Life Rod\153938.4\13594.38;
@@ -49,7 +49,7 @@ Rod Of The Forgotten Fang\136909.94\11623.12;
 Volcanic Rod\135748.98\12300.16;
 Zeus Rod\135177.97\12248.42;
 Rod Of The Depths\134574.27\11468.26;
-Steady Rod\112103.3\10565.38
+Steady Rod\125626.21\10834.95
 |recommended   = Free Spirit Rod
 }}
 

@@ -32,12 +32,10 @@ Atlantis/Kraken Pool
 Training Rod\217241.38\217241.38;
 Firefly Rod\198287.09\172483.47;
 Rapid Rod\195865.38\155228.49;
-Champions Rod\181749.24\120189.32;
-Celestial Rod\179749.75\124143.2;
-Flimsy Rod\136714.57\145584.35;
+Fast Rod\190782.58\166590.67;
+Flimsy Rod\185129.38\173786.87;
 Fungal Rod\176510.1\168311.81;
 Ethereal Prism Rod\164421.36\172727.3;
-Fast Rod\167815.05\166590.67;
 Candy Cane Rod\140375.92\136930.82;
 Avalanche Rod\172958.37\114898.71;
 Depthseeker Rod\171520.06\128152.83;

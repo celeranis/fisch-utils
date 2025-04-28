@@ -29,31 +29,30 @@ Ancient Isle/Freshwater Pond
 Ancient Isle/Surrounding Ocean
 Ancient Isle/Waterfall
 |top_rods      = 
-Rapid Rod\182671.62\171866.89;
-Fungal Rod\179922.85\159833.99;
-Ethereal Prism Rod\178672.39\330481.51;
-Fast Rod\178136.1\178136.1;
-Firefly Rod\177226.04\180363.31;
-Lucky Rod\93755.1\120583.74;
-Antler Rod\164156.48\145827.98;
-Leviathan's Fang Rod\167340.31\213787.87;
-Fortune Rod\98931.67\207650.26;
-Kraken Rod\139055.68\186896.14;
-No-Life Rod\163037.47\163037.47;
-Seraphic Rod\161329.63\161329.63;
-Avalanche Rod\154868.83\112771.27;
-Depthseeker Rod\154379.18\125847.57;
-Challenger's Rod\147729.43\147729.43;
-Rod Of The Forgotten Fang\147239.98\147239.98;
-Verdant Shear Rod\143860.27\137388.37;
-Zeus Rod\137320.19\137320.19;
-Rod Of The Depths\133654.84\133654.84;
-Blazebringer Rod\129628.01\129628.01;
-Rod Of The Exalted One\129144.3\151966.99;
-Volcanic Rod\124298.69\104216.4;
-Trident Rod\115811.54\115628.62;
-Free Spirit Rod\115232.7\115232.7;
-Steady Rod\85099.52\69213.18
+Rapid Rod\192400.47\190539.97;
+Fungal Rod\188882.04\188626.33;
+Firefly Rod\186388.74\225928.56;
+Wildflower Rod\183907.81\182754.46;
+Fast Rod\182749.64\178193.77;
+Antler Rod\172330.59\172097.29;
+Ethereal Prism Rod\178700.9\330579.05;
+Leviathan's Fang Rod\167365.59\213829.13;
+Fortune Rod\98947.76\207721.16;
+No-Life Rod\163060.83\163060.83;
+Seraphic Rod\161352.74\161352.74;
+Avalanche Rod\156578.6\112787.43;
+Depthseeker Rod\156088.74\125865.6;
+Challenger's Rod\147750.59\147750.59;
+Rod Of The Forgotten Fang\147261.08\147261.08;
+Verdant Shear Rod\145464.76\137408.05;
+Zeus Rod\137339.86\137339.86;
+Rod Of The Depths\133673.99\133673.99;
+Blazebringer Rod\129803.63\129646.58;
+Rod Of The Exalted One\129163.33\151993.34;
+Volcanic Rod\125720.41\104231.33;
+Trident Rod\117397.49\115645.18;
+Free Spirit Rod\115249.21\115249.21;
+Steady Rod\86043.32\73768.51
 |recommended   = Ethereal Prism Rod
 }}
 

@@ -1,0 +1,25 @@
+{{BaitInfobox
+|image          = Bait Stud Bait.png
+|rarity         = Legendary
+|crates         = 
+|angler_quests  = <!--TBD-->
+|pref_luck      = 150
+|univ_luck      = 40
+|resilience     = 20
+|lure           = 50
+|ability        = 
+}}
+'''Stud Bait''' is a {{Rarity|Legendary}} [[Bait]] that can be used in fishing.
+
+== Obtainment ==
+Stud Baits can be obtained in the following ways:
+<!--* [[Angler]] Quests, starting from the ?th completion-->
+
+== Favoring Fish ==
+{{Fish by Category Table|Stud Bait-Loving Fish|event=1|show_location=1|hide_bait=1|resultsheader='''%PAGES%''' [[Fish]] prefer Stud Baits:|noresultsheader=No fish prefer Stud Baits.}}
+
+== Change History ==
+{{Change History|1.0}}
+
+== Navigation ==
+{{Bait Navbox}}

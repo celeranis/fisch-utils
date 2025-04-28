@@ -1,4 +1,4 @@
-/* Last update: Version [[1.29]], place version 4322 */
+/* Last update: Version [[1.30]], place version 4322 */
 
 .enchantment-sea-king { --enchant-color: #354dd3; }
 .enchantment-lucky { --enchant-color: #7ee5a4; }
@@ -12,6 +12,7 @@
 .enchantment-unbreakable { --enchant-color: #e1b3e5; }
 .enchantment-piercing { --enchant-color: #0da78d; }
 .enchantment-storming { --enchant-color: #ffec83; }
+.enchantment-chronos { --enchant-color: #1d54d3; }
 .enchantment-clever { --enchant-color: #ff6ea6; }
 .enchantment-anomalous { --enchant-color: #ff1d1d; }
 .enchantment-invincible { --enchant-color: #ff6219; }
@@ -19,7 +20,9 @@
 .enchantment-swift { --enchant-color: #b5e3e5; }
 .enchantment-mystical { --enchant-color: #c2dfff; }
 .enchantment-wormhole { --enchant-color: #915aff; }
+.enchantment-blood-reckoning { --enchant-color: #4a0808; }
 .enchantment-controlled { --enchant-color: #af9bff; }
+.enchantment-momentum { --enchant-color: #d3b380; }
 .enchantment-chaotic { --enchant-color: #141316; }
 .enchantment-scavenger { --enchant-color: #ffbf66; }
 .enchantment-insight { --enchant-color: #80ff72; }

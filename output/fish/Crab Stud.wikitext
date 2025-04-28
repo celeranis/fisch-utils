@@ -1,0 +1,44 @@
+{{FishInfobox
+|image          = Crab Stud.png
+|rarity         = Limited
+|sea            = First Sea
+|location       = [[LEGO Event]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 200
+|weather        = 
+|time           = 
+|season         = 
+|bait           = Stud Bait
+|base_weight    = 8
+|base_value     = 450
+|weight_range   = 5.7
+|base_chance    = 65
+|base_resil     = 60
+}}
+'''Crab Stud''' is a {{Rarity|Limited}} fish found in [[LEGO Pool]]s.
+
+== Description ==
+{{Description|A feisty red crab with LEGO brick claws, ready to snap at anything.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Catchable during LEGO event.|Bestiary Hint}}
+{{Fish Availability|
+LEGO Pool
+|top_rods      = 
+Brick Built Rod\55369.03\55400.35
+|recommended   = 
+}}
+
+== Catch Quips ==
+When catching a Crab Stud, the player has a chance to make one of the following exclamations:
+* A Crab Stud!
+* Snappy!
+* Studded!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|LEGO Event}}

@@ -33,25 +33,25 @@ Free Spirit Rod\210978\279274.29;
 Trident Rod\199574.18\260852.17;
 Azure Of Lagoon\158347.34\208261.92;
 No-Life Rod\156525.09\226933.73;
-Midas Rod\58332.19\82026.77;
-Phoenix Rod\108737.09\142236.32;
-Wisdom Rod\108747.72\143191.01;
+Midas Rod\58640.54\82026.77;
+Phoenix Rod\115169.26\152665.7;
+Wisdom Rod\124635.03\165213.3;
 Magma Rod\87233.76\133462.68;
-Krampus's Rod\91396.93\135858.7;
+Krampus's Rod\91546.05\135858.7;
 Magnet Rod\62239.49\83074.18;
 Seraphic Rod\141487.97\182310.33;
 Ethereal Prism Rod\139979.67\180566.43;
 Challenger's Rod\135547.78\179119.3;
 Rod Of The Forgotten Fang\131731.77\170720.55;
-Zeus Rod\118065.24\152616.83;
+Depthseeker Rod\125803.95\164844.55;
+Rod Of The Exalted One\125319.81\162586.56;
+Blazebringer Rod\122000.02\161492.99;
+Rod Of The Depths\119249.42\155222.17;
+Zeus Rod\119191.38\155788.35;
 Verdant Shear Rod\117962.05\154356.81;
-Rod Of The Depths\116025.46\149649.97;
-Blazebringer Rod\113810.66\148772.76;
-Depthseeker Rod\112384.32\146569.81;
-Rod Of The Exalted One\111849.48\144714.29;
-Avalanche Rod\98885.89\127998.62;
-Volcanic Rod\92139.62\119443.46;
-Steady Rod\37392.11\48963.53
+Avalanche Rod\111842.3\146590.04;
+Volcanic Rod\106942.76\139778.86;
+Steady Rod\54106.98\71996.62
 |recommended   = Trident Rod
 }}
 

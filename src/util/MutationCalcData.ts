@@ -1,5 +1,5 @@
 import { Bait } from '../Bait.js'
-import { ZONE_DISPLAY } from '../Constants.js'
+import { DEV_MUTATIONS, ZONE_DISPLAY } from '../Constants.js'
 import { getFile } from '../DataParser.js'
 import { MutationsLibrary } from '../types/Mutations.js'
 
@@ -1033,6 +1033,34 @@ export const MUTATION_DATA: MutationDataEntry[] = [
 			}
 		],
 	},
+	{
+		mutation: "Easter",
+		chance: 10,
+		priority: MutationPriority.SpecialRods,
+		chance_type: 'percent',
+		allow_crates: false,
+		conditions: [
+			{
+				check: 'conditions',
+				property: 'rod',
+				values: ["Egg Rod"]
+			}
+		],
+	},
+	{
+		mutation: "LEGO",
+		chance: 5,
+		priority: MutationPriority.SpecialRods,
+		chance_type: 'percent',
+		allow_crates: false,
+		conditions: [
+			{
+				check: 'conditions',
+				property: 'rod',
+				values: ["Brick Built Rod"]
+			}
+		],
+	},
 	// bait
 	{
 		mutation: 'Aurora',
@@ -1144,15 +1172,6 @@ export const MUTATION_DATA: MutationDataEntry[] = [
 		
 		return data
 	})
-]
-
-export const DEV_MUTATIONS = [
-	"Mila's Magic",
-	'Red',
-	'Yellow',
-	'Green',
-	'Blue',
-	'Pink',
 ]
 
 export const MUTATION_MULTIPLIERS: Record<string, number> = {}

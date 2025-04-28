@@ -39,7 +39,7 @@ Heaven's Rod\3123.09\9231.43;
 Azure Of Lagoon\12558.31\37692.35;
 Krampus's Rod\-1080.11\-1080.11;
 Steady Rod\-1188.12\-1188.12;
-Crystalized Rod\-684.68\-684.68;
+Auric Rod\-1675.05\-1675.05;
 Ethereal Prism Rod\9225.85\27437.68;
 No-Life Rod\3784.67\11496.63;
 Rod Of The Forgotten Fang\3702.66\11135.53;

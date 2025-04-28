@@ -38,7 +38,6 @@ Heaven's Rod\365.79\770.2;
 Leviathan's Fang Rod\-18.55\-29.05;
 Rod Of The Forgotten Fang\454.04\990.54;
 No-Life Rod\343.53\765.05;
-Volcanic Rod\-67.25\-96.28;
 Zeus Rod\-105.43\-150.96
 |recommended   = Challenger's Rod
 }}

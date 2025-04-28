@@ -41,7 +41,7 @@ Sunstone Island/Crate Cave
 Terrapin Island/Olm Cave
 Terrapin Island/Surrounding Ocean
 |top_rods      = 
-Training Rod\119692.53\561847.51;
+Training Rod\119692.53\781700.88;
 Flimsy Rod\110672.54\787327.19;
 Fast Rod\77807.69\77807.69;
 No-Life Rod\76291.17\76291.17;

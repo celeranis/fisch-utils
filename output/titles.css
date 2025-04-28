@@ -1,4 +1,4 @@
-/* Last update: Version [[1.29]], place version 4322 */
+/* Last update: Version [[1.30]], place version 4322 */
 
 .playertitle {
 	font-family: 'Source Sans Pro', sans-serif;
@@ -263,6 +263,11 @@
 .playertitle-master-fischer {
 	--playertitle-color: #a5ff7b;
 	--playertitle-stroke-color: #293f28;
+}
+.playertitle-master-fisher {
+	--playertitle-color: #ff0000;
+	--playertitle-stroke-color: #282828;
+	font-weight: 700;
 }
 .playertitle-master-of-the-waters {
 	--playertitle-color: #5f02d1;

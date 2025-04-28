@@ -46,6 +46,7 @@ Glacial Grotto
 Golden Tide
 Grand Reef
 Keepers Altar
+LEGO Pool/Studalodon Hunt
 Lovestorm/Normal
 Lovestorm/Supercharged
 Lucky Event/Blarney McBreeze
@@ -75,7 +76,7 @@ Sunstone Island/Crate Cave
 Whale Migration/Moby
 Whale Migration/Normal
 |top_rods      = 
-Training Rod\232155.73\302941.97;
+Training Rod\232155.73\421883.11;
 Resourceful Rod\216472.65\311547.62;
 Flimsy Rod\213998.87\334735.65;
 Fast Rod\201795.21\201795.21;

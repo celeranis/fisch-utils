@@ -35,7 +35,7 @@ Ice Warpers Rod\127053.28\109029.66;
 Ethereal Prism Rod\126371.4\195752.06;
 Training Rod\109359.01\194705.81;
 Fortune Rod\70520.63\138686.36;
-Flimsy Rod\86478.31\78812.49;
+Flimsy Rod\94911.33\81447.33;
 Leviathan's Fang Rod\118854.94\135447.57;
 Kraken Rod\98273.86\119815.47;
 Avalanche Rod\121620.75\83596.69;

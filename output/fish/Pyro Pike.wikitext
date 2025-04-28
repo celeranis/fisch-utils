@@ -30,7 +30,7 @@
 Roslit Bay/Ashfall
 |top_rods      = 
 Flimsy Rod\319435.25\506254.92;
-Training Rod\263875.08\390724.57;
+Training Rod\284770.62\527206.83;
 Krampus's Rod\186460.76\588835.39;
 Magma Rod\178142.74\562567.4;
 Plastic Rod\164547.04\524165.46;
@@ -45,14 +45,14 @@ No-Life Rod\98030.44\122903.5;
 Free Spirit Rod\96765.65\114259.25;
 Rod Of The Forgotten Fang\92116.27\114331.87;
 Challenger's Rod\89341.66\111528.97;
+Rod Of The Exalted One\84665.53\109687.62;
 Rod Of The Depths\82965.1\101851.19;
 Zeus Rod\81596.05\103662.42;
-Rod Of The Exalted One\81387.73\100374.21;
 Verdant Shear Rod\80274.1\103395.7;
 Blazebringer Rod\77464.14\98413.1;
 Depthseeker Rod\73793.09\95496.73;
-Avalanche Rod\66594.26\86344.74;
-Volcanic Rod\63579.68\80773.81;
+Avalanche Rod\67461.71\86344.74;
+Volcanic Rod\66759.52\80773.81;
 Steady Rod\33373.61\27586.27
 |recommended   = Training Rod
 }}

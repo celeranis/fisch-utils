@@ -31,7 +31,7 @@ Azure Lagoon
 Krampus's Rod\135460.09\194793;
 Magma Rod\126835.8\197039.97;
 Frostfire Rod\126511.36\138439.94;
-Free Spirit Rod\126185.55\243464.5;
+Free Spirit Rod\126185.55\269283.07;
 Steady Rod\117329.09\128391.88;
 Firefly Rod\83037.18\237410.12;
 Adventurer's Rod\59069.83\218886.65;

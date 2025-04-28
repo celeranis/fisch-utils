@@ -1,4 +1,4 @@
--- Last update: Version [[1.29]], place version 4322
+-- Last update: Version [[1.30]], place version 4322
 
 return {
 	["Aurora Bait"] = "Mythical",
@@ -40,6 +40,7 @@ return {
 	["Shark Head"] = "Mythical",
 	["Shrimp"] = "Uncommon",
 	["Squid"] = "Unusual",
+	["Stud Bait"] = "Legendary",
 	["Super Flakes"] = "Rare",
 	["Toxic Jelly Core"] = "Legendary",
 	["Truffle Worm"] = "Legendary",

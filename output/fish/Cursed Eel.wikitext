@@ -31,25 +31,24 @@ Forsaken Shores/Surrounding Ocean
 Leviathan's Fang Rod\150605.99\161903.42;
 Free Spirit Rod\133929.17\135958.69;
 Trident Rod\127383.66\129314;
+Training Rod\126037.46\180401.52;
 Flimsy Rod\123356.53\161325.9;
 Krampus's Rod\112776.09\133321.9;
-Training Rod\106042.06\126158.05;
-Magma Rod\109884.4\129903.39;
 Buddy Bond Rod\74576.1\99723.86;
 No-Life Rod\109894.98\110583.49;
 Ethereal Prism Rod\109790.37\105292.42;
 Seraphic Rod\108509.98\106447.43;
 Rod Of The Forgotten Fang\99971.78\100037.22;
 Challenger's Rod\99676.36\102519.24;
-Rod Of The Depths\88634.53\87904.1;
+Rod Of The Exalted One\91024.46\96038;
+Rod Of The Depths\88634.53\89548.74;
 Zeus Rod\88067.58\89442.11;
 Verdant Shear Rod\86821.04\89034.63;
-Rod Of The Exalted One\86580.87\85359.21;
 Blazebringer Rod\84343.31\85659.72;
 Depthseeker Rod\81780.41\84145.88;
 Avalanche Rod\72765.61\74971.55;
-Volcanic Rod\68748.01\69821.01;
-Steady Rod\25852.74\24991.62
+Volcanic Rod\70278.06\71343.04;
+Steady Rod\32851.25\29342.68
 |recommended   = Trident Rod
 }}
 

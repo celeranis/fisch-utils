@@ -34,23 +34,23 @@ No-Life Rod\357233.47\25351.45;
 Seraphic Rod\346576.77\25155.66;
 Flimsy Rod\251795.57\21882.15;
 Training Rod\254545.45\25000;
-Rod Of The Eternal King\326313.62\18957.74;
-Nocturnal Rod\158025.33\131928.9;
+Rod Of The Eternal King\333507.24\18957.74;
+Nocturnal Rod\162404.38\131928.9;
 Egg Rod\326893.34\28588.9;
-Verdant Shear Rod\316857.82\27628.75;
-Abyssal Specter Rod\306852.25\26954.41;
-Blazebringer Rod\301174.55\26125.07;
-Resourceful Rod\281379.86\24132.28;
+Verdant Shear Rod\322576.39\27628.75;
+Abyssal Specter Rod\334105.33\26954.41;
+Blazebringer Rod\328290.59\26125.07;
+Resourceful Rod\328847.2\24132.28;
 Ethereal Prism Rod\341914.52\0;
 Challenger's Rod\337484.64\23042.76;
-Rod Of The Forgotten Fang\334757.8\22972.73;
-Rod Of The Exalted One\329063.98\19601.49;
-Rod Of The Depths\321581.28\20868.53;
-Zeus Rod\316205.05\25938.82;
-Depthseeker Rod\293395.64\25143.82;
-Volcanic Rod\283690.43\25328.58;
-Avalanche Rod\266378.8\22870.27;
-Steady Rod\130536.54\10400.67
+Rod Of The Forgotten Fang\336045.45\22972.73;
+Rod Of The Depths\333579.16\20868.53;
+Rod Of The Exalted One\332987.94\19601.49;
+Zeus Rod\326473.49\25938.82;
+Depthseeker Rod\323595.4\25143.82;
+Avalanche Rod\304460.06\22870.27;
+Volcanic Rod\294371.27\25328.58;
+Steady Rod\136079.97\11804.49
 |recommended   = Trident Rod
 }}
 

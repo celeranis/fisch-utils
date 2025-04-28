@@ -33,7 +33,7 @@ Tempest Rod\4877.72\14728.3;
 Challenger's Rod\4758.96\14867.61;
 Seraphic Rod\4649.52\13524.95;
 Ethereal Prism Rod\4630.83\12050.32;
-Abyssal Specter Rod\3940.42\12823.81;
+Abyssal Specter Rod\4127.98\13622.1;
 Destiny Rod\2867.68\6540.21;
 Heaven's Rod\3041.29\7234.44;
 Krampus's Rod\1741.77\6482.65;

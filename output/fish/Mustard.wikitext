@@ -26,6 +26,7 @@
 == Obtainment ==
 {{Fish Availability|
 Atlantis/Surrounding Ocean
+LEGO Pool/Studalodon Hunt
 Lucky Event/Blarney McBreeze
 Lucky Event/O'Mango Goldgrin
 Lucky Event/Plumrick O'Luck
@@ -45,20 +46,20 @@ Free Spirit Rod\1014.79\5034.38;
 No-Life Rod\994.36\4087;
 Flimsy Rod\741.69\3949.48;
 Training Rod\721.45\4184.91;
-Lucky Rod\641.62\3198.69;
+Lucky Rod\673.05\3198.69;
 Adventurer's Rod\538.96\2748.18;
 Seraphic Rod\991.12\3853.92;
 Rod Of The Forgotten Fang\928.16\3808.78;
-Challenger's Rod\903.87\3708.99;
-Rod Of The Depths\836.91\3589.79;
-Zeus Rod\826.64\3477.81;
-Rod Of The Exalted One\817.51\3613.37;
-Verdant Shear Rod\814.4\3499.41;
-Blazebringer Rod\784.91\3315.93;
-Depthseeker Rod\749.46\3275.46;
-Avalanche Rod\676.21\2972.38;
-Volcanic Rod\644.13\2750.58;
-Steady Rod\263.33\1282.17
+Challenger's Rod\903.87\3772.96;
+Rod Of The Exalted One\861.74\3625.85;
+Rod Of The Depths\836.91\3664.05;
+Zeus Rod\826.64\3730.32;
+Verdant Shear Rod\814.4\3623.32;
+Blazebringer Rod\784.91\3755.19;
+Depthseeker Rod\749.46\3571.6;
+Volcanic Rod\677.91\3363.13;
+Avalanche Rod\676.21\3332.06;
+Steady Rod\288.34\1282.17
 |recommended   = Trident Rod
 }}
 

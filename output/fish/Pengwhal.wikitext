@@ -30,15 +30,15 @@
 Animal Hunt/Second Sea
 |top_rods      = 
 Firefly Rod\146095.53\167577;
+Brick Built Rod\134536.61\141276.07;
 Trident Rod\129550.51\127996.88;
 Leviathan's Fang Rod\123292.45\82351.02;
 Wildflower Rod\122959.54\121240.28;
-Fungal Rod\121502.24\121502.24;
 Long Rod\119910.51\119910.51;
-Great Dreamer Rod\119341.04\120368.78;
-Adventurer's Rod\105436.29\111255.06;
-Candy Cane Rod\98107.11\102236.84;
-Plastic Rod\99237.3\102910.93;
+Fungal Rod\121502.24\121502.24;
+Adventurer's Rod\119677.99\117680.63;
+Buddy Bond Rod\112673.35\111121.06;
+Plastic Rod\112963.99\111182.28;
 Verdant Shear Rod\118404.77\116984.81;
 Free Spirit Rod\117737.75\83886.84;
 Blazebringer Rod\114391.45\95318.56;
@@ -53,7 +53,7 @@ Rod Of The Depths\98167.05\95453.64;
 Zeus Rod\97784.44\97461.43;
 Rod Of The Exalted One\96829.48\82262.5;
 Ethereal Prism Rod\95840.1\61911.36;
-Steady Rod\80566.68\80566.68
+Steady Rod\91400.34\91254.98
 |recommended   = Verdant Shear Rod
 }}
 

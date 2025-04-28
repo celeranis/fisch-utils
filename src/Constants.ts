@@ -15,6 +15,7 @@ export const DISPLAY_LOCATIONS = {
 	'Octophant': 'Animals: Octophant',
 	'Pine Shoal': 'Pine Shoals',
 	'Moosewood': 'Moosewood',
+	"Brickford's": 'LEGO Event',
 	
 	// override the display name of just "Blue Moon"
 	'Blue Moon - First Sea': 'Blue Moon - First Sea',
@@ -127,6 +128,9 @@ export const ZONE_DISPLAY: Record<string, string> = {
 	
 	'Blue Moon - First Sea': 'Blue Moon/First Sea',
 	'Blue Moon - Second Sea': 'Blue Moon/Second Sea',
+	
+	'LEGO': 'LEGO Pool',
+	'LEGO - Studolodon': 'LEGO Pool/Studalodon Hunt',
 }
 
 /**
@@ -184,6 +188,8 @@ export const locationRefer = {
 	
 	'Blue Moon - First Sea': '[[Blue Moon]] events at [[Snowcap Island]]',
 	'Blue Moon - Second Sea': '[[Blue Moon]] events at [[Lushgrove]]',
+	
+	'LEGO Event': '[[LEGO Pool]]s',
 }
 
 /**
@@ -193,7 +199,8 @@ export const EVENT_MAP = {
 	'Octophant': 'Animal Hunt',
 	'Animals: Octophant': 'Animal Hunt',
 	'Animals': 'Animal Hunt',
-	'Animals - Sea 2': 'Animal Hunt'
+	'Animals - Sea 2': 'Animal Hunt',
+	'LEGO Event': 'LEGO Event',
 }
 
 /**
@@ -417,6 +424,7 @@ export const DEV_OVERRIDES = {
 	// not marked as DEV, but should be
 	'Developers Rod': true,
 	'Executive Rod': true,
+	'Superstar Rod': true,
 
 	// unused
 	'Frostbane Rod': true,
@@ -535,4 +543,26 @@ export const DEV_TITLE_HASHES = [
 	'648ab88a7ccde4b120e6f58d3efb41d92472676a',
 	'28f00eb09ae1db44f7ac21eae85fe262d4545c81',
 	'31aa039fcdf85aac567c630bd9822d8fbe240067',
+]
+
+/**
+ * Bait names that should be excluded from script output for now.
+ */
+export const IGNORE_BAIT = [
+	'Colossal Ink Bait',
+	'Hourglass Bait',
+]
+
+/**
+ * Mutations that should be excluded from script output for now.
+ */
+export const DEV_MUTATIONS = [
+	"Mila's Magic",
+	'Red',
+	'Yellow',
+	'Green',
+	'Blue',
+	'Pink',
+	'Colossal Ink',
+	'Neon',
 ]

@@ -26,6 +26,7 @@
 == Obtainment ==
 {{Fish Availability|
 Atlantis/Surrounding Ocean
+LEGO Pool/Studalodon Hunt
 Lucky Event/Blarney McBreeze
 Lucky Event/O'Mango Goldgrin
 Lucky Event/Plumrick O'Luck
@@ -45,20 +46,20 @@ Seraphic Rod\972.72\3788.47;
 No-Life Rod\972.17\3975.12;
 Flimsy Rod\729.71\3885.37;
 Training Rod\707.2\4101.96;
-Lucky Rod\644.23\3211.44;
+Lucky Rod\664.02\3211.44;
 Free Spirit Rod\941.4\4669.97;
 Adventurer's Rod\530.07\2702.65;
 Rod Of The Forgotten Fang\911.6\3694.64;
-Challenger's Rod\887.23\3640.64;
-Rod Of The Depths\822.73\3577.47;
-Zeus Rod\812.5\3421.39;
-Rod Of The Exalted One\803.46\3579.53;
-Verdant Shear Rod\800.58\3444.26;
-Blazebringer Rod\771.23\3260.67;
-Depthseeker Rod\735.91\3216.83;
-Avalanche Rod\664.48\2923.6;
-Volcanic Rod\633.09\2706.1;
-Steady Rod\258.92\1260.58
+Challenger's Rod\887.23\3702.57;
+Rod Of The Exalted One\847.79\3579.53;
+Rod Of The Depths\822.73\3607.26;
+Zeus Rod\812.5\3669.85;
+Verdant Shear Rod\800.58\3566.56;
+Blazebringer Rod\771.23\3692.56;
+Depthseeker Rod\735.91\3506.66;
+Volcanic Rod\667.03\3308.92;
+Avalanche Rod\664.81\3277.31;
+Steady Rod\283.04\1260.58
 |recommended   = Ethereal Prism Rod
 }}
 

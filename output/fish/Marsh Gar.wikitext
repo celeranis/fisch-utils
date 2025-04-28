@@ -32,6 +32,7 @@ Magma Rod\248219.87\271327.01;
 Plastic Rod\225728.29\248239.42;
 Leviathan's Fang Rod\209192.92\193706.05;
 Trident Rod\180305.78\181068.09;
+Buddy Bond Rod\167536.13\219380.59;
 Fast Rod\151125.54\263942.34;
 Fischer's Rod\132307.3\232733.3;
 Free Spirit Rod\169139.13\169854.22;
@@ -40,15 +41,15 @@ No-Life Rod\145667.81\123858.58;
 Seraphic Rod\145146.65\121045.63;
 Rod Of The Forgotten Fang\135639.52\112376.15;
 Challenger's Rod\131520.01\111687.96;
-Rod Of The Depths\121788.16\101050.6;
-Rod Of The Exalted One\119773.53\103627.23;
-Zeus Rod\119607.59\103146.66;
+Rod Of The Exalted One\123356.1\109671.25;
+Rod Of The Depths\121788.16\108431.82;
+Zeus Rod\119607.59\107673;
 Verdant Shear Rod\117521.98\102715.91;
-Blazebringer Rod\113637.1\98419.57;
+Blazebringer Rod\113637.1\108474.54;
 Depthseeker Rod\108319.03\96305.1;
-Avalanche Rod\97549.52\86967.75;
-Volcanic Rod\93200.48\81554.68;
-Steady Rod\41124.74\29303.8
+Avalanche Rod\97549.52\87276.81;
+Volcanic Rod\96624.49\97033.01;
+Steady Rod\42816.21\30910.2
 |recommended   = Trident Rod
 }}
 

@@ -30,6 +30,7 @@ Atlantis/Surrounding Ocean
 FischFright/Frightful Pool
 Forsaken Shores/Algae Hunt
 Golden Tide
+LEGO Pool/Studalodon Hunt
 Lovestorm/Normal
 Lovestorm/Supercharged
 Lucky Event/Blarney McBreeze
@@ -63,25 +64,26 @@ Trident Rod\217198.65\18387.34;
 Free Spirit Rod\214569.97\18360.05;
 No-Life Rod\212068.95\36161.07;
 Seraphic Rod\207983.03\26220.99;
-Resourceful Rod\166094.45\31350.77;
-Destiny Rod\195175.27\18552.51;
+Resourceful Rod\186694.12\31350.77;
+Destiny Rod\198162.62\18552.51;
 Heaven's Rod\189378.53\0;
-Nocturnal Rod\118883.68\121281.51;
-Riptide Rod\175284.05\40499.18;
+Nocturnal Rod\118883.68\144042.67;
+Brother's Rod\182270.22\42113.33;
+Riptide Rod\186865.9\40499.18;
 Fast Rod\172686.48\38191.6;
-Challenger's Rod\195138.57\37282.26;
-Tempest Rod\205079.99\37131.47;
+Celestial Rod\184174.84\37290.93;
 Frog Rod\158352.4\31882.39;
 Ethereal Prism Rod\206688.66\0;
 Rod Of The Forgotten Fang\198006.29\23722.58;
-Rod Of The Exalted One\187083.12\0;
-Rod Of The Depths\183983.62\21146.88;
-Zeus Rod\180811\29844.02;
-Verdant Shear Rod\179528.59\34183.22;
-Blazebringer Rod\172501.83\32490.9;
-Depthseeker Rod\168304.78\27843.02;
-Volcanic Rod\166621.26\25124.29;
-Avalanche Rod\166354.2\24067.61;
+Rod Of The Exalted One\195333.8\0;
+Challenger's Rod\195138.57\37282.26;
+Rod Of The Depths\190795.77\21146.88;
+Blazebringer Rod\186684.85\32490.9;
+Zeus Rod\185748.43\29844.02;
+Depthseeker Rod\184973.31\27843.02;
+Verdant Shear Rod\184089.51\34183.22;
+Avalanche Rod\174676.66\24067.61;
+Volcanic Rod\167476.12\25124.29;
 Training Rod\141963.01\18379.42;
 Steady Rod\82111.54\13030.09
 |recommended   = Trident Rod

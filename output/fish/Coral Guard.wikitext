@@ -32,6 +32,7 @@ Magma Rod\150211.1\159140.62;
 Plastic Rod\137192.73\145348.36;
 Leviathan's Fang Rod\122774.97\112937.87;
 Ethereal Prism Rod\115312.86\92494.21;
+Buddy Bond Rod\101914.6\135097;
 Fast Rod\114064.42\166359.8;
 Fischer's Rod\101302.11\147746.31;
 Adventurer's Rod\100622.23\146754.72;
@@ -42,18 +43,22 @@ Trident Rod\110171.84\107110.13;
 Free Spirit Rod\107891.33\104892.99;
 Rod Of The Forgotten Fang\105706.79\90488.19;
 Challenger's Rod\103279.07\90294.92;
-Rod Of The Depths\95682.89\86056.82;
-Zeus Rod\95007.23\84041.72;
-Verdant Shear Rod\93843.42\83754.18;
-Rod Of The Exalted One\92973.33\87199.33;
-Blazebringer Rod\90141.79\80293.48;
-Depthseeker Rod\86221.63\77747.51;
-Avalanche Rod\77943.72\70660.48;
-Volcanic Rod\76102.56\67843.55;
-Training Rod\64615.38\98070.86;
-Steady Rod\32545.63\26191.63
+Rod Of The Exalted One\100167.03\89631.19;
+Rod Of The Depths\95682.89\88659.45;
+Zeus Rod\95007.23\87366;
+Verdant Shear Rod\93843.42\86899.14;
+Blazebringer Rod\90363.5\87852.27;
+Depthseeker Rod\87696.13\87576.38;
+Avalanche Rod\82514.53\82639.43;
+Volcanic Rod\81027.05\78775.28;
+Training Rod\68343.51\110169.85;
+Steady Rod\36323.16\33998.49
 |recommended   = Ethereal Prism Rod
 }}
+
+== Catch Quips ==
+When catching a Coral Guard, the player has a chance to make one of the following exclamations:
+* Ya think he's strong?
 
 == Change History ==
 {{Change History|{{subst:Current Version}}}}

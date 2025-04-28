@@ -25,6 +25,10 @@
 == Obtainment ==
 {{Description|From catching Clams.|Bestiary Hint}}
 
+== Catch Quips ==
+When catching a Golden Sea Pearl, the player has a chance to make one of the following exclamations:
+* Golden... So.. SHINY
+
 == Change History ==
 {{Change History|{{subst:Current Version}}}}
 

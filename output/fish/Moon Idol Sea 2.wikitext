@@ -29,27 +29,26 @@
 Blue Moon/Second Sea
 |top_rods      = 
 Egg Rod\518.02\9902.91;
+Free Spirit Rod\497.25\9165.45;
 Verdant Shear Rod\496.93\9499.55;
 Great Dreamer Rod\489.74\9300.97;
 Blazebringer Rod\487.26\9135.9;
-Free Spirit Rod\475.4\8728.3;
-Resourceful Rod\383.78\6465.57;
-Destiny Rod\339.21\6231;
-Firefly Rod\461.62\9130.76;
+Resourceful Rod\388.51\6465.57;
+Destiny Rod\364.12\6231;
+Ethereal Prism Rod\353.17\6366.11;
+Trident Rod\344.58\6552.85;
 Seraphic Rod\343.79\6572.03;
-Trident Rod\342.78\6552.85;
-Ethereal Prism Rod\342.73\6366.11;
+Rod Of The Exalted One\322.59\5957.57;
 Challenger's Rod\321.84\6323.68;
 No-Life Rod\319.19\6293.97;
-Rod Of The Exalted One\315.73\5957.57;
-Rod Of The Forgotten Fang\315.67\6054.75;
+Rod Of The Forgotten Fang\315.93\6054.75;
 Rod Of The Depths\305.8\5925.13;
 Depthseeker Rod\291.68\5769.35;
 Volcanic Rod\291.26\5806.27;
 Avalanche Rod\289.5\5705.97;
 Zeus Rod\287.1\5723.33;
 Steady Rod\272.4\5065.23
-|recommended   = Verdant Shear Rod
+|recommended   = Free Spirit Rod
 }}
 
 == Gameplay Notes ==

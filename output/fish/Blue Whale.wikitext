@@ -34,12 +34,11 @@ Challenger's Rod\15036.19\28176.57;
 Seraphic Rod\14966.8\27206.94;
 Ethereal Prism Rod\14305.4\25221;
 No-Life Rod\12452.41\23429.49;
-Abyssal Specter Rod\12271.82\23380.84;
+Abyssal Specter Rod\12271.82\24700.02;
 Heaven's Rod\9345.23\16171.11;
 Leviathan's Fang Rod\12101.25\21545.72;
 Rod Of The Forgotten Fang\11872.49\21660.28;
-Zeus Rod\8025.51\15290.59;
-Volcanic Rod\6442.7\12274.94
+Zeus Rod\8025.51\15290.59
 |recommended   = Challenger's Rod
 }}
 

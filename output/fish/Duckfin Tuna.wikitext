@@ -35,7 +35,7 @@ Free Spirit Rod\116514.07\78223;
 Ethereal Prism Rod\113205.19\189737.46;
 Azure Of Lagoon\112395.92\75307.46;
 Kraken Rod\91542.31\129973.39;
-Plastic Rod\78088.28\78088.28;
+Plastic Rod\90145.7\90707.47;
 No-Life Rod\110599.03\109855.55;
 Seraphic Rod\108270.8\108270.8;
 Fortune Rod\67511.4\90841.04;

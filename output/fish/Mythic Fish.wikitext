@@ -29,6 +29,7 @@
 Ancient Isle/Algae Hunt
 Atlantis/Surrounding Ocean
 Forsaken Shores/Algae Hunt
+LEGO Pool/Studalodon Hunt
 Lovestorm/Normal
 Lovestorm/Supercharged
 Lucky Event/Blarney McBreeze
@@ -53,26 +54,26 @@ Whale Migration/Normal
 Leviathan's Fang Rod\31683.32\158253.7;
 Ethereal Prism Rod\29022.32\115472.98;
 Seraphic Rod\28391.15\119888.15;
-No-Life Rod\27906.96\123100.43;
+No-Life Rod\27906.96\123504.24;
 Trident Rod\27291.97\154363.71;
 Flimsy Rod\15567.37\89487.19;
-Resourceful Rod\21818.68\92063.34;
-Destiny Rod\22815.7\95840.75;
+Resourceful Rod\21818.68\109822.56;
+Destiny Rod\24815.05\104802.37;
 Free Spirit Rod\26699.33\151011.78;
 Rapid Rod\24023.23\122740.4;
 Training Rod\15698.87\95786.15;
-Lucky Rod\15335.08\81161.49;
+Lucky Rod\17243.01\89087.35;
 Rod Of The Forgotten Fang\26123.73\114997.47;
-Challenger's Rod\25824.48\116886.83;
-Rod Of The Depths\23167.03\102853.6;
-Rod Of The Exalted One\22816.57\101757.47;
-Zeus Rod\22666.04\103706.16;
-Verdant Shear Rod\22298.87\103883.97;
-Blazebringer Rod\21723.18\100020.72;
-Depthseeker Rod\20855.81\99767.98;
-Avalanche Rod\18626.3\88998.52;
-Volcanic Rod\17715.99\82258.67;
-Steady Rod\6495.47\33460.43
+Challenger's Rod\25824.48\118282.19;
+Rod Of The Exalted One\23300.32\109701.49;
+Rod Of The Depths\23167.03\109262.25;
+Zeus Rod\22666.04\110134.77;
+Verdant Shear Rod\22298.87\104698.87;
+Blazebringer Rod\21723.18\112209.05;
+Depthseeker Rod\20855.81\104864.57;
+Avalanche Rod\18626.3\95577.62;
+Volcanic Rod\17715.99\99565.78;
+Steady Rod\7381.33\33460.43
 |recommended   = Ethereal Prism Rod
 }}
 

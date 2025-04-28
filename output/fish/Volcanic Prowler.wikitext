@@ -35,7 +35,7 @@ Brother's Rod\93183.38\8703.53;
 Wildflower Rod\91232.13\8635.47;
 Resourceful Rod\73248.95\7873.52;
 Free Spirit Rod\76613.95\8082.22;
-Voyager Rod\77807.69\7612;
+Voyager Rod\80150.93\7841.24;
 Nocturnal Rod\40898.52\40616.07;
 Egg Rod\90215.01\9126.73;
 Verdant Shear Rod\86992.7\8800.74;
@@ -48,7 +48,7 @@ Zeus Rod\76596.93\7447.01;
 Seraphic Rod\75821.97\5472.43;
 Rod Of The Depths\74264.31\5131.64;
 Rod Of The Forgotten Fang\72995.75\5180.96;
-Steady Rod\64798.01\6555.38;
+Steady Rod\65249.68\6555.38;
 Rod Of The Exalted One\62262.4\5143.38;
 Ethereal Prism Rod\61155.4\5421.74
 |recommended   = Verdant Shear Rod

@@ -27,7 +27,7 @@
 {{Fish Availability|
 Crypt of the Green One
 |top_rods      = 
-Flimsy Rod\94687.5\77471.59
+Flimsy Rod\94687.5\89062.5
 |recommended   = 
 }}
 

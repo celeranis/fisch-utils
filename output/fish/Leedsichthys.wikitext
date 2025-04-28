@@ -28,28 +28,28 @@
 {{Fish Availability|
 Ancient Isle/Waterfall
 |top_rods      = 
-Leviathan's Fang Rod\82048.23\660032.61;
-Trident Rod\68790.33\485876.38;
-Ethereal Prism Rod\66784.1\397020.24;
-Free Spirit Rod\65369.59\461715.21;
-Seraphic Rod\64299.03\398980.21;
-Resourceful Rod\51205.56\325323.93;
-Destiny Rod\53557.87\344348.7;
-Heaven's Rod\47723.72\365611.39;
-No-Life Rod\63145.24\434090.31;
-Rod Of The Depths\53380.18\354046.98;
-Rod Of The Zenith\56941.77\362383.28;
-Rod Of The Forgotten Fang\59806.24\390758.58;
-Challenger's Rod\57401.05\397353.61;
-Rod Of The Exalted One\52858.19\336236.89;
-Zeus Rod\51149.47\347022.42;
-Verdant Shear Rod\49769.63\347478.85;
-Blazebringer Rod\48697.96\330390.16;
-Depthseeker Rod\45902.58\323663.47;
-Avalanche Rod\41182.03\291543.04;
-Volcanic Rod\39882.63\271024.88;
-Steady Rod\12967\97665.41
-|recommended   = Trident Rod
+Leviathan's Fang Rod\101149.54\894543.84;
+Ethereal Prism Rod\86386.77\541031.53;
+Seraphic Rod\82410.19\545344.18;
+Trident Rod\79953.57\611895.3;
+No-Life Rod\79924.81\591199.59;
+Resourceful Rod\66750.02\442489.22;
+Destiny Rod\72478.75\502175.18;
+Heaven's Rod\64756.36\497663.04;
+Free Spirit Rod\75977.73\598043.24;
+Rod Of The Depths\68122.69\481796.14;
+Rod Of The Zenith\72903.23\492778.74;
+Rod Of The Forgotten Fang\76570.64\534401.55;
+Challenger's Rod\72775.37\541323.42;
+Rod Of The Exalted One\68029.45\523627.96;
+Zeus Rod\64415.54\471104.72;
+Verdant Shear Rod\62357.42\471999.05;
+Blazebringer Rod\61328.2\448525.39;
+Depthseeker Rod\57413.04\439739.36;
+Avalanche Rod\51473.04\396132.61;
+Volcanic Rod\50226.54\367333.11;
+Steady Rod\17028.53\132905.57
+|recommended   = Ethereal Prism Rod
 }}
 
 == Catch Quips ==

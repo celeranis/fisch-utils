@@ -35,13 +35,13 @@ Roslit Bay/Surrounding Ocean
 Terrapin Island/Olm Cave
 Terrapin Island/Surrounding Ocean
 |top_rods      = 
-Fast Rod\102609.64\420953.04;
-Fischer's Rod\101475.25\372218.54;
-Adventurer's Rod\100897.59\370099.65;
-Training Rod\76324.46\446374.95;
-Flimsy Rod\75295.79\467818.71;
-Buddy Bond Rod\64582.05\408812.5;
-Ethereal Prism Rod\44169.77\73440.34;
+Fast Rod\102694.51\422385.02;
+Fischer's Rod\101569.13\373484.74;
+Adventurer's Rod\100990.93\371358.64;
+Training Rod\92120.99\599998.85;
+Flimsy Rod\75365.45\469966.09;
+Buddy Bond Rod\64622.81\410451.4;
+Ethereal Prism Rod\44169.77\73462.01;
 No-Life Rod\43873.49\43873.49;
 Seraphic Rod\43638.87\43638.87;
 Challenger's Rod\39943.21\39943.21;

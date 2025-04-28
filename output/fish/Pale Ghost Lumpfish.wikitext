@@ -29,21 +29,21 @@
 Blue Moon/First Sea
 |top_rods      = 
 Training Rod\346153.85\346153.85;
-Flimsy Rod\267444.1\269187.76;
+Flimsy Rod\294490.67\294490.67;
 Leviathan's Fang Rod\177635.81\107752.63;
 Trident Rod\174253.12\124814.88;
 Free Spirit Rod\167817.79\120205.35;
-Resourceful Rod\129099.93\130963.14;
+Resourceful Rod\134079.66\130963.14;
 Azure Of Lagoon\153660.59\160880.57;
 No-Life Rod\151537.88\158901.23;
 Zeus Rod\136081.07\157409;
 The Lost Rod\134426.58\136949.65;
 Challenger's Rod\138978.92\151424.91;
 Seraphic Rod\137128.53\135759.11;
+Depthseeker Rod\136837.54\135715.54;
 Rod Of The Forgotten Fang\136174.94\122652.14;
-Depthseeker Rod\135949.69\135715.54;
-Blazebringer Rod\134802.78\149799.08;
-Verdant Shear Rod\134695.47\141787.64;
+Verdant Shear Rod\135448.99\141787.64;
+Blazebringer Rod\135214.41\149799.08;
 Avalanche Rod\134414.58\134185.49;
 Ethereal Prism Rod\134137.85\44701.7;
 Rod Of The Depths\133774.64\126351.62;

@@ -5,6 +5,7 @@
 |location       = [[Emberreach]]
 |sublocation    = 
 |sources        = Fishing Rod
+|nopassive      = 1
 |radar_location = 
 |prog_speed     = -85
 |xp             = 6000
@@ -28,7 +29,7 @@
 {{Fish Availability|
 Emberreach/Volcano
 |top_rods      = 
-Free Spirit Rod\1071.92\28607.43;
+Free Spirit Rod\1071.92\34027.84;
 Azure Of Lagoon\940.78\27920.24;
 Egg Rod\932.52\28742.98;
 Blazebringer Rod\884.69\26338.17;
@@ -51,6 +52,10 @@ Volcanic Rod\464.46\15430.69;
 Zeus Rod\444.25\14759.11
 |recommended   = Free Spirit Rod
 }}
+
+== Gameplay Notes ==
+* Molten Ripple usually cannot be caught with passive effects, such as the one provided by the [[Rod Of The Depths]] and [[Rod Of The Forgotten Fang]].
+** The only exception is when catching a Molten Ripple on the Megalodon Passive reel of the [[Rod Of The Forgotten Fang]], the Megalodon will instead dupe the Molten Ripple.
 
 == Catch Quips ==
 When catching a Molten Ripple, the player has a chance to make one of the following exclamations:

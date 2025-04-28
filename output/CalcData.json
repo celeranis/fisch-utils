@@ -4,18 +4,18 @@
 			"name": "Ancient Archives",
 			"display": "Ancient Archives",
 			"fish": [
-				"Seaweed",
-				"Common Crate",
+				"Tire",
 				"Boot",
-				"Amblypterus",
-				"Diplurus",
-				"Palaeoniscum",
-				"Lepidotes",
-				"Phanerorhynchus",
+				"Common Crate",
 				"Bait Crate",
-				"Birgeria",
 				"Fish Barrel",
-				"Tire"
+				"Seaweed",
+				"Palaeoniscum",
+				"Birgeria",
+				"Phanerorhynchus",
+				"Diplurus",
+				"Lepidotes",
+				"Amblypterus"
 			],
 			"can_lucky": false,
 			"sea": "First Sea",
@@ -29,40 +29,41 @@
 			"name": "Ancient Isle/Algae Hunt",
 			"display": "Ancient Isle — Algae Hunt",
 			"fish": [
-				"Halibut",
-				"Coelacanth",
-				"Sea Pickle",
-				"Seaweed",
-				"Sea Bass",
-				"Sailfish",
-				"Mythic Fish",
-				"Sardine",
-				"Dolphin",
-				"Mullet",
-				"Common Crate",
-				"Oarfish",
-				"Anglerfish",
-				"Moonfish",
-				"Colossal Squid",
-				"Flying Fish",
-				"Bait Crate",
-				"Amberjack",
 				"Tire",
-				"Stingray",
-				"Ancient Algae",
-				"Cod",
-				"Yellowfin Tuna",
-				"Sawfish",
-				"Quality Bait Crate",
-				"Mackerel",
-				"Crown Bass",
 				"Boot",
-				"Bluefin Tuna",
+				"Common Crate",
+				"Seaweed",
 				"Carbon Crate",
-				"Barracuda",
-				"Swordfish",
+				"Quality Bait Crate",
+				"Common Crate",
+				"Bait Crate",
+				"Mackerel",
+				"Cod",
+				"Amberjack",
+				"Sardine",
+				"Halibut",
 				"Salmon",
-				"Chinook Salmon"
+				"Mullet",
+				"Bluefin Tuna",
+				"Yellowfin Tuna",
+				"Barracuda",
+				"Sea Bass",
+				"Chinook Salmon",
+				"Sea Pickle",
+				"Swordfish",
+				"Anglerfish",
+				"Coelacanth",
+				"Sailfish",
+				"Stingray",
+				"Sawfish",
+				"Moonfish",
+				"Dolphin",
+				"Flying Fish",
+				"Colossal Squid",
+				"Oarfish",
+				"Crown Bass",
+				"Mythic Fish",
+				"Ancient Algae"
 			],
 			"no_wormhole": true,
 			"can_lucky": false,
@@ -75,14 +76,14 @@
 			"display": "Ancient Isle — Freshwater Pond",
 			"fish": [
 				"Log",
+				"Piranha",
+				"Cladoselache",
+				"Anomalocaris",
 				"Xiphactinus",
 				"Hyneria",
-				"Anomalocaris",
 				"Hallucigenia",
-				"Banana",
 				"Floppy",
-				"Cladoselache",
-				"Piranha"
+				"Banana"
 			],
 			"can_lucky": false,
 			"sea": "First Sea",
@@ -107,32 +108,32 @@
 			"name": "Ancient Isle/Surrounding Ocean",
 			"display": "Ancient Isle — Surrounding Ocean",
 			"fish": [
-				"Mullet",
-				"Common Crate",
-				"Colossal Squid",
-				"Starfish",
-				"Fish Barrel",
-				"Mosasaurus",
-				"Carbon Crate",
-				"Meg's Spine",
-				"Onychodus",
 				"Tire",
-				"Meg's Fang",
-				"Ancient Fragment",
-				"Banana",
-				"Cod",
-				"Piranha",
-				"Sea Bass",
-				"Dunkleosteus",
-				"Ginsu Shark",
-				"Acanthodii",
-				"Anomalocaris",
-				"Helicoprion",
-				"Hyneria",
-				"Xiphactinus",
+				"Carbon Crate",
+				"Common Crate",
 				"Bait Crate",
+				"Fish Barrel",
+				"Cod",
+				"Sardine",
+				"Sea Bass",
+				"Mullet",
+				"Piranha",
+				"Anomalocaris",
+				"Starfish",
+				"Onychodus",
+				"Acanthodii",
+				"Xiphactinus",
+				"Hyneria",
 				"Cobia",
-				"Sardine"
+				"Ginsu Shark",
+				"Dunkleosteus",
+				"Colossal Squid",
+				"Helicoprion",
+				"Mosasaurus",
+				"Banana",
+				"Ancient Fragment",
+				"Meg's Fang",
+				"Meg's Spine"
 			],
 			"can_lucky": false,
 			"sea": "First Sea",
@@ -178,15 +179,14 @@
 			"display": "Ancient Isle — Waterfall",
 			"fish": [
 				"Log",
-				"Xiphactinus",
-				"Leedsichthys",
-				"Hyneria",
-				"Anomalocaris",
-				"Hallucigenia",
-				"Banana",
-				"Palaeoniscum",
+				"Piranha",
 				"Cladoselache",
-				"Piranha"
+				"Anomalocaris",
+				"Xiphactinus",
+				"Hyneria",
+				"Hallucigenia",
+				"Leedsichthys",
+				"Banana"
 			],
 			"can_lucky": false,
 			"sea": "First Sea",
@@ -211,16 +211,16 @@
 			"name": "Animal Hunt/First Sea",
 			"display": "Animal Hunt — First Sea",
 			"fish": [
-				"Piranhamunk",
+				"Cluckfin",
+				"Zebrafishlet",
+				"Piglet Pike",
 				"Squirrelray",
 				"Duckfin Tuna",
-				"Piglet Pike",
 				"Porcufish",
-				"Zebrafishlet",
-				"Mained Lionfish",
+				"Piranhamunk",
 				"Salmoose",
-				"Seacow",
-				"Cluckfin"
+				"Mained Lionfish",
+				"Seacow"
 			],
 			"no_wormhole": true,
 			"can_lucky": false,
@@ -233,14 +233,14 @@
 			"display": "Animal Hunt — Second Sea",
 			"fish": [
 				"Minnowse",
-				"Capybass",
-				"Racuda",
-				"Pengwhal",
-				"Krabbit",
 				"Kittyfish",
-				"Crocokoi",
 				"Parrotfish",
-				"Siren Sheep"
+				"Pengwhal",
+				"Racuda",
+				"Crocokoi",
+				"Krabbit",
+				"Siren Sheep",
+				"Capybass"
 			],
 			"no_wormhole": true,
 			"can_lucky": false,
@@ -252,24 +252,25 @@
 			"name": "Atlantis/Ancient Kraken Hunt",
 			"display": "Atlantis — Ancient Kraken Hunt",
 			"fish": [
-				"Eldritch Horror",
-				"Common Crate",
-				"Boot",
-				"Tentacle Eel",
-				"Carbon Crate",
-				"Abyssal Devourer",
-				"Shadowfang Snapper",
 				"Tire",
-				"Deep One",
+				"Boot",
+				"Common Crate",
 				"Seaweed",
-				"Abyssal King",
-				"Kraken's Herald",
+				"Carbon Crate",
 				"Quality Bait Crate",
-				"The Kraken",
-				"Ancient Kraken",
+				"Common Crate",
+				"Bait Crate",
+				"Shadowfang Snapper",
 				"Tentacled Horror",
+				"Tentacle Eel",
+				"Deep One",
+				"Eldritch Horror",
+				"Kraken's Herald",
+				"Abyssal King",
 				"Void Emperor",
-				"Bait Crate"
+				"Abyssal Devourer",
+				"The Kraken",
+				"Ancient Kraken"
 			],
 			"no_wormhole": true,
 			"can_lucky": false,
@@ -281,27 +282,28 @@
 			"name": "Atlantis/Ethereal Abyss",
 			"display": "Atlantis — Ethereal Abyss",
 			"fish": [
-				"Echo Fisher",
-				"Common Crate",
-				"Boot",
-				"Atlantean Sardine",
-				"Temple Drifter",
-				"Bait Crate",
 				"Tire",
-				"Oracle's Eye",
-				"Mosaic Swimmer",
-				"Aqua Scribe",
-				"Column Crawler",
-				"Chronos Deep Swimmer",
-				"Quality Bait Crate",
-				"Mage Marlin",
-				"King Jellyfish",
+				"Boot",
+				"Common Crate",
 				"Seaweed",
+				"Carbon Crate",
+				"Quality Bait Crate",
+				"Common Crate",
+				"Bait Crate",
+				"Column Crawler",
+				"Atlantean Sardine",
+				"Neptune's Nibbler",
+				"Aqua Scribe",
+				"Temple Drifter",
+				"Mosaic Swimmer",
+				"Echo Fisher",
+				"Oracle's Eye",
+				"Siren Singer",
+				"Chronos Deep Swimmer",
 				"Voidscale Guppy",
 				"Starlit Weaver",
-				"Siren Singer",
-				"Neptune's Nibbler",
-				"Carbon Crate"
+				"Mage Marlin",
+				"King Jellyfish"
 			],
 			"can_lucky": false,
 			"sea": "First Sea",
@@ -315,23 +317,24 @@
 			"name": "Atlantis/Kraken Hunt",
 			"display": "Atlantis — Kraken Hunt",
 			"fish": [
-				"Eldritch Horror",
-				"Common Crate",
-				"Boot",
-				"Tentacle Eel",
-				"Carbon Crate",
-				"Abyssal Devourer",
-				"Shadowfang Snapper",
 				"Tire",
-				"Deep One",
+				"Boot",
+				"Common Crate",
 				"Seaweed",
-				"Abyssal King",
-				"Kraken's Herald",
+				"Carbon Crate",
 				"Quality Bait Crate",
-				"The Kraken",
+				"Common Crate",
+				"Bait Crate",
+				"Shadowfang Snapper",
 				"Tentacled Horror",
+				"Tentacle Eel",
+				"Deep One",
+				"Eldritch Horror",
+				"Kraken's Herald",
+				"Abyssal King",
 				"Void Emperor",
-				"Bait Crate"
+				"Abyssal Devourer",
+				"The Kraken"
 			],
 			"no_wormhole": true,
 			"can_lucky": false,
@@ -343,22 +346,23 @@
 			"name": "Atlantis/Kraken Pool",
 			"display": "Atlantis — Kraken Pool",
 			"fish": [
-				"Deep One",
-				"Seaweed",
-				"Abyssal Devourer",
-				"Common Crate",
+				"Tire",
 				"Boot",
-				"Tentacle Eel",
-				"Quality Bait Crate",
-				"Void Emperor",
-				"Abyssal King",
-				"Kraken's Herald",
-				"Eldritch Horror",
-				"Bait Crate",
+				"Common Crate",
+				"Seaweed",
 				"Carbon Crate",
-				"Tentacled Horror",
+				"Quality Bait Crate",
+				"Common Crate",
+				"Bait Crate",
 				"Shadowfang Snapper",
-				"Tire"
+				"Tentacled Horror",
+				"Tentacle Eel",
+				"Deep One",
+				"Eldritch Horror",
+				"Kraken's Herald",
+				"Abyssal King",
+				"Void Emperor",
+				"Abyssal Devourer"
 			],
 			"can_lucky": false,
 			"sea": "First Sea",
@@ -372,23 +376,24 @@
 			"name": "Atlantis/Poseidon Temple",
 			"display": "Atlantis — Poseidon Temple",
 			"fish": [
-				"Deep Behemoth",
-				"Giant Manta",
-				"Boot",
-				"Titan Tuna",
-				"Bait Crate",
 				"Tire",
-				"Seaweed",
-				"Titanic Sturgeon",
-				"Massive Marlin",
-				"Quality Bait Crate",
-				"Deep Emperor",
+				"Boot",
 				"Common Crate",
-				"Abyssal Goliath",
-				"Titanfang Grouper",
-				"Leviathan Bass",
+				"Seaweed",
 				"Carbon Crate",
-				"Colossal Carp"
+				"Quality Bait Crate",
+				"Common Crate",
+				"Bait Crate",
+				"Colossal Carp",
+				"Titan Tuna",
+				"Giant Manta",
+				"Leviathan Bass",
+				"Massive Marlin",
+				"Titanic Sturgeon",
+				"Titanfang Grouper",
+				"Deep Emperor",
+				"Deep Behemoth",
+				"Abyssal Goliath"
 			],
 			"can_lucky": false,
 			"sea": "First Sea",
@@ -402,27 +407,28 @@
 			"name": "Atlantis/Sunken Depths",
 			"display": "Atlantis — Sunken Depths",
 			"fish": [
-				"Common Crate",
-				"Oracle Minnow",
-				"Helios Ray",
-				"Celestial Koi",
-				"Carbon Crate",
-				"Crystal Chorus",
 				"Tire",
-				"Sunken Silverscale",
-				"Seaweed",
-				"Atlantean Guardian",
-				"Philosopher's Fish",
-				"Quality Bait Crate",
-				"Triton's Herald",
-				"Marble Maiden",
-				"Deep Crownfish",
-				"Atlantean Alchemist",
-				"Twilight Glowfish",
 				"Boot",
+				"Common Crate",
+				"Seaweed",
+				"Carbon Crate",
+				"Quality Bait Crate",
+				"Common Crate",
 				"Bait Crate",
+				"Sunken Silverscale",
+				"Atlantean Anchovy",
+				"Oracle Minnow",
 				"Poseidon's Perch",
-				"Atlantean Anchovy"
+				"Marble Maiden",
+				"Crystal Chorus",
+				"Helios Ray",
+				"Philosopher's Fish",
+				"Atlantean Guardian",
+				"Triton's Herald",
+				"Twilight Glowfish",
+				"Atlantean Alchemist",
+				"Deep Crownfish",
+				"Celestial Koi"
 			],
 			"can_lucky": false,
 			"sea": "First Sea",
@@ -436,41 +442,42 @@
 			"name": "Atlantis/Surrounding Ocean",
 			"display": "Atlantis — Surrounding Ocean",
 			"fish": [
-				"Halibut",
-				"Coelacanth",
-				"Sea Pickle",
-				"Seaweed",
-				"Sea Bass",
-				"Sailfish",
-				"Mythic Fish",
-				"Sardine",
-				"Dolphin",
-				"Mullet",
-				"Common Crate",
-				"Oarfish",
-				"Anglerfish",
-				"Moonfish",
-				"Colossal Squid",
-				"Long Pike",
-				"Flying Fish",
-				"Bait Crate",
-				"Amberjack",
 				"Tire",
-				"Stingray",
-				"Mustard",
-				"Cod",
-				"Yellowfin Tuna",
-				"Sawfish",
-				"Quality Bait Crate",
-				"Mackerel",
-				"Crown Bass",
 				"Boot",
-				"Bluefin Tuna",
+				"Common Crate",
+				"Seaweed",
 				"Carbon Crate",
-				"Barracuda",
-				"Swordfish",
+				"Quality Bait Crate",
+				"Common Crate",
+				"Bait Crate",
+				"Mackerel",
+				"Cod",
+				"Amberjack",
+				"Sardine",
+				"Halibut",
 				"Salmon",
-				"Chinook Salmon"
+				"Mullet",
+				"Bluefin Tuna",
+				"Yellowfin Tuna",
+				"Barracuda",
+				"Sea Bass",
+				"Chinook Salmon",
+				"Sea Pickle",
+				"Swordfish",
+				"Anglerfish",
+				"Coelacanth",
+				"Sailfish",
+				"Stingray",
+				"Sawfish",
+				"Moonfish",
+				"Dolphin",
+				"Flying Fish",
+				"Colossal Squid",
+				"Oarfish",
+				"Crown Bass",
+				"Mythic Fish",
+				"Long Pike",
+				"Mustard"
 			],
 			"can_lucky": true,
 			"sea": "First Sea",
@@ -485,23 +492,24 @@
 			"name": "Atlantis/Zeus's Rod Room",
 			"display": "Atlantis — Zeus's Rod Room",
 			"fish": [
-				"Common Crate",
-				"Boot",
-				"Lightning Minnow",
-				"Stormcloud Angelfish",
-				"Bait Crate",
 				"Tire",
+				"Boot",
+				"Common Crate",
 				"Seaweed",
+				"Carbon Crate",
 				"Quality Bait Crate",
+				"Common Crate",
+				"Bait Crate",
+				"Lightning Minnow",
 				"Voltfin Carp",
-				"Zeus' Herald",
+				"Sparkfin Tetra",
+				"Static Ray",
+				"Lightning Pike",
+				"Stormcloud Angelfish",
 				"Thunder Bass",
 				"Storm Eel",
-				"Static Ray",
 				"Thunder Serpent",
-				"Lightning Pike",
-				"Sparkfin Tetra",
-				"Carbon Crate"
+				"Zeus' Herald"
 			],
 			"can_lucky": false,
 			"sea": "First Sea",
@@ -515,19 +523,19 @@
 			"name": "Azure Lagoon",
 			"display": "Azure Lagoon",
 			"fish": [
-				"Azure Prowler",
-				"Glimmer Guppy",
-				"Lagoon Dart",
-				"Verdant Mirage",
-				"Depth Drifter",
-				"Algae Lurker",
-				"Bloomtail",
-				"Phantom Brine",
-				"Tropical Bait Crate",
+				"Murkfin",
 				"Brackscale",
+				"Lagoon Dart",
+				"Tropical Bait Crate",
+				"Glimmer Guppy",
 				"Swampjaw",
+				"Algae Lurker",
 				"Reed Striker",
-				"Murkfin"
+				"Azure Prowler",
+				"Phantom Brine",
+				"Bloomtail",
+				"Depth Drifter",
+				"Verdant Mirage"
 			],
 			"can_lucky": true,
 			"sea": "Second Sea",
@@ -541,14 +549,14 @@
 			"display": "Blue Moon — First Sea",
 			"fish": [
 				"Moon Arctic Char",
-				"Blue Langanose",
-				"Moon Idol Sea 1",
+				"Silver Scuttler",
 				"Pale Ghost Lumpfish",
+				"Frost Ray",
+				"Blue Langanose",
 				"Starbellied Wolf Fish",
 				"Icy Daggerfish",
 				"Lunar Monkfish",
-				"Frost Ray",
-				"Silver Scuttler"
+				"Moon Idol Sea 1"
 			],
 			"can_lucky": true,
 			"sea": "First Sea",
@@ -562,14 +570,14 @@
 			"name": "Blue Moon/Second Sea",
 			"display": "Blue Moon — Second Sea",
 			"fish": [
-				"Lurking Crescent Pike",
+				"Moonveil Killifish",
 				"Gloamfin Gar",
-				"Bog Lantern Goby",
-				"Crescent Madtom",
+				"Lurking Crescent Pike",
 				"Moonridge Catfish",
+				"Crescent Madtom",
+				"Bog Lantern Goby",
 				"Tarnished Moongill",
-				"Moon Idol Sea 2",
-				"Moonveil Killifish"
+				"Moon Idol Sea 2"
 			],
 			"can_lucky": false,
 			"sea": "Second Sea",
@@ -582,17 +590,18 @@
 			"name": "Brine Pool/Unused",
 			"display": "Brine Pool — Unused",
 			"fish": [
-				"Dweller Catfish",
 				"Rock",
+				"Stalactite",
+				"Bone",
+				"Coral Geode",
 				"Common Crate",
 				"Stalactite",
-				"Spectral Serpent",
-				"Globe Jellyfish",
-				"Bone",
 				"Gazerfish",
-				"Coral Geode",
+				"Brine Shrimp",
+				"Globe Jellyfish",
+				"Dweller Catfish",
 				"Brine Phantom",
-				"Brine Shrimp"
+				"Spectral Serpent"
 			],
 			"wormhole_only": true,
 			"can_lucky": false,
@@ -607,22 +616,22 @@
 			"name": "Cryogenic Canal",
 			"display": "Cryogenic Canal",
 			"fish": [
-				"Snowflake Smelt",
-				"Seaweed",
-				"Frostjaw Cod",
-				"Common Crate",
+				"Tire",
 				"Boot",
-				"Iced Perch",
-				"Chillfin Herring",
-				"Snowback Char",
-				"Aurora Trout",
-				"Fish Barrel",
-				"Frost Minnow",
-				"Glacial Sturgeon",
+				"Common Crate",
 				"Bait Crate",
+				"Fish Barrel",
+				"Seaweed",
+				"Frost Minnow",
+				"Snowflake Smelt",
+				"Iced Perch",
+				"Snowback Char",
+				"Chillfin Herring",
 				"Frozen Pike",
 				"Icebreaker Haddock",
-				"Tire"
+				"Frostjaw Cod",
+				"Aurora Trout",
+				"Glacial Sturgeon"
 			],
 			"can_lucky": false,
 			"sea": "First Sea",
@@ -636,14 +645,14 @@
 			"name": "Crypt of the Green One",
 			"display": "Crypt of the Green One",
 			"fish": [
-				"Siren’s Guppy",
-				"Slain Maw",
-				"Harbinger Koi",
+				"Rotfin Eel",
 				"Wraithfin",
-				"Hexeye Snapper",
+				"Siren’s Guppy",
 				"Black Veil Ray",
+				"Hexeye Snapper",
 				"Bone Lanternfish",
-				"Rotfin Eel"
+				"Harbinger Koi",
+				"Slain Maw"
 			],
 			"no_wormhole": true,
 			"can_lucky": false,
@@ -655,14 +664,14 @@
 			"name": "Cults Curse",
 			"display": "Cults Curse",
 			"fish": [
-				"Wretched Guppy",
 				"The Whispering One",
-				"Abyssal Maw",
-				"Veilborn Parasite",
-				"Hollow Gazer",
 				"Profane Ray",
+				"Veilborn Parasite",
+				"Bloodscript Eel",
+				"Abyssal Maw",
 				"Eldritch Spineback",
-				"Bloodscript Eel"
+				"Hollow Gazer",
+				"Wretched Guppy"
 			],
 			"no_wormhole": true,
 			"can_lucky": false,
@@ -686,17 +695,18 @@
 			"name": "Desolate Deep/Brine Pool",
 			"display": "Desolate Deep — Brine Pool",
 			"fish": [
-				"Dweller Catfish",
 				"Rock",
+				"Stalactite",
+				"Bone",
+				"Coral Geode",
 				"Common Crate",
 				"Stalactite",
-				"Spectral Serpent",
-				"Globe Jellyfish",
-				"Bone",
 				"Gazerfish",
-				"Coral Geode",
+				"Brine Shrimp",
+				"Globe Jellyfish",
+				"Dweller Catfish",
 				"Brine Phantom",
-				"Brine Shrimp"
+				"Spectral Serpent"
 			],
 			"can_lucky": true,
 			"sea": "First Sea",
@@ -722,20 +732,20 @@
 			"name": "Desolate Deep/Desolate Pocket",
 			"display": "Desolate Deep — Desolate Pocket",
 			"fish": [
-				"Cockatoo Squid",
 				"Log",
-				"Common Crate",
-				"Rockstar Hermit Crab",
-				"Midnight Axolotl",
-				"Stalactite",
-				"Emperor Jellyfish",
-				"Slate Tuna",
-				"Barbed Shark",
-				"Banditfish",
-				"Horseshoe Crab",
-				"Coral Geode",
 				"Rock",
-				"Phantom Ray"
+				"Common Crate",
+				"Stalactite",
+				"Coral Geode",
+				"Slate Tuna",
+				"Phantom Ray",
+				"Rockstar Hermit Crab",
+				"Horseshoe Crab",
+				"Banditfish",
+				"Cockatoo Squid",
+				"Midnight Axolotl",
+				"Barbed Shark",
+				"Emperor Jellyfish"
 			],
 			"can_lucky": true,
 			"sea": "First Sea",
@@ -780,14 +790,14 @@
 			"name": "Emberreach/Freshwater Pond",
 			"display": "Emberreach — Freshwater Pond",
 			"fish": [
-				"Tropical Bait Crate",
-				"Smogfish",
 				"Pyre Fang",
-				"Tropicspike",
+				"Firecrest",
+				"Tropical Bait Crate",
 				"Sulfur Snapper",
-				"Cragscale",
+				"Smogfish",
 				"Blazebelly",
-				"Firecrest"
+				"Cragscale",
+				"Tropicspike"
 			],
 			"can_lucky": true,
 			"sea": "Second Sea",
@@ -800,19 +810,19 @@
 			"name": "Emberreach/Surrounding Ocean",
 			"display": "Emberreach — Surrounding Ocean",
 			"fish": [
-				"Volcanic Prowler",
-				"Obsidian Koi",
-				"Brimstone Angler",
-				"Smolderfang",
-				"Cinder Dart",
-				"Glowfin Skipper",
-				"Scorchray",
-				"Furnace Leaper",
-				"Inferno Chaser",
 				"Ashscale Minnow",
+				"Glowfin Skipper",
+				"Moltenstripe",
 				"Tropical Bait Crate",
 				"Sunflare Tetra",
-				"Moltenstripe"
+				"Furnace Leaper",
+				"Smolderfang",
+				"Volcanic Prowler",
+				"Inferno Chaser",
+				"Cinder Dart",
+				"Scorchray",
+				"Brimstone Angler",
+				"Obsidian Koi"
 			],
 			"can_lucky": true,
 			"sea": "Second Sea",
@@ -825,13 +835,13 @@
 			"name": "Emberreach/Volcano",
 			"display": "Emberreach — Volcano",
 			"fish": [
-				"Hellmaw Eel",
-				"Searfin",
-				"Emberwing",
-				"Molten Ripple",
 				"Lava Bream",
 				"Magma Pike",
-				"Basalt Pike"
+				"Hellmaw Eel",
+				"Searfin",
+				"Basalt Pike",
+				"Emberwing",
+				"Molten Ripple"
 			],
 			"can_lucky": true,
 			"sea": "Second Sea",
@@ -844,36 +854,37 @@
 			"name": "FischFright/Frightful Pool",
 			"display": "FischFright — Frightful Pool",
 			"fish": [
-				"Nessie",
-				"Common Crate",
 				"Lurkerfish",
-				"Anglerfish",
-				"Stingray",
-				"Bluefin Tuna",
-				"Boot",
-				"Ghoulfish",
-				"Coelacanth",
-				"Bait Crate",
-				"Carbon Crate",
-				"Sea Pickle",
-				"Amberjack",
-				"Tire",
-				"Chinook Salmon",
-				"Seaweed",
-				"Barracuda",
-				"Cod",
-				"Salmon",
-				"Sea Bass",
-				"Quality Bait Crate",
-				"Zombiefish",
-				"Yellowfin Tuna",
-				"Halibut",
-				"Sailfish",
 				"Skelefish",
-				"Mackerel",
-				"Swordfish",
 				"Candy Fish",
-				"Sardine"
+				"Ghoulfish",
+				"Zombiefish",
+				"Nessie",
+				"Tire",
+				"Boot",
+				"Common Crate",
+				"Seaweed",
+				"Carbon Crate",
+				"Quality Bait Crate",
+				"Common Crate",
+				"Bait Crate",
+				"Mackerel",
+				"Cod",
+				"Amberjack",
+				"Sardine",
+				"Halibut",
+				"Salmon",
+				"Bluefin Tuna",
+				"Yellowfin Tuna",
+				"Barracuda",
+				"Sea Bass",
+				"Chinook Salmon",
+				"Sea Pickle",
+				"Swordfish",
+				"Anglerfish",
+				"Coelacanth",
+				"Sailfish",
+				"Stingray"
 			],
 			"no_wormhole": true,
 			"can_lucky": false,
@@ -885,21 +896,21 @@
 			"name": "Fischmas/Winter Village",
 			"display": "Fischmas — Winter Village",
 			"fish": [
-				"Unique Present",
-				"Festive Bait Crate",
-				"Candy Cane Carp",
-				"Basic Present",
-				"Ornament Fish",
-				"Cookie",
-				"Glass of Milk",
-				"Santa Pufferfish",
-				"Santa Salmon",
 				"Icicle",
+				"Basic Present",
+				"Unique Present",
 				"Supreme Present",
-				"Olmdeer",
-				"Northstar Serpent",
+				"Festive Bait Crate",
+				"Cookie",
+				"Candy Cane Carp",
+				"Santa Salmon",
+				"Gingerbread Fish",
 				"Snowflake Flounder",
-				"Gingerbread Fish"
+				"Olmdeer",
+				"Santa Pufferfish",
+				"Northstar Serpent",
+				"Glass of Milk",
+				"Ornament Fish"
 			],
 			"no_wormhole": true,
 			"can_lucky": false,
@@ -911,40 +922,41 @@
 			"name": "Forsaken Shores/Algae Hunt",
 			"display": "Forsaken Shores — Algae Hunt",
 			"fish": [
-				"Halibut",
-				"Coelacanth",
-				"Sea Pickle",
-				"Seaweed",
-				"Sea Bass",
-				"Sailfish",
-				"Mythic Fish",
-				"Sardine",
-				"Dolphin",
-				"Mullet",
-				"Common Crate",
-				"Oarfish",
-				"Anglerfish",
-				"Moonfish",
-				"Colossal Squid",
-				"Flying Fish",
-				"Bait Crate",
-				"Amberjack",
 				"Tire",
-				"Stingray",
-				"Forsaken Algae",
-				"Cod",
-				"Yellowfin Tuna",
-				"Sawfish",
-				"Quality Bait Crate",
-				"Mackerel",
-				"Crown Bass",
 				"Boot",
-				"Bluefin Tuna",
+				"Common Crate",
+				"Seaweed",
 				"Carbon Crate",
-				"Barracuda",
-				"Swordfish",
+				"Quality Bait Crate",
+				"Common Crate",
+				"Bait Crate",
+				"Mackerel",
+				"Cod",
+				"Amberjack",
+				"Sardine",
+				"Halibut",
 				"Salmon",
-				"Chinook Salmon"
+				"Mullet",
+				"Bluefin Tuna",
+				"Yellowfin Tuna",
+				"Barracuda",
+				"Sea Bass",
+				"Chinook Salmon",
+				"Sea Pickle",
+				"Swordfish",
+				"Anglerfish",
+				"Coelacanth",
+				"Sailfish",
+				"Stingray",
+				"Sawfish",
+				"Moonfish",
+				"Dolphin",
+				"Flying Fish",
+				"Colossal Squid",
+				"Oarfish",
+				"Crown Bass",
+				"Mythic Fish",
+				"Forsaken Algae"
 			],
 			"no_wormhole": true,
 			"can_lucky": false,
@@ -956,16 +968,16 @@
 			"name": "Forsaken Shores/Coral Reef",
 			"display": "Forsaken Shores — Coral Reef",
 			"fish": [
-				"Seaweed",
-				"Common Crate",
+				"Tire",
 				"Boot",
+				"Common Crate",
+				"Bait Crate",
+				"Fish Barrel",
+				"Seaweed",
+				"Corsair Grouper",
 				"Scurvy Sailfish",
 				"Cutlass Fish",
-				"Reefrunner Snapper",
-				"Fish Barrel",
-				"Bait Crate",
-				"Corsair Grouper",
-				"Tire"
+				"Reefrunner Snapper"
 			],
 			"can_lucky": false,
 			"sea": "First Sea",
@@ -998,17 +1010,17 @@
 			"name": "Forsaken Shores/Freshwater Pond",
 			"display": "Forsaken Shores — Freshwater Pond",
 			"fish": [
-				"Seaweed",
-				"Common Crate",
+				"Tire",
 				"Boot",
+				"Common Crate",
+				"Bait Crate",
+				"Fish Barrel",
+				"Seaweed",
+				"Corsair Grouper",
 				"Scurvy Sailfish",
 				"Cutlass Fish",
 				"Reefrunner Snapper",
-				"Fish Barrel",
-				"Captain's Goldfish",
-				"Bait Crate",
-				"Corsair Grouper",
-				"Tire"
+				"Captain's Goldfish"
 			],
 			"can_lucky": false,
 			"sea": "First Sea",
@@ -1022,22 +1034,22 @@
 			"name": "Forsaken Shores/Surrounding Ocean",
 			"display": "Forsaken Shores — Surrounding Ocean",
 			"fish": [
-				"Golden Seahorse",
-				"Seaweed",
-				"Shipwreck Barracuda",
-				"Common Crate",
+				"Tire",
 				"Boot",
-				"Cursed Eel",
+				"Common Crate",
+				"Bait Crate",
+				"Fish Barrel",
+				"Seaweed",
+				"Corsair Grouper",
 				"Scurvy Sailfish",
 				"Cutlass Fish",
 				"Reefrunner Snapper",
-				"Fish Barrel",
 				"Shortfin Mako Shark",
 				"Galleon Goliath",
-				"Bait Crate",
-				"Corsair Grouper",
 				"Buccaneer Barracuda",
-				"Tire"
+				"Cursed Eel",
+				"Shipwreck Barracuda",
+				"Golden Seahorse"
 			],
 			"can_lucky": true,
 			"sea": "First Sea",
@@ -1070,21 +1082,21 @@
 			"name": "Frigid Cavern",
 			"display": "Frigid Cavern",
 			"fish": [
-				"Frigid Shrimp",
-				"Seaweed",
-				"Common Crate",
+				"Tire",
 				"Boot",
-				"Glass Diamond",
-				"Ice Jellyfish",
-				"Frigid Mammoth Tusk",
-				"Polar Alligator",
-				"Fish Barrel",
-				"Ice Eel",
-				"Frigid Taco",
+				"Common Crate",
 				"Bait Crate",
-				"Snowfish",
+				"Fish Barrel",
+				"Seaweed",
+				"Ice Eel",
+				"Frigid Shrimp",
+				"Ice Jellyfish",
 				"Ice Octopus",
-				"Tire"
+				"Frigid Taco",
+				"Snowfish",
+				"Polar Alligator",
+				"Frigid Mammoth Tusk",
+				"Glass Diamond"
 			],
 			"can_lucky": false,
 			"sea": "First Sea",
@@ -1098,22 +1110,22 @@
 			"name": "Glacial Grotto",
 			"display": "Glacial Grotto",
 			"fish": [
-				"Icebeard Shark",
-				"Seaweed",
-				"Borealis Snapper",
-				"Common Crate",
+				"Tire",
 				"Boot",
-				"Icefang Barracuda",
-				"Glacier Swordfish",
-				"Shiverfin Haddock",
-				"Frostbite Flounder",
-				"Fish Barrel",
-				"Icy Walleye",
-				"Chillback Whitefish",
+				"Common Crate",
 				"Bait Crate",
+				"Fish Barrel",
+				"Seaweed",
 				"Snowgill Dace",
 				"Frostling Goby",
-				"Tire"
+				"Chillback Whitefish",
+				"Icy Walleye",
+				"Shiverfin Haddock",
+				"Frostbite Flounder",
+				"Glacier Swordfish",
+				"Icefang Barracuda",
+				"Borealis Snapper",
+				"Icebeard Shark"
 			],
 			"can_lucky": false,
 			"sea": "First Sea",
@@ -1127,35 +1139,36 @@
 			"name": "Golden Tide",
 			"display": "Golden Tide",
 			"fish": [
+				"Confetti Shark",
 				"Countdown Perch",
-				"Halibut",
-				"Common Crate",
-				"Boot",
-				"Hourglass Bass",
 				"Eternal Frostwhale",
-				"Stingray",
-				"Yellowfin Tuna",
+				"Hourglass Bass",
 				"Tidal Pike",
-				"Bait Crate",
-				"Sea Pickle",
-				"Amberjack",
-				"Mackerel",
-				"Coelacanth",
-				"Seaweed",
-				"Anglerfish",
-				"Cod",
-				"Salmon",
-				"Sea Bass",
-				"Quality Bait Crate",
 				"Tire",
-				"Chinook Salmon",
-				"Barracuda",
-				"Sailfish",
-				"Bluefin Tuna",
-				"Sardine",
-				"Swordfish",
+				"Boot",
+				"Common Crate",
+				"Seaweed",
 				"Carbon Crate",
-				"Confetti Shark"
+				"Quality Bait Crate",
+				"Common Crate",
+				"Bait Crate",
+				"Mackerel",
+				"Cod",
+				"Amberjack",
+				"Sardine",
+				"Halibut",
+				"Salmon",
+				"Bluefin Tuna",
+				"Yellowfin Tuna",
+				"Barracuda",
+				"Sea Bass",
+				"Chinook Salmon",
+				"Sea Pickle",
+				"Swordfish",
+				"Anglerfish",
+				"Coelacanth",
+				"Sailfish",
+				"Stingray"
 			],
 			"no_wormhole": true,
 			"can_lucky": false,
@@ -1167,20 +1180,20 @@
 			"name": "Grand Reef",
 			"display": "Grand Reef",
 			"fish": [
-				"Seaweed",
-				"Common Crate",
+				"Tire",
 				"Boot",
-				"Reef Goby",
-				"Coral Guard",
-				"Coral Emperor",
-				"Reef Parrotfish",
-				"Fish Barrel",
-				"Crystal Wrasse",
-				"Reef Minnow",
+				"Common Crate",
 				"Bait Crate",
+				"Fish Barrel",
+				"Seaweed",
+				"Reef Minnow",
+				"Reef Goby",
 				"Coral Chromis",
-				"Grand Reef Guardian",
-				"Tire"
+				"Coral Guard",
+				"Crystal Wrasse",
+				"Reef Parrotfish",
+				"Coral Emperor",
+				"Grand Reef Guardian"
 			],
 			"can_lucky": false,
 			"sea": "First Sea",
@@ -1194,14 +1207,14 @@
 			"name": "Grand Reef/Atlantean Storm",
 			"display": "Grand Reef — Atlantean Storm",
 			"fish": [
-				"Vortex Barracuda",
-				"Maelstorm Shark",
+				"Void Angler",
 				"Tempest Ray",
 				"Abyss Snapper",
 				"Whirlpool Marlin",
-				"Void Angler",
+				"Vortex Barracuda",
 				"Typhoon Tuna",
-				"Cyclone Mako"
+				"Cyclone Mako",
+				"Maelstorm Shark"
 			],
 			"can_lucky": false,
 			"sea": "First Sea",
@@ -1215,17 +1228,17 @@
 			"name": "Isle of New Beginnings",
 			"display": "Isle of New Beginnings",
 			"fish": [
-				"Phantom Koi",
 				"Tidallow",
-				"Crestscale",
 				"Reefdart",
-				"Tartaruga",
-				"Whisper Eel",
+				"Crestscale",
 				"Tropical Bait Crate",
-				"Abyss Flicker",
 				"Horizon Tetra",
+				"Driftfin",
 				"Lantern Snapper",
-				"Driftfin"
+				"Abyss Flicker",
+				"Whisper Eel",
+				"Phantom Koi",
+				"Tartaruga"
 			],
 			"can_lucky": true,
 			"sea": "Second Sea",
@@ -1238,15 +1251,15 @@
 			"name": "Keepers Altar",
 			"display": "Keepers Altar",
 			"fish": [
-				"Lapisjack",
+				"Tire",
+				"Boot",
 				"Seaweed",
 				"Void Wood",
-				"Boot",
 				"Bluefish",
 				"Keepers Guardian",
+				"Lapisjack",
 				"Pale Tang",
-				"Umbral Shark",
-				"Tire"
+				"Umbral Shark"
 			],
 			"can_lucky": true,
 			"sea": "First Sea",
@@ -1268,44 +1281,117 @@
 			],
 			"force_abundance": true
 		},
+		"LEGO Pool": {
+			"name": "LEGO Pool",
+			"display": "LEGO Pool",
+			"fish": [
+				"Tentabrick",
+				"Studphin",
+				"Studling Crab",
+				"Stud Shark",
+				"Stud Koi",
+				"Jellystud",
+				"Glow Brick",
+				"Crab Stud",
+				"Cardinal Studfish",
+				"Brickhorse",
+				"Stud Turtle",
+				"Yellow Studfish",
+				"Goldbrick",
+				"Clown Brickfish",
+				"Azure Studfish"
+			],
+			"no_wormhole": true,
+			"can_lucky": false,
+			"sea": "First Sea",
+			"abundances": []
+		},
+		"LEGO Pool/Studalodon Hunt": {
+			"name": "LEGO Pool/Studalodon Hunt",
+			"display": "LEGO Pool — Studalodon Hunt",
+			"fish": [
+				"Studolodon",
+				"Tire",
+				"Boot",
+				"Common Crate",
+				"Seaweed",
+				"Carbon Crate",
+				"Quality Bait Crate",
+				"Common Crate",
+				"Bait Crate",
+				"Mackerel",
+				"Cod",
+				"Amberjack",
+				"Sardine",
+				"Halibut",
+				"Salmon",
+				"Mullet",
+				"Bluefin Tuna",
+				"Yellowfin Tuna",
+				"Barracuda",
+				"Sea Bass",
+				"Chinook Salmon",
+				"Sea Pickle",
+				"Swordfish",
+				"Anglerfish",
+				"Coelacanth",
+				"Sailfish",
+				"Stingray",
+				"Sawfish",
+				"Moonfish",
+				"Dolphin",
+				"Flying Fish",
+				"Colossal Squid",
+				"Oarfish",
+				"Crown Bass",
+				"Mythic Fish",
+				"Long Pike",
+				"Mustard"
+			],
+			"no_wormhole": true,
+			"can_lucky": false,
+			"sea": "First Sea",
+			"abundances": []
+		},
 		"Lovestorm/Normal": {
 			"name": "Lovestorm/Normal",
 			"display": "Lovestorm — Normal",
 			"fish": [
-				"Halibut",
-				"Coelacanth",
-				"Sea Pickle",
-				"Seaweed",
-				"Sea Bass",
-				"Sailfish",
-				"Mythic Fish",
-				"Sardine",
-				"Dolphin",
-				"Mullet",
-				"Common Crate",
-				"Oarfish",
-				"Anglerfish",
-				"Moonfish",
-				"Colossal Squid",
-				"Flying Fish",
-				"Bait Crate",
-				"Amberjack",
 				"Tire",
-				"Stingray",
-				"Lovestorm Eel",
-				"Cod",
-				"Yellowfin Tuna",
-				"Sawfish",
-				"Quality Bait Crate",
-				"Mackerel",
-				"Crown Bass",
 				"Boot",
-				"Bluefin Tuna",
+				"Common Crate",
+				"Seaweed",
 				"Carbon Crate",
-				"Barracuda",
-				"Swordfish",
+				"Quality Bait Crate",
+				"Common Crate",
+				"Bait Crate",
+				"Mackerel",
+				"Cod",
+				"Amberjack",
+				"Sardine",
+				"Halibut",
 				"Salmon",
-				"Chinook Salmon"
+				"Mullet",
+				"Bluefin Tuna",
+				"Yellowfin Tuna",
+				"Barracuda",
+				"Sea Bass",
+				"Chinook Salmon",
+				"Sea Pickle",
+				"Swordfish",
+				"Anglerfish",
+				"Coelacanth",
+				"Sailfish",
+				"Stingray",
+				"Sawfish",
+				"Moonfish",
+				"Dolphin",
+				"Flying Fish",
+				"Colossal Squid",
+				"Oarfish",
+				"Crown Bass",
+				"Mythic Fish",
+				"Lovestorm Eel"
 			],
 			"no_wormhole": true,
 			"can_lucky": false,
@@ -1317,40 +1403,41 @@
 			"name": "Lovestorm/Supercharged",
 			"display": "Lovestorm — Supercharged",
 			"fish": [
-				"Halibut",
-				"Coelacanth",
-				"Sea Pickle",
-				"Seaweed",
-				"Sea Bass",
-				"Sailfish",
-				"Mythic Fish",
-				"Sardine",
-				"Dolphin",
-				"Mullet",
-				"Common Crate",
-				"Oarfish",
-				"Anglerfish",
-				"Moonfish",
-				"Colossal Squid",
-				"Flying Fish",
-				"Bait Crate",
-				"Amberjack",
 				"Tire",
-				"Stingray",
-				"Lovestorm Eel Supercharged",
-				"Cod",
-				"Yellowfin Tuna",
-				"Sawfish",
-				"Quality Bait Crate",
-				"Mackerel",
-				"Crown Bass",
 				"Boot",
-				"Bluefin Tuna",
+				"Common Crate",
+				"Seaweed",
 				"Carbon Crate",
-				"Barracuda",
-				"Swordfish",
+				"Quality Bait Crate",
+				"Common Crate",
+				"Bait Crate",
+				"Mackerel",
+				"Cod",
+				"Amberjack",
+				"Sardine",
+				"Halibut",
 				"Salmon",
-				"Chinook Salmon"
+				"Mullet",
+				"Bluefin Tuna",
+				"Yellowfin Tuna",
+				"Barracuda",
+				"Sea Bass",
+				"Chinook Salmon",
+				"Sea Pickle",
+				"Swordfish",
+				"Anglerfish",
+				"Coelacanth",
+				"Sailfish",
+				"Stingray",
+				"Sawfish",
+				"Moonfish",
+				"Dolphin",
+				"Flying Fish",
+				"Colossal Squid",
+				"Oarfish",
+				"Crown Bass",
+				"Mythic Fish",
+				"Lovestorm Eel Supercharged"
 			],
 			"no_wormhole": true,
 			"can_lucky": false,
@@ -1362,42 +1449,42 @@
 			"name": "Lucky Event/Blarney McBreeze",
 			"display": "Lucky Event — Blarney McBreeze",
 			"fish": [
-				"Halibut",
-				"Blarney McBreeze",
-				"Sea Pickle",
-				"Nurse Shark",
-				"Seaweed",
-				"Sea Bass",
-				"Haddock",
-				"Sailfish",
-				"Porgy",
-				"Mythic Fish",
-				"Sardine",
-				"Dolphin",
-				"Mullet",
-				"Common Crate",
-				"Boot",
-				"Moonfish",
-				"Bluefin Tuna",
-				"Fish Barrel",
-				"Flying Fish",
-				"Bait Crate",
-				"Amberjack",
-				"Mackerel",
-				"Stingray",
-				"Cod",
-				"Salmon",
-				"Mustard",
-				"Long Pike",
-				"Sawfish",
-				"Crown Bass",
-				"Yellowfin Tuna",
-				"Boots",
 				"Tire",
+				"Boot",
+				"Common Crate",
+				"Bait Crate",
+				"Fish Barrel",
+				"Seaweed",
+				"Boots",
+				"Mackerel",
+				"Cod",
+				"Amberjack",
+				"Nurse Shark",
+				"Porgy",
+				"Sardine",
+				"Halibut",
+				"Mullet",
+				"Salmon",
+				"Yellowfin Tuna",
+				"Sea Bass",
+				"Chinook Salmon",
+				"Haddock",
+				"Barracuda",
+				"Sea Pickle",
 				"Pufferfish",
 				"Swordfish",
-				"Barracuda",
-				"Chinook Salmon"
+				"Bluefin Tuna",
+				"Sailfish",
+				"Stingray",
+				"Sawfish",
+				"Moonfish",
+				"Crown Bass",
+				"Dolphin",
+				"Flying Fish",
+				"Mythic Fish",
+				"Long Pike",
+				"Mustard",
+				"Blarney McBreeze"
 			],
 			"no_wormhole": true,
 			"can_lucky": false,
@@ -1409,42 +1496,42 @@
 			"name": "Lucky Event/Clover McRich",
 			"display": "Lucky Event — Clover McRich",
 			"fish": [
-				"Halibut",
-				"Sea Pickle",
-				"Nurse Shark",
-				"Seaweed",
-				"Sea Bass",
-				"Haddock",
-				"Sailfish",
-				"Porgy",
-				"Mythic Fish",
-				"Sardine",
-				"Dolphin",
-				"Mullet",
-				"Common Crate",
-				"Boot",
-				"Moonfish",
-				"Bluefin Tuna",
-				"Fish Barrel",
-				"Flying Fish",
-				"Bait Crate",
-				"Amberjack",
-				"Mackerel",
-				"Stingray",
-				"Clover McRich",
-				"Cod",
-				"Salmon",
-				"Mustard",
-				"Long Pike",
-				"Sawfish",
-				"Crown Bass",
-				"Yellowfin Tuna",
-				"Boots",
 				"Tire",
+				"Boot",
+				"Common Crate",
+				"Bait Crate",
+				"Fish Barrel",
+				"Seaweed",
+				"Boots",
+				"Mackerel",
+				"Cod",
+				"Amberjack",
+				"Nurse Shark",
+				"Porgy",
+				"Sardine",
+				"Halibut",
+				"Mullet",
+				"Salmon",
+				"Yellowfin Tuna",
+				"Sea Bass",
+				"Chinook Salmon",
+				"Haddock",
+				"Barracuda",
+				"Sea Pickle",
 				"Pufferfish",
 				"Swordfish",
-				"Barracuda",
-				"Chinook Salmon"
+				"Bluefin Tuna",
+				"Sailfish",
+				"Stingray",
+				"Sawfish",
+				"Moonfish",
+				"Crown Bass",
+				"Dolphin",
+				"Flying Fish",
+				"Mythic Fish",
+				"Long Pike",
+				"Mustard",
+				"Clover McRich"
 			],
 			"no_wormhole": true,
 			"wormhole_only": true,
@@ -1457,42 +1544,42 @@
 			"name": "Lucky Event/O'Mango Goldgrin",
 			"display": "Lucky Event — O'Mango Goldgrin",
 			"fish": [
-				"Halibut",
-				"O'Mango Goldgrin",
-				"Sea Pickle",
-				"Nurse Shark",
-				"Seaweed",
-				"Sea Bass",
-				"Haddock",
-				"Sailfish",
-				"Porgy",
-				"Mythic Fish",
-				"Sardine",
-				"Dolphin",
-				"Mullet",
-				"Common Crate",
-				"Boot",
-				"Moonfish",
-				"Bluefin Tuna",
-				"Fish Barrel",
-				"Flying Fish",
-				"Bait Crate",
-				"Amberjack",
-				"Mackerel",
-				"Stingray",
-				"Cod",
-				"Salmon",
-				"Mustard",
-				"Long Pike",
-				"Sawfish",
-				"Crown Bass",
-				"Yellowfin Tuna",
-				"Boots",
 				"Tire",
+				"Boot",
+				"Common Crate",
+				"Bait Crate",
+				"Fish Barrel",
+				"Seaweed",
+				"Boots",
+				"Mackerel",
+				"Cod",
+				"Amberjack",
+				"Nurse Shark",
+				"Porgy",
+				"Sardine",
+				"Halibut",
+				"Mullet",
+				"Salmon",
+				"Yellowfin Tuna",
+				"Sea Bass",
+				"Chinook Salmon",
+				"Haddock",
+				"Barracuda",
+				"Sea Pickle",
 				"Pufferfish",
 				"Swordfish",
-				"Barracuda",
-				"Chinook Salmon"
+				"Bluefin Tuna",
+				"Sailfish",
+				"Stingray",
+				"Sawfish",
+				"Moonfish",
+				"Crown Bass",
+				"Dolphin",
+				"Flying Fish",
+				"Mythic Fish",
+				"Long Pike",
+				"Mustard",
+				"O'Mango Goldgrin"
 			],
 			"no_wormhole": true,
 			"can_lucky": false,
@@ -1504,42 +1591,42 @@
 			"name": "Lucky Event/Plumrick O'Luck",
 			"display": "Lucky Event — Plumrick O'Luck",
 			"fish": [
-				"Halibut",
-				"Sea Pickle",
-				"Nurse Shark",
-				"Seaweed",
-				"Sea Bass",
-				"Haddock",
-				"Sailfish",
-				"Porgy",
-				"Mythic Fish",
-				"Sardine",
-				"Dolphin",
-				"Mullet",
-				"Common Crate",
-				"Boot",
-				"Moonfish",
-				"Bluefin Tuna",
-				"Fish Barrel",
-				"Flying Fish",
-				"Bait Crate",
-				"Amberjack",
-				"Mackerel",
-				"Stingray",
-				"Plumrick O'Luck",
-				"Cod",
-				"Salmon",
-				"Mustard",
-				"Long Pike",
-				"Sawfish",
-				"Crown Bass",
-				"Yellowfin Tuna",
-				"Boots",
 				"Tire",
+				"Boot",
+				"Common Crate",
+				"Bait Crate",
+				"Fish Barrel",
+				"Seaweed",
+				"Boots",
+				"Mackerel",
+				"Cod",
+				"Amberjack",
+				"Nurse Shark",
+				"Porgy",
+				"Sardine",
+				"Halibut",
+				"Mullet",
+				"Salmon",
+				"Yellowfin Tuna",
+				"Sea Bass",
+				"Chinook Salmon",
+				"Haddock",
+				"Barracuda",
+				"Sea Pickle",
 				"Pufferfish",
 				"Swordfish",
-				"Barracuda",
-				"Chinook Salmon"
+				"Bluefin Tuna",
+				"Sailfish",
+				"Stingray",
+				"Sawfish",
+				"Moonfish",
+				"Crown Bass",
+				"Dolphin",
+				"Flying Fish",
+				"Mythic Fish",
+				"Long Pike",
+				"Mustard",
+				"Plumrick O'Luck"
 			],
 			"no_wormhole": true,
 			"can_lucky": false,
@@ -1551,42 +1638,42 @@
 			"name": "Lucky Event/Rowdy McCharm",
 			"display": "Lucky Event — Rowdy McCharm",
 			"fish": [
-				"Halibut",
-				"Sea Pickle",
-				"Nurse Shark",
-				"Seaweed",
-				"Sea Bass",
-				"Haddock",
-				"Sailfish",
-				"Porgy",
-				"Mythic Fish",
-				"Sardine",
-				"Dolphin",
-				"Mullet",
-				"Common Crate",
-				"Boot",
-				"Moonfish",
-				"Bluefin Tuna",
-				"Fish Barrel",
-				"Flying Fish",
-				"Bait Crate",
-				"Amberjack",
-				"Mackerel",
-				"Stingray",
-				"Rowdy McCharm",
-				"Cod",
-				"Salmon",
-				"Mustard",
-				"Long Pike",
-				"Sawfish",
-				"Crown Bass",
-				"Yellowfin Tuna",
-				"Boots",
 				"Tire",
+				"Boot",
+				"Common Crate",
+				"Bait Crate",
+				"Fish Barrel",
+				"Seaweed",
+				"Boots",
+				"Mackerel",
+				"Cod",
+				"Amberjack",
+				"Nurse Shark",
+				"Porgy",
+				"Sardine",
+				"Halibut",
+				"Mullet",
+				"Salmon",
+				"Yellowfin Tuna",
+				"Sea Bass",
+				"Chinook Salmon",
+				"Haddock",
+				"Barracuda",
+				"Sea Pickle",
 				"Pufferfish",
 				"Swordfish",
-				"Barracuda",
-				"Chinook Salmon"
+				"Bluefin Tuna",
+				"Sailfish",
+				"Stingray",
+				"Sawfish",
+				"Moonfish",
+				"Crown Bass",
+				"Dolphin",
+				"Flying Fish",
+				"Mythic Fish",
+				"Long Pike",
+				"Mustard",
+				"Rowdy McCharm"
 			],
 			"no_wormhole": true,
 			"can_lucky": false,
@@ -1598,42 +1685,42 @@
 			"name": "Lucky Event/Sunny O'Coin",
 			"display": "Lucky Event — Sunny O'Coin",
 			"fish": [
-				"Halibut",
-				"Sea Pickle",
-				"Nurse Shark",
-				"Seaweed",
-				"Sea Bass",
-				"Sunny O'Coin",
-				"Haddock",
-				"Sailfish",
-				"Porgy",
-				"Mythic Fish",
-				"Sardine",
-				"Dolphin",
-				"Mullet",
-				"Common Crate",
-				"Boot",
-				"Moonfish",
-				"Bluefin Tuna",
-				"Fish Barrel",
-				"Flying Fish",
-				"Bait Crate",
-				"Amberjack",
-				"Mackerel",
-				"Stingray",
-				"Cod",
-				"Salmon",
-				"Mustard",
-				"Long Pike",
-				"Sawfish",
-				"Crown Bass",
-				"Yellowfin Tuna",
-				"Boots",
 				"Tire",
+				"Boot",
+				"Common Crate",
+				"Bait Crate",
+				"Fish Barrel",
+				"Seaweed",
+				"Boots",
+				"Mackerel",
+				"Cod",
+				"Amberjack",
+				"Nurse Shark",
+				"Porgy",
+				"Sardine",
+				"Halibut",
+				"Mullet",
+				"Salmon",
+				"Yellowfin Tuna",
+				"Sea Bass",
+				"Chinook Salmon",
+				"Haddock",
+				"Barracuda",
+				"Sea Pickle",
 				"Pufferfish",
 				"Swordfish",
-				"Barracuda",
-				"Chinook Salmon"
+				"Bluefin Tuna",
+				"Sailfish",
+				"Stingray",
+				"Sawfish",
+				"Moonfish",
+				"Crown Bass",
+				"Dolphin",
+				"Flying Fish",
+				"Mythic Fish",
+				"Long Pike",
+				"Mustard",
+				"Sunny O'Coin"
 			],
 			"no_wormhole": true,
 			"can_lucky": false,
@@ -1645,20 +1732,20 @@
 			"name": "Lushgrove",
 			"display": "Lushgrove",
 			"fish": [
-				"Fogstripe",
-				"Primordial Levi",
-				"Temple Perch",
-				"Idolfish",
 				"Bogscale",
-				"Jungle Phantom",
-				"Tropical Bait Crate",
-				"Glade Lurker",
-				"Vinefish",
-				"Hollow Snapper",
-				"Canopy Tetra",
-				"Relic Dart",
 				"Murkdrifter",
-				"Echo Koi"
+				"Vinefish",
+				"Canopy Tetra",
+				"Tropical Bait Crate",
+				"Hollow Snapper",
+				"Fogstripe",
+				"Temple Perch",
+				"Relic Dart",
+				"Echo Koi",
+				"Glade Lurker",
+				"Jungle Phantom",
+				"Idolfish",
+				"Primordial Levi"
 			],
 			"can_lucky": true,
 			"sea": "Second Sea",
@@ -1671,15 +1758,15 @@
 			"name": "Mariana's Veil/Abyssal Zenith",
 			"display": "Mariana's Veil — Abyssal Zenith",
 			"fish": [
+				"Titanic Black Seadevil",
+				"Leviathan Humpback Anglerfish",
+				"Abyssal Bearded Seadevil",
+				"Colossal Saccopharynx",
+				"Radiant Triplewart Seadevil",
+				"Deeplight Footballfish",
+				"Voidglow Ghostfish",
 				"Infant Giant Seadevil",
 				"Giant Seadevil",
-				"Radiant Triplewart Seadevil",
-				"Voidglow Ghostfish",
-				"Deeplight Footballfish",
-				"Titanic Black Seadevil",
-				"Abyssal Bearded Seadevil",
-				"Leviathan Humpback Anglerfish",
-				"Colossal Saccopharynx",
 				"Crowned Anglerfish"
 			],
 			"can_lucky": true,
@@ -1694,15 +1781,15 @@
 			"name": "Mariana's Veil/Calm Zone",
 			"display": "Mariana's Veil — Calm Zone",
 			"fish": [
+				"Quartzfin Queenfish",
+				"Diamond Discus",
+				"Emerald Elephantnose",
+				"Sapphire Stargazer",
 				"Ruby Rasbora",
 				"Prismatic Parrotfish",
-				"Quartzfin Queenfish",
 				"Crystal Corydoras",
-				"Diamond Discus",
-				"Crystallized Seadragon",
-				"Sapphire Stargazer",
-				"Emerald Elephantnose",
-				"Shimmering Silverside"
+				"Shimmering Silverside",
+				"Crystallized Seadragon"
 			],
 			"can_lucky": true,
 			"sea": "First Sea",
@@ -1716,16 +1803,16 @@
 			"name": "Mariana's Veil/Challenger's Deep",
 			"display": "Mariana's Veil — Challenger's Deep",
 			"fish": [
-				"Polar Prowler",
-				"Cryo Coelacanth",
-				"Deep Freeze Devilfish",
-				"Subzero Stargazer",
-				"Cryoskin",
-				"Chillfin Chimaera",
 				"Frozen Leviathan",
-				"Chillshadow Chub",
 				"Frostscale Fangtooth",
-				"Iceberg Isopod"
+				"Subzero Stargazer",
+				"Chillshadow Chub",
+				"Deep Freeze Devilfish",
+				"Iceberg Isopod",
+				"Polar Prowler",
+				"Chillfin Chimaera",
+				"Cryoskin",
+				"Cryo Coelacanth"
 			],
 			"can_lucky": true,
 			"sea": "First Sea",
@@ -1739,15 +1826,15 @@
 			"name": "Mariana's Veil/Scylla Hunt",
 			"display": "Mariana's Veil — Scylla Hunt",
 			"fish": [
-				"Scylla",
-				"Cyclone Scorpionfish",
-				"Gorgon Grouper",
-				"Twilight Tentaclefish",
-				"Kraken Koi",
-				"Typhoon Tailfin",
-				"Siren Sculpin",
+				"Hydra Haddock",
 				"Serpent Surgeonfish",
-				"Hydra Haddock"
+				"Kraken Koi",
+				"Gorgon Grouper",
+				"Cyclone Scorpionfish",
+				"Siren Sculpin",
+				"Typhoon Tailfin",
+				"Twilight Tentaclefish",
+				"Scylla"
 			],
 			"can_lucky": false,
 			"sea": "First Sea",
@@ -1762,14 +1849,14 @@
 			"name": "Mariana's Veil/Veil of the Forsaken",
 			"display": "Mariana's Veil — Veil of the Forsaken",
 			"fish": [
-				"Twilight Tentaclefish",
-				"Typhoon Tailfin",
-				"Siren Sculpin",
 				"Hydra Haddock",
-				"Cyclone Scorpionfish",
-				"Kraken Koi",
 				"Serpent Surgeonfish",
-				"Gorgon Grouper"
+				"Kraken Koi",
+				"Gorgon Grouper",
+				"Cyclone Scorpionfish",
+				"Siren Sculpin",
+				"Typhoon Tailfin",
+				"Twilight Tentaclefish"
 			],
 			"can_lucky": true,
 			"sea": "First Sea",
@@ -1783,16 +1870,16 @@
 			"name": "Mariana's Veil/Volcanic Vents",
 			"display": "Mariana's Veil — Volcanic Vents",
 			"fish": [
-				"Infernal Iguanafish",
-				"Molten Moray",
-				"Embertail Eel",
+				"Inferno Hide",
 				"Hellfire Haddock",
-				"Magma Leviathan",
-				"Scalding Swordfish",
+				"Embertail Eel",
+				"Infernal Iguanafish",
 				"Smoldering Stingray",
-				"Blisterback Blenny",
 				"Pyrite Pufferfish",
-				"Inferno Hide"
+				"Molten Moray",
+				"Scalding Swordfish",
+				"Blisterback Blenny",
+				"Magma Leviathan"
 			],
 			"can_lucky": true,
 			"sea": "First Sea",
@@ -1806,42 +1893,43 @@
 			"name": "Megalodon Hunt/Eclipse and Weekend",
 			"display": "Megalodon Hunt — Eclipse and Weekend",
 			"fish": [
-				"Halibut",
-				"Coelacanth",
-				"Sea Pickle",
-				"Seaweed",
-				"Sea Bass",
-				"Sailfish",
-				"Mythic Fish",
-				"Sardine",
-				"Dolphin",
-				"Mullet",
-				"Common Crate",
-				"Oarfish",
-				"Anglerfish",
-				"Moonfish",
-				"Colossal Squid",
-				"Flying Fish",
-				"Bait Crate",
-				"Bluefin Tuna",
-				"Amberjack",
 				"Tire",
-				"Megalodon",
-				"Stingray",
-				"Phantom Megalodon",
-				"Cod",
-				"Yellowfin Tuna",
-				"Sawfish",
-				"Quality Bait Crate",
-				"Mackerel",
-				"Crown Bass",
 				"Boot",
-				"Ancient Megalodon",
+				"Common Crate",
+				"Seaweed",
 				"Carbon Crate",
-				"Barracuda",
-				"Swordfish",
+				"Quality Bait Crate",
+				"Common Crate",
+				"Bait Crate",
+				"Mackerel",
+				"Cod",
+				"Amberjack",
+				"Sardine",
+				"Halibut",
 				"Salmon",
-				"Chinook Salmon"
+				"Mullet",
+				"Bluefin Tuna",
+				"Yellowfin Tuna",
+				"Barracuda",
+				"Sea Bass",
+				"Chinook Salmon",
+				"Sea Pickle",
+				"Swordfish",
+				"Anglerfish",
+				"Coelacanth",
+				"Sailfish",
+				"Stingray",
+				"Sawfish",
+				"Moonfish",
+				"Dolphin",
+				"Flying Fish",
+				"Colossal Squid",
+				"Oarfish",
+				"Crown Bass",
+				"Mythic Fish",
+				"Megalodon",
+				"Phantom Megalodon",
+				"Ancient Megalodon"
 			],
 			"no_wormhole": true,
 			"can_lucky": false,
@@ -1853,41 +1941,42 @@
 			"name": "Megalodon Hunt/Normal",
 			"display": "Megalodon Hunt — Normal",
 			"fish": [
-				"Halibut",
-				"Coelacanth",
-				"Sea Pickle",
-				"Seaweed",
-				"Sea Bass",
-				"Sailfish",
-				"Mythic Fish",
-				"Sardine",
-				"Dolphin",
-				"Mullet",
-				"Common Crate",
-				"Oarfish",
-				"Anglerfish",
-				"Moonfish",
-				"Colossal Squid",
-				"Flying Fish",
-				"Bait Crate",
-				"Amberjack",
 				"Tire",
-				"Bluefin Tuna",
-				"Stingray",
-				"Megalodon",
-				"Cod",
-				"Yellowfin Tuna",
-				"Sawfish",
-				"Quality Bait Crate",
-				"Mackerel",
-				"Crown Bass",
 				"Boot",
-				"Ancient Megalodon",
+				"Common Crate",
+				"Seaweed",
 				"Carbon Crate",
-				"Barracuda",
-				"Swordfish",
+				"Quality Bait Crate",
+				"Common Crate",
+				"Bait Crate",
+				"Mackerel",
+				"Cod",
+				"Amberjack",
+				"Sardine",
+				"Halibut",
 				"Salmon",
-				"Chinook Salmon"
+				"Mullet",
+				"Bluefin Tuna",
+				"Yellowfin Tuna",
+				"Barracuda",
+				"Sea Bass",
+				"Chinook Salmon",
+				"Sea Pickle",
+				"Swordfish",
+				"Anglerfish",
+				"Coelacanth",
+				"Sailfish",
+				"Stingray",
+				"Sawfish",
+				"Moonfish",
+				"Dolphin",
+				"Flying Fish",
+				"Colossal Squid",
+				"Oarfish",
+				"Crown Bass",
+				"Mythic Fish",
+				"Megalodon",
+				"Ancient Megalodon"
 			],
 			"no_wormhole": true,
 			"can_lucky": false,
@@ -1899,18 +1988,18 @@
 			"name": "Moosewood/Docks",
 			"display": "Moosewood — Docks",
 			"fish": [
-				"Anchovy",
-				"Seaweed",
-				"Common Crate",
-				"Trout",
-				"Bait Crate",
-				"Sockeye Salmon",
-				"Pike",
-				"Snook",
-				"Red Snapper",
 				"Driftwood",
+				"Seaweed",
+				"Bait Crate",
+				"Common Crate",
 				"Flounder",
-				"Mackerel"
+				"Red Snapper",
+				"Trout",
+				"Snook",
+				"Mackerel",
+				"Sockeye Salmon",
+				"Anchovy",
+				"Pike"
 			],
 			"can_lucky": true,
 			"sea": "First Sea",
@@ -1943,17 +2032,17 @@
 			"name": "Moosewood/Freshwater Pond",
 			"display": "Moosewood — Freshwater Pond",
 			"fish": [
-				"Goldfish",
+				"Tire",
+				"Driftwood",
 				"Common Crate",
-				"Carp",
+				"Largemouth Bass",
 				"Trout",
-				"Whiptail Catfish",
+				"Goldfish",
+				"Carp",
+				"Bream",
 				"Pike",
 				"Eel",
-				"Bream",
-				"Largemouth Bass",
-				"Driftwood",
-				"Tire"
+				"Whiptail Catfish"
 			],
 			"can_lucky": true,
 			"sea": "First Sea",
@@ -2008,22 +2097,22 @@
 			"name": "Moosewood/Seaweed and Mini-Island",
 			"display": "Moosewood — Seaweed and Mini-Island",
 			"fish": [
-				"Anchovy",
-				"Seaweed",
-				"Barracuda",
-				"Common Crate",
+				"Tire",
 				"Boot",
-				"Eel",
-				"Treble Bass",
-				"Trout",
-				"Whisker Bill",
-				"Fish Barrel",
-				"Red Snapper",
-				"Sockeye Salmon",
+				"Common Crate",
 				"Bait Crate",
+				"Fish Barrel",
+				"Seaweed",
+				"Trout",
+				"Barracuda",
 				"Flounder",
 				"Yellowfin Tuna",
-				"Tire"
+				"Sockeye Salmon",
+				"Red Snapper",
+				"Anchovy",
+				"Eel",
+				"Whisker Bill",
+				"Treble Bass"
 			],
 			"can_lucky": true,
 			"sea": "First Sea",
@@ -2047,23 +2136,23 @@
 			"name": "Moosewood/Surrounding Ocean",
 			"display": "Moosewood — Surrounding Ocean",
 			"fish": [
-				"Anchovy",
-				"Sockeye Salmon",
-				"Barracuda",
-				"Common Crate",
+				"Tire",
 				"Boot",
+				"Common Crate",
+				"Bait Crate",
+				"Fish Barrel",
+				"Seaweed",
+				"Trout",
+				"Barracuda",
+				"Flounder",
+				"Yellowfin Tuna",
+				"Sockeye Salmon",
+				"Red Snapper",
+				"Mackerel",
+				"Anchovy",
 				"Eel",
 				"Moonfish",
-				"Fish Barrel",
-				"Bait Crate",
-				"Flounder",
-				"Tire",
-				"Seaweed",
-				"Yellowfin Tuna",
-				"Trout",
-				"Bull Shark",
-				"Mackerel",
-				"Red Snapper"
+				"Bull Shark"
 			],
 			"can_lucky": true,
 			"sea": "First Sea",
@@ -2096,22 +2185,22 @@
 			"name": "Mushgrove Swamp",
 			"display": "Mushgrove Swamp",
 			"fish": [
-				"Bowfin",
-				"Log",
-				"Catfish",
-				"Common Crate",
-				"RocketFuel",
-				"Fungal Cluster",
-				"Resin",
-				"Handfish",
-				"Bait Crate",
-				"Marsh Gar",
-				"Swamp Bass",
-				"White Perch",
 				"Carbon Crate",
+				"Common Crate",
+				"Bait Crate",
+				"Log",
 				"Driftwood",
+				"Resin",
+				"Swamp Bass",
 				"Grey Carp",
-				"Alligator"
+				"Bowfin",
+				"White Perch",
+				"Fungal Cluster",
+				"Marsh Gar",
+				"Catfish",
+				"Alligator",
+				"Handfish",
+				"RocketFuel"
 			],
 			"can_lucky": false,
 			"sea": "First Sea",
@@ -2176,40 +2265,41 @@
 			"name": "Mushgrove Swamp/Algae Hunt",
 			"display": "Mushgrove Swamp — Algae Hunt",
 			"fish": [
-				"Halibut",
-				"Coelacanth",
-				"Sea Pickle",
-				"Seaweed",
-				"Sea Bass",
-				"Sailfish",
-				"Mythic Fish",
-				"Sardine",
-				"Dolphin",
-				"Mullet",
-				"Common Crate",
-				"Oarfish",
-				"Anglerfish",
-				"Moonfish",
-				"Colossal Squid",
-				"Flying Fish",
-				"Bait Crate",
-				"Amberjack",
 				"Tire",
-				"Stingray",
-				"Mushgrove Algae",
-				"Cod",
-				"Yellowfin Tuna",
-				"Sawfish",
-				"Quality Bait Crate",
-				"Mackerel",
-				"Crown Bass",
 				"Boot",
-				"Bluefin Tuna",
+				"Common Crate",
+				"Seaweed",
 				"Carbon Crate",
-				"Barracuda",
-				"Swordfish",
+				"Quality Bait Crate",
+				"Common Crate",
+				"Bait Crate",
+				"Mackerel",
+				"Cod",
+				"Amberjack",
+				"Sardine",
+				"Halibut",
 				"Salmon",
-				"Chinook Salmon"
+				"Mullet",
+				"Bluefin Tuna",
+				"Yellowfin Tuna",
+				"Barracuda",
+				"Sea Bass",
+				"Chinook Salmon",
+				"Sea Pickle",
+				"Swordfish",
+				"Anglerfish",
+				"Coelacanth",
+				"Sailfish",
+				"Stingray",
+				"Sawfish",
+				"Moonfish",
+				"Dolphin",
+				"Flying Fish",
+				"Colossal Squid",
+				"Oarfish",
+				"Crown Bass",
+				"Mythic Fish",
+				"Mushgrove Algae"
 			],
 			"no_wormhole": true,
 			"can_lucky": false,
@@ -2221,39 +2311,39 @@
 			"name": "Northern Summit/Surrounding Ocean",
 			"display": "Northern Summit — Surrounding Ocean",
 			"fish": [
-				"Halibut",
-				"Sea Pickle",
-				"Nurse Shark",
-				"Seaweed",
-				"Sea Bass",
-				"Haddock",
-				"Sailfish",
-				"Porgy",
-				"Mythic Fish",
-				"Sardine",
-				"Dolphin",
-				"Mullet",
-				"Common Crate",
-				"Boot",
-				"Moonfish",
-				"Bluefin Tuna",
-				"Fish Barrel",
-				"Flying Fish",
-				"Bait Crate",
-				"Amberjack",
-				"Mackerel",
-				"Stingray",
-				"Cod",
-				"Salmon",
-				"Glass Diamond",
-				"Crown Bass",
-				"Sawfish",
 				"Tire",
+				"Boot",
+				"Common Crate",
+				"Bait Crate",
+				"Fish Barrel",
+				"Seaweed",
+				"Mackerel",
+				"Cod",
+				"Amberjack",
+				"Nurse Shark",
+				"Porgy",
+				"Sardine",
+				"Halibut",
+				"Mullet",
+				"Salmon",
 				"Yellowfin Tuna",
+				"Sea Bass",
+				"Chinook Salmon",
+				"Haddock",
+				"Barracuda",
+				"Sea Pickle",
 				"Pufferfish",
 				"Swordfish",
-				"Barracuda",
-				"Chinook Salmon"
+				"Bluefin Tuna",
+				"Sailfish",
+				"Stingray",
+				"Sawfish",
+				"Moonfish",
+				"Crown Bass",
+				"Dolphin",
+				"Flying Fish",
+				"Mythic Fish",
+				"Glass Diamond"
 			],
 			"can_lucky": false,
 			"sea": "First Sea",
@@ -2268,41 +2358,41 @@
 			"name": "Ocean",
 			"display": "Ocean",
 			"fish": [
-				"Halibut",
-				"Sea Pickle",
-				"Nurse Shark",
-				"Seaweed",
-				"Sea Bass",
-				"Haddock",
-				"Sailfish",
-				"Porgy",
-				"Mythic Fish",
-				"Sardine",
-				"Dolphin",
-				"Mullet",
-				"Common Crate",
-				"Boot",
-				"Moonfish",
-				"Bluefin Tuna",
-				"Fish Barrel",
-				"Flying Fish",
-				"Bait Crate",
-				"Amberjack",
-				"Mackerel",
-				"Stingray",
-				"Cod",
-				"Salmon",
-				"Mustard",
-				"Long Pike",
-				"Sawfish",
-				"Crown Bass",
-				"Yellowfin Tuna",
-				"Boots",
 				"Tire",
+				"Boot",
+				"Common Crate",
+				"Bait Crate",
+				"Fish Barrel",
+				"Seaweed",
+				"Boots",
+				"Mackerel",
+				"Cod",
+				"Amberjack",
+				"Nurse Shark",
+				"Porgy",
+				"Sardine",
+				"Halibut",
+				"Mullet",
+				"Salmon",
+				"Yellowfin Tuna",
+				"Sea Bass",
+				"Chinook Salmon",
+				"Haddock",
+				"Barracuda",
+				"Sea Pickle",
 				"Pufferfish",
 				"Swordfish",
-				"Barracuda",
-				"Chinook Salmon"
+				"Bluefin Tuna",
+				"Sailfish",
+				"Stingray",
+				"Sawfish",
+				"Moonfish",
+				"Crown Bass",
+				"Dolphin",
+				"Flying Fish",
+				"Mythic Fish",
+				"Long Pike",
+				"Mustard"
 			],
 			"can_lucky": true,
 			"sea": "First Sea",
@@ -2374,41 +2464,42 @@
 			"name": "Ocean/Deep Ocean",
 			"display": "Ocean — Deep Ocean",
 			"fish": [
-				"Halibut",
-				"Coelacanth",
-				"Sea Pickle",
-				"Seaweed",
-				"Sea Bass",
-				"Sailfish",
-				"Mythic Fish",
-				"Sardine",
-				"Dolphin",
-				"Mullet",
-				"Common Crate",
-				"Oarfish",
-				"Anglerfish",
-				"Moonfish",
-				"Colossal Squid",
-				"Long Pike",
-				"Flying Fish",
-				"Bait Crate",
-				"Amberjack",
 				"Tire",
-				"Stingray",
-				"Mustard",
-				"Cod",
-				"Yellowfin Tuna",
-				"Sawfish",
-				"Quality Bait Crate",
-				"Mackerel",
-				"Crown Bass",
 				"Boot",
-				"Bluefin Tuna",
+				"Common Crate",
+				"Seaweed",
 				"Carbon Crate",
-				"Barracuda",
-				"Swordfish",
+				"Quality Bait Crate",
+				"Common Crate",
+				"Bait Crate",
+				"Mackerel",
+				"Cod",
+				"Amberjack",
+				"Sardine",
+				"Halibut",
 				"Salmon",
-				"Chinook Salmon"
+				"Mullet",
+				"Bluefin Tuna",
+				"Yellowfin Tuna",
+				"Barracuda",
+				"Sea Bass",
+				"Chinook Salmon",
+				"Sea Pickle",
+				"Swordfish",
+				"Anglerfish",
+				"Coelacanth",
+				"Sailfish",
+				"Stingray",
+				"Sawfish",
+				"Moonfish",
+				"Dolphin",
+				"Flying Fish",
+				"Colossal Squid",
+				"Oarfish",
+				"Crown Bass",
+				"Mythic Fish",
+				"Long Pike",
+				"Mustard"
 			],
 			"can_lucky": true,
 			"sea": "First Sea",
@@ -2422,26 +2513,26 @@
 			"name": "Ocean/Harvesters Spike",
 			"display": "Ocean — Harvesters Spike",
 			"fish": [
-				"Sawfish",
-				"Sockeye Salmon",
-				"Mullet",
+				"Carbon Crate",
 				"Common Crate",
-				"Bluefin Tuna",
 				"Bait Crate",
-				"Sea Pickle",
-				"Amberjack",
 				"Mackerel",
 				"Cod",
-				"Salmon",
-				"Sea Bass",
-				"Carbon Crate",
-				"Barracuda",
-				"Chinook Salmon",
+				"Amberjack",
+				"Nurse Shark",
+				"Sardine",
 				"Halibut",
+				"Salmon",
+				"Bluefin Tuna",
+				"Sockeye Salmon",
+				"Mullet",
+				"Barracuda",
+				"Sea Bass",
+				"Chinook Salmon",
+				"Sea Pickle",
 				"Pufferfish",
 				"Swordfish",
-				"Nurse Shark",
-				"Sardine"
+				"Sawfish"
 			],
 			"can_lucky": true,
 			"sea": "First Sea",
@@ -2487,10 +2578,10 @@
 			"name": "Ocean/Hidden Scallop Abundance",
 			"display": "Ocean — Hidden Scallop Abundance",
 			"fish": [
+				"Tire",
 				"Boot",
 				"Seaweed",
-				"Scallop",
-				"Tire"
+				"Scallop"
 			],
 			"can_lucky": true,
 			"sea": "First Sea",
@@ -2504,25 +2595,25 @@
 			"name": "Ocean/Strange Whirlpool",
 			"display": "Ocean — Strange Whirlpool",
 			"fish": [
-				"Barracuda",
-				"Common Crate",
-				"Boot",
-				"Fish Barrel",
-				"Bait Crate",
-				"Amberjack",
-				"Tire",
-				"Seaweed",
 				"Isonade",
-				"Cod",
-				"Sea Bass",
+				"Tire",
+				"Boot",
+				"Common Crate",
+				"Bait Crate",
+				"Fish Barrel",
+				"Seaweed",
+				"Carbon Crate",
 				"Quality Bait Crate",
-				"The Depths Key",
+				"Mackerel",
+				"Cod",
+				"Amberjack",
+				"Sardine",
+				"Sea Bass",
+				"Barracuda",
 				"Haddock",
 				"Mullet",
 				"Cookiecutter Shark",
-				"Mackerel",
-				"Carbon Crate",
-				"Sardine"
+				"The Depths Key"
 			],
 			"can_lucky": false,
 			"sea": "First Sea",
@@ -2544,29 +2635,29 @@
 			"name": "Ocean/The Arch",
 			"display": "Ocean — The Arch",
 			"fish": [
-				"Mullet",
-				"Common Crate",
-				"Boot",
-				"Moonfish",
-				"Bluefin Tuna",
-				"Fish Barrel",
-				"Bait Crate",
-				"Sea Pickle",
-				"Amberjack",
 				"Tire",
+				"Boot",
+				"Common Crate",
+				"Bait Crate",
+				"Fish Barrel",
 				"Seaweed",
-				"Cod",
-				"Salmon",
-				"Sea Bass",
-				"Rabbitfish",
-				"Haddock",
-				"Barracuda",
-				"Sailfish",
-				"Chinook Salmon",
-				"Halibut",
-				"Yellowfin Tuna",
 				"Mackerel",
-				"Sardine"
+				"Cod",
+				"Amberjack",
+				"Sardine",
+				"Halibut",
+				"Salmon",
+				"Yellowfin Tuna",
+				"Mullet",
+				"Sea Bass",
+				"Chinook Salmon",
+				"Haddock",
+				"Bluefin Tuna",
+				"Barracuda",
+				"Sea Pickle",
+				"Sailfish",
+				"Rabbitfish",
+				"Moonfish"
 			],
 			"can_lucky": true,
 			"sea": "First Sea",
@@ -2601,40 +2692,40 @@
 			"name": "Ocean/Unused",
 			"display": "Ocean — Unused",
 			"fish": [
-				"Halibut",
-				"Sea Pickle",
-				"Nurse Shark",
-				"Seaweed",
-				"Sea Bass",
-				"Haddock",
-				"Sailfish",
-				"Porgy",
-				"Mythic Fish",
-				"Sardine",
-				"Dolphin",
-				"Mullet",
-				"Common Crate",
-				"Boot",
-				"Moonfish",
-				"Bluefin Tuna",
-				"Fish Barrel",
-				"Flying Fish",
-				"Bait Crate",
-				"Amberjack",
-				"Mackerel",
-				"Stingray",
-				"Cod",
-				"Salmon",
-				"Mustard",
-				"Long Pike",
-				"Crown Bass",
-				"Sawfish",
 				"Tire",
+				"Boot",
+				"Common Crate",
+				"Bait Crate",
+				"Fish Barrel",
+				"Seaweed",
+				"Mackerel",
+				"Cod",
+				"Amberjack",
+				"Nurse Shark",
+				"Porgy",
+				"Sardine",
+				"Halibut",
+				"Mullet",
+				"Salmon",
 				"Yellowfin Tuna",
+				"Sea Bass",
+				"Chinook Salmon",
+				"Haddock",
+				"Barracuda",
+				"Sea Pickle",
 				"Pufferfish",
 				"Swordfish",
-				"Barracuda",
-				"Chinook Salmon"
+				"Bluefin Tuna",
+				"Sailfish",
+				"Stingray",
+				"Sawfish",
+				"Moonfish",
+				"Crown Bass",
+				"Dolphin",
+				"Flying Fish",
+				"Mythic Fish",
+				"Long Pike",
+				"Mustard"
 			],
 			"wormhole_only": true,
 			"can_lucky": false,
@@ -2649,65 +2740,61 @@
 			"name": "Octophant Hunt/Octophant Catchable",
 			"display": "Octophant Hunt — Octophant Catchable",
 			"fish": [
-				"Orcanda",
 				"Shrimpanzee",
-				"Octophant",
-				"Flamangler",
+				"Royal Tigerfish",
 				"Slurpfloth",
-				"Royal Tigerfish"
+				"Flamangler",
+				"Orcanda",
+				"Octophant"
 			],
+			"no_wormhole": true,
 			"can_lucky": false,
 			"sea": "Second Sea",
-			"wormhole_seas": [
-				"Second Sea"
-			],
 			"abundances": []
 		},
 		"Octophant Hunt/Octophant Uncatchable": {
 			"name": "Octophant Hunt/Octophant Uncatchable",
 			"display": "Octophant Hunt — Octophant Uncatchable",
 			"fish": [
-				"Orcanda",
 				"Shrimpanzee",
-				"Flamangler",
+				"Royal Tigerfish",
 				"Slurpfloth",
-				"Royal Tigerfish"
+				"Flamangler",
+				"Orcanda"
 			],
+			"no_wormhole": true,
 			"can_lucky": false,
 			"sea": "Second Sea",
-			"wormhole_seas": [
-				"Second Sea"
-			],
 			"abundances": []
 		},
 		"Open Ocean": {
 			"name": "Open Ocean",
 			"display": "Open Ocean",
 			"fish": [
-				"Velvet Belly Lanternshark",
-				"Telescopefish",
-				"Pupfish",
-				"Warty Angler",
-				"Sarcastic Fringehead",
-				"Dogefin",
-				"Lumpclinger",
-				"Psychedelic Frogfish",
-				"Rock Gunnel",
-				"Toilet Fish",
-				"Fangtooth",
 				"Cursed Thread",
-				"X-ray Tetra",
-				"Bigfin Squid",
-				"Pelican Eel",
-				"Tripod Fish",
-				"Tropical Bait Crate",
 				"Hogchoker",
-				"Knifefish",
-				"Black Swallower",
+				"Rock Gunnel",
+				"Pupfish",
 				"Four Eyes Fish",
+				"Black Swallower",
+				"Warty Angler",
+				"Tropical Bait Crate",
+				"Lumpclinger",
+				"Snipefish",
 				"Boarfish",
+				"Telescopefish",
+				"Fangtooth",
+				"Velvet Belly Lanternshark",
 				"Snakehead",
-				"Snipefish"
+				"Sarcastic Fringehead",
+				"Knifefish",
+				"Tripod Fish",
+				"Pelican Eel",
+				"Bigfin Squid",
+				"X-ray Tetra",
+				"Psychedelic Frogfish",
+				"Dogefin",
+				"Toilet Fish"
 			],
 			"can_lucky": true,
 			"sea": "Second Sea",
@@ -2720,30 +2807,30 @@
 			"name": "Open Ocean/Sea Leviathan",
 			"display": "Open Ocean — Sea Leviathan",
 			"fish": [
-				"Velvet Belly Lanternshark",
 				"Sea Leviathan",
-				"Telescopefish",
-				"Pupfish",
-				"Warty Angler",
-				"Sarcastic Fringehead",
-				"Dogefin",
-				"Lumpclinger",
-				"Psychedelic Frogfish",
-				"Rock Gunnel",
-				"Toilet Fish",
-				"Fangtooth",
-				"Snipefish",
-				"X-ray Tetra",
-				"Bigfin Squid",
-				"Tripod Fish",
-				"Tropical Bait Crate",
 				"Hogchoker",
-				"Pelican Eel",
-				"Knifefish",
+				"Rock Gunnel",
+				"Pupfish",
 				"Four Eyes Fish",
-				"Boarfish",
 				"Black Swallower",
-				"Snakehead"
+				"Warty Angler",
+				"Tropical Bait Crate",
+				"Lumpclinger",
+				"Snipefish",
+				"Boarfish",
+				"Telescopefish",
+				"Fangtooth",
+				"Velvet Belly Lanternshark",
+				"Snakehead",
+				"Sarcastic Fringehead",
+				"Knifefish",
+				"Tripod Fish",
+				"Pelican Eel",
+				"Bigfin Squid",
+				"X-ray Tetra",
+				"Psychedelic Frogfish",
+				"Dogefin",
+				"Toilet Fish"
 			],
 			"can_lucky": false,
 			"sea": "Second Sea",
@@ -2758,41 +2845,42 @@
 			"display": "Orca Migration — Ancient",
 			"fish": [
 				"Ancient Orca",
-				"Halibut",
-				"Coelacanth",
-				"Sea Pickle",
-				"Seaweed",
-				"Sea Bass",
-				"Sailfish",
-				"Mythic Fish",
-				"Sardine",
-				"Sawfish",
-				"Mullet",
-				"Common Crate",
+				"Tire",
 				"Boot",
-				"Anglerfish",
-				"Moonfish",
-				"Colossal Squid",
-				"Long Pike",
-				"Flying Fish",
-				"Bait Crate",
-				"Amberjack",
-				"Mackerel",
-				"Stingray",
-				"Mustard",
-				"Cod",
-				"Yellowfin Tuna",
-				"Bluefin Tuna",
+				"Common Crate",
+				"Seaweed",
+				"Carbon Crate",
 				"Quality Bait Crate",
+				"Common Crate",
+				"Bait Crate",
+				"Mackerel",
+				"Cod",
+				"Amberjack",
+				"Sardine",
+				"Halibut",
+				"Salmon",
+				"Mullet",
+				"Bluefin Tuna",
+				"Yellowfin Tuna",
+				"Barracuda",
+				"Sea Bass",
+				"Chinook Salmon",
+				"Sea Pickle",
+				"Swordfish",
+				"Anglerfish",
+				"Coelacanth",
+				"Sailfish",
+				"Stingray",
+				"Sawfish",
+				"Moonfish",
+				"Dolphin",
+				"Flying Fish",
+				"Colossal Squid",
 				"Oarfish",
 				"Crown Bass",
-				"Dolphin",
-				"Carbon Crate",
-				"Tire",
-				"Barracuda",
-				"Swordfish",
-				"Salmon",
-				"Chinook Salmon"
+				"Mythic Fish",
+				"Long Pike",
+				"Mustard"
 			],
 			"can_lucky": false,
 			"sea": "First Sea",
@@ -2807,42 +2895,43 @@
 			"name": "Orca Migration/Normal",
 			"display": "Orca Migration — Normal",
 			"fish": [
-				"Halibut",
-				"Coelacanth",
-				"Sea Pickle",
-				"Seaweed",
-				"Sea Bass",
-				"Sailfish",
-				"Mythic Fish",
-				"Sardine",
-				"Dolphin",
-				"Mullet",
-				"Common Crate",
+				"Orca",
+				"Tire",
 				"Boot",
-				"Anglerfish",
-				"Moonfish",
-				"Colossal Squid",
-				"Long Pike",
-				"Flying Fish",
+				"Common Crate",
+				"Seaweed",
 				"Carbon Crate",
-				"Amberjack",
-				"Mackerel",
-				"Mustard",
-				"Stingray",
-				"Bluefin Tuna",
-				"Cod",
-				"Salmon",
-				"Sawfish",
 				"Quality Bait Crate",
+				"Common Crate",
+				"Bait Crate",
+				"Mackerel",
+				"Cod",
+				"Amberjack",
+				"Sardine",
+				"Halibut",
+				"Salmon",
+				"Mullet",
+				"Bluefin Tuna",
+				"Yellowfin Tuna",
+				"Barracuda",
+				"Sea Bass",
+				"Chinook Salmon",
+				"Sea Pickle",
+				"Swordfish",
+				"Anglerfish",
+				"Coelacanth",
+				"Sailfish",
+				"Stingray",
+				"Sawfish",
+				"Moonfish",
+				"Dolphin",
+				"Flying Fish",
+				"Colossal Squid",
 				"Oarfish",
 				"Crown Bass",
-				"Bait Crate",
-				"Orca",
-				"Yellowfin Tuna",
-				"Tire",
-				"Swordfish",
-				"Barracuda",
-				"Chinook Salmon"
+				"Mythic Fish",
+				"Long Pike",
+				"Mustard"
 			],
 			"no_wormhole": true,
 			"can_lucky": false,
@@ -2853,21 +2942,21 @@
 			"name": "Overgrowth Caves",
 			"display": "Overgrowth Caves",
 			"fish": [
-				"Seaweed",
-				"Frozen Walnut",
-				"Common Crate",
+				"Tire",
 				"Boot",
-				"Glass Diamond",
-				"Ice Anchovy",
-				"Frigid Antlers",
-				"Icy Salmon",
-				"Fish Barrel",
-				"Icy Goldfish",
-				"Icy Tuna",
+				"Common Crate",
 				"Bait Crate",
+				"Fish Barrel",
+				"Seaweed",
+				"Ice Anchovy",
+				"Icy Salmon",
 				"Icy Carp",
 				"Frigid Crab",
-				"Tire"
+				"Icy Tuna",
+				"Icy Goldfish",
+				"Frigid Antlers",
+				"Frozen Walnut",
+				"Glass Diamond"
 			],
 			"can_lucky": false,
 			"sea": "First Sea",
@@ -2881,16 +2970,16 @@
 			"name": "Pine Shoals",
 			"display": "Pine Shoals",
 			"fish": [
-				"Pine Zephyrfish",
 				"Watching Glowfin",
-				"Parktail Spinesnapper",
+				"Drifting Gildfin",
+				"Blue Foamtail",
+				"Tropical Bait Crate",
 				"Redwood Duskray",
 				"Oak Stripetail",
-				"Thornfish",
-				"Blue Foamtail",
+				"Pine Zephyrfish",
+				"Parktail Spinesnapper",
 				"Sunray Sunscale",
-				"Tropical Bait Crate",
-				"Drifting Gildfin"
+				"Thornfish"
 			],
 			"can_lucky": true,
 			"sea": "Second Sea",
@@ -2903,16 +2992,16 @@
 			"name": "Roslit Bay/Ashfall",
 			"display": "Roslit Bay — Ashfall",
 			"fish": [
-				"Molten Minnow",
-				"Lava Lamprey",
-				"Blistered Eel",
-				"Pyro Pike",
 				"Ember Catfish",
-				"Ashcloud Archerfish",
+				"Blistered Eel",
+				"Lava Lamprey",
+				"Molten Minnow",
+				"Pyro Pike",
+				"Cinder Carp",
+				"Coelacanth",
 				"Scooty Salmon",
 				"Burnt Betta",
-				"Cinder Carp",
-				"Coelacanth"
+				"Ashcloud Archerfish"
 			],
 			"no_wormhole": true,
 			"can_lucky": false,
@@ -2936,13 +3025,13 @@
 			"name": "Roslit Bay/Clam Abundance",
 			"display": "Roslit Bay — Clam Abundance",
 			"fish": [
+				"Driftwood",
 				"Log",
-				"Flying Fish",
 				"Cod",
 				"Clam",
-				"Driftwood",
-				"Mythic Fish",
-				"Squid"
+				"Squid",
+				"Flying Fish",
+				"Mythic Fish"
 			],
 			"can_lucky": false,
 			"sea": "First Sea",
@@ -2968,21 +3057,21 @@
 			"name": "Roslit Bay/Coral Reef",
 			"display": "Roslit Bay — Coral Reef",
 			"fish": [
-				"Log",
-				"Bull Shark",
-				"Common Crate",
-				"Manta Ray",
-				"Dumbo Octopus",
-				"Crown Bass",
-				"Butterflyfish",
-				"Blue Tang",
-				"Pufferfish",
-				"Nurse Shark",
-				"Ribbon Eel",
-				"Clownfish",
 				"Driftwood",
+				"Common Crate",
+				"Log",
+				"Butterflyfish",
+				"Angelfish",
+				"Clownfish",
+				"Blue Tang",
 				"Yellow Boxfish",
-				"Angelfish"
+				"Ribbon Eel",
+				"Nurse Shark",
+				"Pufferfish",
+				"Bull Shark",
+				"Crown Bass",
+				"Manta Ray",
+				"Dumbo Octopus"
 			],
 			"can_lucky": true,
 			"sea": "First Sea",
@@ -3047,14 +3136,14 @@
 			"name": "Roslit Bay/Freshwater Pond",
 			"display": "Roslit Bay — Freshwater Pond",
 			"fish": [
-				"Axolotl",
-				"Arapaima",
-				"Alligator Gar",
-				"Chub",
-				"Pumpkinseed",
 				"Driftwood",
+				"Alligator Gar",
+				"Perch",
 				"Minnow",
-				"Perch"
+				"Pumpkinseed",
+				"Chub",
+				"Arapaima",
+				"Axolotl"
 			],
 			"can_lucky": true,
 			"sea": "First Sea",
@@ -3088,16 +3177,16 @@
 			"name": "Roslit Bay/Freshwater Pond Seaweed",
 			"display": "Roslit Bay — Freshwater Pond Seaweed",
 			"fish": [
+				"Driftwood",
 				"Seaweed",
 				"Alligator Gar",
-				"Minnow",
 				"Perch",
-				"Axolotl",
-				"Suckermouth Catfish",
-				"Arapaima",
-				"Driftwood",
+				"Minnow",
+				"Pumpkinseed",
 				"Trout",
-				"Pumpkinseed"
+				"Arapaima",
+				"Suckermouth Catfish",
+				"Axolotl"
 			],
 			"can_lucky": true,
 			"sea": "First Sea",
@@ -3123,18 +3212,18 @@
 			"name": "Roslit Bay/Roslit Volcano",
 			"display": "Roslit Bay — Roslit Volcano",
 			"fish": [
+				"Volcanic Geode",
 				"Rock",
 				"Basalt",
-				"Pyrogrub",
-				"Volcanic Geode",
-				"Obsidian Salmon",
-				"Molten Banshee",
-				"Obsidian Swordfish",
-				"Magma Tang",
-				"Ember Perch",
-				"Ember Snapper",
 				"Quality Bait Crate",
-				"Inferno Wood"
+				"Inferno Wood",
+				"Ember Snapper",
+				"Pyrogrub",
+				"Ember Perch",
+				"Magma Tang",
+				"Obsidian Salmon",
+				"Obsidian Swordfish",
+				"Molten Banshee"
 			],
 			"can_lucky": false,
 			"sea": "First Sea",
@@ -3158,29 +3247,30 @@
 			"name": "Roslit Bay/Surrounding Ocean",
 			"display": "Roslit Bay — Surrounding Ocean",
 			"fish": [
-				"Log",
-				"Mullet",
+				"Driftwood",
 				"Common Crate",
-				"Manta Ray",
-				"Squid",
-				"Flying Fish",
-				"Amberjack",
+				"Log",
 				"Mackerel",
-				"Mythic Fish",
-				"Dumbo Octopus",
 				"Cod",
+				"Amberjack",
+				"Nurse Shark",
+				"Sardine",
+				"Halibut",
 				"Salmon",
 				"Sea Bass",
-				"Crown Bass",
-				"Swordfish",
-				"Haddock",
-				"Halibut",
-				"Nurse Shark",
 				"Chinook Salmon",
-				"Pufferfish",
-				"Driftwood",
+				"Haddock",
+				"Mullet",
 				"Yellow Boxfish",
-				"Sardine"
+				"Pufferfish",
+				"Squid",
+				"Swordfish",
+				"Nurse Shark",
+				"Crown Bass",
+				"Dumbo Octopus",
+				"Flying Fish",
+				"Mythic Fish",
+				"Manta Ray"
 			],
 			"can_lucky": false,
 			"sea": "First Sea",
@@ -3218,19 +3308,19 @@
 			"display": "Shark Hunt — Great Hammerhead Shark",
 			"fish": [
 				"Great Hammerhead Shark",
-				"Barracuda",
+				"Mackerel",
 				"Cod",
-				"Sea Bass",
-				"Common Crate",
-				"Sardine",
-				"Haddock",
-				"Cookiecutter Shark",
-				"Sailfish",
-				"Mullet",
-				"Porgy",
-				"Driftwood",
 				"Amberjack",
-				"Mackerel"
+				"Sardine",
+				"Sea Bass",
+				"Barracuda",
+				"Haddock",
+				"Sailfish",
+				"Porgy",
+				"Mullet",
+				"Cookiecutter Shark",
+				"Driftwood",
+				"Common Crate"
 			],
 			"can_lucky": false,
 			"sea": "First Sea",
@@ -3244,20 +3334,20 @@
 			"name": "Shark Hunt/Great White Shark",
 			"display": "Shark Hunt — Great White Shark",
 			"fish": [
-				"Barracuda",
+				"Great White Shark",
+				"Mackerel",
 				"Cod",
-				"Common Crate",
-				"Sea Bass",
+				"Amberjack",
 				"Sardine",
-				"Cookiecutter Shark",
+				"Sea Bass",
+				"Barracuda",
 				"Haddock",
-				"Mullet",
 				"Sailfish",
 				"Porgy",
-				"Great White Shark",
+				"Mullet",
+				"Cookiecutter Shark",
 				"Driftwood",
-				"Amberjack",
-				"Mackerel"
+				"Common Crate"
 			],
 			"can_lucky": false,
 			"sea": "First Sea",
@@ -3271,20 +3361,20 @@
 			"name": "Shark Hunt/Whale Shark",
 			"display": "Shark Hunt — Whale Shark",
 			"fish": [
-				"Barracuda",
-				"Cod",
-				"Common Crate",
-				"Sea Bass",
-				"Driftwood",
-				"Cookiecutter Shark",
-				"Haddock",
-				"Mullet",
-				"Sailfish",
-				"Sardine",
-				"Porgy",
 				"Whale Shark",
+				"Mackerel",
+				"Cod",
 				"Amberjack",
-				"Mackerel"
+				"Sardine",
+				"Sea Bass",
+				"Barracuda",
+				"Haddock",
+				"Sailfish",
+				"Porgy",
+				"Mullet",
+				"Cookiecutter Shark",
+				"Driftwood",
+				"Common Crate"
 			],
 			"can_lucky": false,
 			"sea": "First Sea",
@@ -3298,40 +3388,41 @@
 			"name": "Snowcap Island/Algae Hunt",
 			"display": "Snowcap Island — Algae Hunt",
 			"fish": [
-				"Halibut",
-				"Coelacanth",
-				"Snowcap Algae",
-				"Sea Pickle",
-				"Seaweed",
-				"Sea Bass",
-				"Sailfish",
-				"Mythic Fish",
-				"Sardine",
-				"Dolphin",
-				"Mullet",
-				"Common Crate",
-				"Oarfish",
-				"Anglerfish",
-				"Moonfish",
-				"Colossal Squid",
-				"Flying Fish",
-				"Bait Crate",
-				"Amberjack",
 				"Tire",
-				"Stingray",
-				"Cod",
-				"Yellowfin Tuna",
-				"Sawfish",
-				"Quality Bait Crate",
-				"Mackerel",
-				"Crown Bass",
 				"Boot",
-				"Bluefin Tuna",
+				"Common Crate",
+				"Seaweed",
 				"Carbon Crate",
-				"Barracuda",
-				"Swordfish",
+				"Quality Bait Crate",
+				"Common Crate",
+				"Bait Crate",
+				"Mackerel",
+				"Cod",
+				"Amberjack",
+				"Sardine",
+				"Halibut",
 				"Salmon",
-				"Chinook Salmon"
+				"Mullet",
+				"Bluefin Tuna",
+				"Yellowfin Tuna",
+				"Barracuda",
+				"Sea Bass",
+				"Chinook Salmon",
+				"Sea Pickle",
+				"Swordfish",
+				"Anglerfish",
+				"Coelacanth",
+				"Sailfish",
+				"Stingray",
+				"Sawfish",
+				"Moonfish",
+				"Dolphin",
+				"Flying Fish",
+				"Colossal Squid",
+				"Oarfish",
+				"Crown Bass",
+				"Mythic Fish",
+				"Snowcap Algae"
 			],
 			"no_wormhole": true,
 			"can_lucky": false,
@@ -3343,17 +3434,17 @@
 			"name": "Snowcap Island/Freshwater Pond",
 			"display": "Snowcap Island — Freshwater Pond",
 			"fish": [
-				"Glacier Pike",
 				"Common Crate",
-				"Boot",
-				"Burbot",
 				"Quality Bait Crate",
-				"Grayling",
-				"Pond Emperor",
+				"Ice",
+				"Boot",
 				"Blackfish",
+				"Burbot",
+				"Grayling",
+				"Glacier Pike",
 				"Sturgeon",
-				"Baby Pond Emperor",
-				"Ice"
+				"Pond Emperor",
+				"Baby Pond Emperor"
 			],
 			"can_lucky": true,
 			"sea": "First Sea",
@@ -3401,30 +3492,30 @@
 			"name": "Snowcap Island/Surrounding Ocean",
 			"display": "Snowcap Island — Surrounding Ocean",
 			"fish": [
-				"Mullet",
-				"Arctic Char",
-				"Moonfish",
-				"Bluegill",
-				"Fish Barrel",
-				"Lingcod",
-				"Carbon Crate",
+				"Ice",
 				"Tire",
-				"Ringle",
-				"Skipjack Tuna",
+				"Carbon Crate",
+				"Common Crate",
+				"Bait Crate",
+				"Fish Barrel",
 				"Moon Wood",
 				"Cod",
+				"Sardine",
 				"Salmon",
 				"Sea Bass",
-				"Herring",
-				"Colossal Squid",
-				"Glacierfish",
+				"Porgy",
+				"Arctic Char",
 				"Pollock",
 				"Red Drum",
-				"Common Crate",
-				"Porgy",
-				"Sardine",
-				"Bait Crate",
-				"Ice"
+				"Herring",
+				"Bluegill",
+				"Lingcod",
+				"Mullet",
+				"Skipjack Tuna",
+				"Glacierfish",
+				"Moonfish",
+				"Colossal Squid",
+				"Ringle"
 			],
 			"can_lucky": false,
 			"sea": "First Sea",
@@ -3509,23 +3600,23 @@
 			"name": "Sunstone Island",
 			"display": "Sunstone Island",
 			"fish": [
-				"Red Tang",
-				"Longtail Bass",
-				"Glassfish",
-				"Mahi Mahi",
-				"Chinfish",
 				"Seaweed",
-				"Napoleonfish",
-				"Wiifish",
-				"Ancient Wood",
-				"Sunfish",
-				"Speed Core",
-				"Sailfish",
-				"Sweetfish",
-				"Quality Bait Crate",
 				"Driftwood",
+				"Quality Bait Crate",
+				"Ancient Wood",
+				"Trumpetfish",
+				"Glassfish",
+				"Longtail Bass",
+				"Sweetfish",
+				"Red Tang",
+				"Mahi Mahi",
+				"Napoleonfish",
+				"Chinfish",
+				"Sailfish",
+				"Sunfish",
+				"Wiifish",
 				"Voltfish",
-				"Trumpetfish"
+				"Speed Core"
 			],
 			"can_lucky": false,
 			"sea": "First Sea",
@@ -3620,16 +3711,16 @@
 			"name": "Sunstone Island/Crate Cave",
 			"display": "Sunstone Island — Crate Cave",
 			"fish": [
-				"Seaweed",
 				"Common Crate",
-				"Boot",
-				"Quality Bait Crate",
-				"Fish Barrel",
-				"Rock",
-				"Bait Crate",
-				"Driftwood",
 				"Carbon Crate",
-				"Tire"
+				"Bait Crate",
+				"Fish Barrel",
+				"Quality Bait Crate",
+				"Tire",
+				"Seaweed",
+				"Driftwood",
+				"Boot",
+				"Rock"
 			],
 			"can_lucky": false,
 			"sea": "First Sea",
@@ -3656,18 +3747,18 @@
 			"display": "Terrapin Island — Olm Cave",
 			"fish": [
 				"Log",
-				"White Bass",
-				"Common Crate",
-				"Redeye Bass",
-				"Sea Bass",
-				"Olm",
-				"Fish Barrel",
-				"Walleye",
-				"Smallmouth Bass",
-				"Gudgeon",
 				"Driftwood",
+				"Common Crate",
+				"Fish Barrel",
+				"Sea Bass",
 				"Largemouth Bass",
-				"Chinook Salmon"
+				"Smallmouth Bass",
+				"White Bass",
+				"Redeye Bass",
+				"Chinook Salmon",
+				"Gudgeon",
+				"Walleye",
+				"Olm"
 			],
 			"can_lucky": true,
 			"sea": "First Sea",
@@ -3704,19 +3795,19 @@
 			"display": "Terrapin Island — Surrounding Ocean",
 			"fish": [
 				"Log",
-				"White Bass",
-				"Common Crate",
-				"Redeye Bass",
-				"Sea Bass",
-				"Golden Smallmouth Bass",
-				"Sea Turtle",
-				"Fish Barrel",
-				"Walleye",
-				"Smallmouth Bass",
-				"Gudgeon",
 				"Driftwood",
+				"Common Crate",
+				"Fish Barrel",
+				"Sea Bass",
 				"Largemouth Bass",
-				"Chinook Salmon"
+				"Smallmouth Bass",
+				"White Bass",
+				"Redeye Bass",
+				"Chinook Salmon",
+				"Gudgeon",
+				"Walleye",
+				"Golden Smallmouth Bass",
+				"Sea Turtle"
 			],
 			"can_lucky": true,
 			"sea": "First Sea",
@@ -3790,20 +3881,20 @@
 			"name": "The Cursed Shores",
 			"display": "The Cursed Shores",
 			"fish": [
-				"Rotjaw",
-				"Crawling Angler",
-				"Gloombiter",
-				"Hollowfin",
 				"Blisterfish",
+				"Gloombiter",
+				"Rotjaw",
+				"Murkslither",
+				"Tropical Bait Crate",
 				"Split Eye Snapper",
 				"Tumor Pike",
+				"Hollowfin",
+				"Crawling Angler",
+				"Veinspawn",
+				"Screaming Fluke",
 				"Chasm Leech",
 				"Dreaming Aberration",
-				"Veinspawn",
-				"Abyssborn Monstrosity",
-				"Screaming Fluke",
-				"Murkslither",
-				"Tropical Bait Crate"
+				"Abyssborn Monstrosity"
 			],
 			"can_lucky": true,
 			"sea": "Second Sea",
@@ -3816,24 +3907,24 @@
 			"name": "The Depths",
 			"display": "The Depths",
 			"fish": [
-				"Mutated Shark",
 				"Destroyed Fossil",
-				"Frilled Shark",
-				"Goblin Shark",
-				"Deep-sea Hatchetfish",
-				"Enchant Relic",
-				"Spider Crab",
-				"Small Spine Chimera",
-				"Luminescent Minnow",
-				"Sea Snake",
-				"Depth Octopus",
-				"Barreleye Fish",
-				"Ancient Eel",
-				"Deep-sea Dragonfish",
 				"Scrap Metal",
-				"Nautilus",
+				"Deep-sea Dragonfish",
+				"Deep-sea Hatchetfish",
+				"Frilled Shark",
+				"Depth Octopus",
+				"Three-eyed Fish",
+				"Luminescent Minnow",
+				"Goblin Shark",
 				"Black Dragon Fish",
-				"Three-eyed Fish"
+				"Spider Crab",
+				"Nautilus",
+				"Small Spine Chimera",
+				"Ancient Eel",
+				"Mutated Shark",
+				"Barreleye Fish",
+				"Sea Snake",
+				"Enchant Relic"
 			],
 			"can_lucky": true,
 			"sea": "First Sea",
@@ -3881,25 +3972,25 @@
 			"name": "The Depths/Absolute Darkness",
 			"display": "The Depths — Absolute Darkness",
 			"fish": [
-				"Ancient Depth Serpent",
-				"Mutated Shark",
 				"Destroyed Fossil",
-				"Frilled Shark",
-				"Goblin Shark",
-				"Deep-sea Hatchetfish",
-				"Enchant Relic",
-				"Spider Crab",
-				"Small Spine Chimera",
-				"Luminescent Minnow",
-				"Sea Snake",
-				"Depth Octopus",
-				"Barreleye Fish",
-				"Ancient Eel",
-				"Deep-sea Dragonfish",
 				"Scrap Metal",
-				"Nautilus",
+				"Deep-sea Dragonfish",
+				"Deep-sea Hatchetfish",
+				"Frilled Shark",
+				"Depth Octopus",
+				"Three-eyed Fish",
+				"Luminescent Minnow",
+				"Goblin Shark",
 				"Black Dragon Fish",
-				"Three-eyed Fish"
+				"Spider Crab",
+				"Nautilus",
+				"Small Spine Chimera",
+				"Ancient Eel",
+				"Mutated Shark",
+				"Barreleye Fish",
+				"Sea Snake",
+				"Ancient Depth Serpent",
+				"Enchant Relic"
 			],
 			"can_lucky": false,
 			"sea": "First Sea",
@@ -3922,18 +4013,18 @@
 			"name": "Vertigo/Vertigos Dip",
 			"display": "Vertigo — Vertigos Dip",
 			"fish": [
-				"Fangborn Gar",
+				"Carbon Crate",
 				"Rock",
-				"Common Crate",
-				"Twilight Eel",
 				"Quality Bait Crate",
-				"The Depths Key",
-				"Rubber Ducky",
-				"Voidfin Mahi",
+				"Common Crate",
 				"Bait Crate",
-				"Abyssacuda",
+				"Twilight Eel",
+				"Fangborn Gar",
 				"Spiderfish",
-				"Carbon Crate"
+				"The Depths Key",
+				"Abyssacuda",
+				"Voidfin Mahi",
+				"Rubber Ducky"
 			],
 			"can_lucky": true,
 			"sea": "First Sea",
@@ -3968,21 +4059,21 @@
 			"name": "Waveborne",
 			"display": "Waveborne",
 			"fish": [
-				"Storm Skipper",
 				"Gale Snapper",
-				"Ripple Spine",
-				"Vortex Ray",
-				"Gust Tail",
-				"Surge Pike",
-				"Tide Fang",
-				"Tropical Bait Crate",
-				"Breaker Moth",
-				"Sprayfin",
-				"Wave Piercer",
-				"Depth Lurker",
 				"Drift Claw",
+				"Tropical Bait Crate",
+				"Foamrunner",
+				"Sprayfin",
+				"Ripple Spine",
+				"Depth Lurker",
+				"Surge Pike",
 				"Abyss Dart",
-				"Foamrunner"
+				"Breaker Moth",
+				"Tide Fang",
+				"Wave Piercer",
+				"Gust Tail",
+				"Vortex Ray",
+				"Storm Skipper"
 			],
 			"can_lucky": true,
 			"sea": "Second Sea",
@@ -3995,42 +4086,43 @@
 			"name": "Whale Migration/Moby",
 			"display": "Whale Migration — Moby",
 			"fish": [
-				"Halibut",
-				"Coelacanth",
-				"Sea Pickle",
-				"Seaweed",
-				"Sea Bass",
-				"Sailfish",
-				"Mythic Fish",
-				"Sardine",
-				"Dolphin",
-				"Mullet",
-				"Common Crate",
-				"Boot",
-				"Anglerfish",
-				"Moonfish",
-				"Colossal Squid",
 				"Blue Whale",
-				"Long Pike",
-				"Flying Fish",
-				"Bait Crate",
-				"Amberjack",
-				"Mackerel",
-				"Stingray",
-				"Mustard",
-				"Cod",
-				"Yellowfin Tuna",
-				"Oarfish",
-				"Quality Bait Crate",
-				"Sawfish",
-				"Crown Bass",
-				"Bluefin Tuna",
-				"Carbon Crate",
 				"Tire",
-				"Barracuda",
-				"Swordfish",
+				"Boot",
+				"Common Crate",
+				"Seaweed",
+				"Carbon Crate",
+				"Quality Bait Crate",
+				"Common Crate",
+				"Bait Crate",
+				"Mackerel",
+				"Cod",
+				"Amberjack",
+				"Sardine",
+				"Halibut",
 				"Salmon",
+				"Mullet",
+				"Bluefin Tuna",
+				"Yellowfin Tuna",
+				"Barracuda",
+				"Sea Bass",
 				"Chinook Salmon",
+				"Sea Pickle",
+				"Swordfish",
+				"Anglerfish",
+				"Coelacanth",
+				"Sailfish",
+				"Stingray",
+				"Sawfish",
+				"Moonfish",
+				"Dolphin",
+				"Flying Fish",
+				"Colossal Squid",
+				"Oarfish",
+				"Crown Bass",
+				"Mythic Fish",
+				"Long Pike",
+				"Mustard",
 				"Moby"
 			],
 			"no_wormhole": true,
@@ -4043,42 +4135,43 @@
 			"name": "Whale Migration/Normal",
 			"display": "Whale Migration — Normal",
 			"fish": [
-				"Halibut",
-				"Coelacanth",
-				"Sea Pickle",
-				"Seaweed",
-				"Sea Bass",
-				"Sailfish",
-				"Mythic Fish",
-				"Sardine",
-				"Dolphin",
-				"Mullet",
-				"Common Crate",
-				"Boot",
-				"Anglerfish",
-				"Moonfish",
-				"Colossal Squid",
 				"Blue Whale",
-				"Long Pike",
-				"Flying Fish",
-				"Bait Crate",
-				"Amberjack",
-				"Mackerel",
-				"Stingray",
-				"Mustard",
-				"Cod",
-				"Yellowfin Tuna",
-				"Oarfish",
-				"Quality Bait Crate",
-				"Sawfish",
-				"Crown Bass",
-				"Bluefin Tuna",
-				"Carbon Crate",
 				"Tire",
-				"Barracuda",
-				"Swordfish",
+				"Boot",
+				"Common Crate",
+				"Seaweed",
+				"Carbon Crate",
+				"Quality Bait Crate",
+				"Common Crate",
+				"Bait Crate",
+				"Mackerel",
+				"Cod",
+				"Amberjack",
+				"Sardine",
+				"Halibut",
 				"Salmon",
-				"Chinook Salmon"
+				"Mullet",
+				"Bluefin Tuna",
+				"Yellowfin Tuna",
+				"Barracuda",
+				"Sea Bass",
+				"Chinook Salmon",
+				"Sea Pickle",
+				"Swordfish",
+				"Anglerfish",
+				"Coelacanth",
+				"Sailfish",
+				"Stingray",
+				"Sawfish",
+				"Moonfish",
+				"Dolphin",
+				"Flying Fish",
+				"Colossal Squid",
+				"Oarfish",
+				"Crown Bass",
+				"Mythic Fish",
+				"Long Pike",
+				"Mustard"
 			],
 			"can_lucky": false,
 			"sea": "First Sea",
@@ -4179,175 +4272,175 @@
 		"Northern Expedition, Grand Reef": {
 			"name": "Northern Expedition, Grand Reef",
 			"fish": [
-				"Rock",
-				"Driftwood"
+				"Driftwood",
+				"Rock"
 			]
 		},
 		"Sunstone Island": {
 			"name": "Sunstone Island",
 			"fish": [
 				"Seaweed",
-				"Mussel",
-				"Prawn",
-				"Sand Dollar",
-				"Shrimp",
-				"Sea Pickle",
-				"Scallop",
-				"Crab",
 				"Driftwood",
+				"Crab",
+				"Mussel",
 				"Sea Urchin",
-				"Lobster"
+				"Shrimp",
+				"Prawn",
+				"Lobster",
+				"Scallop",
+				"Sand Dollar",
+				"Sea Pickle"
 			]
 		},
 		"Desolate Deep": {
 			"name": "Desolate Deep",
 			"fish": [
-				"Rock",
-				"Mussel",
+				"Tire",
 				"Boot",
-				"Rockstar Hermit Crab",
+				"Driftwood",
 				"Stalactite",
 				"Horseshoe Crab",
-				"Driftwood",
+				"Rockstar Hermit Crab",
 				"Sea Mine",
-				"Tire"
+				"Rock",
+				"Mussel"
 			]
 		},
 		"Hidden Scallop Abundance": {
 			"name": "Hidden Scallop Abundance",
 			"fish": [
-				"Crab",
-				"Rock",
+				"Tire",
 				"Boot",
 				"Driftwood",
+				"Rock",
 				"Scallop",
-				"Tire"
+				"Crab"
 			]
 		},
 		"Vertigo": {
 			"name": "Vertigo",
 			"fish": [
-				"Night Shrimp",
-				"Rock"
+				"Rock",
+				"Night Shrimp"
 			]
 		},
 		"Ocean, Snowcap Island, Ancient Isle": {
 			"name": "Ocean, Snowcap Island, Ancient Isle",
 			"fish": [
-				"Mussel",
+				"Tire",
 				"Boot",
-				"Prawn",
-				"Sand Dollar",
-				"Shrimp",
-				"Sea Pickle",
-				"Lobster",
-				"Crab",
 				"Driftwood",
+				"Crab",
+				"Mussel",
+				"Sand Dollar",
 				"Sea Urchin",
-				"Tire"
+				"Shrimp",
+				"Prawn",
+				"Lobster",
+				"Sea Pickle"
 			]
 		},
 		"Terrapin Olm Cave": {
 			"name": "Terrapin Olm Cave",
 			"fish": [
-				"Rock",
-				"Boot",
 				"Driftwood",
-				"King Oyster",
-				"Seaweed"
+				"Rock",
+				"Seaweed",
+				"Boot",
+				"King Oyster"
 			]
 		},
 		"Terrapin Island": {
 			"name": "Terrapin Island",
 			"fish": [
-				"Rock",
-				"King Oyster",
 				"Driftwood",
+				"Rock",
+				"Seaweed",
 				"Oyster",
-				"Seaweed"
+				"King Oyster"
 			]
 		},
 		"Moosewood Docks, Snowcap Docks, Forsaken Shores": {
 			"name": "Moosewood Docks, Snowcap Docks, Forsaken Shores",
 			"fish": [
-				"Mussel",
+				"Tire",
 				"Boot",
-				"Lobster",
-				"Sand Dollar",
-				"Crab",
-				"Oyster",
 				"Driftwood",
+				"Crab",
+				"Mussel",
+				"Sand Dollar",
 				"Sea Urchin",
-				"Tire"
+				"Lobster",
+				"Oyster"
 			]
 		},
 		"Moosewood Pond": {
 			"name": "Moosewood Pond",
 			"fish": [
-				"Rock",
+				"Tire",
 				"Boot",
 				"Driftwood",
-				"Seaweed",
-				"Tire"
+				"Rock",
+				"Seaweed"
 			]
 		},
 		"Roslit Bay, Snowcap Pond": {
 			"name": "Roslit Bay, Snowcap Pond",
 			"fish": [
-				"Rock",
-				"Mussel",
-				"Sand Dollar",
+				"Tire",
 				"Boot",
 				"Driftwood",
+				"Rock",
 				"Seaweed",
-				"Tire"
+				"Mussel",
+				"Sand Dollar"
 			]
 		},
 		"Sunstone Crate Cave": {
 			"name": "Sunstone Crate Cave",
 			"fish": [
 				"Seaweed",
-				"Lobster",
-				"Driftwood"
+				"Driftwood",
+				"Lobster"
 			]
 		},
 		"The Depths": {
 			"name": "The Depths",
 			"fish": [
-				"Scrap Metal",
+				"Tire",
+				"Boot",
+				"Driftwood",
+				"Spider Crab",
 				"Rock",
 				"Mussel",
 				"Destroyed Fossil",
-				"Boot",
-				"Spider Crab",
-				"Driftwood",
-				"Tire"
+				"Scrap Metal"
 			]
 		},
 		"Mushgrove Swamp": {
 			"name": "Mushgrove Swamp",
 			"fish": [
-				"Seaweed",
-				"Mussel",
+				"Tire",
 				"Boot",
-				"Fungal Cluster",
-				"Mushgrove Crab",
-				"Swamp Scallop",
-				"Crab",
 				"Driftwood",
 				"Rock",
-				"Tire"
+				"Seaweed",
+				"Crab",
+				"Mussel",
+				"Mushgrove Crab",
+				"Swamp Scallop",
+				"Fungal Cluster"
 			]
 		},
 		"Haddock Rock, Sardine Abundance": {
 			"name": "Haddock Rock, Sardine Abundance",
 			"fish": [
-				"Mussel",
-				"Sea Pickle",
 				"Driftwood",
+				"Mussel",
 				"Oyster",
 				"Scallop",
-				"Sand Dollar"
+				"Sand Dollar",
+				"Sea Pickle"
 			]
 		}
 	},
@@ -4637,6 +4730,13 @@
 			"lure": -25,
 			"resilience": 0,
 			"rarity": "Unusual"
+		},
+		"Stud Bait": {
+			"preferred_luck": 150,
+			"universal_luck": 40,
+			"lure": 50,
+			"resilience": 20,
+			"rarity": "Legendary"
 		},
 		"Super Flakes": {
 			"preferred_luck": 0,
@@ -5861,6 +5961,38 @@
 			]
 		},
 		{
+			"mutation": "Easter",
+			"chance": 10,
+			"priority": 100,
+			"chance_type": "percent",
+			"allow_crates": false,
+			"conditions": [
+				{
+					"check": "conditions",
+					"property": "rod",
+					"values": [
+						"Egg Rod"
+					]
+				}
+			]
+		},
+		{
+			"mutation": "LEGO",
+			"chance": 5,
+			"priority": 100,
+			"chance_type": "percent",
+			"allow_crates": false,
+			"conditions": [
+				{
+					"check": "conditions",
+					"property": "rod",
+					"values": [
+						"Brick Built Rod"
+					]
+				}
+			]
+		},
+		{
 			"mutation": "Aurora",
 			"chance": 30,
 			"priority": 45,
@@ -5997,8 +6129,8 @@
 			"conditions": []
 		},
 		{
-			"mutation": "Silver",
-			"chance": 15,
+			"mutation": "Awesome",
+			"chance": 1,
 			"chance_type": "weight",
 			"allow_crates": false,
 			"conditions": []
@@ -6085,6 +6217,13 @@
 			"conditions": []
 		},
 		{
+			"mutation": "Silver",
+			"chance": 15,
+			"chance_type": "weight",
+			"allow_crates": false,
+			"conditions": []
+		},
+		{
 			"mutation": "Electric",
 			"chance": 15,
 			"chance_type": "weight",
@@ -6129,6 +6268,7 @@
 		"Cursed Touch": 5,
 		"Darkened": 1.3,
 		"Doomsday": 4,
+		"Easter": 4,
 		"Electric": 1.45,
 		"Electric Shock": 3.5,
 		"Ember": 3,
@@ -6146,6 +6286,7 @@
 		"Hexed": 1.5,
 		"Jolly": 1.2,
 		"King’s Blessing": 3.5,
+		"LEGO": 3,
 		"Lightning": 1,
 		"Lost": 5.5,
 		"Lunar": 2.5,
@@ -6161,6 +6302,7 @@
 		"Purified": 2,
 		"Revitalized": 4,
 		"Sandy": 1.2,
+		"Sanguine": 8,
 		"Scorched": 2.5,
 		"Seasonal": 1.3,
 		"Seasonal (Spring)": 3,
@@ -6334,6 +6476,18 @@
 					}
 				]
 			}
+		},
+		"Brick Built Rod": {
+			"name": "Brick Built Rod",
+			"seas": [
+				"First Sea",
+				"Second Sea"
+			],
+			"luck": 80,
+			"max_weight": 200,
+			"lure": 15,
+			"resilience": 10,
+			"control": 0.1
 		},
 		"Brick Rod": {
 			"name": "Brick Rod",
@@ -7007,8 +7161,8 @@
 			"luck": 80,
 			"max_weight": 4000,
 			"lure": 55,
-			"resilience": 20,
-			"control": 0.05
+			"resilience": 15,
+			"control": 0.02
 		},
 		"Plastic Rod": {
 			"name": "Plastic Rod",
@@ -7419,7 +7573,7 @@
 				"First Sea"
 			],
 			"luck": 90,
-			"max_weight": null,
+			"max_weight": 20000,
 			"lure": 30,
 			"resilience": 15,
 			"control": 0.1
@@ -7432,7 +7586,7 @@
 			"luck": 85,
 			"max_weight": null,
 			"lure": 25,
-			"resilience": 10,
+			"resilience": 20,
 			"control": 0.08,
 			"passive": {
 				"progress_boost": {
@@ -7463,7 +7617,7 @@
 			"luck": 80,
 			"max_weight": 2000,
 			"lure": 55,
-			"resilience": 30,
+			"resilience": 40,
 			"control": -0.02,
 			"passive": {
 				"states": [
@@ -7635,7 +7789,7 @@
 		},
 		"Abyssal Bearded Seadevil": {
 			"name": "Abyssal Bearded Seadevil",
-			"order": 149,
+			"order": 150,
 			"rarity": "Uncommon",
 			"weather": [
 				"None"
@@ -7714,7 +7868,7 @@
 		},
 		"Abyssal Maw": {
 			"name": "Abyssal Maw",
-			"order": 634,
+			"order": 647,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -7733,7 +7887,7 @@
 		},
 		"Abyssborn Monstrosity": {
 			"name": "Abyssborn Monstrosity",
-			"order": 555,
+			"order": 553,
 			"rarity": "Secret",
 			"weather": [
 				"Rain"
@@ -7748,7 +7902,7 @@
 			"base_value": 25000,
 			"xp": 15000,
 			"resilience": 1,
-			"prog_speed": -0.97,
+			"prog_speed": -0.9,
 			"base_chance": 1
 		},
 		"Acanthodii": {
@@ -7829,7 +7983,7 @@
 		},
 		"Amberjack": {
 			"name": "Amberjack",
-			"order": 136,
+			"order": 137,
 			"rarity": "Uncommon",
 			"weather": [
 				"Clear",
@@ -7868,7 +8022,7 @@
 		},
 		"Amethyst": {
 			"name": "Amethyst",
-			"order": 575,
+			"order": 573,
 			"rarity": "Gemstone",
 			"weather": [
 				"None"
@@ -7905,7 +8059,7 @@
 		},
 		"Ancient Algae": {
 			"name": "Ancient Algae",
-			"order": 600,
+			"order": 603,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -7965,7 +8119,7 @@
 		},
 		"Ancient Fragment": {
 			"name": "Ancient Fragment",
-			"order": 570,
+			"order": 566,
 			"rarity": "Fragment",
 			"weather": [
 				"None"
@@ -7984,7 +8138,7 @@
 		},
 		"Ancient Kraken": {
 			"name": "Ancient Kraken",
-			"order": 550,
+			"order": 549,
 			"rarity": "Secret",
 			"weather": [
 				"None"
@@ -8043,7 +8197,7 @@
 		},
 		"Ancient Serpent Skull": {
 			"name": "Ancient Serpent Skull",
-			"order": 642,
+			"order": 655,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -8063,7 +8217,7 @@
 		},
 		"Ancient Serpent Spine": {
 			"name": "Ancient Serpent Spine",
-			"order": 641,
+			"order": 654,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -8178,7 +8332,7 @@
 		},
 		"Aqua Scribe": {
 			"name": "Aqua Scribe",
-			"order": 72,
+			"order": 73,
 			"rarity": "Common",
 			"weather": [
 				"Clear"
@@ -8235,7 +8389,7 @@
 		},
 		"Ashcloud Archerfish": {
 			"name": "Ashcloud Archerfish",
-			"order": 673,
+			"order": 689,
 			"rarity": "Limited",
 			"weather": [
 				"Foggy"
@@ -8254,7 +8408,7 @@
 		},
 		"Ashscale Minnow": {
 			"name": "Ashscale Minnow",
-			"order": 62,
+			"order": 63,
 			"rarity": "Common",
 			"weather": [
 				"Foggy"
@@ -8293,7 +8447,7 @@
 		},
 		"Atlantean Anchovy": {
 			"name": "Atlantean Anchovy",
-			"order": 80,
+			"order": 81,
 			"rarity": "Common",
 			"weather": [
 				"None"
@@ -8329,7 +8483,7 @@
 		},
 		"Atlantean Sardine": {
 			"name": "Atlantean Sardine",
-			"order": 51,
+			"order": 52,
 			"rarity": "Common",
 			"weather": [
 				"None"
@@ -8425,6 +8579,24 @@
 			"prog_speed": -0.65,
 			"base_chance": 32
 		},
+		"Azure Studfish": {
+			"name": "Azure Studfish",
+			"order": 656,
+			"rarity": "Limited",
+			"weather": [
+				"None"
+			],
+			"seasons": [
+				"None"
+			],
+			"bait": "Stud Bait",
+			"min_weight": 0.9,
+			"max_weight": 2.5,
+			"base_value": 60,
+			"xp": 20,
+			"resilience": 100,
+			"base_chance": 130
+		},
 		"Baby Pond Emperor": {
 			"name": "Baby Pond Emperor",
 			"order": 513,
@@ -8465,7 +8637,7 @@
 		},
 		"Banana": {
 			"name": "Banana",
-			"order": 552,
+			"order": 550,
 			"rarity": "Secret",
 			"weather": [
 				"Rain"
@@ -8521,7 +8693,7 @@
 		},
 		"Barracuda": {
 			"name": "Barracuda",
-			"order": 169,
+			"order": 170,
 			"rarity": "Uncommon",
 			"weather": [
 				"None"
@@ -8540,7 +8712,7 @@
 		},
 		"Barracuda's Spine": {
 			"name": "Barracuda's Spine",
-			"order": 593,
+			"order": 596,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -8617,7 +8789,7 @@
 		},
 		"Basic Present": {
 			"name": "Basic Present",
-			"order": 654,
+			"order": 669,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -8714,7 +8886,7 @@
 		},
 		"Black Veil Ray": {
 			"name": "Black Veil Ray",
-			"order": 660,
+			"order": 675,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -8750,7 +8922,7 @@
 		},
 		"Blarney McBreeze": {
 			"name": "Blarney McBreeze",
-			"order": 614,
+			"order": 618,
 			"rarity": "Limited",
 			"weather": [
 				"Rain"
@@ -8809,7 +8981,7 @@
 		},
 		"Blistered Eel": {
 			"name": "Blistered Eel",
-			"order": 610,
+			"order": 614,
 			"rarity": "Limited",
 			"weather": [
 				"Windy"
@@ -8842,12 +9014,12 @@
 			"base_value": 100,
 			"xp": 90,
 			"resilience": 15,
-			"prog_speed": -0.64,
+			"prog_speed": -0.25,
 			"base_chance": 120
 		},
 		"Bloodscript Eel": {
 			"name": "Bloodscript Eel",
-			"order": 628,
+			"order": 641,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -8904,7 +9076,7 @@
 		},
 		"Blue Foamtail": {
 			"name": "Blue Foamtail",
-			"order": 159,
+			"order": 160,
 			"rarity": "Uncommon",
 			"weather": [
 				"Windy"
@@ -9077,7 +9249,7 @@
 		},
 		"Bogscale": {
 			"name": "Bogscale",
-			"order": 57,
+			"order": 58,
 			"rarity": "Common",
 			"weather": [
 				"Foggy"
@@ -9115,7 +9287,7 @@
 		},
 		"Bone Lanternfish": {
 			"name": "Bone Lanternfish",
-			"order": 676,
+			"order": 692,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -9249,7 +9421,7 @@
 		},
 		"Bream": {
 			"name": "Bream",
-			"order": 79,
+			"order": 80,
 			"rarity": "Common",
 			"weather": [
 				"Foggy"
@@ -9266,6 +9438,24 @@
 			"xp": 30,
 			"resilience": 80,
 			"base_chance": 75
+		},
+		"Brickhorse": {
+			"name": "Brickhorse",
+			"order": 634,
+			"rarity": "Limited",
+			"weather": [
+				"None"
+			],
+			"seasons": [
+				"None"
+			],
+			"bait": "Stud Bait",
+			"min_weight": 2,
+			"max_weight": 5.5,
+			"base_value": 350,
+			"xp": 150,
+			"resilience": 75,
+			"base_chance": 85
 		},
 		"Brimstone Angler": {
 			"name": "Brimstone Angler",
@@ -9309,7 +9499,7 @@
 		},
 		"Brine Shrimp": {
 			"name": "Brine Shrimp",
-			"order": 162,
+			"order": 163,
 			"rarity": "Uncommon",
 			"weather": [
 				"None"
@@ -9384,7 +9574,7 @@
 		},
 		"Burnt Betta": {
 			"name": "Burnt Betta",
-			"order": 616,
+			"order": 620,
 			"rarity": "Limited",
 			"weather": [
 				"Windy"
@@ -9423,7 +9613,7 @@
 		},
 		"Candy Cane Carp": {
 			"name": "Candy Cane Carp",
-			"order": 666,
+			"order": 682,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -9442,7 +9632,7 @@
 		},
 		"Candy Fish": {
 			"name": "Candy Fish",
-			"order": 657,
+			"order": 672,
 			"rarity": "Limited",
 			"weather": [
 				"Clear"
@@ -9460,7 +9650,7 @@
 		},
 		"Canopy Tetra": {
 			"name": "Canopy Tetra",
-			"order": 154,
+			"order": 155,
 			"rarity": "Uncommon",
 			"weather": [
 				"Clear"
@@ -9499,7 +9689,7 @@
 		},
 		"Capybass": {
 			"name": "Capybass",
-			"order": 618,
+			"order": 623,
 			"rarity": "Limited",
 			"weather": [
 				"Clear"
@@ -9535,9 +9725,27 @@
 			"resilience": 50,
 			"base_chance": 2
 		},
+		"Cardinal Studfish": {
+			"name": "Cardinal Studfish",
+			"order": 633,
+			"rarity": "Limited",
+			"weather": [
+				"None"
+			],
+			"seasons": [
+				"None"
+			],
+			"bait": "Stud Bait",
+			"min_weight": 1.9,
+			"max_weight": 5.4,
+			"base_value": 400,
+			"xp": 180,
+			"resilience": 70,
+			"base_chance": 75
+		},
 		"Carp": {
 			"name": "Carp",
-			"order": 143,
+			"order": 144,
 			"rarity": "Uncommon",
 			"weather": [
 				"None"
@@ -9608,7 +9816,7 @@
 			"base_value": 3000,
 			"xp": 3800,
 			"resilience": 6,
-			"prog_speed": -0.92,
+			"prog_speed": -0.8,
 			"base_chance": 15
 		},
 		"Chillback Whitefish": {
@@ -9671,7 +9879,7 @@
 		},
 		"Chillshadow Chub": {
 			"name": "Chillshadow Chub",
-			"order": 151,
+			"order": 152,
 			"rarity": "Uncommon",
 			"weather": [
 				"Clear"
@@ -9690,7 +9898,7 @@
 		},
 		"Chinfish": {
 			"name": "Chinfish",
-			"order": 165,
+			"order": 166,
 			"rarity": "Uncommon",
 			"weather": [
 				"Rain"
@@ -9765,7 +9973,7 @@
 		},
 		"Cinder Carp": {
 			"name": "Cinder Carp",
-			"order": 636,
+			"order": 649,
 			"rarity": "Limited",
 			"weather": [
 				"Clear"
@@ -9839,7 +10047,7 @@
 		},
 		"Claw Gill": {
 			"name": "Claw Gill",
-			"order": 667,
+			"order": 683,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -9855,6 +10063,24 @@
 			"xp": 22,
 			"resilience": 100,
 			"base_chance": 40
+		},
+		"Clown Brickfish": {
+			"name": "Clown Brickfish",
+			"order": 593,
+			"rarity": "Limited",
+			"weather": [
+				"None"
+			],
+			"seasons": [
+				"None"
+			],
+			"bait": "Stud Bait",
+			"min_weight": 0.3,
+			"max_weight": 0.8,
+			"base_value": 80,
+			"xp": 30,
+			"resilience": 95,
+			"base_chance": 125
 		},
 		"Clownfish": {
 			"name": "Clownfish",
@@ -9877,7 +10103,7 @@
 		},
 		"Cluckfin": {
 			"name": "Cluckfin",
-			"order": 576,
+			"order": 574,
 			"rarity": "Limited",
 			"weather": [
 				"Clear"
@@ -9974,7 +10200,7 @@
 		},
 		"Colossal Carp": {
 			"name": "Colossal Carp",
-			"order": 173,
+			"order": 174,
 			"rarity": "Uncommon",
 			"weather": [
 				"None"
@@ -9993,7 +10219,7 @@
 		},
 		"Colossal Saccopharynx": {
 			"name": "Colossal Saccopharynx",
-			"order": 163,
+			"order": 164,
 			"rarity": "Uncommon",
 			"weather": [
 				"Windy"
@@ -10032,7 +10258,7 @@
 		},
 		"Column Crawler": {
 			"name": "Column Crawler",
-			"order": 74,
+			"order": 75,
 			"rarity": "Common",
 			"weather": [
 				"None"
@@ -10050,7 +10276,7 @@
 		},
 		"Common Crate": {
 			"name": "Common Crate",
-			"order": 160,
+			"order": 161,
 			"rarity": "Uncommon",
 			"weather": [
 				"None"
@@ -10069,7 +10295,7 @@
 		},
 		"Confetti Shark": {
 			"name": "Confetti Shark",
-			"order": 629,
+			"order": 642,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -10087,7 +10313,7 @@
 		},
 		"Cookie": {
 			"name": "Cookie",
-			"order": 653,
+			"order": 667,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -10126,7 +10352,7 @@
 		},
 		"Coral Chromis": {
 			"name": "Coral Chromis",
-			"order": 82,
+			"order": 83,
 			"rarity": "Common",
 			"weather": [
 				"None"
@@ -10165,7 +10391,7 @@
 		},
 		"Coral Geode": {
 			"name": "Coral Geode",
-			"order": 153,
+			"order": 154,
 			"rarity": "Uncommon",
 			"weather": [
 				"None"
@@ -10184,7 +10410,7 @@
 		},
 		"Coral Guard": {
 			"name": "Coral Guard",
-			"order": 134,
+			"order": 135,
 			"rarity": "Uncommon",
 			"weather": [
 				"None"
@@ -10223,7 +10449,7 @@
 		},
 		"Countdown Perch": {
 			"name": "Countdown Perch",
-			"order": 645,
+			"order": 659,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -10257,6 +10483,24 @@
 			"xp": 50,
 			"resilience": 90,
 			"base_chance": 40
+		},
+		"Crab Stud": {
+			"name": "Crab Stud",
+			"order": 676,
+			"rarity": "Limited",
+			"weather": [
+				"None"
+			],
+			"seasons": [
+				"None"
+			],
+			"bait": "Stud Bait",
+			"min_weight": 2.3,
+			"max_weight": 8,
+			"base_value": 450,
+			"xp": 200,
+			"resilience": 60,
+			"base_chance": 65
 		},
 		"Cragscale": {
 			"name": "Cragscale",
@@ -10295,7 +10539,7 @@
 			"base_value": 950,
 			"xp": 725,
 			"resilience": 9,
-			"prog_speed": -0.69,
+			"prog_speed": -0.6,
 			"base_chance": 45
 		},
 		"Crescent Madtom": {
@@ -10319,7 +10563,7 @@
 		},
 		"Crestscale": {
 			"name": "Crestscale",
-			"order": 141,
+			"order": 142,
 			"rarity": "Uncommon",
 			"weather": [
 				"Windy"
@@ -10338,7 +10582,7 @@
 		},
 		"Crocokoi": {
 			"name": "Crocokoi",
-			"order": 675,
+			"order": 691,
 			"rarity": "Limited",
 			"weather": [
 				"Foggy"
@@ -10416,7 +10660,7 @@
 		},
 		"Cryoskin": {
 			"name": "Cryoskin",
-			"order": 81,
+			"order": 82,
 			"rarity": "Common",
 			"weather": [
 				"None"
@@ -10436,7 +10680,7 @@
 		},
 		"Crystal Carp": {
 			"name": "Crystal Carp",
-			"order": 596,
+			"order": 599,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -10455,7 +10699,7 @@
 		},
 		"Crystal Chorus": {
 			"name": "Crystal Chorus",
-			"order": 164,
+			"order": 165,
 			"rarity": "Uncommon",
 			"weather": [
 				"Clear"
@@ -10563,8 +10807,8 @@
 				"Summer"
 			],
 			"bait": "Sapphire Krill",
-			"min_weight": 4,
-			"max_weight": 10,
+			"min_weight": 10.5,
+			"max_weight": 10.5,
 			"base_value": 40,
 			"xp": 20,
 			"resilience": 85,
@@ -10744,7 +10988,7 @@
 		},
 		"Deep Sea Fragment": {
 			"name": "Deep Sea Fragment",
-			"order": 567,
+			"order": 565,
 			"rarity": "Fragment",
 			"weather": [
 				"None"
@@ -10894,7 +11138,7 @@
 		},
 		"Diamond Discus": {
 			"name": "Diamond Discus",
-			"order": 161,
+			"order": 162,
 			"rarity": "Uncommon",
 			"weather": [
 				"Clear"
@@ -10932,7 +11176,7 @@
 		},
 		"Dogefin": {
 			"name": "Dogefin",
-			"order": 558,
+			"order": 556,
 			"rarity": "Secret",
 			"weather": [
 				"Clear"
@@ -10988,12 +11232,12 @@
 			"base_value": 8500,
 			"xp": 5050,
 			"resilience": 3,
-			"prog_speed": -0.95,
+			"prog_speed": -0.85,
 			"base_chance": 1
 		},
 		"Drift Claw": {
 			"name": "Drift Claw",
-			"order": 64,
+			"order": 65,
 			"rarity": "Common",
 			"weather": [
 				"Rain"
@@ -11033,7 +11277,7 @@
 		},
 		"Drifting Gildfin": {
 			"name": "Drifting Gildfin",
-			"order": 58,
+			"order": 59,
 			"rarity": "Common",
 			"weather": [
 				"Foggy"
@@ -11071,7 +11315,7 @@
 		},
 		"Duckfin Tuna": {
 			"name": "Duckfin Tuna",
-			"order": 608,
+			"order": 612,
 			"rarity": "Limited",
 			"weather": [
 				"Clear"
@@ -11149,7 +11393,7 @@
 		},
 		"Earth Fragment": {
 			"name": "Earth Fragment",
-			"order": 569,
+			"order": 568,
 			"rarity": "Fragment",
 			"weather": [
 				"None"
@@ -11168,7 +11412,7 @@
 		},
 		"Echo Fisher": {
 			"name": "Echo Fisher",
-			"order": 168,
+			"order": 169,
 			"rarity": "Uncommon",
 			"weather": [
 				"Foggy"
@@ -11245,7 +11489,7 @@
 		},
 		"Eldritch Spineback": {
 			"name": "Eldritch Spineback",
-			"order": 622,
+			"order": 627,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -11264,7 +11508,7 @@
 		},
 		"Ember Catfish": {
 			"name": "Ember Catfish",
-			"order": 623,
+			"order": 628,
 			"rarity": "Limited",
 			"weather": [
 				"Clear"
@@ -11357,7 +11601,7 @@
 		},
 		"Emerald Elephantnose": {
 			"name": "Emerald Elephantnose",
-			"order": 146,
+			"order": 147,
 			"rarity": "Uncommon",
 			"weather": [
 				"Clear"
@@ -11395,7 +11639,7 @@
 		},
 		"Enchant Relic": {
 			"name": "Enchant Relic",
-			"order": 564,
+			"order": 562,
 			"rarity": "Relic",
 			"weather": [
 				"None"
@@ -11414,7 +11658,7 @@
 		},
 		"Eternal Frostwhale": {
 			"name": "Eternal Frostwhale",
-			"order": 668,
+			"order": 684,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -11433,7 +11677,7 @@
 		},
 		"Exalted Relic": {
 			"name": "Exalted Relic",
-			"order": 565,
+			"order": 563,
 			"rarity": "Relic",
 			"weather": [
 				"None"
@@ -11490,7 +11734,7 @@
 		},
 		"Festive Bait Crate": {
 			"name": "Festive Bait Crate",
-			"order": 606,
+			"order": 609,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -11509,7 +11753,7 @@
 		},
 		"Firecrest": {
 			"name": "Firecrest",
-			"order": 50,
+			"order": 51,
 			"rarity": "Common",
 			"weather": [
 				"Rain"
@@ -11529,7 +11773,7 @@
 		},
 		"Fish Barrel": {
 			"name": "Fish Barrel",
-			"order": 152,
+			"order": 153,
 			"rarity": "Uncommon",
 			"weather": [
 				"None"
@@ -11548,7 +11792,7 @@
 		},
 		"Flamangler": {
 			"name": "Flamangler",
-			"order": 637,
+			"order": 650,
 			"rarity": "Limited",
 			"weather": [
 				"Windy"
@@ -11625,7 +11869,7 @@
 		},
 		"Foamrunner": {
 			"name": "Foamrunner",
-			"order": 157,
+			"order": 158,
 			"rarity": "Uncommon",
 			"weather": [
 				"Foggy"
@@ -11663,7 +11907,7 @@
 		},
 		"Forsaken Algae": {
 			"name": "Forsaken Algae",
-			"order": 602,
+			"order": 605,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -11682,7 +11926,7 @@
 		},
 		"Fossil Fan": {
 			"name": "Fossil Fan",
-			"order": 652,
+			"order": 666,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -11701,7 +11945,7 @@
 		},
 		"Four Eyes Fish": {
 			"name": "Four Eyes Fish",
-			"order": 140,
+			"order": 141,
 			"rarity": "Uncommon",
 			"weather": [
 				"Windy"
@@ -11836,7 +12080,7 @@
 		},
 		"Frost Minnow": {
 			"name": "Frost Minnow",
-			"order": 139,
+			"order": 140,
 			"rarity": "Uncommon",
 			"weather": [
 				"None"
@@ -11855,7 +12099,7 @@
 		},
 		"Frost Ray": {
 			"name": "Frost Ray",
-			"order": 167,
+			"order": 168,
 			"rarity": "Uncommon",
 			"weather": [
 				"Windy"
@@ -11951,7 +12195,7 @@
 		},
 		"Frozen Fangfish": {
 			"name": "Frozen Fangfish",
-			"order": 579,
+			"order": 577,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -12068,7 +12312,7 @@
 		},
 		"Gale Snapper": {
 			"name": "Gale Snapper",
-			"order": 65,
+			"order": 66,
 			"rarity": "Common",
 			"weather": [
 				"Windy"
@@ -12107,7 +12351,7 @@
 		},
 		"Gazerfish": {
 			"name": "Gazerfish",
-			"order": 83,
+			"order": 47,
 			"rarity": "Common",
 			"weather": [
 				"None"
@@ -12127,7 +12371,7 @@
 		},
 		"Ghoulfish": {
 			"name": "Ghoulfish",
-			"order": 591,
+			"order": 592,
 			"rarity": "Limited",
 			"weather": [
 				"Clear"
@@ -12202,7 +12446,7 @@
 		},
 		"Gingerbread Fish": {
 			"name": "Gingerbread Fish",
-			"order": 605,
+			"order": 608,
 			"rarity": "Limited",
 			"weather": [
 				"Clear"
@@ -12260,7 +12504,7 @@
 		},
 		"Glacier Glowfish": {
 			"name": "Glacier Glowfish",
-			"order": 674,
+			"order": 690,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -12376,7 +12620,7 @@
 		},
 		"Glass of Milk": {
 			"name": "Glass of Milk",
-			"order": 651,
+			"order": 665,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -12469,7 +12713,7 @@
 		},
 		"Gloombiter": {
 			"name": "Gloombiter",
-			"order": 53,
+			"order": 54,
 			"rarity": "Common",
 			"weather": [
 				"Foggy"
@@ -12484,8 +12728,26 @@
 			"base_value": 110,
 			"xp": 105,
 			"resilience": 15,
-			"prog_speed": -0.66,
+			"prog_speed": -0.3,
 			"base_chance": 115
+		},
+		"Glow Brick": {
+			"name": "Glow Brick",
+			"order": 668,
+			"rarity": "Limited",
+			"weather": [
+				"None"
+			],
+			"seasons": [
+				"None"
+			],
+			"bait": "Stud Bait",
+			"min_weight": 9,
+			"max_weight": 30,
+			"base_value": 800,
+			"xp": 500,
+			"resilience": 20,
+			"base_chance": 55
 		},
 		"Glowfin Skipper": {
 			"name": "Glowfin Skipper",
@@ -12526,6 +12788,24 @@
 			"xp": 80,
 			"resilience": 50,
 			"base_chance": 25
+		},
+		"Goldbrick": {
+			"name": "Goldbrick",
+			"order": 637,
+			"rarity": "Limited",
+			"weather": [
+				"None"
+			],
+			"seasons": [
+				"None"
+			],
+			"bait": "Stud Bait",
+			"min_weight": 1.5,
+			"max_weight": 4,
+			"base_value": 100,
+			"xp": 50,
+			"resilience": 90,
+			"base_chance": 115
 		},
 		"Golden Sea Pearl": {
 			"name": "Golden Sea Pearl",
@@ -12585,7 +12865,7 @@
 		},
 		"Goldfish": {
 			"name": "Goldfish",
-			"order": 172,
+			"order": 173,
 			"rarity": "Uncommon",
 			"weather": [
 				"Clear"
@@ -12643,7 +12923,7 @@
 		},
 		"Grayling": {
 			"name": "Grayling",
-			"order": 54,
+			"order": 55,
 			"rarity": "Common",
 			"weather": [
 				"Foggy"
@@ -12738,7 +13018,7 @@
 		},
 		"Gudgeon": {
 			"name": "Gudgeon",
-			"order": 47,
+			"order": 48,
 			"rarity": "Common",
 			"weather": [
 				"None"
@@ -12853,7 +13133,7 @@
 		},
 		"Harbinger Koi": {
 			"name": "Harbinger Koi",
-			"order": 585,
+			"order": 584,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -12908,7 +13188,7 @@
 		},
 		"Hellfire Haddock": {
 			"name": "Hellfire Haddock",
-			"order": 66,
+			"order": 67,
 			"rarity": "Common",
 			"weather": [
 				"Rain"
@@ -12927,7 +13207,7 @@
 		},
 		"Hellmaw Eel": {
 			"name": "Hellmaw Eel",
-			"order": 144,
+			"order": 145,
 			"rarity": "Uncommon",
 			"weather": [
 				"Clear"
@@ -12968,7 +13248,7 @@
 		},
 		"Hexeye Snapper": {
 			"name": "Hexeye Snapper",
-			"order": 658,
+			"order": 673,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -12985,7 +13265,7 @@
 		},
 		"Hogchoker": {
 			"name": "Hogchoker",
-			"order": 52,
+			"order": 53,
 			"rarity": "Common",
 			"weather": [
 				"Clear"
@@ -13005,7 +13285,7 @@
 		},
 		"Hollow Flake Catfish": {
 			"name": "Hollow Flake Catfish",
-			"order": 632,
+			"order": 645,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -13024,7 +13304,7 @@
 		},
 		"Hollow Gazer": {
 			"name": "Hollow Gazer",
-			"order": 663,
+			"order": 679,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -13078,12 +13358,12 @@
 			"base_value": 700,
 			"xp": 600,
 			"resilience": 10,
-			"prog_speed": -0.67,
+			"prog_speed": -0.55,
 			"base_chance": 50
 		},
 		"Hollyscale Trout": {
 			"name": "Hollyscale Trout",
-			"order": 631,
+			"order": 644,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -13141,7 +13421,7 @@
 		},
 		"Hourglass Bass": {
 			"name": "Hourglass Bass",
-			"order": 644,
+			"order": 658,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -13385,7 +13665,7 @@
 		},
 		"Icicle": {
 			"name": "Icicle",
-			"order": 578,
+			"order": 576,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -13594,7 +13874,7 @@
 		},
 		"Inferno Hide": {
 			"name": "Inferno Hide",
-			"order": 67,
+			"order": 68,
 			"rarity": "Common",
 			"weather": [
 				"None"
@@ -13648,6 +13928,24 @@
 			"resilience": 8,
 			"prog_speed": -0.5,
 			"base_chance": 0.1
+		},
+		"Jellystud": {
+			"name": "Jellystud",
+			"order": 621,
+			"rarity": "Limited",
+			"weather": [
+				"None"
+			],
+			"seasons": [
+				"None"
+			],
+			"bait": "Stud Bait",
+			"min_weight": 1.5,
+			"max_weight": 4,
+			"base_value": 400,
+			"xp": 200,
+			"resilience": 50,
+			"base_chance": 45
 		},
 		"Jungle Phantom": {
 			"name": "Jungle Phantom",
@@ -13727,7 +14025,7 @@
 		},
 		"Kittyfish": {
 			"name": "Kittyfish",
-			"order": 619,
+			"order": 624,
 			"rarity": "Limited",
 			"weather": [
 				"Clear"
@@ -13766,7 +14064,7 @@
 		},
 		"Krabbit": {
 			"name": "Krabbit",
-			"order": 607,
+			"order": 610,
 			"rarity": "Limited",
 			"weather": [
 				"Clear"
@@ -13824,7 +14122,7 @@
 		},
 		"Lagoon Dart": {
 			"name": "Lagoon Dart",
-			"order": 170,
+			"order": 171,
 			"rarity": "Uncommon",
 			"weather": [
 				"Rain"
@@ -13864,7 +14162,7 @@
 		},
 		"Lapis Lazuli": {
 			"name": "Lapis Lazuli",
-			"order": 573,
+			"order": 571,
 			"rarity": "Gemstone",
 			"weather": [
 				"None"
@@ -14016,7 +14314,7 @@
 		},
 		"Leviathan Humpback Anglerfish": {
 			"name": "Leviathan Humpback Anglerfish",
-			"order": 70,
+			"order": 71,
 			"rarity": "Common",
 			"weather": [
 				"Rain"
@@ -14167,8 +14465,8 @@
 		},
 		"Lovestorm Eel": {
 			"name": "Lovestorm Eel",
-			"order": 546,
-			"rarity": "Secret",
+			"order": 588,
+			"rarity": "Limited",
 			"weather": [
 				"Clear"
 			],
@@ -14186,8 +14484,8 @@
 		},
 		"Lovestorm Eel Supercharged": {
 			"name": "Lovestorm Eel Supercharged",
-			"order": 551,
-			"rarity": "Secret",
+			"order": 611,
+			"rarity": "Limited",
 			"weather": [
 				"Clear"
 			],
@@ -14263,7 +14561,7 @@
 		},
 		"Lurkerfish": {
 			"name": "Lurkerfish",
-			"order": 620,
+			"order": 625,
 			"rarity": "Limited",
 			"weather": [
 				"Foggy"
@@ -14283,7 +14581,7 @@
 		},
 		"Lurking Crescent Pike": {
 			"name": "Lurking Crescent Pike",
-			"order": 156,
+			"order": 157,
 			"rarity": "Uncommon",
 			"weather": [
 				"Windy"
@@ -14382,7 +14680,7 @@
 		},
 		"Magma Pike": {
 			"name": "Magma Pike",
-			"order": 137,
+			"order": 138,
 			"rarity": "Uncommon",
 			"weather": [
 				"Windy"
@@ -14401,7 +14699,7 @@
 		},
 		"Magma Tang": {
 			"name": "Magma Tang",
-			"order": 142,
+			"order": 143,
 			"rarity": "Uncommon",
 			"weather": [
 				"None"
@@ -14440,7 +14738,7 @@
 		},
 		"Mained Lionfish": {
 			"name": "Mained Lionfish",
-			"order": 582,
+			"order": 581,
 			"rarity": "Limited",
 			"weather": [
 				"Clear"
@@ -14479,7 +14777,7 @@
 		},
 		"Marble Maiden": {
 			"name": "Marble Maiden",
-			"order": 166,
+			"order": 167,
 			"rarity": "Uncommon",
 			"weather": [
 				"None"
@@ -14648,7 +14946,7 @@
 		},
 		"Minnowse": {
 			"name": "Minnowse",
-			"order": 633,
+			"order": 646,
 			"rarity": "Limited",
 			"weather": [
 				"Foggy"
@@ -14667,7 +14965,7 @@
 		},
 		"Moby": {
 			"name": "Moby",
-			"order": 561,
+			"order": 559,
 			"rarity": "Secret",
 			"weather": [
 				"None"
@@ -14706,7 +15004,7 @@
 		},
 		"Molten Minnow": {
 			"name": "Molten Minnow",
-			"order": 581,
+			"order": 580,
 			"rarity": "Limited",
 			"weather": [
 				"Clear"
@@ -14742,7 +15040,7 @@
 		},
 		"Molten Ripple": {
 			"name": "Molten Ripple",
-			"order": 560,
+			"order": 558,
 			"rarity": "Secret",
 			"weather": [
 				"Windy"
@@ -14762,7 +15060,7 @@
 		},
 		"Moltenstripe": {
 			"name": "Moltenstripe",
-			"order": 61,
+			"order": 62,
 			"rarity": "Common",
 			"weather": [
 				"Clear"
@@ -14801,14 +15099,16 @@
 		},
 		"Moon Idol Sea 1": {
 			"name": "Moon Idol Sea 1",
-			"order": 563,
+			"order": 561,
 			"rarity": "Secret",
 			"weather": [
 				"None"
 			],
+			"time": "None",
 			"seasons": [
 				"None"
 			],
+			"bait": "None",
 			"min_weight": 50,
 			"max_weight": 50,
 			"base_value": 30000,
@@ -14819,14 +15119,16 @@
 		},
 		"Moon Idol Sea 2": {
 			"name": "Moon Idol Sea 2",
-			"order": 549,
+			"order": 548,
 			"rarity": "Secret",
 			"weather": [
 				"None"
 			],
+			"time": "None",
 			"seasons": [
 				"None"
 			],
+			"bait": "None",
 			"min_weight": 50,
 			"max_weight": 50,
 			"base_value": 30000,
@@ -14894,7 +15196,7 @@
 		},
 		"Moonstone": {
 			"name": "Moonstone",
-			"order": 572,
+			"order": 570,
 			"rarity": "Gemstone",
 			"weather": [
 				"None"
@@ -14912,7 +15214,7 @@
 		},
 		"Moonveil Killifish": {
 			"name": "Moonveil Killifish",
-			"order": 71,
+			"order": 72,
 			"rarity": "Common",
 			"weather": [
 				"Foggy"
@@ -14989,7 +15291,7 @@
 		},
 		"Murkdrifter": {
 			"name": "Murkdrifter",
-			"order": 59,
+			"order": 60,
 			"rarity": "Common",
 			"weather": [
 				"Rain"
@@ -15009,7 +15311,7 @@
 		},
 		"Murkfin": {
 			"name": "Murkfin",
-			"order": 60,
+			"order": 61,
 			"rarity": "Common",
 			"weather": [
 				"Foggy"
@@ -15029,7 +15331,7 @@
 		},
 		"Murkslither": {
 			"name": "Murkslither",
-			"order": 147,
+			"order": 148,
 			"rarity": "Uncommon",
 			"weather": [
 				"Rain"
@@ -15044,12 +15346,12 @@
 			"base_value": 240,
 			"xp": 220,
 			"resilience": 13,
-			"prog_speed": -0.63,
+			"prog_speed": -0.4,
 			"base_chance": 95
 		},
 		"Mushgrove Algae": {
 			"name": "Mushgrove Algae",
-			"order": 671,
+			"order": 687,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -15086,7 +15388,7 @@
 		},
 		"Mussel": {
 			"name": "Mussel",
-			"order": 68,
+			"order": 69,
 			"rarity": "Common",
 			"weather": [
 				"None"
@@ -15104,7 +15406,7 @@
 		},
 		"Mustard": {
 			"name": "Mustard",
-			"order": 547,
+			"order": 546,
 			"rarity": "Secret",
 			"weather": [
 				"Rain"
@@ -15202,7 +15504,7 @@
 		},
 		"Neptune's Nibbler": {
 			"name": "Neptune's Nibbler",
-			"order": 73,
+			"order": 74,
 			"rarity": "Common",
 			"weather": [
 				"Clear"
@@ -15222,7 +15524,7 @@
 		},
 		"Nessie": {
 			"name": "Nessie",
-			"order": 640,
+			"order": 653,
 			"rarity": "Limited",
 			"weather": [
 				"Foggy"
@@ -15242,7 +15544,7 @@
 		},
 		"Nessie's Spine": {
 			"name": "Nessie's Spine",
-			"order": 647,
+			"order": 661,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -15262,7 +15564,7 @@
 		},
 		"Night Shrimp": {
 			"name": "Night Shrimp",
-			"order": 49,
+			"order": 50,
 			"rarity": "Common",
 			"weather": [
 				"Clear"
@@ -15282,7 +15584,7 @@
 		},
 		"Northstar Serpent": {
 			"name": "Northstar Serpent",
-			"order": 617,
+			"order": 622,
 			"rarity": "Limited",
 			"weather": [
 				"Foggy"
@@ -15323,7 +15625,7 @@
 		},
 		"O'Mango Goldgrin": {
 			"name": "O'Mango Goldgrin",
-			"order": 590,
+			"order": 591,
 			"rarity": "Limited",
 			"weather": [
 				"Rain"
@@ -15440,7 +15742,7 @@
 		},
 		"Octophant": {
 			"name": "Octophant",
-			"order": 669,
+			"order": 685,
 			"rarity": "Limited",
 			"weather": [
 				"Clear"
@@ -15480,7 +15782,7 @@
 		},
 		"Olmdeer": {
 			"name": "Olmdeer",
-			"order": 638,
+			"order": 651,
 			"rarity": "Limited",
 			"weather": [
 				"Clear",
@@ -15520,7 +15822,7 @@
 		},
 		"Opal": {
 			"name": "Opal",
-			"order": 571,
+			"order": 569,
 			"rarity": "Gemstone",
 			"weather": [
 				"None"
@@ -15595,7 +15897,7 @@
 		},
 		"Orcanda": {
 			"name": "Orcanda",
-			"order": 615,
+			"order": 619,
 			"rarity": "Limited",
 			"weather": [
 				"Foggy"
@@ -15614,7 +15916,7 @@
 		},
 		"Ornament Fish": {
 			"name": "Ornament Fish",
-			"order": 649,
+			"order": 663,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -15730,7 +16032,7 @@
 		},
 		"Parrotfish": {
 			"name": "Parrotfish",
-			"order": 586,
+			"order": 585,
 			"rarity": "Limited",
 			"weather": [
 				"Windy"
@@ -15787,7 +16089,7 @@
 		},
 		"Pengwhal": {
 			"name": "Pengwhal",
-			"order": 583,
+			"order": 582,
 			"rarity": "Limited",
 			"weather": [
 				"Clear"
@@ -15863,7 +16165,7 @@
 		},
 		"Phantom Koi": {
 			"name": "Phantom Koi",
-			"order": 557,
+			"order": 555,
 			"rarity": "Secret",
 			"weather": [
 				"Foggy"
@@ -15883,7 +16185,7 @@
 		},
 		"Phantom Megalodon": {
 			"name": "Phantom Megalodon",
-			"order": 598,
+			"order": 601,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -15903,7 +16205,7 @@
 		},
 		"Phantom Ray": {
 			"name": "Phantom Ray",
-			"order": 174,
+			"order": 175,
 			"rarity": "Uncommon",
 			"weather": [
 				"None"
@@ -15942,7 +16244,7 @@
 		},
 		"Piglet Pike": {
 			"name": "Piglet Pike",
-			"order": 611,
+			"order": 615,
 			"rarity": "Limited",
 			"weather": [
 				"Rain"
@@ -16019,7 +16321,7 @@
 		},
 		"Piranhamunk": {
 			"name": "Piranhamunk",
-			"order": 630,
+			"order": 643,
 			"rarity": "Limited",
 			"weather": [
 				"Foggy"
@@ -16038,7 +16340,7 @@
 		},
 		"Plumrick O'Luck": {
 			"name": "Plumrick O'Luck",
-			"order": 597,
+			"order": 600,
 			"rarity": "Limited",
 			"weather": [
 				"Rain"
@@ -16135,7 +16437,7 @@
 		},
 		"Porcufish": {
 			"name": "Porcufish",
-			"order": 588,
+			"order": 587,
 			"rarity": "Limited",
 			"weather": [
 				"Rain"
@@ -16175,7 +16477,7 @@
 		},
 		"Poseidon's Perch": {
 			"name": "Poseidon's Perch",
-			"order": 75,
+			"order": 76,
 			"rarity": "Common",
 			"weather": [
 				"Clear"
@@ -16251,7 +16553,7 @@
 		},
 		"Profane Ray": {
 			"name": "Profane Ray",
-			"order": 601,
+			"order": 604,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -16270,7 +16572,7 @@
 		},
 		"Psychedelic Frogfish": {
 			"name": "Psychedelic Frogfish",
-			"order": 556,
+			"order": 554,
 			"rarity": "Secret",
 			"weather": [
 				"Foggy"
@@ -16326,7 +16628,7 @@
 		},
 		"Pupfish": {
 			"name": "Pupfish",
-			"order": 48,
+			"order": 49,
 			"rarity": "Common",
 			"weather": [
 				"Windy"
@@ -16385,7 +16687,7 @@
 		},
 		"Pyro Pike": {
 			"name": "Pyro Pike",
-			"order": 584,
+			"order": 583,
 			"rarity": "Limited",
 			"weather": [
 				"Rain"
@@ -16441,7 +16743,7 @@
 		},
 		"Quartzfin Queenfish": {
 			"name": "Quartzfin Queenfish",
-			"order": 69,
+			"order": 70,
 			"rarity": "Common",
 			"weather": [
 				"Clear"
@@ -16479,7 +16781,7 @@
 		},
 		"Racuda": {
 			"name": "Racuda",
-			"order": 621,
+			"order": 626,
 			"rarity": "Limited",
 			"weather": [
 				"Rain"
@@ -16651,7 +16953,7 @@
 		},
 		"Reef Goby": {
 			"name": "Reef Goby",
-			"order": 175,
+			"order": 176,
 			"rarity": "Uncommon",
 			"weather": [
 				"None"
@@ -16768,7 +17070,7 @@
 		},
 		"Resin": {
 			"name": "Resin",
-			"order": 559,
+			"order": 557,
 			"rarity": "Secret",
 			"weather": [
 				"None"
@@ -16941,7 +17243,7 @@
 		},
 		"Rotfin Eel": {
 			"name": "Rotfin Eel",
-			"order": 580,
+			"order": 579,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -16958,7 +17260,7 @@
 		},
 		"Rotjaw": {
 			"name": "Rotjaw",
-			"order": 148,
+			"order": 149,
 			"rarity": "Uncommon",
 			"weather": [
 				"Foggy"
@@ -16973,12 +17275,12 @@
 			"base_value": 220,
 			"xp": 210,
 			"resilience": 14,
-			"prog_speed": -0.62,
+			"prog_speed": -0.35,
 			"base_chance": 100
 		},
 		"Rowdy McCharm": {
 			"name": "Rowdy McCharm",
-			"order": 677,
+			"order": 693,
 			"rarity": "Limited",
 			"weather": [
 				"Rain"
@@ -16997,7 +17299,7 @@
 		},
 		"Royal Tigerfish": {
 			"name": "Royal Tigerfish",
-			"order": 612,
+			"order": 616,
 			"rarity": "Limited",
 			"weather": [
 				"Clear"
@@ -17035,7 +17337,7 @@
 		},
 		"Ruby": {
 			"name": "Ruby",
-			"order": 574,
+			"order": 572,
 			"rarity": "Gemstone",
 			"weather": [
 				"None"
@@ -17111,7 +17413,7 @@
 		},
 		"Salmoose": {
 			"name": "Salmoose",
-			"order": 624,
+			"order": 632,
 			"rarity": "Limited",
 			"weather": [
 				"Clear"
@@ -17148,7 +17450,7 @@
 		},
 		"Santa Pufferfish": {
 			"name": "Santa Pufferfish",
-			"order": 609,
+			"order": 613,
 			"rarity": "Limited",
 			"weather": [
 				"Foggy"
@@ -17168,7 +17470,7 @@
 		},
 		"Santa Salmon": {
 			"name": "Santa Salmon",
-			"order": 635,
+			"order": 648,
 			"rarity": "Limited",
 			"weather": [
 				"Rain",
@@ -17226,7 +17528,7 @@
 		},
 		"Sardine": {
 			"name": "Sardine",
-			"order": 56,
+			"order": 57,
 			"rarity": "Common",
 			"weather": [
 				"Clear"
@@ -17304,7 +17606,7 @@
 		},
 		"Scooty Salmon": {
 			"name": "Scooty Salmon",
-			"order": 587,
+			"order": 586,
 			"rarity": "Limited",
 			"weather": [
 				"Windy"
@@ -17376,7 +17678,7 @@
 			"base_value": 2000,
 			"xp": 2500,
 			"resilience": 7,
-			"prog_speed": -0.82,
+			"prog_speed": -0.75,
 			"base_chance": 25
 		},
 		"Scurvy Sailfish": {
@@ -17400,7 +17702,7 @@
 		},
 		"Scylla": {
 			"name": "Scylla",
-			"order": 548,
+			"order": 547,
 			"rarity": "Secret",
 			"weather": [
 				"None"
@@ -17554,7 +17856,7 @@
 		},
 		"Seacow": {
 			"name": "Seacow",
-			"order": 592,
+			"order": 594,
 			"rarity": "Limited",
 			"weather": [
 				"Windy"
@@ -17611,7 +17913,7 @@
 		},
 		"Serpent Surgeonfish": {
 			"name": "Serpent Surgeonfish",
-			"order": 158,
+			"order": 159,
 			"rarity": "Uncommon",
 			"weather": [
 				"Foggy"
@@ -17649,7 +17951,7 @@
 		},
 		"Shark Fang": {
 			"name": "Shark Fang",
-			"order": 595,
+			"order": 598,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -17776,7 +18078,7 @@
 		},
 		"Shrimpanzee": {
 			"name": "Shrimpanzee",
-			"order": 648,
+			"order": 662,
 			"rarity": "Limited",
 			"weather": [
 				"Foggy"
@@ -17833,7 +18135,7 @@
 		},
 		"Siren Sheep": {
 			"name": "Siren Sheep",
-			"order": 659,
+			"order": 674,
 			"rarity": "Limited",
 			"weather": [
 				"Windy"
@@ -17871,7 +18173,7 @@
 		},
 		"Siren’s Guppy": {
 			"name": "Siren’s Guppy",
-			"order": 646,
+			"order": 660,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -17888,7 +18190,7 @@
 		},
 		"Skelefish": {
 			"name": "Skelefish",
-			"order": 613,
+			"order": 617,
 			"rarity": "Limited",
 			"weather": [
 				"Clear"
@@ -17924,7 +18226,7 @@
 		},
 		"Slain Maw": {
 			"name": "Slain Maw",
-			"order": 664,
+			"order": 680,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -17960,7 +18262,7 @@
 		},
 		"Slurpfloth": {
 			"name": "Slurpfloth",
-			"order": 604,
+			"order": 607,
 			"rarity": "Limited",
 			"weather": [
 				"Rain"
@@ -18000,7 +18302,7 @@
 		},
 		"Smallmouth Bass": {
 			"name": "Smallmouth Bass",
-			"order": 63,
+			"order": 64,
 			"rarity": "Common",
 			"weather": [
 				"Windy"
@@ -18155,7 +18457,7 @@
 		},
 		"Snowcap Algae": {
 			"name": "Snowcap Algae",
-			"order": 577,
+			"order": 575,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -18193,7 +18495,7 @@
 		},
 		"Snowflake Flounder": {
 			"name": "Snowflake Flounder",
-			"order": 670,
+			"order": 686,
 			"rarity": "Limited",
 			"weather": [
 				"Rainy"
@@ -18212,7 +18514,7 @@
 		},
 		"Snowflake Smelt": {
 			"name": "Snowflake Smelt",
-			"order": 138,
+			"order": 139,
 			"rarity": "Uncommon",
 			"weather": [
 				"Snow"
@@ -18270,7 +18572,7 @@
 		},
 		"Solar Fragment": {
 			"name": "Solar Fragment",
-			"order": 568,
+			"order": 567,
 			"rarity": "Fragment",
 			"weather": [
 				"None"
@@ -18289,7 +18591,7 @@
 		},
 		"Song of the Deep": {
 			"name": "Song of the Deep",
-			"order": 566,
+			"order": 564,
 			"rarity": "Relic",
 			"weather": [
 				"None"
@@ -18308,7 +18610,7 @@
 		},
 		"Sparkfin Tetra": {
 			"name": "Sparkfin Tetra",
-			"order": 78,
+			"order": 79,
 			"rarity": "Common",
 			"weather": [
 				"Rain"
@@ -18405,7 +18707,7 @@
 		},
 		"Spine Blade": {
 			"name": "Spine Blade",
-			"order": 672,
+			"order": 688,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -18424,7 +18726,7 @@
 		},
 		"Spine Bone": {
 			"name": "Spine Bone",
-			"order": 656,
+			"order": 671,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -18443,7 +18745,7 @@
 		},
 		"Spined Fin": {
 			"name": "Spined Fin",
-			"order": 662,
+			"order": 678,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -18478,7 +18780,7 @@
 			"base_value": 380,
 			"xp": 300,
 			"resilience": 12,
-			"prog_speed": -0.68,
+			"prog_speed": -0.45,
 			"base_chance": 85
 		},
 		"Sprayfin": {
@@ -18522,7 +18824,7 @@
 		},
 		"Squirrelray": {
 			"name": "Squirrelray",
-			"order": 661,
+			"order": 677,
 			"rarity": "Limited",
 			"weather": [
 				"Windy"
@@ -18615,7 +18917,7 @@
 		},
 		"Static Ray": {
 			"name": "Static Ray",
-			"order": 135,
+			"order": 134,
 			"rarity": "Uncommon",
 			"weather": [
 				"Rain"
@@ -18672,7 +18974,7 @@
 		},
 		"Storm Skipper": {
 			"name": "Storm Skipper",
-			"order": 553,
+			"order": 551,
 			"rarity": "Secret",
 			"weather": [
 				"Windy"
@@ -18708,6 +19010,115 @@
 			"resilience": 30,
 			"base_chance": 25
 		},
+		"Stud Koi": {
+			"name": "Stud Koi",
+			"order": 631,
+			"rarity": "Limited",
+			"weather": [
+				"None"
+			],
+			"seasons": [
+				"None"
+			],
+			"bait": "Stud Bait",
+			"min_weight": 55,
+			"max_weight": 190,
+			"base_value": 550,
+			"xp": 280,
+			"resilience": 40,
+			"base_chance": 35
+		},
+		"Stud Shark": {
+			"name": "Stud Shark",
+			"order": 630,
+			"rarity": "Limited",
+			"weather": [
+				"None"
+			],
+			"seasons": [
+				"None"
+			],
+			"bait": "Stud Bait",
+			"min_weight": 4,
+			"max_weight": 14,
+			"base_value": 650,
+			"xp": 300,
+			"resilience": 35,
+			"base_chance": 25
+		},
+		"Stud Turtle": {
+			"name": "Stud Turtle",
+			"order": 635,
+			"rarity": "Limited",
+			"weather": [
+				"None"
+			],
+			"seasons": [
+				"None"
+			],
+			"bait": "Stud Bait",
+			"min_weight": 3,
+			"max_weight": 10,
+			"base_value": 400,
+			"xp": 220,
+			"resilience": 80,
+			"base_chance": 95
+		},
+		"Studling Crab": {
+			"name": "Studling Crab",
+			"order": 629,
+			"rarity": "Limited",
+			"weather": [
+				"None"
+			],
+			"seasons": [
+				"None"
+			],
+			"bait": "Stud Bait",
+			"min_weight": 1.5,
+			"max_weight": 5,
+			"base_value": 600,
+			"xp": 280,
+			"resilience": 40,
+			"base_chance": 15
+		},
+		"Studolodon": {
+			"name": "Studolodon",
+			"order": 590,
+			"rarity": "Limited",
+			"weather": [
+				"None"
+			],
+			"seasons": [
+				"None"
+			],
+			"bait": "Stud Bait",
+			"min_weight": 35,
+			"max_weight": 150,
+			"base_value": 1500,
+			"xp": 700,
+			"resilience": 10,
+			"prog_speed": -0.85,
+			"base_chance": 1
+		},
+		"Studphin": {
+			"name": "Studphin",
+			"order": 578,
+			"rarity": "Limited",
+			"weather": [
+				"None"
+			],
+			"seasons": [
+				"None"
+			],
+			"bait": "Stud Bait",
+			"min_weight": 2.5,
+			"max_weight": 9,
+			"base_value": 700,
+			"xp": 300,
+			"resilience": 30,
+			"base_chance": 10
+		},
 		"Sturgeon": {
 			"name": "Sturgeon",
 			"order": 278,
@@ -18728,7 +19139,7 @@
 		},
 		"Subzero Stargazer": {
 			"name": "Subzero Stargazer",
-			"order": 176,
+			"order": 136,
 			"rarity": "Uncommon",
 			"weather": [
 				"None"
@@ -18807,7 +19218,7 @@
 		},
 		"Sunflare Tetra": {
 			"name": "Sunflare Tetra",
-			"order": 150,
+			"order": 151,
 			"rarity": "Uncommon",
 			"weather": [
 				"Rain"
@@ -18827,7 +19238,7 @@
 		},
 		"Sunken Silverscale": {
 			"name": "Sunken Silverscale",
-			"order": 76,
+			"order": 77,
 			"rarity": "Common",
 			"weather": [
 				"Clear"
@@ -18846,7 +19257,7 @@
 		},
 		"Sunny O'Coin": {
 			"name": "Sunny O'Coin",
-			"order": 626,
+			"order": 639,
 			"rarity": "Limited",
 			"weather": [
 				"Rain"
@@ -18884,7 +19295,7 @@
 		},
 		"Supreme Present": {
 			"name": "Supreme Present",
-			"order": 639,
+			"order": 652,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -18980,7 +19391,7 @@
 		},
 		"Sweetfish": {
 			"name": "Sweetfish",
-			"order": 77,
+			"order": 78,
 			"rarity": "Common",
 			"weather": [
 				"Clear"
@@ -19094,7 +19505,7 @@
 		},
 		"Temple Drifter": {
 			"name": "Temple Drifter",
-			"order": 145,
+			"order": 146,
 			"rarity": "Uncommon",
 			"weather": [
 				"Clear"
@@ -19130,6 +19541,25 @@
 			"resilience": 35,
 			"prog_speed": -0.05,
 			"base_chance": 39
+		},
+		"Tentabrick": {
+			"name": "Tentabrick",
+			"order": 595,
+			"rarity": "Limited",
+			"weather": [
+				"None"
+			],
+			"seasons": [
+				"None"
+			],
+			"bait": "Stud Bait",
+			"min_weight": 30,
+			"max_weight": 100,
+			"base_value": 900,
+			"xp": 500,
+			"resilience": 15,
+			"prog_speed": -0.65,
+			"base_chance": 5
 		},
 		"Tentacle Eel": {
 			"name": "Tentacle Eel",
@@ -19211,7 +19641,7 @@
 		},
 		"The Whispering One": {
 			"name": "The Whispering One",
-			"order": 643,
+			"order": 657,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -19230,7 +19660,7 @@
 		},
 		"Thornfish": {
 			"name": "Thornfish",
-			"order": 562,
+			"order": 560,
 			"rarity": "Secret",
 			"weather": [
 				"Foggy"
@@ -19307,7 +19737,7 @@
 		},
 		"Tidal Pike": {
 			"name": "Tidal Pike",
-			"order": 627,
+			"order": 640,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -19383,7 +19813,7 @@
 		},
 		"Titan Tuna": {
 			"name": "Titan Tuna",
-			"order": 171,
+			"order": 172,
 			"rarity": "Uncommon",
 			"weather": [
 				"None"
@@ -19459,7 +19889,7 @@
 		},
 		"Toilet Fish": {
 			"name": "Toilet Fish",
-			"order": 554,
+			"order": 552,
 			"rarity": "Secret",
 			"weather": [
 				"Clear"
@@ -19629,12 +20059,12 @@
 			"base_value": 420,
 			"xp": 310,
 			"resilience": 11,
-			"prog_speed": -0.7,
+			"prog_speed": -0.5,
 			"base_chance": 80
 		},
 		"Turkey": {
 			"name": "Turkey",
-			"order": 655,
+			"order": 670,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -19767,7 +20197,7 @@
 		},
 		"Unique Present": {
 			"name": "Unique Present",
-			"order": 665,
+			"order": 681,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -19786,7 +20216,7 @@
 		},
 		"Veilborn Parasite": {
 			"name": "Veilborn Parasite",
-			"order": 594,
+			"order": 597,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -19820,7 +20250,7 @@
 			"base_value": 1700,
 			"xp": 2400,
 			"resilience": 8,
-			"prog_speed": -0.8,
+			"prog_speed": -0.65,
 			"base_chance": 30
 		},
 		"Velvet Belly Lanternshark": {
@@ -19865,7 +20295,7 @@
 		},
 		"Vinefish": {
 			"name": "Vinefish",
-			"order": 155,
+			"order": 156,
 			"rarity": "Uncommon",
 			"weather": [
 				"Windy"
@@ -20312,7 +20742,7 @@
 		},
 		"White Perch": {
 			"name": "White Perch",
-			"order": 55,
+			"order": 56,
 			"rarity": "Common",
 			"weather": [
 				"None"
@@ -20350,7 +20780,7 @@
 		},
 		"Wraithfin": {
 			"name": "Wraithfin",
-			"order": 625,
+			"order": 638,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -20367,7 +20797,7 @@
 		},
 		"Wretched Guppy": {
 			"name": "Wretched Guppy",
-			"order": 650,
+			"order": 664,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -20461,6 +20891,24 @@
 			"resilience": 100,
 			"base_chance": 0.001
 		},
+		"Yellow Studfish": {
+			"name": "Yellow Studfish",
+			"order": 636,
+			"rarity": "Limited",
+			"weather": [
+				"None"
+			],
+			"seasons": [
+				"None"
+			],
+			"bait": "Stud Bait",
+			"min_weight": 1.3,
+			"max_weight": 3.9,
+			"base_value": 150,
+			"xp": 70,
+			"resilience": 85,
+			"base_chance": 105
+		},
 		"Yellowfin Tuna": {
 			"name": "Yellowfin Tuna",
 			"order": 109,
@@ -20481,7 +20929,7 @@
 		},
 		"Zebrafishlet": {
 			"name": "Zebrafishlet",
-			"order": 599,
+			"order": 602,
 			"rarity": "Limited",
 			"weather": [
 				"Foggy"
@@ -20519,7 +20967,7 @@
 		},
 		"Zombiefish": {
 			"name": "Zombiefish",
-			"order": 603,
+			"order": 606,
 			"rarity": "Limited",
 			"weather": [
 				"Clear"
@@ -20631,9 +21079,7 @@
 			"pool_changes": []
 		},
 		"Lucky Event": {
-			"name": "Lucky Event",
-			"start": "2025-03-04T15:00:00.000Z",
-			"end": "2025-03-17T15:00:00.000Z"
+			"name": "Lucky Event"
 		},
 		"Double XP": {
 			"name": "Double XP",

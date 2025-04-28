@@ -1,4 +1,4 @@
--- Last update: Version [[1.29]], place version 4322
+-- Last update: Version [[1.30]], place version 4322
 
 return {
 	permanent = {
@@ -53,9 +53,9 @@ return {
 				{ name = "Ancient Megalodon", rarity = "Exotic" },
 				{ name = "Banana", rarity = "Secret" },
 				{ name = "Deep Sea Fragment", rarity = "Fragment" },
+				{ name = "Ancient Fragment", rarity = "Fragment" },
 				{ name = "Solar Fragment", rarity = "Fragment" },
 				{ name = "Earth Fragment", rarity = "Fragment" },
-				{ name = "Ancient Fragment", rarity = "Fragment" },
 				{ name = "Opal", rarity = "Gemstone" },
 				{ name = "Moonstone", rarity = "Gemstone" },
 				{ name = "Lapis Lazuli", rarity = "Gemstone" },
@@ -216,8 +216,8 @@ return {
 			fish = {
 				{ name = "Frostscale Fangtooth", rarity = "Common" },
 				{ name = "Cryoskin", rarity = "Common" },
-				{ name = "Chillshadow Chub", rarity = "Uncommon" },
 				{ name = "Subzero Stargazer", rarity = "Uncommon" },
+				{ name = "Chillshadow Chub", rarity = "Uncommon" },
 				{ name = "Deep Freeze Devilfish", rarity = "Unusual" },
 				{ name = "Iceberg Isopod", rarity = "Rare" },
 				{ name = "Cryo Coelacanth", rarity = "Rare" },
@@ -497,6 +497,7 @@ return {
 				{ name = "Snipefish", rarity = "Unusual" },
 				{ name = "Lumpclinger", rarity = "Unusual" },
 				{ name = "Fangtooth", rarity = "Rare" },
+				{ name = "Tropical Bait Crate", rarity = "Rare" },
 				{ name = "Telescopefish", rarity = "Rare" },
 				{ name = "Knifefish", rarity = "Legendary" },
 				{ name = "Sarcastic Fringehead", rarity = "Legendary" },
@@ -758,7 +759,6 @@ return {
 				{ name = "Common Crate", rarity = "Uncommon" },
 				{ name = "Bait Crate", rarity = "Uncommon" },
 				{ name = "Quality Bait Crate", rarity = "Rare" },
-				{ name = "Tropical Bait Crate", rarity = "Rare" },
 				{ name = "Carbon Crate", rarity = "Rare" },
 				{ name = "Moon Wood", rarity = "Legendary" },
 				{ name = "Green Energy Crystal", rarity = "Mythical" },
@@ -915,6 +915,27 @@ return {
 			},
 		},
 		{
+			name = "LEGO Event",
+			fish = {
+				{ name = "Studphin", rarity = "Limited" },
+				{ name = "Studolodon", rarity = "Limited" },
+				{ name = "Clown Brickfish", rarity = "Limited" },
+				{ name = "Tentabrick", rarity = "Limited" },
+				{ name = "Jellystud", rarity = "Limited" },
+				{ name = "Studling Crab", rarity = "Limited" },
+				{ name = "Stud Shark", rarity = "Limited" },
+				{ name = "Stud Koi", rarity = "Limited" },
+				{ name = "Cardinal Studfish", rarity = "Limited" },
+				{ name = "Brickhorse", rarity = "Limited" },
+				{ name = "Stud Turtle", rarity = "Limited" },
+				{ name = "Yellow Studfish", rarity = "Limited" },
+				{ name = "Goldbrick", rarity = "Limited" },
+				{ name = "Azure Studfish", rarity = "Limited" },
+				{ name = "Glow Brick", rarity = "Limited" },
+				{ name = "Crab Stud", rarity = "Limited" },
+			},
+		},
+		{
 			name = "Lucky Event",
 			fish = {
 				{ name = "O'Mango Goldgrin", rarity = "Limited" },
@@ -927,8 +948,13 @@ return {
 		{
 			name = "Valentine's Day",
 			fish = {
-				{ name = "Lovestorm Eel", rarity = "Secret" },
-				{ name = "Lovestorm Eel Supercharged", rarity = "Secret" },
+				{ name = "Lovestorm Eel", rarity = "Limited" },
+				{ name = "Lovestorm Eel Supercharged", rarity = "Limited" },
+			},
+		},
+		{
+			name = "Valentine's Day",
+			fish = {
 			},
 		},
 		{

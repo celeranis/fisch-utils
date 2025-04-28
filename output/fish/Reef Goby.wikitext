@@ -32,10 +32,10 @@ Magma Rod\261551.52\261067.66;
 Plastic Rod\238850.4\238408.54;
 Fast Rod\202864.35\297642.98;
 Leviathan's Fang Rod\195409.89\140081.91;
+Buddy Bond Rod\177431.72\256997.4;
 Fischer's Rod\179378.38\263184.31;
 Adventurer's Rod\178357.25\261686.11;
 Flimsy Rod\147922.94\215919.8;
-Buddy Bond Rod\177431.72\256997.4;
 Ethereal Prism Rod\185888.43\124910.05;
 No-Life Rod\182344.73\125908.54;
 Seraphic Rod\182142.1\118134.02;
@@ -43,18 +43,22 @@ Trident Rod\175900.04\134383.7;
 Free Spirit Rod\173371.98\132452.32;
 Rod Of The Forgotten Fang\170992.35\114601.75;
 Challenger's Rod\167328.89\115800.22;
-Rod Of The Depths\155112.54\112317.3;
-Zeus Rod\154458.03\108739.47;
-Verdant Shear Rod\152755.54\107709.4;
-Rod Of The Exalted One\151578.78\112581.98;
-Blazebringer Rod\146510.66\106727.66;
-Depthseeker Rod\140213.87\100037.53;
-Avalanche Rod\128050.86\91048.9;
-Volcanic Rod\127826.88\91742.13;
-Training Rod\113631.22\148151.5;
-Steady Rod\57260.64\42407.43
+Rod Of The Exalted One\163697.83\113590.92;
+Rod Of The Depths\156692.21\113505.6;
+Zeus Rod\154458.03\113367.76;
+Verdant Shear Rod\152755.54\113546.05;
+Blazebringer Rod\149164.01\113957.97;
+Depthseeker Rod\145184.39\114575.41;
+Avalanche Rod\136777.21\108322.82;
+Volcanic Rod\133796.61\102217.62;
+Training Rod\120501.74\200256.93;
+Steady Rod\60656.42\45561.84
 |recommended   = Ethereal Prism Rod
 }}
+
+== Catch Quips ==
+When catching a Reef Goby, the player has a chance to make one of the following exclamations:
+* So colorful!
 
 == Change History ==
 {{Change History|{{subst:Current Version}}}}

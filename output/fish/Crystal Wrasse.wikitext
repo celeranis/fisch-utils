@@ -31,25 +31,30 @@ Magma Rod\89892.07\96670.88;
 Leviathan's Fang Rod\83947.23\103410.01;
 Plastic Rod\82129.42\88322.84;
 Ethereal Prism Rod\78902.02\84525.56;
+Buddy Bond Rod\61010.42\71827.41;
 Trident Rod\74888.09\97502.06;
 Free Spirit Rod\73002.22\95046.72;
 Flimsy Rod\48746.51\79409.46;
-Training Rod\40542.29\86947.21;
+Training Rod\40951.36\86947.21;
 Seraphic Rod\76796.1\84507.32;
 No-Life Rod\76673.89\86935.52;
 Rod Of The Forgotten Fang\72032.45\81806.06;
 Challenger's Rod\70193.91\81338.66;
-Rod Of The Depths\65104.95\76488.79;
-Zeus Rod\64424.24\75440.97;
-Verdant Shear Rod\63541.17\74996.82;
-Rod Of The Exalted One\63454.77\77897.33;
-Blazebringer Rod\61133.44\71868.19;
-Depthseeker Rod\58373.69\69604.66;
-Avalanche Rod\52745.44\63208.61;
-Volcanic Rod\50196.09\59669.16;
-Steady Rod\19890.96\23270.84
+Rod Of The Exalted One\67510.95\80872.11;
+Rod Of The Depths\65104.95\79574.39;
+Zeus Rod\64424.24\77863.71;
+Verdant Shear Rod\63541.17\77159.89;
+Blazebringer Rod\61133.44\78312.36;
+Depthseeker Rod\58373.69\77715.12;
+Avalanche Rod\54642.45\73254.39;
+Volcanic Rod\53924.11\70207.59;
+Steady Rod\23817.85\29776.74
 |recommended   = Ethereal Prism Rod
 }}
+
+== Catch Quips ==
+When catching a Crystal Wrasse, the player has a chance to make one of the following exclamations:
+* I love crystals..
 
 == Change History ==
 {{Change History|{{subst:Current Version}}}}

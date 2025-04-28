@@ -27,9 +27,9 @@
 {{Fish Availability|
 Mariana's Veil/Abyssal Zenith
 |top_rods      = 
+Fast Rod\178928.24\177187.5;
 Rapid Rod\178858.63\167106.76;
 Fungal Rod\177978.99\177107.93;
-Fast Rod\177187.5\177187.5;
 Firefly Rod\176632.44\194368.82;
 Ethereal Prism Rod\169843.22\194396.49;
 Antler Rod\166248.56\165434.91;

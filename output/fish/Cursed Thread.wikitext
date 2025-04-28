@@ -12,9 +12,9 @@
 |time           = Day
 |season         = Summer
 |bait           = Sapphire Krill
-|base_weight    = 10
+|base_weight    = 10.5
 |base_value     = 40
-|weight_range   = 6
+|weight_range   = 0
 |base_chance    = 30
 |base_resil     = 85
 }}
@@ -29,11 +29,12 @@ Open Ocean
 |top_rods      = 
 Frostfire Rod\110436.47\73822.74;
 Steady Rod\104574.31\70083.41;
-Flimsy Rod\83706.64\246468.11;
 Plastic Rod\81519.44\300005.73;
 North-Star Rod\81428.87\67991.65;
-Training Rod\79079.21\198572.41;
+Event Horizon Rod\81333.75\67912.23;
 Fischer's Rod\65318.74\289217.12;
+Candy Cane Rod\73693.09\70695.9;
+Nocturnal Rod\18121.26\48265.69;
 Free Spirit Rod\50225.64\45751.03;
 Verdant Shear Rod\47810.24\54544.99;
 Blazebringer Rod\44684.88\49655.91;

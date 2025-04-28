@@ -33,22 +33,22 @@ Free Spirit Rod\273212.4\140812.15;
 No-Life Rod\258628.49\202493.8;
 Azure Of Lagoon\252864.95\191475.21;
 Training Rod\217300.45\217300.45;
-Flimsy Rod\167622.95\186411.48;
+Flimsy Rod\192930.08\186411.48;
 Long Rod\209579.16\160926.79;
 Fast Rod\228251.95\204204.01;
 Seraphic Rod\244800.49\201696.64;
 Tempest Rod\247425.98\194589.64;
 Poseidon Rod\239467.4\155992.51;
 Challenger's Rod\243893.55\184615.47;
+Depthseeker Rod\242455.55\161610.77;
 Rod Of The Forgotten Fang\242385\184177.39;
+Blazebringer Rod\242260.7\169272.05;
+Verdant Shear Rod\241455.65\172590.87;
+Zeus Rod\241118.08\172449.71;
 Rod Of The Depths\239390.88\167789.98;
 Rod Of The Exalted One\236270.53\149174.01;
 Ethereal Prism Rod\234167.28\43617.58;
-Zeus Rod\233293.19\172449.71;
-Verdant Shear Rod\229154.44\172590.87;
-Blazebringer Rod\229105.61\169272.05;
-Depthseeker Rod\224470.7\161610.77;
-Avalanche Rod\222637.06\155678.6;
+Avalanche Rod\228959.04\155678.6;
 Volcanic Rod\222463.74\164364.78;
 Steady Rod\104786.53\87234.18
 |recommended   = Trident Rod

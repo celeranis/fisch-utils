@@ -36,7 +36,7 @@ Azure Of Lagoon\193363.67\123192.81;
 No-Life Rod\190211.27\179980.5;
 Rod Of The Exalted One\153412.65\144279.14;
 Poseidon Rod\158214.97\137102.19;
-Adventurer's Rod\123105.33\119429.72;
+Adventurer's Rod\137388.99\119429.72;
 Seraphic Rod\182624.26\177185.1;
 Tempest Rod\176368.22\171115.38;
 Fast Rod\172375.38\167228.69;

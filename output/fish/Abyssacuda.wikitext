@@ -31,28 +31,29 @@ Krampus's Rod\162871.28\227072.83;
 Magma Rod\158695.09\221250.45;
 Leviathan's Fang Rod\148159.94\169824.8;
 Plastic Rod\136275.56\189993.46;
-Free Spirit Rod\118001.67\148511.5;
+Training Rod\119213.41\242541.53;
+Buddy Bond Rod\101233.28\189657.9;
 Fast Rod\102811.88\238866.35;
 Fischer's Rod\89960.39\209008.05;
 Flimsy Rod\82930.16\206216.74;
-Training Rod\97855.4\179003.39;
 Adventurer's Rod\87835.34\204070.86;
+Free Spirit Rod\118001.67\148511.5;
 Trident Rod\115403.8\145241.94;
 Ethereal Prism Rod\105704.62\100793.06;
 No-Life Rod\100671.54\116512.02;
 Seraphic Rod\100604.72\101040.54;
 Rod Of The Forgotten Fang\93609.22\96884.87;
 Challenger's Rod\89754.89\97150.45;
-Rod Of The Depths\83219.53\86797.73;
-Rod Of The Exalted One\83193.84\83872.62;
+Rod Of The Depths\83219.53\92081.75;
+Rod Of The Exalted One\83193.84\94596.22;
 Zeus Rod\80557.35\88373.34;
 Verdant Shear Rod\78559.29\87115.67;
-Blazebringer Rod\76608.38\84400.94;
+Blazebringer Rod\76608.38\84893.82;
 Depthseeker Rod\72627.23\81504.17;
-Avalanche Rod\65112.01\72821.09;
-Volcanic Rod\62758.94\69768.42;
-Steady Rod\24850.8\24288.08
-|recommended   = Trident Rod
+Avalanche Rod\65112.01\72927.22;
+Volcanic Rod\62758.94\75716.11;
+Steady Rod\26049.15\27605.73
+|recommended   = Training Rod
 }}
 
 == Catch Quips ==

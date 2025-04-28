@@ -28,15 +28,15 @@
 Snowcap Island/Freshwater Pond
 Snowcap Island/Surrounding Ocean
 |top_rods      = 
+Training Rod\127204.77\232846.64;
 Ethereal Prism Rod\125524.86\154945.83;
 Fast Rod\120469.29\118533.52;
 Crystalized Rod\120121.15\93357.76;
 Firework Rod\120121.15\93357.76;
-No-Life Rod\119872.65\117946.46;
-Training Rod\119829.88\232846.64;
 Flimsy Rod\109521.61\88125;
 Fortune Rod\69259.77\91574.79;
 Leviathan's Fang Rod\116703.66\126125.47;
+No-Life Rod\119872.65\117946.46;
 Seraphic Rod\119400.74\117482.15;
 Challenger's Rod\109289\107532.88;
 Rod Of The Forgotten Fang\109029.67\107277.72;
@@ -51,7 +51,7 @@ Trident Rod\83460.46\82119.37;
 Free Spirit Rod\83358.23\82018.78;
 Volcanic Rod\77402.01\76158.28;
 Steady Rod\61508.87\49008.01
-|recommended   = Ethereal Prism Rod
+|recommended   = Training Rod
 }}
 
 == Catch Quips ==

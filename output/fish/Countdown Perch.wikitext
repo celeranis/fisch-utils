@@ -37,16 +37,16 @@ Ethereal Prism Rod\77985.33\67204.53;
 No-Life Rod\76537.32\73143.67;
 Seraphic Rod\76081.62\68008.07;
 Rod Of The Forgotten Fang\71251.56\67002.21;
-Challenger's Rod\69432.55\67168.55;
-Rod Of The Depths\64301.38\62776.23;
-Zeus Rod\63386.69\62478.01;
-Rod Of The Exalted One\62598.54\64085.59;
-Verdant Shear Rod\62399.62\62488.01;
-Blazebringer Rod\60198.4\59584.22;
-Depthseeker Rod\57450.69\58449.24;
-Avalanche Rod\51808\52944.78;
-Volcanic Rod\49392.22\49410.51;
-Steady Rod\22566.78\19706.24
+Challenger's Rod\69432.55\67357.23;
+Rod Of The Exalted One\65901.9\65960.31;
+Rod Of The Depths\64301.38\65788.11;
+Zeus Rod\63386.69\65893.33;
+Verdant Shear Rod\62399.62\64990.45;
+Blazebringer Rod\60198.4\66349.27;
+Depthseeker Rod\57450.69\64653.17;
+Volcanic Rod\51886.72\59401.7;
+Avalanche Rod\51840.74\60227.6;
+Steady Rod\22566.78\20526.99
 |recommended   = Trident Rod
 }}
 

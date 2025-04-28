@@ -1,0 +1,44 @@
+{{FishInfobox
+|image          = Goldbrick.png
+|rarity         = Limited
+|sea            = First Sea
+|location       = [[LEGO Event]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 50
+|weather        = 
+|time           = 
+|season         = 
+|bait           = Stud Bait
+|base_weight    = 4
+|base_value     = 100
+|weight_range   = 2.5
+|base_chance    = 115
+|base_resil     = 90
+}}
+'''Goldbrick''' is a {{Rarity|Limited}} fish found in [[LEGO Pool]]s.
+
+== Description ==
+{{Description|A hefty fish made of gleaming LEGO bricks, shining like a golden treasure.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Catchable during LEGO event.|Bestiary Hint}}
+{{Fish Availability|
+LEGO Pool
+|top_rods      = 
+Brick Built Rod\102927.36\100547.27
+|recommended   = 
+}}
+
+== Catch Quips ==
+When catching a Goldbrick, the player has a chance to make one of the following exclamations:
+* A Goldbrick!
+* Gleaming!
+* Gold?
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|LEGO Event}}

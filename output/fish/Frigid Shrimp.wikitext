@@ -29,15 +29,14 @@ Frigid Cavern
 |top_rods      = 
 Training Rod\207406.55\207406.55;
 Azure Of Lagoon\201444.68\122130.68;
+Fast Rod\199552.32\174608.83;
 Trident Rod\199414.77\124964.64;
 No-Life Rod\198716.71\177463.59;
-Summit Rod\197780.29\128909.38;
-Flimsy Rod\138754.57\138754.57;
+Flimsy Rod\171087.73\138754.57;
 Resourceful Rod\186742.77\123749.03;
 Seraphic Rod\176093.03\176093.03;
-Fast Rod\175525.78\174608.83;
 Leviathan's Fang Rod\193021.87\171603.83;
-Adventurer's Rod\122812.12\122812.12;
+Fungal Rod\180082.06\147596.56;
 Depthseeker Rod\195682.66\137475.4;
 Free Spirit Rod\195286.96\124653.38;
 Avalanche Rod\192968.8\123257.1;
