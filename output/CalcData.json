@@ -65,6 +65,9 @@
 				"Mythic Fish",
 				"Ancient Algae"
 			],
+			"hunt_fish": [
+				"Ancient Algae"
+			],
 			"no_wormhole": true,
 			"can_lucky": false,
 			"sea": "First Sea",
@@ -272,6 +275,10 @@
 				"The Kraken",
 				"Ancient Kraken"
 			],
+			"hunt_fish": [
+				"Ancient Kraken",
+				"The Kraken"
+			],
 			"no_wormhole": true,
 			"can_lucky": false,
 			"sea": "First Sea",
@@ -334,6 +341,9 @@
 				"Abyssal King",
 				"Void Emperor",
 				"Abyssal Devourer",
+				"The Kraken"
+			],
+			"hunt_fish": [
 				"The Kraken"
 			],
 			"no_wormhole": true,
@@ -958,6 +968,9 @@
 				"Mythic Fish",
 				"Forsaken Algae"
 			],
+			"hunt_fish": [
+				"Forsaken Algae"
+			],
 			"no_wormhole": true,
 			"can_lucky": false,
 			"sea": "First Sea",
@@ -1348,6 +1361,9 @@
 				"Long Pike",
 				"Mustard"
 			],
+			"hunt_fish": [
+				"Studalodon"
+			],
 			"no_wormhole": true,
 			"can_lucky": false,
 			"sea": "First Sea",
@@ -1391,6 +1407,9 @@
 				"Oarfish",
 				"Crown Bass",
 				"Mythic Fish",
+				"Lovestorm Eel"
+			],
+			"hunt_fish": [
 				"Lovestorm Eel"
 			],
 			"no_wormhole": true,
@@ -1439,6 +1458,9 @@
 				"Mythic Fish",
 				"Lovestorm Eel Supercharged"
 			],
+			"hunt_fish": [
+				"Lovestorm Eel Supercharged"
+			],
 			"no_wormhole": true,
 			"can_lucky": false,
 			"sea": "First Sea",
@@ -1484,6 +1506,9 @@
 				"Mythic Fish",
 				"Long Pike",
 				"Mustard",
+				"Blarney McBreeze"
+			],
+			"hunt_fish": [
 				"Blarney McBreeze"
 			],
 			"no_wormhole": true,
@@ -1581,6 +1606,9 @@
 				"Mustard",
 				"O'Mango Goldgrin"
 			],
+			"hunt_fish": [
+				"O'Mango Goldgrin"
+			],
 			"no_wormhole": true,
 			"can_lucky": false,
 			"sea": "First Sea",
@@ -1626,6 +1654,9 @@
 				"Mythic Fish",
 				"Long Pike",
 				"Mustard",
+				"Plumrick O'Luck"
+			],
+			"hunt_fish": [
 				"Plumrick O'Luck"
 			],
 			"no_wormhole": true,
@@ -1675,6 +1706,9 @@
 				"Mustard",
 				"Rowdy McCharm"
 			],
+			"hunt_fish": [
+				"Rowdy McCharm"
+			],
 			"no_wormhole": true,
 			"can_lucky": false,
 			"sea": "First Sea",
@@ -1720,6 +1754,9 @@
 				"Mythic Fish",
 				"Long Pike",
 				"Mustard",
+				"Sunny O'Coin"
+			],
+			"hunt_fish": [
 				"Sunny O'Coin"
 			],
 			"no_wormhole": true,
@@ -1836,6 +1873,9 @@
 				"Twilight Tentaclefish",
 				"Scylla"
 			],
+			"hunt_fish": [
+				"Scylla"
+			],
 			"can_lucky": false,
 			"sea": "First Sea",
 			"avoid": true,
@@ -1931,6 +1971,11 @@
 				"Phantom Megalodon",
 				"Ancient Megalodon"
 			],
+			"hunt_fish": [
+				"Ancient Megalodon",
+				"Megalodon",
+				"Phantom Megalodon"
+			],
 			"no_wormhole": true,
 			"can_lucky": false,
 			"sea": "First Sea",
@@ -1977,6 +2022,10 @@
 				"Mythic Fish",
 				"Megalodon",
 				"Ancient Megalodon"
+			],
+			"hunt_fish": [
+				"Ancient Megalodon",
+				"Megalodon"
 			],
 			"no_wormhole": true,
 			"can_lucky": false,
@@ -2299,6 +2348,9 @@
 				"Oarfish",
 				"Crown Bass",
 				"Mythic Fish",
+				"Mushgrove Algae"
+			],
+			"hunt_fish": [
 				"Mushgrove Algae"
 			],
 			"no_wormhole": true,
@@ -2882,6 +2934,9 @@
 				"Long Pike",
 				"Mustard"
 			],
+			"hunt_fish": [
+				"Ancient Orca"
+			],
 			"can_lucky": false,
 			"sea": "First Sea",
 			"avoid": true,
@@ -2932,6 +2987,9 @@
 				"Mythic Fish",
 				"Long Pike",
 				"Mustard"
+			],
+			"hunt_fish": [
+				"Orca"
 			],
 			"no_wormhole": true,
 			"can_lucky": false,
@@ -3422,6 +3480,9 @@
 				"Oarfish",
 				"Crown Bass",
 				"Mythic Fish",
+				"Snowcap Algae"
+			],
+			"hunt_fish": [
 				"Snowcap Algae"
 			],
 			"no_wormhole": true,
@@ -4125,6 +4186,9 @@
 				"Mustard",
 				"Moby"
 			],
+			"hunt_fish": [
+				"Blue Whale"
+			],
 			"no_wormhole": true,
 			"can_lucky": false,
 			"sea": "First Sea",
@@ -4173,6 +4237,9 @@
 				"Long Pike",
 				"Mustard"
 			],
+			"hunt_fish": [
+				"Blue Whale"
+			],
 			"can_lucky": false,
 			"sea": "First Sea",
 			"avoid": true,
@@ -4212,6 +4279,38 @@
 					"values": [
 						"Rod Of The Exalted One"
 					]
+				},
+				{
+					"check": "conditions",
+					"op": "not",
+					"property": "enchant",
+					"values": [
+						"Scavenger"
+					]
+				}
+			],
+			"fish": [
+				"Exalted Relic"
+			]
+		},
+		{
+			"name": "Exalted Relics",
+			"chance": 0.000875,
+			"conditions": [
+				{
+					"check": "conditions",
+					"op": "not",
+					"property": "rod",
+					"values": [
+						"Rod Of The Exalted One"
+					]
+				},
+				{
+					"check": "conditions",
+					"property": "enchant",
+					"values": [
+						"Scavenger"
+					]
 				}
 			],
 			"fish": [
@@ -4227,6 +4326,37 @@
 					"property": "rod",
 					"values": [
 						"Rod Of The Exalted One"
+					]
+				},
+				{
+					"check": "conditions",
+					"op": "not",
+					"property": "enchant",
+					"values": [
+						"Scavenger"
+					]
+				}
+			],
+			"fish": [
+				"Exalted Relic"
+			]
+		},
+		{
+			"name": "Exalted Relics",
+			"chance": 0.0021875,
+			"conditions": [
+				{
+					"check": "conditions",
+					"property": "rod",
+					"values": [
+						"Rod Of The Exalted One"
+					]
+				},
+				{
+					"check": "conditions",
+					"property": "enchant",
+					"values": [
+						"Scavenger"
 					]
 				}
 			],
@@ -5476,22 +5606,6 @@
 			"priority": 100,
 			"chance_type": "percent",
 			"allow_crates": true,
-			"conditions": [
-				{
-					"check": "conditions",
-					"property": "rod",
-					"values": [
-						"Phoenix Rod"
-					]
-				}
-			]
-		},
-		{
-			"mutation": "Scorched",
-			"chance": 40,
-			"priority": 40,
-			"chance_type": "percent",
-			"allow_crates": false,
 			"conditions": [
 				{
 					"check": "conditions",

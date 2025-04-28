@@ -566,3 +566,39 @@ export const DEV_MUTATIONS = [
 	'Colossal Ink',
 	'Neon',
 ]
+
+/**
+ * A map of user-facing zone names to their associated hunt fish.
+ * Used by the "Hunt Target Depleted" toggle in the calculator.
+ */
+export const HUNT_MAP = {
+	'Megalodon Hunt/Normal': ['Ancient Megalodon', 'Megalodon'],
+	'Megalodon Hunt/Eclipse and Weekend': ['Ancient Megalodon', 'Megalodon', 'Phantom Megalodon'],
+	
+	'Orca Migration/Normal': ['Orca'],
+	'Orca Migration/Ancient': ['Ancient Orca'],
+	
+	'Whale Migration/Normal': ['Blue Whale'],
+	'Whale Migration/Moby': ['Blue Whale'], // moby omitted intentionally, as it does not directly use the fishing chance system
+	
+	'Atlantis/Ancient Kraken Hunt': ['Ancient Kraken', 'The Kraken'],
+	'Atlantis/Kraken Hunt': ['The Kraken'],
+	
+	"Mariana's Veil/Scylla Hunt": ['Scylla'],
+	
+	'Lovestorm/Normal': ['Lovestorm Eel'],
+	'Lovestorm/Supercharged': ['Lovestorm Eel Supercharged'],
+	
+	"Lucky Event/Blarney McBreeze": ['Blarney McBreeze'],
+	"Lucky Event/O'Mango Goldgrin": ["O'Mango Goldgrin"],
+	"Lucky Event/Plumrick O'Luck": ["Plumrick O'Luck"],
+	"Lucky Event/Rowdy McCharm": ["Rowdy McCharm"],
+	"Lucky Event/Sunny O'Coin": ["Sunny O'Coin"],
+	
+	"Ancient Isle/Algae Hunt": ["Ancient Algae"],
+	"Forsaken Shores/Algae Hunt": ["Forsaken Algae"],
+	"Mushgrove Swamp/Algae Hunt": ["Mushgrove Algae"],
+	"Snowcap Island/Algae Hunt": ["Snowcap Algae"],
+	
+	"LEGO Pool/Studalodon Hunt": ["Studalodon"],
+}

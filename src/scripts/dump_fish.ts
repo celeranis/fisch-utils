@@ -1,6 +1,6 @@
 import { writeFile } from 'fs/promises';
 import { Bait } from '../Bait.js';
-import { AVOID_POOLS, CANT_REBUFF, crabZoneMap, DISPLAY_LOCATIONS, EVENT_MAP, HARDCODED_PENALTIES, IGNORE_ZONES, LIMITED_BAIT, LIMITED_POOLS, locationRefer, OVERRIDE_SEA, SEA_DISPLAY, UNFISHABLE_ZONES, ZONE_DISPLAY } from '../Constants.js';
+import { AVOID_POOLS, CANT_REBUFF, crabZoneMap, DISPLAY_LOCATIONS, EVENT_MAP, HARDCODED_PENALTIES, HUNT_MAP, IGNORE_ZONES, LIMITED_BAIT, LIMITED_POOLS, locationRefer, OVERRIDE_SEA, SEA_DISPLAY, UNFISHABLE_ZONES, ZONE_DISPLAY } from '../Constants.js';
 import { getFile } from '../DataParser.js';
 import { Enchantment } from '../Enchant.js';
 import { crabZoneData, Fish, locationData, ZoneData as zoneData } from '../Fish.js';
@@ -195,6 +195,7 @@ const pools = Object.fromEntries((Object.entries(zoneData)
 		display: k.replaceAll('/', ' — '),
 		// category: `Catchable in ${k.replaceAll('/', ': ')}`,
 		fish: v.Pool,
+		hunt_fish: HUNT_MAP[k],
 		no_wormhole: v.CantBeWhormholed || undefined,
 		wormhole_only: UNFISHABLE_ZONES.includes(k) || undefined,
 		can_lucky: (abundanceData[k] ?? abundanceData_sea2[k])?.can_lucky ?? false,
@@ -390,9 +391,33 @@ const calcData = {
 					op: 'not',
 					property: 'rod',
 					values: ['Rod Of The Exalted One']
+				},
+				{
+					check: 'conditions',
+					op: 'not',
+					property: 'enchant',
+					values: ['Scavenger']
 				}
 			],
 			fish: [ 'Exalted Relic' ]
+		},
+		{
+			name: 'Exalted Relics',
+			chance: 1.75 / 2000,
+			conditions: [
+				{
+					check: 'conditions',
+					op: 'not',
+					property: 'rod',
+					values: ['Rod Of The Exalted One']
+				},
+				{
+					check: 'conditions',
+					property: 'enchant',
+					values: ['Scavenger']
+				}
+			],
+			fish: ['Exalted Relic']
 		},
 		{
 			name: 'Exalted Relics',
@@ -402,9 +427,32 @@ const calcData = {
 					check: 'conditions',
 					property: 'rod',
 					values: ['Rod Of The Exalted One']
+				},
+				{
+					check: 'conditions',
+					op: 'not',
+					property: 'enchant',
+					values: ['Scavenger']
 				}
 			],
 			fish: [ 'Exalted Relic' ]
+		},
+		{
+			name: 'Exalted Relics',
+			chance: 1.75 / 800,
+			conditions: [
+				{
+					check: 'conditions',
+					property: 'rod',
+					values: ['Rod Of The Exalted One']
+				},
+				{
+					check: 'conditions',
+					property: 'enchant',
+					values: ['Scavenger']
+				}
+			],
+			fish: ['Exalted Relic']
 		},
 		{
 			name: 'Enchant Relics',
