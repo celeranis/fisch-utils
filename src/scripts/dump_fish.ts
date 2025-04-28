@@ -1,6 +1,6 @@
 import { writeFile } from 'fs/promises';
 import { Bait } from '../Bait.js';
-import { AVOID_POOLS, CANT_REBUFF, crabZoneMap, DISPLAY_LOCATIONS, EVENT_MAP, HARDCODED_PENALTIES, HUNT_MAP, IGNORE_ZONES, LIMITED_BAIT, LIMITED_POOLS, locationRefer, OVERRIDE_SEA, SEA_DISPLAY, UNFISHABLE_ZONES, ZONE_DISPLAY } from '../Constants.js';
+import { AVOID_POOLS, CANT_REBUFF, crabZoneMap, DISPLAY_LOCATIONS, EVENT_MAP, FIXED_CHANCE_POOLS, HARDCODED_PENALTIES, HUNT_MAP, IGNORE_ZONES, LIMITED_BAIT, LIMITED_POOLS, locationRefer, OVERRIDE_SEA, SEA_DISPLAY, UNFISHABLE_ZONES, ZONE_DISPLAY } from '../Constants.js';
 import { getFile } from '../DataParser.js';
 import { Enchantment } from '../Enchant.js';
 import { crabZoneData, Fish, locationData, ZoneData as zoneData } from '../Fish.js';
@@ -368,118 +368,7 @@ limited_events['Double XP'] = {
 
 const calcData = {
 	pools,
-	fixed_chance_pools: [
-		{
-			name: 'Fischgiving',
-			chance: 1 / 250,
-			conditions: [
-				{
-					check: 'conditions',
-					op: 'contains_any',
-					property: 'limitedEvents',
-					values: [ 'Fischgiving' ]
-				}
-			],
-			fish: [ 'Turkey' ]
-		},
-		{
-			name: 'Exalted Relics',
-			chance: 1 / 2000,
-			conditions: [
-				{
-					check: 'conditions',
-					op: 'not',
-					property: 'rod',
-					values: ['Rod Of The Exalted One']
-				},
-				{
-					check: 'conditions',
-					op: 'not',
-					property: 'enchant',
-					values: ['Scavenger']
-				}
-			],
-			fish: [ 'Exalted Relic' ]
-		},
-		{
-			name: 'Exalted Relics',
-			chance: 1.75 / 2000,
-			conditions: [
-				{
-					check: 'conditions',
-					op: 'not',
-					property: 'rod',
-					values: ['Rod Of The Exalted One']
-				},
-				{
-					check: 'conditions',
-					property: 'enchant',
-					values: ['Scavenger']
-				}
-			],
-			fish: ['Exalted Relic']
-		},
-		{
-			name: 'Exalted Relics',
-			chance: 1 / 800,
-			conditions: [
-				{
-					check: 'conditions',
-					property: 'rod',
-					values: ['Rod Of The Exalted One']
-				},
-				{
-					check: 'conditions',
-					op: 'not',
-					property: 'enchant',
-					values: ['Scavenger']
-				}
-			],
-			fish: [ 'Exalted Relic' ]
-		},
-		{
-			name: 'Exalted Relics',
-			chance: 1.75 / 800,
-			conditions: [
-				{
-					check: 'conditions',
-					property: 'rod',
-					values: ['Rod Of The Exalted One']
-				},
-				{
-					check: 'conditions',
-					property: 'enchant',
-					values: ['Scavenger']
-				}
-			],
-			fish: ['Exalted Relic']
-		},
-		{
-			name: 'Enchant Relics',
-			chance: 1 / 350,
-			fish: ['Enchant Relic'],
-			conditions: [
-				{
-					check: 'conditions',
-					op: 'not',
-					property: 'enchant',
-					values: ['Scavenger']
-				}
-			]
-		},
-		{
-			name: 'Enchant Relics',
-			chance: 3 / 350,
-			fish: ['Enchant Relic'],
-			conditions: [
-				{
-					check: 'conditions',
-					property: 'enchant',
-					values: ['Scavenger']
-				}
-			]
-		},
-	],
+	fixed_chance_pools: FIXED_CHANCE_POOLS,
 	crab_pools,
 	bait,
 	mutations: MUTATION_DATA,

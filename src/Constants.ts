@@ -602,3 +602,120 @@ export const HUNT_MAP = {
 	
 	"LEGO Pool/Studalodon Hunt": ["Studalodon"],
 }
+
+/**
+ * Special pools with a fixed chance of activating,
+ * hardcoded into the game's fishing module.
+ */
+export const FIXED_CHANCE_POOLS = [
+	{
+		name: 'Fischgiving',
+		chance: 1 / 250,
+		conditions: [
+			{
+				check: 'conditions',
+				op: 'contains_any',
+				property: 'limitedEvents',
+				values: ['Fischgiving']
+			}
+		],
+		fish: ['Turkey']
+	},
+	{
+		name: 'Exalted Relics',
+		chance: 1 / 2000, // base chance
+		conditions: [
+			{
+				check: 'conditions',
+				op: 'not',
+				property: 'rod',
+				values: ['Rod Of The Exalted One']
+			},
+			{
+				check: 'conditions',
+				op: 'not',
+				property: 'enchant',
+				values: ['Scavenger']
+			}
+		],
+		fish: ['Exalted Relic']
+	},
+	{
+		name: 'Exalted Relics',
+		chance: 1.75 / 2000, // 1.75x from Scavenger
+		conditions: [
+			{
+				check: 'conditions',
+				op: 'not',
+				property: 'rod',
+				values: ['Rod Of The Exalted One']
+			},
+			{
+				check: 'conditions',
+				property: 'enchant',
+				values: ['Scavenger']
+			}
+		],
+		fish: ['Exalted Relic']
+	},
+	{
+		name: 'Exalted Relics',
+		chance: 1 / 800, // 2.5x from ROTEO
+		conditions: [
+			{
+				check: 'conditions',
+				property: 'rod',
+				values: ['Rod Of The Exalted One']
+			},
+			{
+				check: 'conditions',
+				op: 'not',
+				property: 'enchant',
+				values: ['Scavenger']
+			}
+		],
+		fish: ['Exalted Relic']
+	},
+	{
+		name: 'Exalted Relics',
+		chance: 1.75 / 800, // 1.75x from Scavenger, 2.5x from ROTEO
+		conditions: [
+			{
+				check: 'conditions',
+				property: 'rod',
+				values: ['Rod Of The Exalted One']
+			},
+			{
+				check: 'conditions',
+				property: 'enchant',
+				values: ['Scavenger']
+			}
+		],
+		fish: ['Exalted Relic']
+	},
+	{
+		name: 'Enchant Relics',
+		chance: 1 / 350, // base chance
+		fish: ['Enchant Relic'],
+		conditions: [
+			{
+				check: 'conditions',
+				op: 'not',
+				property: 'enchant',
+				values: ['Scavenger']
+			}
+		]
+	},
+	{
+		name: 'Enchant Relics',
+		chance: 3 / 350, // 3x from Scavenger
+		fish: ['Enchant Relic'],
+		conditions: [
+			{
+				check: 'conditions',
+				property: 'enchant',
+				values: ['Scavenger']
+			}
+		]
+	},
+]
