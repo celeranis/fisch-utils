@@ -625,20 +625,6 @@ export const MUTATION_DATA: MutationDataEntry[] = [
 		]
 	},
 	{
-		mutation: 'Scorched',
-		chance: 40,
-		priority: MutationPriority.Rods,
-		chance_type: 'percent',
-		allow_crates: false,
-		conditions: [
-			{
-				check: 'conditions',
-				property: 'rod',
-				values: ['Phoenix Rod']
-			}
-		]
-	},
-	{
 		mutation: 'Fossilized',
 		chance: 35,
 		priority: MutationPriority.SpecialRods,
