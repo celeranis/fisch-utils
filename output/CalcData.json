@@ -202,9 +202,9 @@
 					"fish": "Leedsichthys",
 					"chance": 5,
 					"position": [
-						6055,
+						6043,
 						394,
-						648
+						634
 					],
 					"can_lucky": false
 				}
@@ -698,8 +698,7 @@
 					],
 					"can_lucky": false
 				}
-			],
-			"force_abundance": true
+			]
 		},
 		"Desolate Deep/Brine Pool": {
 			"name": "Desolate Deep/Brine Pool",
@@ -1003,7 +1002,7 @@
 					"fish": "Cutlass Fish",
 					"position": [
 						-2635,
-						129,
+						127,
 						1410
 					],
 					"can_lucky": false
@@ -1012,7 +1011,7 @@
 					"fish": "Scurvy Sailfish",
 					"position": [
 						-2420,
-						129,
+						127,
 						1440
 					],
 					"can_lucky": false
@@ -1075,7 +1074,7 @@
 					"fish": "Golden Seahorse",
 					"position": [
 						-3069,
-						129,
+						127,
 						1488
 					],
 					"can_lucky": false
@@ -1084,7 +1083,7 @@
 					"fish": "Shipwreck Barracuda",
 					"position": [
 						-3592,
-						129,
+						127,
 						1605
 					],
 					"can_lucky": true
@@ -1282,7 +1281,7 @@
 			],
 			"abundances": [
 				{
-					"fish": "Salmon",
+					"fish": "Bluefish",
 					"chance": 60,
 					"position": [
 						1330,
@@ -3102,9 +3101,39 @@
 					"fish": "Clam",
 					"chance": 2500,
 					"position": [
-						-2029,
+						-2135,
 						127,
-						542
+						405
+					],
+					"can_lucky": false
+				},
+				{
+					"fish": "Clam",
+					"chance": 2500,
+					"position": [
+						-1999,
+						127,
+						417
+					],
+					"can_lucky": false
+				},
+				{
+					"fish": "Clam",
+					"chance": 2500,
+					"position": [
+						-1942,
+						127,
+						575
+					],
+					"can_lucky": false
+				},
+				{
+					"fish": "Clam",
+					"chance": 2500,
+					"position": [
+						-1918,
+						127,
+						708
 					],
 					"can_lucky": false
 				}
@@ -3844,7 +3873,7 @@
 					"chance": 4,
 					"position": [
 						99,
-						128,
+						127,
 						1985
 					],
 					"can_lucky": true
@@ -6091,7 +6120,7 @@
 			]
 		},
 		{
-			"mutation": "LEGO",
+			"mutation": "Awesome",
 			"chance": 5,
 			"priority": 100,
 			"chance_type": "percent",
@@ -6362,9 +6391,9 @@
 		"Aureate": 3,
 		"Aurelian": 2.5,
 		"Aureolin": 4,
+		"Aurulent": 3.5,
 		"Aurora": 6.5,
 		"Aurous": 2,
-		"Aurulent": 3.5,
 		"Blarney": 4.5,
 		"Blessed": 10,
 		"Blighted": 3,
@@ -6401,6 +6430,7 @@
 		"Jolly": 1.2,
 		"King’s Blessing": 3.5,
 		"LEGO": 3,
+		"Awesome": 3,
 		"Lightning": 1,
 		"Lost": 5.5,
 		"Lunar": 2.5,

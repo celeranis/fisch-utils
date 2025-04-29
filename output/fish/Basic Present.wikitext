@@ -33,7 +33,6 @@ Krampus's Rod\85851.29\132982.44;
 Magma Rod\82639.93\128008.26;
 Plastic Rod\75554.67\117033.29;
 Leviathan's Fang Rod\56677.52\103174.5;
-Buddy Bond Rod\56126.33\100686.85;
 Fast Rod\52406.42\110501.89;
 Ethereal Prism Rod\54931.18\85527.37;
 Seraphic Rod\52917.18\84997.31;

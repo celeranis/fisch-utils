@@ -32,7 +32,6 @@ Krampus's Rod\103509.07\62731.7;
 Magma Rod\95325.89\57772.28;
 Trident Rod\94777.31\93477.82;
 Plastic Rod\89814.55\57172.65;
-Buddy Bond Rod\66694.17\40420.02;
 Firefly Rod\67727.34\88485.07;
 Fast Rod\62597.74\85128.8;
 Free Spirit Rod\83572.07\82426.21;

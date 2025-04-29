@@ -37,7 +37,6 @@ Resourceful Rod\204156.96\135288.91;
 No-Life Rod\224402.32\192089.57;
 Seraphic Rod\192941.91\190842.29;
 Fast Rod\216794.25\190233.78;
-Fungal Rod\202860.08\160534.16;
 Verdant Shear Rod\214385.77\162897.22;
 Depthseeker Rod\212513.36\149044.61;
 Blazebringer Rod\212311.8\153602.4;

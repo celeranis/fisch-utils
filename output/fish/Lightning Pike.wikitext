@@ -33,7 +33,6 @@ Trident Rod\108131.7\142357.67;
 Magma Rod\100024.66\105886.14;
 Free Spirit Rod\95347.61\125527.15;
 Plastic Rod\94207.52\99737.68;
-Buddy Bond Rod\69981.64\74082.59;
 Ethereal Prism Rod\92565.97\91698.55;
 No-Life Rod\90342.63\102470.6;
 Seraphic Rod\90226.91\91909.77;

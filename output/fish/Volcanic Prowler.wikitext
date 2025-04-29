@@ -35,7 +35,7 @@ Brother's Rod\93183.38\8703.53;
 Wildflower Rod\91232.13\8635.47;
 Resourceful Rod\73248.95\7873.52;
 Free Spirit Rod\76613.95\8082.22;
-Voyager Rod\80150.93\7841.24;
+Kings Rod\81861.05\8008.54;
 Nocturnal Rod\40898.52\40616.07;
 Egg Rod\90215.01\9126.73;
 Verdant Shear Rod\86992.7\8800.74;

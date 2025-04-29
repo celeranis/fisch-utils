@@ -36,7 +36,7 @@ Azure Of Lagoon\119325.05\106656.22;
 No-Life Rod\116244.1\111588.75;
 Buddy Bond Rod\69376.11\66082.4;
 Lucky Rod\80629.84\80255.96;
-Long Rod\89774.7\88301.57;
+Firefly Rod\108290.99\107728.34;
 Seraphic Rod\114406.2\112762.61;
 Ethereal Prism Rod\111854.57\110222.5;
 Challenger's Rod\111663.86\103676.47;

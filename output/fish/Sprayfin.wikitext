@@ -33,7 +33,7 @@ Flimsy Rod\269118.14\134976.85;
 Free Spirit Rod\192109.54\12528.22;
 Leviathan's Fang Rod\188757.29\17492.08;
 Trident Rod\187159.44\16017.25;
-Plastic Rod\151516.74\16033.32;
+Fischer's Rod\152365.92\16153.69;
 Nocturnal Rod\90709.38\85285.12;
 Firefly Rod\170358.78\16567.59;
 Blazebringer Rod\166977.55\15473.76;

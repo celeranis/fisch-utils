@@ -40,7 +40,6 @@ Frog Rod\347.05\14431.49;
 Fast Rod\372.11\20199.62;
 Firefly Rod\411.44\20030.46;
 Fungal Rod\346.59\16025.18;
-Adventurer's Rod\270.51\13478.17;
 Fischer's Rod\271.57\13531.1;
 Rod Of The Forgotten Fang\398.86\2891.73;
 Trident Rod\390.51\3139.67;

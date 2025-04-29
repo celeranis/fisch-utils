@@ -33,7 +33,6 @@ Magma Rod\60119.15\90391.48;
 Plastic Rod\55391.16\83283.73;
 Leviathan's Fang Rod\48552.2\76047.95;
 Trident Rod\43551.28\61566.67;
-Buddy Bond Rod\41134.16\67027.79;
 Fast Rod\40026.8\70806.35;
 Heaven's Rod\34207.18\68056.63;
 Ethereal Prism Rod\42813.13\57031;

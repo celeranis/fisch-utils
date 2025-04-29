@@ -37,7 +37,6 @@ Destiny Rod\10759.72\87350.76;
 Heaven's Rod\10986.24\92056.3;
 Rod Of The Exalted One\9982.99\88085.21;
 Poseidon Rod\10643.82\94966.99;
-Leviathan's Fang Rod\13123.75\115934.51;
 Verdant Shear Rod\15359.22\129548.94;
 Trident Rod\12291.54\109238.48;
 Seraphic Rod\11895.07\105270.03;

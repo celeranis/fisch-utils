@@ -32,7 +32,7 @@ Training Rod\292295.06\145038.56;
 Krampus's Rod\181678.24\105055.3;
 Magma Rod\176392.43\101952.7;
 Leviathan's Fang Rod\174213.35\144699.34;
-Buddy Bond Rod\138776.14\91358.19;
+Plastic Rod\161184.9\98396.68;
 Trident Rod\164695.69\136361.23;
 Free Spirit Rod\163471.62\135347.75;
 Lucky Rod\120388\106755.22;

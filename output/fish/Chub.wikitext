@@ -32,7 +32,6 @@ Magma Rod\398201.86\44803.84;
 Leviathan's Fang Rod\392898.13\0;
 Ethereal Prism Rod\370163.74\0;
 No-Life Rod\366433.3\66133.56;
-Buddy Bond Rod\270132.79\34649;
 Plastic Rod\363640.3\39878.95;
 Nocturnal Rod\204835.14\272659.21;
 Riptide Rod\305357.97\76428.95;

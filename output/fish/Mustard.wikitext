@@ -47,7 +47,7 @@ No-Life Rod\994.36\4087;
 Flimsy Rod\741.69\3949.48;
 Training Rod\721.45\4184.91;
 Lucky Rod\673.05\3198.69;
-Adventurer's Rod\538.96\2748.18;
+Fischer's Rod\541.08\2758.97;
 Seraphic Rod\991.12\3853.92;
 Rod Of The Forgotten Fang\928.16\3808.78;
 Challenger's Rod\903.87\3772.96;

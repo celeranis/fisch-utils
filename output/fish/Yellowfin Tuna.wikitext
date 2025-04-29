@@ -60,7 +60,7 @@ Azure Of Lagoon\139515.93\84858.62;
 No-Life Rod\137306.35\123539.65;
 Resourceful Rod\124129.04\104820.71;
 Wildflower Rod\126288.41\107229.24;
-Haunted Rod\102165.38\89670.15;
+Scurvy Rod\113498.16\99616.88;
 Ethereal Prism Rod\125578.26\139061.79;
 Kraken Rod\106360.31\133727.61;
 Seraphic Rod\122245.55\122245.55;

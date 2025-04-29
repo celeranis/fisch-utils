@@ -36,8 +36,6 @@ Buddy Bond Rod\201376.77\455168.79;
 Fast Rod\191267.65\525447.11;
 Leviathan's Fang Rod\183976.36\506481.33;
 Fischer's Rod\169124.25\464615.14;
-Adventurer's Rod\168161.5\461970.28;
-Flimsy Rod\125492.12\344749.73;
 Ethereal Prism Rod\184791.52\413135.81;
 Seraphic Rod\178587.96\416471.42;
 No-Life Rod\173350.57\434312.83;

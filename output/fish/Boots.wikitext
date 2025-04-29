@@ -45,7 +45,7 @@ Resourceful Rod\15078.26\71135.53;
 Trident Rod\16130.82\80721.41;
 Free Spirit Rod\16121.1\80344.38;
 Firefly Rod\15742.8\74992.37;
-Adventurer's Rod\9958.68\50109.93;
+Fischer's Rod\9991.01\50272.62;
 Rod Of The Forgotten Fang\18019.75\72007.88;
 Challenger's Rod\17489.37\72220.34;
 Rod Of The Exalted One\16687.89\70733.29;

@@ -37,7 +37,7 @@ Lucky Rod\28180.47\140955.07;
 Resourceful Rod\33132.73\149589.39;
 Destiny Rod\37549.15\153385.54;
 Firefly Rod\35246.04\177699.11;
-Adventurer's Rod\22395.09\116457.86;
+Fast Rod\33468.93\174043.51;
 Brick Built Rod\27627.18\130591.96;
 Seraphic Rod\41139.03\172782.22;
 Rod Of The Forgotten Fang\38471.22\161954.78;

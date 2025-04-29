@@ -36,7 +36,7 @@ Resourceful Rod\225329.46\140370.21;
 No-Life Rod\286616.18\229995.35;
 Seraphic Rod\260494.34\225962.43;
 Tempest Rod\256862.96\218172.97;
-Long Rod\192174.77\143892.11;
+Fast Rod\216048.27\208132.24;
 Ethereal Prism Rod\251624.94\63084.32;
 Challenger's Rod\245704.13\206747.64;
 Rod Of The Forgotten Fang\236939.91\205913.76;

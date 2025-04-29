@@ -40,7 +40,7 @@ Heaven's Rod\31488.38\136244.64;
 Free Spirit Rod\35232.58\165743.71;
 Lucky Rod\23930.54\112236.98;
 Midas Rod\16579.85\75599.56;
-Long Rod\22151.82\100627.3;
+Great Dreamer Rod\30233.65\134195.89;
 Rod Of The Forgotten Fang\35846.89\143396.61;
 Challenger's Rod\34553.64\144277.36;
 Rod Of The Depths\32154.73\142142.24;

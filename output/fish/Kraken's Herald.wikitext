@@ -38,7 +38,7 @@ Azure Of Lagoon\63226.34\99903.88;
 Long Rod\55352.65\102899.32;
 Frog Rod\50896.97\86986.34;
 Resourceful Rod\58403.47\94105.42;
-Buddy Bond Rod\35793.82\60444.23;
+Carbon Rod\38505.07\64566.61;
 Seraphic Rod\62987.08\91554.43;
 Ethereal Prism Rod\62321.86\89967.94;
 Challenger's Rod\59991.91\90130.59;

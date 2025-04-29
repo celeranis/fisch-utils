@@ -34,7 +34,7 @@ Leviathan's Fang Rod\247505.94\179436.46;
 Firefly Rod\224496.02\224496.02;
 Azure Of Lagoon\224358.57\147407.44;
 Long Rod\179242.26\179242.26;
-Fungal Rod\183018.43\183018.43;
+Adventurer's Rod\185377.87\185377.87;
 Egg Rod\208581.95\201377.36;
 Brother's Rod\204865.57\199417.17;
 Great Dreamer Rod\206205.2\198640.46;

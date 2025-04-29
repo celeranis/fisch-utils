@@ -48,7 +48,7 @@ Flimsy Rod\729.71\3885.37;
 Training Rod\707.2\4101.96;
 Lucky Rod\664.02\3211.44;
 Free Spirit Rod\941.4\4669.97;
-Adventurer's Rod\530.07\2702.65;
+Fischer's Rod\531.96\2712.26;
 Rod Of The Forgotten Fang\911.6\3694.64;
 Challenger's Rod\887.23\3702.57;
 Rod Of The Exalted One\847.79\3579.53;

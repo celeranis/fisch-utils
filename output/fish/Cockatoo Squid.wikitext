@@ -32,7 +32,7 @@ Leviathan's Fang Rod\203633.68\194376.61;
 Free Spirit Rod\182200.75\173170.01;
 Training Rod\179945.59\243855.85;
 Flimsy Rod\153453.29\159029.76;
-Buddy Bond Rod\89418.5\87151.61;
+Plastic Rod\105323.84\94868.51;
 Ethereal Prism Rod\131047.24\159250.61;
 Fortune Rod\99297.24\94587.35;
 No-Life Rod\143075.82\134668.12;

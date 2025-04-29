@@ -60,7 +60,7 @@ Flimsy Rod\17246.42\85035.48;
 Training Rod\17105.93\90389.97;
 Lucky Rod\15839.25\68077.16;
 Rapid Rod\20680.51\93538.02;
-Adventurer's Rod\12945.16\61691.1;
+Fischer's Rod\13039.42\62140.3;
 Seraphic Rod\23403.32\87234.43;
 Rod Of The Forgotten Fang\21750.54\85030.94;
 Challenger's Rod\21253.1\86196.23;

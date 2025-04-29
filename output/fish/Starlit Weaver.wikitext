@@ -34,7 +34,7 @@ Ethereal Prism Rod\56602.18\77373.76;
 No-Life Rod\55032.09\86374.16;
 Plastic Rod\44300.51\50573.45;
 Krampus's Rod\52882.37\59006.4;
-Buddy Bond Rod\33766.42\41590.32;
+Magma Rod\51526.42\57493.42;
 Seraphic Rod\54703.64\77591.97;
 Fungal Rod\36428.38\64758.14;
 Antler Rod\32307.19\56662.75;

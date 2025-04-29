@@ -37,7 +37,7 @@ Resourceful Rod\29732.13\135853.38;
 Destiny Rod\33801.51\144737.43;
 Seraphic Rod\37903.72\157936.95;
 Buddy Bond Rod\16599.13\82451.34;
-Adventurer's Rod\18399.77\91168.71;
+Fast Rod\27428.59\135905.43;
 Rod Of The Forgotten Fang\35349.75\154790.46;
 Challenger's Rod\34452.26\156801.71;
 Rod Of The Exalted One\32011.33\151463.66;

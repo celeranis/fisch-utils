@@ -36,7 +36,6 @@ Flimsy Rod\55016.18\184639.77;
 Training Rod\55970.06\250393.18;
 Destiny Rod\52764.23\227995.71;
 Seraphic Rod\58871.27\253868.51;
-Rod Of The Zenith\52256.2\224345.05;
 Rod Of The Forgotten Fang\54941.68\249143.58;
 Challenger's Rod\53821.86\252043.72;
 Rod Of The Exalted One\50719.17\242261.56;

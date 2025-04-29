@@ -40,7 +40,6 @@ No-Life Rod\376991.05\341541.77;
 Seraphic Rod\369236.97\339964.44;
 Tempest Rod\363334.08\327985.41;
 Fortune Rod\298131.85\226325.55;
-Adventurer's Rod\383483.4\240352.32;
 Trident Rod\399237.57\238397.72;
 Free Spirit Rod\394405.73\238043.89;
 Rod Of The Forgotten Fang\356347.76\310435.33;

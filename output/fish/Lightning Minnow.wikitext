@@ -32,7 +32,7 @@ Leviathan's Fang Rod\216741.95\0;
 Trident Rod\214548.86\14161.75;
 Free Spirit Rod\210107.78\14126.48;
 Flimsy Rod\203299.4\41707.62;
-Summit Rod\184946.36\16972.01;
+Egg Rod\185742.07\19913.08;
 Nocturnal Rod\114617.9\88759.99;
 No-Life Rod\200165.17\20111.25;
 Seraphic Rod\178000.03\19955.93;

@@ -39,7 +39,7 @@ Heaven's Rod\13121.71\80407.45;
 Firefly Rod\12524.85\96020.96;
 Lucky Rod\9848.31\74710.31;
 Brick Built Rod\9224.24\77128.11;
-Adventurer's Rod\7876.2\62871.85;
+Fast Rod\11727\93610.92;
 Seraphic Rod\16038.16\92640.69;
 Rod Of The Forgotten Fang\14915.73\89690.29;
 Challenger's Rod\14546.14\90898.75;

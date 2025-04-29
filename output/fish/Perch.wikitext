@@ -40,7 +40,6 @@ Azure Of Lagoon\327038.13\382853.25;
 Zeus Rod\321926.56\341317.37;
 Great Dreamer Rod\311353.24\339451.3;
 Riptide Rod\319655.43\338996.2;
-Long Rod\260410.43\258551.86;
 Seraphic Rod\376745.98\257301.83;
 Rod Of The Forgotten Fang\354579.53\234973.94;
 Challenger's Rod\349515.11\338940.48;

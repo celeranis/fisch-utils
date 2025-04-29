@@ -37,7 +37,7 @@ Wildflower Rod\95478.15\94143.15;
 Long Rod\89938.08\89938.08;
 Fungal Rod\92691.29\92691.29;
 No-Life Rod\94598.57\93451.15;
-Buddy Bond Rod\90365.74\89120.78;
+Fischer's Rod\91460.08\90106.15;
 Plastic Rod\91007.17\89571.77;
 Free Spirit Rod\88426.56\71666.07;
 Verdant Shear Rod\87690.8\83010.84;

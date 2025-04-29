@@ -246,6 +246,15 @@ pools['The Depths/Absolute Darkness'].force_abundance = true
 
 pools['Desolate Deep/Brine Pool'].force_abundance = false
 
+pools['Cults Curse'].abundances = [{
+	fish: "Bloodscript Eel",
+	chance: undefined,
+	hidden: true,
+	position: [ 713, 2124, 16960 ],
+	can_lucky: false,
+}]
+pools['Roslit Bay/Ashfall'].force_abundance = true
+
 const rods = Object.fromEntries(FishingRod.getNonDev()
 	.sort((r0, r1) => r0.Name.localeCompare(r1.Name))
 	.map(rod => {

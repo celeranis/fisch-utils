@@ -38,7 +38,6 @@ Abyssal Specter Rod\21392.38\80637.48;
 Destiny Rod\13975.9\39114.85;
 Heaven's Rod\15165.75\43261.96;
 Rod Of The Depths\12927.48\40744.6;
-Riptide Rod\11484.88\36831.91;
 No-Life Rod\20333.64\64845.06;
 Rod Of The Forgotten Fang\19401.22\60136.77;
 Free Spirit Rod\16157.65\49188.1;

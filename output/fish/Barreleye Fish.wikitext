@@ -37,7 +37,7 @@ Seraphic Rod\78740.66\127382.98;
 Flimsy Rod\71689.87\221981.89;
 Training Rod\57085.92\130942;
 Lucky Rod\58136.74\98926.79;
-Adventurer's Rod\47961.25\82501.04;
+Firefly Rod\73489.33\125325.33;
 Ethereal Prism Rod\78172.73\126566.46;
 Challenger's Rod\77184.94\126434.9;
 Rod Of The Forgotten Fang\76446.1\124857.56;

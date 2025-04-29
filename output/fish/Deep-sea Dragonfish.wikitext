@@ -40,7 +40,6 @@ Fast Rod\236129.73\236129.73;
 Seraphic Rod\235837.58\235837.58;
 Tempest Rod\232781.06\227527.58;
 Rapid Rod\223341.23\223341.23;
-Adventurer's Rod\179839.6\165761.28;
 Challenger's Rod\232886.58\215865.09;
 Rod Of The Forgotten Fang\227260.46\215352.87;
 Depthseeker Rod\224946.2\184117.77;

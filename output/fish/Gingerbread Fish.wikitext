@@ -35,7 +35,6 @@ Buddy Bond Rod\122790.32\242308.65;
 Fast Rod\116561.55\303547.9;
 Fischer's Rod\106056.23\276190.1;
 Adventurer's Rod\104947.63\273303.09;
-Flimsy Rod\79059.14\224665.18;
 Trident Rod\97142.59\105190.95;
 Ethereal Prism Rod\96136.53\141482.64;
 Seraphic Rod\93093.98\91219.54;

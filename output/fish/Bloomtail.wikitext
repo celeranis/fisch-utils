@@ -38,7 +38,7 @@ Krampus's Rod\43467.35\78816.16;
 Steady Rod\26074.55\78375.38;
 Firefly Rod\37593.58\141704.23;
 Carbon Rod\24436.03\96579.6;
-Long Rod\23347.71\87222.54;
+North-Star Rod\24562.85\96507.76;
 Verdant Shear Rod\46899.69\127989.02;
 Trident Rod\38703.32\105621.16;
 Seraphic Rod\37327.65\101866.96;

@@ -31,7 +31,6 @@ Magma Rod\89892.07\96670.88;
 Leviathan's Fang Rod\83947.23\103410.01;
 Plastic Rod\82129.42\88322.84;
 Ethereal Prism Rod\78902.02\84525.56;
-Buddy Bond Rod\61010.42\71827.41;
 Trident Rod\74888.09\97502.06;
 Free Spirit Rod\73002.22\95046.72;
 Flimsy Rod\48746.51\79409.46;

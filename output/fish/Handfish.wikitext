@@ -41,7 +41,7 @@ Free Spirit Rod\47097.34\249438.98;
 Abyssal Specter Rod\42089.86\205339.62;
 Training Rod\25091.37\140709.46;
 Flimsy Rod\26823.32\155075.46;
-Adventurer's Rod\25333.04\128202.06;
+Fischer's Rod\25530.96\129203.64;
 Rod Of The Forgotten Fang\49574.24\197874.33;
 Challenger's Rod\48143.99\200992.36;
 Rod Of The Depths\44119.05\190588.48;

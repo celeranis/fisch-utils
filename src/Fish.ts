@@ -515,8 +515,8 @@ export class Fish {
 			.slice(0, 5)
 			.map(([name]) => name)
 
-		const normalTopChance = Object.entries(normal)
-			.sort(([, c0], [, c1]) => c1[1] - c0[1])
+		const normalTopChance = Object.entries(normal) // if two chances are the exact same, fallback to score to sort them
+			.sort(([, c0], [, c1]) => (c1[1] - c0[1]) || (c1[0] - c0[0]))
 			.slice(0, 3)
 			.map(([name]) => name)
 			
@@ -525,8 +525,8 @@ export class Fish {
 			.slice(0, 5)
 			.map(([name]) => name)
 
-		const auroraTopChance = Object.entries(aurora)
-			.sort(([, c0], [, c1]) => c1[1] - c0[1])
+		const auroraTopChance = Object.entries(aurora) // if two chances are the exact same, fallback to score to sort them
+			.sort(([, c0], [, c1]) => (c1[1] - c0[1]) || (c1[0] - c0[0]))
 			.slice(0, 3)
 			.map(([name]) => name)
 		

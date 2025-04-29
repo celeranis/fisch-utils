@@ -42,7 +42,6 @@ Egg Rod\173703.59\196762.64;
 Wisdom Rod\172763.38\194781.87;
 Great Dreamer Rod\172906.45\194066.89;
 Verdant Shear Rod\172144.55\193662.15;
-Summit Rod\170518.11\186720.98;
 Seraphic Rod\185274.43\150268.82;
 Ethereal Prism Rod\181487.85\91073.26;
 Challenger's Rod\178960.4\137593.28;

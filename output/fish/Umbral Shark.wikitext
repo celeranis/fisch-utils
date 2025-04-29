@@ -39,7 +39,7 @@ Heaven's Rod\163153.14\371870.97;
 Azure Of Lagoon\153165.13\563067.6;
 No-Life Rod\203891.95\555181.31;
 Midas Rod\77067.12\236897.88;
-Long Rod\113910.15\345400.99;
+Wisdom Rod\147892.2\426069.4;
 Great Dreamer Rod\156212.14\416211.75;
 Rod Of The Forgotten Fang\189573.79\426462.43;
 Challenger's Rod\182075.4\442589.53;

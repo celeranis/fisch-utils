@@ -35,7 +35,6 @@ Buddy Bond Rod\115055.59\222137.45;
 Flimsy Rod\72830.17\328717.04;
 Fast Rod\91513.9\262485.24;
 Training Rod\49677.98\239550.92;
-Adventurer's Rod\78183.14\224249.2;
 Trident Rod\96883.2\130067.62;
 Ethereal Prism Rod\90983.85\88321.09;
 Free Spirit Rod\90883.05\122012.3;

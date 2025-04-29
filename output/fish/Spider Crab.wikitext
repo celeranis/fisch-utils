@@ -33,7 +33,6 @@ Magma Rod\246221.08\80466.12;
 Plastic Rod\225125.53\73592.36;
 Fast Rod\224190.68\58623.89;
 Leviathan's Fang Rod\201309.95\41394.3;
-Buddy Bond Rod\167225.28\54649.95;
 Flimsy Rod\158794.89\61708.28;
 Trident Rod\181159.84\33958.54;
 Free Spirit Rod\175544.55\33662.69;

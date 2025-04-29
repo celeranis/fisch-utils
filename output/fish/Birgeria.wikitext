@@ -32,7 +32,6 @@ Leviathan's Fang Rod\207197.32\65541.6;
 Trident Rod\202373.69\59131.53;
 Magma Rod\199860.41\65045.84;
 Free Spirit Rod\194541.79\56843.13;
-Buddy Bond Rod\135906.52\44231.64;
 Plastic Rod\182951.08\59542.59;
 Nocturnal Rod\81607.2\49898.79;
 No-Life Rod\171740.01\55933.84;

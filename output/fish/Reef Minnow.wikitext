@@ -38,7 +38,6 @@ Resourceful Rod\230019.52\153399.74;
 Fast Rod\236331.24\213280.97;
 Seraphic Rod\211389.2\211389.2;
 Tempest Rod\216129.78\203940.66;
-Rod Of The Eternal King\192618.8\159570.71;
 Depthseeker Rod\238062\165030.98;
 Verdant Shear Rod\237320.31\180884.75;
 Avalanche Rod\236614.94\148376.09;

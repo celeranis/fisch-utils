@@ -33,7 +33,6 @@ Firefly Rod\287915.55\259151.75;
 Rapid Rod\283612.11\220739.63;
 Depthseeker Rod\281903.72\182555.32;
 Flimsy Rod\263988.42\239783.03;
-Adventurer's Rod\247199.68\180757.77;
 Ethereal Prism Rod\239902.7\248224.83;
 No-Life Rod\267493.51\236503.23;
 Candy Cane Rod\227568.54\196239.1;

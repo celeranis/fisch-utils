@@ -38,7 +38,6 @@ Lucky Rod\53000.66\90187.1;
 Firefly Rod\69493.46\118510.96;
 Candy Cane Rod\45061.3\77099.03;
 Magnet Rod\35512.61\57009.64;
-Adventurer's Rod\45649.58\78524.6;
 Ethereal Prism Rod\76911.97\123420.45;
 Challenger's Rod\75612.44\123859.02;
 Rod Of The Forgotten Fang\73935.57\120278.84;

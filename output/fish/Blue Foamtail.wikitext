@@ -36,7 +36,6 @@ Egg Rod\270228.62\36723.05;
 Training Rod\239846.59\248457.26;
 Flimsy Rod\225612.62\27212.5;
 Nocturnal Rod\139650.94\134119.58;
-Precision Rod\215088.52\25547.55;
 Blazebringer Rod\269977.58\31172.38;
 Verdant Shear Rod\268669.82\35501.78;
 No-Life Rod\249422.33\30525.1;

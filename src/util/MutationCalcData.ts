@@ -1034,7 +1034,7 @@ export const MUTATION_DATA: MutationDataEntry[] = [
 		],
 	},
 	{
-		mutation: "LEGO",
+		mutation: "Awesome",
 		chance: 5,
 		priority: MutationPriority.SpecialRods,
 		chance_type: 'percent',
@@ -1162,11 +1162,13 @@ export const MUTATION_DATA: MutationDataEntry[] = [
 
 export const MUTATION_MULTIPLIERS: Record<string, number> = {}
 for (const [mutation, mutationData] of Object.entries(InternalMutationDataMap).sort(([k0], [k1]) => k0.localeCompare(k1))) {
-	if (DEV_MUTATIONS.includes(mutation)) continue
+	if (DEV_MUTATIONS.includes(mutation) || DEV_MUTATIONS.includes(mutationData.Display)) continue
+	
 	MUTATION_MULTIPLIERS[mutation] = mutationData.PriceMultiply
+	MUTATION_MULTIPLIERS[mutationData.Display] = mutationData.PriceMultiply
 	
 	// lazily preserving order
-	if (mutation == 'Seasonal') {
+	if (mutationData.Display == 'Seasonal') {
 		MUTATION_MULTIPLIERS['Seasonal (Spring)'] = 3
 		MUTATION_MULTIPLIERS['Seasonal (Autumn)'] = 1.5
 		MUTATION_MULTIPLIERS['Seasonal (Winter)'] = 2.5

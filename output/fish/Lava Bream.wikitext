@@ -36,7 +36,6 @@ Fast Rod\390103.41\510330.63;
 Adventurer's Rod\334041.75\553318.25;
 Firefly Rod\373009.5\517251.91;
 Blazebringer Rod\359511.37\517000.3;
-Buddy Bond Rod\295333.88\508984.93;
 Trident Rod\369347.06\370349.76;
 Steady Rod\367050.81\258467.1;
 Verdant Shear Rod\355992.06\400140.63;

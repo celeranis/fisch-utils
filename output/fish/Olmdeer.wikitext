@@ -39,7 +39,7 @@ Destiny Rod\29254.64\89710.52;
 Heaven's Rod\26231.55\88334.93;
 Trident Rod\26598.51\95043.43;
 Free Spirit Rod\26232.7\94395.72;
-Precision Rod\21518.84\77433.37;
+Shamrock Rod\22377.79\80524.2;
 Rod Of The Forgotten Fang\29924.96\91789.36;
 Challenger's Rod\28712.86\92035.92;
 Rod Of The Depths\26874.88\90538.75;

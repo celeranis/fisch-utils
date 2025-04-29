@@ -39,7 +39,6 @@ Brick Built Rod\56751.54\569852.94;
 Adventurer's Rod\65949.94\532500;
 Lucky Rod\50630.97\499148.73;
 Fungal Rod\43204.99\496235.29;
-Long Rod\44216.05\486441.18;
 Steady Rod\89452.02\109024.31;
 Free Spirit Rod\79058.21\231945.51;
 Verdant Shear Rod\56174.99\178736.47;

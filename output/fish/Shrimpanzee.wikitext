@@ -36,8 +36,6 @@ Egg Rod\276460.77\249013.04;
 Great Dreamer Rod\275380.86\233841.77;
 No-Life Rod\258323.33\221153.14;
 Krampus's Rod\235957.92\245450.2;
-Rod Of The Eternal King\226796.15\189606.77;
-Auric Rod\232760.87\232760.87;
 Celestial Rod\238080.58\238080.58;
 Seraphic Rod\239327.5\200631.99;
 Depthseeker Rod\235835.67\229303.9;

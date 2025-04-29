@@ -40,7 +40,6 @@ Verdant Shear Rod\231957.04\228421.69;
 Abyssal Specter Rod\235714.92\225223.97;
 Firefly Rod\228138.02\225205.68;
 Blazebringer Rod\232281.42\219378.64;
-Summit Rod\229281.53\206066.66;
 Seraphic Rod\244262.15\196356.71;
 Ethereal Prism Rod\239116.41\107413.57;
 Challenger's Rod\235807.6\179727.75;

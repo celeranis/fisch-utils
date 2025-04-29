@@ -37,7 +37,6 @@ Resourceful Rod\134079.66\130963.14;
 Azure Of Lagoon\153660.59\160880.57;
 No-Life Rod\151537.88\158901.23;
 Zeus Rod\136081.07\157409;
-The Lost Rod\134426.58\136949.65;
 Challenger's Rod\138978.92\151424.91;
 Seraphic Rod\137128.53\135759.11;
 Depthseeker Rod\136837.54\135715.54;

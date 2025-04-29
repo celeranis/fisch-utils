@@ -41,7 +41,7 @@ Trident Rod\1473.37\7664.49;
 Free Spirit Rod\1472.49\7628.69;
 Training Rod\854.96\4775.58;
 Flimsy Rod\952\5483.48;
-Adventurer's Rod\895.86\4517;
+Fischer's Rod\898.77\4531.67;
 Rod Of The Forgotten Fang\1720.57\6838.09;
 Challenger's Rod\1652.09\6858.25;
 Rod Of The Depths\1548.69\6736.01;

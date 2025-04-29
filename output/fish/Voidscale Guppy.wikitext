@@ -33,7 +33,7 @@ Free Spirit Rod\71683.06\115303.62;
 Krampus's Rod\65397.18\74070.02;
 Ethereal Prism Rod\63757.27\78420.72;
 Plastic Rod\56470.13\63941.19;
-Buddy Bond Rod\41898.63\49908.38;
+Magma Rod\62076.59\70309.06;
 No-Life Rod\61971.81\83637.05;
 Firefly Rod\49601.36\78925.1;
 Lucky Rod\40067.65\63186.77;

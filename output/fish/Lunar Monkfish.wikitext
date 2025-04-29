@@ -33,7 +33,6 @@ Magma Rod\174300.27\368705.76;
 Plastic Rod\161983.13\342650.73;
 Leviathan's Fang Rod\136510.4\563461.86;
 Trident Rod\124540.39\433884.6;
-Buddy Bond Rod\120330.33\296581.71;
 No-Life Rod\111180.95\474338.42;
 Seraphic Rod\111767.23\455237.16;
 Ethereal Prism Rod\115846.07\452439.9;

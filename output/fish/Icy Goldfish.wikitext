@@ -32,7 +32,6 @@ Krampus's Rod\70066.77\37690.35;
 Trident Rod\68835.97\75856.52;
 Magma Rod\65781.35\36229.04;
 Ethereal Prism Rod\64284.38\59972.3;
-Buddy Bond Rod\45342.78\28878.34;
 Plastic Rod\61038.36\31952.65;
 Free Spirit Rod\62963.05\69384.62;
 No-Life Rod\62547.81\61545.04;

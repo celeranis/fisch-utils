@@ -37,7 +37,6 @@ Seraphic Rod\50642.56\80570.57;
 Lucky Rod\34644.57\59085.52;
 Firefly Rod\44883.35\76716.31;
 Candy Cane Rod\29020.65\49767.73;
-Adventurer's Rod\29200.62\50346.5;
 Fast Rod\43400.31\74829.01;
 Ethereal Prism Rod\50511.63\79801.15;
 Challenger's Rod\47881.83\78615.65;

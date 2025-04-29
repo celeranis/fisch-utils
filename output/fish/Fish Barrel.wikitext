@@ -56,7 +56,6 @@ Krampus's Rod\173291.44\160930.72;
 Leviathan's Fang Rod\168372.97\228169.21;
 Magma Rod\168366.38\156356.96;
 No-Life Rod\156056.07\205740.2;
-Buddy Bond Rod\114322.45\123637.97;
 Trident Rod\148075.8\217422.69;
 Free Spirit Rod\147269.65\216239;
 Seraphic Rod\151745.22\215994.11;

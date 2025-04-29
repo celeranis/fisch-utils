@@ -34,7 +34,7 @@ No-Life Rod\182491.87\20807.6;
 Azure Of Lagoon\178346.81\20155.97;
 Flimsy Rod\125542.56\21784.83;
 Training Rod\139878.23\21337.29;
-The Lost Rod\163199.23\18312.59;
+Abyssal Specter Rod\169777.76\19494.05;
 Nocturnal Rod\100040.05\81588.2;
 Fast Rod\161032.83\20988.32;
 Challenger's Rod\174236.33\19837.05;

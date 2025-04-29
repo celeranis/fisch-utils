@@ -33,7 +33,7 @@ Trident Rod\255090.85\15985.86;
 Free Spirit Rod\250708.5\15952.11;
 Azure Of Lagoon\238277.43\24783.63;
 Flimsy Rod\231044.24\49779.64;
-Voyager Rod\199213.05\18407.94;
+Kings Rod\199933.14\18474.48;
 Nocturnal Rod\130864.9\101341.64;
 No-Life Rod\237637.15\24481.48;
 Seraphic Rod\218652.68\22625.6;

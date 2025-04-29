@@ -32,7 +32,6 @@ Krampus's Rod\81435.64\113536.42;
 Magma Rod\79347.55\110625.23;
 Free Spirit Rod\69186.95\130514.21;
 Plastic Rod\68137.78\94996.73;
-Buddy Bond Rod\50616.64\84785.49;
 Trident Rod\67663.77\127640.87;
 Training Rod\59606.71\121270.76;
 Flimsy Rod\40687.42\103108.37;

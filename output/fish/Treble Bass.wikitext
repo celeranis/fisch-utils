@@ -38,7 +38,6 @@ Heaven's Rod\6130.95\45920.71;
 No-Life Rod\7619.2\57515.61;
 Flimsy Rod\3791.55\44566.33;
 Training Rod\3708.93\30194.75;
-Rod Of The Zenith\6502.63\45033.65;
 Rod Of The Forgotten Fang\7107.52\52214.83;
 Challenger's Rod\6947.93\53857.84;
 Rod Of The Depths\6269.15\49819.8;

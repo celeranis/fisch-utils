@@ -39,7 +39,6 @@ Firefly Rod\27742.37\189695.84;
 Fast Rod\25662.7\186309.43;
 Fungal Rod\23056.5\153484.37;
 Training Rod\18759.4\112771.81;
-Adventurer's Rod\17301.73\124007.91;
 Rod Of The Forgotten Fang\28678.58\106132.17;
 Challenger's Rod\27431.24\106310.05;
 Rod Of The Depths\25844.09\104470.39;

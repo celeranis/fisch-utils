@@ -1,4 +1,4 @@
--- Last update: Version [[1.30]], place version 4322
+-- Last update: Version [[1.30]], place version 4341
 
 return {
 	["Seaweed"] = "Trash",

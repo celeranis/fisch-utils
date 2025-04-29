@@ -413,6 +413,9 @@ export const ZONE_ABUNDANCE_MAP: Record<string, { abundance_for: string, abundan
 	'The Depths - Serpent': {
 		abundance_for: 'Ancient Depth Serpent',
 		abundance_chance: 30
+	},
+	'Cults Curse': {
+		abundance_for: 'Bloodscript Eel'
 	}
 }
 
