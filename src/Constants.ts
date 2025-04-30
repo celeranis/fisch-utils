@@ -389,7 +389,7 @@ export const ZONE_ABUNDANCE_MAP: Record<string, { abundance_for: string, abundan
 		abundance_chance: 10,
 	},
 	'Keepers Altar': {
-		abundance_for: 'Salmon',
+		abundance_for: 'Bluefish',
 		abundance_chance: 60,
 	},
 	'Forsaken Algae Pool': {

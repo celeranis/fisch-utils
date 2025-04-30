@@ -27,27 +27,27 @@
 {{Fish Availability|
 Keepers Altar
 |top_rods      = 
-Trident Rod\724919.12\284830.05;
-Leviathan's Fang Rod\642386.02\390105.06;
-Free Spirit Rod\639214.08\282713.1;
-Azure Of Lagoon\593861.62\268882.19;
-No-Life Rod\587628.48\391780.01;
-Training Rod\480672.27\480672.27;
-Flimsy Rod\446006.08\402761.1;
-Magnet Rod\278217.01\272878.84;
-Seraphic Rod\440033.52\384047.83;
-Depthseeker Rod\525686.11\298788.34;
-Verdant Shear Rod\511396.72\325228.58;
-Blazebringer Rod\509152.64\307338.3;
-Zeus Rod\505379.27\325292.22;
-Avalanche Rod\503559.44\267189.65;
-Challenger's Rod\498055.66\351308.14;
-Volcanic Rod\490537.37\246891.56;
-Rod Of The Forgotten Fang\436206.12\349810.65;
-Rod Of The Depths\434503.24\316669.22;
-Rod Of The Exalted One\392733.55\297918.87;
-Ethereal Prism Rod\381708.45\381708.45;
-Steady Rod\184699.23\119204.7
+Trident Rod\663224.75\270577.68;
+Leviathan's Fang Rod\585012\370584.93;
+Free Spirit Rod\584813.65\268566.66;
+Azure Of Lagoon\547765.76\255427.83;
+No-Life Rod\542016.44\372176.06;
+Training Rod\429858.35\429858.35;
+Flimsy Rod\397217.33\360046.71;
+Magnet Rod\256889.28\250756.07;
+Seraphic Rod\402584.39\364830.79;
+Ethereal Prism Rod\362608.47\362608.47;
+Depthseeker Rod\490069.71\283837.52;
+Verdant Shear Rod\474394.97\308954.74;
+Blazebringer Rod\471158.83\291959.66;
+Avalanche Rod\469379.15\253819.98;
+Zeus Rod\467667.04\309015.2;
+Challenger's Rod\458933.45\333729.33;
+Volcanic Rod\453932.67\234537.56;
+Rod Of The Forgotten Fang\399410.25\332306.77;
+Rod Of The Depths\398875.5\300823.68;
+Rod Of The Exalted One\358187.98\283011.56;
+Steady Rod\172794.3\115535.16
 |recommended   = Trident Rod
 }}
 
