@@ -74,7 +74,7 @@ Sunstone Island/Crate Cave
 Whale Migration/Moby
 Whale Migration/Normal
 |top_rods      = 
-Training Rod\198876.71\303812.61;
+Training Rod\198876.71\277666.67;
 Flimsy Rod\185216.35\389099.38;
 Fast Rod\174069.15\174069.15;
 Firefly Rod\172971.12\172971.12;

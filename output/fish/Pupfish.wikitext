@@ -29,28 +29,28 @@
 Open Ocean
 Open Ocean/Sea Leviathan
 |top_rods      = 
-Training Rod\263710.35\24346.86;
-Flimsy Rod\255838.07\23378.85;
+Training Rod\263710.35\18999.62;
+Flimsy Rod\255838.07\21186.92;
 Free Spirit Rod\208624.83\14112.8;
 Azure Of Lagoon\187385.65\15759.32;
-Verdant Shear Rod\181244.63\16323.68;
-Plastic Rod\177366.4\12603.14;
-Nocturnal Rod\78227.35\77069.63;
 Firefly Rod\178888.45\17435.5;
-Blazebringer Rod\180206.8\14029.56;
-Trident Rod\176309.28\13797.89;
+Plastic Rod\177366.4\11896.26;
+Nocturnal Rod\78227.35\77069.63;
+Verdant Shear Rod\177421.64\16125.54;
+Trident Rod\176309.28\13743.84;
+Blazebringer Rod\171268.3\14029.56;
 No-Life Rod\154378.73\12509.27;
 Ethereal Prism Rod\147278.59\12258.66;
-Seraphic Rod\147086.05\12303.1;
+Seraphic Rod\147086.05\11453.02;
 Depthseeker Rod\143507.88\12059.79;
 Challenger's Rod\143298.55\11544.87;
 Avalanche Rod\142686.58\12010.4;
-Rod Of The Forgotten Fang\141715.86\11680.22;
+Rod Of The Forgotten Fang\141715.86\11072.79;
 Volcanic Rod\141460.67\11651.5;
-Rod Of The Exalted One\141265.33\12572.06;
+Rod Of The Exalted One\141265.33\11267.52;
 Zeus Rod\140979.52\11611.87;
-Rod Of The Depths\140576.46\11176.43;
-Steady Rod\128948.19\10072.88
+Rod Of The Depths\140576.46\11110.71;
+Steady Rod\125595.33\9712.18
 |recommended   = Free Spirit Rod
 }}
 

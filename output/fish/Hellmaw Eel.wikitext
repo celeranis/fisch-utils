@@ -28,30 +28,30 @@
 {{Fish Availability|
 Emberreach/Volcano
 |top_rods      = 
-Firefly Rod\293195.12\35331.31;
 Free Spirit Rod\282817.5\20067.65;
+Firefly Rod\281703.71\34669.81;
 Azure Of Lagoon\258806.41\19519.15;
 Trident Rod\253853.2\30762.47;
 Leviathan's Fang Rod\253776.14\32573.03;
 Lucky Rod\238910.59\33259.6;
 Brick Built Rod\253572.31\27281.45;
-Nocturnal Rod\148151.46\148631.33;
-Great Dreamer Rod\229098.2\37222.88;
-Egg Rod\230136.72\35312.42;
-Verdant Shear Rod\228677.94\34151.77;
-Blazebringer Rod\229597.16\31039.59;
+Nocturnal Rod\148151.46\148151.46;
+Great Dreamer Rod\227320.79\37222.88;
+Egg Rod\228639.62\35312.42;
+Verdant Shear Rod\224317.26\34151.77;
+Blazebringer Rod\225758.55\31039.59;
 No-Life Rod\209020.48\25688.35;
 Ethereal Prism Rod\197017.44\27431.83;
 Seraphic Rod\196016.11\23753.65;
 Challenger's Rod\189161.73\23201.37;
 Rod Of The Forgotten Fang\187419.2\22739.9;
-Depthseeker Rod\186942.68\23512.14;
+Depthseeker Rod\186942.68\23425.54;
 Rod Of The Exalted One\185495.07\22930.55;
 Avalanche Rod\184642.87\23139.05;
 Rod Of The Depths\183962.83\22412.28;
 Volcanic Rod\183694.73\22736.92;
 Zeus Rod\182853.39\22632.78;
-Steady Rod\171394.59\20745.53
+Steady Rod\150985.93\18871.82
 |recommended   = Free Spirit Rod
 }}
 

@@ -34,8 +34,8 @@ Leviathan's Fang Rod\71780.51\36973.89;
 Firefly Rod\60426.39\58264.7;
 Egg Rod\60415.46\55428.59;
 No-Life Rod\60188.83\56438.98;
-Plastic Rod\53477.99\52695.37;
-Fischer's Rod\53709.96\52953.71;
+Plastic Rod\44205.62\44111.86;
+Fischer's Rod\45778.24\44300.72;
 Free Spirit Rod\59043.08\52217.63;
 Wildflower Rod\58209.94\54835.45;
 Verdant Shear Rod\59432.34\54403.23;
@@ -49,8 +49,8 @@ Volcanic Rod\49100.11\46836.78;
 Zeus Rod\48844.04\46592.51;
 Rod Of The Depths\48820.12\44619.88;
 Rod Of The Exalted One\46185.17\31247.58;
-Steady Rod\46169.16\39471.06;
-Ethereal Prism Rod\45616.43\32895.93
+Ethereal Prism Rod\45616.43\32895.93;
+Steady Rod\40764.16\39471.06
 |recommended   = Verdant Shear Rod
 }}
 

@@ -32,8 +32,8 @@ Octophant Hunt/Octophant Uncatchable
 |top_rods      = 
 Leviathan's Fang Rod\309213.95\257364.49;
 Azure Of Lagoon\308998.04\255921.05;
-Egg Rod\276460.77\249013.04;
-Great Dreamer Rod\275380.86\233841.77;
+Egg Rod\275867.58\249013.04;
+Great Dreamer Rod\272492.1\233841.77;
 No-Life Rod\258323.33\221153.14;
 Krampus's Rod\235957.92\245450.2;
 Celestial Rod\238080.58\238080.58;

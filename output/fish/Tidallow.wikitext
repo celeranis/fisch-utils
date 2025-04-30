@@ -30,17 +30,18 @@ Isle of New Beginnings
 |top_rods      = 
 Free Spirit Rod\404524.51\0;
 Azure Of Lagoon\362571.19\31073.35;
-Resourceful Rod\355303.02\37443.73;
-Blazebringer Rod\349340.4\28963.58;
+Resourceful Rod\354150.91\26738.26;
 Firefly Rod\348004.36\38225.27;
-Plastic Rod\296815.25\24367.88;
-Magma Rod\298286.33\22348.15;
+Egg Rod\345350.06\29565.82;
+Plastic Rod\296815.25\22445.41;
+Magma Rod\298286.33\21505.45;
 Nocturnal Rod\175600.33\163162.08;
 Brick Built Rod\307146.3\31670.5;
 Lucky Rod\280959.07\28711.87;
-Verdant Shear Rod\344912.45\30661.78;
 Trident Rod\344814.75\29375.73;
-Steady Rod\313735.33\21770.19;
+Verdant Shear Rod\335167.71\28671.99;
+Blazebringer Rod\330536.66\28963.58;
+Steady Rod\313735.33\19816.94;
 No-Life Rod\298025.64\24785.4;
 Seraphic Rod\287475.62\24490.85;
 Ethereal Prism Rod\283255.39\24137.5;
@@ -51,7 +52,7 @@ Avalanche Rod\276199.46\24365.14;
 Rod Of The Exalted One\274037.23\23718.69;
 Volcanic Rod\273271.1\23175.42;
 Zeus Rod\272375.72\23099.49;
-Rod Of The Depths\271396.62\22067.06
+Rod Of The Depths\271396.62\21964.84
 |recommended   = Free Spirit Rod
 }}
 

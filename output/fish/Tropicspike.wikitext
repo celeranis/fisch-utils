@@ -28,7 +28,7 @@
 {{Fish Availability|
 Emberreach/Freshwater Pond
 |top_rods      = 
-Free Spirit Rod\37538.78\300217.54;
+Free Spirit Rod\37538.78\256893.69;
 Egg Rod\35315.03\244333.04;
 Blazebringer Rod\33299.35\245111.1;
 Azure Of Lagoon\33095.42\244481.55;

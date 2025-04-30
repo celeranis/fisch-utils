@@ -30,16 +30,16 @@
 Animal Hunt/Second Sea
 |top_rods      = 
 Training Rod\260985.93\NaN;
-Flimsy Rod\252790.47\235010.91;
-Firefly Rod\213018.67\265676.9;
+Flimsy Rod\252790.47\209859.29;
+Firefly Rod\209312.36\257075.22;
 Brick Built Rod\185771.58\219017.74;
 Azure Of Lagoon\179141.7\199764.76;
 Lucky Rod\173576.56\204168.47;
-Long Rod\168065.07\214961.54;
 Great Dreamer Rod\169800.92\200459.58;
 Adventurer's Rod\172890.25\172910.85;
 Buddy Bond Rod\163136.02\171525.64;
-Fungal Rod\169018.18\169851.27;
+Fungal Rod\169018.18\169018.18;
+Long Rod\168065.07\168065.07;
 Free Spirit Rod\177420.59\110735.95;
 Verdant Shear Rod\167982.81\191655.61;
 Blazebringer Rod\166978.43\190403.44;
@@ -49,13 +49,13 @@ No-Life Rod\143329.56\141591.07;
 Seraphic Rod\141231.79\139538.08;
 Rod Of The Exalted One\137535.3\145047.45;
 Challenger's Rod\136951.76\134852.54;
-Depthseeker Rod\136587.62\144600.44;
+Depthseeker Rod\136587.62\136587.62;
 Rod Of The Forgotten Fang\136431.85\133346.98;
-Avalanche Rod\136215.31\143076.08;
-Volcanic Rod\135839.97\142530.86;
+Avalanche Rod\136215.31\136215.31;
+Volcanic Rod\135839.97\135391.25;
 Rod Of The Depths\135569.96\131822.72;
-Zeus Rod\135520.89\142199.4;
-Steady Rod\123946.03\123748.92
+Zeus Rod\135520.89\135073.23;
+Steady Rod\111222.67\111222.67
 |recommended   = Free Spirit Rod
 }}
 

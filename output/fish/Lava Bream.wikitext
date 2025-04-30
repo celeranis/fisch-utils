@@ -29,27 +29,27 @@
 Emberreach/Volcano
 |top_rods      = 
 Free Spirit Rod\451297.96\455156.43;
-Candy Cane Rod\394361.66\350708.84;
+Candy Cane Rod\394361.66\307480.22;
 Fischer's Rod\394293.16\511314.1;
 Plastic Rod\393960.54\510015.08;
 Fast Rod\390103.41\510330.63;
 Adventurer's Rod\334041.75\553318.25;
 Firefly Rod\373009.5\517251.91;
-Blazebringer Rod\359511.37\517000.3;
-Trident Rod\369347.06\370349.76;
+Blazebringer Rod\327850.61\517000.3;
+Trident Rod\369347.06\356589.51;
 Steady Rod\367050.81\258467.1;
-Verdant Shear Rod\355992.06\400140.63;
-No-Life Rod\298441.2\353352.85;
-Seraphic Rod\282014.5\316988.7;
-Ethereal Prism Rod\281410.66\370635.25;
-Rod Of The Forgotten Fang\270764.93\308793.73;
-Rod Of The Exalted One\270648.8\310667.22;
-Challenger's Rod\267304.5\328962.45;
-Rod Of The Depths\266293.19\315463.15;
-Depthseeker Rod\264979.06\264895.56;
+Verdant Shear Rod\341978.73\385231.81;
+No-Life Rod\298441.2\292075.16;
+Ethereal Prism Rod\279846.34\370635.25;
+Seraphic Rod\276755.37\267196.01;
+Challenger's Rod\267304.5\261098.39;
+Rod Of The Forgotten Fang\265193.28\256338.59;
+Depthseeker Rod\264979.06\264240.95;
+Rod Of The Exalted One\262902.37\310667.22;
 Avalanche Rod\261841.57\261130.72;
-Volcanic Rod\260554.88\299017.06;
-Zeus Rod\259525.29\298141.66
+Rod Of The Depths\260630.91\252928.84;
+Volcanic Rod\260554.88\256755.12;
+Zeus Rod\259525.29\255740.55
 |recommended   = Free Spirit Rod
 }}
 

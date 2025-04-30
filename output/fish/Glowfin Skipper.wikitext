@@ -31,26 +31,25 @@ Emberreach/Surrounding Ocean
 Free Spirit Rod\345672.45\280233.12;
 Firefly Rod\321942.04\360251.91;
 Azure Of Lagoon\299281.72\314938.59;
-Blazebringer Rod\287620.52\286793.32;
-Great Dreamer Rod\285842.08\270810.53;
+Egg Rod\282064.48\280943.3;
+Leviathan's Fang Rod\281600.32\264131.12;
 Buddy Bond Rod\243387.42\241212.7;
-Brick Built Rod\263177\259586.55;
-Brother's Rod\280316.18\308590.46;
-Resourceful Rod\282370.21\292056.18;
-Verdant Shear Rod\284106.08\281643.21;
-Trident Rod\280722.42\254566.77;
-No-Life Rod\235583.91\243414.34;
+Brick Built Rod\257085.74\229852.68;
+Blazebringer Rod\264470.49\286793.32;
+Trident Rod\280722.42\251082.13;
+Verdant Shear Rod\273412.76\271610.82;
+No-Life Rod\235583.91\221823.96;
 Ethereal Prism Rod\227095.51\229222.8;
-Seraphic Rod\225109.64\223158.2;
-Rod Of The Exalted One\216593.01\194584.03;
-Rod Of The Forgotten Fang\216254.76\219052.44;
-Challenger's Rod\215299.47\232056.57;
+Seraphic Rod\223775.52\200148.02;
+Challenger's Rod\215299.47\201466.07;
 Depthseeker Rod\214749.49\212215.47;
-Rod Of The Depths\213898.47\234932.96;
+Rod Of The Forgotten Fang\214738.27\192922.12;
+Rod Of The Exalted One\213120.61\194584.03;
 Avalanche Rod\212797.59\210810.68;
-Volcanic Rod\210978.86\214929.61;
-Zeus Rod\210107.35\214272.56;
-Steady Rod\195631.33\185061.71
+Volcanic Rod\210978.86\202771.53;
+Rod Of The Depths\210313.78\193391.62;
+Zeus Rod\210107.35\201933.93;
+Steady Rod\173579.38\185061.71
 |recommended   = Free Spirit Rod
 }}
 

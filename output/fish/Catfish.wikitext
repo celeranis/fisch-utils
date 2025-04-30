@@ -40,16 +40,16 @@ Seraphic Rod\87623.91\98714.75;
 No-Life Rod\87134.77\107229.58;
 Rod Of The Forgotten Fang\81804.09\95321.66;
 Challenger's Rod\78755.4\95229.45;
-Rod Of The Depths\73230.22\92122.65;
-Rod Of The Exalted One\72599.21\93799.34;
-Zeus Rod\71313.99\90627.63;
+Rod Of The Depths\73230.22\86426.3;
+Rod Of The Exalted One\72585.22\87669.28;
+Zeus Rod\71313.99\87632.43;
 Verdant Shear Rod\69835.16\86996.44;
-Blazebringer Rod\67754.19\91302.27;
+Blazebringer Rod\67754.19\83616.34;
 Depthseeker Rod\64292.59\81474.71;
 Avalanche Rod\57873.54\73540.95;
-Volcanic Rod\55569.2\81672.01;
-Training Rod\51161.2\151533.57;
-Steady Rod\24045.05\25426.55
+Volcanic Rod\55569.2\69288.08;
+Training Rod\42546.18\108539.62;
+Steady Rod\22671.38\24550.75
 |recommended   = Trident Rod
 }}
 

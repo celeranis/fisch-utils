@@ -34,11 +34,11 @@ Trident Rod\209106.06\18847.34;
 Azure Of Lagoon\192240.61\11775.02;
 Egg Rod\168607.29\15357.62;
 Rapid Rod\143527.67\13066.1;
-Carbon Rod\139190.2\11405.04;
-North-Star Rod\139021.72\11341.54;
-Nocturnal Rod\73293.33\72586.96;
+North-Star Rod\119114.06\10797.92;
+Carbon Rod\119078.79\10793.65;
+Nocturnal Rod\73091.74\72586.96;
 Blazebringer Rod\167491.68\15601.56;
-Resourceful Rod\159763.33\12966.93;
+Resourceful Rod\126028.98\12966.93;
 Verdant Shear Rod\165879.57\15109.16;
 No-Life Rod\158227.33\15070.54;
 Seraphic Rod\145098.63\13078.16;
@@ -51,7 +51,7 @@ Avalanche Rod\132794.68\13308.68;
 Volcanic Rod\131710.34\12805.32;
 Rod Of The Depths\131262.32\12209;
 Zeus Rod\130961.61\12732.53;
-Steady Rod\127203.2\11386.31
+Steady Rod\109162.4\10889.61
 |recommended   = Free Spirit Rod
 }}
 

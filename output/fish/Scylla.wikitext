@@ -33,14 +33,12 @@ Ethereal Prism Rod\3187.19\12664.97;
 Seraphic Rod\3022.62\13117.92;
 No-Life Rod\2994.03\16241.3;
 Rod Of The Forgotten Fang\2808.95\12705.91;
-Heaven's Rod\2338.61\10936.61;
-Abyssal Specter Rod\2298.33\13326.8;
-Celestial Rod\1976.69\13181.33;
-Champions Rod\1950.03\12940.09;
-Reinforced Rod\1841.86\11942.91;
-Summit Rod\1982.66\12539.61;
+Heaven's Rod\2295.68\10936.61;
 Challenger's Rod\2636.91\13108.23;
-Zeus Rod\2340.32\12340.43
+Champions Rod\1950.03\10642.38;
+Reinforced Rod\1841.86\9861.17;
+Summit Rod\1982.66\10394.37;
+Zeus Rod\2340.32\11558.93
 |recommended   = Leviathan's Fang Rod
 }}
 

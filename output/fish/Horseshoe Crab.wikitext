@@ -28,7 +28,7 @@
 Desolate Deep/Desolate Pocket
 |top_rods      = 
 Training Rod\106818.89\76181.82;
-Flimsy Rod\77851.68\58222.65;
+Flimsy Rod\67724.39\52705.42;
 Trident Rod\61146.6\36310.62;
 Azure Of Lagoon\60195.6\49160.61;
 Leviathan's Fang Rod\60157.84\29794.86;

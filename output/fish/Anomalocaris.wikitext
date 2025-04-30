@@ -31,16 +31,15 @@ Ancient Isle/Waterfall
 |top_rods      = 
 Rapid Rod\320934.44\331978.33;
 Firefly Rod\292169.76\309103.56;
-Fast Rod\280378.07\295063.79;
-Fischer's Rod\279758.78\273692.65;
-Plastic Rod\279131.34\272068.48;
-Flimsy Rod\274177.51\270407.2;
-Adventurer's Rod\278537.12\272497.49;
+Trident Rod\278747.6\166258.75;
 Leviathan's Fang Rod\278651\307495.1;
+Fungal Rod\274279.12\273907.8;
+Flimsy Rod\247868.81\224304.74;
+Fischer's Rod\233423.58\233088.74;
+Adventurer's Rod\231703.01\231370.64;
 Long Rod\257716.28\304251.26;
 Brick Built Rod\254139.5\300028.63;
 Lucky Rod\220176.81\174504;
-Trident Rod\278747.6\166258.75;
 Free Spirit Rod\271728.04\165772.41;
 No-Life Rod\270672.33\235299.61;
 Ethereal Prism Rod\242514.26\275373.89;

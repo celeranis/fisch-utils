@@ -41,14 +41,14 @@ Seraphic Rod\235837.58\235837.58;
 Tempest Rod\233312.79\227527.58;
 Rapid Rod\224021.01\223842.74;
 Challenger's Rod\226977.89\215865.09;
-Depthseeker Rod\225387.48\184117.77;
 Ethereal Prism Rod\225156.65\12241.28;
-Verdant Shear Rod\223169.04\201805.11;
 Rod Of The Forgotten Fang\222802.59\215352.87;
-Blazebringer Rod\222664.25\190060.59;
 Rod Of The Depths\221735.28\196191.58;
-Zeus Rod\221581.65\201287.66;
+Zeus Rod\220174.2\201287.66;
 Rod Of The Exalted One\218904.74\142633.69;
+Blazebringer Rod\217394.65\190060.59;
+Verdant Shear Rod\217013.94\201805.11;
+Depthseeker Rod\215277.02\184117.77;
 Avalanche Rod\213892.67\165536.64;
 Volcanic Rod\211042.21\152882.66;
 Steady Rod\113986.39\71454.44

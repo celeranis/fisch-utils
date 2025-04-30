@@ -31,16 +31,16 @@ Pine Shoals
 |top_rods      = 
 Free Spirit Rod\580.63\4030.89;
 Egg Rod\522.14\3230.36;
-Azure Of Lagoon\495.54\3285.75;
 Blazebringer Rod\491.48\3198.14;
+Azure Of Lagoon\490.94\3285.75;
 Great Dreamer Rod\481.89\3032.44;
 Resourceful Rod\416.97\3450.06;
 Destiny Rod\334.41\2331.41;
 Verdant Shear Rod\479.93\2969.24;
-Trident Rod\393.02\2368.24;
+Trident Rod\382.79\2368.24;
 Seraphic Rod\371.69\2299.55;
 Ethereal Prism Rod\362.8\2394.2;
-Challenger's Rod\354.59\2034.8;
+Challenger's Rod\351.64\2034.8;
 No-Life Rod\340.95\1963.18;
 Rod Of The Forgotten Fang\323.99\1987.58;
 Rod Of The Exalted One\311.78\1995.84;

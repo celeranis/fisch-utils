@@ -59,21 +59,21 @@ No-Life Rod\29420.69\182218.2;
 Tempest Rod\28546.86\170472.96;
 Flimsy Rod\19585.91\183370.95;
 Training Rod\18367.44\165747.78;
-Resourceful Rod\23881.95\167579.36;
+Resourceful Rod\23881.95\138335.51;
 Trident Rod\28481.2\231662.4;
 Free Spirit Rod\27080.64\220270.47;
 Fungal Rod\19393.49\151173.75;
 Rod Of The Forgotten Fang\27859.75\171718.69;
-Challenger's Rod\26840.72\170299.55;
-Rod Of The Depths\25023.09\165707.87;
-Rod Of The Exalted One\24976.1\163977.35;
-Zeus Rod\24409.45\168548.75;
+Challenger's Rod\26840.72\167506.96;
+Rod Of The Depths\25023.09\163396.6;
+Rod Of The Exalted One\24720.27\163948.05;
+Zeus Rod\24409.45\157219.74;
 Verdant Shear Rod\23931.25\158210.92;
-Blazebringer Rod\23173.39\169631.13;
-Depthseeker Rod\21972.66\151023.17;
-Avalanche Rod\19819.42\139813.15;
-Volcanic Rod\19019.86\151966.63;
-Steady Rod\7588.93\47768.5
+Blazebringer Rod\23173.39\149866.96;
+Depthseeker Rod\21972.66\147904.06;
+Avalanche Rod\19819.42\134324.92;
+Volcanic Rod\19019.86\124348.49;
+Steady Rod\6627.39\47768.5
 |recommended   = Ethereal Prism Rod
 }}
 

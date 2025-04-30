@@ -28,12 +28,12 @@
 Atlantis/Ethereal Abyss
 |top_rods      = 
 Champions Rod\88450.66\9211.42;
-Fast Rod\87866.08\11335.78;
 Celestial Rod\87684.8\9342.36;
 Depthseeker Rod\87601.73\9065.68;
 Ethereal Prism Rod\87307.94\14561.88;
+Rapid Rod\87121.61\10860.03;
 Training Rod\76680.1\12161.54;
-Flimsy Rod\68743.4\10209.62;
+Flimsy Rod\59209.49\8578.91;
 Fortune Rod\48505.45\8780.59;
 Nocturnal Rod\53590.25\43705.82;
 Leviathan's Fang Rod\82473.55\12758.39;

@@ -36,20 +36,20 @@ Plastic Rod\49643.51\55252.03;
 Buddy Bond Rod\37884.64\48894.3;
 No-Life Rod\56105.24\93318.24;
 Seraphic Rod\55807.28\86497.68;
-Lucky Rod\35935.69\64708.16;
-Long Rod\33658.87\66536.66;
-Brick Built Rod\33116.26\65464.02;
+Lucky Rod\31723.65\61422.94;
+Long Rod\33514.25\60185.85;
+Brick Built Rod\32605.41\58820.63;
 Rod Of The Forgotten Fang\52118.93\80155.93;
 Challenger's Rod\50510.61\77220.2;
-Rod Of The Exalted One\47069.73\75791.72;
-Rod Of The Depths\46741.25\74567.41;
-Zeus Rod\45851.54\71041.18;
+Rod Of The Depths\46741.25\69787.38;
+Rod Of The Exalted One\46016.79\70222.37;
+Zeus Rod\45851.54\71022.81;
 Verdant Shear Rod\45010.3\70545.45;
-Blazebringer Rod\43572.27\71588.21;
-Depthseeker Rod\41516.19\67135.78;
-Avalanche Rod\37358.28\62237.52;
-Volcanic Rod\36422.85\64002.71;
-Steady Rod\14798.69\23599.49
+Blazebringer Rod\43572.27\67785.65;
+Depthseeker Rod\41516.19\66256.29;
+Avalanche Rod\37358.28\59711.89;
+Volcanic Rod\35727.71\56144.3;
+Steady Rod\12035.26\20430.47
 |recommended   = Trident Rod
 }}
 

@@ -29,27 +29,27 @@
 Blue Moon/First Sea
 |top_rods      = 
 Flimsy Rod\293570.47\721875;
-Training Rod\269791.45\776470.59;
 Krampus's Rod\235085\486034.53;
+Training Rod\226704.55\557031.25;
 Magma Rod\224174.97\463478.21;
 Plastic Rod\206476.95\426887.83;
-Leviathan's Fang Rod\159581.74\632134.58;
+Leviathan's Fang Rod\159581.74\627899.16;
 No-Life Rod\133104.27\541255.81;
 Seraphic Rod\133451.73\517222.33;
-Heaven's Rod\110991.64\464667.15;
-Trident Rod\144752.11\485474.68;
+Heaven's Rod\109746.37\464667.15;
+Trident Rod\144752.11\481343.71;
 Ethereal Prism Rod\138562.27\514222.87;
-Free Spirit Rod\134777.24\477329.1;
+Free Spirit Rod\134777.24\464743.61;
 Rod Of The Forgotten Fang\125081.57\511584.93;
 Challenger's Rod\120930.18\489002.13;
-Rod Of The Exalted One\114351.34\494714.18;
 Rod Of The Depths\112653.53\456631.88;
+Rod Of The Exalted One\110767.33\444389.07;
 Zeus Rod\110584.06\457515.79;
 Verdant Shear Rod\108673.48\457788.03;
 Blazebringer Rod\104905.93\434023.82;
 Depthseeker Rod\99770.57\422893.23;
-Avalanche Rod\90729.54\382747.21;
-Volcanic Rod\89838.91\356389.3;
+Avalanche Rod\90073.53\382747.21;
+Volcanic Rod\86141.24\356389.3;
 Steady Rod\46386.79\124393.34
 |recommended   = Training Rod
 }}

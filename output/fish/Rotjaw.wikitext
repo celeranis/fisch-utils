@@ -34,23 +34,23 @@ Trident Rod\471039.87\20549.02;
 Azure Of Lagoon\416002.44\19209.33;
 Egg Rod\354545.98\14659.51;
 Training Rod\274064.36\89082.31;
-Flimsy Rod\235648.58\10554.93;
-Riptide Rod\239482.04\11280.46;
-Nocturnal Rod\78527.49\79149.75;
-Blazebringer Rod\349537.58\14010.94;
+Flimsy Rod\235648.58\10198.7;
+Riptide Rod\209148.6\8711.72;
+Nocturnal Rod\69648.63\67980.86;
 Verdant Shear Rod\339065.95\13915.98;
-No-Life Rod\322101.11\13748.25;
-Ethereal Prism Rod\283806\11382.34;
-Seraphic Rod\280288.36\11895.27;
-Rod Of The Forgotten Fang\261938.68\10103.66;
-Challenger's Rod\261634.61\12342.94;
-Rod Of The Exalted One\258193.06\10319.95;
-Rod Of The Depths\248675.64\9193.64;
-Depthseeker Rod\247322.33\11356.82;
-Steady Rod\240580.38\10683.01;
-Avalanche Rod\239768.38\11017.06;
-Volcanic Rod\239129.12\11042.03;
-Zeus Rod\237225.22\10954.11
+Blazebringer Rod\331527.84\14010.94;
+No-Life Rod\322101.11\13652.34;
+Seraphic Rod\272672.24\11895.27;
+Ethereal Prism Rod\248268.7\11382.34;
+Challenger's Rod\245851.85\10388.2;
+Rod Of The Forgotten Fang\235091.25\10103.66;
+Depthseeker Rod\227425.89\9863.49;
+Rod Of The Exalted One\225763.96\10319.95;
+Avalanche Rod\224004.88\9721.21;
+Rod Of The Depths\219851.92\9193.64;
+Volcanic Rod\213787.89\9148.82;
+Steady Rod\211777.63\9427.95;
+Zeus Rod\209248.77\8777.92
 |recommended   = Free Spirit Rod
 }}
 

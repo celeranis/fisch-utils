@@ -28,20 +28,19 @@
 {{Fish Availability|
 Emberreach/Surrounding Ocean
 |top_rods      = 
-Free Spirit Rod\59632.3\141254.04;
+Free Spirit Rod\59632.3\140838.46;
 Egg Rod\46521.56\120273.9;
 Verdant Shear Rod\44147.36\114135.77;
-Azure Of Lagoon\43748.63\107041.81;
 Great Dreamer Rod\43622.81\112183.08;
+Blazebringer Rod\43486.49\110679.52;
 Krampus's Rod\43025.26\66234.98;
 Magma Rod\41806.26\65642.05;
 Steady Rod\33078.27\68008.34;
-Blazebringer Rod\43486.49\110679.52;
 Brick Built Rod\35453.6\99456.43;
 Resourceful Rod\34867.14\81828.66;
 Trident Rod\38478.96\90489.18;
-Ethereal Prism Rod\31985.41\77655.34;
-Seraphic Rod\31328.22\79972.15;
+Seraphic Rod\30932.98\79972.15;
+Ethereal Prism Rod\30742.98\77655.34;
 No-Life Rod\29759.44\78883.62;
 Challenger's Rod\28948.11\76513.15;
 Rod Of The Forgotten Fang\28352.14\73496.81;

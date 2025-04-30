@@ -50,7 +50,7 @@ Avalanche Rod\120682.66\120530.48;
 Rod Of The Depths\120671.43\120452.08;
 Volcanic Rod\120392.98\120207.87;
 Zeus Rod\120022.42\119837.87;
-Steady Rod\111677.02\111460.97
+Steady Rod\98781.39\98646.31
 |recommended   = Free Spirit Rod
 }}
 

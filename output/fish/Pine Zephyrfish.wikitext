@@ -41,17 +41,17 @@ Buddy Bond Rod\16304.02\172962.07;
 Steady Rod\20855.05\165255.8;
 Verdant Shear Rod\19358.04\74731.02;
 Blazebringer Rod\18896.49\77085.12;
-No-Life Rod\14510.5\44653.79;
-Ethereal Prism Rod\14347.24\54400.07;
-Seraphic Rod\14292.41\49641.53;
-Rod Of The Forgotten Fang\13462.65\46303.42;
-Challenger's Rod\13393.62\42630.96;
-Rod Of The Exalted One\13391.8\48910.08;
-Rod Of The Depths\12990.32\43848.4;
-Depthseeker Rod\12650.06\38772.75;
-Volcanic Rod\12571.43\39813.86;
-Zeus Rod\12483.49\39602.81;
-Avalanche Rod\12412.92\38301.97
+No-Life Rod\14434.55\44653.79;
+Ethereal Prism Rod\13735.21\54400.07;
+Seraphic Rod\13382.44\49641.53;
+Rod Of The Exalted One\12206.34\48910.08;
+Rod Of The Forgotten Fang\12124.7\46303.42;
+Challenger's Rod\11956.88\42630.96;
+Rod Of The Depths\11786.03\43848.4;
+Volcanic Rod\11367.99\39813.86;
+Depthseeker Rod\11340.5\38772.75;
+Zeus Rod\11307.73\39602.81;
+Avalanche Rod\11230.1\38301.97
 |recommended   = Free Spirit Rod
 }}
 

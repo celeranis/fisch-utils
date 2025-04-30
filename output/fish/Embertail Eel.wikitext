@@ -28,10 +28,11 @@
 Mariana's Veil/Volcanic Vents
 |top_rods      = 
 Rapid Rod\224120.14\252636.42;
-Fast Rod\223496.39\209307.22;
-Firefly Rod\214021.79\225926.78;
+Firefly Rod\213823.97\225926.78;
 Wildflower Rod\211877.6\209414.91;
 Fungal Rod\211216.32\218958.47;
+Champions Rod\209354.12\150053.45;
+Fast Rod\206931.82\206931.82;
 Training Rod\184880.38\184880.38;
 Antler Rod\197727.88\204975.61;
 Depthseeker Rod\208015.74\160117.02;

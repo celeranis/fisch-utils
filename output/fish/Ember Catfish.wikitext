@@ -31,7 +31,7 @@ Roslit Bay/Ashfall
 |top_rods      = 
 Krampus's Rod\512434.08\220699.45;
 Magma Rod\496714.04\211567.99;
-Plastic Rod\456736.94\192646.92;
+Plastic Rod\456736.94\184433.98;
 Fast Rod\436652.83\342614.02;
 Leviathan's Fang Rod\424828.95\290207.01;
 Buddy Bond Rod\339179.93\166453.23;
@@ -44,13 +44,13 @@ Trident Rod\399237.57\238397.72;
 Free Spirit Rod\394405.73\238043.89;
 Rod Of The Forgotten Fang\356347.76\310435.33;
 Challenger's Rod\353925.21\311173.71;
-Rod Of The Exalted One\352711.19\242646.8;
-Rod Of The Depths\347587.74\282589.48;
-Blazebringer Rod\343149.49\273976.02;
-Depthseeker Rod\341546.66\265409.33;
-Zeus Rod\341428.23\290160.07;
-Verdant Shear Rod\339528.1\290648.77;
+Rod Of The Exalted One\342344.55\242646.8;
+Rod Of The Depths\338184.3\282589.48;
+Zeus Rod\331159.02\290160.07;
+Depthseeker Rod\328703.66\265409.33;
+Verdant Shear Rod\327909.42\290648.77;
 Avalanche Rod\326108.9\238434.88;
+Blazebringer Rod\325027.52\273976.02;
 Volcanic Rod\315445.93\220383.32;
 Steady Rod\174242.11\119633.44
 |recommended   = Trident Rod

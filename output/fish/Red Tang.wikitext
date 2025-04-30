@@ -30,15 +30,14 @@ Sunstone Island
 Ethereal Prism Rod\127068.33\200028.87;
 Champions Rod\123714.43\88209.39;
 Summit Rod\123445.45\88186.65;
-Fast Rod\122565.2\118739.21;
 Celestial Rod\122528.12\91100.19;
+Depthseeker Rod\122320.23\94035.32;
 Training Rod\114708.89\132971.47;
-Flimsy Rod\99698.44\84131.26;
+Flimsy Rod\89722.07\84131.26;
 Leviathan's Fang Rod\120069.91\134517.73;
 Kraken Rod\100149.41\122768.67;
 No-Life Rod\121597.57\121597.57;
 Fortune Rod\67801.51\99434.5;
-Depthseeker Rod\122320.23\94035.32;
 Avalanche Rod\120761.45\84288.37;
 Seraphic Rod\120497.52\120497.52;
 Verdant Shear Rod\120140.88\102701.49;

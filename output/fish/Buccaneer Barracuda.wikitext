@@ -28,7 +28,7 @@
 Forsaken Shores/Surrounding Ocean
 |top_rods      = 
 Training Rod\284072.85\292839.73;
-Flimsy Rod\246706.91\194343.82;
+Flimsy Rod\194343.82\194343.82;
 Trident Rod\186970.71\120478.61;
 Azure Of Lagoon\181608.8\111488.98;
 Champions Rod\178571.63\122249.91;

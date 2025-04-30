@@ -35,7 +35,7 @@ Champions Rod\325214.39\235384.34;
 Depthseeker Rod\323442.41\228840.43;
 Rapid Rod\321838.08\250356.05;
 Avalanche Rod\321466.49\228897;
-Fast Rod\321090.92\227176.72;
+Reinforced Rod\319655.17\231360.67;
 Crystalized Rod\272888.23\263114.58;
 Firework Rod\272888.23\263114.58;
 Auric Rod\287162.99\261495.96;
@@ -54,7 +54,7 @@ Rod Of The Depths\222565.51\185930.07;
 Ethereal Prism Rod\221921.33\221921.33;
 Rod Of The Forgotten Fang\207069.68\204089.16;
 Rod Of The Exalted One\178876.85\174309.44;
-Steady Rod\124049.45\107817.65
+Steady Rod\118028.48\107817.65
 |recommended   = Depthseeker Rod
 }}
 

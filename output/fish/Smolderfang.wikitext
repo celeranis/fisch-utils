@@ -30,7 +30,7 @@ Emberreach/Surrounding Ocean
 |top_rods      = 
 Fungal Rod\268387.45\268387.45;
 Antler Rod\258674.92\258674.92;
-Adventurer's Rod\232604.43\216731.24;
+Adventurer's Rod\201015.57\201015.57;
 Long Rod\198423.81\196548.54;
 Trident Rod\168395.97\150615.76;
 Firefly Rod\159586.65\152588.99;
@@ -48,7 +48,7 @@ Rod Of The Depths\112230.95\103200.67;
 Zeus Rod\111987.38\107630.94;
 Rod Of The Exalted One\109098.16\70643.71;
 Ethereal Prism Rod\108916.75\73415.02;
-Steady Rod\106635.85\94974.08
+Steady Rod\93021.56\91310.62
 |recommended   = Free Spirit Rod
 }}
 

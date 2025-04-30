@@ -29,7 +29,7 @@
 {{Fish Availability|
 Emberreach/Volcano
 |top_rods      = 
-Free Spirit Rod\1071.92\34027.84;
+Free Spirit Rod\1071.92\28607.43;
 Azure Of Lagoon\940.78\27920.24;
 Egg Rod\932.52\28742.98;
 Blazebringer Rod\884.69\26338.17;

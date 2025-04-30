@@ -33,7 +33,7 @@ Frostfire Rod\326379.3\530555.04;
 Krampus's Rod\311002.28\546064.28;
 Magma Rod\307524.99\531994.68;
 North-Star Rod\137468.35\507520.81;
-Free Spirit Rod\107133.03\973453.43;
+Free Spirit Rod\107133.03\831725.67;
 Egg Rod\91217.33\817300.48;
 Verdant Shear Rod\87535.13\784308.24;
 Blazebringer Rod\86045.84\773261.71;

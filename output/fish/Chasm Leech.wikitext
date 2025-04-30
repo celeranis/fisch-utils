@@ -28,10 +28,10 @@
 {{Fish Availability|
 The Cursed Shores
 |top_rods      = 
-Free Spirit Rod\78091.67\123659.52;
 Krampus's Rod\71539.34\48719.9;
+Free Spirit Rod\71403.31\123659.52;
 Egg Rod\67160.65\124535.72;
-Azure Of Lagoon\63194.88\113675.79;
+Azure Of Lagoon\63118.07\113675.79;
 Blazebringer Rod\62728.32\114595.48;
 Magma Rod\57392.49\47381.61;
 Plastic Rod\44838.67\42803.02;

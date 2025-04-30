@@ -33,8 +33,8 @@ Leviathan's Fang Rod\100414.59\57704.32;
 No-Life Rod\92979.03\85435.72;
 Firefly Rod\85799.67\83165.63;
 Egg Rod\83328.48\83328.48;
-Candy Cane Rod\68473.14\61659.38;
-Fast Rod\73908.08\61644.99;
+Candy Cane Rod\61659.38\61659.38;
+Fast Rod\61644.99\61644.99;
 Lucky Rod\53707.31\52776.5;
 Verdant Shear Rod\80067.45\80067.45;
 Great Dreamer Rod\77966.51\77966.51;
@@ -48,7 +48,7 @@ Volcanic Rod\62801.46\58583.87;
 Rod Of The Depths\62281.77\46716.65;
 Rod Of The Forgotten Fang\60795.65\47415.94;
 Zeus Rod\60590.15\56521.06;
-Steady Rod\58375.02\53762.24;
+Steady Rod\55950.99\53762.24;
 Ethereal Prism Rod\51394.28\49744.94;
 Rod Of The Exalted One\50311.95\46896.59
 |recommended   = Verdant Shear Rod

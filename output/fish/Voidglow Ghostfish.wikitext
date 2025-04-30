@@ -33,22 +33,22 @@ Krampus's Rod\92363.57\127240.75;
 Magma Rod\90006.58\124018.92;
 Ethereal Prism Rod\83476.11\115204.95;
 Free Spirit Rod\80556.98\163776.13;
-Resourceful Rod\68868.67\135027.7;
+Resourceful Rod\68868.67\122729.84;
 Trident Rod\75349.33\153188.75;
-Heaven's Rod\60439.36\118028.27;
+Heaven's Rod\59549.07\118028.27;
 Seraphic Rod\79914.04\116143.08;
 No-Life Rod\77346.66\118856.61;
 Rod Of The Forgotten Fang\72636.45\106199.14;
 Challenger's Rod\71080.38\108527.81;
-Rod Of The Exalted One\63774.66\98096.72;
+Rod Of The Exalted One\63774.66\90540.52;
 Rod Of The Depths\62835.84\93561.45;
 Zeus Rod\60169.54\94297.04;
 Verdant Shear Rod\58905.67\98295.22;
-Blazebringer Rod\58463.68\96586.65;
+Blazebringer Rod\58463.68\95569.71;
 Depthseeker Rod\55426.4\89258.7;
 Avalanche Rod\48789.36\78789.65;
-Volcanic Rod\47008.39\80388.76;
-Steady Rod\18041.23\26255.1
+Volcanic Rod\47008.39\73671.03;
+Steady Rod\15418.42\26255.1
 |recommended   = Ethereal Prism Rod
 }}
 

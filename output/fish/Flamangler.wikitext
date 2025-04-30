@@ -33,24 +33,23 @@ Octophant Hunt/Octophant Uncatchable
 Free Spirit Rod\250286.58\270365.8;
 Trident Rod\189879.87\203859.91;
 Verdant Shear Rod\187674.47\219561.68;
-Resourceful Rod\175105.64\204170.61;
 Firefly Rod\170224.84\199073.83;
-Candy Cane Rod\153983.48\179709.63;
 Lucky Rod\166076.17\194001.35;
+Candy Cane Rod\153983.48\179709.63;
 Fast Rod\157309.53\183563.09;
 Blazebringer Rod\154239.18\166946.54;
-Seraphic Rod\102604.59\118602.07;
-Challenger's Rod\100783.58\116267.95;
-No-Life Rod\100402.85\115793.11;
-Ethereal Prism Rod\96457.63\111665.08;
-Rod Of The Forgotten Fang\87161.01\100729.79;
-Depthseeker Rod\82523.71\99459.11;
-Rod Of The Exalted One\78695.55\91032.71;
-Steady Rod\74356.94\93538.36;
-Rod Of The Depths\72784.16\84057.52;
-Avalanche Rod\72403.91\87573.55;
-Volcanic Rod\71490.54\82363.86;
-Zeus Rod\69392.45\79946.66
+No-Life Rod\94072.4\110551.84;
+Seraphic Rod\90478.65\107008.51;
+Challenger's Rod\85352.38\109940.53;
+Ethereal Prism Rod\79952.94\97236.11;
+Rod Of The Forgotten Fang\74380.07\90655.31;
+Depthseeker Rod\72409.69\99459.11;
+Rod Of The Exalted One\71192.07\82694.57;
+Rod Of The Depths\69809.64\81065.9;
+Avalanche Rod\69680.46\87573.55;
+Volcanic Rod\68593.65\81447.96;
+Steady Rod\68521.56\93538.36;
+Zeus Rod\67262.45\79057.64
 |recommended   = Free Spirit Rod
 }}
 

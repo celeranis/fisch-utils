@@ -28,9 +28,9 @@
 Mushgrove Swamp
 |top_rods      = 
 Flimsy Rod\75448.89\58294.15;
-Training Rod\72579.36\170667.51;
 Ethereal Prism Rod\64884.88\75715.62;
 Fast Rod\62992.34\51777.43;
+Training Rod\61790.03\122667.27;
 No-Life Rod\61764.57\50768.25;
 Heaven's Rod\52415.99\99473.31;
 Leviathan's Fang Rod\60044.34\54268.66;
@@ -49,7 +49,7 @@ Free Spirit Rod\42950.46\35303.73;
 Trident Rod\42754.12\35142.35;
 Volcanic Rod\39881.51\32781.16;
 Steady Rod\32187.13\20440.01
-|recommended   = Training Rod
+|recommended   = Ethereal Prism Rod
 }}
 
 == Catch Quips ==

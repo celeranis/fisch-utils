@@ -29,8 +29,8 @@
 {{Fish Availability|
 Mariana's Veil/Challenger's Deep
 |top_rods      = 
-Training Rod\189895.47\189895.47;
 Fast Rod\162974.16\142110.61;
+Training Rod\149336.28\149336.28;
 Fischer's Rod\143693.99\125298.64;
 Adventurer's Rod\142900.1\124606.38;
 Flimsy Rod\137572.22\137572.22;

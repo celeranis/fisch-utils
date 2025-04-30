@@ -29,7 +29,7 @@
 Lushgrove
 |top_rods      = 
 Krampus's Rod\45645.18\67375.81;
-Free Spirit Rod\44961.25\141331.9;
+Free Spirit Rod\44961.25\128473.99;
 Magma Rod\44446\81727.2;
 Egg Rod\36624.12\115250.96;
 Verdant Shear Rod\34652.83\109047.58;
@@ -43,7 +43,7 @@ Blazebringer Rod\34346.02\105892.02;
 Trident Rod\28998.2\91841.16;
 Steady Rod\27424.36\66849.64;
 Seraphic Rod\24517.23\77152.28;
-Ethereal Prism Rod\24426.33\75981.18;
+Ethereal Prism Rod\24413.39\75981.18;
 No-Life Rod\23394.54\76064.76;
 Challenger's Rod\22872.33\74087.86;
 Rod Of The Forgotten Fang\22349.66\70578.46;

@@ -32,9 +32,9 @@ Trident Rod\375146.51\29309.71;
 Leviathan's Fang Rod\365104.25\40040.73;
 Azure Of Lagoon\313658.99\27159.8;
 No-Life Rod\313175.71\39405.7;
-Magnet Rod\186386.42\24553.57;
-Fischer's Rod\231560.87\30820.01;
-Adventurer's Rod\229436.46\30537.26;
+Magnet Rod\137996.33\24553.57;
+Fischer's Rod\170895.76\24375.44;
+Adventurer's Rod\169498.79\24079.38;
 Nocturnal Rod\180884.36\115776.34;
 Seraphic Rod\233874.22\38307.31;
 Ethereal Prism Rod\232359.42\38059.19;
@@ -48,7 +48,7 @@ Volcanic Rod\226060.33\24519.41;
 Rod Of The Forgotten Fang\217760.61\34834.15;
 Rod Of The Depths\209235.98\31448.21;
 Rod Of The Exalted One\193171.55\29626.99;
-Steady Rod\118878.22\11461.1
+Steady Rod\109742.33\11461.1
 |recommended   = Trident Rod
 }}
 

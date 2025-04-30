@@ -27,16 +27,15 @@
 {{Fish Availability|
 Glacial Grotto
 |top_rods      = 
-Flimsy Rod\252026.3\236444.07;
 Training Rod\247647.85\247647.85;
-Fast Rod\211703.13\174828.18;
+Flimsy Rod\213358.91\181633.06;
 Azure Of Lagoon\208935.99\123125.35;
 Summit Rod\207605.92\145419.25;
+No-Life Rod\205847.21\179072.38;
 Fungal Rod\188122.21\184609.78;
 Ethereal Prism Rod\182426.19\184986.58;
 Firefly Rod\201045.86\182249.32;
-Candy Cane Rod\161987.5\143592.03;
-No-Life Rod\205847.21\179072.38;
+Candy Cane Rod\149161.67\143592.03;
 Depthseeker Rod\205258.96\141125.78;
 Verdant Shear Rod\202048.41\151244.8;
 Avalanche Rod\202000.93\137805.48;

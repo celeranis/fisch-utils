@@ -28,7 +28,7 @@
 Desolate Deep/Desolate Pocket
 |top_rods      = 
 Leviathan's Fang Rod\183045.19\174724.07;
-Training Rod\182863.62\248991.49;
+Training Rod\182863.62\195018.81;
 Trident Rod\179099.77\170222.73;
 Free Spirit Rod\167660.39\159350.34;
 Flimsy Rod\161300.35\249046.7;
@@ -39,14 +39,14 @@ No-Life Rod\139785.76\132072.77;
 Seraphic Rod\131613.75\133438.67;
 Ethereal Prism Rod\131255.46\159503.65;
 Challenger's Rod\128449.11\122083.99;
-Rod Of The Forgotten Fang\128304.82\121305.94;
-Rod Of The Exalted One\126812.69\120032.01;
-Rod Of The Depths\125483.28\119813.31;
-Depthseeker Rod\125396.68\118276.25;
-Blazebringer Rod\125059.36\118860.82;
-Zeus Rod\124231.31\118073.81;
-Verdant Shear Rod\123682.92\116895.36;
-Avalanche Rod\117943.61\111154.06;
+Rod Of The Forgotten Fang\128304.82\121098.99;
+Rod Of The Exalted One\122165.23\116881.99;
+Depthseeker Rod\121121.25\112141.79;
+Zeus Rod\120402.47\113723.33;
+Rod Of The Depths\119551.03\113625.52;
+Blazebringer Rod\119429.45\112407.19;
+Verdant Shear Rod\119338.1\113755.64;
+Avalanche Rod\117821.95\109149.94;
 Volcanic Rod\115394.67\108609.65;
 Steady Rod\63079.99\59403.72
 |recommended   = Training Rod

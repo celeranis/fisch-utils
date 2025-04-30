@@ -29,9 +29,9 @@
 {{Fish Availability|
 Waveborne
 |top_rods      = 
-Free Spirit Rod\964.4\6731.07;
+Free Spirit Rod\939.78\6731.07;
 Egg Rod\839.93\5448.01;
-Azure Of Lagoon\795.52\5447.2;
+Azure Of Lagoon\795.52\4968.86;
 Blazebringer Rod\793.59\4974.59;
 Great Dreamer Rod\780.12\4989.44;
 Resourceful Rod\724.6\4742.79;

@@ -37,7 +37,7 @@ Haunted Rod\122442.98\94091.32;
 Ethereal Prism Rod\154026.18\165863.52;
 Leviathan's Fang Rod\155800.51\150665.63;
 Seraphic Rod\146215.43\146215.43;
-Fast Rod\161599.68\142945.16;
+Fast Rod\142945.16\142945.16;
 Kraken Rod\121168.23\123440.75;
 Depthseeker Rod\163126.51\114735.92;
 Free Spirit Rod\161533.15\104437.1;

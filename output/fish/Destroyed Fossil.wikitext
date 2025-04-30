@@ -32,7 +32,7 @@ Leviathan's Fang Rod\211222.67\11209.89;
 Fast Rod\201225.78\8379.54;
 No-Life Rod\199020.93\8286.94;
 Seraphic Rod\198237.45\8254.32;
-Training Rod\194104.78\31073.95;
+Training Rod\189438.73\31073.95;
 Fortune Rod\126129.7\10601.35;
 Nocturnal Rod\35390.34\28122.38;
 Challenger's Rod\181449.22\7555.28;

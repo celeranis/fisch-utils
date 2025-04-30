@@ -32,10 +32,10 @@ Mariana's Veil/Volcanic Vents
 Tempest Rod\7355.44\8992.91;
 Challenger's Rod\7185.36\8792.29;
 Seraphic Rod\6758.52\8244.1;
-Abyssal Specter Rod\6427.68\8032.22;
 Ethereal Prism Rod\6197.94\7537.66;
+Abyssal Specter Rod\5965.4\7328.17;
 No-Life Rod\5603.7\6859.85;
-Azure Of Lagoon\4736.66\5900.26;
+Azure Of Lagoon\4282.02\5241.9;
 Rod Of The Forgotten Fang\5194.29\6338.35;
 Depthseeker Rod\4150.86\5098.15;
 Rod Of The Exalted One\3826.29\4660.85;

@@ -29,11 +29,12 @@
 Lushgrove
 |top_rods      = 
 Trident Rod\156248.07\134748.52;
-Fischer's Rod\147459.23\141747.27;
-Plastic Rod\146804.8\140762.81;
 Leviathan's Fang Rod\145340.2\78432.35;
 Free Spirit Rod\134905.1\97748.26;
-Candy Cane Rod\118258.62\107343.76;
+Fischer's Rod\134876.08\125742.12;
+Azure Of Lagoon\131421.78\91660.95;
+Plastic Rod\125137.88\125137.88;
+Candy Cane Rod\100043.57\99972;
 Firefly Rod\126991.77\121389.52;
 Wildflower Rod\124109.21\117598.98;
 Verdant Shear Rod\124949.7\112058.76;
@@ -49,7 +50,7 @@ Zeus Rod\103980.9\95747.58;
 Rod Of The Depths\103975.95\91426.39;
 Rod Of The Exalted One\101557.73\70962.92;
 Ethereal Prism Rod\100852.31\68840.43;
-Steady Rod\98132.29\84272.23
+Steady Rod\86460.16\82192.86
 |recommended   = Free Spirit Rod
 }}
 

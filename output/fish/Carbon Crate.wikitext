@@ -60,28 +60,28 @@ Whale Migration/Normal
 Magnet Rod\226390.38\227143.04;
 Leviathan's Fang Rod\96822.64\244765.04;
 Trident Rod\93528.01\237596.73;
-Firefly Rod\92605.48\167091.63;
-Fungal Rod\89833.21\161883.84;
-Brick Built Rod\79708.12\142211.94;
+Firefly Rod\92605.48\165421.01;
+Fast Rod\89269.89\160596.16;
+Brick Built Rod\73306.18\131047.85;
 Lucky Rod\76700.79\135843.41;
 Free Spirit Rod\88928.8\225912.97;
 Azure Of Lagoon\76156.48\194765.87;
-Resourceful Rod\74754.14\173150.42;
-Destiny Rod\68705.11\172513.4;
+Resourceful Rod\64809.35\149083.5;
+Destiny Rod\67856.33\170932.86;
 No-Life Rod\79662.07\192484.05;
 Seraphic Rod\74913.97\181731.58;
 Ethereal Prism Rod\73754.41\181036.33;
 Rod Of The Forgotten Fang\70582.8\177856.44;
 Challenger's Rod\70540.61\178183.61;
-Rod Of The Exalted One\69776.77\175998.91;
-Rod Of The Depths\68956.47\174467.31;
-Blazebringer Rod\68484.41\173976.45;
-Depthseeker Rod\68463.19\174374.43;
-Zeus Rod\68047.42\172866.34;
-Verdant Shear Rod\67662.29\172214.74;
-Avalanche Rod\64439.44\164173.32;
-Volcanic Rod\61352.8\160923.32;
-Steady Rod\29849.1\77130.63
+Rod Of The Exalted One\67284.72\170556.6;
+Rod Of The Depths\65967.37\167582.21;
+Zeus Rod\65518.06\167722.68;
+Verdant Shear Rod\65169.61\165113.61;
+Blazebringer Rod\63919.74\166387.8;
+Volcanic Rod\61094.95\160923.32;
+Depthseeker Rod\60895.96\160399.18;
+Avalanche Rod\57083.42\144298.69;
+Steady Rod\20460.32\52075.8
 |recommended   = Magnet Rod
 }}
 

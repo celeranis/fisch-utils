@@ -32,25 +32,26 @@ Octophant Hunt/Octophant Uncatchable
 |top_rods      = 
 Free Spirit Rod\414239.03\381889.73;
 Trident Rod\348049.17\321308.29;
-Resourceful Rod\293385.51\292202.11;
-Verdant Shear Rod\291676.35\290515.05;
+Verdant Shear Rod\280365.17\279339.32;
 Firefly Rod\273831.95\272908.1;
-North-Star Rod\213728.68\212654.14;
-Event Horizon Rod\212090.43\211024.13;
-Astral Rod\212090.43\211024.13;
-Blazebringer Rod\250081.3\230551.63;
+Leviathan's Fang Rod\253199.34\249404.07;
+Resourceful Rod\210330.3\209601.82;
+North-Star Rod\173965\173231.88;
+Event Horizon Rod\173119.22\173897.31;
+Astral Rod\173119.22\173897.31;
+Blazebringer Rod\226682.47\208980.23;
 No-Life Rod\171686.86\168309.87;
-Seraphic Rod\146379.78\144493.36;
-Ethereal Prism Rod\143086.36\141333.51;
-Challenger's Rod\140400.39\138486.32;
-Rod Of The Forgotten Fang\136994.09\135217.36;
-Depthseeker Rod\135214.45\133231.77;
-Rod Of The Exalted One\133652.96\131971.18;
-Rod Of The Depths\131969.93\130223.52;
-Avalanche Rod\131960.44\130017.24;
-Steady Rod\131611.53\129506.93;
-Volcanic Rod\131074.08\129225.7;
-Zeus Rod\129912.99\128080.99
+Seraphic Rod\145091.63\142736.29;
+Ethereal Prism Rod\142407.99\140341.3;
+Challenger's Rod\138882.84\136228.52;
+Rod Of The Forgotten Fang\128098.49\125985.63;
+Depthseeker Rod\123092.67\120396.44;
+Steady Rod\116630.62\126521.46;
+Rod Of The Exalted One\114624\112864.1;
+Rod Of The Depths\114614.87\112619.24;
+Avalanche Rod\114614.48\111965.67;
+Volcanic Rod\108734.15\105169.02;
+Zeus Rod\105480.45\104153.17
 |recommended   = Free Spirit Rod
 }}
 

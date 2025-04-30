@@ -30,25 +30,25 @@ Ancient Isle/Waterfall
 |top_rods      = 
 Leviathan's Fang Rod\101149.54\894543.84;
 Ethereal Prism Rod\86386.77\541031.53;
-Seraphic Rod\82410.19\545344.18;
+Seraphic Rod\82410.19\543382.18;
 Trident Rod\79953.57\611895.3;
 No-Life Rod\79924.81\591199.59;
 Resourceful Rod\66750.02\442489.22;
-Destiny Rod\72478.75\502175.18;
-Heaven's Rod\64756.36\497663.04;
-Free Spirit Rod\75977.73\598043.24;
+Destiny Rod\70012.83\468147.23;
+Heaven's Rod\62093.15\497663.04;
+Free Spirit Rod\75977.73\581467.6;
 Rod Of The Depths\68122.69\481796.14;
-Rod Of The Forgotten Fang\76570.64\534401.55;
+Rod Of The Forgotten Fang\76570.64\531364.24;
 Rod Of The Zenith\72903.23\492778.74;
 Challenger's Rod\72775.37\541323.42;
-Rod Of The Exalted One\68029.45\523627.96;
+Rod Of The Exalted One\68029.45\456728.49;
 Zeus Rod\64415.54\471104.72;
 Verdant Shear Rod\62357.42\471999.05;
 Blazebringer Rod\61328.2\448525.39;
 Depthseeker Rod\57413.04\439739.36;
 Avalanche Rod\51473.04\396132.61;
 Volcanic Rod\50226.54\367333.11;
-Steady Rod\17028.53\132905.57
+Steady Rod\15880.84\132905.57
 |recommended   = Ethereal Prism Rod
 }}
 

@@ -33,26 +33,26 @@ Leviathan's Fang Rod\67559.37\154450.58;
 Trident Rod\59175.35\139470.37;
 Seraphic Rod\56858.69\124953.57;
 No-Life Rod\56811.34\127590.92;
-Resourceful Rod\42860.71\100057.28;
+Resourceful Rod\39595.95\91496.94;
 Midas Rod\19191.18\41798.62;
-Wisdom Rod\44596.86\106228.95;
+Great Dreamer Rod\43345.03\98770.85;
 Azure Of Lagoon\54687.28\136804.51;
-Abyssal Specter Rod\54389.35\130295.95;
-Rod Of Time\33024.88\89751.68;
-Relic Rod\33024.88\89751.68;
-North-Star Rod\28391.07\74457.75;
+Abyssal Specter Rod\49805.08\130295.95;
+Rod Of Time\31655.82\80719.02;
+Relic Rod\31655.82\80719.02;
+Event Horizon Rod\27736.27\67896.76;
 Ethereal Prism Rod\55491.78\118821.6;
 Challenger's Rod\54578.66\127842.14;
 Rod Of The Forgotten Fang\50925.22\112452.91;
-Depthseeker Rod\46394.32\111825.34;
-Rod Of The Exalted One\45675.99\101575.65;
 Zeus Rod\44249.83\99595.44;
-Rod Of The Depths\43973.5\95857.82;
+Rod Of The Depths\43973.5\94850.77;
 Verdant Shear Rod\43842.5\100867.02;
-Blazebringer Rod\43426.5\102351.9;
-Avalanche Rod\39273.4\94902.19;
-Volcanic Rod\37477.66\88331.1;
-Steady Rod\19425.45\49805.94
+Blazebringer Rod\43107.02\96687.55;
+Depthseeker Rod\43006.78\102701.51;
+Rod Of The Exalted One\42696.43\90411.36;
+Avalanche Rod\37413.42\86117.96;
+Volcanic Rod\34699.15\76786.63;
+Steady Rod\13574.94\35458.93
 |recommended   = Trident Rod
 }}
 

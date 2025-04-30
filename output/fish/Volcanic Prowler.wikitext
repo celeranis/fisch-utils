@@ -48,7 +48,7 @@ Zeus Rod\76596.93\7447.01;
 Seraphic Rod\75821.97\5472.43;
 Rod Of The Depths\74264.31\5131.64;
 Rod Of The Forgotten Fang\72995.75\5180.96;
-Steady Rod\65249.68\6555.38;
+Steady Rod\64798.01\6555.38;
 Rod Of The Exalted One\62262.4\5143.38;
 Ethereal Prism Rod\61155.4\5421.74
 |recommended   = Verdant Shear Rod

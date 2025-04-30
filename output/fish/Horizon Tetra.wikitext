@@ -32,13 +32,14 @@ Trident Rod\277616.03\23650.89;
 Leviathan's Fang Rod\271236.34\23321.68;
 Free Spirit Rod\269377.85\17408.08;
 Azure Of Lagoon\247445.27\15300.25;
-Firefly Rod\222759.51\22626.55;
-Fungal Rod\175923.91\17540.02;
-Antler Rod\168783.97\17355.49;
-Nocturnal Rod\107149.54\98421.61;
+Egg Rod\217358.73\19543.13;
+Fungal Rod\175923.91\17255.82;
+Antler Rod\166586.95\16339.99;
+Nocturnal Rod\105924.54\98421.61;
+Firefly Rod\215981.53\20847.14;
 Brick Built Rod\195446.05\20152.86;
-Rapid Rod\172422.55\17409.45;
-Haunted Rod\170416.29\17339.7;
+Rapid Rod\172422.55\16912.39;
+Haunted Rod\170416.29\16694.51;
 Verdant Shear Rod\213906.76\18835;
 Blazebringer Rod\213626.48\18368.22;
 No-Life Rod\208509.09\17340.73;
@@ -52,7 +53,7 @@ Avalanche Rod\174891.24\15428.16;
 Volcanic Rod\173057.8\14676.59;
 Zeus Rod\172122.09\14597.23;
 Rod Of The Depths\171850.05\13908.27;
-Steady Rod\166340.12\14383.12
+Steady Rod\143723.27\12850.74
 |recommended   = Free Spirit Rod
 }}
 

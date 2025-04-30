@@ -32,17 +32,16 @@ Free Spirit Rod\347491.58\210133.67;
 Azure Of Lagoon\310130.39\262452.55;
 Trident Rod\308992.07\263238.99;
 Leviathan's Fang Rod\304723.53\262010.11;
-Resourceful Rod\290355.69\229277.19;
-Carbon Rod\212782.69\208791.57;
-Candy Cane Rod\211350.08\207385.83;
+Firefly Rod\280253.47\266688.45;
+Carbon Rod\206433.28\182221.69;
+Candy Cane Rod\202971.68\179166.09;
 Long Rod\223561.09\216626.54;
-Firefly Rod\280359.49\283698.19;
 Brick Built Rod\249473.6\257237.51;
 Rapid Rod\225177.48\220869.5;
 Haunted Rod\224746.21\220168.33;
 Fungal Rod\226899.32\222558.4;
-Blazebringer Rod\280470.76\231760.8;
-Verdant Shear Rod\278190.69\233297.83;
+Verdant Shear Rod\269543.89\233297.83;
+Blazebringer Rod\269542.93\231760.8;
 No-Life Rod\251249.41\208952.41;
 Seraphic Rod\235849.05\200926.41;
 Ethereal Prism Rod\233395.41\197687.09;
@@ -54,7 +53,7 @@ Rod Of The Exalted One\222976.3\192992.27;
 Volcanic Rod\221699.91\188018.04;
 Zeus Rod\220835.85\187285.25;
 Rod Of The Depths\220205.76\178218.28;
-Steady Rod\206588.77\178633.49
+Steady Rod\182896.36\161750.6
 |recommended   = Free Spirit Rod
 }}
 

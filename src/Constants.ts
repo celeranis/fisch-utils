@@ -323,6 +323,7 @@ export const LIMITED_BAIT = {
 	"Aurora Bait": true,
 	"Chocolate Fish": true,
 	"Lucky": true,
+	'Stud Bait': true,
 	
 	"Glass Beetle": true,
 	"Phantom Leech": true,

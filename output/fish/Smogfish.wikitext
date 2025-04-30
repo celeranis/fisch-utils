@@ -29,9 +29,9 @@
 Emberreach/Freshwater Pond
 |top_rods      = 
 Fungal Rod\533643.9\533643.9;
-Adventurer's Rod\528832.64\484208.2;
 Long Rod\521613.12\510244.14;
 Antler Rod\515603.45\515603.45;
+Adventurer's Rod\459841.51\459841.51;
 Firefly Rod\304912.16\295783.73;
 Free Spirit Rod\299270.62\149650.01;
 Trident Rod\290889.82\208663.72;
@@ -48,7 +48,7 @@ Avalanche Rod\194087.67\150130.85;
 Rod Of The Depths\193550.08\143088.2;
 Volcanic Rod\192444.35\145630.88;
 Zeus Rod\191448.59\144877.35;
-Steady Rod\186392.33\132813.85
+Steady Rod\158924.65\122294.9
 |recommended   = Free Spirit Rod
 }}
 

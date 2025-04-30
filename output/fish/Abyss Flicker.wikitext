@@ -30,7 +30,7 @@ Isle of New Beginnings
 |top_rods      = 
 Krampus's Rod\69118.14\106833.44;
 Magma Rod\66729.37\103024.78;
-Free Spirit Rod\65870.22\149227.4;
+Free Spirit Rod\65870.22\138160.93;
 Plastic Rod\61056.4\105207.08;
 Egg Rod\56547.56\135863.09;
 Firefly Rod\49799.05\204047.09;
@@ -40,7 +40,7 @@ Lucky Rod\34335.47\134461.54;
 Long Rod\30072.76\125879.45;
 Verdant Shear Rod\53143.59\127684.6;
 Blazebringer Rod\52949.03\125034.35;
-Trident Rod\42861.85\98213.27;
+Trident Rod\42253.02\98213.27;
 Seraphic Rod\38497.31\92494.94;
 Ethereal Prism Rod\37956.77\88883.67;
 No-Life Rod\36383.93\89853.99;

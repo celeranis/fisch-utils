@@ -29,7 +29,7 @@
 {{Fish Availability|
 Isle of New Beginnings
 |top_rods      = 
-Free Spirit Rod\796.08\5680.55;
+Free Spirit Rod\796.08\5249.66;
 Egg Rod\720.03\5287.72;
 Azure Of Lagoon\717.2\5024.4;
 Blazebringer Rod\676.76\4851.19;

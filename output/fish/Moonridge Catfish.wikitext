@@ -30,11 +30,11 @@ Blue Moon/Second Sea
 |top_rods      = 
 Free Spirit Rod\167587.12\100180.22;
 Trident Rod\161789.36\161479.8;
-Training Rod\159641.48\153982.72;
+Training Rod\159641.48\123589.3;
 Leviathan's Fang Rod\159622.85\159006.75;
 Azure Of Lagoon\156862.99\157793.27;
-Flimsy Rod\150850.86\150850.86;
-Resourceful Rod\133463.96\127907.39;
+Flimsy Rod\129871.6\129871.6;
+Resourceful Rod\110267.88\127907.39;
 Egg Rod\140565.17\157628.44;
 Verdant Shear Rod\139324.22\156236.86;
 Blazebringer Rod\136897.63\153555.92;
@@ -49,7 +49,7 @@ Avalanche Rod\112370.42\112228.72;
 Rod Of The Depths\112359.96\112155.72;
 Volcanic Rod\112066.38\111894.07;
 Zeus Rod\111648\111476.34;
-Steady Rod\104741.96\104539.33
+Steady Rod\92060.88\91934.99
 |recommended   = Free Spirit Rod
 }}
 

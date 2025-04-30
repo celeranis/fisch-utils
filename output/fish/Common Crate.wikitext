@@ -90,10 +90,11 @@ Whale Migration/Normal
 |top_rods      = 
 Magnet Rod\734033.76\740319.09;
 Krampus's Rod\542956.47\493695.68;
-Flimsy Rod\528955.78\610286.1;
 Magma Rod\527793.57\479908.46;
-Leviathan's Fang Rod\490287.58\380071.86;
-Training Rod\446263.59\416343.55;
+Leviathan's Fang Rod\487610.13\380071.86;
+Plastic Rod\482616.01\438829.72;
+Flimsy Rod\442593.9\610286.1;
+Training Rod\446263.59\402443.02;
 Fast Rod\422882.85\551513.44;
 Fischer's Rod\371469.77\484461.78;
 Ethereal Prism Rod\480738.27\329534.44;
@@ -103,15 +104,15 @@ Rod Of The Forgotten Fang\444642.93\337478.81;
 Trident Rod\441029.78\368115.08;
 Free Spirit Rod\439265.89\366642.81;
 Challenger's Rod\436966.6\349025.85;
-Rod Of The Exalted One\434582.93\330600.9;
-Rod Of The Depths\420024.52\338738.58;
+Rod Of The Exalted One\409898.73\330600.9;
+Rod Of The Depths\404730.27\338738.58;
 Zeus Rod\404409.87\352758.85;
-Blazebringer Rod\402720.5\354537.24;
 Verdant Shear Rod\401513.28\350359.23;
-Depthseeker Rod\392956.55\341477.32;
-Avalanche Rod\371891.98\324613.08;
-Volcanic Rod\361521.47\344562.32;
-Steady Rod\166023.21\158494.25
+Blazebringer Rod\383906.37\354537.24;
+Depthseeker Rod\368133.85\337960.01;
+Volcanic Rod\354759.45\344562.32;
+Avalanche Rod\347778.61\310789.3;
+Steady Rod\125160.09\113789.29
 |recommended   = Magnet Rod
 }}
 

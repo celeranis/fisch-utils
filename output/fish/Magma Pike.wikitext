@@ -29,29 +29,28 @@
 Emberreach/Volcano
 |top_rods      = 
 Free Spirit Rod\421755.78\306416.47;
-Fischer's Rod\370272.19\337118.68;
-Plastic Rod\367664.35\336090.54;
-Fast Rod\366379.92\336071.97;
+Fischer's Rod\370272.19\292727.15;
+Plastic Rod\367664.35\291580.22;
+Fast Rod\366379.92\289650.02;
 Azure Of Lagoon\359606.69\425101.73;
 Lucky Rod\359050.72\359050.72;
-Blazebringer Rod\337615.13\421781.97;
+Blazebringer Rod\311420.35\421781.97;
 Firefly Rod\350553.55\410782.12;
-Brother's Rod\329779.96\362270.19;
 Leviathan's Fang Rod\350094.06\359122.83;
 Trident Rod\350473.54\338367.9;
-Verdant Shear Rod\334982.15\334396.45;
-No-Life Rod\284594.42\308992.78;
+Verdant Shear Rod\320054.1\334396.45;
+No-Life Rod\284594.42\278523.75;
 Ethereal Prism Rod\267488.52\295402.9;
-Seraphic Rod\265512.04\255471.06;
-Challenger's Rod\255556.76\285880.72;
-Rod Of The Forgotten Fang\254938.33\249239;
-Rod Of The Exalted One\254335.53\252612.62;
-Depthseeker Rod\253232.12\253186.07;
-Rod Of The Depths\250966.88\264387.96;
+Seraphic Rod\264610.93\255471.06;
+Challenger's Rod\255556.76\249623.41;
+Rod Of The Forgotten Fang\253464.37\245001.3;
+Depthseeker Rod\253232.12\252526.72;
+Rod Of The Exalted One\251237.55\252612.62;
 Avalanche Rod\250230.71\249551.38;
-Volcanic Rod\248968.71\285754.53;
-Zeus Rod\247955.18\284894.33;
-Steady Rod\231864.09\223600.95
+Rod Of The Depths\249073.73\241713.19;
+Volcanic Rod\248968.71\245337.91;
+Zeus Rod\247955.18\244339.17;
+Steady Rod\215463.8\222761.55
 |recommended   = Free Spirit Rod
 }}
 

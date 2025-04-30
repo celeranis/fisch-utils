@@ -32,23 +32,23 @@ Cults Curse
 Leviathan's Fang Rod\212719.72\165466.24;
 Trident Rod\210568.86\162807.85;
 Free Spirit Rod\196883.02\152226.22;
-Fast Rod\168244.45\163653.85;
-Firefly Rod\167355.99\156705.13;
 Plastic Rod\167191.21\175439.29;
+Azure Of Lagoon\165676.69\126724.32;
 Fischer's Rod\162511.15\163360.6;
-Adventurer's Rod\159584.96\159376.2;
+Adventurer's Rod\158547.47\159376.2;
+Fast Rod\163653.85\163653.85;
 No-Life Rod\161138.62\157863.64;
 Seraphic Rod\156146.79\156146.79;
 Ethereal Prism Rod\154703.89\154703.89;
 Challenger's Rod\147797.36\142733.56;
 Rod Of The Forgotten Fang\145406.69\141451.9;
-Depthseeker Rod\144850.69\120612.12;
-Blazebringer Rod\142888.42\123811.06;
-Rod Of The Exalted One\142745.64\120100.49;
-Rod Of The Depths\141676.27\127472.53;
-Zeus Rod\141338.49\130656.11;
-Verdant Shear Rod\141074.47\130656.11;
-Avalanche Rod\135329.12\107554.95;
+Depthseeker Rod\139986.09\120612.12;
+Zeus Rod\136626.08\130656.11;
+Rod Of The Exalted One\135570.29\120100.49;
+Verdant Shear Rod\135009.27\130656.11;
+Blazebringer Rod\134630.5\123811.06;
+Rod Of The Depths\132536.75\127472.53;
+Avalanche Rod\132425.92\107554.95;
 Volcanic Rod\129089.08\99270.48;
 Steady Rod\73455.68\54271.17
 |recommended   = Trident Rod

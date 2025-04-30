@@ -34,7 +34,7 @@ Leviathan's Fang Rod\247505.94\179436.46;
 Firefly Rod\224496.02\224496.02;
 Azure Of Lagoon\224358.57\147407.44;
 Long Rod\179242.26\179242.26;
-Adventurer's Rod\185377.87\185377.87;
+Fungal Rod\183018.43\183018.43;
 Egg Rod\208581.95\201377.36;
 Brother's Rod\204865.57\199417.17;
 Great Dreamer Rod\206205.2\198640.46;
@@ -51,7 +51,7 @@ Rod Of The Depths\169632.88\164619.94;
 Volcanic Rod\169554.77\167082.1;
 Rod Of The Exalted One\168995.43\148103.21;
 Zeus Rod\168672.61\166212.8;
-Steady Rod\161137.74\155395.14
+Steady Rod\140029.24\139296.4
 |recommended   = Free Spirit Rod
 }}
 

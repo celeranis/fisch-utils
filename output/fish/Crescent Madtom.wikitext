@@ -33,8 +33,8 @@ Free Spirit Rod\156808.61\94688.77;
 Leviathan's Fang Rod\154833.22\154235.61;
 Training Rod\150803.89\182886.88;
 Azure Of Lagoon\145809.32\130697.31;
-Flimsy Rod\141146.38\141146.38;
-Resourceful Rod\122148.42\118886.78;
+Flimsy Rod\119929.45\120460.78;
+Resourceful Rod\102491.29\118886.78;
 Egg Rod\131560.02\147530.16;
 Verdant Shear Rod\130187.56\145991.1;
 Blazebringer Rod\127874.79\143718.54;
@@ -49,7 +49,7 @@ Avalanche Rod\104600.13\104468.23;
 Rod Of The Depths\104590.39\104400.27;
 Volcanic Rod\104329.56\104169.15;
 Zeus Rod\103911.66\103751.89;
-Steady Rod\98194.41\98004.45
+Steady Rod\85838.99\85721.61
 |recommended   = Free Spirit Rod
 }}
 

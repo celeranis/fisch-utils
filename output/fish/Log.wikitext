@@ -38,7 +38,7 @@ Terrapin Island/Surrounding Ocean
 Fast Rod\102694.51\422385.02;
 Fischer's Rod\101569.13\373484.74;
 Adventurer's Rod\100990.93\371358.64;
-Training Rod\92120.99\599998.85;
+Training Rod\76376.25\448950.19;
 Flimsy Rod\75365.45\469966.09;
 Buddy Bond Rod\64622.81\410451.4;
 Ethereal Prism Rod\44169.77\73462.01;

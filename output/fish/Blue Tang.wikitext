@@ -28,15 +28,15 @@
 Roslit Bay/Coral Reef
 |top_rods      = 
 Rapid Rod\199289.83\24696.74;
-Fast Rod\196554\25766.02;
 No-Life Rod\196085.47\26391.21;
 Champions Rod\194619.87\19144.73;
 Celestial Rod\194368.4\19772.14;
-Training Rod\175625.61\27901.17;
-Flimsy Rod\153753.82\20463.63;
-Buddy Bond Rod\147834.14\12713.46;
-Nocturnal Rod\127751.15\76803.8;
 Seraphic Rod\194311.55\26152.45;
+Training Rod\175625.61\27901.17;
+Flimsy Rod\128809.59\20463.63;
+Buddy Bond Rod\122190.5\12713.46;
+Nocturnal Rod\127751.15\76803.8;
+Fast Rod\191432.12\25766.02;
 Depthseeker Rod\191693.36\20409.17;
 Avalanche Rod\189373.28\18293.72;
 Ethereal Prism Rod\189246.29\0;

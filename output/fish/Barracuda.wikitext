@@ -64,7 +64,7 @@ Free Spirit Rod\106437.38\11270.16;
 Champions Rod\106240.65\14589.11;
 Summit Rod\105485.04\14261.69;
 Training Rod\103149.41\15346.15;
-Flimsy Rod\92498.38\12587.54;
+Flimsy Rod\77403.65\10388.37;
 Resourceful Rod\95801.37\14664.23;
 Nocturnal Rod\68052.36\58049.85;
 Kraken Rod\82053.07\18087.07;

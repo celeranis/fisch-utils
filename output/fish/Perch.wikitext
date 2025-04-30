@@ -39,18 +39,18 @@ Krampus's Rod\365360.96\239446.76;
 Azure Of Lagoon\327038.13\382853.25;
 Zeus Rod\321926.56\341317.37;
 Great Dreamer Rod\311353.24\339451.3;
-Riptide Rod\319655.43\338996.2;
+Riptide Rod\306333.76\338996.2;
 Seraphic Rod\376745.98\257301.83;
 Rod Of The Forgotten Fang\354579.53\234973.94;
 Challenger's Rod\349515.11\338940.48;
-Rod Of The Exalted One\342918.87\207599.97;
-Rod Of The Depths\331773.58\213451.33;
+Rod Of The Depths\323700.85\213451.33;
+Rod Of The Exalted One\322196.46\207599.97;
 Verdant Shear Rod\318540.48\312310.47;
-Blazebringer Rod\316387.72\326412.76;
-Depthseeker Rod\307689.87\279250.64;
-Avalanche Rod\289644.21\257066.32;
-Volcanic Rod\283698.21\278783.07;
-Steady Rod\133758.6\142933.15
+Blazebringer Rod\305440.29\326412.76;
+Depthseeker Rod\292888.17\279250.64;
+Volcanic Rod\273800.02\278783.07;
+Avalanche Rod\268027.87\257066.32;
+Steady Rod\133758.6\117873.55
 |recommended   = Trident Rod
 }}
 

@@ -33,7 +33,7 @@ Free Spirit Rod\203293.4\13858.06;
 Azure Of Lagoon\200822.31\13007.05;
 No-Life Rod\197641.8\18936.04;
 Training Rod\168983.71\34467.87;
-Flimsy Rod\145048.77\27605.39;
+Flimsy Rod\120634.53\27605.39;
 Resourceful Rod\169920.52\13785.4;
 Nocturnal Rod\85657.35\67305.88;
 Seraphic Rod\167921.23\19401.74;

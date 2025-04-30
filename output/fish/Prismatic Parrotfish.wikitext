@@ -28,26 +28,26 @@
 Mariana's Veil/Calm Zone
 |top_rods      = 
 Training Rod\816666.67\816666.67;
-Flimsy Rod\693750\693750;
+Flimsy Rod\676500\676500;
 Trident Rod\241680.61\265032.58;
 Leviathan's Fang Rod\240693.31\259741.78;
 Free Spirit Rod\221061\242420.63;
-Plastic Rod\178162.25\146518.34;
+Plastic Rod\178162.25\135524.9;
 Magnet Rod\102292\103926.16;
 No-Life Rod\178200.8\199317.29;
 Seraphic Rod\164194.9\180135.87;
 Ethereal Prism Rod\163484.59\177216.4;
 Challenger's Rod\161039\173863.49;
 Rod Of The Forgotten Fang\160526.2\173533.82;
-Depthseeker Rod\159271.9\174391.68;
-Rod Of The Exalted One\158632.97\171401.21;
-Rod Of The Depths\158620.53\174285;
-Blazebringer Rod\158515.48\173831.76;
-Verdant Shear Rod\156793.96\171753.94;
-Zeus Rod\156011.26\167800.03;
-Avalanche Rod\148319.83\159146.48;
-Volcanic Rod\141917\158051.31;
-Steady Rod\67251.18\74685.79
+Rod Of The Exalted One\152474.89\164256.53;
+Verdant Shear Rod\150201\164934.87;
+Rod Of The Depths\149979.12\164470.59;
+Zeus Rod\149263.5\161261.07;
+Blazebringer Rod\147319.03\163780.85;
+Depthseeker Rod\140337.12\158969.15;
+Volcanic Rod\136517.24\158051.31;
+Avalanche Rod\125911.55\141637.69;
+Steady Rod\60814.58\59655.11
 |recommended   = Training Rod
 }}
 

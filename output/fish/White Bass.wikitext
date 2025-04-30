@@ -35,7 +35,7 @@ Summit Rod\108863.61\13762.19;
 Depthseeker Rod\108276.43\13802.17;
 Training Rod\98978.79\20361;
 Resourceful Rod\102294.92\15159.02;
-Flimsy Rod\82677.47\11286.29;
+Flimsy Rod\71288.8\9853.3;
 Nocturnal Rod\80014.19\73715.82;
 Leviathan's Fang Rod\107281.95\15813.54;
 Kraken Rod\84792.15\14634.01;

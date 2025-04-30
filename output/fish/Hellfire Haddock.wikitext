@@ -29,17 +29,17 @@ Mariana's Veil/Volcanic Vents
 |top_rods      = 
 Rapid Rod\271729.9\309665.11;
 Leviathan's Fang Rod\268741.36\229166.94;
-Firefly Rod\267795.77\302359.25;
 Trident Rod\264989.95\166752.6;
 No-Life Rod\264139.89\240223.03;
+Free Spirit Rod\263160.7\167048.98;
 Long Rod\239174.21\231013.63;
 Brick Built Rod\235370.75\227339.95;
 Training Rod\216045.45\216045.45;
+Firefly Rod\252613.79\297842.02;
 Frog Rod\244316.17\259792.79;
-Fungal Rod\253771.34\256086.65;
+Fungal Rod\247031.69\256086.65;
 Wildflower Rod\247833.73\244953.11;
-North-Star Rod\209991.52\239962.06;
-Free Spirit Rod\263160.7\167048.98;
+North-Star Rod\206486.17\206486.17;
 Blazebringer Rod\248713.75\192833.04;
 Zeus Rod\246886.81\204223.51;
 Verdant Shear Rod\245445.6\204748.88;

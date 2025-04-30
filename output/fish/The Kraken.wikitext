@@ -33,18 +33,18 @@ Atlantis/Kraken Hunt
 Tempest Rod\83811.6\118212.14;
 Challenger's Rod\82043.4\119992.42;
 Seraphic Rod\81645.26\116335.34;
-Abyssal Specter Rod\81125.04\118115.27;
 Ethereal Prism Rod\77306.04\108298.49;
+No-Life Rod\76574.04\109100.37;
 Midas Rod\16078.9\22576.26;
 Great Dreamer Rod\53504.25\75325.8;
 Phoenix Rod\46039.05\64630.67;
-No-Life Rod\76574.04\109100.37;
-Celestial Rod\59048.71\87398.4;
+Abyssal Specter Rod\73513.87\109575.12;
+Celestial Rod\57714.47\81348.55;
 Ice Warpers Rod\53421.66\75297.83;
 Aurora Rod\31902.86\44967.09;
-Free Spirit Rod\71648.85\102103.29;
 Rod Of The Forgotten Fang\68784.85\95530.96;
-Depthseeker Rod\57513.66\81022.58;
+Free Spirit Rod\68373.35\99549.24;
+Depthseeker Rod\57513.66\80897.78;
 Blazebringer Rod\54922.33\78485.35;
 Rod Of The Exalted One\54779.06\75820.5;
 Rod Of The Depths\54364.45\75670.54;
@@ -52,7 +52,7 @@ Zeus Rod\54276.19\77831.31;
 Trident Rod\52363.01\72672.24;
 Avalanche Rod\46756.55\65793.68;
 Volcanic Rod\42849.62\60413.07;
-Steady Rod\21740.16\31481.76
+Steady Rod\16161.53\23015.16
 |recommended   = Challenger's Rod
 }}
 

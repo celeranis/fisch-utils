@@ -29,21 +29,21 @@
 Megalodon Hunt/Eclipse and Weekend
 Megalodon Hunt/Normal
 |top_rods      = 
-Leviathan's Fang Rod\19161.7\57474.83;
+Leviathan's Fang Rod\19161.7\57165.67;
 Seraphic Rod\19055.99\53576.55;
 Ethereal Prism Rod\18953.49\50828.22;
 Tempest Rod\18676.54\53188.38;
 No-Life Rod\17975.45\51990.69;
 Destiny Rod\13575.66\34685.23;
-Heaven's Rod\13250.58\38956.16;
-Abyssal Specter Rod\15658.69\54591.19;
-Challenger's Rod\17851.98\53024.67;
+Heaven's Rod\12928.25\33633.06;
+Challenger's Rod\17851.98\53003.19;
+Abyssal Specter Rod\15658.69\48687.07;
 Zeus Rod\13209.17\38834.42;
-The Lost Rod\11609.9\34213.2;
+The Lost Rod\11609.9\34132.63;
 Rod Of The Forgotten Fang\16560.17\46036.09;
-Rod Of The Exalted One\13817.28\37653.23;
+Rod Of The Exalted One\13817.28\37562.42;
 Avalanche Rod\11004.68\33196.2;
-Steady Rod\4055.89\13771.01
+Steady Rod\3620.98\11998.92
 |recommended   = Seraphic Rod
 }}
 

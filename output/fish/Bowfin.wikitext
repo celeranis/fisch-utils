@@ -33,7 +33,7 @@ Rapid Rod\147229.04\129871.74;
 Free Spirit Rod\147093.56\98346.69;
 Summit Rod\146728.9\100738.41;
 Training Rod\133161.35\136064.15;
-Flimsy Rod\119325.14\96925.51;
+Flimsy Rod\97928.41\96925.51;
 Resourceful Rod\135905.32\97664.65;
 Ethereal Prism Rod\138952.15\157174.33;
 Leviathan's Fang Rod\146293.84\151773.2;

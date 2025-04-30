@@ -28,11 +28,11 @@
 {{Fish Availability|
 Emberreach/Surrounding Ocean
 |top_rods      = 
-Fast Rod\486254.06\428767.84;
-Lucky Rod\482857.15\430532.11;
+Fast Rod\486254.06\386508.13;
+Lucky Rod\477874.63\430532.11;
 Fungal Rod\311690.74\311690.74;
 Antler Rod\298537.12\298537.12;
-Adventurer's Rod\271572.67\253040.23;
+Adventurer's Rod\232951.15\232951.15;
 Trident Rod\199881.34\178776.71;
 Free Spirit Rod\195252.76\125216.84;
 Verdant Shear Rod\161878.77\147799.05;
@@ -48,7 +48,7 @@ Avalanche Rod\132019.03\130786.35;
 Volcanic Rod\130891.2\125799.38;
 Rod Of The Depths\130478.08\119979.62;
 Zeus Rod\130170.43\125106.65;
-Steady Rod\124627.45\110998.11
+Steady Rod\108275.33\106479.97
 |recommended   = Free Spirit Rod
 }}
 

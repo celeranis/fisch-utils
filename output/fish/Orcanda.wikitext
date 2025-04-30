@@ -32,9 +32,9 @@ Octophant Hunt/Octophant Uncatchable
 |top_rods      = 
 Free Spirit Rod\84837.76\116328.68;
 Blazebringer Rod\73435\100901.51;
-Azure Of Lagoon\66321.87\98144.36;
-Challenger's Rod\65361.03\96736.79;
-Tempest Rod\61126.36\90480.09;
+Azure Of Lagoon\60188\88714.76;
+Egg Rod\57292.32\84524.24;
+Challenger's Rod\56733.77\83752.3;
 Trident Rod\52423.74\72071.96;
 Seraphic Rod\52108.12\76875.92;
 Ethereal Prism Rod\44833.45\66097.78;

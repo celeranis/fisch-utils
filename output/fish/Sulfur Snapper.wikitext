@@ -38,7 +38,7 @@ Haunted Rod\167985.28\167985.28;
 Rapid Rod\171835.26\171835.26;
 Wildflower Rod\206279.74\202336.52;
 Egg Rod\217240.69\193460.4;
-Resourceful Rod\208907.41\167039.88;
+Resourceful Rod\167039.88\167039.88;
 Blazebringer Rod\215089.34\193236.33;
 No-Life Rod\206083.7\187983.98;
 Seraphic Rod\189672.51\167841.96;
@@ -51,7 +51,7 @@ Avalanche Rod\173658.33\163814.48;
 Rod Of The Depths\173263.71\156129.93;
 Volcanic Rod\172413.8\158968.93;
 Zeus Rod\171482.23\158110.01;
-Steady Rod\165945.19\146460.12
+Steady Rod\142662.32\134316.01
 |recommended   = Free Spirit Rod
 }}
 

@@ -30,19 +30,19 @@
 Snowcap Island/Freshwater Pond
 |top_rods      = 
 Ethereal Prism Rod\62102.46\187579.2;
-Leviathan's Fang Rod\61761.08\209256.95;
+Leviathan's Fang Rod\61761.08\204132.62;
 Seraphic Rod\60469.36\194971.84;
 Tempest Rod\57499.9\195645.46;
 No-Life Rod\54415.72\191719.52;
-Resourceful Rod\45696.12\135439.02;
-Destiny Rod\46539.42\131973.71;
-Heaven's Rod\43364.76\146358.88;
+Resourceful Rod\45696.12\130911.29;
+Destiny Rod\46539.42\131266.2;
+Heaven's Rod\43364.76\125836.7;
 Free Spirit Rod\45640.05\214072.77;
 Flimsy Rod\21948.58\197249.88;
 Training Rod\20514.31\194297.07;
 Challenger's Rod\54174.85\192708.34;
 Rod Of The Forgotten Fang\52639.27\171037.41;
-Rod Of The Exalted One\44952.99\144110.86;
+Rod Of The Exalted One\44952.99\140676.62;
 Rod Of The Depths\43196.81\143724.74;
 Trident Rod\42871.56\175040.42;
 Zeus Rod\39650.11\144834.31;
@@ -50,8 +50,8 @@ Blazebringer Rod\39102.89\142835.43;
 Depthseeker Rod\37771.56\145101.07;
 Verdant Shear Rod\37702.39\142985.86;
 Avalanche Rod\31998.11\123561.95;
-Volcanic Rod\31163.59\115042.72;
-Steady Rod\9917.24\44673.45
+Volcanic Rod\31163.59\113834.69;
+Steady Rod\9917.24\41919.04
 |recommended   = Ethereal Prism Rod
 }}
 

@@ -31,23 +31,22 @@ Mariana's Veil/Volcanic Vents
 Leviathan's Fang Rod\295405.8\370794.11;
 Free Spirit Rod\295133.12\373584;
 Trident Rod\270073.54\341133.41;
-Azure Of Lagoon\219079.71\256318.47;
+Azure Of Lagoon\219079.71\255158.83;
 No-Life Rod\213218.33\266559.62;
-Riptide Rod\170669.19\215538.92;
-Abyssal Specter Rod\207367.3\261928.34;
+Riptide Rod\160611.54\199007.07;
 Challenger's Rod\202090.25\256379.46;
 Seraphic Rod\206974.84\255997.55;
 Ethereal Prism Rod\202594.42\248700.38;
 Rod Of The Forgotten Fang\190297.6\237361.37;
-Depthseeker Rod\184881.47\234770.33;
-Rod Of The Exalted One\177853.8\221523.08;
-Blazebringer Rod\175614.25\222295.2;
-Zeus Rod\169376.34\213941.46;
 Verdant Shear Rod\169086.27\210032.06;
-Rod Of The Depths\167639.52\210049.27;
-Avalanche Rod\160160.28\203500.06;
-Volcanic Rod\151963.82\191947.48;
-Steady Rod\71431.6\77782.64
+Zeus Rod\168664.78\208777.9;
+Rod Of The Depths\165571.8\204216.24;
+Blazebringer Rod\164207.76\203659.33;
+Depthseeker Rod\163842.53\206049.99;
+Rod Of The Exalted One\159025.27\196735.63;
+Avalanche Rod\142264.97\176499.86;
+Volcanic Rod\131870.54\163232.99;
+Steady Rod\54514.44\69125.31
 |recommended   = Trident Rod
 }}
 

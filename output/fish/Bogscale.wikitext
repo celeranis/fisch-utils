@@ -28,29 +28,29 @@
 {{Fish Availability|
 Lushgrove
 |top_rods      = 
-Training Rod\689438.2\311503.5;
+Training Rod\689438.2\218406.59;
 Flimsy Rod\640329.44\269585.8;
 Free Spirit Rod\294465.77\0;
 Azure Of Lagoon\260564.71\26693.89;
-Resourceful Rod\253479.69\33164.62;
-Plastic Rod\225509.9\26511.48;
+Egg Rod\249041.46\25301.24;
+Plastic Rod\225509.9\26355.56;
 Nocturnal Rod\129863.27\125564.08;
 Firefly Rod\246205.09\26869.07;
-Blazebringer Rod\253173.68\25837.42;
-Verdant Shear Rod\250664.96\24425.27;
 Trident Rod\242378.78\21804.75;
-No-Life Rod\211441.08\20459.95;
+Verdant Shear Rod\241640.75\24425.27;
+Blazebringer Rod\233402.75\25837.42;
+No-Life Rod\211441.08\19939.31;
 Ethereal Prism Rod\201741.48\19422.67;
 Seraphic Rod\201116.52\18092.73;
 Depthseeker Rod\196063\19446.08;
-Challenger's Rod\195930.28\19782.09;
+Challenger's Rod\195930.28\18376.67;
 Avalanche Rod\194898.33\19394.05;
 Rod Of The Forgotten Fang\193719.94\17505.74;
 Volcanic Rod\193160.17\18563.72;
 Zeus Rod\192491.49\18499.46;
 Rod Of The Exalted One\192226.88\17394.1;
-Rod Of The Depths\192131.44\21431.09;
-Steady Rod\176034.87\16716.52
+Rod Of The Depths\192131.44\17625.96;
+Steady Rod\158820.16\16716.52
 |recommended   = Free Spirit Rod
 }}
 

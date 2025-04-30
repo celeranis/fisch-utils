@@ -4895,7 +4895,8 @@
 			"universal_luck": 40,
 			"lure": 50,
 			"resilience": 20,
-			"rarity": "Legendary"
+			"rarity": "Legendary",
+			"limited": true
 		},
 		"Super Flakes": {
 			"preferred_luck": 0,

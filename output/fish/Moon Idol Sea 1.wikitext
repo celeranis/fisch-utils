@@ -30,25 +30,25 @@ Blue Moon/First Sea
 |top_rods      = 
 Ethereal Prism Rod\658.28\12645.54;
 Seraphic Rod\644.15\13046.57;
-Leviathan's Fang Rod\631.45\13367.77;
+Leviathan's Fang Rod\631.45\12817.04;
 Tempest Rod\609.03\12820.63;
 No-Life Rod\601.75\12929.81;
 Resourceful Rod\481.04\9714.52;
-Destiny Rod\566.8\12120.59;
-Heaven's Rod\502.72\11161.64;
+Destiny Rod\536.9\12120.59;
+Heaven's Rod\487.26\11161.64;
 Rod Of The Forgotten Fang\580.41\12219.75;
 Challenger's Rod\578.45\12343.34;
 Rod Of The Depths\513.04\10771.44;
-Rod Of The Exalted One\511.49\11632.86;
+Rod Of The Exalted One\511.49\10546.84;
 Zeus Rod\481.78\10575.82;
 Verdant Shear Rod\476.43\10695.39;
-Free Spirit Rod\472.19\10202.73;
 Blazebringer Rod\468.2\10277.78;
-Trident Rod\460.43\9948.62;
+Free Spirit Rod\460.63\9838.4;
+Trident Rod\449.16\9593.37;
 Depthseeker Rod\441.55\9989.15;
 Avalanche Rod\397.74\9026.11;
 Volcanic Rod\380.15\8344.85;
-Steady Rod\147.62\2826.29
+Steady Rod\120.97\2826.29
 |recommended   = Ethereal Prism Rod
 }}
 

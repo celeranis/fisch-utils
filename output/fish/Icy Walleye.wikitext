@@ -27,11 +27,12 @@
 {{Fish Availability|
 Glacial Grotto
 |top_rods      = 
-Flimsy Rod\205482.9\192778.35;
 Training Rod\201923.08\201923.08;
 Champions Rod\167848.83\113526.56;
 Celestial Rod\165692.34\115361.08;
 Rapid Rod\163968.37\136883.45;
+Ice Warpers Rod\163939.41\114140.63;
+Flimsy Rod\147726.19\146975.81;
 Fungal Rod\153104.75\150246.13;
 Ethereal Prism Rod\149257.79\151352.65;
 Firefly Rod\163907.24\147994.13;

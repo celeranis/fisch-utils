@@ -29,7 +29,7 @@
 {{Fish Availability|
 Azure Lagoon
 |top_rods      = 
-Free Spirit Rod\611.14\5384.75;
+Free Spirit Rod\611.14\5206.1;
 Azure Of Lagoon\558.57\5113.7;
 Egg Rod\519.87\5023.81;
 Blazebringer Rod\489.74\4603.25;

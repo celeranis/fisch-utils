@@ -28,7 +28,7 @@
 {{Fish Availability|
 Lushgrove
 |top_rods      = 
-Free Spirit Rod\18443.06\163613.13;
+Free Spirit Rod\17925.09\139325.68;
 Egg Rod\16709.91\141813.44;
 Blazebringer Rod\15740.3\133908.47;
 Azure Of Lagoon\15733.07\133981.37;

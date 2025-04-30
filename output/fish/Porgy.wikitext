@@ -43,7 +43,7 @@ Champions Rod\75349.28\14660.16;
 Summit Rod\74953.48\14361.21;
 Celestial Rod\74921.16\14710.56;
 Training Rod\73810.3\15461.54;
-Flimsy Rod\63418.49\12682.06;
+Flimsy Rod\59773.31\10651.73;
 Resourceful Rod\70410.05\15154.24;
 Nocturnal Rod\52836.14\51723.16;
 Leviathan's Fang Rod\73919.1\19196.53;

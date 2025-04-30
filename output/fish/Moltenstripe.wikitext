@@ -29,17 +29,18 @@
 Emberreach/Surrounding Ocean
 |top_rods      = 
 Lucky Rod\297289.37\57057.75;
-Firefly Rod\295336.59\25335.2;
 Fungal Rod\291321.75\40403.88;
-Fischer's Rod\288550.64\153420.89;
-Plastic Rod\287460.78\152718.76;
-Candy Cane Rod\286407.07\151105.65;
-Nocturnal Rod\95907.34\97806.91;
-Fast Rod\278646.26\61045.19;
+Antler Rod\285716.27\39626.44;
+Firefly Rod\285451.32\24311.52;
+Fischer's Rod\274594.86\153420.89;
+Plastic Rod\264920.12\152718.76;
+Candy Cane Rod\248245\151105.65;
+Nocturnal Rod\95907.34\95244.99;
+Fast Rod\271848.79\61045.19;
 Free Spirit Rod\266244.76\15479.79;
 Trident Rod\229164.56\20655.27;
-Blazebringer Rod\217887.37\20950.15;
-Verdant Shear Rod\216004.84\21279.03;
+Blazebringer Rod\211339.43\20950.15;
+Verdant Shear Rod\210096.53\21279.03;
 No-Life Rod\188779.16\17980.49;
 Ethereal Prism Rod\184798.55\18454.23;
 Seraphic Rod\179022.19\16135.79;
@@ -48,10 +49,10 @@ Rod Of The Exalted One\171368.11\15609.09;
 Rod Of The Forgotten Fang\170809.59\15507.57;
 Depthseeker Rod\170467.7\17041.72;
 Avalanche Rod\168506.17\16887.69;
-Volcanic Rod\167028.35\17308.62;
+Volcanic Rod\167028.35\16239.06;
 Rod Of The Depths\166561.71\15492.27;
-Zeus Rod\166250.96\17249.35;
-Steady Rod\156760.37\14032.05
+Zeus Rod\166250.96\16163.48;
+Steady Rod\137527.95\13635.1
 |recommended   = Free Spirit Rod
 }}
 

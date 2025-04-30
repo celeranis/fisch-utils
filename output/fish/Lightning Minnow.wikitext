@@ -31,7 +31,8 @@ Training Rod\275109.17\74117.65;
 Leviathan's Fang Rod\216741.95\0;
 Trident Rod\214548.86\14161.75;
 Free Spirit Rod\210107.78\14126.48;
-Flimsy Rod\203299.4\41707.62;
+Azure Of Lagoon\202913.03\13840.59;
+Flimsy Rod\165343.44\30988.64;
 Egg Rod\185742.07\19913.08;
 Nocturnal Rod\114617.9\88759.99;
 No-Life Rod\200165.17\20111.25;
@@ -47,7 +48,7 @@ Rod Of The Forgotten Fang\176256.61\18224.22;
 Rod Of The Depths\176096.63\16554.96;
 Rod Of The Exalted One\170175\15933.46;
 Ethereal Prism Rod\169175.6\0;
-Steady Rod\85498.24\8464.27
+Steady Rod\85498.24\8295.69
 |recommended   = Training Rod
 }}
 

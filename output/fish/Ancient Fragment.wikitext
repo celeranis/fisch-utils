@@ -29,29 +29,29 @@ Ancient Isle/Surrounding Ocean
 |top_rods      = 
 Ethereal Prism Rod\26263.99\86181.23;
 Leviathan's Fang Rod\25812.38\100800.51;
-Seraphic Rod\25092.47\86655.3;
+Seraphic Rod\25092.47\86547.09;
 No-Life Rod\24297.7\89987.98;
 Rapid Rod\23988.53\126061.24;
-Lucky Rod\18591.47\129873.01;
-Resourceful Rod\21583.97\99438.48;
+Lucky Rod\17620.2\129873.01;
+Resourceful Rod\21583.97\88297.48;
 Flimsy Rod\15131.29\119580.53;
 Firefly Rod\22547.49\154070.87;
 Fast Rod\20807.03\150954.75;
 Fungal Rod\18755.4\124768.93;
 Training Rod\15036.04\90323.52;
-Rod Of The Forgotten Fang\23486.82\85992.19;
+Rod Of The Forgotten Fang\23486.82\85521.54;
 Challenger's Rod\22419.5\86180.58;
-Rod Of The Depths\21147.68\84506.56;
-Rod Of The Exalted One\20949.08\85258.39;
-Zeus Rod\20354.67\80915.48;
+Rod Of The Depths\21147.68\80410.08;
+Rod Of The Exalted One\20949.08\82432.51;
+Zeus Rod\20354.67\80076.28;
 Verdant Shear Rod\20350.01\86107.21;
-Trident Rod\20071.35\99557.71;
-Free Spirit Rod\20021.36\98817.76;
-Blazebringer Rod\19764.23\88337.85;
-Depthseeker Rod\18157.69\75389.66;
-Avalanche Rod\16433.33\70510.35;
-Volcanic Rod\15872.1\72950.48;
-Steady Rod\6566.88\26817.16
+Trident Rod\19829.62\99557.71;
+Blazebringer Rod\19764.23\83111.74;
+Free Spirit Rod\19682.24\98817.76;
+Depthseeker Rod\18157.69\72921.6;
+Avalanche Rod\16433.33\66300.61;
+Volcanic Rod\15872.1\63326.29;
+Steady Rod\6011.82\24586.82
 |recommended   = Ethereal Prism Rod
 }}
 

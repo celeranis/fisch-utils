@@ -28,15 +28,13 @@
 Mariana's Veil/Challenger's Deep
 |top_rods      = 
 Rapid Rod\312100.52\314638.7;
-Firefly Rod\300999.63\307251.91;
 Leviathan's Fang Rod\299882.83\267306.39;
-Fungal Rod\294912.04\296829.41;
+Firefly Rod\299288.67\301427.6;
 Trident Rod\293517.24\261242.26;
-Long Rod\261673.8\263564.63;
-Brick Built Rod\257067.94\258925.49;
-Frog Rod\271070.97\272792.94;
 Fast Rod\292162.91\294101.59;
-Wildflower Rod\279880.65\281771.78;
+Long Rod\241460.04\255717.22;
+Brick Built Rod\238082.29\252140.03;
+Frog Rod\271070.97\272792.94;
 Plastic Rod\257373.53\259567.88;
 Free Spirit Rod\280611.66\252940.99;
 No-Life Rod\239840.61\220863.96;
@@ -44,15 +42,15 @@ Seraphic Rod\219751.7\202075.21;
 Challenger's Rod\218537.2\194356.26;
 Ethereal Prism Rod\217813.22\197478.34;
 Rod Of The Forgotten Fang\216890.24\193383.15;
-Depthseeker Rod\216531.73\192487.86;
-Blazebringer Rod\216100.11\194790.83;
-Verdant Shear Rod\214709.65\193424.04;
-Rod Of The Exalted One\214546.28\191607.16;
-Rod Of The Depths\213875.61\190724.42;
-Zeus Rod\213551.97\190069.93;
-Avalanche Rod\203984.08\181309.15;
+Zeus Rod\210529.54\186712.95;
+Rod Of The Exalted One\209816.35\186937.64;
+Rod Of The Depths\207330.17\184308.04;
+Blazebringer Rod\205249.02\189649.68;
+Verdant Shear Rod\205217.35\189583.18;
 Volcanic Rod\196743.62\179850.8;
-Steady Rod\96085.19\86024.51
+Depthseeker Rod\196102.81\179265;
+Avalanche Rod\175170.24\169487.38;
+Steady Rod\90116.88\79613.28
 |recommended   = Trident Rod
 }}
 

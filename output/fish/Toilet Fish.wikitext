@@ -33,14 +33,14 @@ Open Ocean/Sea Leviathan
 Free Spirit Rod\544.34\5511.77;
 Egg Rod\424.37\4577.14;
 Verdant Shear Rod\416.86\4993.84;
-Azure Of Lagoon\399.71\4106.35;
 Blazebringer Rod\397.76\4325.37;
+Great Dreamer Rod\396.85\4285.18;
 Flimsy Rod\347.95\4910.68;
 Training Rod\353.4\3236.48;
 Resourceful Rod\341.08\3576.73;
 Plastic Rod\247.78\5267.37;
 Fischer's Rod\249.77\5048.65;
-Trident Rod\362\3517.09;
+Trident Rod\356.66\3517.09;
 Seraphic Rod\284.44\3067.93;
 Ethereal Prism Rod\283.09\3039.65;
 No-Life Rod\275.71\2957.77;

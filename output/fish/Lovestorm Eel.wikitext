@@ -31,10 +31,10 @@
 Lovestorm/Normal
 |top_rods      = 
 Tempest Rod\26991.92\85997.91;
-Challenger's Rod\26172.34\85156.71;
+Challenger's Rod\26172.34\85043.56;
 Seraphic Rod\25329.5\80257.11;
 Ethereal Prism Rod\23902.81\71749.72;
-Abyssal Specter Rod\21392.38\80637.48;
+Abyssal Specter Rod\21392.38\71954.42;
 Destiny Rod\13975.9\39114.85;
 Heaven's Rod\15165.75\43261.96;
 Rod Of The Depths\12927.48\40744.6;

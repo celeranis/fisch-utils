@@ -39,7 +39,7 @@ Flimsy Rod\370.51\4956.44;
 Resourceful Rod\322.6\3606.17;
 Plastic Rod\232.79\5316.1;
 Fischer's Rod\234.63\5095.47;
-Trident Rod\338.39\3547.98;
+Trident Rod\330.04\3547.98;
 Seraphic Rod\268.06\3094.88;
 Ethereal Prism Rod\266.99\3065.99;
 No-Life Rod\259.6\2984.15;

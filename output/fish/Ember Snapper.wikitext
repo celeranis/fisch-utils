@@ -27,7 +27,7 @@
 {{Fish Availability|
 Roslit Bay/Roslit Volcano
 |top_rods      = 
-Training Rod\298686.27\476103.38;
+Training Rod\295872.28\476103.38;
 Flimsy Rod\244062.35\201072.39;
 Rapid Rod\146542.06\132446.46;
 Ethereal Prism Rod\144220.18\172495.52;
@@ -47,9 +47,9 @@ Zeus Rod\119759.67\119759.67;
 Verdant Shear Rod\119759.67\119759.67;
 Rod Of The Depths\116583.05\116583.05;
 Blazebringer Rod\113848.15\113127.68;
-Magma Rod\110642.83\87097.94;
 Volcanic Rod\109865.4\90895.35;
 Rod Of The Exalted One\109643.66\109643.66;
+Magma Rod\100272.04\87097.94;
 Steady Rod\68546.21\49504.79
 |recommended   = Training Rod
 }}
