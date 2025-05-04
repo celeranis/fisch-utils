@@ -208,6 +208,25 @@ for lanternName, lanternEntry in pairs(lanternData) do
 end
 postData('lanterns', lanternData)
 
+--[[ UTILITY ABUNDANCES ]]
+local utilityAbundances = {}
+
+local utilityPools = workspace.UtilityPools.UtilityPools
+for _, pool in ipairs(utilityPools:GetChildren()) do
+	table.insert(utilityAbundances, {
+		type = pool.Name,
+		fish = pool:FindFirstChild('Abundance') and pool.Abundance.Value,
+		position = {
+			['$type'] = 'Vector3',
+			X = pool.Position.X,
+			Y = pool.Position.Y,
+			Z = pool.Position.Z,
+		},
+	})
+end
+
+postData(currentWorld == 'Sea 2' and 'utilityPools_sea2' or 'utilityPools', utilityAbundances)
+
 --[[ OTHER DATA ]]
 postModule(modules.library.bait, { 'Give' })
 postModule(modules.fishing.bobbers, { 'Owns', 'Give' })
@@ -229,6 +248,7 @@ postModule(modules.library.serverboosts, {})
 postModule(modules.library.fish.zones, {})
 postModule(modules.RodSkins, {})
 postModule(modules.SkinCrates, {})
+postModule(modules.Utilities, { 'GetUtilityCountByType', 'Give' })
 postModule(modules.Worlds, {})
 
 --[[ META ]]
