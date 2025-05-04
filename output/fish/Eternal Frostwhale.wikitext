@@ -31,14 +31,15 @@ Golden Tide
 Leviathan's Fang Rod\38326.86\207475.29;
 Free Spirit Rod\31593.93\201836.13;
 Trident Rod\31293.98\199919.9;
+Great Rod of Oscar\27026.96\106164.15;
 Ethereal Prism Rod\25760.87\112486.67;
-No-Life Rod\25645.01\142287.7;
 Resourceful Rod\19822.63\92899.16;
 Destiny Rod\20862.25\104942.29;
-Heaven's Rod\19585.78\103278.54;
+No-Life Rod\25645.01\142287.7;
 Azure Of Lagoon\20396.52\122581.53;
 Zeus Rod\20584.42\105434.11;
 Abyssal Specter Rod\19787.43\102860.54;
+Astralhook Rod\25743.97\111917.97;
 Seraphic Rod\24850.43\115564.49;
 Rod Of The Forgotten Fang\23337.43\113981.94;
 Challenger's Rod\22514.06\113194.14;

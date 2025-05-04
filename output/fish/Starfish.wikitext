@@ -28,12 +28,11 @@
 Ancient Isle/Surrounding Ocean
 |top_rods      = 
 Training Rod\110218.7\254771.38;
+Astralhook Rod\87180.36\116320.68;
 Ethereal Prism Rod\85888.17\122396.54;
 Fast Rod\84335\76061;
 Flimsy Rod\81568.89\71356.13;
-Fungal Rod\80881.17\56067.63;
 Leviathan's Fang Rod\78597.36\81735.34;
-Kraken Rod\67235.41\74996.25;
 Fortune Rod\46460.46\61992.73;
 No-Life Rod\79769.03\72263.34;
 Seraphic Rod\79455.01\71978.86;

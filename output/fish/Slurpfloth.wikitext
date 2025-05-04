@@ -40,6 +40,7 @@ North-Star Rod\173965\173231.88;
 Event Horizon Rod\173119.22\173897.31;
 Astral Rod\173119.22\173897.31;
 Blazebringer Rod\226682.47\208980.23;
+Astralhook Rod\190304.84\188985.45;
 No-Life Rod\171686.86\168309.87;
 Seraphic Rod\145091.63\142736.29;
 Ethereal Prism Rod\142407.99\140341.3;

@@ -30,8 +30,8 @@ Atlantis/Sunken Depths
 Leviathan's Fang Rod\79923.02\135294.56;
 Free Spirit Rod\69853.14\122746.83;
 Trident Rod\68315.28\120044.49;
+Great Rod of Oscar\60617.27\78688.14;
 Krampus's Rod\59291.87\66000.86;
-Ethereal Prism Rod\57792.28\84484.23;
 Plastic Rod\49643.51\55252.03;
 Buddy Bond Rod\37884.64\48894.3;
 No-Life Rod\56105.24\93318.24;
@@ -39,6 +39,8 @@ Seraphic Rod\55807.28\86497.68;
 Lucky Rod\31723.65\61422.94;
 Long Rod\33514.25\60185.85;
 Brick Built Rod\32605.41\58820.63;
+Ethereal Prism Rod\57792.28\84484.23;
+Astralhook Rod\57767.52\81961.96;
 Rod Of The Forgotten Fang\52118.93\80155.93;
 Challenger's Rod\50510.61\77220.2;
 Rod Of The Depths\46741.25\69787.38;

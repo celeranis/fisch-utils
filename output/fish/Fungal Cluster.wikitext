@@ -28,13 +28,12 @@
 Mushgrove Swamp
 |top_rods      = 
 Flimsy Rod\75448.89\58294.15;
+Astralhook Rod\68542.58\101132.32;
 Ethereal Prism Rod\64884.88\75715.62;
 Fast Rod\62992.34\51777.43;
 Training Rod\61790.03\122667.27;
-No-Life Rod\61764.57\50768.25;
 Heaven's Rod\52415.99\99473.31;
-Leviathan's Fang Rod\60044.34\54268.66;
-Fortune Rod\36527.85\53895.65;
+No-Life Rod\61764.57\50768.25;
 Seraphic Rod\61521.42\50568.39;
 Challenger's Rod\56311.33\46285.88;
 Rod Of The Forgotten Fang\56177.71\46176.05;

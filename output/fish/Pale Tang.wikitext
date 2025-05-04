@@ -46,6 +46,7 @@ Challenger's Rod\458933.45\333729.33;
 Volcanic Rod\453932.67\234537.56;
 Rod Of The Forgotten Fang\399410.25\332306.77;
 Rod Of The Depths\398875.5\300823.68;
+Astralhook Rod\367251.15\311729.9;
 Rod Of The Exalted One\358187.98\283011.56;
 Steady Rod\172794.3\115535.16
 |recommended   = Trident Rod

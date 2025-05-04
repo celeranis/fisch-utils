@@ -28,10 +28,10 @@
 Mushgrove Swamp
 |top_rods      = 
 Trident Rod\151798.77\98684.58;
+Fang of the Eclipse\148144.98\126151.93;
 Azure Of Lagoon\148108.68\95578.68;
 Rapid Rod\147229.04\129871.74;
 Free Spirit Rod\147093.56\98346.69;
-Summit Rod\146728.9\100738.41;
 Training Rod\133161.35\136064.15;
 Flimsy Rod\97928.41\96925.51;
 Resourceful Rod\135905.32\97664.65;
@@ -39,6 +39,7 @@ Ethereal Prism Rod\138952.15\157174.33;
 Leviathan's Fang Rod\146293.84\151773.2;
 No-Life Rod\145763.01\139146.22;
 Seraphic Rod\137688.64\137688.64;
+Astralhook Rod\139957.18\137397.27;
 Kraken Rod\113690.01\133261.63;
 Depthseeker Rod\145270.26\107406.07;
 Avalanche Rod\142733.38\97654.52;

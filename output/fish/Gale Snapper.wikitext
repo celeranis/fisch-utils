@@ -28,14 +28,17 @@
 {{Fish Availability|
 Waveborne
 |top_rods      = 
-Training Rod\417206.77\161681.55;
-Flimsy Rod\413020.14\200240.38;
+Training Rod\545089.29\NaN;
+Flimsy Rod\513437.5\583392.86;
 Free Spirit Rod\308325.33\17660.62;
 Azure Of Lagoon\273865.55\26938.51;
-Firefly Rod\263625.59\24820.88;
+Astralhook Rod\270236.87\0;
 Fischer's Rod\257781.61\23497.57;
-Nocturnal Rod\134568.86\126521.88;
-Egg Rod\258583.21\26763.36;
+Great Dreamer Rod\246426.53\25725.43;
+Lobster Rod\255613.69\25679.62;
+Firefly Rod\263625.59\24820.88;
+Plastic Rod\263054.72\24241.36;
+Brick Built Rod\220783.59\22479.33;
 Verdant Shear Rod\250988.88\25896.34;
 Trident Rod\249459.59\21348.94;
 Blazebringer Rod\245754.21\25444.59;

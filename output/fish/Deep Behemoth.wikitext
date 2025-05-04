@@ -40,6 +40,7 @@ Buddy Bond Rod\25756.16\63947.78;
 Carbon Rod\24592.45\69912.25;
 Rod Of Time\30614.8\78141.7;
 Seraphic Rod\52669.19\113285.55;
+Astralhook Rod\52068.78\111609.11;
 Ethereal Prism Rod\51954.29\108909.29;
 Challenger's Rod\50127.38\114983.7;
 Rod Of The Forgotten Fang\48168.05\106861.94;

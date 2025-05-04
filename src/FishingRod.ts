@@ -303,6 +303,35 @@ export const RodPassiveData: Record<string, RodPassiveEffects> = {
 		stats: {
 			xp_multiply: 1.25
 		}
+	},
+	'Fang of the Eclipse': {
+		stats: {
+			luck: 250,
+			lure: 99,
+			progress_speed: 0.5,			
+			resilience: -60,
+			strength: Number.MAX_SAFE_INTEGER,
+			add_weight: -0.125, // 50% 0.5; 50% 1.75
+			conditions: [{
+				check: 'conditions',
+				property: 'weather',
+				values: ['Eclipse']
+			}]
+		}
+	},
+	'Astralhook Rod': {
+		stats: {
+			progress_speed: 0.15
+		}
+	},
+	'Great Rod of Oscar': {
+		stats: {
+			progress_speed: 0.3,
+			xp_multiply: 1.25
+		}
+	},
+	'Carrot Rod': {
+		states: ['Active']
 	}
 }
 

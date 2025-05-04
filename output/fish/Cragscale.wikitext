@@ -36,6 +36,7 @@ North-Star Rod\276689.28\487826.28;
 Resourceful Rod\191291.23\530405.65;
 Rod Of Time\218988.25\511262.11;
 Relic Rod\218988.25\511262.11;
+Astralhook Rod\198533.29\386645.05;
 Free Spirit Rod\183311.79\338890.58;
 Verdant Shear Rod\157651.54\499780;
 Blazebringer Rod\147629.47\313893.84;
@@ -51,7 +52,7 @@ Volcanic Rod\90015.68\204389.68;
 Depthseeker Rod\89752.34\206315.02;
 Zeus Rod\89693.79\203658.81;
 Avalanche Rod\88846.89\205324.74
-|recommended   = Free Spirit Rod
+|recommended   = Astralhook Rod
 }}
 
 == Catch Quips ==

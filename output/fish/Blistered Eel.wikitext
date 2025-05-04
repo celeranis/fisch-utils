@@ -40,6 +40,7 @@ Fast Rod\172375.38\167228.69;
 Seraphic Rod\182624.26\177185.1;
 Tempest Rod\176368.22\171115.38;
 Rapid Rod\171973.23\166839.16;
+Astralhook Rod\178460.15\19471.85;
 Ethereal Prism Rod\175850.47\89924.53;
 Challenger's Rod\167886.54\162153.67;
 Depthseeker Rod\167478.76\138013.81;

@@ -29,16 +29,17 @@
 Fischmas/Winter Village
 |top_rods      = 
 Magnet Rod\170243.75\170741.08;
+Great Rod of Oscar\40694\85726.75;
 Leviathan's Fang Rod\40430.02\114138.26;
+Astralhook Rod\38336.42\90236.76;
 Ethereal Prism Rod\38262.03\88836.1;
-Seraphic Rod\36683.84\88386.87;
-No-Life Rod\36185.27\89572.7;
 Resourceful Rod\29586.4\70760.59;
-Destiny Rod\30915.59\79979.36;
 Trident Rod\35421.18\97035.22;
 Free Spirit Rod\33679.35\92263.54;
 Lucky Rod\21523.94\64192.92;
 Fortune Rod\24015.45\68614.39;
+Seraphic Rod\36683.84\88386.87;
+No-Life Rod\36185.27\89572.7;
 Rod Of The Forgotten Fang\34312.78\83194.9;
 Challenger's Rod\33018.76\83155;
 Rod Of The Depths\30804.94\75906.86;

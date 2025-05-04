@@ -27,17 +27,18 @@
 {{Fish Availability|
 Waveborne
 |top_rods      = 
+Astralhook Rod\144928.24\296584.27;
 Trident Rod\140618.83\83173.87;
 Leviathan's Fang Rod\124343.74\72461.19;
 Firefly Rod\120600.83\116358;
-Brother's Rod\118014.45\98111.89;
-No-Life Rod\115486.42\98113.37;
+Great Rod of Oscar\119833.75\102679.13;
 Plastic Rod\108694.93\107367.97;
 Fischer's Rod\109373.83\109194.77;
-Long Rod\105210.09\94353.6;
+Carrot Rod\116685.32\116685.32;
+Fang of the Eclipse\114405.95\114405.95;
 Egg Rod\114441.5\109936.89;
+No-Life Rod\115486.42\98113.37;
 Verdant Shear Rod\112498.35\106182.04;
-Resourceful Rod\95746.48\89819.9;
 Free Spirit Rod\105386.48\90172.73;
 Blazebringer Rod\102696.61\100236.57;
 Challenger's Rod\101803.79\85816.21;
@@ -51,7 +52,7 @@ Rod Of The Depths\97560.82\80004.74;
 Rod Of The Exalted One\87418.61\61996.69;
 Ethereal Prism Rod\85461.59\65166.63;
 Steady Rod\81595.04\74334.58
-|recommended   = Verdant Shear Rod
+|recommended   = Astralhook Rod
 }}
 
 == Catch Quips ==

@@ -27,11 +27,11 @@
 {{Fish Availability|
 Snowcap Island/Surrounding Ocean
 |top_rods      = 
+Astralhook Rod\44226.54\77272.5;
 Ethereal Prism Rod\42451.69\63681.98;
 Leviathan's Fang Rod\40441.85\44951.6;
 No-Life Rod\40211.97\40211.97;
 Seraphic Rod\39661.03\39661.03;
-Celestial Rod\39373.78\31883.99;
 Training Rod\36192.45\49946.44;
 Fortune Rod\23430.62\40937.91;
 Challenger's Rod\36303.88\36303.88;

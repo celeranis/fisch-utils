@@ -30,16 +30,17 @@
 Open Ocean
 Open Ocean/Sea Leviathan
 |top_rods      = 
+Great Rod of Oscar\591.9\5208.27;
+Astralhook Rod\559.63\5279.13;
 Free Spirit Rod\544.34\5511.77;
-Egg Rod\424.37\4577.14;
-Verdant Shear Rod\416.86\4993.84;
-Blazebringer Rod\397.76\4325.37;
-Great Dreamer Rod\396.85\4285.18;
-Flimsy Rod\347.95\4910.68;
-Training Rod\353.4\3236.48;
+Carrot Rod\484.39\5001.44;
+Fang of the Eclipse\481.13\5195.25;
+Flimsy Rod\367.2\26948.05;
+Training Rod\370.15\43116.88;
 Resourceful Rod\341.08\3576.73;
 Plastic Rod\247.78\5267.37;
-Fischer's Rod\249.77\5048.65;
+Verdant Shear Rod\416.86\4993.84;
+Blazebringer Rod\397.76\4325.37;
 Trident Rod\356.66\3517.09;
 Seraphic Rod\284.44\3067.93;
 Ethereal Prism Rod\283.09\3039.65;
@@ -53,7 +54,7 @@ Volcanic Rod\235.18\2518.29;
 Avalanche Rod\233.68\2468.38;
 Zeus Rod\232.03\2484.53;
 Steady Rod\224.6\2203.23
-|recommended   = Free Spirit Rod
+|recommended   = Astralhook Rod
 }}
 
 == Gameplay Notes ==

@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Carrot Turtle.png
+|rarity         = Legendary
+|sea            = Second Sea
+|location       = [[Carrot Garden]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -35
+|xp             = 8000
+|weather        = Clear
+|time           = 
+|season         = Spring
+|bait           = 
+|base_weight    = 24
+|base_value     = 8000
+|weight_range   = 16
+|base_chance    = 20
+|base_resil     = 35
+}}
+'''Carrot Turtle''' is a {{Rarity|Legendary}} fish found in [[Carrot Garden]].
+
+== Description ==
+{{Description|A serene turtle with a natural green shell, ambling peacefully.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in the vibrant carrot pool!|Bestiary Hint}}
+{{Fish Availability|
+Lushgrove/Carrot Garden
+|top_rods      = 
+Steady Rod\163007.81\206142.02;
+Frostfire Rod\153161.7\193690.49;
+Krampus's Rod\133133.17\183852.23;
+Magma Rod\129933.71\173700.88;
+Plastic Rod\126048.65\169640.34;
+Astralhook Rod\91307.99\221418.87;
+Great Rod of Oscar\98513.97\220705.11;
+Carrot Rod\80494.46\213384.09;
+Free Spirit Rod\86764.11\211142.65;
+Fang of the Eclipse\75268.07\210709.71;
+Trident Rod\70244.84\156276.41;
+Verdant Shear Rod\68402.96\192821.08;
+Blazebringer Rod\66625.76\184003.46;
+No-Life Rod\46838.69\128548.51;
+Ethereal Prism Rod\46189.04\130222.25;
+Seraphic Rod\45340.71\127810.92;
+Rod Of The Exalted One\43071.88\119757.53;
+Rod Of The Forgotten Fang\42742.44\120908.76;
+Challenger's Rod\42035.16\121943.33;
+Rod Of The Depths\41693.66\119203.97;
+Volcanic Rod\40227.76\118466.11;
+Depthseeker Rod\40055.17\119802.2;
+Zeus Rod\40023.32\117864.05;
+Avalanche Rod\39690.74\118899.98
+|recommended   = Astralhook Rod
+}}
+
+== Catch Quips ==
+When catching a Carrot Turtle, the player has a chance to make one of the following exclamations:
+* A CARROT TURTLE!
+* CARROT SHELL!
+* SLOW BUT STEADY!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Carrot Garden}}

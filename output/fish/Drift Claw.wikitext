@@ -30,14 +30,16 @@ Waveborne
 |top_rods      = 
 Free Spirit Rod\292295\159898.06;
 Azure Of Lagoon\259693.13\243898.82;
+Astralhook Rod\246236.02\0;
+Fang of the Eclipse\246044.44\252758.88;
 Leviathan's Fang Rod\245262.36\218553.66;
-Trident Rod\242254.72\199498.13;
-Fischer's Rod\242220.2\202421.24;
 Plastic Rod\239270.36\201301.61;
+Fischer's Rod\242220.2\202421.24;
 Lucky Rod\187635.81\189080.41;
 Egg Rod\237006.24\237002.23;
 Verdant Shear Rod\229581.32\228496.8;
 Great Dreamer Rod\225959.5\227335.5;
+Trident Rod\242254.72\199498.13;
 Blazebringer Rod\227904.41\225323.93;
 No-Life Rod\203359.44\172767.32;
 Ethereal Prism Rod\195479.34\178440.1;

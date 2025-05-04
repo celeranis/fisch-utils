@@ -40,6 +40,7 @@ Training Rod\57284.42\102911.96;
 Buddy Bond Rod\91901.19\128525.21;
 Free Spirit Rod\117032.63\126194.62;
 Ethereal Prism Rod\112210.41\92135.61;
+Astralhook Rod\112078.28\92360.37;
 No-Life Rod\109501.26\100716.42;
 Seraphic Rod\108983.65\92834.9;
 Rod Of The Forgotten Fang\102008.82\91496.16;

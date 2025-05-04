@@ -28,17 +28,18 @@
 {{Fish Availability|
 Azure Lagoon
 |top_rods      = 
+Great Rod of Oscar\78199.34\177973.96;
+Astralhook Rod\73770.6\178903;
+Fang of the Eclipse\66204.37\179626.77;
+Carrot Rod\59746.65\154587.17;
 Free Spirit Rod\56393.29\150076.46;
-Egg Rod\51596.58\140806.79;
-Azure Of Lagoon\49131.77\138598.22;
-Blazebringer Rod\48210.82\129359.53;
-Great Dreamer Rod\47209.62\128089.92;
 Magma Rod\31174.69\100249.15;
 Krampus's Rod\43467.35\78816.16;
 Steady Rod\26074.55\78375.38;
 Firefly Rod\37593.58\141704.23;
 Carbon Rod\24436.03\96579.6;
 North-Star Rod\24562.85\96507.76;
+Blazebringer Rod\48210.82\129359.53;
 Verdant Shear Rod\46899.69\127989.02;
 Trident Rod\38703.32\105621.16;
 Seraphic Rod\37327.65\101866.96;
@@ -52,7 +53,7 @@ Rod Of The Depths\28765.47\79689.57;
 Avalanche Rod\27383.09\79736.65;
 Volcanic Rod\27236.43\77871.79;
 Zeus Rod\26449.8\75622.75
-|recommended   = Free Spirit Rod
+|recommended   = Astralhook Rod
 }}
 
 == Catch Quips ==

@@ -38,6 +38,7 @@ Lucky Rod\166076.17\194001.35;
 Candy Cane Rod\153983.48\179709.63;
 Fast Rod\157309.53\183563.09;
 Blazebringer Rod\154239.18\166946.54;
+Astralhook Rod\144706.09\168235.72;
 No-Life Rod\94072.4\110551.84;
 Seraphic Rod\90478.65\107008.51;
 Challenger's Rod\85352.38\109940.53;

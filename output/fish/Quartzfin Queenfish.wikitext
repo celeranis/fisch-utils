@@ -46,6 +46,7 @@ Blazebringer Rod\310622.23\61939.07;
 Challenger's Rod\309609.33\70341.16;
 Zeus Rod\307824.87\65591;
 Ethereal Prism Rod\306259.86\0;
+Astralhook Rod\304290.27\0;
 Rod Of The Depths\302951.72\63937.11;
 Rod Of The Forgotten Fang\302124.79\70174.25;
 Volcanic Rod\301681.29\49823.11;

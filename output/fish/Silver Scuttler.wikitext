@@ -42,6 +42,7 @@ Zeus Rod\143823.5\165921.56;
 Seraphic Rod\148457.44\143855.76;
 Rod Of The Forgotten Fang\146851.5\147530.38;
 Ethereal Prism Rod\145901.21\24970.34;
+Astralhook Rod\145082.14\0;
 Rod Of The Depths\144052.57\157683.56;
 Depthseeker Rod\143551.77\143304.53;
 Rod Of The Exalted One\143358.16\92467.15;

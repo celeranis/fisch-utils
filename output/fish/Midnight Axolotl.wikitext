@@ -29,15 +29,15 @@
 Desolate Deep/Desolate Pocket
 |top_rods      = 
 Leviathan's Fang Rod\6033.53\35034.04;
+Great Rod of Oscar\5866.93\32714.45;
+Astralhook Rod\5709.89\32077.03;
 Ethereal Prism Rod\5656.09\31794.07;
 Seraphic Rod\5653.23\31964.6;
-No-Life Rod\5593.21\31838.44;
-Tempest Rod\5509.97\31290.97;
 Training Rod\5164.85\27251.16;
 Flimsy Rod\4794.85\26319.27;
-Resourceful Rod\4129.95\23392.07;
-Free Spirit Rod\5489.02\31838.43;
+No-Life Rod\5593.21\31838.44;
 Lucky Rod\2999.95\18636.26;
+Free Spirit Rod\5489.02\31838.43;
 Trident Rod\5334.06\30939.61;
 Challenger's Rod\5246.56\29841.39;
 Rod Of The Forgotten Fang\5176.77\29291.05;

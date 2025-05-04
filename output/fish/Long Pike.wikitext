@@ -26,7 +26,7 @@
 == Obtainment ==
 {{Fish Availability|
 Atlantis/Surrounding Ocean
-LEGO Pool/Studalodon Hunt
+LEGO Pool/Studolodon Hunt
 Lucky Event/Blarney McBreeze
 Lucky Event/O'Mango Goldgrin
 Lucky Event/Plumrick O'Luck
@@ -40,15 +40,16 @@ Whale Migration/Moby
 Whale Migration/Normal
 |top_rods      = 
 Leviathan's Fang Rod\1102.21\4922.13;
+Great Rod of Oscar\1051.6\3510.92;
+Astralhook Rod\1002.16\3636.57;
 Ethereal Prism Rod\1001.37\3671.71;
 Trident Rod\979.3\4857.97;
-Seraphic Rod\972.72\3788.47;
-No-Life Rod\972.17\3975.12;
 Flimsy Rod\729.71\3885.37;
 Training Rod\707.2\4101.96;
-Lucky Rod\644.23\3211.44;
 Free Spirit Rod\941.4\4669.97;
+No-Life Rod\972.17\3975.12;
 Fischer's Rod\531.96\2712.26;
+Seraphic Rod\972.72\3788.47;
 Rod Of The Forgotten Fang\911.6\3694.64;
 Challenger's Rod\887.23\3640.64;
 Rod Of The Depths\822.73\3577.47;

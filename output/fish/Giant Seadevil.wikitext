@@ -28,18 +28,20 @@
 {{Fish Availability|
 Mariana's Veil/Abyssal Zenith
 |top_rods      = 
+Great Rod of Oscar\58540.34\228007.83;
+Astralhook Rod\52830.84\234843.69;
 Ethereal Prism Rod\51050.19\223468.39;
 Leviathan's Fang Rod\50863.3\248788.44;
 Seraphic Rod\49646.03\233964.92;
-Tempest Rod\47497.67\234466.45;
-No-Life Rod\45297.26\229654.26;
 Destiny Rod\38295.13\155143.32;
 Heaven's Rod\35644.61\149440.77;
-Fortune Rod\25101.59\113537.57;
 Free Spirit Rod\37993.42\276377.27;
-Challenger's Rod\45034.85\232894.53;
+Fang of the Eclipse\43846.96\241983.47;
+Tempest Rod\47497.67\234466.45;
 Trident Rod\35611.42\225984.81;
 Shamrock Rod\28328.76\138523.41;
+No-Life Rod\45297.26\229654.26;
+Challenger's Rod\45034.85\232894.53;
 Rod Of The Forgotten Fang\43123.24\204052.17;
 Rod Of The Exalted One\36778.35\167214.1;
 Rod Of The Depths\35217.85\170877.84;

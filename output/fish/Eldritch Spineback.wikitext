@@ -38,6 +38,7 @@ Fischer's Rod\162511.15\163360.6;
 Adventurer's Rod\158547.47\159376.2;
 Fast Rod\163653.85\163653.85;
 No-Life Rod\161138.62\157863.64;
+Astralhook Rod\158279.22\158279.22;
 Seraphic Rod\156146.79\156146.79;
 Ethereal Prism Rod\154703.89\154703.89;
 Challenger's Rod\147797.36\142733.56;

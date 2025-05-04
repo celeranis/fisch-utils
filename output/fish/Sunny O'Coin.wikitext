@@ -29,18 +29,19 @@
 Lucky Event/Sunny O'Coin
 |top_rods      = 
 Leviathan's Fang Rod\15424.82\45505.41;
+Great Rod of Oscar\15001.7\38021.94;
+Astralhook Rod\14131.94\37919.32;
 Ethereal Prism Rod\13889.28\37414.88;
 Seraphic Rod\13704.23\38336.85;
-Tempest Rod\13195.13\37960.15;
-No-Life Rod\13115.61\38301.84;
 Resourceful Rod\10213.32\26695.81;
 Destiny Rod\10507.29\27174.51;
-Heaven's Rod\9679.02\25678.55;
 Free Spirit Rod\12335.41\45495.56;
 Trident Rod\11031.09\39794.81;
+Fang of the Eclipse\12420.18\38650.48;
 Fischer's Rod\5886.18\21977.96;
 Adventurer's Rod\5721.15\21361.76;
 Plastic Rod\5905.16\21876.79;
+No-Life Rod\13115.61\38301.84;
 Challenger's Rod\12571.64\37740.3;
 Rod Of The Forgotten Fang\12219.08\34336.09;
 Rod Of The Exalted One\10470.9\28788.11;

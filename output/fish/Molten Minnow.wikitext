@@ -31,10 +31,11 @@ Roslit Bay/Ashfall
 |top_rods      = 
 Training Rod\582692.61\518292.85;
 Flimsy Rod\433692.91\385760.74;
+Astralhook Rod\161577.75\110315.87;
 No-Life Rod\161175.85\156375.5;
 Fast Rod\160904.04\156099.86;
-Seraphic Rod\160313.97\155539.29;
 Leviathan's Fang Rod\159106.41\182618.58;
+Seraphic Rod\160313.97\155539.29;
 Ethereal Prism Rod\159223.54\149200.12;
 Trident Rod\155205.77\109447.51;
 Free Spirit Rod\152975.13\109252.94;

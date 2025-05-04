@@ -38,6 +38,7 @@ Adventurer's Rod\97076.69\214318.05;
 Magnet Rod\68113.15\192842.55;
 Heaven's Rod\68400.55\170302.49;
 Trident Rod\86170.08\72960.56;
+Astralhook Rod\84774.52\141463.15;
 Ethereal Prism Rod\84706.25\124408.33;
 Seraphic Rod\82119.79\67896.65;
 No-Life Rod\82069.56\71040.83;

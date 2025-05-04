@@ -29,17 +29,19 @@
 Ancient Isle/Freshwater Pond
 |top_rods      = 
 Leviathan's Fang Rod\126273.11\1006336.98;
+Great Rod of Oscar\111845.7\569728.74;
 Free Spirit Rod\104814.3\735326.31;
+Astralhook Rod\104038.86\594730.72;
 Ethereal Prism Rod\103981.55\594571.63;
-Trident Rod\102221.83\717138.77;
-Seraphic Rod\99464.95\596077.09;
 Lucky Rod\69681.97\461223.13;
 Training Rod\67193.68\273400.77;
 Frog Rod\71654.72\529794.42;
 Rapid Rod\96574.63\784773.15;
 Firefly Rod\85722.8\725406;
+Trident Rod\102221.83\717138.77;
 Fast Rod\77863.26\711986.82;
 Fischer's Rod\56581.8\478814.91;
+Seraphic Rod\99464.95\596077.09;
 No-Life Rod\97499.4\661886.69;
 Rod Of The Forgotten Fang\92651.36\583747.66;
 Challenger's Rod\88229.53\593866.56;

@@ -30,14 +30,15 @@ Forsaken Shores/Surrounding Ocean
 Leviathan's Fang Rod\57274.69\273016.11;
 Free Spirit Rod\47099.75\231379.93;
 Trident Rod\46062.82\226285.98;
+Great Rod of Oscar\40670.11\151573.96;
 Ethereal Prism Rod\39013.51\157127.9;
-No-Life Rod\38733.63\187656.78;
 Flimsy Rod\34416.92\107973.05;
 Resourceful Rod\29732.13\128807.21;
-Destiny Rod\30876.88\137580.02;
-Seraphic Rod\37903.72\157223.8;
+No-Life Rod\38733.63\187656.78;
+Astralhook Rod\38902.07\157433.07;
 Buddy Bond Rod\16599.13\82451.34;
 Fast Rod\27428.59\135905.43;
+Seraphic Rod\37903.72\157223.8;
 Rod Of The Forgotten Fang\35349.75\154299.9;
 Challenger's Rod\34452.26\156801.71;
 Rod Of The Depths\31646.02\138977.05;

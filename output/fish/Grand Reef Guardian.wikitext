@@ -27,19 +27,20 @@
 {{Fish Availability|
 Grand Reef
 |top_rods      = 
+Great Rod of Oscar\61708.27\172876.83;
 Leviathan's Fang Rod\58593.49\225680.38;
+Astralhook Rod\58553.07\181997.66;
 Ethereal Prism Rod\57554\175409.23;
 Seraphic Rod\57071.32\184070.13;
-Tempest Rod\55170.11\187120.16;
-No-Life Rod\55054.9\189076.02;
 Resourceful Rod\42247.84\130847.95;
 Destiny Rod\43808.9\125800.63;
-Heaven's Rod\40125.15\134605.43;
 Free Spirit Rod\54589.64\232764.29;
 Trident Rod\47749.36\203598.1;
+Fang of the Eclipse\51811.82\196657.31;
 Challenger's Rod\52479.22\189275.65;
 Riptide Rod\41033.58\140742.99;
 Frog Rod\30141.96\99813.86;
+No-Life Rod\55054.9\189076.02;
 Rod Of The Forgotten Fang\51231.94\169750.43;
 Rod Of The Depths\44219.44\142853.86;
 Rod Of The Exalted One\43973.83\138749.58;

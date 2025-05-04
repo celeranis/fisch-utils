@@ -29,16 +29,16 @@
 {{Fish Availability|
 Waveborne
 |top_rods      = 
+Great Rod of Oscar\1348.47\5756.69;
+Astralhook Rod\1236.33\5920.82;
+Fang of the Eclipse\1014.13\6574.12;
+Carrot Rod\995.59\5604.02;
 Free Spirit Rod\939.78\6731.07;
-Egg Rod\839.93\5448.01;
-Azure Of Lagoon\795.52\4968.86;
-Blazebringer Rod\793.59\4974.59;
-Great Dreamer Rod\780.12\4989.44;
 Resourceful Rod\724.6\4742.79;
 Plastic Rod\543.99\6189.58;
 Fischer's Rod\552.27\6330.25;
-Firefly Rod\672.92\5547.49;
 Lucky Rod\507.46\4484.28;
+Blazebringer Rod\793.59\4974.59;
 Verdant Shear Rod\778.84\5024.86;
 Trident Rod\635.07\4347.1;
 Seraphic Rod\584.18\3944.96;
@@ -53,7 +53,7 @@ Volcanic Rod\447.95\3110.96;
 Avalanche Rod\444.93\3051.42;
 Zeus Rod\438.69\3042.22;
 Steady Rod\422.5\2732.48
-|recommended   = Free Spirit Rod
+|recommended   = Astralhook Rod
 }}
 
 == Gameplay Notes ==

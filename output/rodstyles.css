@@ -30,17 +30,18 @@
 }
 
 /* The following is auto-generated based on in-game data */
-/* Last update: Version [[1.30]], place version 4341 */
+/* Last update: Version [[1.31]], place version 4348 */
 
 .item-abyssal-specter-rod { --item-color: 81 222 135; --item-bg-color: 12 32 19 }
 .item-adventurers-rod { --item-color: 154 170 190; --item-bg-color: 22 24 27 }
 .item-antler-rod { --item-color: 140 98 86; --item-bg-color: 20 14 12 }
 .item-arctic-rod { --item-color: 146 179 218; --item-bg-color: 21 26 31 }
 .item-astral-rod { --item-color: 105 26 241; --item-bg-color: 15 4 34 }
+.item-astralhook-rod { --item-color: 168 112 0; --item-bg-color: 24 16 0 }
+.item-azure-of-lagoon { --item-color: 61 71 255; --item-bg-color: 9 10 36 }
 .item-auric-rod { --item-color: 148 19 43; --item-bg-color: 21 3 6 }
 .item-aurora-rod { --item-color: 46 255 185; --item-bg-color: 7 36 26 }
 .item-avalanche-rod { --item-color: 98 155 222; --item-bg-color: 14 22 32 }
-.item-azure-of-lagoon { --item-color: 61 71 255; --item-bg-color: 9 10 36 }
 .item-blazebringer-rod { --item-color: 255 136 0; --item-bg-color: 36 19 0 }
 .item-brick-built-rod { --item-color: 255 0 0; --item-bg-color: 36 0 0 }
 .item-brick-rod { --item-color: 245 90 90; --item-bg-color: 35 13 13 }
@@ -48,6 +49,7 @@
 .item-buddy-bond-rod { --item-color: 145 255 115; --item-bg-color: 21 36 16 }
 .item-candy-cane-rod { --item-color: 185 37 37; --item-bg-color: 26 5 5 }
 .item-carbon-rod { --item-color: 155 190 255; --item-bg-color: 22 27 36 }
+.item-carrot-rod { --item-color: 255 175 38; --item-bg-color: 36 25 5 }
 .item-celestial-rod { --item-color: 19 145 255; --item-bg-color: 3 21 36 }
 .item-challengers-rod { --item-color: 4 175 236; --item-bg-color: 1 25 34 }
 .item-champions-rod { --item-color: 219 163 3; --item-bg-color: 31 23 0 }
@@ -58,6 +60,7 @@
 .item-egg-rod { --item-color: 239 175 255; --item-bg-color: 34 25 36 }
 .item-ethereal-prism-rod { --item-color: 255 170 255; --item-bg-color: 36 24 36 }
 .item-event-horizon-rod { --item-color: 255 184 5; --item-bg-color: 36 26 1 }
+.item-fang-of-the-eclipse { --item-color: 168 112 0; --item-bg-color: 24 16 0 }
 .item-fast-rod { --item-color: 255 101 101; --item-bg-color: 36 14 14 }
 .item-firefly-rod { --item-color: 255 255 73; --item-bg-color: 36 36 10 }
 .item-firework-rod { --item-color: 156 25 25; --item-bg-color: 22 4 4 }
@@ -72,6 +75,7 @@
 .item-frostfire-rod { --item-color: 144 240 255; --item-bg-color: 21 34 36 }
 .item-fungal-rod { --item-color: 78 255 78; --item-bg-color: 11 36 11 }
 .item-great-dreamer-rod { --item-color: 18 92 89; --item-bg-color: 3 13 13 }
+.item-great-rod-of-oscar { --item-color: 225 182 11; --item-bg-color: 32 26 2 }
 .item-haunted-rod { --item-color: 94 255 105; --item-bg-color: 13 36 15 }
 .item-heavens-rod { --item-color: 190 140 24; --item-bg-color: 27 20 3 }
 .item-ice-warpers-rod { --item-color: 110 189 247; --item-bg-color: 16 27 35 }
@@ -79,6 +83,7 @@
 .item-kraken-rod { --item-color: 124 49 50; --item-bg-color: 18 7 7 }
 .item-krampuss-rod { --item-color: 255 66 91; --item-bg-color: 36 9 13 }
 .item-leviathans-fang-rod { --item-color: 104 164 190; --item-bg-color: 15 23 27 }
+.item-lobster-rod { --item-color: 171 0 0; --item-bg-color: 24 0 0 }
 .item-long-rod { --item-color: 220 204 167; --item-bg-color: 31 29 24 }
 .item-lucky-rod { --item-color: 188 255 190; --item-bg-color: 27 36 27 }
 .item-magma-rod { --item-color: 255 122 55; --item-bg-color: 36 17 8 }
@@ -112,6 +117,7 @@
 .item-stone-rod { --item-color: 110 110 120; --item-bg-color: 16 16 17 }
 .item-summit-rod { --item-color: 80 202 230; --item-bg-color: 11 29 33 }
 .item-sunken-rod { --item-color: 145 255 115; --item-bg-color: 21 36 16 }
+.item-zeus-rod { --item-color: 245 205 48; --item-bg-color: 35 29 7 }
 .item-tempest-rod { --item-color: 55 253 255; --item-bg-color: 8 36 36 }
 .item-the-lost-rod { --item-color: 64 255 102; --item-bg-color: 9 36 15 }
 .item-training-rod { --item-color: 100 198 207; --item-bg-color: 14 28 30 }
@@ -122,7 +128,6 @@
 .item-voyager-rod { --item-color: 204 181 255; --item-bg-color: 29 26 36 }
 .item-wildflower-rod { --item-color: 103 255 159; --item-bg-color: 15 36 23 }
 .item-wisdom-rod { --item-color: 92 81 7; --item-bg-color: 13 12 1 }
-.item-zeus-rod { --item-color: 245 205 48; --item-bg-color: 35 29 7 }
 
 
 .item.no-rarity a,

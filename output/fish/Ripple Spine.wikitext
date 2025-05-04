@@ -31,14 +31,14 @@ Waveborne
 Trident Rod\186381.41\153486.15;
 Leviathan's Fang Rod\174516.21\95477.26;
 Free Spirit Rod\165816.32\109071.84;
+Astralhook Rod\161622.82\177934;
 Azure Of Lagoon\154287.24\104434.13;
-Firefly Rod\144933.31\135231.44;
 Resourceful Rod\114600.25\105541.5;
 Long Rod\118226.4\112884.45;
-Fungal Rod\121458.49\121373.17;
-Egg Rod\143673.41\132122.05;
+Carrot Rod\140228.44\140228.44;
+Fang of the Eclipse\148147.47\137344.16;
+Firefly Rod\144933.31\135231.44;
 Verdant Shear Rod\141045.24\127632.6;
-Great Dreamer Rod\142620.31\124005.6;
 No-Life Rod\140909.95\119712.35;
 Blazebringer Rod\137468.2\120464.23;
 Seraphic Rod\126366.9\104063.86;

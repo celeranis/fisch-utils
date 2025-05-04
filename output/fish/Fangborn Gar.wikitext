@@ -27,13 +27,14 @@
 {{Fish Availability|
 Vertigo/Vertigos Dip
 |top_rods      = 
+Astralhook Rod\153025.49\254449.55;
 Ethereal Prism Rod\147612.7\220010.07;
 Leviathan's Fang Rod\146871.86\164802.5;
 No-Life Rod\144006.33\144006.33;
 Trident Rod\143031.83\105399.59;
-Seraphic Rod\140814.24\140814.24;
 Fortune Rod\80727.69\134233.35;
 Kraken Rod\116320.89\140967.21;
+Seraphic Rod\140814.24\140814.24;
 Free Spirit Rod\134173.62\104481.34;
 Challenger's Rod\128777.91\128777.91;
 Rod Of The Forgotten Fang\128196.05\128196.05;

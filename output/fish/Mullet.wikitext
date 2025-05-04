@@ -29,7 +29,7 @@ Ancient Isle/Algae Hunt
 Ancient Isle/Surrounding Ocean
 Atlantis/Surrounding Ocean
 Forsaken Shores/Algae Hunt
-LEGO Pool/Studalodon Hunt
+LEGO Pool/Studolodon Hunt
 Lovestorm/Normal
 Lovestorm/Supercharged
 Lucky Event/Blarney McBreeze
@@ -65,6 +65,7 @@ No-Life Rod\245383.88\212556.01;
 Training Rod\197757.22\206153.85;
 Flimsy Rod\169391\145128.89;
 Rapid Rod\230903.22\232271.28;
+Fang of the Eclipse\234937.22\222021.51;
 Riptide Rod\221119.4\219199.41;
 Verdant Shear Rod\223969.84\218496.44;
 Wisdom Rod\213099.21\209846.35;
@@ -72,6 +73,7 @@ Phoenix Rod\209670.96\206470.42;
 Long Rod\192266.8\181512.05;
 Seraphic Rod\238671.9\209520.57;
 Rod Of The Forgotten Fang\233288.45\189518.05;
+Astralhook Rod\232727.29\22694.1;
 Ethereal Prism Rod\232498.86\109324.25;
 Challenger's Rod\231721.71\186178.4;
 Rod Of The Exalted One\228364.33\172311.72;

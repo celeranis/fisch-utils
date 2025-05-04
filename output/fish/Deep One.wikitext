@@ -41,6 +41,7 @@ Brick Built Rod\72169.9\88123.72;
 Free Spirit Rod\107458.63\94963.82;
 No-Life Rod\103458.75\81571.73;
 Ethereal Prism Rod\103121.58\75444.02;
+Astralhook Rod\102949.3\75835.35;
 Seraphic Rod\102097.72\76036.14;
 Rod Of The Forgotten Fang\95822.59\73393.43;
 Challenger's Rod\94026.01\73295.13;

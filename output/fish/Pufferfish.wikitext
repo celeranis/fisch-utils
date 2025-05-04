@@ -47,6 +47,7 @@ Buddy Bond Rod\57553.96\56995.61;
 Training Rod\55802.33\152079.07;
 No-Life Rod\78445.85\74072.4;
 Ethereal Prism Rod\77936.16\70584.21;
+Astralhook Rod\77922.9\70493.7;
 Seraphic Rod\77128.97\70599.53;
 Rod Of The Forgotten Fang\72642.36\69604.67;
 Challenger's Rod\71660.66\69815.1;

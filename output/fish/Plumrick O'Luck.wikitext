@@ -30,16 +30,17 @@ Lucky Event/Plumrick O'Luck
 |top_rods      = 
 Leviathan's Fang Rod\20687.11\53625.95;
 Free Spirit Rod\18037.31\51306.27;
+Great Rod of Oscar\17614.96\36216.5;
 Trident Rod\17033.3\48450.38;
-Ethereal Prism Rod\16702.87\36246.95;
-Seraphic Rod\16299.13\36576.75;
+Astralhook Rod\16726.46\36172.65;
 Resourceful Rod\12725.16\28261.82;
 Destiny Rod\13071.69\27601.49;
-Heaven's Rod\12104.96\29305.84;
 No-Life Rod\16142.98\38667.18;
+Seraphic Rod\16299.13\36576.75;
 Lucky Rod\8737.71\20957.98;
 Brick Built Rod\9089.55\23962.13;
 Fungal Rod\10342.62\28486.75;
+Ethereal Prism Rod\16702.87\36246.95;
 Challenger's Rod\15068.78\36214.25;
 Rod Of The Forgotten Fang\15026.65\34930.09;
 Rod Of The Depths\13192.49\30079.27;

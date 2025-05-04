@@ -30,7 +30,7 @@ Atlantis/Surrounding Ocean
 FischFright/Frightful Pool
 Forsaken Shores/Algae Hunt
 Golden Tide
-LEGO Pool/Studalodon Hunt
+LEGO Pool/Studolodon Hunt
 Lovestorm/Normal
 Lovestorm/Supercharged
 Lucky Event/Blarney McBreeze
@@ -63,6 +63,7 @@ Fischer's Rod\101771.35\184890.98;
 Adventurer's Rod\100296.4\182211.4;
 Buddy Bond Rod\105422.45\172510.43;
 Free Spirit Rod\110550.13\149882.23;
+Astralhook Rod\106667.16\161805.7;
 Ethereal Prism Rod\106624.07\124250.91;
 No-Life Rod\103468.86\118453.44;
 Seraphic Rod\103259\110165.04;

@@ -42,8 +42,8 @@ Shark Hunt/Whale Shark
 Leviathan's Fang Rod\193196.87\0;
 Krampus's Rod\190280.36\33186;
 Magma Rod\184453.19\37199.59;
+Great Rod of Oscar\182930.57\26612.84;
 Trident Rod\180938.67\0;
-Free Spirit Rod\178748.83\0;
 Plastic Rod\168456.74\32948.9;
 Buddy Bond Rod\125139.29\23594.04;
 Nocturnal Rod\101055.53\142399.7;
@@ -52,6 +52,8 @@ Challenger's Rod\161379.63\53258.52;
 Blazebringer Rod\144217.64\51797.66;
 Tempest Rod\170149.69\51771.11;
 Training Rod\135785.34\38665.92;
+Free Spirit Rod\178748.83\0;
+Astralhook Rod\177020.5\0;
 Ethereal Prism Rod\176600.11\0;
 Seraphic Rod\174199.33\0;
 Rod Of The Forgotten Fang\163967.52\7918.31;

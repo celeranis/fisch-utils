@@ -27,15 +27,15 @@
 {{Fish Availability|
 Sunstone Island
 |top_rods      = 
+Great Rod of Oscar\36003.75\110801.77;
+Astralhook Rod\32512.66\112085.56;
 Ethereal Prism Rod\32264.06\112279.31;
 Leviathan's Fang Rod\31514.59\132134.62;
 Seraphic Rod\30246.11\113329.56;
-No-Life Rod\28801.99\117290.08;
-Tempest Rod\28450.22\113092.59;
 Resourceful Rod\25318.89\93797.12;
 Destiny Rod\26965.35\110117.49;
-Heaven's Rod\23548.79\108254.42;
 Trident Rod\22464.53\118054.4;
+No-Life Rod\28801.99\117290.08;
 Free Spirit Rod\22567.69\117176.98;
 Firefly Rod\22328.17\113545.69;
 Flimsy Rod\13935.44\103814.91;

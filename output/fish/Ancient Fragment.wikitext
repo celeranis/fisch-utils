@@ -27,18 +27,20 @@
 {{Fish Availability|
 Ancient Isle/Surrounding Ocean
 |top_rods      = 
+Great Rod of Oscar\28610.65\84776.83;
+Astralhook Rod\26412.92\86008.2;
 Ethereal Prism Rod\26263.99\86181.23;
 Leviathan's Fang Rod\25812.38\100800.51;
 Seraphic Rod\25092.47\86547.09;
-No-Life Rod\24297.7\89987.98;
-Rapid Rod\23988.53\126061.24;
 Lucky Rod\17620.2\129873.01;
 Resourceful Rod\21583.97\88297.48;
 Flimsy Rod\15131.29\119580.53;
 Firefly Rod\22547.49\154070.87;
 Fast Rod\20807.03\150954.75;
+Rapid Rod\23988.53\126061.24;
 Fungal Rod\18755.4\124768.93;
 Training Rod\15036.04\90323.52;
+No-Life Rod\24297.7\89987.98;
 Rod Of The Forgotten Fang\23486.82\85521.54;
 Challenger's Rod\22419.5\86180.58;
 Rod Of The Depths\21147.68\80410.08;

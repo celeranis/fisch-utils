@@ -42,6 +42,7 @@ Tempest Rod\233312.79\227527.58;
 Rapid Rod\224021.01\223842.74;
 Challenger's Rod\226977.89\215865.09;
 Ethereal Prism Rod\225156.65\12241.28;
+Astralhook Rod\223706.5\5013.95;
 Rod Of The Forgotten Fang\222802.59\215352.87;
 Rod Of The Depths\221735.28\196191.58;
 Zeus Rod\220174.2\201287.66;

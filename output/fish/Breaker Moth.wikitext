@@ -36,6 +36,7 @@ Krampus's Rod\119595.82\146104.07;
 Free Spirit Rod\104456.3\195382.66;
 Adventurer's Rod\68849.47\165009.61;
 Firefly Rod\71338.19\162189.68;
+Astralhook Rod\97015.7\136364.12;
 Verdant Shear Rod\72306.46\121599.64;
 Blazebringer Rod\70548.71\117149.65;
 Trident Rod\70270.96\118574.41;

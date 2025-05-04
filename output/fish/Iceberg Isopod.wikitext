@@ -40,6 +40,7 @@ Free Spirit Rod\280611.66\252940.99;
 No-Life Rod\239840.61\220863.96;
 Seraphic Rod\219751.7\202075.21;
 Challenger's Rod\218537.2\194356.26;
+Astralhook Rod\218146.65\200034.97;
 Ethereal Prism Rod\217813.22\197478.34;
 Rod Of The Forgotten Fang\216890.24\193383.15;
 Zeus Rod\210529.54\186712.95;

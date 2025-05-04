@@ -46,6 +46,7 @@ Zeus Rod\212931.77\163499.31;
 Blazebringer Rod\210610.99\162659.04;
 Verdant Shear Rod\210396.38\163211.8;
 Ethereal Prism Rod\207940.42\53255.07;
+Astralhook Rod\205778.88\8575.44;
 Volcanic Rod\204402.32\157863.96;
 Depthseeker Rod\203914.99\155452.72;
 Avalanche Rod\201945.35\144346.61;

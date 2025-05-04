@@ -29,16 +29,17 @@
 {{Fish Availability|
 Lovestorm/Supercharged
 |top_rods      = 
+Great Rod of Oscar\24650.91\68617.52;
+Fang of the Eclipse\22470.18\77147.42;
+Astralhook Rod\22458.15\69006.17;
 Tempest Rod\21852.68\69680.5;
 Challenger's Rod\21527.68\69011.44;
-Seraphic Rod\15285.91\48540.66;
-Summit Rod\14674.23\49012.47;
-Abyssal Specter Rod\13952.28\45755.96;
 Destiny Rod\373.37\1054.82;
 Heaven's Rod\5252.09\15126.14;
-Ethereal Prism Rod\12006.09\36159.11;
+Carrot Rod\2937.55\9342.26;
 Krampus's Rod\-0.1\-0.14;
-Rod Of The Depths\-0.09\-0.13;
+Seraphic Rod\15285.91\48540.66;
+Ethereal Prism Rod\12006.09\36159.11;
 Rod Of The Forgotten Fang\6500.55\20190.48;
 No-Life Rod\4912.63\15834.35;
 Depthseeker Rod\3200.89\10759.14;
@@ -46,6 +47,7 @@ Rod Of The Exalted One\1134.11\3422.79;
 Steady Rod\0\0;
 Avalanche Rod\-0.08\-0.11;
 Volcanic Rod\-0.09\-0.13;
+Rod Of The Depths\-0.09\-0.13;
 Zeus Rod\-0.14\-0.2;
 Trident Rod\-0.17\-0.25
 |recommended   = Challenger's Rod

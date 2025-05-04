@@ -27,14 +27,15 @@
 {{Fish Availability|
 Mariana's Veil/Calm Zone
 |top_rods      = 
+Astralhook Rod\260009.51\0;
 Ethereal Prism Rod\258126.67\70314.75;
 Fast Rod\256286.98\65377.36;
 No-Life Rod\256110.06\65328.06;
 Summit Rod\255682.1\47652.24;
-Seraphic Rod\254927.27\65026.36;
 Resourceful Rod\246429.84\45549.83;
 Wildflower Rod\242392.6\42069.78;
 Nocturnal Rod\169487.05\142809.64;
+Seraphic Rod\254927.27\65026.36;
 Fischer's Rod\184972.19\49169.96;
 Depthseeker Rod\252861.27\50771.23;
 Verdant Shear Rod\251490.54\55599.38;

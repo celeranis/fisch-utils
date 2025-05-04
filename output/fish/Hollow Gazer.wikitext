@@ -38,6 +38,7 @@ Adventurer's Rod\219161.87\222620.4;
 Fast Rod\215336.13\215336.13;
 Firefly Rod\209684.26\200460.53;
 No-Life Rod\199998.67\199045.73;
+Astralhook Rod\199488.49\199488.49;
 Seraphic Rod\196364.1\196364.1;
 Ethereal Prism Rod\195014.28\195014.28;
 Challenger's Rod\181324.74\179621.85;

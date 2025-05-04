@@ -1,0 +1,36 @@
+{{FishInfobox
+|image          = Azureback Haddock School.png
+|rarity         = Uncommon
+|sea            = Second Sea
+|location       = [[Net Fishing]]
+|sublocation    = 
+|sources        = Fishing Net
+|radar_location = 
+|xp             = 240
+|weather        = Foggy
+|time           = Day
+|season         = Winter, Spring
+|bait           = 
+|base_weight    = 75
+|base_value     = 430
+|weight_range   = 57
+|base_chance    = 80
+|base_resil     = 85
+}}
+'''Azureback Haddock School''' is an {{Rarity|Uncommon}} fish found in [[Net Fishing]].
+
+== Description ==
+{{Description|A school of awesome fish!|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Caught in oceans using a net.|Bestiary Hint}}
+
+== Catch Quips ==
+When catching an Azureback Haddock School, the player has a chance to make one of the following exclamations:
+* Wow, that's a lot of them!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Net Fishing}}

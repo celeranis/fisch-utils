@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Carrot Pufferfish.png
+|rarity         = Common
+|sea            = Second Sea
+|location       = [[Carrot Garden]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = +25
+|xp             = 500
+|weather        = 
+|time           = 
+|season         = Spring
+|bait           = 
+|base_weight    = 3.6
+|base_value     = 500
+|weight_range   = 2
+|base_chance    = 85
+|base_resil     = 103
+}}
+'''Carrot Pufferfish''' is a {{Rarity|Common}} fish found in [[Carrot Garden]].
+
+== Description ==
+{{Description|A cute pufferfish with carrot-dusted scales and green fins, puffing in the roots.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in the vibrant carrot pool!|Bestiary Hint}}
+{{Fish Availability|
+Lushgrove/Carrot Garden
+|top_rods      = 
+Free Spirit Rod\239431.39\147013.73;
+Azure Of Lagoon\235131.95\241657.24;
+Fang of the Eclipse\221197.26\224001.88;
+Lobster Rod\220300.83\212350.72;
+Great Dreamer Rod\217763.65\220524.73;
+Flimsy Rod\179780.2\179318.29;
+Training Rod\189143.44\143974.29;
+Egg Rod\216780.5\214011.77;
+Verdant Shear Rod\215801.29\213045.06;
+Blazebringer Rod\215134.1\210556.82;
+Astralhook Rod\211018.2\0;
+Trident Rod\210353.91\186534.63;
+No-Life Rod\189318.52\173077.23;
+Ethereal Prism Rod\186221.62\187160.14;
+Seraphic Rod\183210.49\162464.78;
+Depthseeker Rod\178722.26\169062.83;
+Challenger's Rod\178492.61\162587.2;
+Avalanche Rod\178157.77\168929.81;
+Rod Of The Exalted One\177671.88\164530.45;
+Rod Of The Forgotten Fang\177238.3\157630.7;
+Volcanic Rod\177001.96\163940.1;
+Zeus Rod\176559.17\163529.98;
+Rod Of The Depths\176396.15\158428.2;
+Steady Rod\145310.2\136732.49
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Carrot Pufferfish, the player has a chance to make one of the following exclamations:
+* A Carrot Pufferfish!
+* Puffing up so big!
+* Carrot spots galore!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Carrot Garden}}

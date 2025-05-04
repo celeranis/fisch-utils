@@ -29,19 +29,21 @@
 {{Fish Availability|
 Orca Migration/Ancient
 |top_rods      = 
+Great Rod of Oscar\2045.26\6092.41;
+Astralhook Rod\1961.21\6508.4;
 Leviathan's Fang Rod\1926.07\7060.69;
 Seraphic Rod\1920.83\6647.25;
 Ethereal Prism Rod\1902.72\6193.72;
-Tempest Rod\1888.63\6607.08;
-No-Life Rod\1820.99\6187.66;
 Destiny Rod\1357.3\4023.75;
 Heaven's Rod\1294.83\3951.87;
-Fortune Rod\907\2801.63;
 Free Spirit Rod\1727\7582.32;
-Challenger's Rod\1807.38\6508.13;
+Fang of the Eclipse\1811.83\6826.32;
+Tempest Rod\1888.63\6607.08;
 Riptide Rod\1276.18\4361.91;
 Abyssal Specter Rod\1589.35\5988.35;
 Zeus Rod\1340.73\4638.08;
+No-Life Rod\1820.99\6187.66;
+Challenger's Rod\1807.38\6508.13;
 Rod Of The Forgotten Fang\1670.09\5659.38;
 Trident Rod\1412.12\6199.82;
 Rod Of The Exalted One\1390.11\4502.98;

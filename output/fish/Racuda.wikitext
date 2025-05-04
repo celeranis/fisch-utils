@@ -32,14 +32,14 @@ Animal Hunt/Second Sea
 Trident Rod\125217.66\88859.26;
 Firefly Rod\116579.17\124593.35;
 Leviathan's Fang Rod\109413.92\57605.48;
-Wildflower Rod\95478.15\94143.15;
-Brick Built Rod\95366.66\69175.7;
+Astralhook Rod\108906.18\223534.57;
+Great Rod of Oscar\96598.5\95763.23;
 Long Rod\89938.08\89938.08;
 Fungal Rod\92691.29\92691.29;
+Wildflower Rod\95478.15\94143.15;
 No-Life Rod\94598.57\93451.15;
 Adventurer's Rod\79914.86\84873.95;
 Fischer's Rod\74676.81\78897.06;
-Plastic Rod\73684.21\78508.4;
 Free Spirit Rod\88426.56\71666.07;
 Verdant Shear Rod\87690.8\83010.84;
 Blazebringer Rod\81030.25\78494.03;
@@ -54,7 +54,7 @@ Zeus Rod\75212.74\74964.29;
 Rod Of The Exalted One\68479.67\48520.12;
 Ethereal Prism Rod\68142.27\51153.95;
 Steady Rod\62894.74\62894.74
-|recommended   = Free Spirit Rod
+|recommended   = Astralhook Rod
 }}
 
 == Catch Quips ==

@@ -30,8 +30,8 @@ Atlantis/Ethereal Abyss
 Leviathan's Fang Rod\88993.23\132357.8;
 Trident Rod\76415.61\122916.03;
 Free Spirit Rod\71683.06\115303.62;
+Great Rod of Oscar\65942.73\77978.74;
 Krampus's Rod\65397.18\74070.02;
-Ethereal Prism Rod\63757.27\78420.72;
 Plastic Rod\56470.13\63941.19;
 Magma Rod\62076.59\70309.06;
 No-Life Rod\61971.81\83637.05;
@@ -39,6 +39,8 @@ Firefly Rod\49601.36\78925.1;
 Lucky Rod\35349.85\60755.54;
 Long Rod\37117.93\58541.77;
 Brick Built Rod\36098.39\57198.07;
+Ethereal Prism Rod\63757.27\78420.72;
+Astralhook Rod\63663.78\78108.3;
 Seraphic Rod\61684.97\78658.54;
 Rod Of The Forgotten Fang\57652.53\76297.16;
 Challenger's Rod\55947.58\76391.6;

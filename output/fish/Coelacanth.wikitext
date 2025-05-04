@@ -30,7 +30,7 @@ Atlantis/Surrounding Ocean
 FischFright/Frightful Pool
 Forsaken Shores/Algae Hunt
 Golden Tide
-LEGO Pool/Studalodon Hunt
+LEGO Pool/Studolodon Hunt
 Lovestorm/Normal
 Lovestorm/Supercharged
 Megalodon Hunt/Eclipse and Weekend
@@ -54,6 +54,7 @@ Buddy Bond Rod\31538.82\40938.65;
 Training Rod\27360.18\81039.11;
 Free Spirit Rod\35772.01\43933.53;
 Ethereal Prism Rod\33797.43\34534.56;
+Astralhook Rod\33787.06\42070.32;
 No-Life Rod\33227.97\36020.35;
 Seraphic Rod\32943.11\34504.24;
 Rod Of The Forgotten Fang\30847.94\33182.64;

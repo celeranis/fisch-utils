@@ -47,6 +47,7 @@ Challenger's Rod\160361.83\19218.27;
 Seraphic Rod\151652.16\20980.49;
 Rod Of The Depths\148910.32\17404.9;
 Rod Of The Forgotten Fang\146158.22\19159.86;
+Astralhook Rod\145720.82\0;
 Ethereal Prism Rod\145041.13\0;
 Rod Of The Exalted One\136793.62\16348.16;
 Steady Rod\78303.82\8649.72

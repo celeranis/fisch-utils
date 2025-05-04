@@ -28,14 +28,15 @@
 {{Fish Availability|
 Blue Moon/First Sea
 |top_rods      = 
+Great Rod of Oscar\755.43\13294.38;
+Astralhook Rod\684.42\13074.75;
 Ethereal Prism Rod\658.28\12645.54;
 Seraphic Rod\644.15\13046.57;
 Leviathan's Fang Rod\631.45\12817.04;
-Tempest Rod\609.03\12820.63;
-No-Life Rod\601.75\12929.81;
 Resourceful Rod\481.04\9714.52;
 Destiny Rod\536.9\12120.59;
-Heaven's Rod\487.26\11161.64;
+No-Life Rod\601.75\12929.81;
+Tempest Rod\609.03\12820.63;
 Rod Of The Forgotten Fang\580.41\12219.75;
 Challenger's Rod\578.45\12343.34;
 Rod Of The Depths\513.04\10771.44;

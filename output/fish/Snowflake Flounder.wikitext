@@ -31,9 +31,11 @@ Fischmas/Winter Village
 Krampus's Rod\89468.39\153739.55;
 Magma Rod\86655.53\148906.42;
 Plastic Rod\79134.35\135982.23;
+Great Rod of Oscar\61980.5\82371.75;
 Fast Rod\60461.14\127485.72;
 Buddy Bond Rod\58785.51\115699.03;
 Flimsy Rod\39669\119981.97;
+Astralhook Rod\58795.02\84037.67;
 Ethereal Prism Rod\58529.88\82098.23;
 Seraphic Rod\56516.21\82325.21;
 No-Life Rod\55656.04\84558.3;

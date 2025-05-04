@@ -38,6 +38,7 @@ Buddy Bond Rod\163540.55\226353.55;
 Free Spirit Rod\180445.8\156772.53;
 Trident Rod\162067.83\161757.73;
 Blazebringer Rod\154999.4\160271.38;
+Astralhook Rod\154676.67\0;
 Verdant Shear Rod\153956.57\166386.1;
 No-Life Rod\140088.69\139855.77;
 Seraphic Rod\134313.11\134056.12;

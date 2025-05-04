@@ -28,10 +28,10 @@
 Atlantis/Sunken Depths
 |top_rods      = 
 Trident Rod\163595.21\100959.38;
+Fang of the Eclipse\160292.32\130395.68;
 Free Spirit Rod\160208.85\100707.91;
 Summit Rod\159212.31\110990.94;
 Champions Rod\157548.97\110930.54;
-Wisdom Rod\157161.27\110650.44;
 Training Rod\151807.23\152119.31;
 Flimsy Rod\109298.5\107165.31;
 Firefly Rod\152227.06\129825.37;
@@ -43,6 +43,7 @@ Kraken Rod\122557.22\139269.5;
 Depthseeker Rod\156880.88\111066.86;
 Verdant Shear Rod\155322.05\121348.27;
 Avalanche Rod\154800.59\108244.06;
+Astralhook Rod\150632.99\112185.05;
 Blazebringer Rod\149946.44\114445.29;
 Zeus Rod\148877.41\121271.03;
 Volcanic Rod\145374.91\92031.64;

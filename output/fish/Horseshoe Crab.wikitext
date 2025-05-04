@@ -45,6 +45,7 @@ Avalanche Rod\53452.65\43229.57;
 Rod Of The Forgotten Fang\52483.25\46276.58;
 Volcanic Rod\52226.66\42892;
 Rod Of The Depths\51270.53\40957.92;
+Astralhook Rod\51244.22\0;
 Ethereal Prism Rod\51217.4\6035.83;
 Rod Of The Exalted One\47622.06\33139.15;
 Steady Rod\28249.22\23215.29

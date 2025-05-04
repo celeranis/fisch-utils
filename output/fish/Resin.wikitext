@@ -29,16 +29,16 @@
 {{Fish Availability|
 Mushgrove Swamp
 |top_rods      = 
+Great Rod of Oscar\2086.45\6630.42;
+Astralhook Rod\1932.72\6761.56;
 Ethereal Prism Rod\1920.83\6774.86;
 Leviathan's Fang Rod\1886.58\7964.09;
 Seraphic Rod\1841.87\6924.25;
-No-Life Rod\1790.21\7247.98;
-Tempest Rod\1755.44\6871.46;
 Resourceful Rod\1476.12\5617.49;
 Destiny Rod\1572.98\6586.32;
-Heaven's Rod\1480.88\6501.55;
 Trident Rod\1452.74\7664.49;
 Free Spirit Rod\1445.95\7628.69;
+No-Life Rod\1790.21\7247.98;
 Training Rod\854.96\4775.58;
 Flimsy Rod\952\5483.48;
 Fischer's Rod\898.77\4531.67;

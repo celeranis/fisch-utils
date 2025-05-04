@@ -29,13 +29,15 @@
 Isle of New Beginnings
 |top_rods      = 
 Free Spirit Rod\397373.14\294981.26;
+Astralhook Rod\357316.1\120013.05;
+Great Rod of Oscar\354099.24\256304.92;
 Azure Of Lagoon\351707.73\297638.01;
-Firefly Rod\341620.09\340415.75;
-Egg Rod\336804.92\282270.27;
-Leviathan's Fang Rod\328906.19\283113.33;
+Carrot Rod\351422.47\300651.64;
 Lucky Rod\266849.44\273470.94;
 Brick Built Rod\289151.18\301875.66;
 Long Rod\258840.81\255693.7;
+Firefly Rod\341620.09\340415.75;
+Fang of the Eclipse\349405.12\299698.26;
 Rapid Rod\260816.75\260816.75;
 Verdant Shear Rod\326780.63\273634.45;
 Trident Rod\326005.94\282759.09;

@@ -41,6 +41,7 @@ Ethereal Prism Rod\175818.74\36154.78;
 Depthseeker Rod\193863.68\28248.39;
 Avalanche Rod\180696.4\25206.7;
 Verdant Shear Rod\177209.27\30657.41;
+Astralhook Rod\174883.73\0;
 Challenger's Rod\173161.36\33261.69;
 Zeus Rod\171333.49\30690.91;
 Blazebringer Rod\168426.54\29016;

@@ -41,6 +41,7 @@ Lucky Rod\50630.97\499148.73;
 Fungal Rod\43204.99\496235.29;
 Steady Rod\89452.02\109024.31;
 Free Spirit Rod\79058.21\231945.51;
+Astralhook Rod\76990.47\209271.06;
 Verdant Shear Rod\56174.99\178736.47;
 Blazebringer Rod\55064.85\171513.76;
 Trident Rod\53934.94\155117.72;

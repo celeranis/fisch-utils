@@ -29,15 +29,15 @@
 Snowcap Island/Freshwater Pond
 |top_rods      = 
 Leviathan's Fang Rod\98107.8\472012.35;
+Great Rod of Oscar\93860.04\271830.46;
+Astralhook Rod\87722.64\285961.92;
 Ethereal Prism Rod\87542.59\284495.04;
 Seraphic Rod\83361.8\292956.14;
-No-Life Rod\80088.29\321971.6;
-Tempest Rod\78398.7\287141.28;
 Resourceful Rod\67606.36\229704.16;
 Destiny Rod\70676.2\222086.91;
-Heaven's Rod\62944.27\254313.21;
 Free Spirit Rod\76829.37\463601.46;
 Trident Rod\73810.95\445387.79;
+No-Life Rod\80088.29\321971.6;
 Azure Of Lagoon\57339.81\254174.29;
 Challenger's Rod\73150.68\285412.35;
 Rod Of The Forgotten Fang\77032.99\283911.84;

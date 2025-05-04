@@ -31,7 +31,7 @@ Atlantis/Surrounding Ocean
 FischFright/Frightful Pool
 Forsaken Shores/Algae Hunt
 Golden Tide
-LEGO Pool/Studalodon Hunt
+LEGO Pool/Studolodon Hunt
 Lovestorm/Normal
 Lovestorm/Supercharged
 Lucky Event/Blarney McBreeze
@@ -75,6 +75,7 @@ No-Life Rod\135916.88\26935.46;
 Seraphic Rod\130017.28\23598.89;
 Zeus Rod\126537.04\26927.52;
 Rod Of The Forgotten Fang\125958.15\21350.32;
+Astralhook Rod\125868.66\0;
 Rod Of The Depths\125343.93\19047.31;
 Verdant Shear Rod\124645.17\24998.89;
 Ethereal Prism Rod\124404.11\0;

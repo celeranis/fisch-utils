@@ -35,6 +35,7 @@ Antler Rod\298537.12\298537.12;
 Adventurer's Rod\232951.15\232951.15;
 Trident Rod\199881.34\178776.71;
 Free Spirit Rod\195252.76\125216.84;
+Astralhook Rod\174632.33\92156.19;
 Verdant Shear Rod\161878.77\147799.05;
 Blazebringer Rod\161155.43\141968.95;
 No-Life Rod\154917.93\145869.51;

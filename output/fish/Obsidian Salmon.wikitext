@@ -28,14 +28,15 @@
 Roslit Bay/Roslit Volcano
 |top_rods      = 
 Leviathan's Fang Rod\56830.11\181626.59;
+Great Rod of Oscar\46574.62\110488.7;
+Astralhook Rod\42770.36\110308.82;
 Ethereal Prism Rod\42697.1\110895.3;
 Free Spirit Rod\41317.43\170543.35;
-Trident Rod\40295.49\166325.13;
-Seraphic Rod\39978.16\110924.58;
 Flimsy Rod\38974.44\616694.35;
 Training Rod\33330.51\534883.72;
-Resourceful Rod\33551.69\87667.45;
+Trident Rod\40295.49\166325.13;
 Lucky Rod\22494.8\75584.88;
+Seraphic Rod\39978.16\110924.58;
 No-Life Rod\39016.59\121752.69;
 Rod Of The Forgotten Fang\37094.03\105398.32;
 Challenger's Rod\35066.63\105302.49;

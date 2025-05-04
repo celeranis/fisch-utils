@@ -29,18 +29,18 @@ Snowcap Island/Freshwater Pond
 |top_rods      = 
 Trident Rod\197247.99\121389.25;
 Free Spirit Rod\187548.37\120822.77;
+Astralhook Rod\184838.89\244392.72;
 Leviathan's Fang Rod\183670.99\186101.45;
 Azure Of Lagoon\179429.12\116312.7;
-Rapid Rod\179392.29\157475.16;
 Training Rod\167125.8\181828.05;
 Flimsy Rod\132261.01\116709.18;
 Buddy Bond Rod\103676.85\87288.36;
 Ethereal Prism Rod\179093.08\221069.56;
 No-Life Rod\176407.63\169711.63;
-Seraphic Rod\170119.99\167386.4;
 Fortune Rod\100046.61\129475.92;
 Depthseeker Rod\178049.71\140380.3;
 Avalanche Rod\172957.16\135204.81;
+Seraphic Rod\170119.99\167386.4;
 Verdant Shear Rod\168661.41\142273.7;
 Blazebringer Rod\160859.44\134307.34;
 Zeus Rod\159565.66\142231.86;

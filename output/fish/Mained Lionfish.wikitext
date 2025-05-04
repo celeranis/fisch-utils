@@ -30,11 +30,12 @@
 Animal Hunt/First Sea
 |top_rods      = 
 Leviathan's Fang Rod\53476.95\311614.81;
+Great Rod of Oscar\48041.09\207502.96;
+Astralhook Rod\43911.65\208613.28;
 Krampus's Rod\43809.94\136138.25;
 Ethereal Prism Rod\43794.55\209476.4;
-Magma Rod\42686.61\129106.32;
-Seraphic Rod\41593.89\212075.13;
 Buddy Bond Rod\28506.52\125376.74;
+Magma Rod\42686.61\129106.32;
 Rapid Rod\31802.55\240818.35;
 Free Spirit Rod\41224.35\230618.48;
 No-Life Rod\40215.34\219846.88;
@@ -42,6 +43,7 @@ Trident Rod\38929.66\217781.47;
 Lucky Rod\22348.65\137110.63;
 Frog Rod\23017.83\159123.69;
 Long Rod\22062.57\157844.96;
+Seraphic Rod\41593.89\212075.13;
 Rod Of The Forgotten Fang\37945.89\196483.38;
 Challenger's Rod\36741.1\203071.33;
 Rod Of The Exalted One\33525.97\166481.28;

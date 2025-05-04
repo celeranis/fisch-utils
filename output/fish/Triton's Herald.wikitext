@@ -35,6 +35,7 @@ Plastic Rod\82020.38\92769.49;
 Buddy Bond Rod\60929.43\73341.45;
 Free Spirit Rod\81168.56\111500.75;
 Flimsy Rod\52729.84\106421.85;
+Astralhook Rod\76289.75\82396.8;
 Ethereal Prism Rod\76280.36\82706.09;
 No-Life Rod\74064.93\90329.49;
 Seraphic Rod\73833.05\83057.44;

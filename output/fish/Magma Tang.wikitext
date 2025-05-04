@@ -29,12 +29,12 @@ Roslit Bay/Roslit Volcano
 |top_rods      = 
 Training Rod\226461.83\47385.16;
 Flimsy Rod\183986.67\20107.24;
+Astralhook Rod\132013.85\19962.8;
 Trident Rod\128105.03\10388.09;
 Rapid Rod\128045.12\13244.65;
-Ethereal Prism Rod\127506.77\17249.55;
 Resourceful Rod\104361.32\8773.14;
 Nocturnal Rod\77984.19\53615.54;
-Leviathan's Fang Rod\127319.98\15247.36;
+Ethereal Prism Rod\127506.77\17249.55;
 No-Life Rod\127481.38\14374.71;
 Seraphic Rod\125246.02\14122.65;
 Free Spirit Rod\117175.42\10322.07;

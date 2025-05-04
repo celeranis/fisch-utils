@@ -39,6 +39,7 @@ Seraphic Rod\282005.93\282005.93;
 Tempest Rod\272069.14\272069.14;
 Rapid Rod\267720\267720;
 Challenger's Rod\273262.9\258123.57;
+Astralhook Rod\272238.7\0;
 Zeus Rod\268361.51\240692.41;
 Verdant Shear Rod\266597.71\241312.5;
 Ethereal Prism Rod\266352.61\62942.41;

@@ -27,15 +27,15 @@
 {{Fish Availability|
 Mariana's Veil/Calm Zone
 |top_rods      = 
+Astralhook Rod\221777.92\63861.68;
 Ethereal Prism Rod\211194.55\57530.25;
 Fast Rod\210452.11\53685.14;
 No-Life Rod\209401.21\53413.66;
 Rapid Rod\208579.38\50502.72;
-Seraphic Rod\208576.86\53203.39;
 Fortune Rod\118195.41\34037.5;
-Crystalized Rod\207705.53\36214.84;
 Firework Rod\207705.53\36214.84;
 Nocturnal Rod\131631.91\81185.39;
+Seraphic Rod\208576.86\53203.39;
 Avalanche Rod\197459.79\37343.96;
 Depthseeker Rod\195832.5\41540.09;
 Challenger's Rod\190913.01\48697.73;

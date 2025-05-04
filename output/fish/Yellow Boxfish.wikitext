@@ -40,6 +40,7 @@ Nocturnal Rod\36840.98\34221.12;
 Flimsy Rod\54483.5\34518.75;
 Training Rod\51377.04\34380.26;
 Ethereal Prism Rod\88066.18\46704.5;
+Astralhook Rod\87981.8\46628.02;
 No-Life Rod\87725.63\47012.11;
 Seraphic Rod\86373.78\46071.33;
 Rod Of The Forgotten Fang\80939.5\43198.02;

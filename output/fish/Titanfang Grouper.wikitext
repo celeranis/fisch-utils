@@ -40,6 +40,7 @@ Fast Rod\92265.11\101888.22;
 Candy Cane Rod\63089.84\78610;
 Seraphic Rod\88402.17\77744.15;
 Ethereal Prism Rod\87158.05\76119.8;
+Astralhook Rod\85839.95\74627.11;
 Challenger's Rod\85702.73\74777.47;
 Rod Of The Forgotten Fang\85028.82\72337.68;
 Zeus Rod\81160.65\68642.7;

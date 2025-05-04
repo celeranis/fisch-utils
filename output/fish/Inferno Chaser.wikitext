@@ -38,6 +38,7 @@ Resourceful Rod\124474.67\216515.78;
 Free Spirit Rod\144573.4\210351.6;
 Magma Rod\142863.64\207669.74;
 Rod Of Time\132403.14\202448.44;
+Astralhook Rod\140332.65\199543.3;
 Trident Rod\116222.36\140242.54;
 Verdant Shear Rod\111671\174759.66;
 Blazebringer Rod\107718.67\165768.1;

@@ -40,6 +40,7 @@ Rod Of Time\71035.79\154147.21;
 Relic Rod\71035.79\154147.21;
 Seraphic Rod\107466.23\195757.06;
 Ethereal Prism Rod\107013.19\190988.31;
+Astralhook Rod\105862.64\190497;
 Challenger's Rod\105193.53\197656.39;
 Rod Of The Forgotten Fang\104336.37\191423.52;
 Zeus Rod\96491.48\183838.74;

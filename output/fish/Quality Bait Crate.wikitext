@@ -37,7 +37,7 @@ Atlantis/Zeus's Rod Room
 FischFright/Frightful Pool
 Forsaken Shores/Algae Hunt
 Golden Tide
-LEGO Pool/Studalodon Hunt
+LEGO Pool/Studolodon Hunt
 Lovestorm/Normal
 Lovestorm/Supercharged
 Megalodon Hunt/Eclipse and Weekend
@@ -66,9 +66,10 @@ Lucky Rod\131761.47\124053.18;
 Leviathan's Fang Rod\130116.32\176609;
 Trident Rod\124605.74\165062.45;
 Free Spirit Rod\124107.38\164402.28;
-No-Life Rod\121051.02\163671.42;
+Astralhook Rod\116957.55\164184.54;
 Rod Of The Depths\113549.58\149668.69;
 Rod Of The Forgotten Fang\113980.51\155808.15;
+No-Life Rod\121051.02\163671.42;
 Seraphic Rod\116769.46\163192.44;
 Challenger's Rod\115537.62\154876.28;
 Zeus Rod\114557.78\145492.88;

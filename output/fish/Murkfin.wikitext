@@ -29,17 +29,20 @@
 Azure Lagoon
 |top_rods      = 
 Free Spirit Rod\382944.59\0;
-Azure Of Lagoon\313906.13\31046.92;
-Leviathan's Fang Rod\310611.11\29821.39;
-Trident Rod\309968.6\30774.84;
-Egg Rod\300566.91\33772.15;
+Astralhook Rod\329901.48\0;
+Great Rod of Oscar\327244.6\24846.41;
+Carrot Rod\315168.1\35831.88;
+Fang of the Eclipse\314669.96\31208.34;
 Plastic Rod\287066.2\23808.75;
 Fischer's Rod\285181\23545.94;
 Candy Cane Rod\282132.56\25519.72;
 Nocturnal Rod\130209.64\141146.43;
 Firefly Rod\293351.17\38375.56;
-Verdant Shear Rod\290507.78\32524.43;
+Lobster Rod\285224.28\35191.04;
+Egg Rod\300566.91\33772.15;
 Lucky Rod\219525.01\30091.07;
+Trident Rod\309968.6\30774.84;
+Verdant Shear Rod\290507.78\32524.43;
 Blazebringer Rod\278607.67\30496.47;
 No-Life Rod\246974.48\23390.35;
 Ethereal Prism Rod\233350.22\22326.2;

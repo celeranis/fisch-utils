@@ -28,16 +28,17 @@
 {{Fish Availability|
 Isle of New Beginnings
 |top_rods      = 
+Great Rod of Oscar\31517.34\183894.8;
+Astralhook Rod\29040.93\182544.38;
+Fang of the Eclipse\26359.99\186765.87;
+Carrot Rod\18097.22\123135.12;
+Lobster Rod\17462.67\124460.62;
 Free Spirit Rod\16686.44\117454.89;
-Azure Of Lagoon\15634.56\115239.07;
-Egg Rod\14251.84\101833.63;
+Wildflower Rod\8426.74\76968.35;
+Frog Rod\6488.48\54758.79;
+Magma Rod\5748.49\49974.06;
 Challenger's Rod\13675.66\101238.59;
 Blazebringer Rod\13416.71\93509.29;
-Frog Rod\6488.48\54758.79;
-Destiny Rod\8909.4\61567.56;
-Tempest Rod\13199.13\96824.81;
-Wildflower Rod\8426.74\76968.35;
-Magma Rod\5748.49\49974.06;
 Seraphic Rod\12962.24\92619.03;
 Ethereal Prism Rod\11525.21\82886.21;
 Verdant Shear Rod\11328.73\80947.11;
@@ -51,7 +52,7 @@ Avalanche Rod\6712.5\50710.37;
 Volcanic Rod\6341.46\47834.77;
 Steady Rod\6094.85\44782.54;
 Zeus Rod\5724.53\43181.16
-|recommended   = Free Spirit Rod
+|recommended   = Astralhook Rod
 }}
 
 == Catch Quips ==

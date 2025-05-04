@@ -28,14 +28,15 @@ Grand Reef
 |top_rods      = 
 Leviathan's Fang Rod\58078.7\132057.26;
 Trident Rod\53875.68\132510.54;
+Great Rod of Oscar\48299.29\86293.13;
 Free Spirit Rod\47506.12\116844.21;
-Ethereal Prism Rod\45730.66\86416.95;
-No-Life Rod\44257.71\91477.15;
+Astralhook Rod\45740.35\86124.86;
 Resourceful Rod\35024.46\69757.56;
 Destiny Rod\36597.67\77768.57;
-Heaven's Rod\35764.46\78738.86;
+No-Life Rod\44257.71\91477.15;
 Training Rod\21712.83\89412.36;
 Flimsy Rod\23135.7\80674.28;
+Ethereal Prism Rod\45730.66\86416.95;
 Seraphic Rod\44210.98\86474.52;
 Rod Of The Forgotten Fang\41338.31\83421.99;
 Challenger's Rod\40071.37\83196.25;

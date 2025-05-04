@@ -29,7 +29,7 @@ Ancient Isle/Algae Hunt
 Ancient Isle/Surrounding Ocean
 Atlantis/Surrounding Ocean
 Forsaken Shores/Algae Hunt
-LEGO Pool/Studalodon Hunt
+LEGO Pool/Studolodon Hunt
 Lovestorm/Normal
 Lovestorm/Supercharged
 Megalodon Hunt/Eclipse and Weekend
@@ -44,16 +44,16 @@ Whale Migration/Moby
 Whale Migration/Normal
 |top_rods      = 
 Leviathan's Fang Rod\25230.37\118675.16;
+Great Rod of Oscar\24684.92\85594.3;
+Astralhook Rod\22900.26\86604.52;
 Ethereal Prism Rod\22691.25\86053.21;
 Seraphic Rod\22030.71\88198.68;
-No-Life Rod\21049.42\89884.59;
-Tempest Rod\20949.76\87388.22;
 Resourceful Rod\18066.96\64884.32;
 Destiny Rod\17385.32\62119.13;
-Fortune Rod\12206.13\44837.16;
 Free Spirit Rod\20805.44\116213.1;
 Trident Rod\18819.57\105120.62;
 Rapid Rod\17641.19\92628.27;
+No-Life Rod\21049.42\89884.59;
 Wildflower Rod\13188.12\68240.21;
 North-Star Rod\9796.3\48360.74;
 Challenger's Rod\19776.96\85570.21;

@@ -34,6 +34,7 @@ Azure Of Lagoon\1072235.17\1072235.17;
 No-Life Rod\1055253.7\1055253.7;
 Seraphic Rod\987884.62\987884.62;
 Ethereal Prism Rod\982500\982500;
+Astralhook Rod\979933.11\979933.11;
 Challenger's Rod\978260.87\978260.87;
 Rod Of The Forgotten Fang\974090.91\974090.91;
 Depthseeker Rod\953928.57\953928.57;

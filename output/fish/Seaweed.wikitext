@@ -46,7 +46,7 @@ Glacial Grotto
 Golden Tide
 Grand Reef
 Keepers Altar
-LEGO Pool/Studalodon Hunt
+LEGO Pool/Studolodon Hunt
 Lovestorm/Normal
 Lovestorm/Supercharged
 Lucky Event/Blarney McBreeze
@@ -79,8 +79,8 @@ Whale Migration/Normal
 Training Rod\232155.73\302941.97;
 Resourceful Rod\216472.65\311547.62;
 Flimsy Rod\213998.87\334735.65;
+Astralhook Rod\203839.04\203839.04;
 Fast Rod\201795.21\201795.21;
-Crystalized Rod\201080.82\135186.17;
 Magnet Rod\154484.29\238811.17;
 Stone Rod\156047.25\224583.33;
 Heaven's Rod\129557.04\205891.29;

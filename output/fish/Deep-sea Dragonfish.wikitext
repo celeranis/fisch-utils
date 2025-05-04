@@ -43,6 +43,7 @@ Rapid Rod\223341.23\223341.23;
 Challenger's Rod\232886.58\215865.09;
 Rod Of The Forgotten Fang\227260.46\215352.87;
 Ethereal Prism Rod\224698.88\12214.05;
+Astralhook Rod\223040.71\4997.29;
 Rod Of The Depths\220512.85\195869.01;
 Zeus Rod\218998.42\201287.66;
 Rod Of The Exalted One\217956.11\142633.69;

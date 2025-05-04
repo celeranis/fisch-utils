@@ -32,11 +32,11 @@ Octophant Hunt/Octophant Uncatchable
 |top_rods      = 
 Leviathan's Fang Rod\309213.95\257364.49;
 Azure Of Lagoon\308998.04\255921.05;
-Egg Rod\275867.58\249013.04;
-Great Dreamer Rod\272492.1\233841.77;
-No-Life Rod\258323.33\221153.14;
+Astralhook Rod\287307.69\287307.69;
+Fang of the Eclipse\281080.82\258369.76;
+Carrot Rod\276934.45\264130.43;
 Krampus's Rod\235957.92\245450.2;
-Celestial Rod\238080.58\238080.58;
+No-Life Rod\258323.33\221153.14;
 Seraphic Rod\239327.5\200631.99;
 Depthseeker Rod\235835.67\229303.9;
 Ethereal Prism Rod\235465.28\195459.72;
@@ -48,7 +48,7 @@ Volcanic Rod\229229.61\205721.71;
 Zeus Rod\228327.92\204912.49;
 Rod Of The Depths\226375.1\191113.93;
 Rod Of The Exalted One\226237.43\188692.2
-|recommended   = 
+|recommended   = Astralhook Rod
 }}
 
 == Catch Quips ==

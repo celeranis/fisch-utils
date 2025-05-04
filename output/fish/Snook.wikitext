@@ -27,15 +27,14 @@
 {{Fish Availability|
 Moosewood/Docks
 |top_rods      = 
+Astralhook Rod\104350.92\208051.7;
 Champions Rod\100618.13\97367.64;
 Ethereal Prism Rod\100035\171364.57;
 Celestial Rod\99610.26\97544.45;
 Ice Warpers Rod\98920.58\96869.08;
-Reinforced Rod\98771.85\95581.01;
 Training Rod\82023.85\126898.79;
 Fortune Rod\55556.68\110767.23;
 Leviathan's Fang Rod\92603.58\111885.04;
-Kraken Rod\79176.2\104312.02;
 Avalanche Rod\96457.29\76492.86;
 Depthseeker Rod\95531.19\70414.45;
 No-Life Rod\90612.77\90612.77;

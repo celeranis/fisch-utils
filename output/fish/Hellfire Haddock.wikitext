@@ -50,6 +50,7 @@ Volcanic Rod\241160.62\175831.54;
 Seraphic Rod\239277.35\239277.35;
 Rod Of The Depths\235511.93\199053.1;
 Rod Of The Forgotten Fang\233954.16\218493.87;
+Astralhook Rod\228277.3\80349.93;
 Rod Of The Exalted One\226046.44\186612.28;
 Ethereal Prism Rod\225179.5\127910.62;
 Steady Rod\120591.51\87722.1

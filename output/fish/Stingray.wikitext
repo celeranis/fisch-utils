@@ -30,7 +30,7 @@ Atlantis/Surrounding Ocean
 FischFright/Frightful Pool
 Forsaken Shores/Algae Hunt
 Golden Tide
-LEGO Pool/Studalodon Hunt
+LEGO Pool/Studolodon Hunt
 Lovestorm/Normal
 Lovestorm/Supercharged
 Lucky Event/Blarney McBreeze
@@ -57,6 +57,7 @@ Buddy Bond Rod\38076.64\24277.89;
 Fast Rod\37162.12\25362.77;
 Leviathan's Fang Rod\36655.81\29190.66;
 Trident Rod\32794\26163.26;
+Astralhook Rod\33253.61\24602.58;
 Ethereal Prism Rod\33211.93\24623.36;
 Seraphic Rod\32062.03\24224.32;
 No-Life Rod\31894.3\24549.67;

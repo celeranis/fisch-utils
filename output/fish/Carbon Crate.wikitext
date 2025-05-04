@@ -38,7 +38,7 @@ Atlantis/Zeus's Rod Room
 FischFright/Frightful Pool
 Forsaken Shores/Algae Hunt
 Golden Tide
-LEGO Pool/Studalodon Hunt
+LEGO Pool/Studolodon Hunt
 Lovestorm/Normal
 Lovestorm/Supercharged
 Megalodon Hunt/Eclipse and Weekend
@@ -66,9 +66,10 @@ Brick Built Rod\73306.18\131047.85;
 Lucky Rod\76700.79\135843.41;
 Free Spirit Rod\88928.8\225912.97;
 Azure Of Lagoon\76156.48\194765.87;
+Great Rod of Oscar\72518.83\180166.84;
 Resourceful Rod\64809.35\149083.5;
-Destiny Rod\67856.33\170932.86;
 No-Life Rod\79662.07\192484.05;
+Astralhook Rod\74959.21\180519.15;
 Seraphic Rod\74913.97\181731.58;
 Ethereal Prism Rod\73754.41\181036.33;
 Rod Of The Forgotten Fang\70582.8\177856.44;

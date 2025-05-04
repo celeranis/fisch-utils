@@ -37,6 +37,7 @@ No-Life Rod\139626.32\139210.96;
 Krampus's Rod\93149.22\97031.39;
 Magma Rod\90760.78\94543.41;
 Magnet Rod\63010.29\60234.96;
+Astralhook Rod\138261.55\138261.55;
 Seraphic Rod\137410.71\137410.71;
 Ethereal Prism Rod\135315.13\135315.13;
 Challenger's Rod\130217.03\125565.61;

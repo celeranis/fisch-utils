@@ -37,6 +37,7 @@ Azure Of Lagoon\161189.54\156761.65;
 Firefly Rod\145501.39\147147.8;
 No-Life Rod\160575.79\155295.27;
 Seraphic Rod\155056.16\146849.81;
+Astralhook Rod\154282.71\145519.69;
 Ethereal Prism Rod\154236.85\145548.66;
 Challenger's Rod\152765.13\146389.63;
 Rod Of The Forgotten Fang\152614.48\145402.54;

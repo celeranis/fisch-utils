@@ -38,6 +38,7 @@ Fast Rod\521835.23\431700.94;
 Buddy Bond Rod\478106.02\353147.52;
 Fischer's Rod\476382.89\394192.46;
 Ethereal Prism Rod\640799.8\135443.79;
+Astralhook Rod\640431.82\135128.33;
 No-Life Rod\630804.66\138506.31;
 Seraphic Rod\624054.58\134020.23;
 Rod Of The Forgotten Fang\583984.76\125637.48;

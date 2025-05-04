@@ -27,13 +27,15 @@
 {{Fish Availability|
 Desolate Deep/Brine Pool
 |top_rods      = 
+Great Rod of Oscar\2015.38\13140.77;
+Astralhook Rod\1973.87\12916.85;
 Seraphic Rod\1960.28\12874.8;
 Leviathan's Fang Rod\1946.11\12854.7;
 Tempest Rod\1942.44\12789.23;
-Ethereal Prism Rod\1917.6\12552.93;
-No-Life Rod\1890.49\12463.73;
 Destiny Rod\1365.33\8908.22;
 Heaven's Rod\1299.21\8487.91;
+Ethereal Prism Rod\1917.6\12552.93;
+No-Life Rod\1890.49\12463.73;
 Challenger's Rod\1864.46\12286.57;
 Rod Of The Forgotten Fang\1716.19\11276.14;
 Rod Of The Depths\1433.17\9428.12;

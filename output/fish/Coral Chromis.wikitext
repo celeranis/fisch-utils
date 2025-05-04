@@ -43,6 +43,7 @@ Avalanche Rod\199695.25\125449.35;
 Verdant Shear Rod\197638.05\152921;
 Blazebringer Rod\181917.19\144148.85;
 Zeus Rod\180756.41\152663.87;
+Astralhook Rod\180107.28\163610.8;
 Volcanic Rod\176554.39\115951.76;
 Challenger's Rod\168491.47\163719.92;
 Trident Rod\165281.86\125429.8;

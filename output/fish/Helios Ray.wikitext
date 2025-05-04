@@ -27,14 +27,13 @@
 {{Fish Availability|
 Atlantis/Sunken Depths
 |top_rods      = 
+Astralhook Rod\76568.17\16805.9;
 Champions Rod\73644.07\8262.98;
 Ethereal Prism Rod\73349.73\14748.15;
 Celestial Rod\72915.6\8368.94;
 Rapid Rod\72228.31\10038.06;
-Ice Warpers Rod\72056.65\8270.36;
 Training Rod\64051.8\19086.24;
 Flimsy Rod\47372.69\7768.82;
-Fortune Rod\40597.4\8910.7;
 Nocturnal Rod\44013.47\26391.81;
 Leviathan's Fang Rod\69924.19\12326.4;
 No-Life Rod\69447.78\10785.05;

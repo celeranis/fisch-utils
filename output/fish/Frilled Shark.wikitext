@@ -28,15 +28,15 @@
 The Depths
 The Depths/Absolute Darkness
 |top_rods      = 
+Astralhook Rod\132275.58\283824.48;
 Ethereal Prism Rod\126676.41\249133.62;
 Leviathan's Fang Rod\119873.44\162820.31;
 No-Life Rod\118746.5\118746.5;
 Seraphic Rod\117829.41\117829.41;
-Training Rod\117399.81\219323.75;
 Flimsy Rod\91872.45\89645.54;
+Training Rod\117399.81\219323.75;
 Magnet Rod\75334.04\72521.26;
 Fortune Rod\70274.74\150788.93;
-Kraken Rod\100150.94\147608.48;
 Challenger's Rod\107932.55\107932.55;
 Rod Of The Forgotten Fang\107604.52\107604.52;
 Depthseeker Rod\106741.76\91989.13;

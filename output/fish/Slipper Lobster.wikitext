@@ -1,0 +1,40 @@
+{{FishInfobox
+|image          = Slipper Lobster.png
+|rarity         = Legendary
+|sea            = Second Sea
+|location       = [[Lobster Fishing (Sea 2)]]
+|sublocation    = 
+|sources        = Lobster Cage
+|radar_location = 
+|xp             = 6000
+|weather        = Clear
+|time           = 
+|season         = Summer, Autumn
+|bait           = 
+|base_weight    = 28
+|base_value     = 8000
+|weight_range   = 19
+|base_chance    = 10
+|base_resil     = 30
+}}
+'''Slipper Lobster''' is a {{Rarity|Legendary}} fish found in [[Lobster Fishing (Sea 2)]].
+
+== Description ==
+{{Description|Lobsters are valuable crustaceans known for their rich, succulent meat. Lobsters are most active in the summer to autumn, and are commonly caught in crab cages during calm clear days.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Caught in oceans using a lobster cage.|Bestiary Hint}}
+
+== Catch Quips ==
+When catching a Slipper Lobster, the player has a chance to make one of the following exclamations:
+* A Larry Lobster!
+* Woah! A Lobster
+* Awesome!
+* A Lobster!
+* Ou! A Lobster!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Lobster Fishing (Sea 2)}}

@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Carrot Minnow.png
+|rarity         = Uncommon
+|sea            = Second Sea
+|location       = [[Carrot Garden]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = +20
+|xp             = 1000
+|weather        = Foggy
+|time           = 
+|season         = Spring
+|bait           = 
+|base_weight    = 5.2
+|base_value     = 1000
+|weight_range   = 3
+|base_chance    = 70
+|base_resil     = 86
+}}
+'''Carrot Minnow''' is an {{Rarity|Uncommon}} fish found in [[Carrot Garden]].
+
+== Description ==
+{{Description|A zippy minnow with a grubby sheen and sprouting streaks, flashing through the soil.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in the vibrant carrot pool!|Bestiary Hint}}
+{{Fish Availability|
+Lushgrove/Carrot Garden
+|top_rods      = 
+Azure Of Lagoon\182947.65\120252.55;
+Free Spirit Rod\181605.98\121282.01;
+Leviathan's Fang Rod\180224.85\170279.24;
+Trident Rod\178686.39\158452.96;
+Fang of the Eclipse\178362.27\168519.45;
+Flimsy Rod\141199.94\128816.9;
+Training Rod\161686.88\173832.19;
+Blazebringer Rod\175988.5\166276.67;
+Egg Rod\175970.28\162954.71;
+Verdant Shear Rod\175055.93\162108;
+Astralhook Rod\174345.64\112152.29;
+No-Life Rod\157024.24\143553.41;
+Seraphic Rod\150367.72\133340.94;
+Ethereal Prism Rod\147418.24\116669.85;
+Challenger's Rod\146269.39\133235.38;
+Depthseeker Rod\146208.89\138306.73;
+Avalanche Rod\145513.2\137976.12;
+Rod Of The Exalted One\145239.01\134496.47;
+Rod Of The Forgotten Fang\145109.83\129056.55;
+Volcanic Rod\144516.39\133851.8;
+Zeus Rod\144082.84\133450.25;
+Rod Of The Depths\144074.37\129398.76;
+Steady Rod\118686.59\111680.49
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Carrot Minnow, the player has a chance to make one of the following exclamations:
+* A Carrot Minnow!
+* Zippy little swimmer!
+* Shiny carrot glow!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Carrot Garden}}

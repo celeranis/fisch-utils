@@ -32,8 +32,8 @@ Atlantis/Kraken Pool
 Training Rod\290409.48\290409.48;
 Firefly Rod\254897.23\223136.78;
 Rapid Rod\248782.48\207250.46;
+Fang of the Eclipse\247105.44\200719.79;
 Summit Rod\245209.1\160326.57;
-Brick Built Rod\244214.11\200195.65;
 Flimsy Rod\201145.33\183639.71;
 Fungal Rod\236285.68\225311.02;
 No-Life Rod\241204.14\220385.82;
@@ -50,6 +50,7 @@ Volcanic Rod\226312.16\141730.24;
 Challenger's Rod\220833.96\200485.44;
 Seraphic Rod\218954.8\218954.8;
 Ethereal Prism Rod\211747.94\175294.08;
+Astralhook Rod\210655.54\126150.75;
 Rod Of The Depths\202193.62\181747.57;
 Rod Of The Forgotten Fang\200009.71\200009.71;
 Rod Of The Exalted One\179847.68\170689.66;

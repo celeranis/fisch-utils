@@ -36,6 +36,7 @@ Flimsy Rod\206476.2\206476.2;
 Buddy Bond Rod\163745.03\127350.28;
 Fast Rod\259401.11\259401.11;
 Leviathan's Fang Rod\254964.84\254964.84;
+Astralhook Rod\257724.52\159865.74;
 Ethereal Prism Rod\255975.62\218506.85;
 Depthseeker Rod\255882.66\204257.64;
 Avalanche Rod\253381.77\183132.43;

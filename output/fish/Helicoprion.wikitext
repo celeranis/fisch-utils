@@ -27,17 +27,17 @@
 {{Fish Availability|
 Ancient Isle/Surrounding Ocean
 |top_rods      = 
+Great Rod of Oscar\24182.76\70723.73;
 Leviathan's Fang Rod\23220.99\96903.48;
+Astralhook Rod\22335.27\72050.72;
 Ethereal Prism Rod\22077.32\70849.75;
 Seraphic Rod\21395.38\72639.57;
-No-Life Rod\20386.86\74016.14;
-Tempest Rod\20319.67\71999.26;
 Resourceful Rod\17651.79\65633.65;
 Frog Rod\13410.02\69991.68;
-Destiny Rod\17262.99\52080.05;
 Free Spirit Rod\19890.07\99677.96;
 Rapid Rod\17873.27\93763.79;
 Trident Rod\17991.57\90163.75;
+No-Life Rod\20386.86\74016.14;
 Carbon Rod\8878.76\54967.43;
 Buddy Bond Rod\8858.99\57165.32;
 Rod Of The Forgotten Fang\19302.69\67105.79;

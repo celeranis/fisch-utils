@@ -26,16 +26,17 @@
 {{Fish Availability|
 Roslit Bay/Roslit Volcano
 |top_rods      = 
+Great Rod of Oscar\68582.34\229860.85;
+Astralhook Rod\62161.74\234789.74;
 Ethereal Prism Rod\61675.24\235390.08;
 Flimsy Rod\60530.9\367064.87;
 Leviathan's Fang Rod\60314.48\278189.16;
-Seraphic Rod\58043.12\240599.56;
-No-Life Rod\55548.94\246012.68;
 Training Rod\51606.02\311939.2;
-Resourceful Rod\48838.62\195680.03;
 Trident Rod\43110.04\268405.42;
 Free Spirit Rod\43308.02\266410.54;
 Fungal Rod\35923.43\202160.63;
+Seraphic Rod\58043.12\240599.56;
+No-Life Rod\55548.94\246012.68;
 Rod Of The Forgotten Fang\54236.3\238004.03;
 Challenger's Rod\51304.76\235260.31;
 Rod Of The Exalted One\48787.42\234527.87;

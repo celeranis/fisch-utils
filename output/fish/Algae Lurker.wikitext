@@ -29,15 +29,15 @@
 Azure Lagoon
 |top_rods      = 
 Trident Rod\141381.42\6597.1;
+Astralhook Rod\127777.93\36456.04;
 Leviathan's Fang Rod\126685.7\6598.27;
 No-Life Rod\103820.95\9832.63;
 Free Spirit Rod\103707.45\8444.33;
-Firefly Rod\96129.96\9606.52;
 Candy Cane Rod\65214.58\7122.07;
 Resourceful Rod\73641.73\7411.77;
-Fast Rod\61225.48\7117.07;
 Nocturnal Rod\42424.67\41179.29;
-Egg Rod\92619.26\9550.47;
+Carrot Rod\98594.98\10166.66;
+Fang of the Eclipse\97536.38\10057.5;
 Verdant Shear Rod\89046.62\9182.07;
 Blazebringer Rod\84446.97\8707.78;
 Challenger's Rod\81457.19\7669.94;
@@ -51,7 +51,7 @@ Zeus Rod\68256.93\6563.28;
 Ethereal Prism Rod\66433.37\5696.78;
 Rod Of The Exalted One\63027.65\5376.11;
 Steady Rod\62642.71\6232.34
-|recommended   = Free Spirit Rod
+|recommended   = Astralhook Rod
 }}
 
 == Catch Quips ==

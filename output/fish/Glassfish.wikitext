@@ -39,6 +39,7 @@ Fast Rod\207704.96\199223.67;
 Seraphic Rod\223517.05\197410.51;
 Tempest Rod\221857.7\190454.54;
 Ethereal Prism Rod\222022.08\32318.21;
+Astralhook Rod\221322.25\0;
 Challenger's Rod\220694.08\180692.32;
 Rod Of The Forgotten Fang\220129.33\180263.56;
 Rod Of The Exalted One\216425.1\126500.37;

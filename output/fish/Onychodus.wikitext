@@ -27,16 +27,17 @@
 {{Fish Availability|
 Ancient Isle/Surrounding Ocean
 |top_rods      = 
+Astralhook Rod\77289.11\116003.95;
 Ethereal Prism Rod\76863.98\122396.54;
 Fast Rod\73345.38\73345.38;
 Rapid Rod\72831.48\70758.96;
 Leviathan's Fang Rod\72789.52\83816.07;
-No-Life Rod\72622.08\72622.08;
 Fischer's Rod\55758.09\55758.09;
 Adventurer's Rod\55383.88\55383.88;
 Plastic Rod\54086.79\43221.88;
 Kraken Rod\60391.42\74690.14;
 Fortune Rod\41010.5\61554.48;
+No-Life Rod\72622.08\72622.08;
 Seraphic Rod\71861.36\71861.36;
 Trident Rod\66796.28\51505.74;
 Depthseeker Rod\66550.04\56056.52;

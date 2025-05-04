@@ -29,18 +29,19 @@
 {{Fish Availability|
 Animal Hunt/First Sea
 |top_rods      = 
+Great Rod of Oscar\32079.57\198145.09;
+Astralhook Rod\28685.07\196279.23;
 Ethereal Prism Rod\26797.63\184709.26;
 Seraphic Rod\26302.26\194222.44;
 Tempest Rod\25607.82\198698.85;
-Leviathan's Fang Rod\25249.22\177963.9;
-Challenger's Rod\24369.77\192387.85;
 Resourceful Rod\19197.6\125017.34;
 Destiny Rod\19065.04\121797.16;
-Heaven's Rod\18382.37\121379.03;
-No-Life Rod\22751.53\181199.5;
+Fang of the Eclipse\23830.42\198668.71;
 Rod Of The Eternal King\17322.04\125901.8;
 Poseidon Rod\19795.83\142764.8;
 Rod Of The Exalted One\18246.37\130578.29;
+Challenger's Rod\24369.77\192387.85;
+No-Life Rod\22751.53\181199.5;
 Rod Of The Forgotten Fang\21970.08\163541.47;
 Free Spirit Rod\19037.74\141959.97;
 Rod Of The Depths\16913.29\129038.69;

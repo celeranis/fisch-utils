@@ -37,11 +37,11 @@ Shark Hunt/Great White Shark
 Shark Hunt/Whale Shark
 Snowcap Island/Surrounding Ocean
 |top_rods      = 
+Astralhook Rod\78098.45\0;
 Ethereal Prism Rod\77026.98\0;
 Trident Rod\75876.67\11204.67;
 Champions Rod\75349.28\14660.16;
-Summit Rod\74953.48\14361.21;
-Celestial Rod\74921.16\14710.56;
+Fang of the Eclipse\75269.14\14327.31;
 Training Rod\73810.3\15461.54;
 Flimsy Rod\59773.31\10651.73;
 Resourceful Rod\70410.05\15154.24;

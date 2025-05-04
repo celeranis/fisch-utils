@@ -39,6 +39,7 @@ Candy Cane Rod\179803.88\179803.88;
 Trident Rod\206722.46\137292.53;
 Free Spirit Rod\204604.31\137124.37;
 Seraphic Rod\196412.87\196399.68;
+Astralhook Rod\192169.54\89271.31;
 Blazebringer Rod\191698.84\158289.55;
 Verdant Shear Rod\189659.07\168070.83;
 Zeus Rod\189479.45\167627.37;

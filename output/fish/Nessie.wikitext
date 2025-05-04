@@ -30,17 +30,20 @@
 {{Fish Availability|
 FischFright/Frightful Pool
 |top_rods      = 
+Great Rod of Oscar\24508.75\78596.25;
+Astralhook Rod\23385.15\82768.15;
 Leviathan's Fang Rod\22931.35\88925.23;
 Seraphic Rod\22810.74\83481.63;
 Ethereal Prism Rod\22679.37\78680.28;
-Tempest Rod\22362.7\83276.33;
-No-Life Rod\21526.36\79824.98;
 Destiny Rod\16237.44\52812.84;
 Heaven's Rod\15466.02\51269.49;
-Fortune Rod\10814.91\36584.53;
 Free Spirit Rod\19817.06\94628.55;
-Challenger's Rod\21377.45\82415.29;
+Fang of the Eclipse\21353\85973.57;
+Tempest Rod\22362.7\83276.33;
+Carrot Rod\19226.9\70946.93;
 Rod Of The Depths\16256.08\59165.96;
+No-Life Rod\21526.36\79824.98;
+Challenger's Rod\21377.45\82415.29;
 Rod Of The Forgotten Fang\19824.03\70969.16;
 Rod Of The Exalted One\16536.93\57424.72;
 Trident Rod\16207.97\77374.72;

@@ -39,6 +39,7 @@ Seraphic Rod\157152.06\55091.36;
 Challenger's Rod\156791.7\50957.41;
 Depthseeker Rod\156589\42861.91;
 Rod Of The Forgotten Fang\154769.95\51719.5;
+Astralhook Rod\154743.22\55798.81;
 Ethereal Prism Rod\154636.73\55848.65;
 Avalanche Rod\153860.25\38728.28;
 Verdant Shear Rod\153101.72\46547.81;

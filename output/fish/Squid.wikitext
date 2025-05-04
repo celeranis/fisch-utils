@@ -39,6 +39,7 @@ Training Rod\50640.28\166195.45;
 Fast Rod\70534.69\113883.34;
 Free Spirit Rod\69381.07\80283.48;
 Ethereal Prism Rod\68220.14\77716.09;
+Astralhook Rod\68211.1\100572.48;
 No-Life Rod\67111.93\66978.67;
 Seraphic Rod\66567.98\63617;
 Rod Of The Forgotten Fang\62370.55\61863.31;

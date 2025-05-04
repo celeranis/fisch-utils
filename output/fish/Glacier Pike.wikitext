@@ -27,18 +27,18 @@
 {{Fish Availability|
 Snowcap Island/Freshwater Pond
 |top_rods      = 
+Astralhook Rod\166502.88\220148.96;
 Ethereal Prism Rod\161289.98\199093.71;
 Champions Rod\160378.22\123733.72;
 Celestial Rod\157913.16\119973.96;
 Rapid Rod\156239.34\141995.32;
-Ice Warpers Rod\156052.92\118560.65;
 Training Rod\151136.36\164133.74;
 Flimsy Rod\122760.47\106975.45;
 Buddy Bond Rod\95030.03\80008.37;
 Leviathan's Fang Rod\154166.76\166613.07;
 No-Life Rod\155053.42\152561.93;
-Seraphic Rod\153189.44\150727.91;
 Fortune Rod\88281.9\116725.72;
+Seraphic Rod\153189.44\150727.91;
 Depthseeker Rod\152078.39\117524.51;
 Avalanche Rod\151628.08\105279.63;
 Verdant Shear Rod\143541.27\128242.82;

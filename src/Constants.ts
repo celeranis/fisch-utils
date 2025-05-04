@@ -130,7 +130,9 @@ export const ZONE_DISPLAY: Record<string, string> = {
 	'Blue Moon - Second Sea': 'Blue Moon/Second Sea',
 	
 	'LEGO': 'LEGO Pool',
-	'LEGO - Studolodon': 'LEGO Pool/Studalodon Hunt',
+	'LEGO - Studolodon': 'LEGO Pool/Studolodon Hunt',
+
+	'Carrot Garden': 'Lushgrove/Carrot Garden',
 }
 
 /**
@@ -236,6 +238,7 @@ export const RECOMMENDED_RODS = [
 	"Blazebringer Rod",
 	"Verdant Shear Rod",
 	"Free Spirit Rod",
+	"Astralhook Rod",
 ]
 
 /**
@@ -436,6 +439,8 @@ export const DEV_OVERRIDES = {
 	// marked as DEV, but should not be
 	'No-Life Rod': false,
 	'Seraphic Rod': false,
+	'Astralhook Rod': false,
+	'Fang of the Eclipse': false,
 	
 	// correctly marked as DEV, but publicly documented on the wiki
 	'Sovereign Doombringer': false,
@@ -604,7 +609,7 @@ export const HUNT_MAP = {
 	"Mushgrove Swamp/Algae Hunt": ["Mushgrove Algae"],
 	"Snowcap Island/Algae Hunt": ["Snowcap Algae"],
 	
-	"LEGO Pool/Studalodon Hunt": ["Studalodon"],
+	"LEGO Pool/Studolodon Hunt": ["Studolodon"],
 }
 
 /**

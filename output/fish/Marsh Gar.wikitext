@@ -36,6 +36,7 @@ Fast Rod\151125.54\263942.34;
 Fischer's Rod\132307.3\232733.3;
 Free Spirit Rod\169139.13\169854.22;
 Ethereal Prism Rod\150269.43\118639.44;
+Astralhook Rod\150268.84\136687.29;
 No-Life Rod\145667.81\123858.58;
 Seraphic Rod\145146.65\121045.63;
 Rod Of The Forgotten Fang\135639.52\112376.15;

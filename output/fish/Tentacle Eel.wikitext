@@ -41,6 +41,7 @@ Adventurer's Rod\179522.85\267909.75;
 No-Life Rod\182204.31\115592.88;
 Trident Rod\182086.96\114184.23;
 Ethereal Prism Rod\181405.16\115151.53;
+Astralhook Rod\181299.57\126103.27;
 Seraphic Rod\180250.83\109388.35;
 Free Spirit Rod\177501.55\111308.78;
 Rod Of The Forgotten Fang\169483.51\99866.5;

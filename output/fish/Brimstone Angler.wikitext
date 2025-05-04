@@ -28,16 +28,17 @@
 {{Fish Availability|
 Emberreach/Surrounding Ocean
 |top_rods      = 
+Great Rod of Oscar\63692.46\138867.04;
+Astralhook Rod\60187.43\138977.42;
 Free Spirit Rod\59632.3\140838.46;
-Egg Rod\46521.56\120273.9;
-Verdant Shear Rod\44147.36\114135.77;
-Great Dreamer Rod\43622.81\112183.08;
-Blazebringer Rod\43486.49\110679.52;
+Carrot Rod\52492.73\129138.27;
+Fang of the Eclipse\52239.41\134342.03;
 Krampus's Rod\43025.26\66234.98;
 Magma Rod\41806.26\65642.05;
 Steady Rod\33078.27\68008.34;
 Brick Built Rod\35453.6\99456.43;
-Resourceful Rod\34867.14\81828.66;
+Verdant Shear Rod\44147.36\114135.77;
+Blazebringer Rod\43486.49\110679.52;
 Trident Rod\38478.96\90489.18;
 Seraphic Rod\30932.98\79972.15;
 Ethereal Prism Rod\30742.98\77655.34;
@@ -50,7 +51,7 @@ Depthseeker Rod\26624.71\72059.64;
 Volcanic Rod\26126.36\69862.93;
 Avalanche Rod\26033.33\70545.9;
 Zeus Rod\25798.27\68985.6
-|recommended   = Free Spirit Rod
+|recommended   = Astralhook Rod
 }}
 
 == Catch Quips ==

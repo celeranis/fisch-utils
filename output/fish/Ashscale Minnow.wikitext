@@ -37,6 +37,7 @@ Lucky Rod\396120.71\138793.74;
 Fungal Rod\387780.77\151951.8;
 Antler Rod\384407.22\151507.41;
 Free Spirit Rod\361811.78\0;
+Astralhook Rod\331143.24\0;
 Verdant Shear Rod\300753.76\28670.6;
 Blazebringer Rod\288685.85\30898.01;
 Trident Rod\281850.02\25403.96;

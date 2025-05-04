@@ -39,6 +39,7 @@ Training Rod\57085.92\130942;
 Lucky Rod\54314.55\86195.08;
 Firefly Rod\73489.33\125325.33;
 Ethereal Prism Rod\78172.73\126566.46;
+Astralhook Rod\77753.24\126283.14;
 Challenger's Rod\77184.94\126434.9;
 Rod Of The Forgotten Fang\76446.1\123939.21;
 Zeus Rod\70508.46\111671.93;

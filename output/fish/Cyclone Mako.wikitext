@@ -29,16 +29,17 @@ Grand Reef/Atlantean Storm
 |top_rods      = 
 Leviathan's Fang Rod\90099.78\184969.62;
 Trident Rod\82362.91\184668.83;
+Great Rod of Oscar\79846.08\122226.53;
+Astralhook Rod\74382.58\124409.15;
 Ethereal Prism Rod\74287.28\126805.61;
-Free Spirit Rod\72625.39\162835.98;
-Seraphic Rod\71111.62\128509.99;
 Lucky Rod\45634.47\153836.16;
 Resourceful Rod\57376.29\97979.66;
-Destiny Rod\60138.05\109295.59;
 Firefly Rod\60913.69\194871.51;
 Fast Rod\56467.1\187574.77;
 Fungal Rod\50916.12\163844.59;
 Brick Built Rod\45263.36\139771.03;
+Free Spirit Rod\72625.39\162835.98;
+Seraphic Rod\71111.62\128509.99;
 No-Life Rod\70448.18\147057.62;
 Rod Of The Forgotten Fang\66415.91\119449.19;
 Challenger's Rod\63860.34\122400.97;

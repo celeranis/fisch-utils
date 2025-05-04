@@ -35,6 +35,7 @@ Leviathan's Fang Rod\218581.69\45429.51;
 Buddy Bond Rod\204541.53\69417.51;
 Flimsy Rod\191023.42\89738.58;
 Training Rod\132038.29\63521.72;
+Astralhook Rod\198377.02\41862.73;
 Trident Rod\198287.45\39580.93;
 Ethereal Prism Rod\198193.77\41842.15;
 No-Life Rod\195260.99\41371.6;

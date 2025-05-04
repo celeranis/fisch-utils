@@ -28,17 +28,17 @@
 {{Fish Availability|
 Waveborne
 |top_rods      = 
+Great Rod of Oscar\31909.79\124514.76;
+Astralhook Rod\29535.83\126294.37;
 Free Spirit Rod\24887.06\154929.64;
-Egg Rod\21135.13\109614.2;
-Blazebringer Rod\19916.53\100495.79;
-Verdant Shear Rod\19872.69\103066.72;
-Great Dreamer Rod\19768.47\101575.61;
+Carrot Rod\24626.36\117132.42;
+Fang of the Eclipse\24397.29\127905.38;
 Resourceful Rod\17760.89\86146.35;
-Destiny Rod\13670.83\65023.71;
-Azure Of Lagoon\19423.11\102509.16;
 North-Star Rod\10747.09\71387.65;
 Event Horizon Rod\10663.44\70831.98;
 Astral Rod\10663.44\70831.98;
+Blazebringer Rod\19916.53\100495.79;
+Verdant Shear Rod\19872.69\103066.72;
 Trident Rod\15836.89\95104.85;
 Seraphic Rod\14297.3\76407.82;
 Ethereal Prism Rod\14289.49\72617.5;
@@ -52,7 +52,7 @@ Volcanic Rod\11532.99\63493.79;
 Avalanche Rod\11436.98\64479.59;
 Zeus Rod\11354.87\62513.19;
 Steady Rod\10917.78\63930.66
-|recommended   = Free Spirit Rod
+|recommended   = Astralhook Rod
 }}
 
 == Catch Quips ==

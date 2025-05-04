@@ -26,7 +26,7 @@
 == Obtainment ==
 {{Description|Catchable during LEGO event.|Bestiary Hint}}
 {{Fish Availability|
-LEGO Pool/Studalodon Hunt
+LEGO Pool/Studolodon Hunt
 |top_rods      = 
 Brick Built Rod\5676.2\19557.01
 |recommended   = 

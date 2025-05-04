@@ -29,14 +29,15 @@
 Ocean/The Arch
 |top_rods      = 
 Leviathan's Fang Rod\22944.98\141091.37;
+Great Rod of Oscar\21383.43\90962.83;
 Trident Rod\20084.08\142654.19;
+Astralhook Rod\19818.02\91345.95;
 Ethereal Prism Rod\19784.71\92132.35;
-Seraphic Rod\18892.46\93368.71;
-No-Life Rod\18562.89\98392.18;
 Flimsy Rod\11780.27\93178.29;
 Resourceful Rod\15283.9\74811.58;
-Destiny Rod\16035.68\81986.4;
 Free Spirit Rod\17925.35\127321.07;
+No-Life Rod\18562.89\98392.18;
+Seraphic Rod\18892.46\93368.71;
 Training Rod\10788.38\84533.81;
 Lucky Rod\10593.84\71386.63;
 Rod Of The Forgotten Fang\17585.83\91453.5;

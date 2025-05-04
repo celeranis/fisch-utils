@@ -27,17 +27,17 @@
 {{Fish Availability|
 Keepers Altar
 |top_rods      = 
+Great Rod of Oscar\140699.47\253443.63;
+Astralhook Rod\129270.87\255004.34;
 Ethereal Prism Rod\128494.96\255102.87;
 Leviathan's Fang Rod\126139.83\299434.98;
 Seraphic Rod\122304.07\257211.35;
-No-Life Rod\118329.91\269508.9;
-Tempest Rod\116256.93\255506.36;
 Flimsy Rod\82236.57\414199.98;
 Resourceful Rod\99524.73\213735.89;
-Destiny Rod\105644.86\251106.62;
 Training Rod\67941.61\412117.44;
 Fischer's Rod\67219.07\300030.43;
 Adventurer's Rod\67046.27\299136.59;
+No-Life Rod\118329.91\269508.9;
 Rod Of The Forgotten Fang\114423.7\254961.54;
 Challenger's Rod\109159.73\256261.74;
 Rod Of The Depths\102873.25\251346.82;

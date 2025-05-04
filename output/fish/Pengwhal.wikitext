@@ -36,6 +36,8 @@ Leviathan's Fang Rod\123292.45\82351.02;
 Wildflower Rod\122959.54\121240.28;
 Long Rod\119910.51\119910.51;
 Fungal Rod\121502.24\121502.24;
+Astralhook Rod\122315.48\135062.5;
+Fang of the Eclipse\122569.82\123625.37;
 Adventurer's Rod\105436.29\111255.06;
 Fischer's Rod\105590.37\103349.62;
 Plastic Rod\99237.3\102910.93;
@@ -54,7 +56,7 @@ Zeus Rod\97784.44\97461.43;
 Rod Of The Exalted One\96829.48\82262.5;
 Ethereal Prism Rod\95840.1\61911.36;
 Steady Rod\80566.68\80566.68
-|recommended   = Verdant Shear Rod
+|recommended   = Astralhook Rod
 }}
 
 == Catch Quips ==

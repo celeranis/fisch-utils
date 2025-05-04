@@ -1,0 +1,40 @@
+{{FishInfobox
+|image          = Lagoon Lobster.png
+|rarity         = Uncommon
+|sea            = Second Sea
+|location       = [[Lobster Fishing (Sea 2)]]
+|sublocation    = 
+|sources        = Lobster Cage
+|radar_location = 
+|xp             = 260
+|weather        = Clear
+|time           = Day
+|season         = Summer, Autumn
+|bait           = 
+|base_weight    = 5
+|base_value     = 430
+|weight_range   = 3.8
+|base_chance    = 80
+|base_resil     = 80
+}}
+'''Lagoon Lobster''' is an {{Rarity|Uncommon}} fish found in [[Lobster Fishing (Sea 2)]].
+
+== Description ==
+{{Description|Lobsters are valuable crustaceans known for their rich, succulent meat. Lobsters are most active in the summer to autumn, and are commonly caught in crab cages during calm clear days.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Caught in oceans using a lobster cage.|Bestiary Hint}}
+
+== Catch Quips ==
+When catching a Lagoon Lobster, the player has a chance to make one of the following exclamations:
+* A Larry Lobster!
+* Woah! A Lobster
+* Awesome!
+* A Lobster!
+* Ou! A Lobster!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Lobster Fishing (Sea 2)}}

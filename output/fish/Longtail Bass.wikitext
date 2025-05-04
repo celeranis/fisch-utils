@@ -27,16 +27,16 @@
 {{Fish Availability|
 Sunstone Island
 |top_rods      = 
+Astralhook Rod\121108.88\238420.8;
 Ethereal Prism Rod\115516.66\181844.43;
 Rapid Rod\113692.09\103591.91;
 Champions Rod\112692.11\80239.64;
 Celestial Rod\111671.73\82879.29;
-Depthseeker Rod\111512.49\85556.16;
 Training Rod\104592.09\167568.42;
 Flimsy Rod\82527.36\77170.63;
 Fortune Rod\64342.15\126667.08;
 Leviathan's Fang Rod\108707.3\121787.89;
-Kraken Rod\91124.58\111705.53;
+Depthseeker Rod\111512.49\85556.16;
 No-Life Rod\110442.33\110442.33;
 Avalanche Rod\110286.47\76707.57;
 Seraphic Rod\109589.38\109589.38;

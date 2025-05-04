@@ -29,9 +29,9 @@ Grand Reef
 |top_rods      = 
 Rapid Rod\247534.73\200637.82;
 Azure Of Lagoon\241897.69\146499.49;
+Fang of the Eclipse\240275.41\193815.13;
 Champions Rod\240023.77\154658.57;
 No-Life Rod\239980.48\212224.66;
-Abyssal Specter Rod\239171.2\171664.83;
 Training Rod\211842.11\211842.11;
 Flimsy Rod\158625\158625;
 Resourceful Rod\230019.52\153399.74;
@@ -49,6 +49,7 @@ Free Spirit Rod\226707.57\147578.89;
 Challenger's Rod\222830.86\193487.18;
 Rod Of The Depths\207189.06\175853.15;
 Rod Of The Forgotten Fang\201476.99\193028.06;
+Astralhook Rod\200827.18\90697.98;
 Ethereal Prism Rod\199919.72\133779.41;
 Rod Of The Exalted One\187948.75\164862.32;
 Steady Rod\106800.9\79097.13

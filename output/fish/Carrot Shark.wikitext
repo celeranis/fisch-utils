@@ -1,0 +1,65 @@
+{{FishInfobox
+|image          = Carrot Shark.png
+|rarity         = Exotic
+|sea            = Second Sea
+|location       = [[Carrot Garden]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -80
+|xp             = 15000
+|weather        = Windy
+|time           = 
+|season         = Spring
+|bait           = 
+|base_weight    = 47
+|base_value     = 15000
+|weight_range   = 32
+|base_chance    = 1
+|base_resil     = 8
+}}
+'''Carrot Shark''' is an {{Rarity|Exotic}} fish found in [[Carrot Garden]].
+
+== Description ==
+{{Description|A grand shark with a dusty carrot sheen and a growing sprout, cruising the gardens.|Bestiary Entry}}
+
+== Obtainment ==
+{{Fish Availability|
+Lushgrove/Carrot Garden
+|top_rods      = 
+Great Rod of Oscar\31673.8\230280.04;
+Astralhook Rod\28658.01\231624.98;
+Fang of the Eclipse\23754.77\231522.72;
+Carrot Rod\22382.13\201557.92;
+Free Spirit Rod\20396.89\190950.79;
+Resourceful Rod\15640.64\125022.44;
+Avalanche Rod\9870.57\105703.06;
+Azure Of Lagoon\17906.83\177117.74;
+Blazebringer Rod\17738.77\169714.39;
+Verdant Shear Rod\17211.27\169347.99;
+Trident Rod\13850.08\136276;
+Seraphic Rod\13424.16\132085.22;
+Ethereal Prism Rod\13155.55\124175.18;
+Challenger's Rod\12644.61\129451.49;
+No-Life Rod\12226.92\125823.72;
+Rod Of The Forgotten Fang\11657.77\115258;
+Rod Of The Exalted One\11224.16\108377.74;
+Rod Of The Depths\10525\105597.37;
+Depthseeker Rod\10442.76\111581.59;
+Volcanic Rod\9882.78\103320.35;
+Zeus Rod\9617.49\100546.82;
+Steady Rod\9315.83\103648.27
+|recommended   = Astralhook Rod
+}}
+
+== Catch Quips ==
+When catching a Carrot Shark, the player has a chance to make one of the following exclamations:
+* A CARROT SHARK!!!
+* GLIDING SO GRAND!!!
+* A SPROUT!!!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Carrot Garden}}

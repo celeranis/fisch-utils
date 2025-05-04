@@ -29,15 +29,16 @@
 {{Fish Availability|
 The Cursed Shores
 |top_rods      = 
+Great Rod of Oscar\1487.16\7283.28;
+Astralhook Rod\1353.46\7183.42;
+Fang of the Eclipse\1229.96\7645.48;
+Carrot Rod\810.29\4713.65;
+Lobster Rod\786.55\4672.52;
 Free Spirit Rod\762.22\4291.01;
-Azure Of Lagoon\720.52\4311.31;
-Challenger's Rod\637.19\3880.88;
 Egg Rod\630.85\3953.13;
-Tempest Rod\613.05\3775.04;
-Destiny Rod\385.21\2240.88;
-Heaven's Rod\445.31\2635.96;
 Seraphic Rod\595.33\3730.53;
 Trident Rod\413.01\2588.07;
+Challenger's Rod\637.19\3880.88;
 Blazebringer Rod\592.49\3625.68;
 Ethereal Prism Rod\522.44\3160.85;
 No-Life Rod\454.96\2739.31;
@@ -49,7 +50,7 @@ Avalanche Rod\288.02\1595.4;
 Volcanic Rod\269.2\1566.41;
 Steady Rod\262.64\1359.27;
 Zeus Rod\239.18\1391.73
-|recommended   = Free Spirit Rod
+|recommended   = Astralhook Rod
 }}
 
 == Gameplay Notes ==

@@ -30,14 +30,16 @@ Atlantis/Ethereal Abyss
 Leviathan's Fang Rod\41662.55\169269.9;
 Free Spirit Rod\35504.84\163298.26;
 Trident Rod\34723.18\159703.17;
+Great Rod of Oscar\33084.57\95180;
 Ethereal Prism Rod\31576.68\103771.9;
-Seraphic Rod\30260.18\106757.17;
 Resourceful Rod\24106.16\80038.06;
 Destiny Rod\25107.1\84825.98;
-Lucky Rod\17179.86\76365.05;
 No-Life Rod\30226.1\124852.3;
+Seraphic Rod\30260.18\106757.17;
+Lucky Rod\17179.86\76365.05;
 Fungal Rod\19568.29\85063.61;
 Antler Rod\17316.53\74035.49;
+Astralhook Rod\31532.04\99749.34;
 Rod Of The Forgotten Fang\28215.58\98718.56;
 Challenger's Rod\27151.69\97693.75;
 Rod Of The Depths\25201.09\87045.52;

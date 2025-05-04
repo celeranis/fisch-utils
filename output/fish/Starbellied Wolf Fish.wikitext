@@ -36,6 +36,7 @@ Free Spirit Rod\119236.66\76286.27;
 Ethereal Prism Rod\104746.32\151932.28;
 Kraken Rod\86593.76\126495.74;
 No-Life Rod\111220.94\104470.86;
+Astralhook Rod\105913.26\108481.35;
 Depthseeker Rod\104635.24\104455.02;
 Blazebringer Rod\103336.81\102590.33;
 Verdant Shear Rod\103305.9\102729.33;

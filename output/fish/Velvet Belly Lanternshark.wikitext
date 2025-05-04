@@ -36,6 +36,7 @@ Magma Rod\63055.59\150498.78;
 Free Spirit Rod\57566.99\119870.35;
 Fast Rod\43180.44\154802.04;
 Resourceful Rod\44008.75\152158.94;
+Astralhook Rod\51671.14\145187.18;
 Candy Cane Rod\43879.54\140229.78;
 Buddy Bond Rod\33488.66\134381.94;
 Trident Rod\43883.44\81731.47;

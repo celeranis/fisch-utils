@@ -40,6 +40,7 @@ Buddy Bond Rod\109431.58\135433.94;
 No-Life Rod\132067.18\113664.2;
 Seraphic Rod\127583.85\100069.33;
 Ethereal Prism Rod\126687.48\98216.9;
+Astralhook Rod\126218.04\96618.77;
 Rod Of The Forgotten Fang\120834.19\93243.03;
 Challenger's Rod\119486.03\95863.58;
 Zeus Rod\110281.88\85662.68;

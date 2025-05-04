@@ -30,7 +30,7 @@ Atlantis/Surrounding Ocean
 FischFright/Frightful Pool
 Forsaken Shores/Algae Hunt
 Golden Tide
-LEGO Pool/Studalodon Hunt
+LEGO Pool/Studolodon Hunt
 Lovestorm/Normal
 Lovestorm/Supercharged
 Lucky Event/Blarney McBreeze
@@ -71,6 +71,7 @@ Rapid Rod\93084.29\19120.09;
 Verdant Shear Rod\91186.37\18728.51;
 Depthseeker Rod\93132.21\17570.76;
 Challenger's Rod\91992.09\17390.43;
+Astralhook Rod\91355.14\0;
 Blazebringer Rod\91209.31\18614.38;
 Zeus Rod\91056.49\17099.75;
 Avalanche Rod\89999.51\17028.42;

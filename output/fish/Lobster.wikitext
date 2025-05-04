@@ -1,29 +1,29 @@
 {{FishInfobox
 |image          = Lobster.png
-|rarity         = Unusual
-|sea            = First Sea
+|rarity         = Common
+|sea            = First Sea, Second Sea
 |location       = [[Ocean]]
 |sublocation    = 
-|sources        = Carbon Crate, Crab Cage
+|sources        = Carbon Crate, Lobster Cage
 |radar_location = 
 |xp             = 60
 |weather        = Clear
-|time           = 
-|season         = Summer
+|time           = Day
+|season         = Summer, Autumn
 |bait           = 
 |base_weight    = 2.8
 |base_value     = 130
 |weight_range   = 1.9
-|base_chance    = 30
-|base_resil     = 200
+|base_chance    = 100
+|base_resil     = 100
 }}
-'''Lobster''' is an {{Rarity|Unusual}} fish found in the [[Ocean]].
+'''Lobster''' is a {{Rarity|Common}} fish found in the [[Ocean]].
 
 == Description ==
 {{Description|Lobsters are valuable crustaceans known for their rich, succulent meat. Lobsters are most active in the summer to autumn, and are commonly caught in crab cages during calm clear days.|Bestiary Entry}}
 
 == Obtainment ==
-{{Description|Caught in oceans using a crab cage.|Bestiary Hint}}
+{{Description|Caught in oceans using a lobster cage.|Bestiary Hint}}
 
 == Catch Quips ==
 When catching a Lobster, the player has a chance to make one of the following exclamations:

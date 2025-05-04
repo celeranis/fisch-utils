@@ -37,6 +37,7 @@ Flimsy Rod\231644.75\486522.45;
 Fischer's Rod\260342.95\397866.11;
 Training Rod\166250\363406.74;
 Magnet Rod\179500.32\352426.59;
+Astralhook Rod\259770.68\248239.94;
 Ethereal Prism Rod\259417.82\196680.74;
 Seraphic Rod\250722.12\169660.74;
 Trident Rod\250383.26\216037.72;

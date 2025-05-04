@@ -1,0 +1,70 @@
+{{FishInfobox
+|image          = Carrot Salmon.png
+|rarity         = Rare
+|sea            = Second Sea
+|location       = [[Carrot Garden]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = +10
+|xp             = 4000
+|weather        = Clear
+|time           = 
+|season         = Spring
+|bait           = 
+|base_weight    = 8.4
+|base_value     = 4000
+|weight_range   = 5
+|base_chance    = 40
+|base_resil     = 52
+}}
+'''Carrot Salmon''' is a {{Rarity|Rare}} fish found in [[Carrot Garden]].
+
+== Description ==
+{{Description|A lively salmon with dirty tones and green flecks, swimming energetically.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in the vibrant carrot pool!|Bestiary Hint}}
+{{Fish Availability|
+Lushgrove/Carrot Garden
+|top_rods      = 
+Steady Rod\356078.74\395430.1;
+Frostfire Rod\352111.86\391024.84;
+Krampus's Rod\284622.35\450814.18;
+Magma Rod\283071.79\446872.03;
+Plastic Rod\279016.48\439816.83;
+Flimsy Rod\154434.22\738230.96;
+Training Rod\199619.81\640541.59;
+Resourceful Rod\182462.4\493576.28;
+Adventurer's Rod\170343.63\460793.97;
+Magnet Rod\130002.99\444447.65;
+Astralhook Rod\168774.12\306149.11;
+Free Spirit Rod\149964.82\272237.41;
+Verdant Shear Rod\129577.66\268760.13;
+Blazebringer Rod\125412.31\255428.74;
+Trident Rod\117938.57\207218.54;
+No-Life Rod\92497.92\176782.86;
+Ethereal Prism Rod\87295.6\184109.66;
+Seraphic Rod\85472.03\174834.4;
+Challenger's Rod\81914.28\168059.01;
+Rod Of The Forgotten Fang\81557.93\167145.65;
+Rod Of The Exalted One\81513.95\166031.22;
+Depthseeker Rod\81248.46\167621.19;
+Avalanche Rod\80038.04\167103.48;
+Rod Of The Depths\79521.15\166273.73;
+Volcanic Rod\79468.19\166392.81;
+Zeus Rod\79121.71\165965.17
+|recommended   = Astralhook Rod
+}}
+
+== Catch Quips ==
+When catching a Carrot Salmon, the player has a chance to make one of the following exclamations:
+* A Carrot Salmon!
+* Leaping so high!
+* Orange like a carrot!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Carrot Garden}}

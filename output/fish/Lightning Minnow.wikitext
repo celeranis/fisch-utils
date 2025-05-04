@@ -48,6 +48,7 @@ Rod Of The Forgotten Fang\176256.61\18224.22;
 Rod Of The Depths\176096.63\16554.96;
 Rod Of The Exalted One\170175\15933.46;
 Ethereal Prism Rod\169175.6\0;
+Astralhook Rod\167524\0;
 Steady Rod\85498.24\8295.69
 |recommended   = Training Rod
 }}

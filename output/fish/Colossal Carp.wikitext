@@ -30,8 +30,8 @@ Atlantis/Poseidon Temple
 Rapid Rod\251763\32295.84;
 Firefly Rod\248948.91\33810.03;
 Champions Rod\236704.1\24981.84;
+Fang of the Eclipse\235908.58\31290.32;
 Celestial Rod\234369.5\25821.38;
-Summit Rod\234236.07\24993.4;
 Flimsy Rod\173962.82\32861.84;
 Training Rod\227618.24\44325.66;
 Fungal Rod\225858.7\34139.47;
@@ -48,6 +48,7 @@ Volcanic Rod\215672.89\22094.4;
 Free Spirit Rod\215135.29\24065.36;
 Seraphic Rod\211744.79\34132.98;
 Challenger's Rod\209805.42\31253.78;
+Astralhook Rod\205363.18\0;
 Ethereal Prism Rod\204721.21\0;
 Rod Of The Forgotten Fang\193423.54\31179.62;
 Rod Of The Depths\191592.13\28332.73;

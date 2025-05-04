@@ -37,6 +37,7 @@ Adventurer's Rod\139348.53\338783.72;
 Fast Rod\154825.56\329504.17;
 Buddy Bond Rod\123036.88\329172.04;
 Resourceful Rod\138448.05\302777.13;
+Astralhook Rod\141433.32\282383.9;
 Free Spirit Rod\138580.54\212279.62;
 Trident Rod\112980.83\156219.59;
 Verdant Shear Rod\110353.86\182956.66;
@@ -52,7 +53,7 @@ Rod Of The Depths\67397.03\113436.71;
 Avalanche Rod\65800.29\114669.43;
 Volcanic Rod\65506.21\113832.59;
 Zeus Rod\65273.93\113428.95
-|recommended   = Free Spirit Rod
+|recommended   = Astralhook Rod
 }}
 
 == Catch Quips ==

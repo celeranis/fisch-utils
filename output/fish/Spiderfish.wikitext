@@ -37,6 +37,7 @@ Abyssal Specter Rod\257407.23\206932.15;
 Fast Rod\257098.03\257098.03;
 Seraphic Rod\278057.69\254817.61;
 Ethereal Prism Rod\273622.4\39276.08;
+Astralhook Rod\272719.68\0;
 Challenger's Rod\265350.86\233237.75;
 Rod Of The Forgotten Fang\261429.19\232684.31;
 Rod Of The Exalted One\257269.86\165569.59;

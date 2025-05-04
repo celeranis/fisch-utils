@@ -30,18 +30,19 @@
 Atlantis/Ancient Kraken Hunt
 Atlantis/Kraken Hunt
 |top_rods      = 
+Fang of the Eclipse\86021.82\125849.25;
 Tempest Rod\83811.6\118212.14;
+Astralhook Rod\82886.41\117797.46;
+Great Rod of Oscar\82380.38\113019.14;
 Challenger's Rod\82043.4\119992.42;
-Seraphic Rod\81645.26\116335.34;
-Ethereal Prism Rod\77306.04\108298.49;
-No-Life Rod\76574.04\109100.37;
 Midas Rod\16078.9\22576.26;
 Great Dreamer Rod\53504.25\75325.8;
-Phoenix Rod\46039.05\64630.67;
-Abyssal Specter Rod\73513.87\109575.12;
+Seraphic Rod\81645.26\116335.34;
 Celestial Rod\57714.47\81348.55;
 Ice Warpers Rod\53421.66\75297.83;
 Aurora Rod\31902.86\44967.09;
+Ethereal Prism Rod\77306.04\108298.49;
+No-Life Rod\76574.04\109100.37;
 Rod Of The Forgotten Fang\68784.85\95530.96;
 Free Spirit Rod\68373.35\99549.24;
 Depthseeker Rod\57513.66\80897.78;

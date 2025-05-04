@@ -1047,6 +1047,133 @@ export const MUTATION_DATA: MutationDataEntry[] = [
 			}
 		],
 	},
+	{
+		mutation: 'Solarblaze',
+		chance: 10,
+		priority: MutationPriority.SpecialRods,
+		chance_type: 'percent',
+		allow_crates: true,
+		conditions: [
+			{
+				check: 'conditions',
+				property: 'rod',
+				values: ["Fang of the Eclipse"]
+			}
+		]
+	},
+	{
+		mutation: 'Solarblaze',
+		chance: 90,
+		priority: MutationPriority.SpecialRods,
+		chance_type: 'percent',
+		allow_crates: true,
+		conditions: [
+			{
+				check: 'conditions',
+				property: 'rod',
+				values: ["Fang of the Eclipse"]
+			},
+			{
+				check: 'conditions',
+				property: 'weather',
+				values: ['Eclipse']
+			}
+		]
+	},
+	{
+		mutation: 'Umbra',
+		chance: 11.111111, // adjusted for solarblaze
+		priority: MutationPriority.SpecialRods,
+		chance_type: 'percent',
+		allow_crates: true,
+		conditions: [
+			{
+				check: 'conditions',
+				property: 'rod',
+				values: ["Fang of the Eclipse"]
+			},
+			{
+				check: 'conditions',
+				property: 'weather',
+				values: ['Eclipse']
+			}
+		]
+	},
+	{
+		mutation: 'Astral',
+		chance: 80,
+		priority: MutationPriority.SpecialRods,
+		chance_type: 'percent',
+		allow_crates: true,
+		conditions: [
+			{
+				check: 'conditions',
+				property: 'passiveState',
+				values: ['Active']
+			}
+		]
+	},
+	{
+		mutation: 'Oscar',
+		chance: 5,
+		priority: MutationPriority.SpecialRods,
+		chance_type: 'percent',
+		allow_crates: true,
+		conditions: [
+			{
+				check: 'conditions',
+				property: 'rod',
+				values: ["Great Rod of Oscar"]
+			}
+		]
+	},
+	{
+		mutation: 'Carrot',
+		chance: 5,
+		priority: MutationPriority.SpecialRods,
+		chance_type: 'percent',
+		allow_crates: true,
+		conditions: [
+			{
+				check: 'conditions',
+				property: 'rod',
+				values: ["Carrot Rod"]
+			}
+		]
+	},
+	{
+		mutation: 'Carrot',
+		chance: 100,
+		priority: MutationPriority.SpecialRods + 1,
+		chance_type: 'percent',
+		allow_crates: true,
+		conditions: [
+			{
+				check: 'conditions',
+				property: 'rod',
+				values: ["Carrot Rod"]
+			},
+			{
+				check: 'conditions',
+				property: 'passiveState',
+				values: ['Active']
+			}
+		]
+	},
+	{
+		mutation: 'Lobster',
+		chance: 30,
+		priority: MutationPriority.SpecialRods,
+		chance_type: 'percent',
+		allow_crates: true,
+		conditions: [
+			{
+				check: 'conditions',
+				property: 'rod',
+				values: ["Lobster Rod"]
+			}
+		]
+	},
 	// bait
 	{
 		mutation: 'Aurora',

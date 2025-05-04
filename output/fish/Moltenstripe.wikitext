@@ -39,6 +39,7 @@ Nocturnal Rod\95907.34\95244.99;
 Fast Rod\271848.79\61045.19;
 Free Spirit Rod\266244.76\15479.79;
 Trident Rod\229164.56\20655.27;
+Astralhook Rod\221323.46\0;
 Blazebringer Rod\211339.43\20950.15;
 Verdant Shear Rod\210096.53\21279.03;
 No-Life Rod\188779.16\17980.49;

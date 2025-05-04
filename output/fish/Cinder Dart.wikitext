@@ -36,7 +36,7 @@ Free Spirit Rod\130000.19\202920.9;
 Firefly Rod\112022.49\233663.39;
 Buddy Bond Rod\115167.05\217917.63;
 Long Rod\105343.84\188335.31;
-Egg Rod\98199.55\157824.09;
+Astralhook Rod\122737.46\175209.71;
 Verdant Shear Rod\94395.57\151710.44;
 Trident Rod\92748.9\129755.39;
 Blazebringer Rod\92174.92\144886.81;

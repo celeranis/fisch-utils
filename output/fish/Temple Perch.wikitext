@@ -36,6 +36,7 @@ North-Star Rod\165721.6\91376.37;
 Resourceful Rod\132575.38\93466.32;
 Nocturnal Rod\39253.93\90060.05;
 Free Spirit Rod\137749.94\68212.93;
+Astralhook Rod\129640.61\86265.61;
 Trident Rod\118693.07\50482.69;
 Verdant Shear Rod\102139.35\64764.4;
 Blazebringer Rod\98651.51\62267.04;

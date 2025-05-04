@@ -31,13 +31,15 @@ Emberreach/Surrounding Ocean
 Free Spirit Rod\345672.45\280233.12;
 Firefly Rod\321942.04\360251.91;
 Azure Of Lagoon\299281.72\314938.59;
-Egg Rod\282064.48\280943.3;
-Leviathan's Fang Rod\281600.32\264131.12;
+Fang of the Eclipse\292763.6\297618.95;
+Astralhook Rod\291903.88\62039.57;
 Buddy Bond Rod\243387.42\241212.7;
 Brick Built Rod\257085.74\229852.68;
-Blazebringer Rod\264470.49\286793.32;
+Carrot Rod\288754.24\308984.11;
+Lobster Rod\276638.79\298322.93;
 Trident Rod\280722.42\251082.13;
 Verdant Shear Rod\273412.76\271610.82;
+Blazebringer Rod\264470.49\286793.32;
 No-Life Rod\235583.91\221823.96;
 Ethereal Prism Rod\227095.51\229222.8;
 Seraphic Rod\223775.52\200148.02;

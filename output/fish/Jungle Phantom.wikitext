@@ -28,17 +28,18 @@
 {{Fish Availability|
 Lushgrove
 |top_rods      = 
+Great Rod of Oscar\52475.94\132217.64;
+Astralhook Rod\48921.34\133058.57;
 Krampus's Rod\45645.18\67375.81;
 Free Spirit Rod\44961.25\128473.99;
 Magma Rod\44446\81727.2;
-Egg Rod\36624.12\115250.96;
-Verdant Shear Rod\34652.83\109047.58;
 Frostfire Rod\30715.28\66108.92;
+Fang of the Eclipse\41605.09\130020.9;
 Firefly Rod\31823.23\128449.29;
-Great Dreamer Rod\34321.42\107258.55;
 Lucky Rod\22155.77\88945.4;
 Long Rod\19582.29\84549.06;
 Fungal Rod\19764.04\87886.82;
+Verdant Shear Rod\34652.83\109047.58;
 Blazebringer Rod\34346.02\105892.02;
 Trident Rod\28998.2\91841.16;
 Steady Rod\27424.36\66849.64;
@@ -53,7 +54,7 @@ Depthseeker Rod\20771.4\69405.86;
 Volcanic Rod\20355.24\66947.25;
 Avalanche Rod\20250.14\67773.59;
 Zeus Rod\20073.61\66020.98
-|recommended   = Free Spirit Rod
+|recommended   = Astralhook Rod
 }}
 
 == Catch Quips ==

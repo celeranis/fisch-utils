@@ -34,6 +34,8 @@ Free Spirit Rod\420210.38\402264.46;
 Buddy Bond Rod\417144.74\368458.63;
 Azure Of Lagoon\363688.77\378576.93;
 Verdant Shear Rod\338349.8\405700.98;
+Carrot Rod\353471.36\397589.77;
+Astralhook Rod\359558.19\59107.58;
 Trident Rod\352601.32\312018.31;
 Blazebringer Rod\316493.04\347559.27;
 No-Life Rod\288238.9\262923.73;

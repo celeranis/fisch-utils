@@ -29,12 +29,14 @@ Grand Reef
 Krampus's Rod\93178.78\100205.44;
 Magma Rod\89892.07\96670.88;
 Leviathan's Fang Rod\83947.23\103410.01;
+Great Rod of Oscar\82771.27\84823.26;
 Plastic Rod\82129.42\88322.84;
-Ethereal Prism Rod\78902.02\84525.56;
 Trident Rod\74888.09\97502.06;
 Free Spirit Rod\73002.22\95046.72;
 Flimsy Rod\48746.51\79409.46;
 Training Rod\40542.29\86947.21;
+Astralhook Rod\79026.91\84420.88;
+Ethereal Prism Rod\78902.02\84525.56;
 Seraphic Rod\76796.1\84507.32;
 No-Life Rod\76673.89\86935.52;
 Rod Of The Forgotten Fang\72032.45\81806.06;

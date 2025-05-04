@@ -36,6 +36,7 @@ Flimsy Rod\72830.17\328717.04;
 Fast Rod\91513.9\262485.24;
 Fischer's Rod\80074.67\229674.58;
 Trident Rod\96883.2\130067.62;
+Astralhook Rod\91167.46\94644;
 Ethereal Prism Rod\90983.85\88321.09;
 Free Spirit Rod\90883.05\122012.3;
 Seraphic Rod\86256.11\88660.29;

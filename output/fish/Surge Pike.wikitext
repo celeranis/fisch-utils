@@ -37,6 +37,7 @@ Resourceful Rod\171413.22\115110.12;
 Event Horizon Rod\219684.4\109073.7;
 Nocturnal Rod\48612.9\86297.95;
 Free Spirit Rod\167774.44\69136.55;
+Astralhook Rod\162870.91\76071.27;
 Trident Rod\138853.99\47721.84;
 Verdant Shear Rod\125958.53\56578.84;
 Blazebringer Rod\121906.18\54379.01;

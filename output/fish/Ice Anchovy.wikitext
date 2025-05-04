@@ -47,6 +47,7 @@ Volcanic Rod\187494.87\17768.48;
 Challenger's Rod\187448.54\25134.53;
 Rod Of The Depths\175502.95\22785.39;
 Rod Of The Forgotten Fang\172664.89\25074.88;
+Astralhook Rod\168863.84\0;
 Ethereal Prism Rod\168624.29\0;
 Rod Of The Exalted One\162732.35\21399.08;
 Steady Rod\88516.17\8361.72

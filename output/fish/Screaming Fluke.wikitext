@@ -28,17 +28,19 @@
 {{Fish Availability|
 The Cursed Shores
 |top_rods      = 
+Great Rod of Oscar\67752.72\182260.89;
+Astralhook Rod\64189.19\183282.83;
 Krampus's Rod\57014.46\92878.9;
 Free Spirit Rod\56887.28\165994.59;
+Fang of the Eclipse\55918.38\181933.43;
 Magma Rod\50511.21\82285.41;
-Egg Rod\46662.67\152878.36;
 Plastic Rod\44197.31\71999.73;
 Frostfire Rod\31804.65\63306.67;
-Verdant Shear Rod\43398.21\143339.88;
-Great Dreamer Rod\43284.79\140829.37;
-Blazebringer Rod\43758.01\140445.68;
+Carrot Rod\53941.09\165542.92;
 Fischer's Rod\31976.06\75579.06;
 Fast Rod\24159.69\57104.18;
+Blazebringer Rod\43758.01\140445.68;
+Verdant Shear Rod\43398.21\143339.88;
 Trident Rod\36808.56\114760.25;
 Seraphic Rod\32343.44\105965.05;
 Ethereal Prism Rod\31774.78\100974.26;
@@ -52,7 +54,7 @@ Volcanic Rod\25379.51\76603.26;
 Avalanche Rod\25373.1\72647.04;
 Steady Rod\25292.79\64435.69;
 Zeus Rod\24868.13\75059.76
-|recommended   = Free Spirit Rod
+|recommended   = Astralhook Rod
 }}
 
 == Catch Quips ==

@@ -36,6 +36,7 @@ Plastic Rod\138743.69\134609.15;
 Buddy Bond Rod\113563.71\138430.6;
 Krampus's Rod\160856.46\156058.06;
 Fast Rod\145111.25\182508.77;
+Astralhook Rod\157095.06\167502.39;
 Fischer's Rod\126972.35\159695.18;
 Adventurer's Rod\123973\155922.85;
 Ethereal Prism Rod\153005.18\159108.28;

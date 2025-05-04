@@ -28,16 +28,18 @@
 {{Fish Availability|
 Isle of New Beginnings
 |top_rods      = 
+Great Rod of Oscar\78118.99\161961.83;
+Astralhook Rod\74676.56\161627.06;
 Krampus's Rod\69118.14\106833.44;
 Magma Rod\66729.37\103024.78;
-Free Spirit Rod\65870.22\138160.93;
+Fang of the Eclipse\66008.13\157667.7;
 Plastic Rod\61056.4\105207.08;
-Egg Rod\56547.56\135863.09;
 Firefly Rod\49799.05\204047.09;
 Resourceful Rod\45354.65\157863.52;
-Brick Built Rod\39556.65\156616.28;
 Lucky Rod\34335.47\134461.54;
+Brick Built Rod\39556.65\156616.28;
 Long Rod\30072.76\125879.45;
+Free Spirit Rod\65870.22\138160.93;
 Verdant Shear Rod\53143.59\127684.6;
 Blazebringer Rod\52949.03\125034.35;
 Trident Rod\42253.02\98213.27;
@@ -53,7 +55,7 @@ Volcanic Rod\31283.96\78006.03;
 Avalanche Rod\31256.71\77510.03;
 Zeus Rod\30743.94\76659.5;
 Steady Rod\29949.98\71410.46
-|recommended   = Free Spirit Rod
+|recommended   = Astralhook Rod
 }}
 
 == Catch Quips ==

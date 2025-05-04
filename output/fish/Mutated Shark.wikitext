@@ -40,6 +40,7 @@ Rod Of The Exalted One\55298.5\89114.19;
 Ethereal Prism Rod\66203.18\107353.93;
 Magnet Rod\31046.91\49849.96;
 Kraken Rod\57097.96\92377.45;
+Astralhook Rod\65778.02\106182.86;
 Challenger's Rod\64475.93\105635.98;
 Rod Of The Forgotten Fang\63993.81\103769.47;
 Zeus Rod\58587.48\92808.68;

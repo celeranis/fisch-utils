@@ -38,6 +38,7 @@ No-Life Rod\155004.68\150312.65;
 Firefly Rod\137793.95\139353.14;
 Seraphic Rod\148097.64\140083.81;
 Ethereal Prism Rod\147488.99\138770.33;
+Astralhook Rod\147242.71\138879.55;
 Challenger's Rod\145638.98\139525.74;
 Rod Of The Forgotten Fang\145390.23\138474.54;
 Rod Of The Exalted One\141106.87\135249.15;

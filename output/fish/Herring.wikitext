@@ -50,6 +50,7 @@ Rod Of The Depths\63037.88\6605.42;
 Volcanic Rod\62661.5\6273.33;
 Rod Of The Exalted One\61260.55\6329.87;
 Ethereal Prism Rod\60823.69\0;
+Astralhook Rod\60225.14\0;
 Steady Rod\32925.69\3437.42
 |recommended   = Trident Rod
 }}

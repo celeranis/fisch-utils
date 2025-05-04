@@ -34,6 +34,7 @@ Fast Rod\627069.58\267464.6;
 Plastic Rod\617015.22\267832.23;
 Free Spirit Rod\589240.7\0;
 Candy Cane Rod\575816.6\266512.03;
+Astralhook Rod\570949.43\0;
 Verdant Shear Rod\531495.79\44245.13;
 Blazebringer Rod\480521.38\37275.01;
 Trident Rod\435304.76\31225.68;

@@ -27,18 +27,19 @@
 {{Fish Availability|
 Grand Reef/Atlantean Storm
 |top_rods      = 
+Great Rod of Oscar\85225.25\243980.02;
 Leviathan's Fang Rod\80152.2\320954.39;
+Astralhook Rod\79378.09\256652.66;
 Ethereal Prism Rod\77960.21\247444.36;
 Seraphic Rod\76440.99\259458.11;
-Tempest Rod\73302.01\261390.17;
-No-Life Rod\72715.51\261083.77;
 Resourceful Rod\57652.2\179705.49;
 Destiny Rod\59438.12\174736.47;
-Heaven's Rod\54558.79\170759.45;
 Free Spirit Rod\68637.29\330473.8;
 Trident Rod\60036.79\289064.26;
+Fang of the Eclipse\68088.22\272477.52;
 Challenger's Rod\69541.21\264316.54;
 Riptide Rod\53243.77\191400.69;
+No-Life Rod\72715.51\261083.77;
 Azure Of Lagoon\52427.06\259741.72;
 Rod Of The Forgotten Fang\68110.18\233402.95;
 Rod Of The Exalted One\58567.66\188567.62;

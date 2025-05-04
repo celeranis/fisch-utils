@@ -39,6 +39,7 @@ Fast Rod\311528.5\311528.5;
 Leviathan's Fang Rod\309955.88\308736.24;
 Magnet Rod\192617.63\192617.63;
 Free Spirit Rod\308962.6\224220.25;
+Astralhook Rod\303887.14\154770.23;
 Ethereal Prism Rod\300668.73\210775.71;
 Depthseeker Rod\289839.11\246121.69;
 Verdant Shear Rod\289440.81\268803.94;

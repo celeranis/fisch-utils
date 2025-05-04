@@ -31,12 +31,14 @@ Cryogenic Canal
 Leviathan's Fang Rod\109293.67\161212.75;
 Free Spirit Rod\97952.73\153866.28;
 Trident Rod\95188.67\149524.43;
+Great Rod of Oscar\77259.99\96483.46;
 Ethereal Prism Rod\75920.97\101156.34;
-No-Life Rod\75573.63\122942.54;
 Lucky Rod\47478.19\97167.94;
 Firefly Rod\68760.85\136419.45;
 Candy Cane Rod\44070.59\91098.41;
 Fast Rod\64947.2\133884.03;
+Astralhook Rod\75773.78\97735.41;
+No-Life Rod\75573.63\122942.54;
 Seraphic Rod\74401.43\103161.81;
 Rod Of The Forgotten Fang\69371.02\94817.72;
 Challenger's Rod\68134.11\99257.24;

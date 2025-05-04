@@ -32,13 +32,15 @@ Roslit Bay/Surrounding Ocean
 Leviathan's Fang Rod\70217.4\207609.5;
 Trident Rod\61972.16\196772.32;
 Free Spirit Rod\58526.59\185832.03;
+Great Rod of Oscar\48248.03\115942.49;
 No-Life Rod\47325.34\142795.57;
-Ethereal Prism Rod\47072.5\120506.92;
 Flimsy Rod\29658.68\110020.44;
 Training Rod\29768.87\119874.1;
 Lucky Rod\28470.07\97893.12;
 Azure Of Lagoon\41106.46\144311.01;
 Firefly Rod\39972.58\135575.3;
+Ethereal Prism Rod\47072.5\120506.92;
+Astralhook Rod\46975.26\120585.03;
 Seraphic Rod\46364.91\123361.35;
 Rod Of The Forgotten Fang\43327.76\120713.21;
 Challenger's Rod\42718.07\123749.88;

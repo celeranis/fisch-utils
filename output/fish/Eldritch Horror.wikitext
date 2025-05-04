@@ -44,6 +44,7 @@ Lucky Rod\55638.99\94162.18;
 Long Rod\53200.51\72785.83;
 Ethereal Prism Rod\78214.29\72361.98;
 No-Life Rod\78196.54\78767.17;
+Astralhook Rod\78081.61\72710.56;
 Seraphic Rod\77246.47\72948.65;
 Rod Of The Forgotten Fang\72444.99\70005.06;
 Challenger's Rod\70932.88\69810.74;

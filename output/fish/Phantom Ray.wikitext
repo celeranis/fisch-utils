@@ -38,6 +38,7 @@ Magma Rod\119388.61\219809.26;
 No-Life Rod\139785.76\132072.77;
 Seraphic Rod\131613.75\133438.67;
 Ethereal Prism Rod\131255.46\159503.65;
+Astralhook Rod\130864.1\168087.61;
 Challenger's Rod\128449.11\122083.99;
 Rod Of The Forgotten Fang\128304.82\121098.99;
 Rod Of The Exalted One\122165.23\116881.99;

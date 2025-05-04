@@ -28,16 +28,17 @@
 {{Fish Availability|
 Emberreach/Freshwater Pond
 |top_rods      = 
+Astralhook Rod\186117.84\42909.9;
 Trident Rod\180372.7\7384.66;
 Leviathan's Fang Rod\148936.85\7379.8;
+Great Rod of Oscar\147564.83\11087;
 No-Life Rod\147408.31\11040.66;
-Brother's Rod\140431.44\10418.17;
-Wildflower Rod\140013.36\11236.63;
 Resourceful Rod\112516.5\9199.21;
 Wisdom Rod\120372.37\9779.07;
-Phoenix Rod\115569.48\9388.89;
 Nocturnal Rod\61031.91\61031.91;
-Egg Rod\134055\10968.14;
+Carrot Rod\142388.16\11649.94;
+Fang of the Eclipse\139805.75\11438.65;
+Wildflower Rod\140013.36\11236.63;
 Verdant Shear Rod\129855.61\10616.83;
 Challenger's Rod\123582.68\9229.51;
 Blazebringer Rod\122226.62\10000.36;
@@ -52,7 +53,7 @@ Rod Of The Forgotten Fang\106223.95\6224.1;
 Steady Rod\96900.67\7550.43;
 Rod Of The Exalted One\90116.7\6182.5;
 Ethereal Prism Rod\86875.23\6510.76
-|recommended   = Verdant Shear Rod
+|recommended   = Astralhook Rod
 }}
 
 == Catch Quips ==

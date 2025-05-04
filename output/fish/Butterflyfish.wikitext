@@ -38,6 +38,7 @@ Nocturnal Rod\84784.34\52966.33;
 Trident Rod\184931.52\36265.53;
 Free Spirit Rod\179199.31\35141.43;
 Ethereal Prism Rod\174584.24\39156.21;
+Astralhook Rod\174525.9\39162.3;
 No-Life Rod\173897.38\38391.59;
 Seraphic Rod\171744.43\38290.23;
 Rod Of The Forgotten Fang\161252.84\35919.94;

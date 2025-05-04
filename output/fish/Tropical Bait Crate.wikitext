@@ -11,9 +11,9 @@
 |time           = 
 |season         = 
 |bait           = Magnet
-|base_weight    = 1
+|base_weight    = 7
 |base_value     = 80
-|weight_range   = 0.5
+|weight_range   = 0
 |base_chance    = 15
 |base_resil     = 110
 }}
@@ -36,15 +36,15 @@ Pine Shoals
 The Cursed Shores
 Waveborne
 |top_rods      = 
-Training Rod\806285.71\806285.71;
 Fischer's Rod\795063.78\795063.78;
 Fast Rod\793185.48\793185.48;
 Plastic Rod\792650\792650;
 Candy Cane Rod\790928.19\790928.19;
+Magnet Rod\785002.13\793594.04;
 Firefly Rod\115543.27\896787.5;
 Adventurer's Rod\354964.19\835625;
-Magnet Rod\785002.13\793594.04;
 Steady Rod\308025.41\560566.65;
+Astralhook Rod\136077.85\703065.17;
 Verdant Shear Rod\110188.76\368452.91;
 Blazebringer Rod\101279.87\231336.09;
 Free Spirit Rod\96879.86\220311.24;
@@ -60,7 +60,7 @@ Volcanic Rod\61284.84\149644.69;
 Zeus Rod\61127.7\149260.98;
 Depthseeker Rod\60149.23\149915.5;
 Avalanche Rod\59951.72\149734.72
-|recommended   = Verdant Shear Rod
+|recommended   = Astralhook Rod
 }}
 
 == Contents ==

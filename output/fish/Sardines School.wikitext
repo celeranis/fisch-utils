@@ -1,0 +1,36 @@
+{{FishInfobox
+|image          = Sardines School.png
+|rarity         = Common
+|sea            = Second Sea
+|location       = [[Net Fishing]]
+|sublocation    = 
+|sources        = Fishing Net
+|radar_location = 
+|xp             = 62
+|weather        = Clear
+|time           = 
+|season         = Summer, Autumn
+|bait           = 
+|base_weight    = 35
+|base_value     = 125
+|weight_range   = 30
+|base_chance    = 90
+|base_resil     = 95
+}}
+'''Sardines School''' is a {{Rarity|Common}} fish found in [[Net Fishing]].
+
+== Description ==
+{{Description|A school of awesome fish!|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Caught in oceans using a net.|Bestiary Hint}}
+
+== Catch Quips ==
+When catching a Sardines School, the player has a chance to make one of the following exclamations:
+* Wow, that's a lot of them!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Net Fishing}}

@@ -32,8 +32,8 @@ Animal Hunt/First Sea
 Krampus's Rod\92877.07\196734.19;
 Leviathan's Fang Rod\91413.88\360767.96;
 Magma Rod\90495.61\191689.72;
+Great Rod of Oscar\79243.79\231194.85;
 Plastic Rod\77326.54\232637.45;
-Ethereal Prism Rod\72662.46\235131.06;
 Buddy Bond Rod\63528.83\146077.2;
 Rapid Rod\54638.84\277201.69;
 Firefly Rod\48347\251917.57;
@@ -41,6 +41,8 @@ Trident Rod\68548.94\251518.67;
 No-Life Rod\67323.44\248604.2;
 Fischer's Rod\47207.37\233045.27;
 Adventurer's Rod\44194.13\230214.76;
+Astralhook Rod\72817.83\233103.25;
+Ethereal Prism Rod\72662.46\235131.06;
 Free Spirit Rod\72071.27\246018.42;
 Seraphic Rod\69176.73\237261.2;
 Rod Of The Forgotten Fang\63460.3\224539.76;

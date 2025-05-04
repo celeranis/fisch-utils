@@ -29,17 +29,18 @@
 {{Fish Availability|
 Mariana's Veil/Abyssal Zenith
 |top_rods      = 
+Great Rod of Oscar\10819.36\41812.56;
+Astralhook Rod\9298.52\40280.74;
 Tempest Rod\8449.93\41368.98;
+Fang of the Eclipse\8355.07\44303.37;
 Challenger's Rod\8244.53\41081.81;
-Seraphic Rod\6167.31\28710.27;
-Summit Rod\5473.37\29125.78;
-Abyssal Specter Rod\5274.26\27264.71;
 Destiny Rod\462.79\1860.17;
 Heaven's Rod\2351.66\9781.44;
-Ethereal Prism Rod\5059.79\21972.01;
 Rod Of The Depths\-0.43\-4.26;
 Rod Of The Forgotten Fang\2752.51\12918.46;
 Rod Of The Zenith\-5.29\-52.91;
+Seraphic Rod\6167.31\28710.27;
+Ethereal Prism Rod\5059.79\21972.01;
 No-Life Rod\2125.11\10684.93;
 Depthseeker Rod\1344.65\7226.98;
 Rod Of The Exalted One\695.74\3137.71;

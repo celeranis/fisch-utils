@@ -38,6 +38,7 @@ Fischer's Rod\61550.38\145075.26;
 Adventurer's Rod\61137.29\141648.29;
 Ethereal Prism Rod\98440.38\189171.95;
 Seraphic Rod\98393.59\194646.01;
+Astralhook Rod\97993.17\188913.1;
 Rod Of The Forgotten Fang\93040.17\183999.92;
 Challenger's Rod\92931.19\186010.53;
 Verdant Shear Rod\84479.92\173032.71;

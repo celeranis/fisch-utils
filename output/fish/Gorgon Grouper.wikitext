@@ -32,12 +32,14 @@ Mariana's Veil/Veil of the Forsaken
 Krampus's Rod\332228.89\364318.6;
 Plastic Rod\326380.17\347940.01;
 Magma Rod\317471.67\348136;
+Great Rod of Oscar\249981.67\213168.13;
 Leviathan's Fang Rod\234366.21\287998.91;
-Ethereal Prism Rod\231741.5\218424.77;
 Buddy Bond Rod\231595.77\320663.74;
 Fast Rod\217257.45\406586.17;
 Fischer's Rod\197399.06\369422.21;
 Adventurer's Rod\195076.71\365076.07;
+Astralhook Rod\232327.38\221331.19;
+Ethereal Prism Rod\231741.5\218424.77;
 Seraphic Rod\222125.57\224590.68;
 No-Life Rod\214789.22\243136.91;
 Rod Of The Forgotten Fang\207318.9\216947.11;

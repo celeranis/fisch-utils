@@ -28,10 +28,10 @@
 Overgrowth Caves
 |top_rods      = 
 Azure Of Lagoon\182721.84\17566.79;
+Fang of the Eclipse\181954.45\23215.14;
 Training Rod\180644.51\30270.09;
 Summit Rod\180551.46\18541.81;
 No-Life Rod\180247.41\25525.66;
-Champions Rod\179188.32\18545.15;
 Flimsy Rod\122323.16\19418.37;
 Resourceful Rod\170418.17\15685.52;
 Nocturnal Rod\132504.16\82827.88;
@@ -47,6 +47,7 @@ Zeus Rod\170474.68\21590.63;
 Volcanic Rod\166464.08\16384.96;
 Challenger's Rod\164670.31\23201.1;
 Ethereal Prism Rod\160018.63\0;
+Astralhook Rod\159812.79\0;
 Rod Of The Depths\151951.13\21011.93;
 Rod Of The Forgotten Fang\149611.8\23130.59;
 Rod Of The Exalted One\137612.68\19736.18;

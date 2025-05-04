@@ -36,6 +36,7 @@ Plastic Rod\63280.89\71491.36;
 Buddy Bond Rod\47008.66\58673.16;
 No-Life Rod\63180.28\85978.25;
 Ethereal Prism Rod\65097.81\80312.07;
+Astralhook Rod\65090.4\79987.45;
 Seraphic Rod\62929.45\80602.22;
 Rod Of The Forgotten Fang\58811.49\78323.63;
 Challenger's Rod\57042.93\78492.91;

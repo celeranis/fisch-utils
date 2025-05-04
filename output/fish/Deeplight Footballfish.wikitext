@@ -37,6 +37,7 @@ Lucky Rod\74065.25\336448.33;
 Fungal Rod\78396.1\320592.74;
 Long Rod\72736.11\292376.69;
 Brick Built Rod\70585.4\284962.6;
+Astralhook Rod\110062.07\128698.28;
 Ethereal Prism Rod\109573.4\128837;
 Seraphic Rod\103868.74\128605.9;
 No-Life Rod\100870.89\132056.99;

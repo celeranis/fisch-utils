@@ -230,6 +230,16 @@ export class Fish {
 		const lowerHint = this.Hint?.toLowerCase()
 		return lowerHint?.includes('crab cage') || lowerHint?.includes('cage fish')
 	}
+
+	isLobsterFish() {
+		const lowerHint = this.Hint?.toLowerCase()
+		return lowerHint?.includes('lobster cage')
+	}
+
+	isSchoolFish() {
+		const lowerHint = this.Hint?.toLowerCase()
+		return lowerHint?.includes('using a net')
+	}
 	
 	getZones(noDisplay: boolean = false) {
 		return Object.entries(ZoneData)
@@ -252,6 +262,10 @@ export class Fish {
 		const sources: string[] = []
 		if (this.isCageFish()) {
 			sources.push('Crab Cage')
+		} else if (this.isLobsterFish()) {
+			sources.push('Lobster Cage')
+		} else if (this.isSchoolFish()) {
+			sources.push('Fishing Net')
 		} else if (this.isMeteorItem()) {
 			sources.push('Meteor')
 		} else if (this.isClamDrop()) {

@@ -30,14 +30,15 @@ Overgrowth Caves
 Leviathan's Fang Rod\76287.27\80494.33;
 Krampus's Rod\70066.77\37690.35;
 Trident Rod\68835.97\75856.52;
+Great Rod of Oscar\67136.12\60877.99;
 Magma Rod\65781.35\36229.04;
-Ethereal Prism Rod\64284.38\59972.3;
 Plastic Rod\61038.36\31952.65;
 Free Spirit Rod\62963.05\69384.62;
 No-Life Rod\62547.81\61545.04;
 Nocturnal Rod\27546.15\37221.95;
 Resourceful Rod\48954.39\46282.83;
-Destiny Rod\51905.75\52518.67;
+Ethereal Prism Rod\64284.38\59972.3;
+Astralhook Rod\64269.11\59852.99;
 Seraphic Rod\62613.73\59372.02;
 Rod Of The Forgotten Fang\58626\55694.39;
 Challenger's Rod\56814.08\55076.46;

@@ -49,6 +49,7 @@ Rod Of The Exalted One\85849.74\59354.24;
 Depthseeker Rod\85796.48\70678.53;
 Ethereal Prism Rod\85131.09\21202.11;
 Avalanche Rod\85011.99\69952.14;
+Astralhook Rod\84363.63\0;
 Volcanic Rod\84163.72\67018.32;
 Steady Rod\43861.53\36680.44
 |recommended   = Trident Rod

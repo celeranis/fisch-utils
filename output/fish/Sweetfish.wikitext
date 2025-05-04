@@ -49,6 +49,7 @@ Ethereal Prism Rod\166820.81\86978.59;
 Rod Of The Forgotten Fang\166544.35\150219.63;
 Rod Of The Depths\166174.03\136745.03;
 Volcanic Rod\166160.07\116350.16;
+Astralhook Rod\165545.54\39234.11;
 Steady Rod\82971.13\61528.59
 |recommended   = Trident Rod
 }}

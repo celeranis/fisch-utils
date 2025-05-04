@@ -27,19 +27,20 @@
 {{Fish Availability|
 Vertigo/Vertigos Dip
 |top_rods      = 
+Great Rod of Oscar\59832.91\197725.27;
+Astralhook Rod\55184.93\202601.28;
 Ethereal Prism Rod\54027.48\200704.3;
 Leviathan's Fang Rod\52279.4\227243.33;
 Seraphic Rod\52036.24\205789.25;
-No-Life Rod\49195.35\207712.49;
-Tempest Rod\48978.93\201362.89;
 Training Rod\36252.03\164830.85;
 Resourceful Rod\40671.23\160783.74;
-Destiny Rod\44311.31\187831.05;
+Fang of the Eclipse\44586.75\209147.53;
+No-Life Rod\49195.35\207712.49;
 Free Spirit Rod\37900.9\204598.95;
-Challenger's Rod\46287.1\204222.09;
 Flimsy Rod\27397.19\178350.05;
 Lucky Rod\28082.57\152338.05;
 Rod Of The Forgotten Fang\47635.66\196926.74;
+Challenger's Rod\46287.1\204222.09;
 Rod Of The Depths\42372.86\179114.41;
 Rod Of The Exalted One\42330.73\190224.17;
 Zeus Rod\40156.83\184408.27;

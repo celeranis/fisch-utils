@@ -35,6 +35,7 @@ Adventurer's Rod\459841.51\459841.51;
 Firefly Rod\304912.16\295783.73;
 Free Spirit Rod\299270.62\149650.01;
 Trident Rod\290889.82\208663.72;
+Astralhook Rod\267719.04\228598.2;
 Verdant Shear Rod\250163.06\189788.64;
 Blazebringer Rod\241020.49\159104.34;
 No-Life Rod\225009.41\168528.62;

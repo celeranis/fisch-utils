@@ -29,16 +29,18 @@
 {{Fish Availability|
 Mariana's Veil/Challenger's Deep
 |top_rods      = 
+Great Rod of Oscar\6168.18\15980.45;
+Astralhook Rod\5440.19\14353.78;
+Fang of the Eclipse\4964.36\16599.63;
 Tempest Rod\4877.72\14728.3;
 Challenger's Rod\4758.96\14867.61;
-Seraphic Rod\4649.52\13524.95;
-Ethereal Prism Rod\4630.83\12050.32;
-Abyssal Specter Rod\3940.42\12823.81;
 Destiny Rod\2867.68\6540.21;
 Heaven's Rod\3041.29\7234.44;
 Krampus's Rod\1741.77\6482.65;
 Magnet Rod\614.5\1929.42;
 Steady Rod\704.43\2150.06;
+Seraphic Rod\4649.52\13524.95;
+Ethereal Prism Rod\4630.83\12050.32;
 No-Life Rod\3709\11412.11;
 Rod Of The Forgotten Fang\3539.35\10139.64;
 Depthseeker Rod\2733.84\8848.51;

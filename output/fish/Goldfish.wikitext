@@ -41,6 +41,7 @@ Leviathan's Fang Rod\116423.56\16112.38;
 Kraken Rod\95817.55\14719.21;
 Verdant Shear Rod\124991.55\14430.13;
 Avalanche Rod\124760.86\13776.09;
+Astralhook Rod\123005.85\0;
 No-Life Rod\119606.68\14456.4;
 Trident Rod\118157.14\10065.16;
 Free Spirit Rod\116946.46\10052.84;

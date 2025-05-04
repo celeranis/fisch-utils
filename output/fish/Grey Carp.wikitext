@@ -29,20 +29,19 @@ Mushgrove Swamp
 |top_rods      = 
 Summit Rod\165119.74\92343.54;
 Champions Rod\164488.37\92717.92;
+Astralhook Rod\163921.91\180175.67;
 Depthseeker Rod\163351.71\98455.56;
 Celestial Rod\162497.1\95390.38;
-Rapid Rod\162439.01\119049.09;
 Training Rod\150968.7\196147.26;
 Flimsy Rod\112023.77\88848.38;
 Resourceful Rod\148819.91\89525.93;
 Ethereal Prism Rod\162212.2\189289.06;
 Leviathan's Fang Rod\153932.2\139125.44;
 No-Life Rod\155177.98\127550.7;
-Seraphic Rod\153552.47\126214.59;
-Fortune Rod\86976.87\95601.1;
 Avalanche Rod\160446.12\89516.64;
 Verdant Shear Rod\160234.54\107484.39;
 Trident Rod\153685.74\90460.87;
+Seraphic Rod\153552.47\126214.59;
 Blazebringer Rod\149019.07\101413.15;
 Free Spirit Rod\148922.04\90151.13;
 Zeus Rod\147880.36\107431.05;

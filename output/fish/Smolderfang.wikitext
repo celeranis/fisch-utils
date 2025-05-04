@@ -33,7 +33,7 @@ Antler Rod\258674.92\258674.92;
 Adventurer's Rod\201015.57\201015.57;
 Long Rod\198423.81\196548.54;
 Trident Rod\168395.97\150615.76;
-Firefly Rod\159586.65\152588.99;
+Astralhook Rod\156818.48\178363.27;
 Free Spirit Rod\143186.47\106691.25;
 Verdant Shear Rod\135975.7\121618.6;
 No-Life Rod\132013.69\124303.06;
@@ -49,7 +49,7 @@ Zeus Rod\111987.38\107630.94;
 Rod Of The Exalted One\109098.16\70643.71;
 Ethereal Prism Rod\108916.75\73415.02;
 Steady Rod\93021.56\91310.62
-|recommended   = Free Spirit Rod
+|recommended   = Astralhook Rod
 }}
 
 == Catch Quips ==

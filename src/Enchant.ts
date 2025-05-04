@@ -61,7 +61,8 @@ export class Enchantment {
 					...boosts,
 					shiny_chance: this.data.StatIncrease,
 					sparkling_chance: this.data.StatIncrease,
-					lure: this.data.StatIncrease
+					lure: this.data.StatIncrease,
+					progress_speed: this.data.StatIncrease
 				}
 			case 'Blessed Song':
 			case 'Steady':
@@ -70,6 +71,8 @@ export class Enchantment {
 				return {
 					...boosts,
 					luck: this.data.StatIncrease,
+					lure: this.data.LureSpeedBonus,
+					progress_speed: this.data.ProgressSpeedBoost,
 					conditions: [
 						{
 							check: 'conditions',
@@ -85,6 +88,7 @@ export class Enchantment {
 					stab: {
 						trigger_rate: 0.15,
 					},
+					progress_speed: this.data.ProgressSpeedBoost
 				}
 			case 'Clever':
 				return { ...boosts, xp_multiply: this.data.StatIncrease }
@@ -103,19 +107,36 @@ export class Enchantment {
 					progress_speed: (this.data.ProgressSpeedBoost! * 0.01 * 0.2) + (this.data.AltProgressSpeedBoost! * 0.01 * 0.8)
 				}
 			case 'Ghastly':
-			case 'Noir':
 			case 'Quantum':
 			case 'Scavenger':
 			case 'Wormhole':
 				return boosts
 			case 'Hasty':
 			case 'Swift':
-				return { ...boosts, lure: this.data.StatIncrease }
-			case 'Herculean':
+				return {
+					...boosts,
+					 lure: this.data.StatIncrease,
+					 progress_speed: this.data.ProgressSpeedBoost
+				}
+			case 'Herculean': 
+				return {
+					...boosts,
+					strength: this.data.StatIncrease,
+					control: this.data.ControlIncrease,
+					progress_speed: this.data.ProgressSpeedBoost
+				}
 			case 'Unbreakable':
-				return { ...boosts, strength: this.data.StatIncrease }
+				return { 
+					...boosts,
+					strength: this.data.StatIncrease,
+					control: this.data.ControlIncrease
+				}
 			case 'Immortal':
-				return { ...boosts, luck: this.data.StatIncrease }
+				return {
+					...boosts,
+					luck: this.data.StatIncrease,
+					progress_speed: this.data.ProgressSpeedBoost
+				}
 			case 'Insight':
 				return {
 					...boosts,
@@ -123,7 +144,11 @@ export class Enchantment {
 					xp_multiply: this.data.StatIncrease,
 				}
 			case 'Long':
-				return { ...boosts, resilience: 20 }
+				return {
+					...boosts,
+					resilience: 20,
+					progress_speed: this.data.ProgressSpeedBoost
+				}
 			case 'Invincible':
 				return { ...boosts, strength: Number.MAX_SAFE_INTEGER }
 			case 'Lucky':
@@ -131,14 +156,17 @@ export class Enchantment {
 					...boosts,
 					luck: this.data.StatIncrease,
 					lure: 15,
+					mutation_chance: this.data.MutationStatIncrease
 				}
 			case 'Mutated':
 				return { ...boosts, mutation_chance: this.data.StatIncrease }
 			case 'Mystical':
 				return {
 					...boosts,
+					luck: this.data.LuckStatIncrease,
 					resilience: this.data.StatIncrease,
-					lure: 15
+					lure: 15,
+					progress_speed: this.data.ProgressSpeedBoost
 				}
 			case 'Quality':
 				return {
@@ -146,11 +174,17 @@ export class Enchantment {
 					luck: 15,
 					lure: 15,
 					resilience: 5,
+					progress_speed: 5,
 				}
 			case 'Resilient':
 				return {
 					...boosts,
 					resilience: this.data.StatIncrease
+				}
+			case 'Noir':
+				return {
+					...boosts,
+					add_weight: (this.data.WeightIncrease ?? 0) / 100
 				}
 			case 'Sea King':
 			case 'Sea Overlord':
@@ -162,6 +196,7 @@ export class Enchantment {
 				return {
 					...boosts,
 					luck: this.data.StatIncrease,
+					lure: this.data.LureSpeedBonus,
 					conditions: [
 						{
 							check: 'conditions',
@@ -170,8 +205,6 @@ export class Enchantment {
 						}
 					]
 				}
-			case 'Swift':
-				return { ...boosts, lure: this.data.StatIncrease }
 			default:
 				return undefined
 		}

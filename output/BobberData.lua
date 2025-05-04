@@ -1,4 +1,4 @@
--- Last update: Version [[1.30]], place version 4341
+-- Last update: Version [[1.31]], place version 4348
 
 return {
 	["Abyssal Heart"] = "Mythical",
@@ -12,6 +12,8 @@ return {
 	["Aurora"] = "Exotic",
 	["Barnacle Buoy"] = "Mythical",
 	["Bat"] = "Legendary",
+	["Betsy"] = "Exotic",
+	["Blue Claw"] = "Mythical",
 	["Blue Whale Bobber"] = "Mythical",
 	["Bobber Of Odin"] = "Mythical",
 	["Box"] = "Exotic",
@@ -28,6 +30,7 @@ return {
 	["Confetti Globe"] = "Mythical",
 	["Coral Crown"] = "Mythical",
 	["Coral Reef"] = "Rare",
+	["Crab Bobber"] = "Mythical",
 	["Crown Of the Depths"] = "Mythical",
 	["Crystallized Ball"] = "Rare",
 	["Cube"] = "Uncommon",
@@ -95,6 +98,7 @@ return {
 	["LED"] = "Legendary",
 	["Lightning"] = "Legendary",
 	["Lion’s Mane"] = "Mythical",
+	["Lobster Head"] = "Mythical",
 	["Love Heart"] = "Mythical",
 	["Lucky"] = "Rare",
 	["Lunar Serpent"] = "Mythical",

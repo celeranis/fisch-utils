@@ -48,7 +48,7 @@ Frigid Cavern
 Glacial Grotto
 Golden Tide
 Grand Reef
-LEGO Pool/Studalodon Hunt
+LEGO Pool/Studolodon Hunt
 Lovestorm/Normal
 Lovestorm/Supercharged
 Lucky Event/Blarney McBreeze
@@ -91,12 +91,13 @@ Whale Migration/Normal
 Magnet Rod\734033.76\740319.09;
 Krampus's Rod\542956.47\493695.68;
 Magma Rod\527793.57\479908.46;
+Great Rod of Oscar\490081.28\318870.37;
 Leviathan's Fang Rod\487610.13\380071.86;
-Plastic Rod\482616.01\438829.72;
 Flimsy Rod\442593.9\610286.1;
 Training Rod\446263.59\402443.02;
 Fast Rod\422882.85\551513.44;
 Fischer's Rod\371469.77\484461.78;
+Astralhook Rod\486832.04\327887.02;
 Ethereal Prism Rod\480738.27\329534.44;
 No-Life Rod\475808.79\367059.41;
 Seraphic Rod\473363.53\339543.79;

@@ -37,6 +37,7 @@ No-Life Rod\116244.1\111588.75;
 Buddy Bond Rod\64616.62\64102.61;
 Lucky Rod\68384.3\68562.25;
 Firefly Rod\108290.99\107728.34;
+Astralhook Rod\113795.52\113795.52;
 Seraphic Rod\114406.2\112762.61;
 Ethereal Prism Rod\111854.57\110222.5;
 Challenger's Rod\111663.86\103676.47;

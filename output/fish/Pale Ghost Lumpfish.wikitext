@@ -46,6 +46,7 @@ Verdant Shear Rod\134695.47\141787.64;
 Avalanche Rod\134414.58\134185.49;
 Ethereal Prism Rod\134137.85\44701.7;
 Rod Of The Depths\133774.64\126351.62;
+Astralhook Rod\133288.75\0;
 Rod Of The Exalted One\132549.4\98072.27;
 Volcanic Rod\130821.39\129876.37;
 Steady Rod\70909.18\70824.59

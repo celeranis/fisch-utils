@@ -29,17 +29,18 @@
 {{Fish Availability|
 Megalodon Hunt/Eclipse and Weekend
 |top_rods      = 
+Great Rod of Oscar\27909.34\67329.72;
+Astralhook Rod\26605.58\70445.53;
 Tempest Rod\25714.64\70382.87;
 Seraphic Rod\25605.17\69785.18;
 Ethereal Prism Rod\24971.54\64783;
-Challenger's Rod\24735.64\69957.83;
-Leviathan's Fang Rod\23866.08\61250.61;
 Destiny Rod\16922.97\41260.07;
 Heaven's Rod\16663.22\41335.46;
-No-Life Rod\23219.35\63751.75;
+Challenger's Rod\24735.64\69957.83;
 Abyssal Specter Rod\21331.99\63005.4;
 Zeus Rod\16255.66\45336.02;
 The Lost Rod\14439.97\40272.17;
+No-Life Rod\23219.35\63751.75;
 Rod Of The Forgotten Fang\21496.2\57278.99;
 Rod Of The Exalted One\17414.43\45057.86;
 Avalanche Rod\13734.48\39260.01;

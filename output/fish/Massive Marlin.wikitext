@@ -39,6 +39,7 @@ Fungal Rod\72973.21\66045.64;
 Candy Cane Rod\56414.4\54561.03;
 Free Spirit Rod\101589.22\56948.09;
 Ethereal Prism Rod\98293.19\53405.22;
+Astralhook Rod\98282.91\52717.18;
 No-Life Rod\96605.35\59847.82;
 Seraphic Rod\95878.7\53881.78;
 Rod Of The Forgotten Fang\89828.4\50224.88;

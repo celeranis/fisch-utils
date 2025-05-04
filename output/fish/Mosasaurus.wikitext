@@ -27,15 +27,17 @@
 {{Fish Availability|
 Ancient Isle/Surrounding Ocean
 |top_rods      = 
+Great Rod of Oscar\25828.75\75628.88;
+Astralhook Rod\23815.87\77296.56;
 Leviathan's Fang Rod\23442.64\94116.43;
 Ethereal Prism Rod\23365.27\75075.79;
 Seraphic Rod\22763.41\77381.22;
-Tempest Rod\21697.86\76980.26;
-No-Life Rod\21459.82\78011.15;
 Destiny Rod\18146.72\54812.85;
 Heaven's Rod\16472.4\57238.28;
-Challenger's Rod\20517.45\77036.9;
+No-Life Rod\21459.82\78011.15;
+Fang of the Eclipse\19885.67\77094.83;
 Kraken Rod\18727.78\61129.87;
+Challenger's Rod\20517.45\77036.9;
 Rod Of The Forgotten Fang\20392.6\70940.6;
 Rod Of The Exalted One\17680.38\58919.34;
 Rod Of The Depths\17491.85\61095.38;

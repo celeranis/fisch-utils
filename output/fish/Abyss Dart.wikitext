@@ -37,6 +37,7 @@ Adventurer's Rod\131916.06\319427;
 Fast Rod\157240.71\299956.31;
 Resourceful Rod\130530.99\278018.89;
 Candy Cane Rod\141770.57\277183.83;
+Astralhook Rod\138333.35\177180.21;
 Free Spirit Rod\128776.86\200275.05;
 Verdant Shear Rod\105157.27\150020.44;
 Blazebringer Rod\102033.74\142835.94;
@@ -52,7 +53,7 @@ Volcanic Rod\61969.88\86862.38;
 Zeus Rod\61755.24\86561.53;
 Depthseeker Rod\61489.91\87780.54;
 Avalanche Rod\61092.97\87376.96
-|recommended   = Free Spirit Rod
+|recommended   = Astralhook Rod
 }}
 
 == Catch Quips ==

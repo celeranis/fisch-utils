@@ -49,6 +49,7 @@ Rod Of The Depths\168651.19\18762.24;
 Seraphic Rod\167206.98\22603.23;
 Rod Of The Forgotten Fang\166385.56\20647.49;
 Rod Of The Exalted One\157610.02\17620.71;
+Astralhook Rod\153887.71\0;
 Ethereal Prism Rod\153559.16\0;
 Steady Rod\84566.14\9341.47
 |recommended   = Trident Rod

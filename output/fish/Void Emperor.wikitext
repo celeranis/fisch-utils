@@ -40,6 +40,7 @@ Wildflower Rod\50609.53\78285.22;
 Haunted Rod\37854.39\58642.27;
 Rapid Rod\69243.9\107301.96;
 Seraphic Rod\75203.29\109706.53;
+Astralhook Rod\74033.32\109075.84;
 Ethereal Prism Rod\73624.28\105900.48;
 Challenger's Rod\72612.73\110584.97;
 Rod Of The Forgotten Fang\68091.72\101103.86;

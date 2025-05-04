@@ -29,15 +29,17 @@
 Pine Shoals
 |top_rods      = 
 Free Spirit Rod\27618.62\90817.5;
+Great Rod of Oscar\26903.41\171542.32;
+Astralhook Rod\25595.02\229559.08;
 Leviathan's Fang Rod\23685.98\65965.18;
 Krampus's Rod\23652.19\176485.46;
 Magma Rod\22826.85\170327.01;
-Trident Rod\22497.81\60869.13;
 Plastic Rod\22161.99\165366.02;
-Training Rod\13341.46\338877.18;
-Flimsy Rod\15645.04\283309.61;
+Training Rod\14003.3\676769.23;
+Flimsy Rod\16687.24\542692.31;
 Fischer's Rod\18989.55\177654.41;
 Buddy Bond Rod\16304.02\172962.07;
+Trident Rod\22497.81\60869.13;
 Steady Rod\20855.05\165255.8;
 Verdant Shear Rod\19358.04\74731.02;
 Blazebringer Rod\18896.49\77085.12;

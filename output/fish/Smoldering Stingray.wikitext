@@ -34,6 +34,7 @@ Buddy Bond Rod\267929.03\403724.29;
 Fast Rod\252910.63\469070.11;
 Fischer's Rod\224057.26\415556.13;
 Adventurer's Rod\222677.03\412996.24;
+Astralhook Rod\227210.72\192752.4;
 Ethereal Prism Rod\226028.46\166528.94;
 Seraphic Rod\215627.38\167551.15;
 No-Life Rod\210132.52\173938.03;

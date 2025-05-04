@@ -30,14 +30,15 @@ Atlantis/Sunken Depths
 Leviathan's Fang Rod\56613.49\247582.87;
 Free Spirit Rod\45801.64\233274.7;
 Trident Rod\44793.29\228139.03;
+Great Rod of Oscar\41553.37\131758.62;
 Ethereal Prism Rod\39473.3\139851.34;
-No-Life Rod\38321.39\168611.42;
 Resourceful Rod\30351.11\113858.32;
 Destiny Rod\31572.63\121418.79;
-Heaven's Rod\28307.24\123625.62;
+No-Life Rod\38321.39\168611.42;
 Seraphic Rod\37941.21\145707.1;
 Rod Of The Forgotten Fang\35340.62\140523.19;
 Rod Of The Zenith\33613.21\125972.37;
+Astralhook Rod\39405.51\139788.27;
 Challenger's Rod\34131.77\139363.21;
 Rod Of The Depths\31517.38\123057.03;
 Rod Of The Exalted One\31239.55\122835.3;

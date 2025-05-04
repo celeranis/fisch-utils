@@ -48,6 +48,7 @@ Zeus Rod\302864.95\53783.31;
 Ethereal Prism Rod\298189.73\0;
 Depthseeker Rod\296989.16\49195.58;
 Volcanic Rod\295834.9\40849.67;
+Astralhook Rod\295781.52\0;
 Rod Of The Forgotten Fang\295321.42\57541.48;
 Rod Of The Depths\295113.36\52421.65;
 Avalanche Rod\293622.77\44230.77;

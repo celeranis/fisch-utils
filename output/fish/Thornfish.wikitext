@@ -29,13 +29,13 @@
 {{Fish Availability|
 Pine Shoals
 |top_rods      = 
+Great Rod of Oscar\805.66\7881.37;
+Astralhook Rod\758.39\6197.03;
+Fang of the Eclipse\655.55\4125.25;
+Carrot Rod\612.1\4267.38;
 Free Spirit Rod\580.63\4030.89;
-Egg Rod\522.14\3230.36;
-Blazebringer Rod\491.48\3198.14;
-Azure Of Lagoon\490.94\3285.75;
-Great Dreamer Rod\481.89\3032.44;
 Resourceful Rod\416.97\3450.06;
-Destiny Rod\334.41\2331.41;
+Blazebringer Rod\491.48\3198.14;
 Verdant Shear Rod\479.93\2969.24;
 Trident Rod\382.79\2368.24;
 Seraphic Rod\371.69\2299.55;
@@ -50,7 +50,7 @@ Avalanche Rod\279.78\1552.39;
 Volcanic Rod\278.62\1580.47;
 Zeus Rod\271.34\1539.21;
 Steady Rod\266.48\1429.54
-|recommended   = Free Spirit Rod
+|recommended   = Astralhook Rod
 }}
 
 == Gameplay Notes ==

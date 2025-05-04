@@ -31,15 +31,16 @@ Cryogenic Canal
 Leviathan's Fang Rod\85807.03\218996.19;
 Free Spirit Rod\74785.49\214303;
 Trident Rod\71847.36\205883.61;
+Great Rod of Oscar\62806.81\127504.5;
 Ethereal Prism Rod\61565.13\131385.53;
-No-Life Rod\60965.92\157622.66;
 Resourceful Rod\46381.32\105776.15;
 Destiny Rod\47919.61\103710.8;
-Heaven's Rod\45134.82\112876.02;
 Azure Of Lagoon\49490.61\162422.6;
+No-Life Rod\60965.92\157622.66;
 Brick Built Rod\36899.91\113571.59;
 Fungal Rod\42341.2\130881.84;
 Antler Rod\36827.44\108256.68;
+Astralhook Rod\61418.45\132522.06;
 Seraphic Rod\60323.62\136158.08;
 Rod Of The Forgotten Fang\55801.04\129890.85;
 Challenger's Rod\55001.96\134759.56;

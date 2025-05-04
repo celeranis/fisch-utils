@@ -39,6 +39,7 @@ Nocturnal Rod\127751.15\76803.8;
 Fast Rod\191432.12\25766.02;
 Depthseeker Rod\191693.36\20409.17;
 Avalanche Rod\189373.28\18293.72;
+Astralhook Rod\189334.96\0;
 Ethereal Prism Rod\189246.29\0;
 Verdant Shear Rod\187017.29\22290.05;
 Trident Rod\182545.22\18647.58;

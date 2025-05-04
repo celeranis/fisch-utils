@@ -30,18 +30,19 @@ Open Ocean
 Open Ocean/Sea Leviathan
 |top_rods      = 
 Free Spirit Rod\33896.7\58951.29;
+Great Rod of Oscar\33658.12\69327;
+Astralhook Rod\32185.33\68750.66;
 Frostfire Rod\30949.9\29085.7;
 Steady Rod\30232.57\26196.62;
 Magma Rod\26299.37\26538.44;
-Leviathan's Fang Rod\26117.01\43071.13;
+Carrot Rod\28573.73\63439.96;
+Fang of the Eclipse\28416.11\63359.36;
 Verdant Shear Rod\25352.16\62392.69;
-Firefly Rod\23765.47\60353.47;
-Egg Rod\25587.16\56695.44;
-Blazebringer Rod\23863.07\54112.06;
 Brick Built Rod\17940.65\50479.52;
 Nocturnal Rod\7575.9\35824.45;
 Long Rod\14328.21\37218.87;
 Trident Rod\24440.67\41477.98;
+Blazebringer Rod\23863.07\54112.06;
 Seraphic Rod\16906.55\37461.14;
 Ethereal Prism Rod\16781\37838.84;
 No-Life Rod\16538.66\35278.84;

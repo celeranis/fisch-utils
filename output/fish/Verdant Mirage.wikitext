@@ -29,15 +29,17 @@
 {{Fish Availability|
 Azure Lagoon
 |top_rods      = 
+Great Rod of Oscar\1073.48\7879.32;
+Astralhook Rod\986.29\7906.48;
+Fang of the Eclipse\866.33\8293.45;
+Carrot Rod\650.72\5762.84;
 Free Spirit Rod\611.14\5206.1;
-Azure Of Lagoon\558.57\5113.7;
-Egg Rod\519.87\5023.81;
-Blazebringer Rod\489.74\4603.25;
 Resourceful Rod\472.96\4745.54;
-Destiny Rod\325.51\2882.72;
+Lobster Rod\609.95\5536.84;
 Event Horizon Rod\180.15\2548.64;
 Astral Rod\180.15\2548.64;
 Magma Rod\218.66\3134.13;
+Blazebringer Rod\489.74\4603.25;
 Challenger's Rod\450.24\4525.95;
 Seraphic Rod\441.97\4271;
 Verdant Shear Rod\429.88\4154.16;
@@ -52,7 +54,7 @@ Avalanche Rod\251.04\2639.69;
 Volcanic Rod\242.29\2487.12;
 Steady Rod\233.67\2553.26;
 Zeus Rod\224.85\2308.05
-|recommended   = Free Spirit Rod
+|recommended   = Astralhook Rod
 }}
 
 == Gameplay Notes ==

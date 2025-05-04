@@ -29,13 +29,14 @@
 {{Fish Availability|
 Animal Hunt/First Sea
 |top_rods      = 
+Astralhook Rod\101346.02\282922.78;
 Ethereal Prism Rod\96854.01\205996.12;
 Trident Rod\94846.55\66770.86;
 Leviathan's Fang Rod\94663.61\119571.13;
 No-Life Rod\91461.6\91461.6;
-Seraphic Rod\89653.56\89653.56;
 Fortune Rod\53225.14\148586.04;
 Kraken Rod\75286.64\106893.31;
+Seraphic Rod\89653.56\89653.56;
 Free Spirit Rod\89573.21\66327.74;
 Depthseeker Rod\86024.24\80428.93;
 Challenger's Rod\81949.3\81949.3;

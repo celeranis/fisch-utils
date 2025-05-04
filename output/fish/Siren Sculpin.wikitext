@@ -30,10 +30,10 @@ Mariana's Veil/Scylla Hunt
 Mariana's Veil/Veil of the Forsaken
 |top_rods      = 
 Leviathan's Fang Rod\125672.94\274460.92;
+Great Rod of Oscar\124547.41\176491.96;
+Astralhook Rod\115053.02\177107.22;
 Ethereal Prism Rod\114679.27\177518.19;
 Seraphic Rod\109962.57\179436.47;
-No-Life Rod\105550.24\185368.47;
-Tempest Rod\103781.39\176981.48;
 Plastic Rod\94652.93\161533.49;
 Buddy Bond Rod\76125.34\110093.92;
 Krampus's Rod\103493.88\119027.27;
@@ -44,6 +44,7 @@ Fast Rod\75777.78\239449.46;
 Lucky Rod\69349.96\157562.02;
 Long Rod\66690.23\179287.1;
 Brick Built Rod\65677.6\177832.37;
+No-Life Rod\105550.24\185368.47;
 Rod Of The Forgotten Fang\101353.53\171001.96;
 Challenger's Rod\97068.4\174274.6;
 Rod Of The Exalted One\89556.25\147401.77;

@@ -30,12 +30,13 @@
 Octophant Hunt/Octophant Catchable
 Octophant Hunt/Octophant Uncatchable
 |top_rods      = 
+Fang of the Eclipse\105173.09\155139.5;
+Great Rod of Oscar\104393.31\153149.01;
+Astralhook Rod\101836.12\149697.6;
 Free Spirit Rod\84837.76\116328.68;
 Blazebringer Rod\73435\100901.51;
-Azure Of Lagoon\60188\88714.76;
-Egg Rod\57292.32\84524.24;
-Challenger's Rod\56733.77\83752.3;
 Trident Rod\52423.74\72071.96;
+Challenger's Rod\56733.77\83752.3;
 Seraphic Rod\52108.12\76875.92;
 Ethereal Prism Rod\44833.45\66097.78;
 No-Life Rod\41974.57\61969.11;
@@ -47,7 +48,7 @@ Avalanche Rod\28861.19\42633.69;
 Steady Rod\27015.51\39927.37;
 Volcanic Rod\26749.53\39500.87;
 Zeus Rod\24147.2\35658.03
-|recommended   = Free Spirit Rod
+|recommended   = Astralhook Rod
 }}
 
 == Catch Quips ==

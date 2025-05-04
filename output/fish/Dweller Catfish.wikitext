@@ -40,6 +40,7 @@ Nocturnal Rod\76046.31\73637.63;
 Firefly Rod\118738.22\34175.57;
 Seraphic Rod\136417.29\36726.94;
 Ethereal Prism Rod\135524.98\36372.7;
+Astralhook Rod\134812.85\36439.23;
 Challenger's Rod\133007.45\36403.67;
 Rod Of The Forgotten Fang\131771.65\35831.03;
 Zeus Rod\121015.62\33106.17;

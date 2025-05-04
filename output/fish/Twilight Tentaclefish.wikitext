@@ -29,17 +29,18 @@
 Mariana's Veil/Scylla Hunt
 Mariana's Veil/Veil of the Forsaken
 |top_rods      = 
+Great Rod of Oscar\70411.13\173737.12;
+Astralhook Rod\63616.64\172692.2;
 Ethereal Prism Rod\59495.05\162552.84;
 Seraphic Rod\58964.85\171345.84;
 Tempest Rod\57439.77\175632.15;
-Leviathan's Fang Rod\56239.29\156737.47;
-Challenger's Rod\54444.54\170699.36;
 Resourceful Rod\46376.02\135436.03;
 Destiny Rod\41877.15\106920.09;
-Heaven's Rod\40547.53\106667.67;
-No-Life Rod\50726.85\160335.27;
+Fang of the Eclipse\52589.64\178438.32;
 Frog Rod\23664.11\86408.75;
 Wildflower Rod\25312.02\103773.97;
+Challenger's Rod\54444.54\170699.36;
+No-Life Rod\50726.85\160335.27;
 Rod Of The Forgotten Fang\49305.92\144322.31;
 Free Spirit Rod\42679.12\141288.68;
 Rod Of The Exalted One\40729.14\115065.84;

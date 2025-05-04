@@ -44,6 +44,7 @@ Zeus Rod\153822.89\17332.46;
 Ethereal Prism Rod\153505.36\0;
 Rod Of The Depths\152786.65\16256.91;
 Blazebringer Rod\152705.13\17237.86;
+Astralhook Rod\152701.61\0;
 Verdant Shear Rod\152131.24\17505.46;
 Rod Of The Exalted One\151654.91\0;
 Depthseeker Rod\150038.17\16484.61;

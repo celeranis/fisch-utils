@@ -29,19 +29,20 @@
 Roslit Bay/Freshwater Pond
 Roslit Bay/Freshwater Pond Seaweed
 |top_rods      = 
+Great Rod of Oscar\104799.41\626821.69;
+Astralhook Rod\90993.72\640079.39;
 Ethereal Prism Rod\90154.86\641327.04;
 Leviathan's Fang Rod\88592.61\793000.32;
 Seraphic Rod\83097.77\653700.43;
-Rod Of The Forgotten Fang\77419.11\643650.53;
-Destiny Rod\76922.6\618718.58;
 Resourceful Rod\71773.18\532256.88;
-Heaven's Rod\66569.35\612487.37;
+Destiny Rod\76922.6\618718.58;
 Trident Rod\62616.7\765794.23;
 Free Spirit Rod\62534.54\753994.43;
 No-Life Rod\76799.45\677344.28;
 Flimsy Rod\34489.24\603571.43;
 Training Rod\27622.57\368768.62;
 Rod Of The Depths\68628.83\628271.26;
+Rod Of The Forgotten Fang\77419.11\643650.53;
 Challenger's Rod\71209.32\640465.38;
 Rod Of The Exalted One\70380.38\629249.43;
 Zeus Rod\62848.47\600273.2;

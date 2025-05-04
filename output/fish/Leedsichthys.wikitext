@@ -29,13 +29,14 @@
 Ancient Isle/Waterfall
 |top_rods      = 
 Leviathan's Fang Rod\101149.54\894543.84;
+Great Rod of Oscar\93587.82\520898.64;
+Astralhook Rod\86517.14\542165.68;
 Ethereal Prism Rod\86386.77\541031.53;
 Seraphic Rod\82410.19\543382.18;
-Trident Rod\79953.57\611895.3;
-No-Life Rod\79924.81\591199.59;
 Resourceful Rod\66750.02\442489.22;
 Destiny Rod\70012.83\468147.23;
-Heaven's Rod\62093.15\497663.04;
+Trident Rod\79953.57\611895.3;
+No-Life Rod\79924.81\591199.59;
 Free Spirit Rod\75977.73\581467.6;
 Rod Of The Depths\68122.69\481796.14;
 Rod Of The Forgotten Fang\76570.64\531364.24;

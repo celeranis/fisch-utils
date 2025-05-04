@@ -37,6 +37,7 @@ Flimsy Rod\72890.9\116558.67;
 Training Rod\51141.39\97418.53;
 Free Spirit Rod\106471.54\121906.67;
 Ethereal Prism Rod\100827.06\92742.57;
+Astralhook Rod\100701.81\93879.03;
 No-Life Rod\98353.16\98855.17;
 Seraphic Rod\97872.83\96232.44;
 Rod Of The Forgotten Fang\91585.75\87162.4;

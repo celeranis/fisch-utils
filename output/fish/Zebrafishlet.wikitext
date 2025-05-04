@@ -41,6 +41,7 @@ Azure Of Lagoon\189091.55\220284.72;
 Frog Rod\157705.33\182627.67;
 Seraphic Rod\185134.76\162824.52;
 Ethereal Prism Rod\184033.71\36968.74;
+Astralhook Rod\183224.81\0;
 Rod Of The Forgotten Fang\179164.13\148778.04;
 Challenger's Rod\179104.37\219851.63;
 Rod Of The Exalted One\174854.83\111776.42;

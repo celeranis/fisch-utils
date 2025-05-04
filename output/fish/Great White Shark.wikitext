@@ -29,14 +29,15 @@
 Shark Hunt/Great White Shark
 |top_rods      = 
 Leviathan's Fang Rod\49985.5\382499.73;
+Great Rod of Oscar\40356.49\227000.37;
 Ethereal Prism Rod\37297.24\233907.17;
+Astralhook Rod\37255.17\229062.96;
 Free Spirit Rod\36914.12\368104.98;
-Trident Rod\35701.67\356014.46;
-Seraphic Rod\35511.62\234826.19;
 Resourceful Rod\28810.61\183532.24;
 Destiny Rod\30031.24\187765.74;
-Heaven's Rod\26770.67\189386.78;
+Trident Rod\35701.67\356014.46;
 No-Life Rod\35156.72\260682.23;
+Seraphic Rod\35511.62\234826.19;
 Rod Of The Depths\28895.57\196105.14;
 Rod Of The Forgotten Fang\32805.29\222155.9;
 Rod Of The Zenith\30390.66\200548.19;

@@ -29,17 +29,16 @@
 {{Fish Availability|
 Octophant Hunt/Octophant Catchable
 |top_rods      = 
+Fang of the Eclipse\57203.71\178573.65;
+Great Rod of Oscar\53230.7\152878.82;
+Astralhook Rod\50055.49\146931.9;
 Challenger's Rod\30456.85\96913.4;
 Tempest Rod\28257.7\89546.08;
-Summit Rod\25510.73\82470.95;
-Seraphic Rod\17223.69\53958.65;
-Abyssal Specter Rod\16807.48\53951.76;
-Destiny Rod\-339.46\-339.46;
-Heaven's Rod\3123.09\9231.43;
-Azure Of Lagoon\12558.31\37692.35;
+Carrot Rod\6777.52\19937.4;
 Krampus's Rod\-1080.11\-1080.11;
 Steady Rod\-1188.12\-1188.12;
-Crystalized Rod\-684.68\-684.68;
+Firework Rod\-684.68\-684.68;
+Seraphic Rod\17223.69\53958.65;
 Ethereal Prism Rod\9225.85\27437.68;
 No-Life Rod\3784.67\11496.63;
 Rod Of The Forgotten Fang\3702.66\11135.53;
@@ -49,7 +48,7 @@ Avalanche Rod\-975.95\-975.95;
 Rod Of The Depths\-975.95\-975.95;
 Volcanic Rod\-1288.81\-1288.81;
 Zeus Rod\-1675.05\-1675.05
-|recommended   = 
+|recommended   = Astralhook Rod
 }}
 
 == Catch Quips ==

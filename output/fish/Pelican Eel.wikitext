@@ -29,15 +29,14 @@
 Open Ocean
 Open Ocean/Sea Leviathan
 |top_rods      = 
+Great Rod of Oscar\28315\71669.27;
 Free Spirit Rod\27676.32\67767.9;
-Leviathan's Fang Rod\21042.78\45752.46;
-Egg Rod\21032.64\58211.59;
-Azure Of Lagoon\20229.09\52795.52;
-Great Dreamer Rod\19633.15\54646.38;
+Astralhook Rod\27066.99\71394.65;
+Fang of the Eclipse\23963.64\66699.76;
+Carrot Rod\23684.14\65327.43;
 Steady Rod\18732.67\26807.04;
 Krampus's Rod\18128.63\24703.44;
 Blazebringer Rod\19628.3\55496.92;
-Destiny Rod\13171.6\36330.94;
 Trident Rod\19514.55\43952.88;
 Seraphic Rod\14144.07\39146.22;
 Ethereal Prism Rod\13959.02\39213.09;

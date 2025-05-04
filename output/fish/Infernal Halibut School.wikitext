@@ -1,0 +1,36 @@
+{{FishInfobox
+|image          = Infernal Halibut School.png
+|rarity         = Mythical
+|sea            = Second Sea
+|location       = [[Net Fishing]]
+|sublocation    = 
+|sources        = Fishing Net
+|radar_location = 
+|xp             = 8000
+|weather        = 
+|time           = 
+|season         = Winter, Spring
+|bait           = 
+|base_weight    = 67
+|base_value     = 14000
+|weight_range   = 42
+|base_chance    = 5
+|base_resil     = 20
+}}
+'''Infernal Halibut School''' is a {{Rarity|Mythical}} fish found in [[Net Fishing]].
+
+== Description ==
+{{Description|A school of awesome fish!|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Caught in oceans using a net.|Bestiary Hint}}
+
+== Catch Quips ==
+When catching an Infernal Halibut School, the player has a chance to make one of the following exclamations:
+* Wow, that's a lot of them!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Net Fishing}}

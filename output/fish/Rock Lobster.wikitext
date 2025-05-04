@@ -1,0 +1,40 @@
+{{FishInfobox
+|image          = Rock Lobster.png
+|rarity         = Unusual
+|sea            = Second Sea
+|location       = [[Lobster Fishing (Sea 2)]]
+|sublocation    = 
+|sources        = Lobster Cage
+|radar_location = 
+|xp             = 360
+|weather        = Windy
+|time           = Night
+|season         = Summer, Autumn
+|bait           = 
+|base_weight    = 6.8
+|base_value     = 630
+|weight_range   = 4.8
+|base_chance    = 50
+|base_resil     = 70
+}}
+'''Rock Lobster''' is an {{Rarity|Unusual}} fish found in [[Lobster Fishing (Sea 2)]].
+
+== Description ==
+{{Description|Lobsters are valuable crustaceans known for their rich, succulent meat. Lobsters are most active in the summer to autumn, and are commonly caught in crab cages during calm clear days.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Caught in oceans using a lobster cage.|Bestiary Hint}}
+
+== Catch Quips ==
+When catching a Rock Lobster, the player has a chance to make one of the following exclamations:
+* A Larry Lobster!
+* Woah! A Lobster
+* Awesome!
+* A Lobster!
+* Ou! A Lobster!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Lobster Fishing (Sea 2)}}

@@ -1,0 +1,40 @@
+{{FishInfobox
+|image          = Ancient Lobster.png
+|rarity         = Mythical
+|sea            = First Sea
+|location       = [[Lobster Fishing (Sea 1)]]
+|sublocation    = 
+|sources        = Lobster Cage
+|radar_location = 
+|xp             = 8000
+|weather        = Foggy
+|time           = Night
+|season         = Winter, Spring
+|bait           = 
+|base_weight    = 65
+|base_value     = 13000
+|weight_range   = 45
+|base_chance    = 5
+|base_resil     = 20
+}}
+'''Ancient Lobster''' is a {{Rarity|Mythical}} fish found in [[Lobster Fishing (Sea 1)]].
+
+== Description ==
+{{Description|Lobsters are valuable crustaceans known for their rich, succulent meat. Lobsters are most active in the summer to autumn, and are commonly caught in crab cages during calm clear days.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Caught in oceans using a lobster cage.|Bestiary Hint}}
+
+== Catch Quips ==
+When catching an Ancient Lobster, the player has a chance to make one of the following exclamations:
+* A Larry Lobster!
+* Woah! A Lobster
+* Awesome!
+* A Lobster!
+* Ou! A Lobster!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Lobster Fishing (Sea 1)}}

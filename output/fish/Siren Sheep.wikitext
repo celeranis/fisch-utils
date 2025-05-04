@@ -37,7 +37,7 @@ Krampus's Rod\106588.51\134196.89;
 Carbon Rod\105990.77\322032.94;
 Rapid Rod\48258.05\262116.19;
 Free Spirit Rod\86067.07\226685.96;
-Egg Rod\71694.89\203773.45;
+Astralhook Rod\93300.94\226094.97;
 Verdant Shear Rod\68983.79\196067.88;
 Trident Rod\67688.68\157954.82;
 Blazebringer Rod\67365.95\187375.12;
@@ -52,7 +52,7 @@ Volcanic Rod\40496.38\120526.48;
 Depthseeker Rod\40397.47\122210.88;
 Zeus Rod\40250.2\119793.77;
 Avalanche Rod\39969.91\121118.55
-|recommended   = Free Spirit Rod
+|recommended   = Astralhook Rod
 }}
 
 == Catch Quips ==

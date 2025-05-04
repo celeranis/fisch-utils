@@ -29,14 +29,16 @@
 {{Fish Availability|
 Emberreach/Volcano
 |top_rods      = 
+Great Rod of Oscar\1846.41\38951.67;
+Astralhook Rod\1625.3\39328.3;
+Fang of the Eclipse\1327.92\40451.91;
+Carrot Rod\1152.32\31819.77;
 Free Spirit Rod\1071.92\28607.43;
-Azure Of Lagoon\940.78\27920.24;
-Egg Rod\932.52\28742.98;
-Blazebringer Rod\884.69\26338.17;
-Great Dreamer Rod\843.35\25690.65;
 Steady Rod\436.23\15649.13;
 Krampus's Rod\432.61\15996.59;
+Lobster Rod\1044.36\29756.53;
 Magnet Rod\342.35\12962.39;
+Blazebringer Rod\884.69\26338.17;
 Verdant Shear Rod\822.83\25362.01;
 Seraphic Rod\716.26\22077.27;
 Challenger's Rod\691.84\22397.22;
@@ -50,7 +52,7 @@ Rod Of The Depths\504.09\15916.69;
 Avalanche Rod\468.51\16033.87;
 Volcanic Rod\464.46\15430.69;
 Zeus Rod\444.25\14759.11
-|recommended   = Free Spirit Rod
+|recommended   = Astralhook Rod
 }}
 
 == Gameplay Notes ==

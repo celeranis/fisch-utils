@@ -38,6 +38,7 @@ Training Rod\42251.71\45618.99;
 Flimsy Rod\65130.49\60217.46;
 Nocturnal Rod\32393.65\50413.78;
 Trident Rod\84875.85\50400.96;
+Astralhook Rod\84408.93\47349.42;
 Ethereal Prism Rod\84337.69\47403.08;
 Seraphic Rod\81549.56\46649.83;
 No-Life Rod\81027.71\47363.03;

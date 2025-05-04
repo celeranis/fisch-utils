@@ -43,6 +43,7 @@ Depthseeker Rod\163126.51\114735.92;
 Free Spirit Rod\161533.15\104437.1;
 Avalanche Rod\160248.25\111990.95;
 Verdant Shear Rod\159958.96\124517.11;
+Astralhook Rod\153395.1\135020.33;
 Blazebringer Rod\150234.58\117483.78;
 Zeus Rod\149086.59\124455.32;
 Volcanic Rod\145508.66\94452.86;

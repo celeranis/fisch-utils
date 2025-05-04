@@ -35,6 +35,7 @@ Event Horizon Rod\81333.75\67912.23;
 Fischer's Rod\65318.74\289217.12;
 Candy Cane Rod\73693.09\70695.9;
 Nocturnal Rod\18121.26\48265.69;
+Astralhook Rod\56877.32\61512.52;
 Free Spirit Rod\50225.64\45751.03;
 Verdant Shear Rod\47810.24\54544.99;
 Blazebringer Rod\44684.88\49655.91;
@@ -50,7 +51,7 @@ Rod Of The Depths\32682.76\30257.31;
 Avalanche Rod\32597.72\27367.39;
 Volcanic Rod\32357.45\28563.53;
 Zeus Rod\32252.23\28505.44
-|recommended   = Free Spirit Rod
+|recommended   = Astralhook Rod
 }}
 
 == Catch Quips ==

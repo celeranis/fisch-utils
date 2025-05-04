@@ -28,13 +28,15 @@
 {{Fish Availability|
 Shark Hunt/Whale Shark
 |top_rods      = 
+Great Rod of Oscar\59348.74\354047.79;
+Astralhook Rod\54871.14\368706.54;
 Ethereal Prism Rod\54173.64\360949.34;
 Leviathan's Fang Rod\53558.34\444379.59;
 Seraphic Rod\52482.37\375500.39;
-No-Life Rod\50193.58\376290.49;
-Tempest Rod\50025.91\368854.36;
 Destiny Rod\43085.45\301286.17;
 Heaven's Rod\38539.11\321626.79;
+Fang of the Eclipse\45842.51\377951.09;
+No-Life Rod\50193.58\376290.49;
 Challenger's Rod\47267.84\369166.2;
 Azure Of Lagoon\35484.15\289096.79;
 Rod Of The Forgotten Fang\47885.25\358104.95;

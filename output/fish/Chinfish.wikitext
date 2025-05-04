@@ -44,6 +44,7 @@ Depthseeker Rod\156846.14\119869.45;
 Avalanche Rod\155528.53\107595.06;
 Challenger's Rod\155379.47\140538.47;
 Volcanic Rod\154635.38\108280.23;
+Astralhook Rod\150566.42\69616.49;
 Rod Of The Depths\149055.91\127520.07;
 Rod Of The Forgotten Fang\148773.63\140204.99;
 Ethereal Prism Rod\148613.57\110122.04;

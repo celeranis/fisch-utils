@@ -45,6 +45,7 @@ Ethereal Prism Rod\153769.44\0;
 Rod Of The Depths\153633.63\16283.68;
 Blazebringer Rod\153452.46\17322.22;
 Verdant Shear Rod\153073.23\17581.57;
+Astralhook Rod\152988.47\0;
 Rod Of The Exalted One\152314.97\0;
 Depthseeker Rod\150595.79\16545.87;
 Avalanche Rod\149317.39\15376.56;

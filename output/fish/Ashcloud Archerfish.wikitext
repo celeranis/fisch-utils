@@ -30,14 +30,15 @@
 {{Fish Availability|
 Roslit Bay/Ashfall
 |top_rods      = 
+Great Rod of Oscar\23410.73\102626.95;
+Astralhook Rod\21153.83\99840.63;
 Tempest Rod\19549.59\100773.38;
+Fang of the Eclipse\18869.21\102444.97;
 Challenger's Rod\18833.28\98290.76;
-Seraphic Rod\18737.26\93249.53;
-Ethereal Prism Rod\18121.65\85960.73;
-Abyssal Specter Rod\15202\81421.59;
 Resourceful Rod\11813.08\53904.64;
 Destiny Rod\11084.72\49890.46;
-Heaven's Rod\11723.16\53999.17;
+Seraphic Rod\18737.26\93249.53;
+Ethereal Prism Rod\18121.65\85960.73;
 No-Life Rod\14778\77616.06;
 Rod Of The Forgotten Fang\14412.05\72131.84;
 Free Spirit Rod\11992.94\59685.16;

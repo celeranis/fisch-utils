@@ -28,13 +28,13 @@
 {{Fish Availability|
 Emberreach/Freshwater Pond
 |top_rods      = 
+Great Rod of Oscar\57733.82\307664.13;
+Astralhook Rod\52627.95\310144.57;
+Fang of the Eclipse\44101.81\314376;
+Carrot Rod\41682.11\280288.03;
 Free Spirit Rod\37538.78\256893.69;
-Egg Rod\35315.03\244333.04;
+Lobster Rod\37169.97\265111.61;
 Blazebringer Rod\33299.35\245111.1;
-Azure Of Lagoon\33095.42\244481.55;
-Great Dreamer Rod\32659.86\229295.03;
-Destiny Rod\22846.15\161857.27;
-Heaven's Rod\23251.79\169464.12;
 Leviathan's Fang Rod\27284.5\210516.61;
 Kraken Rod\21969.63\165437.6;
 Trident Rod\25742.85\185680.94;
@@ -50,7 +50,7 @@ Volcanic Rod\18614.8\137503.68;
 Avalanche Rod\18468.92\140527.08;
 Zeus Rod\18141.86\134010.19;
 Steady Rod\17253.17\137555.52
-|recommended   = Free Spirit Rod
+|recommended   = Astralhook Rod
 }}
 
 == Catch Quips ==

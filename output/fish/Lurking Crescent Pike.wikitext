@@ -39,6 +39,7 @@ Fischer's Rod\156479.78\192233.65;
 Fast Rod\156123.77\191796.3;
 Verdant Shear Rod\149105.56\167205.55;
 Blazebringer Rod\146520.16\163994.42;
+Astralhook Rod\141758.18\0;
 No-Life Rod\136439.03\136212.18;
 Seraphic Rod\127051.09\126808;
 Ethereal Prism Rod\125907.74\125112.71;

@@ -38,6 +38,7 @@ Fischer's Rod\57810\98707.17;
 Flimsy Rod\44572.97\89192.19;
 Free Spirit Rod\62161.66\80055.66;
 Ethereal Prism Rod\61556.16\67017.73;
+Astralhook Rod\61547.33\77272.5;
 No-Life Rod\60772.23\70025.71;
 Seraphic Rod\60213.48\67090.65;
 Rod Of The Forgotten Fang\56456.4\65128.13;

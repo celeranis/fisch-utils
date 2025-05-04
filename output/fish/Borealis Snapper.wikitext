@@ -31,14 +31,15 @@ Glacial Grotto
 Leviathan's Fang Rod\57468.44\189114.96;
 Free Spirit Rod\49554.01\183123.59;
 Trident Rod\47926.39\177108.84;
+Great Rod of Oscar\44899.65\111223.58;
 Ethereal Prism Rod\43483.44\114604.6;
-No-Life Rod\42806.66\141111.96;
 Lucky Rod\24375.78\89309.21;
 Resourceful Rod\32799.36\91693.12;
-Destiny Rod\34042.01\92256.61;
+No-Life Rod\42806.66\141111.96;
 Azure Of Lagoon\30705.58\133474.62;
 Long Rod\25776.37\95593;
 Brick Built Rod\25227.56\94060.16;
+Astralhook Rod\43381.21\112978.26;
 Seraphic Rod\42646.23\116444.31;
 Rod Of The Forgotten Fang\39634.38\110631;
 Challenger's Rod\38664.17\112805.59;

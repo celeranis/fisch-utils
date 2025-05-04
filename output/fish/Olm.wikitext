@@ -28,16 +28,17 @@
 {{Fish Availability|
 Terrapin Island/Olm Cave
 |top_rods      = 
+Great Rod of Oscar\41935.66\222039.48;
+Astralhook Rod\37650.06\227288.18;
 Ethereal Prism Rod\37360.01\228666.11;
 Leviathan's Fang Rod\36825.15\273533.85;
 Seraphic Rod\35059.75\233979.88;
-No-Life Rod\33438.71\237926.17;
-Tempest Rod\32980.5\235627.57;
 Resourceful Rod\29279.01\186459.79;
 Destiny Rod\31192.55\217350.41;
-Heaven's Rod\27252.11\214559.3;
 Trident Rod\26341.16\263581.47;
 Free Spirit Rod\26303.87\259995.86;
+No-Life Rod\33438.71\237926.17;
+Tempest Rod\32980.5\235627.57;
 Training Rod\13939.63\157575.88;
 Flimsy Rod\14530.33\151622.05;
 Rod Of The Forgotten Fang\32731.37\224537.14;

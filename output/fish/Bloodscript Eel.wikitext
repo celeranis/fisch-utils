@@ -38,6 +38,7 @@ Plastic Rod\35566.65\83328.56;
 Fischer's Rod\35553.39\83453.9;
 Adventurer's Rod\34592.49\81198.39;
 Azure Of Lagoon\49125.88\112530.66;
+Astralhook Rod\51158.25\105827.23;
 Ethereal Prism Rod\50926.53\105434.3;
 Challenger's Rod\48543.58\103433.56;
 Rod Of The Forgotten Fang\46445.49\97024.48;

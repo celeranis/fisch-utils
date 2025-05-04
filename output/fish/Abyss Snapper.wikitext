@@ -27,6 +27,7 @@
 {{Fish Availability|
 Grand Reef/Atlantean Storm
 |top_rods      = 
+Astralhook Rod\272327.72\278979.64;
 Ethereal Prism Rod\270787.06\309259.68;
 No-Life Rod\269564.31\269564.31;
 Seraphic Rod\266740.59\266740.59;

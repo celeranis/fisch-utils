@@ -37,6 +37,7 @@ Flimsy Rod\146688.35\602927.05;
 Training Rod\93919.85\455894.14;
 Fischer's Rod\162612.88\355273.59;
 Heaven's Rod\105554.95\299792.29;
+Astralhook Rod\128633.82\227059.58;
 Ethereal Prism Rod\128311.08\199306.9;
 Seraphic Rod\124700.71\94263.53;
 No-Life Rod\124139.02\94997.2;

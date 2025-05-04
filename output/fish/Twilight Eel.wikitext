@@ -39,6 +39,7 @@ Seraphic Rod\197426.71\197426.71;
 Tempest Rod\190620.95\190620.95;
 Rapid Rod\186165.59\185152.68;
 Lucky Rod\127720.16\107173.93;
+Astralhook Rod\190468.33\74383.49;
 Ethereal Prism Rod\190232.21\133463.74;
 Blazebringer Rod\182611.48\158146.12;
 Challenger's Rod\182276.28\180638.47;

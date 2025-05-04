@@ -29,9 +29,9 @@ Atlantis/Zeus's Rod Room
 |top_rods      = 
 Champions Rod\132849.04\92179.3;
 Celestial Rod\130922.61\93009.43;
+Astralhook Rod\130490.53\154183.21;
 Rapid Rod\129737.08\112199.46;
 Ice Warpers Rod\128942.74\91602.9;
-Reinforced Rod\127349.84\88363.6;
 Fischer's Rod\81055.24\81055.24;
 Plastic Rod\80587.29\76685.37;
 Adventurer's Rod\80311.61\80311.61;
@@ -39,7 +39,6 @@ Ethereal Prism Rod\125772.01\135437.95;
 Leviathan's Fang Rod\121697.42\125239.16;
 No-Life Rod\121323.8\121323.8;
 Seraphic Rod\119439.44\119439.44;
-Tempest Rod\115347.88\115347.88;
 Fortune Rod\69070.57\81611.46;
 Depthseeker Rod\124453.23\93034.3;
 Avalanche Rod\123581.9\83277.61;

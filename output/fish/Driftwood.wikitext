@@ -43,13 +43,13 @@ Terrapin Island/Surrounding Ocean
 |top_rods      = 
 Training Rod\119692.53\561847.51;
 Flimsy Rod\110672.54\787327.19;
+Astralhook Rod\78744.51\149387.2;
 Fast Rod\77807.69\77807.69;
 No-Life Rod\76291.17\76291.17;
-Firefly Rod\76096.51\69513.28;
 Magnet Rod\71604.72\394927.01;
 Heaven's Rod\54712.65\324883;
-Ethereal Prism Rod\75453.25\101637;
 Seraphic Rod\75990.83\75990.83;
+Ethereal Prism Rod\75453.25\101637;
 Challenger's Rod\69555.36\69555.36;
 Rod Of The Forgotten Fang\69390.31\69390.31;
 Verdant Shear Rod\65025\65025;

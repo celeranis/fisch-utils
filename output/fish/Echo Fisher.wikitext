@@ -27,20 +27,20 @@
 {{Fish Availability|
 Atlantis/Ethereal Abyss
 |top_rods      = 
+Astralhook Rod\124318.4\158639.01;
 Champions Rod\122049.41\88229.6;
 Celestial Rod\120794.25\89426.65;
 Ethereal Prism Rod\119989.17\139794.03;
 Rapid Rod\119603.71\104091.34;
-Ice Warpers Rod\119516.31\88480.57;
 Training Rod\111903.74\116539.24;
 Flimsy Rod\81452.51\81452.51;
-Fortune Rod\65963.27\84173.76;
 Leviathan's Fang Rod\113625.25\123025.96;
 No-Life Rod\111524.77\111524.77;
-Seraphic Rod\110356.54\110356.54;
+Fortune Rod\65963.27\84173.76;
 Avalanche Rod\118741.35\84874.01;
 Depthseeker Rod\118395.93\86085.25;
 Verdant Shear Rod\111091.2\93979.67;
+Seraphic Rod\110356.54\110356.54;
 Blazebringer Rod\101220.91\88671.24;
 Challenger's Rod\101053.41\101053.41;
 Rod Of The Forgotten Fang\100718.6\100718.6;

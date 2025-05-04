@@ -29,14 +29,15 @@
 {{Fish Availability|
 Atlantis/Ancient Kraken Hunt
 |top_rods      = 
+Fang of the Eclipse\7192.66\10482.78;
 Tempest Rod\6332.19\9228.7;
 Challenger's Rod\6316.99\9255.88;
-Summit Rod\4497.8\6488.11;
-Seraphic Rod\4362.99\6276.34;
-Abyssal Specter Rod\4208.45\6246.65;
+Astralhook Rod\6211.25\8797.51;
+Great Rod of Oscar\6182.92\9226.45;
 Celestial Rod\1434.21\2017.1;
 Ice Warpers Rod\307.04\431.83;
 Champions Rod\2119.94\3024.21;
+Seraphic Rod\4362.99\6276.34;
 Ethereal Prism Rod\3254.34\4615.45;
 Rod Of The Forgotten Fang\1814.42\2615.14;
 No-Life Rod\1457.25\2141.46;

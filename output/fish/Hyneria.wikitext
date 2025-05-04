@@ -31,11 +31,13 @@ Ancient Isle/Waterfall
 |top_rods      = 
 Krampus's Rod\416606.8\663017.37;
 Magma Rod\403098.02\641518.54;
+Great Rod of Oscar\238344.72\299911.7;
+Astralhook Rod\223891.57\304168.4;
 Ethereal Prism Rod\223007.51\304089.93;
-Leviathan's Fang Rod\222737.55\367488.01;
-Seraphic Rod\215221.62\305426.11;
 Magnet Rod\144814.79\483980.62;
 Heaven's Rod\169047.48\419080.26;
+Leviathan's Fang Rod\222737.55\367488.01;
+Seraphic Rod\215221.62\305426.11;
 No-Life Rod\209635.5\320941.12;
 Rod Of The Forgotten Fang\201774.7\302140.17;
 Challenger's Rod\193072.59\304027.72;

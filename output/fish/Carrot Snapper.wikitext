@@ -1,0 +1,69 @@
+{{FishInfobox
+|image          = Carrot Snapper.png
+|rarity         = Mythical
+|sea            = Second Sea
+|location       = [[Carrot Garden]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -20
+|xp             = 12000
+|weather        = Foggy
+|time           = 
+|season         = Spring
+|bait           = 
+|base_weight    = 12.5
+|base_value     = 12000
+|weight_range   = 7
+|base_chance    = 10
+|base_resil     = 12
+}}
+'''Carrot Snapper''' is a {{Rarity|Mythical}} fish found in [[Carrot Garden]].
+
+== Description ==
+{{Description|A calm snapper with covered in dirt and natural green highlights, nibbling gently.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found in the vibrant carrot pool!|Bestiary Hint}}
+{{Fish Availability|
+Lushgrove/Carrot Garden
+|top_rods      = 
+Frostfire Rod\78023.74\109850.52;
+Steady Rod\76572.89\107807.84;
+Magma Rod\64244.51\103546.46;
+Krampus's Rod\64244.51\104004.65;
+Plastic Rod\61135.48\101778.66;
+Free Spirit Rod\60004.74\228357.32;
+Astralhook Rod\55382.46\199310.24;
+Great Rod of Oscar\59933.07\198783.2;
+Carrot Rod\48542.85\190735.05;
+Fang of the Eclipse\45032.05\187913.61;
+Resourceful Rod\36995.07\130036.24;
+Trident Rod\41321.2\169555.59;
+Verdant Shear Rod\40862.58\171734.66;
+Blazebringer Rod\39945.33\164374.91;
+Ethereal Prism Rod\27757.78\114645.15;
+No-Life Rod\27280.83\116776.99;
+Seraphic Rod\27161.09\114150.93;
+Rod Of The Exalted One\25777.41\106812.49;
+Rod Of The Forgotten Fang\25570.12\107852.22;
+Challenger's Rod\25060.8\108482.72;
+Rod Of The Depths\24848.75\105964.41;
+Volcanic Rod\23911.41\105119.33;
+Depthseeker Rod\23817.28\106389.62;
+Zeus Rod\23792.24\104595.41;
+Avalanche Rod\23542\105330.97
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Carrot Snapper, the player has a chance to make one of the following exclamations:
+* A CARROT SNAPPER!
+* NIBBLING!
+* CARROT SHINE!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Carrot Garden}}

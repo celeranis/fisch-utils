@@ -42,6 +42,7 @@ Brick Built Rod\254139.5\300028.63;
 Lucky Rod\220176.81\174504;
 Free Spirit Rod\271728.04\165772.41;
 No-Life Rod\270672.33\235299.61;
+Astralhook Rod\243966.73\189683.43;
 Ethereal Prism Rod\242514.26\275373.89;
 Verdant Shear Rod\241461.32\213194.13;
 Seraphic Rod\240733.78\233170.93;

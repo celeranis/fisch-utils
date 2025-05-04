@@ -46,7 +46,7 @@ Frigid Cavern
 Glacial Grotto
 Golden Tide
 Grand Reef
-LEGO Pool/Studalodon Hunt
+LEGO Pool/Studolodon Hunt
 Lovestorm/Normal
 Lovestorm/Supercharged
 Lucky Event/Blarney McBreeze
@@ -84,8 +84,8 @@ Magma Rod\271624.07\204255.41;
 Plastic Rod\249051.22\186771.75;
 Flimsy Rod\246978.13\370006.05;
 Leviathan's Fang Rod\200800.15\320864.32;
+Astralhook Rod\179464.41\298304.95;
 No-Life Rod\191349.51\295080.7;
-Ethereal Prism Rod\176788.75\291341.42;
 Trident Rod\193761.92\243673;
 Free Spirit Rod\192986.97\242698.44;
 Challenger's Rod\182218.36\281092.77;
@@ -95,6 +95,7 @@ Blazebringer Rod\179024.98\250548.65;
 Seraphic Rod\178723.07\287341.58;
 Rod Of The Depths\177687.07\259297.03;
 Rod Of The Forgotten Fang\177499.52\281924.65;
+Ethereal Prism Rod\176788.75\291341.42;
 Rod Of The Exalted One\174472.81\263250.52;
 Volcanic Rod\173988.1\208256.55;
 Depthseeker Rod\172954.99\236194.08;

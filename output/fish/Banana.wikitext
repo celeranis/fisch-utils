@@ -29,11 +29,11 @@ Ancient Isle/Freshwater Pond
 Ancient Isle/Surrounding Ocean
 Ancient Isle/Waterfall
 |top_rods      = 
+Great Rod of Oscar\479.39\2766.5;
 Leviathan's Fang Rod\467.67\4076.33;
 Rapid Rod\463.02\21180.38;
+Astralhook Rod\446.41\2895.27;
 Ethereal Prism Rod\445.58\2911.64;
-Seraphic Rod\426.64\2911.65;
-No-Life Rod\415.97\3134.24;
 Lucky Rod\341.7\12026.15;
 Training Rod\331.04\2265.86;
 Frog Rod\347.05\14431.49;
@@ -42,6 +42,8 @@ Firefly Rod\411.44\20030.46;
 Fungal Rod\346.59\16025.18;
 Wildflower Rod\333.35\14739.56;
 Fischer's Rod\271.57\13531.1;
+Seraphic Rod\426.64\2911.65;
+No-Life Rod\415.97\3134.24;
 Rod Of The Forgotten Fang\398.86\2839.98;
 Trident Rod\390.51\2996.22;
 Challenger's Rod\379.79\2903.61;

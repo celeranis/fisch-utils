@@ -30,12 +30,14 @@ Mariana's Veil/Abyssal Zenith
 |top_rods      = 
 Leviathan's Fang Rod\100435.14\163385;
 Krampus's Rod\92363.57\127240.75;
+Great Rod of Oscar\91489.81\115469.48;
 Magma Rod\90006.58\124018.92;
-Ethereal Prism Rod\83476.11\115204.95;
-Free Spirit Rod\80556.98\163776.13;
+Astralhook Rod\83788.46\114997.72;
 Resourceful Rod\68868.67\122729.84;
+Free Spirit Rod\80556.98\163776.13;
 Trident Rod\75349.33\153188.75;
 Heaven's Rod\59549.07\118028.27;
+Ethereal Prism Rod\83476.11\115204.95;
 Seraphic Rod\79914.04\116143.08;
 No-Life Rod\77346.66\118856.61;
 Rod Of The Forgotten Fang\72636.45\106199.14;

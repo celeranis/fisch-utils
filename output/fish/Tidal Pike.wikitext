@@ -29,6 +29,7 @@ Golden Tide
 |top_rods      = 
 Firefly Rod\68779.63\71420.86;
 Rapid Rod\68148.48\55983.17;
+Astralhook Rod\64137.52\91657.99;
 Fast Rod\63015.68\63242.2;
 Ethereal Prism Rod\61647.55\79000.2;
 Fungal Rod\61429.64\59457.06;

@@ -28,14 +28,13 @@
 {{Fish Availability|
 Fischmas/Winter Village
 |top_rods      = 
+Astralhook Rod\178479.39\419657.15;
 Ethereal Prism Rod\169841.05\354157.18;
 Leviathan's Fang Rod\158821.19\210704.41;
 No-Life Rod\157769.68\157769.68;
 Seraphic Rod\156551.21\156551.21;
-Fast Rod\155208.33\155208.33;
 Training Rod\140000\255263.16;
 Fortune Rod\94822.28\222956.73;
-Kraken Rod\133089.32\196515.36;
 Challenger's Rod\143401.98\143401.98;
 Depthseeker Rod\143215.21\122219.15;
 Rod Of The Forgotten Fang\142966.16\142966.16;

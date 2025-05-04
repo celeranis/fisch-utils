@@ -30,9 +30,10 @@ Emberreach/Surrounding Ocean
 |top_rods      = 
 Adventurer's Rod\157462.34\317167.36;
 Free Spirit Rod\113979.48\193018.24;
+Great Rod of Oscar\103917.13\161718.18;
+Astralhook Rod\98953.9\163613.77;
 Steady Rod\94322.1\104902.13;
 Long Rod\90722.07\170892.59;
-Frostfire Rod\90111.81\100219.58;
 Buddy Bond Rod\84566.25\172934.6;
 Firefly Rod\88170.63\215925.06;
 Trident Rod\78994\125140.13;

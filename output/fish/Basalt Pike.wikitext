@@ -31,13 +31,11 @@ Emberreach/Volcano
 Trident Rod\261176.85\252155.59;
 Free Spirit Rod\247960.11\153448.3;
 Leviathan's Fang Rod\247505.94\179436.46;
+Astralhook Rod\240716.97\594423;
 Firefly Rod\224496.02\224496.02;
-Azure Of Lagoon\224358.57\147407.44;
 Long Rod\179242.26\179242.26;
-Fungal Rod\183018.43\183018.43;
-Egg Rod\208581.95\201377.36;
-Brother's Rod\204865.57\199417.17;
-Great Dreamer Rod\206205.2\198640.46;
+Fang of the Eclipse\215278.01\207380.44;
+Great Rod of Oscar\208608.88\204586.1;
 Verdant Shear Rod\205415.74\197509.36;
 No-Life Rod\201665.29\197363.57;
 Blazebringer Rod\200843.59\170097.46;

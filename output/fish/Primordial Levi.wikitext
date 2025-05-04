@@ -29,16 +29,17 @@
 {{Fish Availability|
 Lushgrove
 |top_rods      = 
+Great Rod of Oscar\1061.56\6195.57;
+Astralhook Rod\968.87\6346.78;
+Fang of the Eclipse\841.84\6513.7;
+Carrot Rod\707.92\5067.75;
 Free Spirit Rod\655.28\4588.14;
-Azure Of Lagoon\588.32\4512.35;
-Egg Rod\585.71\4574.83;
-Blazebringer Rod\551.21\4187.52;
-Great Dreamer Rod\526.54\4074.05;
 Resourceful Rod\508.73\3844.29;
-Destiny Rod\371.05\2656.2;
+Lobster Rod\646.83\4745.89;
 Event Horizon Rod\244.66\2612.24;
 Astral Rod\244.66\2612.24;
 Magma Rod\272.24\2951.08;
+Blazebringer Rod\551.21\4187.52;
 Verdant Shear Rod\513.72\4012.51;
 Seraphic Rod\453.45\3541.74;
 Challenger's Rod\443.77\3606.13;
@@ -53,7 +54,7 @@ Avalanche Rod\299.14\2543.45;
 Volcanic Rod\294.38\2443.03;
 Steady Rod\281.8\2490.89;
 Zeus Rod\281.07\2332.62
-|recommended   = Free Spirit Rod
+|recommended   = Astralhook Rod
 }}
 
 == Gameplay Notes ==

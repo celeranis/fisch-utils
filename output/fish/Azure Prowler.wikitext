@@ -29,15 +29,17 @@
 Azure Lagoon
 |top_rods      = 
 Krampus's Rod\135460.09\194793;
+Great Rod of Oscar\130515.52\222651.07;
 Magma Rod\126835.8\197039.97;
 Frostfire Rod\126511.36\138439.94;
 Free Spirit Rod\126185.55\243464.5;
-Steady Rod\117329.09\128391.88;
 Firefly Rod\83037.18\237410.12;
+Astralhook Rod\124532.58\232409.67;
+Fang of the Eclipse\109566.19\224666.5;
 Adventurer's Rod\59069.83\218886.65;
-Fungal Rod\55058.49\205655.18;
-Egg Rod\96762.58\199635.93;
 Buddy Bond Rod\58303.33\142560.64;
+Fungal Rod\55058.49\205655.18;
+Steady Rod\117329.09\128391.88;
 Verdant Shear Rod\91257.89\188278.92;
 Blazebringer Rod\90299.69\182991.05;
 Trident Rod\85752.58\169097.3;

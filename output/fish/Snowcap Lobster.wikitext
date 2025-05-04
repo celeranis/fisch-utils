@@ -1,0 +1,40 @@
+{{FishInfobox
+|image          = Snowcap Lobster.png
+|rarity         = Unusual
+|sea            = First Sea
+|location       = [[Lobster Fishing (Sea 1)]]
+|sublocation    = 
+|sources        = Lobster Cage
+|radar_location = 
+|xp             = 460
+|weather        = Foggy
+|time           = 
+|season         = Winter, Spring
+|bait           = 
+|base_weight    = 3
+|base_value     = 730
+|weight_range   = 2
+|base_chance    = 45
+|base_resil     = 65
+}}
+'''Snowcap Lobster''' is an {{Rarity|Unusual}} fish found in [[Lobster Fishing (Sea 1)]].
+
+== Description ==
+{{Description|Lobsters are valuable crustaceans known for their rich, succulent meat. Lobsters are most active in the summer to autumn, and are commonly caught in crab cages during calm clear days.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Caught in oceans using a lobster cage.|Bestiary Hint}}
+
+== Catch Quips ==
+When catching a Snowcap Lobster, the player has a chance to make one of the following exclamations:
+* A Larry Lobster!
+* Woah! A Lobster
+* Awesome!
+* A Lobster!
+* Ou! A Lobster!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Lobster Fishing (Sea 1)}}

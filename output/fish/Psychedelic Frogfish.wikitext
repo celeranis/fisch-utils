@@ -30,16 +30,16 @@
 Open Ocean
 Open Ocean/Sea Leviathan
 |top_rods      = 
+Great Rod of Oscar\529.19\4316.53;
+Astralhook Rod\483.15\4252.35;
+Fang of the Eclipse\454.39\4559.38;
+Lobster Rod\250.48\2456.89;
+Carrot Rod\241.74\2323.43;
 Challenger's Rod\234.74\2338.97;
-Azure Of Lagoon\227.52\2247.41;
-Tempest Rod\224.01\2235.26;
-Summit Rod\206.26\2035.91;
-Seraphic Rod\202.9\2033.19;
-Destiny Rod\104.12\1000.77;
-Heaven's Rod\132.17\1291.95;
 Kraken Rod\109.98\1106.23;
 Ethereal Prism Rod\166.36\1661.11;
 Leviathan's Fang Rod\135.92\1367.45;
+Seraphic Rod\202.9\2033.19;
 No-Life Rod\137.4\1368.08;
 Rod Of The Forgotten Fang\129.27\1294.47;
 Depthseeker Rod\103.06\1011.67;
@@ -49,7 +49,7 @@ Avalanche Rod\70.4\689.5;
 Steady Rod\60.63\550.98;
 Volcanic Rod\60.27\598.72;
 Zeus Rod\46.38\460.76
-|recommended   = 
+|recommended   = Astralhook Rod
 }}
 
 == Gameplay Notes ==

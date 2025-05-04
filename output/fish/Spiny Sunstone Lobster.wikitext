@@ -1,0 +1,40 @@
+{{FishInfobox
+|image          = Spiny Sunstone Lobster.png
+|rarity         = Uncommon
+|sea            = First Sea
+|location       = [[Lobster Fishing (Sea 1)]]
+|sublocation    = 
+|sources        = Lobster Cage
+|radar_location = 
+|xp             = 220
+|weather        = Clear
+|time           = 
+|season         = Summer, Autumn
+|bait           = 
+|base_weight    = 17
+|base_value     = 430
+|weight_range   = 12.5
+|base_chance    = 85
+|base_resil     = 85
+}}
+'''Spiny Sunstone Lobster''' is an {{Rarity|Uncommon}} fish found in [[Lobster Fishing (Sea 1)]].
+
+== Description ==
+{{Description|Lobsters are valuable crustaceans known for their rich, succulent meat. Lobsters are most active in the summer to autumn, and are commonly caught in crab cages during calm clear days.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Caught in oceans using a lobster cage.|Bestiary Hint}}
+
+== Catch Quips ==
+When catching a Spiny Sunstone Lobster, the player has a chance to make one of the following exclamations:
+* A Larry Lobster!
+* Woah! A Lobster
+* Awesome!
+* A Lobster!
+* Ou! A Lobster!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Lobster Fishing (Sea 1)}}

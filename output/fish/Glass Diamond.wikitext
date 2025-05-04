@@ -31,14 +31,14 @@ Overgrowth Caves
 Leviathan's Fang Rod\95564.97\286342.83;
 No-Life Rod\90739.18\269094.77;
 Seraphic Rod\89268.2\250263;
-Ethereal Prism Rod\88805.6\241100.46;
-Tempest Rod\87917.87\255603.48;
+Great Rod of Oscar\88912.37\231061.73;
+Astralhook Rod\88832.75\239710.36;
 Training Rod\68814.8\328979.38;
 Flimsy Rod\56590.19\243276.8;
-Resourceful Rod\70554.84\224897.96;
 Firefly Rod\76218.49\291913.75;
 Fast Rod\72842.57\283447.26;
 Trident Rod\86569.27\279185.66;
+Ethereal Prism Rod\88805.6\241100.46;
 Free Spirit Rod\85925.86\277110.66;
 Rod Of The Forgotten Fang\84288.73\248560.06;
 Challenger's Rod\83314.54\256513.91;
