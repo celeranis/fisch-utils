@@ -36,7 +36,7 @@ Krampus's Rod\71539.34\48719.9;
 Magma Rod\57392.49\47381.61;
 Plastic Rod\44838.67\42803.02;
 Frostfire Rod\33636.12\49685.99;
-Training Rod\51583.81\314580.43;
+Training Rod\51583.81\323478.26;
 Flimsy Rod\33467.99\84191.56;
 Free Spirit Rod\71403.31\123659.52;
 Blazebringer Rod\62728.32\114595.48;

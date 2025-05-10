@@ -31,7 +31,7 @@ Rapid Rod\251763\32295.84;
 Firefly Rod\248948.91\33810.03;
 Champions Rod\236704.1\24981.84;
 Fang of the Eclipse\235908.58\31290.32;
-Celestial Rod\234369.5\25821.38;
+Merchant Rod\235874.04\29984.77;
 Flimsy Rod\173962.82\32861.84;
 Training Rod\227618.24\44325.66;
 Fungal Rod\225858.7\34139.47;

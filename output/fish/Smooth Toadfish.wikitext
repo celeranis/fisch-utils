@@ -1,0 +1,64 @@
+{{FishInfobox
+|image          = Smooth Toadfish.png
+|rarity         = Unusual
+|sea            = Second Sea
+|location       = [[Whale Interior]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = +5
+|xp             = 200
+|weather        = 
+|time           = 
+|season         = 
+|bait           = 
+|base_weight    = 11
+|base_value     = 400
+|weight_range   = 7.7
+|base_chance    = 60
+|base_resil     = 60
+}}
+'''Smooth Toadfish''' is an {{Rarity|Unusual}} fish found in [[Whale Interior]].
+
+== Description ==
+{{Description|A sleek, silvery toadfish typically gliding through coastal waters.|Bestiary Entry}}
+
+== Obtainment ==
+{{Fish Availability|
+Whale Interior
+|top_rods      = 
+Training Rod\241106.37\289912.35;
+Trident Rod\209300.82\192894.13;
+Leviathan's Fang Rod\196700.01\117076.7;
+Astralhook Rod\194894.3\293766.73;
+Fang of the Eclipse\187250.24\171644.21;
+Flimsy Rod\184571.43\184571.43;
+Carrot Rod\172833.72\172833.72;
+Verdant Shear Rod\181339.58\167124.72;
+Free Spirit Rod\180713.04\132027.12;
+Blazebringer Rod\174009.21\148538.64;
+No-Life Rod\172069.54\163243.73;
+Seraphic Rod\160347.01\147777.71;
+Challenger's Rod\155247.15\146815.25;
+Depthseeker Rod\153979.64\150177.36;
+Rod Of The Forgotten Fang\153512.73\141889.86;
+Avalanche Rod\152177.82\148649.63;
+Volcanic Rod\151207.23\145096.49;
+Rod Of The Depths\150961.96\140890.57;
+Zeus Rod\150551.71\144467.46;
+Rod Of The Exalted One\147416.25\112007.98;
+Ethereal Prism Rod\144847\96469.1;
+Steady Rod\124410.53\120921.44
+|recommended   = Astralhook Rod
+}}
+
+== Catch Quips ==
+When catching a Smooth toadfish, the player has a chance to make one of the following exclamations:
+* A Smooth Toadfish!
+* rizz?
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Whale Interior}}

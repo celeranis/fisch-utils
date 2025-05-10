@@ -44,7 +44,7 @@ Zeus Rod\226879.76\268994.26;
 Azure Of Lagoon\233852.24\265996.98;
 Lobster Rod\220715.92\260618.24;
 Astralhook Rod\250529.14\0;
-Ethereal Prism Rod\250052.82\33940.11;
+Ethereal Prism Rod\250358.51\33940.11;
 Rod Of The Forgotten Fang\245361.56\202962.7;
 Rod Of The Exalted One\235448.95\123821.8;
 Rod Of The Depths\228346.66\246351.81;

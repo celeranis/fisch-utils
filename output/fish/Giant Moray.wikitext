@@ -1,0 +1,65 @@
+{{FishInfobox
+|image          = Giant Moray.png
+|rarity         = Mythical
+|sea            = Second Sea
+|location       = [[Whale Interior]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -30
+|xp             = 2500
+|weather        = 
+|time           = 
+|season         = 
+|bait           = Whale Bait
+|base_weight    = 40
+|base_value     = 5000
+|weight_range   = 29
+|base_chance    = 5
+|base_resil     = 10
+}}
+'''Giant Moray''' is a {{Rarity|Mythical}} fish found in [[Whale Interior]].
+
+== Description ==
+{{Description|A large, sinuous eel with sharp teeth, ruling tropical coral reefs.|Bestiary Entry}}
+
+== Obtainment ==
+{{Fish Availability|
+Whale Interior
+|top_rods      = 
+Great Rod of Oscar\50641.52\269705.16;
+Free Spirit Rod\49475.66\318750.75;
+Astralhook Rod\46863.62\270856.16;
+Frostfire Rod\41099.49\140684.4;
+Carrot Rod\40935.65\258760.99;
+Steady Rod\40183.9\141582.38;
+Krampus's Rod\34164.74\140746.02;
+Fang of the Eclipse\38119.72\256458.65;
+Resourceful Rod\28140.18\175466.59;
+Verdant Shear Rod\34284.45\232378.64;
+Blazebringer Rod\33607.46\222836.09;
+Trident Rod\33097.76\220283.82;
+Ethereal Prism Rod\23427.67\153926.81;
+Seraphic Rod\22956.79\155600.25;
+No-Life Rod\22658.01\159045.13;
+Rod Of The Exalted One\21664.5\144688.43;
+Rod Of The Forgotten Fang\21528.35\146468.61;
+Challenger's Rod\21145.26\147831.18;
+Rod Of The Depths\20844.84\143454.76;
+Volcanic Rod\20022.86\142283.15;
+Depthseeker Rod\19987.2\144448;
+Zeus Rod\19905.45\141448.78;
+Avalanche Rod\19713.55\142715.98
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Giant Moray, the player has a chance to make one of the following exclamations:
+* A Giant Moray!
+* Not as big as I thought...
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Whale Interior}}

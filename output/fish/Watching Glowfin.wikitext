@@ -37,7 +37,7 @@ Training Rod\334455.2\31036.62;
 Steady Rod\357103.98\30762.59;
 Frostfire Rod\356056.99\30672.4;
 Nocturnal Rod\190247.55\182712.14;
-Carrot Rod\374369.19\46843.68;
+Carrot Rod\374369.19\46955.79;
 Fang of the Eclipse\361935.14\45806.16;
 Flimsy Rod\337700.51\35048.02;
 Trident Rod\372332.55\44224.51;

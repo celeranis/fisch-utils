@@ -37,7 +37,7 @@ Training Rod\426744.02\476319.29;
 Flimsy Rod\419159.41\294773.3;
 Fischer's Rod\399727.45\275482.98;
 Carrot Rod\443402.85\410899.35;
-Fang of the Eclipse\425251.95\385727;
+Merchant Rod\416086.18\386742.99;
 Wildflower Rod\405400.25\355158.21;
 Trident Rod\444086.18\379717.16;
 Blazebringer Rod\416598.1\351744.37;

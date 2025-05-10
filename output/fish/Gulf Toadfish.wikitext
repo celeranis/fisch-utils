@@ -1,0 +1,65 @@
+{{FishInfobox
+|image          = Gulf Toadfish.png
+|rarity         = Common
+|sea            = Second Sea
+|location       = [[Whale Interior]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = +15
+|xp             = 50
+|weather        = 
+|time           = 
+|season         = 
+|bait           = 
+|base_weight    = 30
+|base_value     = 100
+|weight_range   = 21
+|base_chance    = 100
+|base_resil     = 100
+}}
+'''Gulf Toadfish''' is a {{Rarity|Common}} fish found in [[Whale Interior]].
+
+== Description ==
+{{Description|A mottled beige fish with a croaking call, hiding among reefs.|Bestiary Entry}}
+
+== Obtainment ==
+{{Fish Availability|
+Whale Interior
+|top_rods      = 
+Free Spirit Rod\371420.71\357855.04;
+Azure Of Lagoon\345621.97\373110.57;
+Fang of the Eclipse\333778.98\368540.34;
+Carrot Rod\332641.12\374753.85;
+Astralhook Rod\332613.48\24325.12;
+Lobster Rod\327766.02\367454.76;
+Egg Rod\323265.91\346219.45;
+Treasure Rod\329215.87\362707.67;
+Blazebringer Rod\316715.88\352513.12;
+Verdant Shear Rod\316376.14\335587.31;
+Trident Rod\312001.71\287544.49;
+No-Life Rod\279869.61\265514.51;
+Ethereal Prism Rod\273011.17\275320.29;
+Seraphic Rod\270777.11\249551.41;
+Challenger's Rod\263536.83\249223.42;
+Depthseeker Rod\263228.43\256728.41;
+Avalanche Rod\262215.91\256136.53;
+Rod Of The Forgotten Fang\261628.09\241819.5;
+Rod Of The Exalted One\261077.56\246249.16;
+Volcanic Rod\260746.22\250208.69;
+Rod Of The Depths\260120.87\242766.96;
+Zeus Rod\260018.16\249510.05;
+Steady Rod\213919.95\229143.27
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Gulf Toadfish, the player has a chance to make one of the following exclamations:
+* A Gulf Toadfish!
+* Fore!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Whale Interior}}

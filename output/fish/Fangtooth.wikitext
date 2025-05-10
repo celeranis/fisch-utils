@@ -33,7 +33,7 @@ Trident Rod\81360.55\73314.42;
 Astralhook Rod\74627.62\207424.94;
 Leviathan's Fang Rod\71780.51\36973.89;
 Great Rod of Oscar\61431.53\57976.72;
-Fang of the Eclipse\60505.58\57804.46;
+Merchant Rod\61309.48\55297.87;
 Plastic Rod\44205.62\44111.86;
 Fischer's Rod\45778.24\44300.72;
 Carrot Rod\58957.02\59525.93;

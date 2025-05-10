@@ -53,7 +53,7 @@ Volcanic Rod\193160.17\18563.72;
 Zeus Rod\192491.49\18499.46;
 Rod Of The Exalted One\192226.88\17394.1;
 Rod Of The Depths\192131.44\17625.96;
-Steady Rod\158820.16\16716.52
+Steady Rod\158820.16\16781.95
 |recommended   = Free Spirit Rod
 }}
 

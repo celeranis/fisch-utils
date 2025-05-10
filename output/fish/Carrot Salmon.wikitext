@@ -41,7 +41,7 @@ Magnet Rod\130002.99\444447.65;
 Astralhook Rod\168774.12\306149.11;
 Free Spirit Rod\149964.82\272237.41;
 Verdant Shear Rod\129577.66\268760.13;
-Blazebringer Rod\125412.31\255428.74;
+Blazebringer Rod\125412.31\257020.74;
 Trident Rod\117938.57\207218.54;
 No-Life Rod\92497.92\176782.86;
 Ethereal Prism Rod\87295.6\184109.66;

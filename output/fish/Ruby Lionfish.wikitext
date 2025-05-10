@@ -1,0 +1,72 @@
+{{FishInfobox
+|image          = Ruby Lionfish.png
+|rarity         = Legendary
+|sea            = Second Sea
+|location       = [[Treasure Island]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -45
+|xp             = 7500
+|weather        = 
+|time           = 
+|season         = 
+|bait           = Crystal Bananas
+|base_weight    = 17
+|base_value     = 10800
+|weight_range   = 11.5
+|base_chance    = 15
+|base_resil     = 25
+}}
+'''Ruby Lionfish''' is a {{Rarity|Legendary}} fish found in [[Treasure Island]].
+
+== Description ==
+{{Description|A gleam from the sea's most coveted chests.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Hidden where treasure resides.|Bestiary Hint}}
+{{Fish Availability|
+Treasure Island
+|top_rods      = 
+Steady Rod\31479.31\42367.63;
+Frostfire Rod\29451.04\40889.02;
+Free Spirit Rod\27854.72\76048.02;
+Magma Rod\27754.7\40167.13;
+Krampus's Rod\27703.92\38615.42;
+Plastic Rod\27394.2\42535.27;
+Astralhook Rod\24716.27\74316.51;
+Great Rod of Oscar\26226.58\73626.41;
+Carrot Rod\22012.03\70203.44;
+Fang of the Eclipse\20969.23\70035.12;
+Lucky Rod\11916.58\45348.67;
+Fungal Rod\10827.44\44461.62;
+Antler Rod\10682.63\43866.97;
+Trident Rod\20287.31\58645.9;
+Verdant Shear Rod\19004.66\68315;
+Blazebringer Rod\18314.12\60513.51;
+No-Life Rod\13534.18\42586.2;
+Ethereal Prism Rod\12738.99\41762.49;
+Seraphic Rod\12615.79\42367.5;
+Rod Of The Exalted One\11835.68\39316.62;
+Rod Of The Forgotten Fang\11822.54\39813.94;
+Challenger's Rod\11735.74\40321.87;
+Rod Of The Depths\11488.81\39018.64;
+Depthseeker Rod\11150.86\39257.01;
+Volcanic Rod\11120.92\38669.68;
+Zeus Rod\11047.15\38413.16;
+Avalanche Rod\11014.68\38826.58
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Ruby Lionfish, the player has a chance to make one of the following exclamations:
+* A Ruby Lionfish!
+* Glistening!
+* Treasure!
+* Pure gold!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Treasure Island}}

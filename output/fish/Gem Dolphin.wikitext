@@ -1,0 +1,72 @@
+{{FishInfobox
+|image          = Gem Dolphin.png
+|rarity         = Legendary
+|sea            = Second Sea
+|location       = [[Treasure Island]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -40
+|xp             = 8500
+|weather        = 
+|time           = 
+|season         = 
+|bait           = Crystal Bananas
+|base_weight    = 28
+|base_value     = 11000
+|weight_range   = 20
+|base_chance    = 16
+|base_resil     = 18
+}}
+'''Gem Dolphin''' is a {{Rarity|Legendary}} fish found in [[Treasure Island]].
+
+== Description ==
+{{Description|A majestic creature, adorned with the ocean's dazzling jewels.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Hidden where treasure resides.|Bestiary Hint}}
+{{Fish Availability|
+Treasure Island
+|top_rods      = 
+Frostfire Rod\32736.13\43802.11;
+Steady Rod\31367.87\41763.98;
+Free Spirit Rod\29801.13\78356.44;
+Krampus's Rod\29153.49\40199.26;
+Magma Rod\29101.83\40656.07;
+Plastic Rod\28741.66\43072.98;
+Astralhook Rod\25922.7\74985.4;
+Great Rod of Oscar\27457.19\74307.74;
+Carrot Rod\23131.74\71099.11;
+Fang of the Eclipse\22002.66\70815.45;
+Lucky Rod\12508.67\45872.3;
+Fungal Rod\11383.58\45041.73;
+Antler Rod\11211.1\44359.28;
+Trident Rod\21868.67\64993.37;
+Verdant Shear Rod\19965.65\69159.98;
+Blazebringer Rod\19243.44\61274.05;
+No-Life Rod\14610.19\43405.11;
+Ethereal Prism Rod\13385.74\42289.03;
+Seraphic Rod\13252.98\42889.13;
+Rod Of The Exalted One\12432.54\39798.47;
+Rod Of The Forgotten Fang\12422.79\40314.08;
+Challenger's Rod\12321.71\40794.41;
+Rod Of The Depths\12065.57\39486.84;
+Depthseeker Rod\11723.44\39769.38;
+Volcanic Rod\11685.68\39153.94;
+Zeus Rod\11610.5\38902.06;
+Avalanche Rod\11572.65\39307.39
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Gem Dolphin, the player has a chance to make one of the following exclamations:
+* A Gem Dolphin!
+* Glistening!
+* Treasure!
+* Pure gold!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Treasure Island}}

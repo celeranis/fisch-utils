@@ -1,0 +1,69 @@
+{{FishInfobox
+|image          = Bearded Toadfish.png
+|rarity         = Legendary
+|sea            = Second Sea
+|location       = [[Whale Interior]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -15
+|xp             = 1500
+|weather        = 
+|time           = 
+|season         = 
+|bait           = Whale Bait
+|base_weight    = 18
+|base_value     = 3900
+|weight_range   = 14
+|base_chance    = 20
+|base_resil     = 20
+}}
+'''Bearded Toadfish''' is a {{Rarity|Legendary}} fish found in [[Whale Interior]].
+
+== Description ==
+{{Description|A whiskered, elusive toadfish blending into rocky crevices.|Bestiary Entry}}
+
+== Obtainment ==
+{{Fish Availability|
+Whale Interior
+|top_rods      = 
+Frostfire Rod\169444.53\214560.55;
+Steady Rod\166534.22\210875.35;
+Krampus's Rod\139791.77\202413.34;
+Magma Rod\139077.21\202413.34;
+Plastic Rod\135580.56\185700.31;
+Training Rod\117786.87\221350.73;
+Free Spirit Rod\127602.05\324016.16;
+Astralhook Rod\110252.36\298114.49;
+Great Rod of Oscar\117903.2\296596.6;
+Carrot Rod\98213.66\288163.63;
+Fang of the Eclipse\91760.45\283193.63;
+Flimsy Rod\94065.57\215787.01;
+Event Horizon Rod\118356.77\211120.85;
+Trident Rod\92629.87\251672.71;
+Verdant Shear Rod\83916.68\260652.53;
+Blazebringer Rod\81569.96\248601.78;
+No-Life Rod\62547.29\175625.3;
+Ethereal Prism Rod\56438.55\173733.5;
+Seraphic Rod\55428.36\172165.34;
+Rod Of The Exalted One\52751.22\161776.1;
+Rod Of The Forgotten Fang\52377.77\163218.3;
+Challenger's Rod\51465.74\164172.88;
+Rod Of The Depths\51159.36\161003.38;
+Volcanic Rod\49509.65\160153.93;
+Depthseeker Rod\49321.37\161865.77;
+Zeus Rod\49294.45\159457.82;
+Avalanche Rod\48871.69\160626.26
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Bearded Toadfish, the player has a chance to make one of the following exclamations:
+* A Bearded Toadfish!
+* Could use a shave...
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Whale Interior}}

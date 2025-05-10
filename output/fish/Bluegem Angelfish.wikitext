@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Bluegem Angelfish.png
+|rarity         = Common
+|sea            = Second Sea
+|location       = [[Treasure Island]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 980
+|weather        = 
+|time           = 
+|season         = 
+|bait           = Shrimp
+|base_weight    = 10
+|base_value     = 1000
+|weight_range   = 7
+|base_chance    = 105
+|base_resil     = 105
+}}
+'''Bluegem Angelfish''' is a {{Rarity|Common}} fish found in [[Treasure Island]].
+
+== Description ==
+{{Description|A glimmering prize from the ocean's hidden vaults.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Hidden where treasure resides.|Bestiary Hint}}
+{{Fish Availability|
+Treasure Island
+|top_rods      = 
+Training Rod\137598.99\274656.66;
+Flimsy Rod\120418.08\124507.71;
+Free Spirit Rod\115694.91\111866.15;
+Azure Of Lagoon\107788.08\104971.03;
+Carrot Rod\105600.48\116982.29;
+Fungal Rod\83717.06\83154.43;
+Treasure Rod\104854.28\113552.5;
+Lobster Rod\102421.22\112274.64;
+Astralhook Rod\104505.85\32317.54;
+Verdant Shear Rod\102002.03\99993.18;
+Blazebringer Rod\99756.56\98833.16;
+Trident Rod\98823.08\91088.88;
+No-Life Rod\88768.94\83280.75;
+Seraphic Rod\86168.34\78159.58;
+Ethereal Prism Rod\86013.41\80829.15;
+Challenger's Rod\83911.24\78421.54;
+Depthseeker Rod\83734.58\80773.07;
+Avalanche Rod\83390.58\80554.68;
+Rod Of The Forgotten Fang\83171.15\75681.05;
+Volcanic Rod\82890.63\78637.9;
+Rod Of The Depths\82661.56\76021.1;
+Zeus Rod\82633.38\78393.86;
+Rod Of The Exalted One\82456.09\74091.87;
+Steady Rod\67980.53\68379.9
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Bluegem Angelfish, the player has a chance to make one of the following exclamations:
+* A Bluegem Angelfish!
+* Glistening!
+* Treasure!
+* Pure gold!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Treasure Island}}

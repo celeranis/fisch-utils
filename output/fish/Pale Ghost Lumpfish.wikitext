@@ -29,7 +29,7 @@
 Blue Moon/First Sea
 |top_rods      = 
 Training Rod\346153.85\346153.85;
-Flimsy Rod\267444.1\269187.76;
+Flimsy Rod\267444.1\271364.48;
 Leviathan's Fang Rod\177635.81\107752.63;
 Trident Rod\174253.12\124814.88;
 Free Spirit Rod\167817.79\120205.35;

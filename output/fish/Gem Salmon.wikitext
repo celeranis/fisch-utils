@@ -1,0 +1,69 @@
+{{FishInfobox
+|image          = Gem Salmon.png
+|rarity         = Common
+|sea            = Second Sea
+|location       = [[Treasure Island]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 975
+|weather        = 
+|time           = 
+|season         = 
+|bait           = Flakes
+|base_weight    = 11
+|base_value     = 1100
+|weight_range   = 8
+|base_chance    = 100
+|base_resil     = 102
+}}
+'''Gem Salmon''' is a {{Rarity|Common}} fish found in [[Treasure Island]].
+
+== Description ==
+{{Description|A radiant fish shimmering with the glow of buried ocean gems.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Hidden where treasure resides.|Bestiary Hint}}
+{{Fish Availability|
+Treasure Island
+|top_rods      = 
+Training Rod\115655.49\327242.43;
+Flimsy Rod\113182.43\98661.55;
+Free Spirit Rod\108994.31\91327.65;
+Azure Of Lagoon\102832.08\99567.06;
+Carrot Rod\99220.89\102375.65;
+Fungal Rod\79614.34\79079.28;
+Fang of the Eclipse\98145.09\101813.83;
+Lobster Rod\97474.58\101640.76;
+Frog Rod\88043.18\85252.85;
+Astralhook Rod\97393.39\6346.16;
+Verdant Shear Rod\97048.66\95095.91;
+Blazebringer Rod\94913.45\94034.88;
+Trident Rod\94535.53\87136.89;
+No-Life Rod\84627.3\79395.17;
+Seraphic Rod\82024.47\74400.86;
+Ethereal Prism Rod\81861.38\76927.38;
+Challenger's Rod\79858.14\74633.6;
+Depthseeker Rod\79669.89\76852.14;
+Avalanche Rod\79324.21\76626.59;
+Rod Of The Forgotten Fang\79142.99\72015.65;
+Volcanic Rod\78844.27\74799.14;
+Rod Of The Depths\78630.74\72314.08;
+Zeus Rod\78593.74\74561.47;
+Rod Of The Exalted One\78444.78\70487.46;
+Steady Rod\64665.49\65058.82
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Gem Salmon, the player has a chance to make one of the following exclamations:
+* A Gem Salmon!
+* Glistening!
+* Treasure!
+* Pure gold!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Treasure Island}}

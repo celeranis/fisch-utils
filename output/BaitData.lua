@@ -1,4 +1,4 @@
--- Last update: Version [[1.31]], place version 4348
+-- Last update: Version [[1.32]], place version 61
 
 return {
 	["Aurora Bait"] = "Mythical",
@@ -14,6 +14,7 @@ return {
 	["Gale Grub"] = "Common",
 	["Garbage"] = "Common",
 	["Glass Beetle"] = "Rare",
+	["Golden Shrimp Bait"] = "Mythical",
 	["Golden Tentacle"] = "Legendary",
 	["Golden Worm"] = "Exotic",
 	["Hangman's Hook"] = "Mythical",
@@ -45,5 +46,6 @@ return {
 	["Toxic Jelly Core"] = "Legendary",
 	["Truffle Worm"] = "Legendary",
 	["Weird Algae"] = "Legendary",
+	["Whale Bait"] = "Legendary",
 	["Worm"] = "Common",
 }

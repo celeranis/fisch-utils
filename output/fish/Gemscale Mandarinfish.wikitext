@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Gemscale Mandarinfish.png
+|rarity         = Uncommon
+|sea            = Second Sea
+|location       = [[Treasure Island]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 1370
+|weather        = 
+|time           = 
+|season         = 
+|bait           = Mist Worms
+|base_weight    = 11
+|base_value     = 2700
+|weight_range   = 7
+|base_chance    = 70
+|base_resil     = 85
+}}
+'''Gemscale Mandarinfish''' is an {{Rarity|Uncommon}} fish found in [[Treasure Island]].
+
+== Description ==
+{{Description|A tiny shimmer from the sea's jeweled caches.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Hidden where treasure resides.|Bestiary Hint}}
+{{Fish Availability|
+Treasure Island
+|top_rods      = 
+Training Rod\85987.14\146920.2;
+Flimsy Rod\72842.38\66473.64;
+Fang of the Eclipse\68423.24\64183.98;
+Trident Rod\68308.27\62962.25;
+Azure Of Lagoon\68044.97\45509.88;
+Resourceful Rod\54952.39\55429.51;
+Firefly Rod\66487.61\67224.05;
+Verdant Shear Rod\67468.01\64220.18;
+Adventurer's Rod\47903.45\48907.23;
+Astralhook Rod\66536.11\46448.31;
+Free Spirit Rod\66128.75\46352.47;
+Blazebringer Rod\65984.7\60079;
+No-Life Rod\59668.47\55979.43;
+Seraphic Rod\57215.75\51897.94;
+Challenger's Rod\55619.79\51980.99;
+Depthseeker Rod\55388.27\53429.31;
+Ethereal Prism Rod\55079.58\40758.35;
+Rod Of The Forgotten Fang\55067.22\50108.06;
+Avalanche Rod\55047.64\53175.61;
+Volcanic Rod\54696.65\51890.43;
+Rod Of The Depths\54566.41\50182.91;
+Zeus Rod\54496.37\51700.42;
+Rod Of The Exalted One\54490.71\48963.26;
+Steady Rod\44884.29\45229.55
+|recommended   = Verdant Shear Rod
+}}
+
+== Catch Quips ==
+When catching a Gemscale Mandarinfish, the player has a chance to make one of the following exclamations:
+* A Gemscale Mandarinfish!
+* Glistening!
+* Treasure!
+* Pure gold!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Treasure Island}}

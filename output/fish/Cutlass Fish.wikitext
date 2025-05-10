@@ -33,7 +33,7 @@ Champions Rod\184301.64\35142.14;
 Depthseeker Rod\181265.62\33452.03;
 Rapid Rod\181210.07\36007.24;
 Celestial Rod\180762.37\36034.47;
-Ice Warpers Rod\177594.47\35402.95;
+Merchant Rod\178682.72\34601.88;
 Training Rod\152801.63\52688.17;
 Flimsy Rod\101277.37\36380.56;
 Avalanche Rod\175242.11\32703.45;

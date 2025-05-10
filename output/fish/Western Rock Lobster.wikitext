@@ -1,8 +1,8 @@
 {{FishInfobox
 |image          = Western Rock Lobster.png
 |rarity         = Common
-|sea            = Second Sea
-|location       = [[Lobster Fishing (Sea 2)]]
+|sea            = First Sea, Second Sea
+|location       = [[Ocean]]
 |sublocation    = 
 |sources        = Lobster Cage
 |radar_location = 
@@ -17,7 +17,7 @@
 |base_chance    = 90
 |base_resil     = 90
 }}
-'''Western Rock Lobster''' is a {{Rarity|Common}} fish found in [[Lobster Fishing (Sea 2)]].
+'''Western Rock Lobster''' is a {{Rarity|Common}} fish found in the [[Ocean]].
 
 == Description ==
 {{Description|Lobsters are valuable crustaceans known for their rich, succulent meat. Lobsters are most active in the summer to autumn, and are commonly caught in crab cages during calm clear days.|Bestiary Entry}}
@@ -37,4 +37,4 @@ When catching a Western Rock Lobster, the player has a chance to make one of the
 {{Change History|{{subst:Current Version}}}}
 
 == Navigation ==
-{{Fish Navbox|Lobster Fishing (Sea 2)}}
+{{Fish Navbox|Ocean}}

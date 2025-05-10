@@ -54,7 +54,7 @@ Blazebringer Rod\154412.46\360559.83;
 Depthseeker Rod\143187.5\273901.05;
 Avalanche Rod\128933.66\247558.35;
 Volcanic Rod\123368.95\230136.43;
-Steady Rod\51267.17\80814.77
+Steady Rod\51267.17\81667.08
 |recommended   = Trident Rod
 }}
 

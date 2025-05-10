@@ -1,4 +1,4 @@
-/* Last update: Version [[1.31]], place version 4348 */
+/* Last update: Version [[1.32]], place version 61 */
 
 /* Attributes */
 .mutation-big, .mutation-big a:not(.new), .mutation-giant, .mutation-giant a:not(.new) { color: #8bff89; }
@@ -51,6 +51,7 @@
 .mutation-firework, .mutation-firework a:not(.new), .mutation-firework .oo-ui-labelElement-label { color: #877eff; }
 .mutation-fossilized, .mutation-fossilized a:not(.new), .mutation-fossilized .oo-ui-labelElement-label { color: #d0b5ff; }
 .mutation-frozen, .mutation-frozen a:not(.new), .mutation-frozen .oo-ui-labelElement-label { color: #83ffe6; }
+.mutation-gemstone, .mutation-gemstone a:not(.new), .mutation-gemstone .oo-ui-labelElement-label { color: #a700ef; }
 .mutation-ghastly, .mutation-ghastly a:not(.new), .mutation-ghastly .oo-ui-labelElement-label { color: #61ff5e; }
 .mutation-glossy, .mutation-glossy a:not(.new), .mutation-glossy .oo-ui-labelElement-label { color: #92e2ff; }
 .mutation-greedy, .mutation-greedy a:not(.new), .mutation-greedy .oo-ui-labelElement-label { color: #ffc226; }

@@ -1,0 +1,65 @@
+{{FishInfobox
+|image          = Oyster Toadfish.png
+|rarity         = Uncommon
+|sea            = Second Sea
+|location       = [[Whale Interior]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = +10
+|xp             = 100
+|weather        = 
+|time           = 
+|season         = 
+|bait           = 
+|base_weight    = 11.5
+|base_value     = 200
+|weight_range   = 7.8
+|base_chance    = 80
+|base_resil     = 80
+}}
+'''Oyster Toadfish''' is an {{Rarity|Uncommon}} fish found in [[Whale Interior]].
+
+== Description ==
+{{Description|A sneaky ambush predator lurking in oyster beds and muddy bottoms.|Bestiary Entry}}
+
+== Obtainment ==
+{{Fish Availability|
+Whale Interior
+|top_rods      = 
+Training Rod\301020.94\227558.76;
+Free Spirit Rod\280635.96\173534.81;
+Azure Of Lagoon\275164.93\264693.1;
+Leviathan's Fang Rod\261252.44\253273.31;
+Trident Rod\259826.91\239459.57;
+Flimsy Rod\258884.09\274029.51;
+Fang of the Eclipse\258583.72\264114.12;
+Great Dreamer Rod\252023.25\257413.33;
+Blazebringer Rod\250911.06\246691.08;
+Verdant Shear Rod\250183.87\249057.59;
+Astralhook Rod\241975.71\25447.16;
+No-Life Rod\225886.92\214300.7;
+Ethereal Prism Rod\216994.4\218829.73;
+Seraphic Rod\215594.29\198694.27;
+Challenger's Rod\209401.21\198028.05;
+Depthseeker Rod\208637.82\203485.83;
+Rod Of The Forgotten Fang\207599.98\191882.02;
+Avalanche Rod\207339.2\202532.12;
+Rod Of The Exalted One\206703.26\194963.15;
+Volcanic Rod\206081.38\197753.02;
+Rod Of The Depths\205682.61\191960.55;
+Zeus Rod\205367.97\197068.44;
+Steady Rod\169182.47\164437.76
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching an Oyster toadfish, the player has a chance to make one of the following exclamations:
+* An Oyster Toadfish!
+* This isn't an oyster...
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Whale Interior}}

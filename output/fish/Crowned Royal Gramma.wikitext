@@ -1,0 +1,71 @@
+{{FishInfobox
+|image          = Crowned Royal Gramma.png
+|rarity         = Common
+|sea            = Second Sea
+|location       = [[Treasure Island]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 1120
+|weather        = 
+|time           = 
+|season         = 
+|bait           = Worm
+|base_weight    = 30
+|base_value     = 1300
+|weight_range   = 21
+|base_chance    = 90
+|base_resil     = 100
+}}
+'''Crowned Royal Gramma''' is a {{Rarity|Common}} fish found in [[Treasure Island]].
+
+== Description ==
+{{Description|A regal gleam from a lost kingdom.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Hidden where treasure resides.|Bestiary Hint}}
+{{Fish Availability|
+Treasure Island
+|top_rods      = 
+Free Spirit Rod\94749.9\59420.36;
+Azure Of Lagoon\92658.72\89716.72;
+Fang of the Eclipse\88236.86\85222.34;
+Lobster Rod\87683.26\87645.64;
+Verdant Shear Rod\87283.37\83081.65;
+Resourceful Rod\71819.47\71949.06;
+Frog Rod\79156.21\76647.52;
+Fortune Rod\71026.65\68775.62;
+Firefly Rod\86302.77\87258.69;
+Blazebringer Rod\85363.64\84573.47;
+Lucky Rod\71076.04\66689.52;
+Adventurer's Rod\62245.37\63407.98;
+Plastic Rod\58402.5\57547.43;
+Trident Rod\85347.73\78668.15;
+Astralhook Rod\83044.61\0;
+No-Life Rod\76218.69\71506.43;
+Seraphic Rod\73796.37\66937.51;
+Ethereal Prism Rod\73639.95\69201.47;
+Challenger's Rod\71836.21\67136.49;
+Depthseeker Rod\71654.13\69119.88;
+Avalanche Rod\71331.37\68905.57;
+Rod Of The Forgotten Fang\71186.05\64775.28;
+Volcanic Rod\70897.13\67259.73;
+Rod Of The Depths\70707.78\65027.6;
+Zeus Rod\70668.23\67042.57;
+Rod Of The Exalted One\70546.72\63390.57;
+Steady Rod\58149.89\58512.23
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Crowned Royal Gramma, the player has a chance to make one of the following exclamations:
+* A Crowned Royal Gramma!
+* Glistening!
+* Treasure!
+* Pure gold!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Treasure Island}}

@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Emerald Angelfish.png
+|rarity         = Common
+|sea            = Second Sea
+|location       = [[Treasure Island]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 1230
+|weather        = 
+|time           = 
+|season         = 
+|bait           = Insect
+|base_weight    = 12.9
+|base_value     = 1700
+|weight_range   = 8.6
+|base_chance    = 85
+|base_resil     = 95
+}}
+'''Emerald Angelfish''' is a {{Rarity|Common}} fish found in [[Treasure Island]].
+
+== Description ==
+{{Description|A verdant sparkle from a pirate's hoard.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Hidden where treasure resides.|Bestiary Hint}}
+{{Fish Availability|
+Treasure Island
+|top_rods      = 
+Training Rod\100364.2\291886.32;
+Flimsy Rod\92380.3\83682.62;
+Free Spirit Rod\87985.61\56119.22;
+Azure Of Lagoon\87783.82\84996.6;
+Fang of the Eclipse\83261.88\80555.34;
+Resourceful Rod\67514.75\67760.89;
+Firefly Rod\81279.07\82179.35;
+Fischer's Rod\55202.92\54555.11;
+Verdant Shear Rod\82281.64\78320.69;
+Trident Rod\81288.56\74926.67;
+Blazebringer Rod\80473\75567.82;
+Astralhook Rod\77715.98\0;
+No-Life Rod\72122.63\67663.61;
+Seraphic Rod\69631.3\63159.55;
+Ethereal Prism Rod\69459.68\65273.16;
+Challenger's Rod\67753.75\63321.11;
+Depthseeker Rod\67549.54\65160.46;
+Avalanche Rod\67214.12\64928.34;
+Rod Of The Forgotten Fang\67123\61078.14;
+Volcanic Rod\66798.55\63371.43;
+Rod Of The Depths\66626.52\61274.2;
+Zeus Rod\66573.9\63158.31;
+Rod Of The Exalted One\66491.11\59746.36;
+Steady Rod\54794.97\55159.02
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching an Emerald Angelfish, the player has a chance to make one of the following exclamations:
+* A Emerald Angelfish!
+* Glistening!
+* Treasure!
+* Pure gold!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Treasure Island}}

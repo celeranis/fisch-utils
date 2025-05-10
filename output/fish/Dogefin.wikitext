@@ -13,9 +13,9 @@
 |time           = Night
 |season         = Winter
 |bait           = Mist Worms
-|base_weight    = 40
+|base_weight    = 50
 |base_value     = 21000
-|weight_range   = 35
+|weight_range   = 39.5
 |base_chance    = 0.5
 |base_resil     = 6
 }}
@@ -35,9 +35,10 @@ Astralhook Rod\530.21\5322.67;
 Free Spirit Rod\509.55\5560.5;
 Carrot Rod\457.23\5044.13;
 Fang of the Eclipse\453.49\5240.74;
-Flimsy Rod\391.01\269480.52;
-Training Rod\393.97\431168.83;
+Resourceful Rod\322.6\3606.17;
 Plastic Rod\232.79\5316.1;
+Fischer's Rod\234.63\5095.47;
+Lucky Rod\252.83\4648.86;
 Verdant Shear Rod\392.85\5037.71;
 Blazebringer Rod\375.05\4363.01;
 Trident Rod\330.04\3547.98;

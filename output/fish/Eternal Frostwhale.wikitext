@@ -28,7 +28,7 @@
 {{Fish Availability|
 Golden Tide
 |top_rods      = 
-Leviathan's Fang Rod\38326.86\207475.29;
+Leviathan's Fang Rod\39045.83\207475.29;
 Free Spirit Rod\31593.93\201836.13;
 Trident Rod\31293.98\199919.9;
 Great Rod of Oscar\27026.96\106164.15;

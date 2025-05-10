@@ -1,0 +1,70 @@
+{{FishInfobox
+|image          = Goldfin Octopus.png
+|rarity         = Exotic
+|sea            = Second Sea
+|location       = [[Treasure Island]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -85
+|xp             = 18500
+|weather        = 
+|time           = 
+|season         = 
+|bait           = Golden Shrimp Bait
+|base_weight    = 100
+|base_value     = 15000
+|weight_range   = 70
+|base_chance    = 1
+|base_resil     = 10
+}}
+'''Goldfin Octopus''' is an {{Rarity|Exotic}} fish found in [[Treasure Island]].
+
+== Description ==
+{{Description|A golden enigma from the sea's most elusive troves.|Bestiary Entry}}
+
+== Obtainment ==
+{{Fish Availability|
+Treasure Island
+|top_rods      = 
+Great Rod of Oscar\10509.72\81588.92;
+Astralhook Rod\9611.63\81314.68;
+Fang of the Eclipse\8323.71\82462.66;
+Carrot Rod\7177.17\66503.21;
+Treasure Rod\6559.41\60363.48;
+Resourceful Rod\4974.92\44638.05;
+Lobster Rod\6547.07\61966;
+Lucky Rod\3161.62\35536.85;
+Fungal Rod\2740.52\34554.64;
+Antler Rod\2397.95\30235.31;
+Free Spirit Rod\6479.71\59762.86;
+Blazebringer Rod\5662.63\55223.22;
+Verdant Shear Rod\5437.78\58131.38;
+Seraphic Rod\4543.09\45373.48;
+Challenger's Rod\4418.7\45652.46;
+Trident Rod\4341.82\46415.18;
+Ethereal Prism Rod\4323.96\41687.95;
+No-Life Rod\3997.65\41485.5;
+Rod Of The Forgotten Fang\3800.74\38115.23;
+Rod Of The Exalted One\3556.62\34956.6;
+Depthseeker Rod\3394.04\36377.9;
+Rod Of The Depths\3318.13\33694.79;
+Avalanche Rod\3139.67\33716.2;
+Volcanic Rod\3099.14\32600.08;
+Zeus Rod\2975.59\31300.41;
+Steady Rod\2943.63\32321.12
+|recommended   = Astralhook Rod
+}}
+
+== Catch Quips ==
+When catching a Goldfin Octopus, the player has a chance to make one of the following exclamations:
+* A Goldfin Octopus!
+* Glistening!
+* Treasure!
+* Pure gold!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Treasure Island}}

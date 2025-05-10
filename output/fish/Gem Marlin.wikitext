@@ -1,0 +1,64 @@
+{{FishInfobox
+|image          = Gem Marlin.png
+|rarity         = Mythical
+|sea            = Second Sea
+|location       = [[Treasure Island]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -70
+|xp             = 13500
+|weather        = 
+|time           = 
+|season         = 
+|bait           = Sapphire Krill
+|base_weight    = 18000
+|base_value     = 27000
+|weight_range   = 13000
+|base_chance    = 4
+|base_resil     = 12
+}}
+'''Gem Marlin''' is a {{Rarity|Mythical}} fish found in [[Treasure Island]].
+
+== Description ==
+{{Description|A colossal prize, flashing with the brilliance of deep-sea riches.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Hidden where treasure resides.|Bestiary Hint}}
+{{Fish Availability|
+Treasure Island
+|top_rods      = 
+Great Rod of Oscar\12713.2\70726.85;
+Astralhook Rod\11824.55\70758.6;
+Free Spirit Rod\10755.95\68095.12;
+Carrot Rod\10007.82\64932.8;
+Fang of the Eclipse\9980.86\68552.16;
+Krampus's Rod\5794.49\33537.4;
+Steady Rod\4545.01\33959.15;
+Blazebringer Rod\8157.75\55288.21;
+Seraphic Rod\5860.1\40525.2;
+Ethereal Prism Rod\5835.03\39163.36;
+No-Life Rod\5585.95\39894.75;
+Challenger's Rod\5451.43\38789.88;
+Rod Of The Forgotten Fang\5308.07\36834.9;
+Rod Of The Exalted One\5225.15\35647.83;
+Rod Of The Depths\4998.89\35057.42;
+Depthseeker Rod\4895.32\35918.24;
+Volcanic Rod\4776.13\34500.07;
+Avalanche Rod\4746.44\34881.55;
+Zeus Rod\4704.03\33979.23
+|recommended   = Astralhook Rod
+}}
+
+== Catch Quips ==
+When catching a Gem Marlin, the player has a chance to make one of the following exclamations:
+* A Gem Marlin!
+* Glistening!
+* Treasure!
+* Pure gold!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Treasure Island}}

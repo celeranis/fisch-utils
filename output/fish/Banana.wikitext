@@ -36,7 +36,7 @@ Astralhook Rod\446.41\2895.27;
 Ethereal Prism Rod\445.58\2911.64;
 Lucky Rod\341.7\12026.15;
 Training Rod\331.04\2265.86;
-Frog Rod\347.05\14431.49;
+Frog Rod\347.05\14647.77;
 Fast Rod\372.11\20199.62;
 Firefly Rod\411.44\20030.46;
 Fungal Rod\346.59\16025.18;
@@ -50,12 +50,12 @@ Challenger's Rod\379.79\2903.61;
 Free Spirit Rod\365.56\2804.85;
 Rod Of The Depths\357.76\2611.79;
 Rod Of The Exalted One\354.29\2452.41;
-Zeus Rod\341.18\2538.33;
+Zeus Rod\341.18\2561.27;
 Verdant Shear Rod\331.52\2515.15;
-Blazebringer Rod\323.96\2419.61;
+Blazebringer Rod\323.96\2440.22;
 Depthseeker Rod\303.66\2331.19;
 Avalanche Rod\273.47\2109.45;
-Volcanic Rod\265.85\1991.55;
+Volcanic Rod\265.85\2010.51;
 Steady Rod\88.79\712.66
 |recommended   = Ethereal Prism Rod
 }}

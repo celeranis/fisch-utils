@@ -48,7 +48,7 @@ Verdant Shear Rod\26592.86\84465.97;
 Free Spirit Rod\26406.47\87868.2;
 Blazebringer Rod\25735.5\80674.9;
 Depthseeker Rod\24195.18\75092.69;
-Avalanche Rod\21906.26\67777.09;
+Avalanche Rod\21906.26\67992.3;
 Volcanic Rod\21063.58\66016.96;
 Steady Rod\7237.89\22121.14
 |recommended   = Magnet Rod

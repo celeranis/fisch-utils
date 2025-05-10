@@ -1,0 +1,66 @@
+{{FishInfobox
+|image          = Gem Eel.png
+|rarity         = Uncommon
+|sea            = Second Sea
+|location       = [[Treasure Island]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 1600
+|weather        = 
+|time           = 
+|season         = 
+|bait           = Seaweed
+|base_weight    = 5
+|base_value     = 3100
+|weight_range   = 3.2
+|base_chance    = 64
+|base_resil     = 60
+}}
+'''Gem Eel''' is an {{Rarity|Uncommon}} fish found in [[Treasure Island]].
+
+== Description ==
+{{Description|A slithering sparkle, woven from the sea's hidden treasures.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Hidden where treasure resides.|Bestiary Hint}}
+{{Fish Availability|
+Treasure Island
+|top_rods      = 
+Training Rod\79354.54\289053.45;
+Trident Rod\67998.91\62677.11;
+Leviathan's Fang Rod\64809.17\46946.83;
+Flimsy Rod\63334.01\58456.21;
+Astralhook Rod\62195.69\74149.96;
+Resourceful Rod\48311.51\49281.16;
+Firefly Rod\59112.66\59767.42;
+Verdant Shear Rod\60307.79\55430.12;
+Free Spirit Rod\60293.43\43160.18;
+Blazebringer Rod\57336.18\48162.55;
+No-Life Rod\55616.23\52177.73;
+Seraphic Rod\51834.01\47016.4;
+Challenger's Rod\50210.3\46925.41;
+Depthseeker Rod\49758.28\47998.44;
+Rod Of The Forgotten Fang\49575.51\45110.91;
+Avalanche Rod\49143.51\47472.26;
+Volcanic Rod\48817.01\46312.44;
+Rod Of The Depths\48713.88\44800.54;
+Zeus Rod\48593.99\46100.86;
+Rod Of The Exalted One\48544.35\42119.71;
+Ethereal Prism Rod\47913.25\31290.01;
+Steady Rod\40164.95\40682.34
+|recommended   = Astralhook Rod
+}}
+
+== Catch Quips ==
+When catching a Gem Eel, the player has a chance to make one of the following exclamations:
+* A Gem Eel!
+* Glistening!
+* Treasure!
+* Pure gold!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Treasure Island}}

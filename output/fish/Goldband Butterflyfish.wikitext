@@ -1,0 +1,69 @@
+{{FishInfobox
+|image          = Goldband Butterflyfish.png
+|rarity         = Uncommon
+|sea            = Second Sea
+|location       = [[Treasure Island]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 1510
+|weather        = 
+|time           = 
+|season         = 
+|bait           = Gale Grub
+|base_weight    = 22
+|base_value     = 2900
+|weight_range   = 15
+|base_chance    = 65
+|base_resil     = 85
+}}
+'''Goldband Butterflyfish''' is an {{Rarity|Uncommon}} fish found in [[Treasure Island]].
+
+== Description ==
+{{Description|A golden glint from the ocean's buried wealth.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Hidden where treasure resides.|Bestiary Hint}}
+{{Fish Availability|
+Treasure Island
+|top_rods      = 
+Plastic Rod\100996.83\41124.54;
+Magma Rod\100540.76\41299.27;
+Krampus's Rod\99528.86\41042.61;
+Fischer's Rod\79825.13\51178.68;
+Fast Rod\79557.52\51007.11;
+Magnet Rod\63472.76\73838.46;
+Astralhook Rod\63046.26\69403.28;
+Buddy Bond Rod\68778.06\62191.51;
+Firefly Rod\60591.47\58966.23;
+Trident Rod\63429.11\58464.95;
+Verdant Shear Rod\61196.35\56406.93;
+Blazebringer Rod\59627.81\49141.31;
+Free Spirit Rod\58084.04\43041.58;
+No-Life Rod\55406.43\51980.9;
+Seraphic Rod\53128.91\48190.94;
+Challenger's Rod\51646.95\48268.06;
+Depthseeker Rod\51431.96\49612.93;
+Rod Of The Forgotten Fang\51133.84\46528.91;
+Avalanche Rod\51115.67\49377.35;
+Volcanic Rod\50789.75\48183.97;
+Rod Of The Depths\50668.81\46598.42;
+Zeus Rod\50603.78\48007.54;
+Rod Of The Exalted One\50598.52\45465.88;
+Ethereal Prism Rod\49585.3\31866.24;
+Steady Rod\41678.27\40013.02
+|recommended   = Astralhook Rod
+}}
+
+== Catch Quips ==
+When catching a Goldband Butterflyfish, the player has a chance to make one of the following exclamations:
+* A Goldband Butterflyfish!
+* Glistening!
+* Treasure!
+* Pure gold!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Treasure Island}}

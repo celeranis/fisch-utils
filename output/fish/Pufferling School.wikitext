@@ -1,8 +1,8 @@
 {{FishInfobox
 |image          = Pufferling School.png
 |rarity         = Rare
-|sea            = Second Sea
-|location       = [[Net Fishing]]
+|sea            = First Sea, Second Sea
+|location       = [[Ocean]]
 |sublocation    = 
 |sources        = Fishing Net
 |radar_location = 
@@ -17,7 +17,7 @@
 |base_chance    = 30
 |base_resil     = 35
 }}
-'''Pufferling School''' is a {{Rarity|Rare}} fish found in [[Net Fishing]].
+'''Pufferling School''' is a {{Rarity|Rare}} fish found in the [[Ocean]].
 
 == Description ==
 {{Description|A school of awesome fish!|Bestiary Entry}}
@@ -33,4 +33,4 @@ When catching a Pufferling School, the player has a chance to make one of the fo
 {{Change History|{{subst:Current Version}}}}
 
 == Navigation ==
-{{Fish Navbox|Net Fishing}}
+{{Fish Navbox|Ocean}}

@@ -45,7 +45,7 @@ Verdant Shear Rod\87535.13\784308.24;
 Blazebringer Rod\86045.84\773261.71;
 Trident Rod\75430.23\703383.47;
 Ethereal Prism Rod\60179.97\553252.56;
-Seraphic Rod\59005.43\528684.24;
+Seraphic Rod\59005.43\535687.85;
 No-Life Rod\56651.86\528913.44;
 Rod Of The Exalted One\55458.77\515479.43;
 Rod Of The Forgotten Fang\55086.59\495770.02;

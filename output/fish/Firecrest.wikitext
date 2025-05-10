@@ -31,7 +31,7 @@ Emberreach/Freshwater Pond
 Firefly Rod\538222.98\666055.47;
 Brick Built Rod\443116.9\425490.93;
 Free Spirit Rod\420210.38\402264.46;
-Buddy Bond Rod\417144.74\368458.63;
+Buddy Bond Rod\417144.74\372182.54;
 Azure Of Lagoon\363688.77\378576.93;
 Verdant Shear Rod\338349.8\405700.98;
 Carrot Rod\353471.36\397589.77;

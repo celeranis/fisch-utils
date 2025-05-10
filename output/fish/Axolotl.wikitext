@@ -51,7 +51,7 @@ Blazebringer Rod\59652.54\571982.52;
 Depthseeker Rod\54738.16\561111.69;
 Avalanche Rod\49265.42\510425.98;
 Volcanic Rod\48975.39\474866.88;
-Steady Rod\14763.66\163951.58
+Steady Rod\14763.66\164602.3
 |recommended   = Ethereal Prism Rod
 }}
 

@@ -34,7 +34,7 @@ Leviathan's Fang Rod\295522.85\34636.17;
 Azure Of Lagoon\263879.69\30602.11;
 Astralhook Rod\244263.68\0;
 Training Rod\202637.12\19819.88;
-Carrot Rod\229350.89\26170.75;
+Treasure Rod\217305.88\24399.41;
 Nocturnal Rod\106722.72\102495.6;
 Fang of the Eclipse\233032.29\33320.41;
 Frog Rod\189880.69\24457.88;

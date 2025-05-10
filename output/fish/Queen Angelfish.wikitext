@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Queen Angelfish.png
+|rarity         = Rare
+|sea            = Second Sea
+|location       = [[Treasure Island]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 3450
+|weather        = 
+|time           = 
+|season         = 
+|bait           = Minnow
+|base_weight    = 8
+|base_value     = 6200
+|weight_range   = 5.6
+|base_chance    = 25
+|base_resil     = 45
+}}
+'''Queen Angelfish''' is a {{Rarity|Rare}} fish found in [[Treasure Island]].
+
+== Description ==
+{{Description|A sovereign sparkle from the ocean's royal trove.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Hidden where treasure resides.|Bestiary Hint}}
+{{Fish Availability|
+Treasure Island
+|top_rods      = 
+Steady Rod\66159.78\81225.75;
+Frostfire Rod\65896.01\81303.59;
+Training Rod\59486.8\242179.52;
+Plastic Rod\49639.61\78362.87;
+Magma Rod\49348.14\78424.62;
+Flimsy Rod\47444.08\265265.44;
+Astralhook Rod\37952.71\87721.41;
+Great Rod of Oscar\40200.53\85674.77;
+Carrot Rod\34355.63\84605.26;
+Free Spirit Rod\36942.55\77182.7;
+Trident Rod\30692.93\63442.63;
+Verdant Shear Rod\30151.77\82490.37;
+Blazebringer Rod\28794.22\72384.34;
+No-Life Rod\22533.38\50196.52;
+Ethereal Prism Rod\20936.98\50590.05;
+Seraphic Rod\20766.78\49741.72;
+Rod Of The Forgotten Fang\19680.28\47453.72;
+Challenger's Rod\19635.21\47611.94;
+Rod Of The Exalted One\19440.32\47186.45;
+Depthseeker Rod\19037.62\47238.69;
+Rod Of The Depths\18948.56\47086.61;
+Avalanche Rod\18601.15\47047.96;
+Volcanic Rod\18496\46933.08;
+Zeus Rod\18404.87\46792.9
+|recommended   = Astralhook Rod
+}}
+
+== Catch Quips ==
+When catching a Queen Angelfish, the player has a chance to make one of the following exclamations:
+* A Queen Angelfish!
+* Glistening!
+* Treasure!
+* Pure gold!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Treasure Island}}

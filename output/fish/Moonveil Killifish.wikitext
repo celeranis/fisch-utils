@@ -34,9 +34,9 @@ Azure Of Lagoon\199130.89\212194.41;
 Carrot Rod\193122.01\286911.02;
 Trident Rod\192056.47\191688.99;
 Flimsy Rod\182396.76\174797.18;
+Treasure Rod\190769.68\287745.99;
+Merchant Rod\184057.55\254041.54;
 Firefly Rod\183210.04\250934.87;
-Lobster Rod\183910.44\242181.16;
-Egg Rod\184489.54\238249.98;
 Astralhook Rod\191408.87\158835.92;
 Verdant Shear Rod\183436.88\231337.69;
 Blazebringer Rod\180319.19\216922.69;
@@ -51,7 +51,7 @@ Avalanche Rod\148965.11\156702.09;
 Rod Of The Depths\148951.24\154831.41;
 Volcanic Rod\148601.98\162176.28;
 Zeus Rod\148184.14\161846.32;
-Steady Rod\121762.98\133301.06
+Steady Rod\121762.98\133752.24
 |recommended   = Free Spirit Rod
 }}
 

@@ -34,6 +34,7 @@ Free Spirit Rod\16994.87\106972.85;
 Carrot Rod\14875.72\115038.75;
 Fang of the Eclipse\14424.15\100932.71;
 Resourceful Rod\10104.98\92327.39;
+Treasure Rod\13490.14\105389.14;
 Verdant Shear Rod\12178.04\83806.1;
 Blazebringer Rod\12114.39\87606.02;
 Trident Rod\11426.63\67174.97;

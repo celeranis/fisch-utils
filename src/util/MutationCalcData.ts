@@ -902,8 +902,8 @@ export const MUTATION_DATA: MutationDataEntry[] = [
 		]
 	},
 	{
-		mutation: 'Blighted',
-		chance: 5,
+		mutation: 'Frozen',
+		chance: 40,
 		priority: MutationPriority.SpecialRods,
 		chance_type: 'percent',
 		allow_crates: true,
@@ -917,7 +917,7 @@ export const MUTATION_DATA: MutationDataEntry[] = [
 	},
 	{
 		mutation: 'Sleet',
-		chance: 10,
+		chance: 33.333333, //adjusted for Frozen
 		priority: MutationPriority.SpecialRods,
 		chance_type: 'percent',
 		allow_crates: true,
@@ -930,8 +930,8 @@ export const MUTATION_DATA: MutationDataEntry[] = [
 		]
 	},
 	{
-		mutation: 'Frozen',
-		chance: 15,
+		mutation: 'Blighted',
+		chance: 37.5, //adjusted for Frozen and Sleet
 		priority: MutationPriority.SpecialRods,
 		chance_type: 'percent',
 		allow_crates: true,
@@ -1058,13 +1058,19 @@ export const MUTATION_DATA: MutationDataEntry[] = [
 				check: 'conditions',
 				property: 'rod',
 				values: ["Fang of the Eclipse"]
+			},
+			{
+				check: 'conditions',
+				property: 'weather',
+				op: 'not',
+				values: ['Eclipse']
 			}
 		]
 	},
 	{
 		mutation: 'Solarblaze',
 		chance: 90,
-		priority: MutationPriority.SpecialRods,
+		priority: MutationPriority.SpecialRods + 1,
 		chance_type: 'percent',
 		allow_crates: true,
 		conditions: [
@@ -1082,7 +1088,7 @@ export const MUTATION_DATA: MutationDataEntry[] = [
 	},
 	{
 		mutation: 'Umbra',
-		chance: 11.111111, // adjusted for solarblaze
+		chance: 100, // adjusted for solarblaze
 		priority: MutationPriority.SpecialRods,
 		chance_type: 'percent',
 		allow_crates: true,
@@ -1171,6 +1177,20 @@ export const MUTATION_DATA: MutationDataEntry[] = [
 				check: 'conditions',
 				property: 'rod',
 				values: ["Lobster Rod"]
+			}
+		]
+	},
+	{
+		mutation: 'Gemstone',
+		chance: 8,
+		priority: MutationPriority.SpecialRods,
+		chance_type: 'percent',
+		allow_crates: true,
+		conditions: [
+			{
+				check: 'conditions',
+				property: 'rod',
+				values: ['Treasure Rod']
 			}
 		]
 	},
@@ -1296,8 +1316,8 @@ for (const [mutation, mutationData] of Object.entries(InternalMutationDataMap).s
 	
 	// lazily preserving order
 	if (mutationData.Display == 'Seasonal') {
-		MUTATION_MULTIPLIERS['Seasonal (Spring)'] = 3
-		MUTATION_MULTIPLIERS['Seasonal (Autumn)'] = 1.5
+		MUTATION_MULTIPLIERS['Seasonal (Spring)'] = 4.5
+		MUTATION_MULTIPLIERS['Seasonal (Autumn)'] = 4
 		MUTATION_MULTIPLIERS['Seasonal (Winter)'] = 2.5
 	}
 }

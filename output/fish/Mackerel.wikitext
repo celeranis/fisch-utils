@@ -69,7 +69,7 @@ Resourceful Rod\166094.45\31350.77;
 Destiny Rod\195175.27\18552.51;
 Nocturnal Rod\118883.68\121281.51;
 Riptide Rod\175284.05\40499.18;
-Fast Rod\172686.48\38191.6;
+Fast Rod\172686.48\38422.3;
 Challenger's Rod\195138.57\37282.26;
 Tempest Rod\205079.99\37131.47;
 Frog Rod\158352.4\31882.39;
@@ -84,7 +84,7 @@ Blazebringer Rod\172501.83\32490.9;
 Depthseeker Rod\168304.78\27843.02;
 Volcanic Rod\166621.26\25124.29;
 Avalanche Rod\166354.2\24067.61;
-Training Rod\141963.01\18379.42;
+Training Rod\141963.01\18426.43;
 Steady Rod\82111.54\13030.09
 |recommended   = Trident Rod
 }}

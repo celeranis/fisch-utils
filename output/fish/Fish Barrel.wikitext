@@ -60,7 +60,7 @@ Trident Rod\148075.8\217422.69;
 Free Spirit Rod\147269.65\216239;
 Seraphic Rod\151745.22\215994.11;
 Tempest Rod\150102.04\213401.75;
-Carrot Rod\148679.39\205783.5;
+Carrot Rod\148691\205783.5;
 Astralhook Rod\153195.48\214566.59;
 Ethereal Prism Rod\151006.84\210156.23;
 Rod Of The Forgotten Fang\149465.52\198175.61;

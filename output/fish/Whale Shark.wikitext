@@ -46,7 +46,7 @@ Zeus Rod\40434.94\320196.09;
 Depthseeker Rod\37153.8\310083.93;
 Avalanche Rod\33073.92\275837.52;
 Volcanic Rod\31658.52\254514.84;
-Steady Rod\10409.17\89708.42
+Steady Rod\10409.17\90535.35
 |recommended   = Ethereal Prism Rod
 }}
 

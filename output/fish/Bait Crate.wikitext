@@ -98,8 +98,8 @@ Rod Of The Forgotten Fang\177499.52\281924.65;
 Ethereal Prism Rod\176788.75\291341.42;
 Rod Of The Exalted One\174472.81\263250.52;
 Volcanic Rod\173988.1\208256.55;
-Depthseeker Rod\172954.99\236194.08;
-Avalanche Rod\170848.36\214438.84;
+Depthseeker Rod\172954.99\236373.18;
+Avalanche Rod\170848.36\214847.09;
 Steady Rod\59783.76\69721.81
 |recommended   = Magnet Rod
 }}

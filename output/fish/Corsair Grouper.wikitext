@@ -34,7 +34,7 @@ Trident Rod\542373.59\0;
 Free Spirit Rod\538342.49\0;
 No-Life Rod\513966.67\79041.01;
 Azure Of Lagoon\500546.69\79448.62;
-Training Rod\360161.64\95955.08;
+Training Rod\360161.64\96144.34;
 Flimsy Rod\300851.51\95449.53;
 Tempest Rod\493332.66\71729.04;
 Nocturnal Rod\299532.23\271566.81;

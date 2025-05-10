@@ -33,7 +33,7 @@ Firefly Rod\321942.04\360251.91;
 Azure Of Lagoon\299281.72\314938.59;
 Fang of the Eclipse\292763.6\297618.95;
 Astralhook Rod\291903.88\62039.57;
-Buddy Bond Rod\243387.42\241212.7;
+Buddy Bond Rod\243387.42\243336;
 Brick Built Rod\257085.74\229852.68;
 Carrot Rod\288754.24\308984.11;
 Lobster Rod\276638.79\298322.93;

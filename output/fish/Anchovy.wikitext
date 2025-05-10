@@ -34,7 +34,7 @@ Trident Rod\215632.52\13928.94;
 Free Spirit Rod\214029.87\13992.91;
 No-Life Rod\211923.84\32943.52;
 Seraphic Rod\207983.03\20043.18;
-Flimsy Rod\150273.7\16260.01;
+Flimsy Rod\150273.7\16329.66;
 Training Rod\171435.43\15496.99;
 Great Rod of Oscar\206641.67\21061.5;
 Nocturnal Rod\121032.09\122751.92;

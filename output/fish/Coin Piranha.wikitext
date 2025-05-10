@@ -1,0 +1,72 @@
+{{FishInfobox
+|image          = Coin Piranha.png
+|rarity         = Rare
+|sea            = Second Sea
+|location       = [[Treasure Island]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -10
+|xp             = 3200
+|weather        = 
+|time           = 
+|season         = 
+|bait           = Magnet
+|base_weight    = 30
+|base_value     = 5300
+|weight_range   = 20
+|base_chance    = 31
+|base_resil     = 150
+}}
+'''Coin Piranha''' is a {{Rarity|Rare}} fish found in [[Treasure Island]].
+
+== Description ==
+{{Description|A sunken coin, representative of a ferocious piranha.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Hidden where treasure resides.|Bestiary Hint}}
+{{Fish Availability|
+Treasure Island
+|top_rods      = 
+Frostfire Rod\87795.78\104002.66;
+Steady Rod\86545.66\102015.27;
+North-Star Rod\63595.74\105896.31;
+Event Horizon Rod\63588.13\105883.64;
+Astral Rod\63588.13\105883.64;
+Plastic Rod\62854.36\108657.93;
+Magma Rod\62202.14\107653.16;
+Resourceful Rod\55530.55\127591.92;
+Adventurer's Rod\49281.22\114101.28;
+Fischer's Rod\45278.94\109322;
+Fast Rod\45278.94\109180.81;
+Astralhook Rod\45861.04\103864.11;
+Verdant Shear Rod\36704.98\91168.87;
+Free Spirit Rod\36292.76\76237.52;
+Blazebringer Rod\34955.2\79736.06;
+Trident Rod\28442.19\62784.26;
+Ethereal Prism Rod\26396.46\56348.29;
+Seraphic Rod\26090.94\54710.61;
+No-Life Rod\25937.35\54459.72;
+Rod Of The Exalted One\25232.54\52073.43;
+Rod Of The Forgotten Fang\25207.83\52308.66;
+Challenger's Rod\25031.37\52507.21;
+Rod Of The Depths\24974.31\52118.22;
+Depthseeker Rod\24902.81\52255.43;
+Avalanche Rod\24843.2\52198.8;
+Volcanic Rod\24704.74\52019.8;
+Zeus Rod\24641.84\51871.18
+|recommended   = Astralhook Rod
+}}
+
+== Catch Quips ==
+When catching a Coin Piranha, the player has a chance to make one of the following exclamations:
+* A Coin Piranha!
+* Glistening!
+* Treasure!
+* Pure gold!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Treasure Island}}

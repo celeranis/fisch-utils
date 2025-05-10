@@ -49,7 +49,7 @@ Rod Of The Exalted One\61875.17\78930.02;
 Verdant Shear Rod\61294.01\78891.03;
 Blazebringer Rod\59101.78\75505.98;
 Depthseeker Rod\55981.77\70194.09;
-Avalanche Rod\50630.32\63228.44;
+Avalanche Rod\50630.32\63488.29;
 Volcanic Rod\48361.37\61760.65;
 Training Rod\42124.61\131064.97;
 Steady Rod\23403.62\20810.33

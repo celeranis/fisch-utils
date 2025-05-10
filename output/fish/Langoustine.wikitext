@@ -1,8 +1,8 @@
 {{FishInfobox
 |image          = Langoustine.png
 |rarity         = Legendary
-|sea            = First Sea
-|location       = [[Lobster Fishing (Sea 1)]]
+|sea            = First Sea, Second Sea
+|location       = [[Ocean]]
 |sublocation    = 
 |sources        = Lobster Cage
 |radar_location = 
@@ -17,7 +17,7 @@
 |base_chance    = 8
 |base_resil     = 150
 }}
-'''Langoustine''' is a {{Rarity|Legendary}} fish found in [[Lobster Fishing (Sea 1)]].
+'''Langoustine''' is a {{Rarity|Legendary}} fish found in the [[Ocean]].
 
 == Description ==
 {{Description|Lobsters are valuable crustaceans known for their rich, succulent meat. Lobsters are most active in the summer to autumn, and are commonly caught in crab cages during calm clear days.|Bestiary Entry}}
@@ -37,4 +37,4 @@ When catching a Langoustine, the player has a chance to make one of the followin
 {{Change History|{{subst:Current Version}}}}
 
 == Navigation ==
-{{Fish Navbox|Lobster Fishing (Sea 1)}}
+{{Fish Navbox|Ocean}}

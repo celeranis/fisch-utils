@@ -1,0 +1,72 @@
+{{FishInfobox
+|image          = Coin Squid.png
+|rarity         = Unusual
+|sea            = Second Sea
+|location       = [[Treasure Island]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -10
+|xp             = 1900
+|weather        = 
+|time           = 
+|season         = 
+|bait           = Magnet
+|base_weight    = 30
+|base_value     = 4500
+|weight_range   = 20
+|base_chance    = 37
+|base_resil     = 150
+}}
+'''Coin Squid''' is an {{Rarity|Unusual}} fish found in [[Treasure Island]].
+
+== Description ==
+{{Description|A sunken coin, representative of an inky marvel.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Hidden where treasure resides.|Bestiary Hint}}
+{{Fish Availability|
+Treasure Island
+|top_rods      = 
+Frostfire Rod\103844.59\118993.89;
+Steady Rod\102365.95\116720.03;
+North-Star Rod\75506.86\123053.61;
+Event Horizon Rod\75497.83\123038.89;
+Astral Rod\75497.83\123038.89;
+Plastic Rod\74343.95\129714.98;
+Magma Rod\73572.52\128515.5;
+Resourceful Rod\66193.43\151191.21;
+Adventurer's Rod\58744.11\135205.35;
+Fischer's Rod\53759.42\131367.97;
+Fast Rod\53759.42\131198.31;
+Astralhook Rod\53688.85\117665.83;
+Verdant Shear Rod\43059.31\99763.29;
+Free Spirit Rod\42723.6\83528.26;
+Blazebringer Rod\40994.24\87178.61;
+Trident Rod\33642.99\68702.88;
+Ethereal Prism Rod\31162.48\61990.42;
+No-Life Rod\30902.06\59677.69;
+Seraphic Rod\30861.8\59868.13;
+Rod Of The Forgotten Fang\29825.19\57248.24;
+Rod Of The Exalted One\29817.98\56949.67;
+Challenger's Rod\29739.19\57528.58;
+Depthseeker Rod\29722.71\57332.79;
+Avalanche Rod\29651.56\57274.92;
+Rod Of The Depths\29575.28\57065.88;
+Volcanic Rod\29486.3\57033.19;
+Zeus Rod\29411.23\56870.24
+|recommended   = Astralhook Rod
+}}
+
+== Catch Quips ==
+When catching a Coin Squid, the player has a chance to make one of the following exclamations:
+* A Coin Squid!
+* Glistening!
+* Treasure!
+* Pure gold!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Treasure Island}}

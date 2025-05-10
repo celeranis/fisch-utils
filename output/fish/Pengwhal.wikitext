@@ -37,7 +37,7 @@ Wildflower Rod\122959.54\121240.28;
 Long Rod\119910.51\119910.51;
 Fungal Rod\121502.24\121502.24;
 Astralhook Rod\122315.48\135062.5;
-Fang of the Eclipse\122569.82\123625.37;
+Merchant Rod\119016.85\134290.98;
 Adventurer's Rod\105436.29\111255.06;
 Fischer's Rod\105590.37\103349.62;
 Plastic Rod\99237.3\102910.93;

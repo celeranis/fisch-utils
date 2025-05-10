@@ -40,7 +40,7 @@ Tempest Rod\216878.43\296395.37;
 Challenger's Rod\210140.38\291710.19;
 Firefly Rod\198449.69\281913.72;
 Frog Rod\176239.43\221297.75;
-Plastic Rod\182147.58\201734.13;
+Plastic Rod\182147.58\202555.3;
 Astralhook Rod\222478.69\19636.35;
 Ethereal Prism Rod\222162.16\47330.24;
 Seraphic Rod\220775.12\242548.16;

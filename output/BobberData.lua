@@ -1,4 +1,4 @@
--- Last update: Version [[1.31]], place version 4348
+-- Last update: Version [[1.32]], place version 61
 
 return {
 	["Abyssal Heart"] = "Mythical",
@@ -36,6 +36,7 @@ return {
 	["Cube"] = "Uncommon",
 	["Cupid's Arrow"] = "Mythical",
 	["Cursed Barnacle"] = "Mythical",
+	["Cursed Coin"] = "Mythical",
 	["Cyber"] = "Mythical",
 	["Dark Art Skull"] = "Mythical",
 	["Deep-Sea Diver Helmet"] = "Mythical",
@@ -83,6 +84,7 @@ return {
 	["Hadal Core"] = "Mythical",
 	["Heart"] = "Common",
 	["Heart Candy"] = "Rare",
+	["Hidden Treasure"] = "Mythical",
 	["Hour Glass"] = "Rare",
 	["Huge"] = "Unusual",
 	["Income"] = "Legendary",
@@ -129,6 +131,7 @@ return {
 	["Red Festive Light"] = "Unusual",
 	["Red Rose"] = "Rare",
 	["Reindeer Antlers"] = "Mythical",
+	["Roslit Bay Bobber"] = "Mythical",
 	["Rubber Ducky"] = "Legendary",
 	["Ruined Dreamer"] = "Unusual",
 	["Rune Meg Bobber"] = "Mythical",
@@ -153,6 +156,7 @@ return {
 	["Tentacle Orb"] = "Mythical",
 	["The Moby Bobber"] = "Rare",
 	["Translucent"] = "Rare",
+	["Treasure Island"] = "Mythical",
 	["Trenchmaw"] = "Mythical",
 	["Vertigo Rock"] = "Legendary",
 	["Volcano Bobber"] = "Legendary",

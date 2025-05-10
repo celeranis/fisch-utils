@@ -1,0 +1,69 @@
+{{FishInfobox
+|image          = Golden Dorado.png
+|rarity         = Unusual
+|sea            = Second Sea
+|location       = [[Treasure Island]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 2150
+|weather        = 
+|time           = 
+|season         = 
+|bait           = Lushrooms
+|base_weight    = 10
+|base_value     = 3300
+|weight_range   = 7
+|base_chance    = 39
+|base_resil     = 70
+}}
+'''Golden Dorado''' is an {{Rarity|Unusual}} fish found in [[Treasure Island]].
+
+== Description ==
+{{Description|A radiant trophy from the sea's golden depths.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Hidden where treasure resides.|Bestiary Hint}}
+{{Fish Availability|
+Treasure Island
+|top_rods      = 
+Frostfire Rod\105435.23\119642.48;
+Steady Rod\104470.64\117962.24;
+Training Rod\92842.54\398483.91;
+Flimsy Rod\77467.57\475120.41;
+Plastic Rod\77025.22\131022.08;
+Magma Rod\76357.34\130648.87;
+Resourceful Rod\65300.77\148789.27;
+Adventurer's Rod\59365.73\136303.48;
+Fischer's Rod\55770.75\133129.34;
+Astralhook Rod\56331.95\124078.5;
+Free Spirit Rod\49877.39\89408.19;
+Verdant Shear Rod\45135.95\102613.88;
+Blazebringer Rod\43015.02\89744.9;
+Trident Rod\40128.3\73127.12;
+No-Life Rod\33567.5\61845.67;
+Ethereal Prism Rod\32237.62\63715.41;
+Seraphic Rod\32058.65\61618.53;
+Challenger's Rod\30786.95\59239.69;
+Rod Of The Forgotten Fang\30712.61\58932.35;
+Depthseeker Rod\30583.99\59061.79;
+Rod Of The Exalted One\30513.59\58573.24;
+Avalanche Rod\30308.11\58904.16;
+Rod Of The Depths\30172.84\58651.35;
+Volcanic Rod\30107.4\58670.06;
+Zeus Rod\29981.34\58522.95
+|recommended   = Astralhook Rod
+}}
+
+== Catch Quips ==
+When catching a Golden Dorado, the player has a chance to make one of the following exclamations:
+* A Golden Dorado!
+* Glistening!
+* Treasure!
+* Pure gold!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Treasure Island}}

@@ -306,12 +306,12 @@ export const RodPassiveData: Record<string, RodPassiveEffects> = {
 	},
 	'Fang of the Eclipse': {
 		stats: {
-			luck: 250,
+			luck: 150,
 			lure: 99,
 			progress_speed: 0.5,			
-			resilience: -60,
+			resilience: -50,
 			strength: Number.MAX_SAFE_INTEGER,
-			add_weight: -0.125, // 50% 0.5; 50% 1.75
+			add_weight: 0.2,
 			conditions: [{
 				check: 'conditions',
 				property: 'weather',

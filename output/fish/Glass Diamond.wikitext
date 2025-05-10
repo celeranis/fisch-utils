@@ -34,7 +34,7 @@ Seraphic Rod\89268.2\250263;
 Great Rod of Oscar\88912.37\231061.73;
 Astralhook Rod\88832.75\239710.36;
 Training Rod\68814.8\328979.38;
-Flimsy Rod\56590.19\243276.8;
+Flimsy Rod\56590.19\244318.92;
 Firefly Rod\76218.49\291913.75;
 Fast Rod\72842.57\283447.26;
 Trident Rod\86569.27\279185.66;

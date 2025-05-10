@@ -31,10 +31,10 @@ Animal Hunt/Second Sea
 |top_rods      = 
 Flimsy Rod\330900.64\540521.74;
 Training Rod\314784.36\NaN;
-Firefly Rod\293193.75\554631.25;
-Candy Cane Rod\263661.13\306343.42;
-Adventurer's Rod\254568.35\322460.56;
-Fischer's Rod\248770.98\275713.16;
+Firefly Rod\293193.75\555608.11;
+Candy Cane Rod\263661.13\307136.94;
+Adventurer's Rod\254568.35\323232.46;
+Fischer's Rod\248770.98\276335.86;
 Brick Built Rod\231956.02\353847.29;
 Long Rod\209750.27\347994.9;
 Lucky Rod\216669.84\328909.12;

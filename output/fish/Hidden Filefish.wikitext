@@ -1,0 +1,70 @@
+{{FishInfobox
+|image          = Hidden Filefish.png
+|rarity         = Unusual
+|sea            = Second Sea
+|location       = [[Treasure Island]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 2370
+|weather        = 
+|time           = 
+|season         = 
+|bait           = Lagoon Leech
+|base_weight    = 19
+|base_value     = 3500
+|weight_range   = 13
+|base_chance    = 38
+|base_resil     = 65
+}}
+'''Hidden Filefish''' is an {{Rarity|Unusual}} fish found in [[Treasure Island]].
+
+== Description ==
+{{Description|A concealed fish among the ocean's secrets.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Hidden where treasure resides.|Bestiary Hint}}
+{{Fish Availability|
+Treasure Island
+|top_rods      = 
+Frostfire Rod\102235.08\116570.45;
+Steady Rod\101430.38\115081.54;
+North-Star Rod\74127.65\120405.29;
+Event Horizon Rod\73900.84\120036.89;
+Astral Rod\73900.84\120036.89;
+Plastic Rod\70497.36\126792.39;
+Resourceful Rod\62742.94\143137.92;
+Adventurer's Rod\57432.4\132027.57;
+Fischer's Rod\52737.79\128744.55;
+Fast Rod\52419.25\127612.68;
+Astralhook Rod\54982.49\120811.98;
+Free Spirit Rod\49402.76\88971.78;
+Verdant Shear Rod\44021.16\101008.23;
+Blazebringer Rod\41962.78\88369.84;
+Trident Rod\39904.01\72882.49;
+No-Life Rod\32850.13\60997.63;
+Ethereal Prism Rod\31371.05\62675.87;
+Seraphic Rod\31205.23\60696.71;
+Challenger's Rod\29912.08\58328.76;
+Rod Of The Forgotten Fang\29851.95\58028.23;
+Depthseeker Rod\29682.03\58127.07;
+Rod Of The Exalted One\29630.76\57668.76;
+Avalanche Rod\29370.97\57960.53;
+Rod Of The Depths\29266.6\57730.16;
+Volcanic Rod\29175.36\57733.01;
+Zeus Rod\29047.63\57583.41
+|recommended   = Astralhook Rod
+}}
+
+== Catch Quips ==
+When catching a Hidden Filefish, the player has a chance to make one of the following exclamations:
+* A Hidden Filefish!
+* Glistening!
+* Treasure!
+* Pure gold!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Treasure Island}}

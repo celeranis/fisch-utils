@@ -37,6 +37,7 @@ Training Rod\349619.48\462138.66;
 Flimsy Rod\320958.15\234152.73;
 Carrot Rod\359748.37\399987.97;
 Fang of the Eclipse\357481.41\367653.39;
+Treasure Rod\339959.96\362703.12;
 Heaven's Rod\286252.24\238254.4;
 Blazebringer Rod\343277.58\334183.17;
 Verdant Shear Rod\341811.67\333332.9;

@@ -30,7 +30,7 @@
 Animal Hunt/First Sea
 |top_rods      = 
 Training Rod\476102.94\560954.15;
-Flimsy Rod\268117.09\224396.66;
+Flimsy Rod\268117.09\225766.6;
 Leviathan's Fang Rod\218427.91\111219;
 Trident Rod\208138.58\146777.7;
 Free Spirit Rod\204923.49\144510.45;

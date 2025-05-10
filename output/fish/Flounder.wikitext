@@ -50,8 +50,8 @@ Verdant Shear Rod\140834.6\388365.12;
 Trident Rod\137527.21\390375.87;
 Blazebringer Rod\137186.6\369573.97;
 Free Spirit Rod\135550.64\384765.33;
-Depthseeker Rod\128595.56\349018.94;
-Avalanche Rod\116156.08\316168.24;
+Depthseeker Rod\128595.56\349980.64;
+Avalanche Rod\116156.08\317400.06;
 Volcanic Rod\112678.05\306988.02;
 Training Rod\83882.9\217661.13;
 Steady Rod\42831.89\101841.7

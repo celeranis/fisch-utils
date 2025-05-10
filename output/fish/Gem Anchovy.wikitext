@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Gem Anchovy.png
+|rarity         = Common
+|sea            = Second Sea
+|location       = [[Treasure Island]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|xp             = 1210
+|weather        = 
+|time           = 
+|season         = 
+|bait           = Worm
+|base_weight    = 2
+|base_value     = 1690
+|weight_range   = 1.2
+|base_chance    = 87
+|base_resil     = 100
+}}
+'''Gem Anchovy''' is a {{Rarity|Common}} fish found in [[Treasure Island]].
+
+== Description ==
+{{Description|A tiny jewel of the sea, sparkling like a forgotten coin.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Hidden where treasure resides.|Bestiary Hint}}
+{{Fish Availability|
+Treasure Island
+|top_rods      = 
+Training Rod\102500.29\75984.56;
+Flimsy Rod\95347.29\85785.1;
+Free Spirit Rod\90326.54\57439.68;
+Azure Of Lagoon\89570.09\86726.16;
+Fang of the Eclipse\85295.63\82381.6;
+Resourceful Rod\69425.48\69550.76;
+Firefly Rod\83426.01\84350.07;
+Verdant Shear Rod\84373.93\80312.26;
+Lucky Rod\68706.84\64466.54;
+Blazebringer Rod\82518.19\77462.64;
+Trident Rod\82502.8\76045.88;
+Astralhook Rod\79272.96\0;
+No-Life Rod\73678.07\69122.88;
+Seraphic Rod\71336.5\64706.26;
+Ethereal Prism Rod\71185.29\66894.76;
+Challenger's Rod\69441.67\64898.6;
+Depthseeker Rod\69265.66\66815.89;
+Avalanche Rod\68953.66\66608.72;
+Rod Of The Forgotten Fang\68813.18\62616.11;
+Volcanic Rod\68533.89\65017.74;
+Rod Of The Depths\68350.85\62860.01;
+Zeus Rod\68312.62\64807.82;
+Rod Of The Exalted One\68195.16\61277.55;
+Steady Rod\56211.56\56561.82
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Gem Anchovy, the player has a chance to make one of the following exclamations:
+* A Gem Anchovy!
+* Glistening!
+* Treasure!
+* Pure gold!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Treasure Island}}

@@ -40,12 +40,12 @@ Shark Hunt/Great White Shark
 Shark Hunt/Whale Shark
 |top_rods      = 
 Leviathan's Fang Rod\193196.87\0;
-Krampus's Rod\190280.36\33186;
-Magma Rod\184453.19\37199.59;
+Krampus's Rod\190280.36\33307.32;
+Magma Rod\184453.19\37361.5;
 Great Rod of Oscar\182930.57\26612.84;
 Trident Rod\180938.67\0;
-Plastic Rod\168456.74\32948.9;
-Buddy Bond Rod\125139.29\23594.04;
+Plastic Rod\168456.74\33104.93;
+Buddy Bond Rod\125139.29\23732.87;
 Nocturnal Rod\101055.53\142399.7;
 No-Life Rod\175888.71\54188.48;
 Challenger's Rod\161379.63\53258.52;

@@ -1,8 +1,8 @@
 {{FishInfobox
 |image          = Shiver Swarmfish School.png
 |rarity         = Unusual
-|sea            = Second Sea
-|location       = [[Net Fishing]]
+|sea            = First Sea, Second Sea
+|location       = [[Ocean]]
 |sublocation    = 
 |sources        = Fishing Net
 |radar_location = 
@@ -17,7 +17,7 @@
 |base_chance    = 45
 |base_resil     = 60
 }}
-'''Shiver Swarmfish School''' is an {{Rarity|Unusual}} fish found in [[Net Fishing]].
+'''Shiver Swarmfish School''' is an {{Rarity|Unusual}} fish found in the [[Ocean]].
 
 == Description ==
 {{Description|A school of awesome fish!|Bestiary Entry}}
@@ -33,4 +33,4 @@ When catching a Shiver Swarmfish School, the player has a chance to make one of 
 {{Change History|{{subst:Current Version}}}}
 
 == Navigation ==
-{{Fish Navbox|Net Fishing}}
+{{Fish Navbox|Ocean}}

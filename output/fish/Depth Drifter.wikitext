@@ -31,8 +31,8 @@ Azure Lagoon
 Great Rod of Oscar\27989.02\198460.16;
 Astralhook Rod\25216.61\196246.19;
 Fang of the Eclipse\23169.96\228603.87;
+Treasure Rod\12954.96\108333.69;
 Lobster Rod\12704.72\112645.35;
-Carrot Rod\12272.83\102265.82;
 Free Spirit Rod\11711.44\100295.93;
 Azure Of Lagoon\11620.92\110793.3;
 Rod Of The Exalted One\4581.39\40544.02;

@@ -35,7 +35,7 @@ Champions Rod\325214.39\235384.34;
 Depthseeker Rod\323442.41\228840.43;
 Rapid Rod\321838.08\250356.05;
 Avalanche Rod\321466.49\228897;
-Reinforced Rod\319655.17\231360.67;
+Merchant Rod\320835.97\236243.86;
 Firework Rod\272888.23\263114.58;
 Crystalized Rod\272888.23\263114.58;
 Auric Rod\287162.99\261495.96;

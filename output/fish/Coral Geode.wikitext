@@ -36,7 +36,7 @@ Astralhook Rod\168268.64\145608.18;
 Buddy Bond Rod\148128.79\107532.53;
 Rapid Rod\150776.91\208263.2;
 Firefly Rod\147772.85\192327.44;
-Fang of the Eclipse\152847.66\183575.17;
+Merchant Rod\147996.58\187979.69;
 Trident Rod\165962.96\161457.8;
 Free Spirit Rod\165299.2\160812.05;
 Ethereal Prism Rod\163116.75\145644.64;

@@ -36,7 +36,7 @@ Astral Rod\170396.63\321519.58;
 Training Rod\138734.11\282882.85;
 Astralhook Rod\141623.9\455568.25;
 Great Rod of Oscar\149107.62\453485.85;
-Carrot Rod\128994.96\441185.9;
+Carrot Rod\128994.96\443867.01;
 Fang of the Eclipse\121387.85\433234;
 Free Spirit Rod\154955.2\428901.41;
 Trident Rod\141382.67\299515.48;

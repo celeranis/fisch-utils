@@ -29,14 +29,16 @@
 Open Ocean
 Open Ocean/Sea Leviathan
 |top_rods      = 
-Training Rod\248931.24\169868.27;
-Flimsy Rod\234489.1\181535.23;
+Training Rod\248950.08\NaN;
+Flimsy Rod\234512.62\181546.09;
 Free Spirit Rod\158852.9\126300.33;
 Azure Of Lagoon\140490.46\135584.1;
 Trident Rod\138221.6\124552.2;
 Plastic Rod\124547.54\99641.58;
 Carrot Rod\133192.81\130112.56;
 Leviathan's Fang Rod\138054.65\129599.07;
+Firefly Rod\126158.77\127477.05;
+Fischer's Rod\123905.49\99537.45;
 Astralhook Rod\134621.25\45680.9;
 Verdant Shear Rod\126129.81\120909.81;
 Blazebringer Rod\123475.18\117033.95;

@@ -1,0 +1,71 @@
+{{FishInfobox
+|image          = Gem Blobfish.png
+|rarity         = Secret
+|sea            = Second Sea
+|location       = [[Treasure Island]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = +50
+|xp             = 5000
+|weather        = 
+|time           = 
+|season         = 
+|bait           = Golden Shrimp Bait
+|base_weight    = 10
+|base_value     = 80000
+|weight_range   = 9
+|base_chance    = 1
+|base_resil     = 100
+}}
+'''Gem Blobfish''' is a {{Rarity|Secret}} fish found in [[Treasure Island]].
+
+== Description ==
+{{Description|The blobfish is a sad, squishy lump with the personality of a deflated balloon... Absolutely lovable.|Bestiary Entry}}
+
+== Obtainment ==
+{{Fish Availability|
+Treasure Island
+|top_rods      = 
+Great Rod of Oscar\470.57\3685.54;
+Astralhook Rod\434.06\3715.26;
+Carrot Rod\384.58\3732.37;
+Treasure Rod\357.24\3467.49;
+Fang of the Eclipse\352.05\3487.77;
+Flimsy Rod\276.83\7711.32;
+Training Rod\251.97\3883.63;
+Lucky Rod\212.02\2405.33;
+Verdant Shear Rod\332.71\3556.78;
+Blazebringer Rod\318.73\3149.65;
+Free Spirit Rod\316.62\2996.32;
+Trident Rod\229.09\2448.99;
+Ethereal Prism Rod\218.8\2211.79;
+Seraphic Rod\212.3\2120.28;
+Rod Of The Exalted One\206.51\2048.83;
+No-Life Rod\203.93\2116.31;
+Rod Of The Forgotten Fang\202.92\2034.94;
+Rod Of The Depths\199.95\2030.41;
+Challenger's Rod\197.21\2037.47;
+Volcanic Rod\192.77\2027.78;
+Zeus Rod\192.44\2024.34;
+Depthseeker Rod\189.68\2033.03;
+Avalanche Rod\189.19\2031.7;
+Steady Rod\182.51\2003.91
+|recommended   = Astralhook Rod
+}}
+
+== Catch Quips ==
+When catching a Gem Blobfish, the player has a chance to make one of the following exclamations:
+* A GEM BLOBFISH!!!!!!!
+* Slimey!
+* blobbed
+* Cute!
+* silly little blob.
+* Turn that frown upside-down!
+* Could use a cleaning...
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Treasure Island}}

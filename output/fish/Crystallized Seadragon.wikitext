@@ -36,7 +36,7 @@ Astralhook Rod\7522.05\21247.21;
 Summit Rod\5317.31\15860.65;
 Celestial Rod\1714.1\5062.38;
 Ice Warpers Rod\366.96\1083.78;
-Champions Rod\2540.3\7405.69;
+Merchant Rod\-6.83\-17.43;
 Krampus's Rod\-3.7\-9.44;
 Steady Rod\-0.13\-0.34;
 Seraphic Rod\5267.15\14990.89;

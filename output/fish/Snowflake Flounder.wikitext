@@ -49,7 +49,7 @@ Zeus Rod\46863.18\74509.02;
 Verdant Shear Rod\46219.87\75196.84;
 Blazebringer Rod\44612.63\72031.97;
 Depthseeker Rod\42183.74\66850.87;
-Avalanche Rod\38150.16\60298.49;
+Avalanche Rod\38150.16\60533.42;
 Volcanic Rod\36510.53\58929.36;
 Training Rod\28137.25\87500;
 Steady Rod\16385.82\19899.02
