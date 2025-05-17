@@ -1,3 +1,9 @@
+// This script generates a browser script output/download_assets.js
+// for the given data filenames.
+
+// Usage: node src/scripts/generate_bulk_asset_script filename.json
+// Example: node src/scripts/generate_bulk_asset_script RodSkins.json
+
 import { writeFile } from 'node:fs/promises'
 import { getFile } from '../DataParser.js'
 
