@@ -1,8 +1,8 @@
 {{FishInfobox
 |image          = Spiny Sunstone Lobster.png
 |rarity         = Uncommon
-|sea            = First Sea, Second Sea
-|location       = [[Ocean]]
+|sea            = First Sea
+|location       = [[Lobster Shores]]
 |sublocation    = 
 |sources        = Lobster Cage
 |radar_location = 
@@ -17,7 +17,7 @@
 |base_chance    = 85
 |base_resil     = 85
 }}
-'''Spiny Sunstone Lobster''' is an {{Rarity|Uncommon}} fish found in the [[Ocean]].
+'''Spiny Sunstone Lobster''' is an {{Rarity|Uncommon}} fish found in [[Lobster Shores]].
 
 == Description ==
 {{Description|Lobsters are valuable crustaceans known for their rich, succulent meat. Lobsters are most active in the summer to autumn, and are commonly caught in crab cages during calm clear days.|Bestiary Entry}}
@@ -37,4 +37,4 @@ When catching a Spiny Sunstone Lobster, the player has a chance to make one of t
 {{Change History|{{subst:Current Version}}}}
 
 == Navigation ==
-{{Fish Navbox|Ocean}}
+{{Fish Navbox|Lobster Shores}}

@@ -979,7 +979,7 @@ export const MUTATION_DATA: MutationDataEntry[] = [
 	},
 	{
 		mutation: 'Wrath',
-		chance: 65,
+		chance: 70,
 		priority: MutationPriority.SpecialRods,
 		chance_type: 'percent',
 		allow_crates: true,

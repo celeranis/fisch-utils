@@ -26,6 +26,7 @@
 == Obtainment ==
 {{Description|It mocks you where the rain hits hard.|Bestiary Hint}}
 {{Fish Availability|
+Apex Fish Hunt/Apex Leviathan
 Open Ocean
 Open Ocean/Sea Leviathan
 |top_rods      = 

@@ -26,6 +26,7 @@
 {{Description|Found in the ocean. Can be caught in rods and cages.|Bestiary Hint}}
 {{Fish Availability|
 Ancient Isle/Algae Hunt
+Apex Fish Hunt/Mosslurker
 Atlantis/Surrounding Ocean
 FischFright/Frightful Pool
 Forsaken Shores/Algae Hunt

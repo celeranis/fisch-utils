@@ -28,7 +28,7 @@
 Grand Reef
 |top_rods      = 
 Rapid Rod\203966.02\169586.89;
-Champions Rod\202836.66\130864.94;
+Champions Rod\202229.1\130864.94;
 Summit Rod\201536.41\131076.85;
 Depthseeker Rod\201083.77\139641.6;
 Celestial Rod\200732.26\135262.79;

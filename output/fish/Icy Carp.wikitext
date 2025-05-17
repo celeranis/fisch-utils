@@ -28,7 +28,7 @@
 Overgrowth Caves
 |top_rods      = 
 Training Rod\226349.99\226349.99;
-Champions Rod\214398.53\139003.2;
+Champions Rod\213359.44\138813.36;
 Celestial Rod\211439.34\143558.61;
 Ice Warpers Rod\209412.01\142956.42;
 Rapid Rod\209236.41\179306.1;

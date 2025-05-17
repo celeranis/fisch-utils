@@ -27,6 +27,7 @@
 == Obtainment ==
 {{Description|It grooves where the fog gets funky.|Bestiary Hint}}
 {{Fish Availability|
+Apex Fish Hunt/Apex Leviathan
 Open Ocean
 Open Ocean/Sea Leviathan
 |top_rods      = 

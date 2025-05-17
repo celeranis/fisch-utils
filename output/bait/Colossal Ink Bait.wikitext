@@ -1,0 +1,25 @@
+{{BaitInfobox
+|image          = Bait Colossal Ink Bait.png
+|rarity         = Mythical
+|crates         = 
+|angler_quests  = <!--TBD-->
+|pref_luck      = 150
+|univ_luck      = 150
+|resilience     = 40
+|lure           = 5
+|ability        = 
+}}
+'''Colossal Ink Bait''' is a {{Rarity|Mythical}} [[Bait]] that can be used in fishing.
+
+== Obtainment ==
+Colossal Ink Baits can be obtained in the following ways:
+<!--* [[Angler]] Quests, starting from the ?th completion-->
+
+== Favoring Fish ==
+{{Fish by Category Table|Colossal Ink Bait-Loving Fish|event=1|show_location=1|hide_bait=1|resultsheader='''%PAGES%''' [[Fish]] prefer Colossal Ink Baits:|noresultsheader=No fish prefer Colossal Ink Baits.}}
+
+== Change History ==
+{{Change History|1.0}}
+
+== Navigation ==
+{{Bait Navbox}}

@@ -1,8 +1,8 @@
 {{FishInfobox
 |image          = Lobster.png
 |rarity         = Common
-|sea            = First Sea, Second Sea
-|location       = [[Ocean]]
+|sea            = First Sea
+|location       = [[Lobster Shores]]
 |sublocation    = 
 |sources        = Carbon Crate, Lobster Cage
 |radar_location = 
@@ -17,7 +17,7 @@
 |base_chance    = 100
 |base_resil     = 100
 }}
-'''Lobster''' is a {{Rarity|Common}} fish found in the [[Ocean]].
+'''Lobster''' is a {{Rarity|Common}} fish found in [[Lobster Shores]].
 
 == Description ==
 {{Description|Lobsters are valuable crustaceans known for their rich, succulent meat. Lobsters are most active in the summer to autumn, and are commonly caught in crab cages during calm clear days.|Bestiary Entry}}
@@ -37,4 +37,4 @@ When catching a Lobster, the player has a chance to make one of the following ex
 {{Change History|{{subst:Current Version}}}}
 
 == Navigation ==
-{{Fish Navbox|Ocean}}
+{{Fish Navbox|Lobster Shores}}

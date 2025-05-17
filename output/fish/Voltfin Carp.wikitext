@@ -33,7 +33,7 @@ Leviathan's Fang Rod\223987.18\177270.04;
 Free Spirit Rod\222430.1\122907.66;
 No-Life Rod\222047.58\174456.79;
 Resourceful Rod\184072.32\136170.71;
-Champions Rod\194087.91\134670.81;
+Champions Rod\193147.26\134018.12;
 Seraphic Rod\190736.96\172878.54;
 Fast Rod\179262.02\170316.13;
 Kraken Rod\169518.02\146022.49;

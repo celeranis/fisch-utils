@@ -25,6 +25,7 @@
 == Obtainment ==
 {{Description|Found all over the Ocean during the day and prefers shrimp.|Bestiary Hint}}
 {{Fish Availability|
+Apex Fish Hunt/Mosslurker
 Lucky Event/Blarney McBreeze
 Lucky Event/O'Mango Goldgrin
 Lucky Event/Plumrick O'Luck
@@ -40,8 +41,8 @@ Snowcap Island/Surrounding Ocean
 Astralhook Rod\78098.45\0;
 Ethereal Prism Rod\77026.98\0;
 Trident Rod\75876.67\11204.67;
-Champions Rod\75349.28\14660.16;
 Fang of the Eclipse\75269.14\14327.31;
+Champions Rod\74984.1\14589.11;
 Training Rod\73810.3\15461.54;
 Flimsy Rod\59773.31\10651.73;
 Resourceful Rod\70410.05\15154.24;

@@ -27,6 +27,7 @@
 {{Fish Availability|
 Ancient Isle/Algae Hunt
 Ancient Isle/Surrounding Ocean
+Apex Fish Hunt/Mosslurker
 Atlantis/Surrounding Ocean
 FischFright/Frightful Pool
 Forsaken Shores/Algae Hunt

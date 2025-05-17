@@ -29,7 +29,7 @@ Snowcap Island/Freshwater Pond
 |top_rods      = 
 Astralhook Rod\166502.88\220148.96;
 Ethereal Prism Rod\161289.98\199093.71;
-Champions Rod\160378.22\123733.72;
+Champions Rod\159336.8\122930.26;
 Celestial Rod\157913.16\119973.96;
 Rapid Rod\156239.34\141995.32;
 Training Rod\151136.36\164133.74;

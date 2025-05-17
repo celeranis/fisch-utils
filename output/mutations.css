@@ -1,4 +1,4 @@
-/* Last update: Version [[1.32]], place version 61 */
+/* Last update: Version [[1.33]], place version 46 */
 
 /* Attributes */
 .mutation-big, .mutation-big a:not(.new), .mutation-giant, .mutation-giant a:not(.new) { color: #8bff89; }
@@ -35,6 +35,7 @@
 .mutation-charred, .mutation-charred a:not(.new), .mutation-charred .oo-ui-labelElement-label { color: #939393; }
 .mutation-chocolate, .mutation-chocolate a:not(.new), .mutation-chocolate .oo-ui-labelElement-label { color: #6c4d41; }
 .mutation-clover, .mutation-clover a:not(.new), .mutation-clover .oo-ui-labelElement-label { color: #7bff00; }
+.mutation-colossal-ink, .mutation-colossal-ink a:not(.new), .mutation-colossal-ink .oo-ui-labelElement-label { color: #ddf1ff; }
 .mutation-cracked, .mutation-cracked a:not(.new), .mutation-cracked .oo-ui-labelElement-label { color: #240036; }
 .mutation-crystalized, .mutation-crystalized a:not(.new), .mutation-crystalized .oo-ui-labelElement-label { color: #ff7214; }
 .mutation-cursed, .mutation-cursed a:not(.new), .mutation-cursed .oo-ui-labelElement-label { color: #66ff8a; }
@@ -71,6 +72,7 @@
 .mutation-mother-nature, .mutation-mother-nature a:not(.new), .mutation-mother-nature .oo-ui-labelElement-label { color: #aaaaff; }
 .mutation-mythical, .mutation-mythical a:not(.new), .mutation-mythical .oo-ui-labelElement-label { color: #ff5294; }
 .mutation-negative, .mutation-negative a:not(.new), .mutation-negative .oo-ui-labelElement-label { color: #7567e2; }
+.mutation-neon, .mutation-neon a:not(.new), .mutation-neon .oo-ui-labelElement-label { color: #ffe57e; }
 .mutation-nuclear, .mutation-nuclear a:not(.new), .mutation-nuclear .oo-ui-labelElement-label { color: #00ff00; }
 .mutation-oscar, .mutation-oscar a:not(.new), .mutation-oscar .oo-ui-labelElement-label { color: #ab001a; }
 .mutation-prismize, .mutation-prismize a:not(.new), .mutation-prismize .oo-ui-labelElement-label { color: #29003e; }

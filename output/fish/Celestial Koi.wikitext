@@ -37,7 +37,7 @@ Destiny Rod\31572.63\121418.79;
 No-Life Rod\38321.39\168611.42;
 Seraphic Rod\37941.21\145707.1;
 Rod Of The Forgotten Fang\35340.62\140523.19;
-Rod Of The Zenith\33613.21\125972.37;
+Rod Of The Zenith\33900.36\129677.44;
 Astralhook Rod\39405.51\139788.27;
 Challenger's Rod\34131.77\139363.21;
 Rod Of The Depths\31517.38\123057.03;

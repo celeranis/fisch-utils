@@ -33,7 +33,7 @@ Trident Rod\341402.62\53411.8;
 Free Spirit Rod\338865.2\53657.09;
 Azure Of Lagoon\329286.35\53259.05;
 Resourceful Rod\299142.08\54595.83;
-Champions Rod\298769.16\56225.24;
+Champions Rod\298104.49\56225.24;
 Reinforced Rod\294282.64\53803.32;
 Nocturnal Rod\202731.34\170821.24;
 Fast Rod\305822.65\78013.63;

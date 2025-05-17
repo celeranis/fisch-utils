@@ -26,6 +26,7 @@
 {{Description|Found in deep ocean water. Extremely strong.|Bestiary Hint}}
 {{Fish Availability|
 Ancient Isle/Algae Hunt
+Apex Fish Hunt/Mosslurker
 Atlantis/Surrounding Ocean
 FischFright/Frightful Pool
 Forsaken Shores/Algae Hunt

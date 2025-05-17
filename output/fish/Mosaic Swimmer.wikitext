@@ -28,7 +28,7 @@
 Atlantis/Ethereal Abyss
 |top_rods      = 
 Summit Rod\141383.77\103005.23;
-Champions Rod\140445.02\101527.79;
+Champions Rod\139848.29\101096.41;
 Egg Rod\139316.48\111664.01;
 Depthseeker Rod\139267.86\100002.54;
 Celestial Rod\139164.55\103026.59;

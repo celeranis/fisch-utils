@@ -28,8 +28,8 @@
 Moosewood/Freshwater Pond
 |top_rods      = 
 Summit Rod\127293.26\14695.86;
-Champions Rod\126286.39\13665.01;
 Depthseeker Rod\125972.47\14093.14;
+Champions Rod\125945.54\13628.13;
 Celestial Rod\125859.13\13707.09;
 Egg Rod\125856.88\14530.03;
 Training Rod\107881.3\15631.87;

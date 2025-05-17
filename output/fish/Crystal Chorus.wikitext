@@ -28,8 +28,8 @@
 Atlantis/Sunken Depths
 |top_rods      = 
 Astralhook Rod\134996.19\186885.35;
-Champions Rod\130732.98\92049.35;
 Ethereal Prism Rod\130228.72\163969.05;
+Champions Rod\130003.5\91535.72;
 Depthseeker Rod\129949.55\92399.76;
 Celestial Rod\129376.51\93301.25;
 Training Rod\125695.09\151459.31;

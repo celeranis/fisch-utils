@@ -1,8 +1,8 @@
 {{FishInfobox
 |image          = Sardines School.png
 |rarity         = Common
-|sea            = First Sea, Second Sea
-|location       = [[Ocean]]
+|sea            = Second Sea
+|location       = [[Netter's Haven]]
 |sublocation    = 
 |sources        = Fishing Net
 |radar_location = 
@@ -17,7 +17,7 @@
 |base_chance    = 90
 |base_resil     = 95
 }}
-'''Sardines School''' is a {{Rarity|Common}} fish found in the [[Ocean]].
+'''Sardines School''' is a {{Rarity|Common}} fish found in [[Netter's Haven]].
 
 == Description ==
 {{Description|A school of awesome fish!|Bestiary Entry}}
@@ -33,4 +33,4 @@ When catching a Sardines School, the player has a chance to make one of the foll
 {{Change History|{{subst:Current Version}}}}
 
 == Navigation ==
-{{Fish Navbox|Ocean}}
+{{Fish Navbox|Netter's Haven}}

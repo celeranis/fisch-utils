@@ -26,6 +26,7 @@
 {{Description|Found in open saltwater near moosewood.|Bestiary Hint}}
 {{Fish Availability|
 Ancient Isle/Algae Hunt
+Apex Fish Hunt/Mosslurker
 Atlantis/Surrounding Ocean
 FischFright/Frightful Pool
 Forsaken Shores/Algae Hunt
@@ -60,7 +61,7 @@ Azure Of Lagoon\139515.93\84858.62;
 No-Life Rod\137306.35\123539.65;
 Resourceful Rod\124129.04\104820.71;
 Wildflower Rod\126288.41\107229.24;
-Scurvy Rod\113498.16\99616.88;
+Mythical Rod\123850.7\108703.27;
 Ethereal Prism Rod\125578.26\139061.79;
 Kraken Rod\106360.31\133727.61;
 Seraphic Rod\122245.55\122245.55;

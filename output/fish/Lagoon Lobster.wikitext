@@ -1,8 +1,8 @@
 {{FishInfobox
 |image          = Lagoon Lobster.png
 |rarity         = Uncommon
-|sea            = First Sea, Second Sea
-|location       = [[Ocean]]
+|sea            = Second Sea
+|location       = [[Netter's Haven]]
 |sublocation    = 
 |sources        = Lobster Cage
 |radar_location = 
@@ -17,7 +17,7 @@
 |base_chance    = 80
 |base_resil     = 80
 }}
-'''Lagoon Lobster''' is an {{Rarity|Uncommon}} fish found in the [[Ocean]].
+'''Lagoon Lobster''' is an {{Rarity|Uncommon}} fish found in [[Netter's Haven]].
 
 == Description ==
 {{Description|Lobsters are valuable crustaceans known for their rich, succulent meat. Lobsters are most active in the summer to autumn, and are commonly caught in crab cages during calm clear days.|Bestiary Entry}}
@@ -37,4 +37,4 @@ When catching a Lagoon Lobster, the player has a chance to make one of the follo
 {{Change History|{{subst:Current Version}}}}
 
 == Navigation ==
-{{Fish Navbox|Ocean}}
+{{Fish Navbox|Netter's Haven}}

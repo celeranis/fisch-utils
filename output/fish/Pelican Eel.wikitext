@@ -26,6 +26,7 @@
 == Obtainment ==
 {{Description|It gulps where the rain pours deep.|Bestiary Hint}}
 {{Fish Availability|
+Apex Fish Hunt/Apex Leviathan
 Open Ocean
 Open Ocean/Sea Leviathan
 |top_rods      = 

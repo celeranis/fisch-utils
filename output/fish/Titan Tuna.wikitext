@@ -29,7 +29,7 @@ Atlantis/Poseidon Temple
 |top_rods      = 
 Firefly Rod\222626.24\30825.82;
 Rapid Rod\218409.64\29564.65;
-Champions Rod\216595.31\22900.02;
+Champions Rod\215675.02\22870.88;
 Celestial Rod\214360.18\23653.36;
 Summit Rod\214212.37\22895.9;
 Flimsy Rod\153547.3\29901.32;

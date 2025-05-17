@@ -27,6 +27,7 @@
 {{Description|Found in the ocean.|Bestiary Hint}}
 {{Fish Availability|
 Ancient Isle/Algae Hunt
+Apex Fish Hunt/Mosslurker
 Atlantis/Surrounding Ocean
 Forsaken Shores/Algae Hunt
 LEGO Pool/Studolodon Hunt

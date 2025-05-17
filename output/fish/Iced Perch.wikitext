@@ -31,7 +31,7 @@ Training Rod\299145.3\299145.3;
 Firefly Rod\287915.55\259151.75;
 Rapid Rod\283612.11\220739.63;
 Depthseeker Rod\281903.72\182555.32;
-Champions Rod\281379.15\171281.98;
+Champions Rod\279809.08\171030.22;
 Flimsy Rod\206438.33\184650.46;
 Candy Cane Rod\196239.1\196239.1;
 Astralhook Rod\251368.28\254091.48;

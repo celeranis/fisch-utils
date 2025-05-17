@@ -42,8 +42,6 @@ const navboxData = {
 		.map(([iname, loc]) => ({ name: DISPLAY_LOCATIONS[iname] ?? DISPLAY_LOCATIONS[loc.Name] ?? loc.Name, fish: [] })) as NavboxDataSection[],
 }
 
-navboxData.limited.push({ name: "Valentine's Day", fish: [] })
-
 function emptyIfNone(val?: string) {
 	if (val == 'None') return ''
 	return val || ''

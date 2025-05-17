@@ -27,6 +27,7 @@
 {{Fish Availability|
 Ancient Isle/Algae Hunt
 Ancient Isle/Surrounding Ocean
+Apex Fish Hunt/Mosslurker
 Atlantis/Surrounding Ocean
 Forsaken Shores/Algae Hunt
 LEGO Pool/Studolodon Hunt

@@ -1,0 +1,60 @@
+{{FishInfobox
+|image          = Mosslurker.png
+|rarity         = Apex
+|sea            = First Sea
+|location       = [[Ocean]]
+|sublocation    = 
+|sources        = Fishing Rod
+|nopassive      = 1
+|radar_location = 
+|xp             = 1800000
+|weather        = 
+|time           = Night
+|season         = 
+|bait           = Shark Head
+|base_weight    = 400000
+|base_value     = 600000
+|weight_range   = 300000
+|base_chance    = 1
+|base_resil     = -5
+}}
+'''Mosslurker''' is an {{Rarity|Apex}} fish found in the [[Ocean]].
+
+== Description ==
+{{Description|An ancient, moss-draped titan, its towering shell cradles forests and ruins, moving with the weight of forgotten epochs.|Bestiary Entry}}
+
+== Obtainment ==
+{{Fish Availability|
+Apex Fish Hunt/Mosslurker
+|top_rods      = 
+Leviathan's Fang Rod\21223.41\76180.11;
+Great Rod of Oscar\15297.82\43443.38;
+Ethereal Prism Rod\14622.07\44951.76;
+Astralhook Rod\14546.04\43896.55;
+No-Life Rod\14542.94\56009.06;
+Heaven's Rod\10400.59\37559.96;
+Seraphic Rod\14113.85\45529.2;
+Azure Of Lagoon\11553.32\44393.65;
+Abyssal Specter Rod\11282.03\39642.39;
+Rod Of The Forgotten Fang\13115.41\42515.16;
+Challenger's Rod\12728.78\43000.41;
+Zeus Rod\11410.84\38491.8;
+Steady Rod\2966.48\11901.96
+|recommended   = Ethereal Prism Rod
+}}
+
+== Gameplay Notes ==
+* Mosslurker usually cannot be caught with passive effects, such as the one provided by the [[Rod Of The Depths]] and [[Rod Of The Forgotten Fang]].
+** The only exception is when catching a Mosslurker on the Megalodon Passive reel of the [[Rod Of The Forgotten Fang]], the Megalodon will instead dupe the Mosslurker.
+
+== Catch Quips ==
+When catching a Mosslurker, the player has a chance to make one of the following exclamations:
+* A MOSSLURKER!?!?!
+* I CAN'T BELIEVE IT!
+* IT WAS REAL?!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ocean}}

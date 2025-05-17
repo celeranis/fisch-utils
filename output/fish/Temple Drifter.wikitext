@@ -28,7 +28,7 @@
 Atlantis/Ethereal Abyss
 |top_rods      = 
 Astralhook Rod\91355.58\16537.43;
-Champions Rod\88450.66\9211.42;
+Champions Rod\88021.98\9166.77;
 Celestial Rod\87684.8\9342.36;
 Depthseeker Rod\87601.73\9065.68;
 Ethereal Prism Rod\87307.94\14561.88;

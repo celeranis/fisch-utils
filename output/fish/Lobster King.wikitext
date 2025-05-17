@@ -1,8 +1,8 @@
 {{FishInfobox
 |image          = Lobster King.png
 |rarity         = Exotic
-|sea            = First Sea, Second Sea
-|location       = [[Ocean]]
+|sea            = Second Sea
+|location       = [[Netter's Haven]]
 |sublocation    = 
 |sources        = Lobster Cage
 |radar_location = 
@@ -17,7 +17,7 @@
 |base_chance    = 1
 |base_resil     = 1
 }}
-'''Lobster King''' is an {{Rarity|Exotic}} fish found in the [[Ocean]].
+'''Lobster King''' is an {{Rarity|Exotic}} fish found in [[Netter's Haven]].
 
 == Description ==
 {{Description|Lobsters are valuable crustaceans known for their rich, succulent meat. Lobsters are most active in the summer to autumn, and are commonly caught in crab cages during calm clear days.|Bestiary Entry}}
@@ -37,4 +37,4 @@ When catching a Lobster King, the player has a chance to make one of the followi
 {{Change History|{{subst:Current Version}}}}
 
 == Navigation ==
-{{Fish Navbox|Ocean}}
+{{Fish Navbox|Netter's Haven}}

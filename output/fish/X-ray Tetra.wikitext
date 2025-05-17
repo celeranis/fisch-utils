@@ -26,6 +26,7 @@
 == Obtainment ==
 {{Description|It glows where the winds whip the waves.|Bestiary Hint}}
 {{Fish Availability|
+Apex Fish Hunt/Apex Leviathan
 Open Ocean
 Open Ocean/Sea Leviathan
 |top_rods      = 

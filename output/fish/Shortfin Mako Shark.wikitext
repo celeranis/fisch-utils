@@ -39,7 +39,7 @@ Fast Rod\296120.97\268417.33;
 Tempest Rod\320241.71\258671.4;
 Rapid Rod\307428.53\253912.03;
 Rod Of The Forgotten Fang\316172.48\253507.01;
-Rod Of The Zenith\306290.47\248367.39;
+Rod Of The Zenith\307520.05\248862.79;
 Challenger's Rod\322328.97\245412.56;
 Astralhook Rod\309740.26\8100.27;
 Rod Of The Depths\309729.48\222679.42;

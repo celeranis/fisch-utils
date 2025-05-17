@@ -1,0 +1,59 @@
+{{FishInfobox
+|image          = Apex Leviathan.png
+|rarity         = Apex
+|sea            = Second Sea
+|location       = [[Open Ocean]]
+|sublocation    = 
+|sources        = Fishing Rod
+|nopassive      = 1
+|radar_location = 
+|xp             = 1600000
+|weather        = Foggy
+|time           = 
+|season         = 
+|bait           = Luminous Larva
+|base_weight    = 1000000
+|base_value     = 900000
+|weight_range   = 700000
+|base_chance    = 1
+|base_resil     = -10
+}}
+'''Apex Leviathan''' is an {{Rarity|Apex}} fish found in the [[Open Ocean]].
+
+== Description ==
+{{Description|A shadowed serpent of the abyss, vast and coiling, its pale eyes pierce the darkness as it swallows ships whole.|Bestiary Entry}}
+
+== Obtainment ==
+{{Fish Availability|
+Apex Fish Hunt/Apex Leviathan
+|top_rods      = 
+Great Rod of Oscar\14038.89\108855.86;
+Astralhook Rod\13305.65\111680.9;
+Azure Of Lagoon\11342.65\91132.68;
+Leviathan's Fang Rod\11257.18\87065.53;
+Treasure Rod\10835.44\98306.65;
+Merchant Rod\10326.54\98133.81;
+Ethereal Prism Rod\6918.08\65500.81;
+No-Life Rod\7050.12\66928.8;
+Seraphic Rod\6821.98\64957.21;
+Rod Of The Forgotten Fang\6413.31\61046.48;
+Challenger's Rod\6325.14\60067.24;
+Zeus Rod\5997.3\56873.4
+|recommended   = Astralhook Rod
+}}
+
+== Gameplay Notes ==
+* Apex Leviathan usually cannot be caught with passive effects, such as the one provided by the [[Rod Of The Depths]] and [[Rod Of The Forgotten Fang]].
+** The only exception is when catching a Apex Leviathan on the Megalodon Passive reel of the [[Rod Of The Forgotten Fang]], the Megalodon will instead dupe the Apex Leviathan.
+
+== Catch Quips ==
+When catching an Apex Leviathan, the player has a chance to make one of the following exclamations:
+* AN APEX LEVIATHAN!?!?!
+* I CAN'T BELIEVE IT!
+* IT WAS REAL?!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Open Ocean}}

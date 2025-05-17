@@ -30,8 +30,8 @@ Grand Reef
 Rapid Rod\247534.73\200637.82;
 Azure Of Lagoon\241897.69\146499.49;
 Fang of the Eclipse\240275.41\193815.13;
-Champions Rod\240023.77\154658.57;
 No-Life Rod\239980.48\212224.66;
+Champions Rod\239375.93\154658.57;
 Training Rod\211842.11\211842.11;
 Flimsy Rod\158625\158625;
 Resourceful Rod\230019.52\153399.74;

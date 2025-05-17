@@ -29,8 +29,8 @@ Sunstone Island
 |top_rods      = 
 Astralhook Rod\127697.95\187275.79;
 Ethereal Prism Rod\127068.33\200028.87;
-Champions Rod\123714.43\88209.39;
 Summit Rod\123445.45\88186.65;
+Champions Rod\123114.85\88088.92;
 Celestial Rod\122528.12\91100.19;
 Training Rod\114708.89\132971.47;
 Flimsy Rod\89722.07\84131.26;

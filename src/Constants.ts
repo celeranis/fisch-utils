@@ -133,6 +133,9 @@ export const ZONE_DISPLAY: Record<string, string> = {
 	'LEGO - Studolodon': 'LEGO Pool/Studolodon Hunt',
 
 	'Carrot Garden': 'Lushgrove/Carrot Garden',
+
+	'Mosslurker': 'Apex Fish Hunt/Mosslurker',
+	'Apex Leviathan': 'Apex Fish Hunt/Apex Leviathan',
 }
 
 /**
@@ -293,6 +296,8 @@ export const AVOID_POOLS = {
 	"Whale Migration/Moby": true,
 	"Mariana's Veil/Scylla Hunt": true,
 	"The Depths/Absolute Darkness": true,
+	"Apex Fish Hunt/Mosslurker": true,
+	"Apex Fish Hunt/Apex Leviathan": true,
 
 	// 1:1 with ocean
 	"Atlantis/Surrounding Ocean": true,
@@ -520,6 +525,7 @@ export const OVERRIDE_SEA = {
 	'Octophant Hunt/Octophant Uncatchable': 'Second Sea',
 	'Animal Hunt/Second Sea': 'Second Sea',
 	'Blue Moon/Second Sea': 'Second Sea',
+	'Apex Fish Hunt/Apex Leviathan': 'Second Sea',
 }
 
 /**
@@ -556,11 +562,9 @@ export const DEV_TITLE_HASHES = [
 
 /**
  * Bait names that should be excluded from script output for now.
+ * Remove manual string[] type when it is no longer empty
  */
-export const IGNORE_BAIT = [
-	'Colossal Ink Bait',
-	'Hourglass Bait',
-]
+export const IGNORE_BAIT: string[] = []
 
 /**
  * Mutations that should be excluded from script output for now.
@@ -572,8 +576,6 @@ export const DEV_MUTATIONS = [
 	'Green',
 	'Blue',
 	'Pink',
-	'Colossal Ink',
-	'Neon',
 ]
 
 /**
@@ -610,6 +612,9 @@ export const HUNT_MAP = {
 	"Snowcap Island/Algae Hunt": ["Snowcap Algae"],
 	
 	"LEGO Pool/Studolodon Hunt": ["Studolodon"],
+
+	"Apex Fish Hunt/Mosslurker": ["Mosslurker"],
+	"Apex Fish Hunt/Apex Leviathan": ["Apex Leviathan"],
 }
 
 /**

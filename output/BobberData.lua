@@ -1,4 +1,4 @@
--- Last update: Version [[1.32]], place version 61
+-- Last update: Version [[1.33]], place version 46
 
 return {
 	["Abyssal Heart"] = "Mythical",
@@ -9,6 +9,7 @@ return {
 	["Ancient Book"] = "Legendary",
 	["Ancient Relic Bobber"] = "Mythical",
 	["Ancient Serpent Skull"] = "Mythical",
+	["Apex Skull"] = "Mythical",
 	["Aurora"] = "Exotic",
 	["Barnacle Buoy"] = "Mythical",
 	["Bat"] = "Legendary",
@@ -89,6 +90,7 @@ return {
 	["Huge"] = "Unusual",
 	["Income"] = "Legendary",
 	["Infested"] = "Rare",
+	["Inkling"] = "Mythical",
 	["Jack-O-Bobber"] = "Legendary",
 	["Jade Serpent Bobber"] = "Mythical",
 	["Jetstrike"] = "Mythical",
@@ -104,6 +106,7 @@ return {
 	["Love Heart"] = "Mythical",
 	["Lucky"] = "Rare",
 	["Lunar Serpent"] = "Mythical",
+	["Magma Serpent"] = "Mythical",
 	["Man O War"] = "Mythical",
 	["Mermaid"] = "Mythical",
 	["Mermaid's Pearl"] = "Mythical",

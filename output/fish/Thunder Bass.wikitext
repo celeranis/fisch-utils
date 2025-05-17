@@ -27,7 +27,7 @@
 {{Fish Availability|
 Atlantis/Zeus's Rod Room
 |top_rods      = 
-Champions Rod\132849.04\92179.3;
+Champions Rod\131633.43\91335.83;
 Celestial Rod\130922.61\93009.43;
 Astralhook Rod\130490.53\154183.21;
 Rapid Rod\129737.08\112199.46;

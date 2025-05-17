@@ -26,6 +26,7 @@
 {{Description|Found in deep open.|Bestiary Hint}}
 {{Fish Availability|
 Ancient Isle/Algae Hunt
+Apex Fish Hunt/Mosslurker
 Atlantis/Surrounding Ocean
 FischFright/Frightful Pool
 Forsaken Shores/Algae Hunt

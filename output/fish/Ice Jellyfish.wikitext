@@ -28,7 +28,7 @@
 Frigid Cavern
 |top_rods      = 
 Training Rod\225570.37\175932.71;
-Champions Rod\199801.15\96576.41;
+Champions Rod\198686.28\96434.45;
 Celestial Rod\197014.49\99728.25;
 Ice Warpers Rod\194930.19\99290.44;
 Rapid Rod\194891.8\124462.83;

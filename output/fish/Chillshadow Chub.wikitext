@@ -29,9 +29,9 @@ Mariana's Veil/Challenger's Deep
 |top_rods      = 
 Rapid Rod\233365.45\55882.26;
 Fungal Rod\223420.19\56927.17;
-Champions Rod\220962.33\34577.68;
 Firefly Rod\220951.96\64409.21;
 Firework Rod\220919.49\38408.22;
+Crystalized Rod\220919.49\38408.22;
 Training Rod\192857.14\66902.65;
 Antler Rod\206537.84\52625.57;
 Nocturnal Rod\134569.84\80383.46;

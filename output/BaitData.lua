@@ -1,10 +1,11 @@
--- Last update: Version [[1.32]], place version 61
+-- Last update: Version [[1.33]], place version 46
 
 return {
 	["Aurora Bait"] = "Mythical",
 	["Bagel"] = "Common",
 	["Chocolate Fish"] = "Mythical",
 	["Coal"] = "Rare",
+	["Colossal Ink Bait"] = "Mythical",
 	["Coral"] = "Unusual",
 	["Crystal Bananas"] = "Rare",
 	["Deep Coral"] = "Legendary",
@@ -19,6 +20,7 @@ return {
 	["Golden Worm"] = "Exotic",
 	["Hangman's Hook"] = "Mythical",
 	["Holly Berry"] = "Legendary",
+	["Hourglass Bait"] = "Mythical",
 	["Insect"] = "Common",
 	["Instant Catcher"] = "Legendary",
 	["Kraken Tentacle"] = "Legendary",

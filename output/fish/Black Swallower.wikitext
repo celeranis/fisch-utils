@@ -26,6 +26,7 @@
 == Obtainment ==
 {{Description|It gulps in the dark of night.|Bestiary Hint}}
 {{Fish Availability|
+Apex Fish Hunt/Apex Leviathan
 Open Ocean
 Open Ocean/Sea Leviathan
 |top_rods      = 

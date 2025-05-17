@@ -1,5 +1,5 @@
 {{FishInfobox
-|image          = Splendid Toadfish.png
+|image          = Splendid toadfish.png
 |rarity         = Rare
 |sea            = Second Sea
 |location       = [[Whale Interior]]
@@ -17,7 +17,7 @@
 |base_chance    = 40
 |base_resil     = 40
 }}
-'''Splendid Toadfish''' is a {{Rarity|Rare}} fish found in [[Whale Interior]].
+'''Splendid toadfish''' is a {{Rarity|Rare}} fish found in [[Whale Interior]].
 
 == Description ==
 {{Description|A dazzling fish, camouflaged among vibrant coral reefs.|Bestiary Entry}}

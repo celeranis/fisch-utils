@@ -1,5 +1,5 @@
 {{FishInfobox
-|image          = Smooth Toadfish.png
+|image          = Smooth toadfish.png
 |rarity         = Unusual
 |sea            = Second Sea
 |location       = [[Whale Interior]]
@@ -18,7 +18,7 @@
 |base_chance    = 60
 |base_resil     = 60
 }}
-'''Smooth Toadfish''' is an {{Rarity|Unusual}} fish found in [[Whale Interior]].
+'''Smooth toadfish''' is an {{Rarity|Unusual}} fish found in [[Whale Interior]].
 
 == Description ==
 {{Description|A sleek, silvery toadfish typically gliding through coastal waters.|Bestiary Entry}}

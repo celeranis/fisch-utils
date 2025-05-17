@@ -26,6 +26,7 @@
 {{Description|Found in deeper saltwater and near Moosewood.|Bestiary Hint}}
 {{Fish Availability|
 Ancient Isle/Algae Hunt
+Apex Fish Hunt/Mosslurker
 Atlantis/Surrounding Ocean
 FischFright/Frightful Pool
 Forsaken Shores/Algae Hunt
@@ -61,8 +62,8 @@ Whale Migration/Normal
 Trident Rod\110722.35\11315.42;
 Leviathan's Fang Rod\106934.08\19375.26;
 Free Spirit Rod\106437.38\11270.16;
-Champions Rod\106240.65\14589.11;
 Fang of the Eclipse\106010.7\14248.01;
+Champions Rod\105550.78\14494.37;
 Training Rod\103149.41\15346.15;
 Flimsy Rod\77403.65\10388.37;
 Resourceful Rod\95801.37\14664.23;

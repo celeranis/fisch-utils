@@ -39,7 +39,7 @@ Destiny Rod\176869.25\118324.65;
 Tempest Rod\180872.61\294665.69;
 Seraphic Rod\182558.3\294377.29;
 Rod Of The Forgotten Fang\179506.07\279796.79;
-Rod Of The Zenith\175827.22\273361.35;
+Rod Of The Zenith\176249.89\274162.09;
 Treasure Rod\174490.77\268999.66;
 Ethereal Prism Rod\182236.76\199965.26;
 Astralhook Rod\182146.56\175769.36;

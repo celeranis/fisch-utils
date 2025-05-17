@@ -25,6 +25,7 @@
 == Obtainment ==
 {{Description|Washed up from a tropical fishing expedition.|Bestiary Hint}}
 {{Fish Availability|
+Apex Fish Hunt/Apex Leviathan
 Azure Lagoon
 Emberreach/Freshwater Pond
 Emberreach/Surrounding Ocean

@@ -26,6 +26,7 @@
 == Obtainment ==
 {{Description|It barrels where the rain pounds the sea.|Bestiary Hint}}
 {{Fish Availability|
+Apex Fish Hunt/Apex Leviathan
 Open Ocean
 Open Ocean/Sea Leviathan
 |top_rods      = 

@@ -29,7 +29,7 @@ Forsaken Shores/Coral Reef
 Forsaken Shores/Freshwater Pond
 Forsaken Shores/Surrounding Ocean
 |top_rods      = 
-Champions Rod\184301.64\35142.14;
+Champions Rod\182248.95\34750.74;
 Depthseeker Rod\181265.62\33452.03;
 Rapid Rod\181210.07\36007.24;
 Celestial Rod\180762.37\36034.47;

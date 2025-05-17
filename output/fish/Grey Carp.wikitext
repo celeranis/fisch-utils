@@ -28,8 +28,8 @@
 Mushgrove Swamp
 |top_rods      = 
 Summit Rod\165119.74\92343.54;
-Champions Rod\164488.37\92717.92;
 Astralhook Rod\163921.91\180175.67;
+Champions Rod\163570.54\92239.86;
 Depthseeker Rod\163351.71\98455.56;
 Celestial Rod\162497.1\95390.38;
 Training Rod\150968.7\196147.26;

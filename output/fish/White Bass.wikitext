@@ -28,9 +28,9 @@
 Terrapin Island/Olm Cave
 Terrapin Island/Surrounding Ocean
 |top_rods      = 
-Champions Rod\109467.96\14084.26;
 Trident Rod\109439.25\10270.93;
 Fang of the Eclipse\109219.67\13703.88;
+Champions Rod\109002.85\14024.41;
 Celestial Rod\108968.49\14168.14;
 Summit Rod\108863.61\13762.19;
 Training Rod\98978.79\20361;

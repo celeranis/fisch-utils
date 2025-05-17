@@ -38,7 +38,7 @@ Trident Rod\52222\606218.45;
 Free Spirit Rod\47766.55\554497.34;
 No-Life Rod\55387.07\479827.35;
 Rod Of The Forgotten Fang\53659.53\447385.36;
-Rod Of The Zenith\51982.39\421386.26;
+Rod Of The Zenith\52191.07\425677.68;
 Challenger's Rod\50530.85\440927;
 Rod Of The Exalted One\48068.32\423358.8;
 Rod Of The Depths\47840.81\398319.07;

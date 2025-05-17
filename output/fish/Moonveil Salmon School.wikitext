@@ -1,8 +1,8 @@
 {{FishInfobox
 |image          = Moonveil Salmon School.png
 |rarity         = Unusual
-|sea            = First Sea, Second Sea
-|location       = [[Ocean]]
+|sea            = Second Sea
+|location       = [[Netter's Haven]]
 |sublocation    = 
 |sources        = Fishing Net
 |radar_location = 
@@ -17,7 +17,7 @@
 |base_chance    = 45
 |base_resil     = 60
 }}
-'''Moonveil Salmon School''' is an {{Rarity|Unusual}} fish found in the [[Ocean]].
+'''Moonveil Salmon School''' is an {{Rarity|Unusual}} fish found in [[Netter's Haven]].
 
 == Description ==
 {{Description|A school of awesome fish!|Bestiary Entry}}
@@ -33,4 +33,4 @@ When catching a Moonveil Salmon School, the player has a chance to make one of t
 {{Change History|{{subst:Current Version}}}}
 
 == Navigation ==
-{{Fish Navbox|Ocean}}
+{{Fish Navbox|Netter's Haven}}

@@ -28,7 +28,7 @@
 Glacial Grotto
 |top_rods      = 
 Training Rod\201923.08\201923.08;
-Champions Rod\167848.83\113526.56;
+Champions Rod\166912.24\112893.09;
 Celestial Rod\165692.34\115361.08;
 Rapid Rod\163968.37\136883.45;
 Ice Warpers Rod\163939.41\114140.63;

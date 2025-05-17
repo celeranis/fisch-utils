@@ -320,6 +320,7 @@ export const RodPassiveData: Record<string, RodPassiveEffects> = {
 		}
 	},
 	'Astralhook Rod': {
+		states: ['Active'],
 		stats: {
 			progress_speed: 0.15
 		}
@@ -332,6 +333,11 @@ export const RodPassiveData: Record<string, RodPassiveEffects> = {
 	},
 	'Carrot Rod': {
 		states: ['Active']
+	},
+	'Treasure Rod': {
+		stats: {
+			progress_speed: 0.05
+		}
 	}
 }
 

@@ -31,7 +31,7 @@ Roslit Bay/Roslit Volcano
 Sunstone Island/Crate Cave
 Vertigo/Vertigos Dip
 |top_rods      = 
-Champions Rod\325214.39\235384.34;
+Champions Rod\324336.62\234749.02;
 Depthseeker Rod\323442.41\228840.43;
 Rapid Rod\321838.08\250356.05;
 Avalanche Rod\321466.49\228897;

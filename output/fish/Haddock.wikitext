@@ -25,6 +25,7 @@
 == Obtainment ==
 {{Description|Found in schools near 'Haddock rock'.|Bestiary Hint}}
 {{Fish Availability|
+Apex Fish Hunt/Mosslurker
 Lucky Event/Blarney McBreeze
 Lucky Event/O'Mango Goldgrin
 Lucky Event/Plumrick O'Luck
