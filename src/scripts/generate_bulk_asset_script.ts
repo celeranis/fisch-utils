@@ -15,7 +15,7 @@ async function downloadAsset(id, name) {
 		.trim()
 	
 	// fetch asset data
-	const assetInfoResponse = await fetch(\`https://assetdelivery.roblox.com/v2/asset?id=$\{id}\`, { credentials: 'include' })
+	const assetInfoResponse = await fetch(\`https://assetdelivery.roblox.com/v2/asset?id=$\{id}\`, { credentials: 'include', headers: { 'Roblox-Place-Id': '16732694052' } })
 	const assetInfoBody = await assetInfoResponse.json()
 	
 	// something went wrong
