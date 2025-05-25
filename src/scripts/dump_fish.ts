@@ -51,6 +51,7 @@ if (!process.argv.includes('--skip-pages')) {
 	const lastUpdateComment = `-- Last update: Version [[${meta.official_version}]], place version ${meta.place_version}`
 	
 	for (const [i, fish] of allFish.entries()) {
+		fish.Name = fish.Name.replaceAll("’", "'")
 		if (process.argv.includes('--only') && !process.argv.includes(fish.Name.replaceAll(' ', '_'))) continue
 		const page: string[] = [
 			// pageInfoHeader(fish.Name),
@@ -192,7 +193,7 @@ const pools = Object.fromEntries((Object.entries(zoneData)
 		name: k,
 		display: k.replaceAll('/', ' — '),
 		// category: `Catchable in ${k.replaceAll('/', ': ')}`,
-		fish: v.Pool,
+		fish: v.Pool.map((fishName) => fishName.replaceAll('’', "'")),
 		hunt_fish: HUNT_MAP[k],
 		no_wormhole: v.CantBeWhormholed || undefined,
 		wormhole_only: UNFISHABLE_ZONES.includes(k) || undefined,
@@ -205,7 +206,7 @@ const pools = Object.fromEntries((Object.entries(zoneData)
 		abundances: (abundanceData[k] ?? abundanceData_sea2[k])?.abundances
 			?.sort((a0, a1) => a0.fish.localeCompare(a1.fish) || ((a1.position && a0.position?.compareTo(a1.position)) ?? -1))
 			?.map(a => ({
-				fish: a.fish,
+				fish: a.fish.replaceAll("’", "'"),
 				chance: a.chance,
 				hidden: a.hidden,
 				position: a.position?.round()?.toArray(),
@@ -289,6 +290,7 @@ const fish = Object.fromEntries(
 		.filter(fish => fish.Name != 'Eyefestation')
 		.sort((f0, f1) => f0.Name.localeCompare(f1.Name))
 		.map((fish, i) => {
+			fish.Name = fish.Name.replaceAll("’", "'")
 			return [fish.Name, {
 				name: fish.Name,
 				order: fishOrder[fish.Name],

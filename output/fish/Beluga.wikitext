@@ -1,0 +1,72 @@
+{{FishInfobox
+|image          = Beluga.png
+|rarity         = Limited
+|sea            = First Sea, Second Sea
+|location       = [[Ocean]]
+|sublocation    = 
+|sources        = Fishing Rod
+|nopassive      = 1
+|radar_location = 
+|prog_speed     = -95
+|xp             = 300000
+|weather        = Clear
+|time           = Night
+|season         = Spring, Summer
+|bait           = Squid
+|base_weight    = 3000
+|base_value     = 200000
+|weight_range   = 2200
+|base_chance    = 4
+|base_resil     = 1
+}}
+'''Beluga''' is a {{Rarity|Limited}} fish found in the [[Ocean]].
+
+== Description ==
+{{Description|A sociable white whale with a rounded forehead, typically known for its vocal chirps and playful personality.|Bestiary Entry}}
+
+== Obtainment ==
+{{Fish Availability|
+Narwhal Hunt/Beluga/First Sea
+Narwhal Hunt/Beluga/Second Sea
+|top_rods      = 
+Great Rod of Oscar\15489.06\80550.31;
+Astralhook Rod\13968.74\77326.29;
+Fang of the Eclipse\13683.53\84081.87;
+Tempest Rod\13416.4\80220.04;
+Challenger's Rod\13191.63\79752.85;
+Resourceful Rod\2397.82\13942.98;
+Destiny Rod\233.77\1242.86;
+Verdant Shear Rod\-66.97\-923.72;
+Wisdom Rod\-5.83\-80.42;
+Seraphic Rod\9434.73\54686.77;
+Ethereal Prism Rod\7462.33\41487.9;
+Rod Of The Forgotten Fang\4008.86\23352.61;
+No-Life Rod\3007.37\18285.14;
+Free Spirit Rod\2053.32\11958.21;
+Depthseeker Rod\1944.8\11901.55;
+Rod Of The Exalted One\702.26\3993.2;
+Steady Rod\-1.15\-15.79;
+Blazebringer Rod\-6.23\-85.8;
+Avalanche Rod\-25.44\-350.38;
+Volcanic Rod\-30.15\-415.17;
+Rod Of The Depths\-30.15\-430.5;
+Zeus Rod\-47.26\-650.94;
+Trident Rod\-58.62\-914.02
+|recommended   = Astralhook Rod
+}}
+
+== Gameplay Notes ==
+* Beluga usually cannot be caught with passive effects, such as the one provided by the [[Rod Of The Depths]] and [[Rod Of The Forgotten Fang]].
+** The only exception is when catching a Beluga on the Megalodon Passive reel of the [[Rod Of The Forgotten Fang]], the Megalodon will instead dupe the Beluga.
+
+== Catch Quips ==
+When catching a Beluga, the player has a chance to make one of the following exclamations:
+* A BELUGA!?!
+* THIS ONE'S VOCAL!
+* SILLY WHITE WHALE!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ocean}}

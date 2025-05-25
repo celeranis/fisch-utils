@@ -43,6 +43,9 @@ Lucky Event/Sunny O'Coin
 Megalodon Hunt/Eclipse and Weekend
 Megalodon Hunt/Normal
 Mushgrove Swamp/Algae Hunt
+Narwhal Hunt/Beluga/First Sea
+Narwhal Hunt/Magician Narwhal/First Sea
+Narwhal Hunt/Narwhal/First Sea
 Northern Summit/Surrounding Ocean
 Ocean
 Ocean/Deep Ocean

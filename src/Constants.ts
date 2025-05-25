@@ -136,6 +136,13 @@ export const ZONE_DISPLAY: Record<string, string> = {
 
 	'Mosslurker': 'Apex Fish Hunt/Mosslurker',
 	'Apex Leviathan': 'Apex Fish Hunt/Apex Leviathan',
+
+	'Narwhal - Sea 1': 'Narwhal Hunt/Narwhal/First Sea',
+	'Narwhal - Sea 2': 'Narwhal Hunt/Narwhal/Second Sea',
+	'Magician Narwhal - Sea 1': 'Narwhal Hunt/Magician Narwhal/First Sea',
+	'Magician Narwhal - Sea 2': 'Narwhal Hunt/Magician Narwhal/Second Sea',
+	'Beluga - Sea 1': 'Narwhal Hunt/Beluga/First Sea',
+	'Beluga - Sea 2': 'Narwhal Hunt/Beluga/Second Sea',
 }
 
 /**
@@ -298,6 +305,12 @@ export const AVOID_POOLS = {
 	"The Depths/Absolute Darkness": true,
 	"Apex Fish Hunt/Mosslurker": true,
 	"Apex Fish Hunt/Apex Leviathan": true,
+	"Narwhal Hunt/Narwhal/First Sea": true,
+	"Narwhal Hunt/Narwhal/Second Sea": true,
+	"Narwhal Hunt/Magician Narwhal/First Sea": true,
+	"Narwhal Hunt/Magician Narwhal/Second Sea": true,
+	"Narwhal Hunt/Beluga/First Sea": true,
+	"Narwhal Hunt/Beluga/Second Sea": true,
 
 	// 1:1 with ocean
 	"Atlantis/Surrounding Ocean": true,
@@ -339,6 +352,9 @@ export const LIMITED_BAIT = {
 	"Toxic Jelly Core": true,
 	"Nightmare Larva": true,
 	"Golden Worm": true,
+
+	"Hourglass Bait": true,
+	"Colossal Ink Bait": true,
 }
 
 /**
@@ -526,6 +542,9 @@ export const OVERRIDE_SEA = {
 	'Animal Hunt/Second Sea': 'Second Sea',
 	'Blue Moon/Second Sea': 'Second Sea',
 	'Apex Fish Hunt/Apex Leviathan': 'Second Sea',
+	'Narwhal Hunt/Narwhal/Second Sea': 'Second Sea',
+	'Narwhal Hunt/Magician Narwhal/Second Sea': 'Second Sea',
+	'Narwhal Hunt/Beluga/Second Sea': 'Second Sea',
 }
 
 /**
@@ -615,6 +634,13 @@ export const HUNT_MAP = {
 
 	"Apex Fish Hunt/Mosslurker": ["Mosslurker"],
 	"Apex Fish Hunt/Apex Leviathan": ["Apex Leviathan"],
+
+	"Narwhal Hunt/Narwhal/First Sea": ["Narwhal"],
+	"Narwhal Hunt/Narwhal/Second Sea": ["Narwhal"],
+	"Narwhal Hunt/Magician Narwhal/First Sea": ["Magician Narwhal"],
+	"Narwhal Hunt/Magician Narwhal/Second Sea": ["Magician Narwhal"],
+	"Narwhal Hunt/Beluga/First Sea": ["Beluga"],
+	"Narwhal Hunt/Beluga/Second Sea": ["Beluga"],
 }
 
 /**

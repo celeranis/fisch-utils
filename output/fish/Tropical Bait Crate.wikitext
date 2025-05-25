@@ -31,6 +31,9 @@ Emberreach/Freshwater Pond
 Emberreach/Surrounding Ocean
 Isle of New Beginnings
 Lushgrove
+Narwhal Hunt/Beluga/Second Sea
+Narwhal Hunt/Magician Narwhal/Second Sea
+Narwhal Hunt/Narwhal/Second Sea
 Open Ocean
 Open Ocean/Sea Leviathan
 Pine Shoals

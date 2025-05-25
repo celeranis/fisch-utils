@@ -27,6 +27,9 @@
 {{Description|It gulps in the dark of night.|Bestiary Hint}}
 {{Fish Availability|
 Apex Fish Hunt/Apex Leviathan
+Narwhal Hunt/Beluga/Second Sea
+Narwhal Hunt/Magician Narwhal/Second Sea
+Narwhal Hunt/Narwhal/Second Sea
 Open Ocean
 Open Ocean/Sea Leviathan
 |top_rods      = 

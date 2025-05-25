@@ -33,6 +33,9 @@ Lucky Event/O'Mango Goldgrin
 Lucky Event/Plumrick O'Luck
 Lucky Event/Rowdy McCharm
 Lucky Event/Sunny O'Coin
+Narwhal Hunt/Beluga/First Sea
+Narwhal Hunt/Magician Narwhal/First Sea
+Narwhal Hunt/Narwhal/First Sea
 Ocean
 Ocean/Deep Ocean
 Orca Migration/Ancient

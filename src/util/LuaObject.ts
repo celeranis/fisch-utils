@@ -5,7 +5,7 @@ interface JsonLuaOptions {
 
 export function jsonToLua(obj: unknown, options: JsonLuaOptions = {}, level: number = 1) {
 	if (typeof(obj) == 'number' || typeof(obj) == 'string') {
-		return JSON.stringify(obj)
+		return JSON.stringify(obj).replaceAll("’", "'")
 		
 	} else if (typeof(obj) == 'undefined' || obj == null) {
 		return 'nil'

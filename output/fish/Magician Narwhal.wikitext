@@ -1,0 +1,71 @@
+{{FishInfobox
+|image          = Magician Narwhal.png
+|rarity         = Apex
+|sea            = First Sea, Second Sea
+|location       = [[Ocean]]
+|sublocation    = 
+|sources        = Fishing Rod
+|nopassive      = 1
+|radar_location = 
+|xp             = 2500000
+|weather        = Clear
+|time           = 
+|season         = Summer
+|bait           = Golden Worm
+|base_weight    = 20000
+|base_value     = 1000000
+|weight_range   = 14600
+|base_chance    = 1
+|base_resil     = -20
+}}
+'''Magician Narwhal''' is an {{Rarity|Apex}} fish found in the [[Ocean]].
+
+== Description ==
+{{Description|A whimsical narwhal with a neat top hat and an enchanted magician's wand, casting spells beneath waves.|Bestiary Entry}}
+
+== Obtainment ==
+{{Fish Availability|
+Narwhal Hunt/Magician Narwhal/First Sea
+Narwhal Hunt/Magician Narwhal/Second Sea
+|top_rods      = 
+Leviathan's Fang Rod\21532.27\186237.8;
+Trident Rod\16712.13\135077.89;
+Great Rod of Oscar\14980.29\109672.52;
+No-Life Rod\14828.49\126287.2;
+Ethereal Prism Rod\14522.22\117285.32;
+Destiny Rod\11588.74\94823.2;
+Heaven's Rod\10665.05\87166.21;
+Seraphic Rod\14008.7\116728.28;
+Rod Of The Exalted One\11554.67\99784.85;
+Poseidon Rod\11514.86\99838.51;
+Astralhook Rod\14363.58\114952.6;
+Rod Of The Forgotten Fang\13107.47\113367.85;
+Challenger's Rod\12729.01\108666.69;
+Rod Of The Depths\11420.12\98579.99;
+Zeus Rod\11208.35\96903.86;
+Depthseeker Rod\10318.92\88612.94;
+Avalanche Rod\9080.86\78124.96;
+Volcanic Rod\8828.4\75301.22;
+Steady Rod\3259.61\24928.09
+|recommended   = Trident Rod
+}}
+
+== Gameplay Notes ==
+* Magician Narwhal usually cannot be caught with passive effects, such as the one provided by the [[Rod Of The Depths]] and [[Rod Of The Forgotten Fang]].
+** The only exception is when catching a Magician Narwhal on the Megalodon Passive reel of the [[Rod Of The Forgotten Fang]], the Megalodon will instead dupe the Magician Narwhal.
+
+== Catch Quips ==
+When catching a Magician Narwhal, the player has a chance to make one of the following exclamations:
+* A MAGICIAN NARWHAL!?!?!
+* I CAN'T BELIEVE IT!
+* IT WAS REAL?!
+* PURE MAGIC!
+* THAT WAS MY CARD!
+* HOW DID IT DO THAT?!?
+* THAT'S A NICE HAT!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Ocean}}

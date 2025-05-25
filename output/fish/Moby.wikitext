@@ -43,7 +43,6 @@ Zeus Rod\-105.43\-150.96
 }}
 
 == Gameplay Notes ==
-* While reeling in a Moby, the fish will ''not'' be visible in the water.
 * Moby usually cannot be caught with passive effects, such as the one provided by the [[Rod Of The Depths]] and [[Rod Of The Forgotten Fang]].
 ** The only exception is when catching a Moby on the Megalodon Passive reel of the [[Rod Of The Forgotten Fang]], the Megalodon will instead dupe the Moby.
 

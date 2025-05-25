@@ -26,7 +26,7 @@
 
 == Catch Quips ==
 When catching a Green Energy Crystal, the player has a chance to make one of the following exclamations:
-* Found a Meg Spine!
+* Found a Green Energy Crystal!
 
 == Change History ==
 {{Change History|{{subst:Current Version}}}}

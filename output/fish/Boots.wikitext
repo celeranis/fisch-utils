@@ -33,6 +33,9 @@ Lucky Event/O'Mango Goldgrin
 Lucky Event/Plumrick O'Luck
 Lucky Event/Rowdy McCharm
 Lucky Event/Sunny O'Coin
+Narwhal Hunt/Beluga/First Sea
+Narwhal Hunt/Magician Narwhal/First Sea
+Narwhal Hunt/Narwhal/First Sea
 Ocean
 |top_rods      = 
 Great Rod of Oscar\21071.01\69823.78;

@@ -1,4 +1,4 @@
-/* Last update: Version [[1.33]], place version 46 */
+/* Last update: Version [[1.34]], place version 55 */
 
 /* Attributes */
 .mutation-big, .mutation-big a:not(.new), .mutation-giant, .mutation-giant a:not(.new) { color: #8bff89; }
@@ -14,11 +14,10 @@
 .mutation-atlantean, .mutation-atlantean a:not(.new), .mutation-atlantean .oo-ui-labelElement-label { color: #229995; }
 .mutation-aureate, .mutation-aureate a:not(.new), .mutation-aureate .oo-ui-labelElement-label { color: #8c3e07; }
 .mutation-aurelian, .mutation-aurelian a:not(.new), .mutation-aurelian .oo-ui-labelElement-label { color: #902707; }
+.mutation-aureolin, .mutation-aureolin a:not(.new), .mutation-aureolin .oo-ui-labelElement-label { color: #dc9a01; }
 .mutation-aurora, .mutation-aurora a:not(.new), .mutation-aurora .oo-ui-labelElement-label { color: #4effd9; }
 .mutation-aurous, .mutation-aurous a:not(.new), .mutation-aurous .oo-ui-labelElement-label { color: #730a0a; }
 .mutation-aurulent, .mutation-aurulent a:not(.new), .mutation-aurulent .oo-ui-labelElement-label { color: #a25c06; }
-.mutation-aurulent, .mutation-aurulent a:not(.new), .mutation-aurulent .oo-ui-labelElement-label { color: #dc9a01; }
-.mutation-aureolin, .mutation-aureolin a:not(.new), .mutation-aureolin .oo-ui-labelElement-label { color: #dc9a01; }
 .mutation-awesome, .mutation-awesome a:not(.new), .mutation-awesome .oo-ui-labelElement-label { color: #ff0000; }
 .mutation-lego, .mutation-lego a:not(.new), .mutation-lego .oo-ui-labelElement-label { color: #ff0000; }
 .mutation-blarney, .mutation-blarney a:not(.new), .mutation-blarney .oo-ui-labelElement-label { color: #389f13; }

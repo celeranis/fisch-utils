@@ -16,7 +16,7 @@ const css: string[] = [
 ]
 
 function addMutation(name: string, color: string) {
-	const cls = name.toLowerCase().replaceAll(' ', '-').replaceAll('’', '')
+	const cls = name.toLowerCase().replaceAll(' ', '-').replaceAll(/[’']/g, '')
 	css.push(`.mutation-${cls}, .mutation-${cls} a:not(.new), .mutation-${cls} .oo-ui-labelElement-label { color: #${color}; }`)
 }
 

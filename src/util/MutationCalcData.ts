@@ -72,7 +72,7 @@ export const MUTATION_DATA: MutationDataEntry[] = [
 		]
 	},
 	{
-		mutation: "King’s Blessing",
+		mutation: "King's Blessing",
 		chance: 10,
 		priority: MutationPriority.SpecialRods,
 		chance_type: 'percent',
@@ -1308,8 +1308,11 @@ export const MUTATION_DATA: MutationDataEntry[] = [
 ]
 
 export const MUTATION_MULTIPLIERS: Record<string, number> = {}
-for (const [mutation, mutationData] of Object.entries(InternalMutationDataMap).sort(([k0], [k1]) => k0.localeCompare(k1))) {
+for (let [mutation, mutationData] of Object.entries(InternalMutationDataMap).sort(([k0], [k1]) => k0.localeCompare(k1))) {
 	if (DEV_MUTATIONS.includes(mutation) || DEV_MUTATIONS.includes(mutationData.Display)) continue
+
+	mutation = mutation.replaceAll("’", "'")
+	mutationData.Display = mutationData.Display.replaceAll("’", "'")	
 	
 	MUTATION_MULTIPLIERS[mutation] = mutationData.PriceMultiply
 	MUTATION_MULTIPLIERS[mutationData.Display] = mutationData.PriceMultiply

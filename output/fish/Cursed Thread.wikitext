@@ -26,6 +26,9 @@
 == Obtainment ==
 {{Fish Availability|
 Apex Fish Hunt/Apex Leviathan
+Narwhal Hunt/Beluga/Second Sea
+Narwhal Hunt/Magician Narwhal/Second Sea
+Narwhal Hunt/Narwhal/Second Sea
 Open Ocean
 |top_rods      = 
 Frostfire Rod\110436.47\73822.74;

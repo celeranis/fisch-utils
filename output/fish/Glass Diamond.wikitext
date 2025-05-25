@@ -56,7 +56,9 @@ Steady Rod\23245.69\102935.22
 
 == Catch Quips ==
 When catching a Glass Diamond, the player has a chance to make one of the following exclamations:
-* Found a Meg Spine!
+* A Glass Diamond!
+* Compressed carbon!
+* Two more for a pickaxe!
 
 == Change History ==
 {{Change History|{{subst:Current Version}}}}
