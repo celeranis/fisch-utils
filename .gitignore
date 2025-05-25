@@ -150,3 +150,5 @@ src/scripts/newfish/
 data/
 badtemplate.wikitext
 newtemplate.wikitext
+
+output/download_assets.js
