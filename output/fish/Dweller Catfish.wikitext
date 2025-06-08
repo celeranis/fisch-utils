@@ -28,26 +28,26 @@
 {{Fish Availability|
 Desolate Deep/Brine Pool
 |top_rods      = 
+Free Spirit Rod\229482.32\63889.36;
 Leviathan's Fang Rod\226754.45\62011.2;
-Free Spirit Rod\218008.2\60694.89;
 Trident Rod\211856.38\58982.19;
-Azure Of Lagoon\155801.04\43324.94;
+Azure Of Lagoon\164423.29\45605.2;
 No-Life Rod\153677.33\42624.65;
 Flimsy Rod\116904.48\30863.07;
 Plastic Rod\90263.42\23455.99;
 Buddy Bond Rod\82771.49\21116.5;
 Nocturnal Rod\76046.31\73637.63;
-Firefly Rod\118738.22\34175.57;
+Adventurer's Rod\113291.16\32729.21;
 Seraphic Rod\136417.29\36726.94;
 Ethereal Prism Rod\135524.98\36372.7;
 Astralhook Rod\134812.85\36439.23;
 Challenger's Rod\133007.45\36403.67;
 Rod Of The Forgotten Fang\131771.65\35831.03;
+Blazebringer Rod\128862.6\35655.53;
+Verdant Shear Rod\122041.44\33880;
 Zeus Rod\121015.62\33106.17;
-Verdant Shear Rod\120316.87\33361.79;
 Rod Of The Depths\118473.41\32233.9;
 Depthseeker Rod\117998.74\32205.16;
-Blazebringer Rod\115976.34\32089.98;
 Rod Of The Exalted One\114836.09\31498.93;
 Avalanche Rod\107568.87\29370.68;
 Reinforced Rod\104384.25\28519.78;

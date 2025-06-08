@@ -29,11 +29,11 @@ Vertigo/Vertigos Dip
 |top_rods      = 
 Training Rod\501698.3\501698.3;
 Leviathan's Fang Rod\312153.36\151013.99;
+Free Spirit Rod\311402.77\222372.41;
 Trident Rod\298895.22\178116.1;
 No-Life Rod\295979.29\255824.71;
-Free Spirit Rod\295832.64\177897.93;
 Flimsy Rod\269499.54\257218.14;
-Abyssal Specter Rod\257407.23\206932.15;
+Blazebringer Rod\263853.52\231854.14;
 Fast Rod\257098.03\257098.03;
 Seraphic Rod\278057.69\254817.61;
 Ethereal Prism Rod\273622.4\39276.08;
@@ -43,8 +43,7 @@ Rod Of The Forgotten Fang\261429.19\232684.31;
 Rod Of The Exalted One\257269.86\165569.59;
 Rod Of The Depths\257028.49\211980.93;
 Zeus Rod\256524.49\217487.15;
-Blazebringer Rod\251659.52\205356.52;
-Verdant Shear Rod\248092.48\218046.24;
+Verdant Shear Rod\249297.78\218046.24;
 Volcanic Rod\239594.1\176793.26;
 Depthseeker Rod\239508.21\198935.43;
 Avalanche Rod\237914.32\178858.91;

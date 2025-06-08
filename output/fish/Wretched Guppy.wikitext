@@ -31,22 +31,22 @@ Cults Curse
 |top_rods      = 
 Training Rod\808073.39\808073.39;
 Flimsy Rod\747545.49\751526.06;
+Adventurer's Rod\367940.6\310414.44;
 Fischer's Rod\347615.16\351523.7;
-Adventurer's Rod\346383.93\350278.63;
 Plastic Rod\345288.4\341359.69;
 Fast Rod\336875\342200.01;
+Free Spirit Rod\287271.76\241726;
 Astralhook Rod\282176.47\282176.47;
 No-Life Rod\278028.2\278028.2;
 Seraphic Rod\276744.65\276744.65;
 Ethereal Prism Rod\274966.58\274966.58;
 Trident Rod\274644.35\192578.66;
-Free Spirit Rod\272908.17\193380.8;
 Depthseeker Rod\254767.29\216276.74;
 Avalanche Rod\253892.13\194468.58;
 Challenger's Rod\253393.67\253393.67;
 Rod Of The Forgotten Fang\252907.75\252907.75;
-Verdant Shear Rod\251803.29\237132.35;
-Blazebringer Rod\250843.83\223278.74;
+Verdant Shear Rod\252538.05\237132.35;
+Blazebringer Rod\252088.9\252088.9;
 Zeus Rod\249626.88\236580.88;
 Rod Of The Depths\246660.4\230481.28;
 Rod Of The Exalted One\244793.46\216076.2;

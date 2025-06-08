@@ -29,21 +29,21 @@
 {{Fish Availability|
 Roslit Bay/Ashfall
 |top_rods      = 
+Azure Of Lagoon\178160.09\163615.45;
+Free Spirit Rod\176916.61\145430.26;
 Fast Rod\173746.6\168558.97;
 No-Life Rod\172443.82\167307.87;
 Seraphic Rod\171764.97\166649.23;
-Leviathan's Fang Rod\171356.18\164962.87;
-Astralhook Rod\170365.82\62171.27;
 Lucky Rod\120317.29\88600.72;
 Rod Of The Exalted One\142811.36\136215.94;
-Tempest Rod\165712.64\160777.16;
+Leviathan's Fang Rod\171356.18\164962.87;
+Astralhook Rod\170365.82\62171.27;
 Trident Rod\169810.72\116486.89;
-Free Spirit Rod\168070.78\116344.21;
 Ethereal Prism Rod\167581.64\117843.94;
 Depthseeker Rod\161412.35\130102.61;
 Avalanche Rod\160271.48\116972.68;
-Blazebringer Rod\159693.21\134301.97;
-Verdant Shear Rod\159550.38\142600.97;
+Verdant Shear Rod\160174.84\142600.97;
+Blazebringer Rod\159693.21\151631.26;
 Zeus Rod\158710.82\142235.33;
 Challenger's Rod\157218.63\152536.13;
 Rod Of The Forgotten Fang\156845.57\152174.18;

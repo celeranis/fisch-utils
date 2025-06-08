@@ -28,20 +28,19 @@
 {{Fish Availability|
 Pine Shoals
 |top_rods      = 
-Free Spirit Rod\317327.28\35976.01;
+Free Spirit Rod\334028.72\37869.49;
 Trident Rod\304466.07\36163.54;
 Leviathan's Fang Rod\295522.85\34636.17;
-Azure Of Lagoon\263879.69\30602.11;
+Azure Of Lagoon\277768.09\32212.75;
 Astralhook Rod\244263.68\0;
 Training Rod\202637.12\19819.88;
-Treasure Rod\217305.88\24399.41;
+Great Dreamer Rod\223028.69\25082.41;
 Nocturnal Rod\106722.72\102495.6;
-Fang of the Eclipse\233032.29\33320.41;
-Frog Rod\189880.69\24457.88;
+Blazebringer Rod\228441.72\35173.09;
+Frog Rod\218698.34\33375.06;
 Fortune Rod\170379.43\20417.01;
+Verdant Shear Rod\222440.44\30195.95;
 No-Life Rod\219929.63\26915.69;
-Blazebringer Rod\218920.66\31153.31;
-Verdant Shear Rod\218618.43\30083.56;
 Seraphic Rod\194904.8\23150.19;
 Ethereal Prism Rod\191532.3\22323.64;
 Challenger's Rod\187398.91\22836.47;

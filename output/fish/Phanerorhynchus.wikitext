@@ -29,9 +29,9 @@ Ancient Archives
 |top_rods      = 
 Leviathan's Fang Rod\82298.4\122349.25;
 Trident Rod\80247.44\120014.56;
-Free Spirit Rod\73400.92\109775.21;
+Free Spirit Rod\77264.12\115552.85;
+Azure Of Lagoon\62869.29\94354.89;
 No-Life Rod\60295.51\89499.22;
-Azure Of Lagoon\58648.08\88286.57;
 Great Rod of Oscar\58392.73\85161.6;
 Resourceful Rod\46504.55\68863.61;
 Destiny Rod\52584.13\77796.47;
@@ -40,11 +40,11 @@ Seraphic Rod\58028\85238.38;
 Astralhook Rod\58003.69\84944.76;
 Rod Of The Forgotten Fang\55606.77\82304.89;
 Challenger's Rod\55240.34\82037.28;
+Blazebringer Rod\53894.52\80210.09;
 Rod Of The Exalted One\51555.33\76907.82;
 Zeus Rod\50860.79\75695.05;
+Verdant Shear Rod\50740.42\75646.61;
 Rod Of The Depths\50480.49\74820.71;
-Verdant Shear Rod\50428.17\75181.09;
-Blazebringer Rod\48505.07\72189.08;
 Depthseeker Rod\47310.8\71554.06;
 Volcanic Rod\46170.75\69662.33;
 Avalanche Rod\45505.93\68832.79;

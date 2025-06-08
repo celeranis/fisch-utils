@@ -29,10 +29,10 @@
 {{Fish Availability|
 Cults Curse
 |top_rods      = 
+Free Spirit Rod\210408.29\172017.4;
 Leviathan's Fang Rod\204250.63\168215.23;
-Free Spirit Rod\199887.87\163416.53;
 Trident Rod\188761.43\154320.2;
-Azure Of Lagoon\153425.66\123900.68;
+Azure Of Lagoon\161500.7\136705.19;
 No-Life Rod\139626.32\139210.96;
 Krampus's Rod\93149.22\97031.39;
 Magma Rod\90760.78\94543.41;
@@ -42,11 +42,11 @@ Seraphic Rod\137410.71\137410.71;
 Ethereal Prism Rod\135315.13\135315.13;
 Challenger's Rod\130217.03\125565.61;
 Rod Of The Forgotten Fang\125230.06\122491.35;
+Blazebringer Rod\119576.9\119117.65;
+Verdant Shear Rod\113145.64\111790.97;
 Zeus Rod\111447.76\110491.07;
-Verdant Shear Rod\110928.68\109933.97;
 Rod Of The Depths\109161.91\108043.22;
 Depthseeker Rod\108177.13\103880.38;
-Blazebringer Rod\107312.55\105504.2;
 Rod Of The Exalted One\105727.48\102809.87;
 Avalanche Rod\93707.5\91161.46;
 Volcanic Rod\87673.65\84033.61;

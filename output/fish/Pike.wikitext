@@ -29,10 +29,10 @@ Moosewood/Docks
 Moosewood/Freshwater Pond
 |top_rods      = 
 Astralhook Rod\133004.47\261567.53;
+Firefly Rod\128866.51\109902.16;
 Champions Rod\128576.2\109654.58;
 Celestial Rod\128567.83\110329.36;
 Rapid Rod\127447.96\110752.79;
-Ice Warpers Rod\127053.28\109029.66;
 Training Rod\109359.01\194705.81;
 Fortune Rod\70520.63\138686.36;
 Ethereal Prism Rod\126371.4\195752.06;
@@ -41,15 +41,15 @@ Avalanche Rod\121620.75\83596.69;
 Depthseeker Rod\121512.76\91666.18;
 No-Life Rod\118994.48\118994.48;
 Seraphic Rod\117563.99\117563.99;
-Verdant Shear Rod\112675.48\100026.19;
+Verdant Shear Rod\114198.12\100295.92;
 Challenger's Rod\107633.57\107633.57;
 Rod Of The Forgotten Fang\107260.21\107260.21;
-Blazebringer Rod\102555.57\94399.5;
+Blazebringer Rod\106580.08\106580.08;
+Free Spirit Rod\105495.94\105495.94;
 Zeus Rod\101748.53\99985.73;
 Volcanic Rod\99265.35\75883.84;
 Trident Rod\97846.24\84735.65;
 Rod Of The Depths\97322.04\97322.04;
-Free Spirit Rod\94059.57\84396.75;
 Rod Of The Exalted One\91824.91\94076.38;
 Steady Rod\60785.19\54757.61
 |recommended   = Ethereal Prism Rod

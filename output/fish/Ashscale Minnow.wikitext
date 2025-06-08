@@ -28,18 +28,19 @@
 {{Fish Availability|
 Emberreach/Surrounding Ocean
 |top_rods      = 
-Adventurer's Rod\412033.53\80373.01;
+Adventurer's Rod\461676.97\97670.81;
+Firefly Rod\411785.74\39808.21;
 Fischer's Rod\404724.67\204855.07;
 Plastic Rod\403500.53\204140.79;
 Fast Rod\402849.91\112845.2;
-Candy Cane Rod\402314\203183.88;
 Lucky Rod\396120.71\138793.74;
 Fungal Rod\387780.77\151951.8;
 Antler Rod\384407.22\151507.41;
-Free Spirit Rod\361811.78\0;
+Candy Cane Rod\402314\203183.88;
+Free Spirit Rod\380854.5\0;
 Astralhook Rod\331143.24\0;
-Verdant Shear Rod\300753.76\28670.6;
-Blazebringer Rod\288685.85\30898.01;
+Blazebringer Rod\320762.06\34331.12;
+Verdant Shear Rod\301488.8\28762.59;
 Trident Rod\281850.02\25403.96;
 No-Life Rod\242417.87\23089.37;
 Ethereal Prism Rod\242175.13\24183.93;

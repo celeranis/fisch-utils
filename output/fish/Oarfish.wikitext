@@ -42,26 +42,26 @@ Whale Migration/Moby
 Whale Migration/Normal
 |top_rods      = 
 Leviathan's Fang Rod\32604.31\125799.87;
-Free Spirit Rod\27928.71\123265.35;
+Free Spirit Rod\29398.65\129753;
 Trident Rod\27011.39\119216.66;
 Great Rod of Oscar\24073.1\70131.44;
 Ethereal Prism Rod\23075.31\73784.57;
 Lucky Rod\12650.19\56016.08;
 Resourceful Rod\17497.15\59606.64;
-No-Life Rod\22734.21\83440.34;
-Firefly Rod\17941.16\77276.75;
+Azure Of Lagoon\22388.22\89313.77;
+Firefly Rod\20194.68\87469.92;
 Brick Built Rod\13213.82\57066.6;
 Fungal Rod\15144.67\68367.02;
-Antler Rod\13243.24\57414.06;
 Astralhook Rod\23021\74071.47;
+No-Life Rod\22734.21\83440.34;
 Seraphic Rod\22486.41\75902.54;
 Rod Of The Forgotten Fang\20862.33\73589.79;
 Challenger's Rod\20435.03\73842.14;
+Blazebringer Rod\19517.35\71253.51;
 Rod Of The Depths\18588.83\65702.42;
 Zeus Rod\18311.86\66907.93;
 Rod Of The Exalted One\18269.33\62346.82;
-Verdant Shear Rod\17988.66\66657.9;
-Blazebringer Rod\17462.89\64128.16;
+Verdant Shear Rod\18151.46\67991.06;
 Depthseeker Rod\16758.66\64032.39;
 Avalanche Rod\14992.17\56986.62;
 Volcanic Rod\14278.73\52869.6;

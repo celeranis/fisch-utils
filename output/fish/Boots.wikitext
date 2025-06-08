@@ -28,6 +28,7 @@
 {{Description|Dr. Crookspine might know what to do with this.|Bestiary Hint}}
 {{Fish Availability|
 Apex Fish Hunt/Mosslurker
+Bloop Fish
 Lucky Event/Blarney McBreeze
 Lucky Event/O'Mango Goldgrin
 Lucky Event/Plumrick O'Luck
@@ -38,29 +39,32 @@ Narwhal Hunt/Magician Narwhal/First Sea
 Narwhal Hunt/Narwhal/First Sea
 Ocean
 |top_rods      = 
-Great Rod of Oscar\21071.01\69823.78;
-Astralhook Rod\19927.38\71203.33;
-Ethereal Prism Rod\19831.92\71343.19;
-Leviathan's Fang Rod\19559.61\83865.68;
-Seraphic Rod\19261.67\72915.07;
-Flimsy Rod\14376.43\71280.96;
-Training Rod\13517.08\72105.63;
-Trident Rod\16046.23\80721.41;
-Free Spirit Rod\15971.29\80344.38;
-No-Life Rod\18981.66\75287.59;
-Firefly Rod\15742.8\74992.37;
-Fischer's Rod\9991.01\50272.62;
-Rod Of The Forgotten Fang\18019.75\72007.88;
-Challenger's Rod\17489.37\71389.55;
-Rod Of The Depths\16293.03\70942.75;
-Zeus Rod\15985.71\67100.84;
-Rod Of The Exalted One\15925.54\70733.29;
-Verdant Shear Rod\15770.3\67466.96;
-Blazebringer Rod\15195.34\63926.89;
-Depthseeker Rod\14437.25\62749.48;
-Avalanche Rod\13077.06\57151.97;
-Volcanic Rod\12473.57\53088.5;
-Steady Rod\4539.85\22809.9
+Great Rod of Oscar\46142.41\226145.97;
+Astralhook Rod\41366.79\230866.87;
+Ethereal Prism Rod\41026\231340.83;
+Leviathan's Fang Rod\40039.26\272081.88;
+Seraphic Rod\38587.85\235774.9;
+Resourceful Rod\33183.34\226622.89;
+Destiny Rod\35511.09\265701.28;
+Free Spirit Rod\36177.66\305613.32;
+Trident Rod\29429.89\290227.47;
+Fang of the Eclipse\33102.74\276425.91;
+Firefly Rod\31714.07\272235.18;
+Blazebringer Rod\33389.42\272157.88;
+Flimsy Rod\18929.62\172877.73;
+Training Rod\16319.01\131519.06;
+Carrot Rod\36569.88\270271.76;
+No-Life Rod\36757.3\240914.76;
+Rod Of The Forgotten Fang\35967.54\233694.18;
+Challenger's Rod\33999.26\231470.68;
+Rod Of The Exalted One\33395.96\271045.82;
+Rod Of The Depths\33110.71\255069.06;
+Verdant Shear Rod\30606.23\259164.59;
+Zeus Rod\30591.68\217646.63;
+Depthseeker Rod\27896.32\240452.31;
+Avalanche Rod\25223.48\219005.14;
+Volcanic Rod\24523.62\203413.74;
+Steady Rod\7589.74\60158.52
 |recommended   = Ethereal Prism Rod
 }}
 

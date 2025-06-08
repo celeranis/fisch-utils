@@ -37,7 +37,6 @@ Terrapin Island/Surrounding Ocean
 |top_rods      = 
 Fast Rod\102694.51\422385.02;
 Fischer's Rod\101569.13\373484.74;
-Adventurer's Rod\100990.93\371358.64;
 Training Rod\76376.25\448950.19;
 Flimsy Rod\75365.45\469966.09;
 Buddy Bond Rod\64622.81\410451.4;
@@ -47,14 +46,14 @@ No-Life Rod\43873.49\43873.49;
 Seraphic Rod\43638.87\43638.87;
 Challenger's Rod\39943.21\39943.21;
 Rod Of The Forgotten Fang\39848.43\39848.43;
-Verdant Shear Rod\37273.19\37273.19;
+Blazebringer Rod\39674.74\39674.74;
+Free Spirit Rod\38315.69\38315.69;
+Verdant Shear Rod\37341.58\37341.58;
 Zeus Rod\37245.83\37245.83;
 Rod Of The Depths\36243.18\36243.18;
-Blazebringer Rod\35140.49\35140.49;
 Depthseeker Rod\34068.75\34068.75;
 Rod Of The Exalted One\34033.94\34033.94;
 Trident Rod\30707.14\30707.14;
-Free Spirit Rod\30652.55\30652.55;
 Avalanche Rod\30580.18\30580.18;
 Volcanic Rod\28264.06\28264.06;
 Steady Rod\7900.63\7900.63

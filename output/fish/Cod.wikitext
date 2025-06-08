@@ -64,24 +64,25 @@ Snowcap Island/Surrounding Ocean
 Whale Migration/Moby
 Whale Migration/Normal
 |top_rods      = 
+Free Spirit Rod\266571.91\173881.79;
 Leviathan's Fang Rod\264425.88\202765.84;
 Trident Rod\258596.15\139452.78;
-Free Spirit Rod\253243.31\139105.43;
-Azure Of Lagoon\225148.37\166751.58;
+Azure Of Lagoon\236998.28\187329.44;
 No-Life Rod\222882.58\192142.24;
 Training Rod\185950.82\193846.15;
 Flimsy Rod\158355.71\134343.8;
 Seraphic Rod\215038.68\196508.34;
+Wildflower Rod\206873.02\196275.57;
 Fungal Rod\195072.36\196186.82;
-Rapid Rod\209491.11\195243.18;
-Verdant Shear Rod\204079.08\194095.42;
+Firefly Rod\212007.96\195370.42;
 Resourceful Rod\191389.03\191571.8;
 Astralhook Rod\213562.37\72119.95;
+Blazebringer Rod\212149.15\193495.18;
 Rod Of The Forgotten Fang\210493.04\177800.49;
 Ethereal Prism Rod\207898.99\142983.28;
 Challenger's Rod\207701.47\174644.32;
 Rod Of The Exalted One\206230.3\161690.17;
-Blazebringer Rod\204359.52\193495.18;
+Verdant Shear Rod\205745.04\195297.25;
 Rod Of The Depths\204083.67\158165.49;
 Zeus Rod\202644.48\177900.11;
 Depthseeker Rod\200291.45\180250.57;

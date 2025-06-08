@@ -28,23 +28,20 @@
 Ancient Isle/Freshwater Pond
 Ancient Isle/Waterfall
 |top_rods      = 
+Free Spirit Rod\383002.91\27627.1;
+Frog Rod\376687.19\54846.48;
 Leviathan's Fang Rod\375958.82\0;
-Trident Rod\371543.57\22156.87;
-Rapid Rod\368340.48\52248.05;
-Free Spirit Rod\363852.77\22101.68;
-Fast Rod\359172.25\44940.15;
-Wildflower Rod\349609\41409.56;
-Long Rod\333562.87\41533.09;
-Brick Built Rod\328842.75\40725.23;
+Wildflower Rod\375577.64\59220.68;
+Firefly Rod\373899.12\59320.56;
+Adventurer's Rod\364154.36\56261.25;
 Nocturnal Rod\169379.1\149441.86;
-Frog Rod\340917.81\49638.38;
-Firefly Rod\357529.09\49070.92;
+Trident Rod\371543.57\22156.87;
 No-Life Rod\349779.31\36121.86;
 Challenger's Rod\322282.89\28599.74;
+Blazebringer Rod\321376.03\32007.13;
 Zeus Rod\316509.82\31795.2;
-Blazebringer Rod\313508.39\30406.77;
+Verdant Shear Rod\314514.49\30956.79;
 Depthseeker Rod\313291.45\28741.26;
-Verdant Shear Rod\311967.81\30739.29;
 Avalanche Rod\308583.88\26253.99;
 Seraphic Rod\308250.39\31222.19;
 Rod Of The Forgotten Fang\305172.4\28512.82;

@@ -30,18 +30,17 @@ Lushgrove/Carrot Garden
 |top_rods      = 
 Frostfire Rod\78023.74\109850.52;
 Steady Rod\76572.89\107807.84;
+Free Spirit Rod\65025\277291.03;
 Magma Rod\64244.51\103546.46;
 Krampus's Rod\64244.51\104004.65;
-Plastic Rod\61135.48\101778.66;
-Free Spirit Rod\60004.74\228357.32;
+Azure Of Lagoon\51748.41\225369.47;
 Astralhook Rod\55382.46\199310.24;
 Great Rod of Oscar\59933.07\198783.2;
 Carrot Rod\48542.85\190735.05;
-Fang of the Eclipse\45032.05\187913.61;
 Resourceful Rod\36995.07\130036.24;
+Blazebringer Rod\44644.78\183713.13;
 Trident Rod\41321.2\169555.59;
-Verdant Shear Rod\40862.58\171734.66;
-Blazebringer Rod\39945.33\164374.91;
+Verdant Shear Rod\41209.6\173193.11;
 Ethereal Prism Rod\27757.78\114645.15;
 No-Life Rod\27280.83\116776.99;
 Seraphic Rod\27161.09\114150.93;

@@ -30,14 +30,13 @@ Lushgrove
 |top_rods      = 
 Great Rod of Oscar\27099.8\162686;
 Astralhook Rod\24822.96\165977.65;
+Free Spirit Rod\21704.25\168151.68;
+Azure Of Lagoon\21560.13\180181.84;
 Fang of the Eclipse\20984.95\182177.24;
-Carrot Rod\19694.43\151901.29;
-Free Spirit Rod\17925.09\139325.68;
-Lobster Rod\17585.78\144307.04;
 Rod Of The Exalted One\9982.99\88085.21;
 Poseidon Rod\10643.82\94966.99;
-Blazebringer Rod\15740.3\133908.47;
-Verdant Shear Rod\15359.22\129548.94;
+Blazebringer Rod\17592.1\148787.19;
+Verdant Shear Rod\16061.62\136551.59;
 Trident Rod\12291.54\109238.48;
 Seraphic Rod\11895.07\105270.03;
 Ethereal Prism Rod\11622.89\100649.72;

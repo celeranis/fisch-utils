@@ -27,24 +27,24 @@
 {{Fish Availability|
 Keepers Altar
 |top_rods      = 
-Free Spirit Rod\258940.41\27506.13;
+Free Spirit Rod\272568.86\34382.67;
 Trident Rod\253239.7\27843.11;
 Leviathan's Fang Rod\241454.88\38037.16;
-Azure Of Lagoon\219530.76\25800.78;
+Azure Of Lagoon\231085.01\36551.1;
 No-Life Rod\219192.51\37433.92;
+Adventurer's Rod\186894.72\46747.23;
 Magnet Rod\97031.17\22562.97;
 Fischer's Rod\116577.49\23015.11;
-Adventurer's Rod\115624.54\22735.57;
 Nocturnal Rod\130459.65\92814.7;
+Depthseeker Rod\193863.68\28248.39;
+Verdant Shear Rod\184920.45\30824.94;
+Avalanche Rod\180696.4\25206.7;
+Blazebringer Rod\177748.25\32760.01;
 Seraphic Rod\176964.94\36390.48;
 Ethereal Prism Rod\175818.74\36154.78;
-Depthseeker Rod\193863.68\28248.39;
-Avalanche Rod\180696.4\25206.7;
-Verdant Shear Rod\177209.27\30657.41;
 Astralhook Rod\174883.73\0;
 Challenger's Rod\173161.36\33261.69;
 Zeus Rod\171333.49\30690.91;
-Blazebringer Rod\168426.54\29016;
 Rod Of The Forgotten Fang\160920.31\33091.12;
 Volcanic Rod\160511.76\23292.5;
 Rod Of The Depths\145278.57\29874.6;

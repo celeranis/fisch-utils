@@ -31,21 +31,21 @@ Roslit Bay/Freshwater Pond Seaweed
 Astralhook Rod\164414.2\325997.18;
 Ethereal Prism Rod\156729.24\234673.36;
 Leviathan's Fang Rod\151419.8\163332.27;
+Firefly Rod\150514.63\133659.57;
 Celestial Rod\149145.54\125281.97;
-Champions Rod\149026.55\124589.44;
 Fortune Rod\86940.67\172384.21;
 No-Life Rod\146858.29\146858.29;
 Seraphic Rod\144283.16\144283.16;
 Depthseeker Rod\141000.84\112321.63;
 Trident Rod\139081.36\106129.29;
 Avalanche Rod\138839.45\100495.96;
+Free Spirit Rod\133910.81\131818.41;
 Challenger's Rod\132014\132014;
+Verdant Shear Rod\131818.5\122785.05;
 Rod Of The Forgotten Fang\131481.54\131481.54;
-Verdant Shear Rod\128394.64\122351.69;
-Free Spirit Rod\127215.27\105454.72;
+Blazebringer Rod\130489.21\130489.21;
 Zeus Rod\122351.69\122351.69;
 Rod Of The Depths\119106.32\119106.32;
-Blazebringer Rod\117515.23\115576.16;
 Rod Of The Exalted One\114067.43\115988.26;
 Volcanic Rod\113404.21\92862.65;
 Steady Rod\73146.01\64459.25

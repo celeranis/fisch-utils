@@ -30,24 +30,25 @@
 FischFright/Frightful Pool
 |top_rods      = 
 Leviathan's Fang Rod\36747.62\158304.44;
-Free Spirit Rod\32463.56\155016.94;
+Free Spirit Rod\34172.17\163175.73;
 Trident Rod\31660.61\151182.76;
 Great Rod of Oscar\26623.3\85653.97;
 Ethereal Prism Rod\25617.25\90598.37;
 Flimsy Rod\17675.64\80886.85;
 Training Rod\18281.15\94589.9;
 Resourceful Rod\19993.66\81387.49;
+Azure Of Lagoon\24978.23\112653.65;
 No-Life Rod\25412.69\106166.65;
-Rapid Rod\22213.8\97395.6;
+Wildflower Rod\21134.39\94399.88;
 Astralhook Rod\25564.41\90481.31;
 Seraphic Rod\24991.29\93428.97;
 Rod Of The Forgotten Fang\23316.48\91270.55;
 Challenger's Rod\22806.8\91710.24;
+Blazebringer Rod\22018.08\88755.65;
 Rod Of The Depths\20927.06\82878.91;
 Zeus Rod\20710.66\83597.21;
+Verdant Shear Rod\20519.24\84822.32;
 Rod Of The Exalted One\20448.89\81317.16;
-Verdant Shear Rod\20394.73\83766;
-Blazebringer Rod\19700.38\79880.09;
 Depthseeker Rod\18885.73\79423.75;
 Avalanche Rod\16971.75\71397.18;
 Volcanic Rod\16140.65\66073.65;

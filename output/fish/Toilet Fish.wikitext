@@ -34,17 +34,18 @@ Narwhal Hunt/Narwhal/Second Sea
 Open Ocean
 Open Ocean/Sea Leviathan
 |top_rods      = 
+Free Spirit Rod\619.25\6692.86;
 Great Rod of Oscar\591.9\5208.27;
 Astralhook Rod\559.63\5279.13;
-Free Spirit Rod\544.34\5511.77;
+Azure Of Lagoon\529.91\5627.22;
 Carrot Rod\484.39\5001.44;
-Fang of the Eclipse\481.13\5195.25;
 Resourceful Rod\341.08\3576.73;
+Firefly Rod\464.35\6194.7;
 Plastic Rod\247.78\5267.37;
 Fischer's Rod\249.77\5048.65;
 Lucky Rod\268.16\4608.72;
-Verdant Shear Rod\416.86\4993.84;
-Blazebringer Rod\397.76\4325.37;
+Blazebringer Rod\444.56\4834.23;
+Verdant Shear Rod\427.49\5121.18;
 Trident Rod\356.66\3517.09;
 Seraphic Rod\284.44\3067.93;
 Ethereal Prism Rod\283.09\3039.65;
@@ -58,7 +59,7 @@ Volcanic Rod\235.18\2518.29;
 Avalanche Rod\233.68\2468.38;
 Zeus Rod\232.03\2484.53;
 Steady Rod\224.6\2203.23
-|recommended   = Astralhook Rod
+|recommended   = Free Spirit Rod
 }}
 
 == Gameplay Notes ==

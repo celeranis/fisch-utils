@@ -27,22 +27,22 @@
 {{Fish Availability|
 Mariana's Veil/Volcanic Vents
 |top_rods      = 
+Free Spirit Rod\277011.26\208811.23;
+Azure Of Lagoon\276407.57\234921.4;
 Rapid Rod\271729.9\309665.11;
-Leviathan's Fang Rod\268741.36\229166.94;
-Trident Rod\264989.95\166752.6;
-No-Life Rod\264139.89\240223.03;
-Free Spirit Rod\263160.7\167048.98;
+Firefly Rod\269782.74\302286.77;
+Wildflower Rod\269618.38\314242.56;
 Long Rod\239174.21\231013.63;
 Brick Built Rod\235370.75\227339.95;
-Training Rod\216045.45\216045.45;
-Firefly Rod\252613.79\297842.02;
-Frog Rod\244316.17\259792.79;
-Fungal Rod\247031.69\256086.65;
-Wildflower Rod\247833.73\244953.11;
+Frog Rod\267735.21\284695.35;
+Adventurer's Rod\252088.27\264615.18;
 North-Star Rod\206486.17\206486.17;
-Blazebringer Rod\248713.75\192833.04;
+Fungal Rod\247031.69\256086.65;
+Trident Rod\264989.95\166752.6;
+No-Life Rod\264139.89\240223.03;
+Blazebringer Rod\248713.75\217714.72;
 Zeus Rod\246886.81\204223.51;
-Verdant Shear Rod\245445.6\204748.88;
+Verdant Shear Rod\246502.67\204748.88;
 Challenger's Rod\245043.25\219013.56;
 Depthseeker Rod\243070.14\186803.19;
 Avalanche Rod\241578.37\167951.05;
@@ -53,6 +53,7 @@ Rod Of The Forgotten Fang\233954.16\218493.87;
 Astralhook Rod\228277.3\80349.93;
 Rod Of The Exalted One\226046.44\186612.28;
 Ethereal Prism Rod\225179.5\127910.62;
+Training Rod\216045.45\216045.45;
 Steady Rod\120591.51\87722.1
 |recommended   = Trident Rod
 }}

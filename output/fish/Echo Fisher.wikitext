@@ -28,10 +28,10 @@
 Atlantis/Ethereal Abyss
 |top_rods      = 
 Astralhook Rod\124318.4\158639.01;
+Firefly Rod\123606.73\102620.32;
 Champions Rod\121368.39\87737.28;
 Celestial Rod\120794.25\89426.65;
 Ethereal Prism Rod\119989.17\139794.03;
-Rapid Rod\119603.71\104091.34;
 Training Rod\111903.74\116539.24;
 Flimsy Rod\81452.51\81452.51;
 Leviathan's Fang Rod\113625.25\123025.96;
@@ -39,15 +39,15 @@ No-Life Rod\111524.77\111524.77;
 Fortune Rod\65963.27\84173.76;
 Avalanche Rod\118741.35\84874.01;
 Depthseeker Rod\118395.93\86085.25;
-Verdant Shear Rod\111091.2\93979.67;
+Verdant Shear Rod\112341.76\94212.87;
 Seraphic Rod\110356.54\110356.54;
-Blazebringer Rod\101220.91\88671.24;
+Blazebringer Rod\101220.91\100112.69;
 Challenger's Rod\101053.41\101053.41;
 Rod Of The Forgotten Fang\100718.6\100718.6;
+Free Spirit Rod\100589.32\98530.27;
 Zeus Rod\100447.44\93933.03;
 Trident Rod\98616.61\79095.04;
 Volcanic Rod\98036.8\71288.58;
-Free Spirit Rod\95559.85\78824.22;
 Rod Of The Depths\91425.77\91425.77;
 Rod Of The Exalted One\87102.58\91746.17;
 Steady Rod\56657.52\48303.84

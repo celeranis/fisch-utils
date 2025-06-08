@@ -29,16 +29,17 @@ Narwhal Hunt/Magician Narwhal/First Sea
 Narwhal Hunt/Magician Narwhal/Second Sea
 |top_rods      = 
 Leviathan's Fang Rod\21532.27\186237.8;
+Azure Of Lagoon\17019.49\128441.55;
 Trident Rod\16712.13\135077.89;
 Great Rod of Oscar\14980.29\109672.52;
 No-Life Rod\14828.49\126287.2;
-Ethereal Prism Rod\14522.22\117285.32;
 Destiny Rod\11588.74\94823.2;
 Heaven's Rod\10665.05\87166.21;
-Seraphic Rod\14008.7\116728.28;
+Ethereal Prism Rod\14522.22\117285.32;
 Rod Of The Exalted One\11554.67\99784.85;
 Poseidon Rod\11514.86\99838.51;
 Astralhook Rod\14363.58\114952.6;
+Seraphic Rod\14008.7\116728.28;
 Rod Of The Forgotten Fang\13107.47\113367.85;
 Challenger's Rod\12729.01\108666.69;
 Rod Of The Depths\11420.12\98579.99;

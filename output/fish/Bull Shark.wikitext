@@ -29,13 +29,14 @@ Moosewood/Surrounding Ocean
 Roslit Bay/Coral Reef
 |top_rods      = 
 Leviathan's Fang Rod\62850.29\286562.01;
-Free Spirit Rod\56490.87\240647.61;
+Free Spirit Rod\59464.07\270554.24;
 Trident Rod\55247.19\235349.63;
 No-Life Rod\43818.02\186260.08;
 Great Rod of Oscar\42989.66\159649.85;
 Lucky Rod\25355.69\137348.66;
 Resourceful Rod\31653.21\135085.66;
-Firefly Rod\35246.04\177699.11;
+Firefly Rod\38727.98\191021.69;
+Azure Of Lagoon\42194.2\188235.79;
 Fast Rod\33468.93\174043.51;
 Brick Built Rod\25272.53\130591.96;
 Ethereal Prism Rod\41886.99\171741.24;
@@ -43,11 +44,11 @@ Astralhook Rod\41772.44\165129.27;
 Seraphic Rod\41139.03\172782.22;
 Rod Of The Forgotten Fang\38471.22\161602.92;
 Challenger's Rod\37822.01\163610.58;
+Blazebringer Rod\36732.29\160248.37;
 Rod Of The Depths\34669.85\146540.05;
 Zeus Rod\34576.97\151072.66;
-Verdant Shear Rod\34150.84\150499.68;
+Verdant Shear Rod\34337.46\152193.86;
 Rod Of The Exalted One\33627.45\144625.45;
-Blazebringer Rod\32865.74\144223.53;
 Depthseeker Rod\31604.94\139557.29;
 Avalanche Rod\28441.19\124698.18;
 Volcanic Rod\26941.56\119390.34;

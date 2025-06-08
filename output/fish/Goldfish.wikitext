@@ -28,24 +28,22 @@
 Moosewood/Freshwater Pond
 |top_rods      = 
 Summit Rod\127293.26\14695.86;
+Firefly Rod\126947.95\15537.96;
+Azure Of Lagoon\126907.6\14137.35;
+Wildflower Rod\126176.67\14566.95;
 Depthseeker Rod\125972.47\14093.14;
-Champions Rod\125945.54\13628.13;
-Celestial Rod\125859.13\13707.09;
-Egg Rod\125856.88\14530.03;
 Training Rod\107881.3\15631.87;
 Resourceful Rod\118734.12\13681.47;
-Wildflower Rod\120763.78\13250.31;
 Nocturnal Rod\89124.48\80997.62;
 Ethereal Prism Rod\121614\23939.96;
 Leviathan's Fang Rod\116423.56\16112.38;
-Kraken Rod\95817.55\14719.21;
-Verdant Shear Rod\124991.55\14430.13;
+Verdant Shear Rod\125598.8\14500.24;
 Avalanche Rod\124760.86\13776.09;
+Free Spirit Rod\123101.54\12566.05;
 Astralhook Rod\123005.85\0;
 No-Life Rod\119606.68\14456.4;
 Trident Rod\118157.14\10065.16;
-Free Spirit Rod\116946.46\10052.84;
-Blazebringer Rod\116794.17\11604.49;
+Blazebringer Rod\116794.17\13101.85;
 Zeus Rod\116075.68\12289.98;
 Seraphic Rod\115146.55\14399.49;
 Volcanic Rod\113381.35\9334.53;

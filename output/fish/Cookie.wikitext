@@ -28,10 +28,10 @@
 {{Fish Availability|
 Fischmas/Winter Village
 |top_rods      = 
+Free Spirit Rod\311584.03\246100.29;
 Leviathan's Fang Rod\305453.76\201464.08;
+Azure Of Lagoon\304378.07\276872.12;
 Trident Rod\298221.31\195980.23;
-Free Spirit Rod\296004.83\196880.23;
-Azure Of Lagoon\289159.17\195439.15;
 No-Life Rod\287675.65\283120.49;
 Training Rod\255000\255000;
 Fast Rod\286250\286250;
@@ -39,11 +39,11 @@ Seraphic Rod\282005.93\282005.93;
 Tempest Rod\272069.14\272069.14;
 Rapid Rod\267720\267720;
 Challenger's Rod\273262.9\258123.57;
+Blazebringer Rod\273052.34\256593.75;
 Astralhook Rod\272238.7\0;
 Zeus Rod\268361.51\240692.41;
-Verdant Shear Rod\266597.71\241312.5;
+Verdant Shear Rod\267641.15\241312.5;
 Ethereal Prism Rod\266352.61\62942.41;
-Blazebringer Rod\266187.41\227268.75;
 Rod Of The Depths\264968.98\234598.7;
 Rod Of The Forgotten Fang\264570.73\257511.07;
 Depthseeker Rod\260740.63\220161.28;

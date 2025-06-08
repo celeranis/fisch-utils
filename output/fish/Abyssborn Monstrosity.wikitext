@@ -32,14 +32,13 @@ The Cursed Shores
 Great Rod of Oscar\1487.16\7283.28;
 Astralhook Rod\1353.46\7183.42;
 Fang of the Eclipse\1229.96\7645.48;
-Carrot Rod\810.29\4713.65;
-Lobster Rod\786.55\4672.52;
-Free Spirit Rod\762.22\4291.01;
+Azure Of Lagoon\987.38\5908.09;
+Free Spirit Rod\931.61\5244.57;
 Egg Rod\630.85\3953.13;
 Seraphic Rod\595.33\3730.53;
 Trident Rod\413.01\2588.07;
+Blazebringer Rod\662.19\4052.23;
 Challenger's Rod\637.19\3880.88;
-Blazebringer Rod\592.49\3625.68;
 Ethereal Prism Rod\522.44\3160.85;
 No-Life Rod\454.96\2739.31;
 Rod Of The Forgotten Fang\428.07\2683.87;

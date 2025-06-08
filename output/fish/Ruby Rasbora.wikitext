@@ -27,17 +27,18 @@
 {{Fish Availability|
 Mariana's Veil/Calm Zone
 |top_rods      = 
+Free Spirit Rod\344360.54\251946.99;
 Leviathan's Fang Rod\342980.98\246994.1;
 Trident Rod\334057.37\244408.8;
-Free Spirit Rod\327142.51\239349.64;
-Azure Of Lagoon\299913.77\214173.44;
+Azure Of Lagoon\315698.71\232154.84;
 Krampus's Rod\296375.16\310429.39;
 Fischer's Rod\283192.1\293992.85;
-Adventurer's Rod\281291.48\292019.75;
 Plastic Rod\282591.79\289507.17;
+Adventurer's Rod\275377.91\219681.76;
 Fast Rod\294300.72\309325.13;
 Magma Rod\286433.67\300006.11;
 No-Life Rod\295852.33\238119.27;
+Blazebringer Rod\276276.65\214622.64;
 Seraphic Rod\276073.44\236280.26;
 Challenger's Rod\275755.26\216434.34;
 Rod Of The Forgotten Fang\272928.7\215776.56;
@@ -46,8 +47,7 @@ Astralhook Rod\272729.24\283470.87;
 Rod Of The Depths\269395.5\196651.46;
 Zeus Rod\267384.61\201410.83;
 Rod Of The Exalted One\267069.33\192115.41;
-Blazebringer Rod\264896.8\198324.29;
-Verdant Shear Rod\259326.85\201560.23;
+Verdant Shear Rod\261443.8\201987.87;
 Volcanic Rod\249120.61\192277.82;
 Depthseeker Rod\246133.46\189972.26;
 Avalanche Rod\226155.57\176444.2;

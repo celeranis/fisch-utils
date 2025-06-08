@@ -34,7 +34,7 @@ Great Rod of Oscar\53230.7\152878.82;
 Astralhook Rod\50055.49\146931.9;
 Challenger's Rod\30456.85\96913.4;
 Tempest Rod\28257.7\89546.08;
-Treasure Rod\20009.26\58752.16;
+Great Dreamer Rod\2979.07\8694.69;
 Krampus's Rod\-1080.11\-1080.11;
 Steady Rod\-1188.12\-1188.12;
 Firework Rod\-684.68\-684.68;

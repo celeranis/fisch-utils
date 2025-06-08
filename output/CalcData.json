@@ -284,12 +284,10 @@
 			"hunt_fish": [
 				"Apex Leviathan"
 			],
+			"no_wormhole": true,
 			"can_lucky": false,
 			"sea": "Second Sea",
 			"avoid": true,
-			"wormhole_seas": [
-				"Second Sea"
-			],
 			"abundances": []
 		},
 		"Apex Fish Hunt/Mosslurker": {
@@ -336,12 +334,10 @@
 			"hunt_fish": [
 				"Mosslurker"
 			],
+			"no_wormhole": true,
 			"can_lucky": false,
 			"sea": "First Sea",
 			"avoid": true,
-			"wormhole_seas": [
-				"First Sea"
-			],
 			"abundances": []
 		},
 		"Azure Lagoon": {
@@ -645,6 +641,44 @@
 				"First Sea",
 				"Second Sea"
 			],
+			"abundances": []
+		},
+		"Bloop Fish": {
+			"name": "Bloop Fish",
+			"display": "Bloop Fish",
+			"fish": [
+				"Tire",
+				"Boot",
+				"Common Crate",
+				"Bait Crate",
+				"Fish Barrel",
+				"Seaweed",
+				"Boots",
+				"Red Snapper",
+				"Anchovy",
+				"Largemouth Bass",
+				"Trout",
+				"Red Snapper",
+				"Anchovy",
+				"Largemouth Bass",
+				"Trout",
+				"Red Snapper",
+				"Anchovy",
+				"Largemouth Bass",
+				"Trout",
+				"Carp",
+				"Yellowfin Tuna",
+				"Carp",
+				"Yellowfin Tuna",
+				"Carp",
+				"Yellowfin Tuna",
+				"Whiptail Catfish",
+				"Whiptail Catfish",
+				"Bloop Fish"
+			],
+			"no_wormhole": true,
+			"can_lucky": false,
+			"sea": "First Sea",
 			"abundances": []
 		},
 		"Blue Moon/First Sea": {
@@ -2615,13 +2649,10 @@
 			"hunt_fish": [
 				"Beluga"
 			],
+			"no_wormhole": true,
 			"can_lucky": false,
 			"sea": "First Sea",
 			"avoid": true,
-			"wormhole_seas": [
-				"First Sea",
-				"Second Sea"
-			],
 			"abundances": []
 		},
 		"Narwhal Hunt/Beluga/Second Sea": {
@@ -2657,12 +2688,10 @@
 			"hunt_fish": [
 				"Beluga"
 			],
+			"no_wormhole": true,
 			"can_lucky": false,
 			"sea": "Second Sea",
 			"avoid": true,
-			"wormhole_seas": [
-				"Second Sea"
-			],
 			"abundances": []
 		},
 		"Narwhal Hunt/Magician Narwhal/First Sea": {
@@ -2709,13 +2738,10 @@
 			"hunt_fish": [
 				"Magician Narwhal"
 			],
+			"no_wormhole": true,
 			"can_lucky": false,
 			"sea": "First Sea",
 			"avoid": true,
-			"wormhole_seas": [
-				"First Sea",
-				"Second Sea"
-			],
 			"abundances": []
 		},
 		"Narwhal Hunt/Magician Narwhal/Second Sea": {
@@ -2751,12 +2777,10 @@
 			"hunt_fish": [
 				"Magician Narwhal"
 			],
+			"no_wormhole": true,
 			"can_lucky": false,
 			"sea": "Second Sea",
 			"avoid": true,
-			"wormhole_seas": [
-				"Second Sea"
-			],
 			"abundances": []
 		},
 		"Narwhal Hunt/Narwhal/First Sea": {
@@ -2803,13 +2827,10 @@
 			"hunt_fish": [
 				"Narwhal"
 			],
+			"no_wormhole": true,
 			"can_lucky": false,
 			"sea": "First Sea",
 			"avoid": true,
-			"wormhole_seas": [
-				"First Sea",
-				"Second Sea"
-			],
 			"abundances": []
 		},
 		"Narwhal Hunt/Narwhal/Second Sea": {
@@ -2845,12 +2866,10 @@
 			"hunt_fish": [
 				"Narwhal"
 			],
+			"no_wormhole": true,
 			"can_lucky": false,
 			"sea": "Second Sea",
 			"avoid": true,
-			"wormhole_seas": [
-				"Second Sea"
-			],
 			"abundances": []
 		},
 		"Northern Summit/Surrounding Ocean": {
@@ -3053,7 +3072,19 @@
 				"First Sea",
 				"Second Sea"
 			],
-			"abundances": []
+			"abundances": [
+				{
+					"fish": "Chinook Salmon",
+					"chance": 60,
+					"hidden": true,
+					"position": [
+						-373,
+						127,
+						2227
+					],
+					"can_lucky": false
+				}
+			]
 		},
 		"Ocean/Harvesters Spike": {
 			"name": "Ocean/Harvesters Spike",
@@ -5633,7 +5664,7 @@
 		},
 		{
 			"mutation": "Bloom",
-			"chance": 20,
+			"chance": 30,
 			"priority": 100,
 			"chance_type": "percent",
 			"allow_crates": true,
@@ -6903,7 +6934,7 @@
 		},
 		{
 			"mutation": "Gemstone",
-			"chance": 8,
+			"chance": 20,
 			"priority": 100,
 			"chance_type": "percent",
 			"allow_crates": true,
@@ -6913,6 +6944,38 @@
 					"property": "rod",
 					"values": [
 						"Treasure Rod"
+					]
+				}
+			]
+		},
+		{
+			"mutation": "Mother Nature",
+			"chance": 30,
+			"priority": 100,
+			"chance_type": "percent",
+			"allow_crates": true,
+			"conditions": [
+				{
+					"check": "conditions",
+					"property": "rod",
+					"values": [
+						"Wildflower Rod"
+					]
+				}
+			]
+		},
+		{
+			"mutation": "Glossy",
+			"chance": 100,
+			"priority": 100,
+			"chance_type": "percent",
+			"allow_crates": true,
+			"conditions": [
+				{
+					"check": "conditions",
+					"property": "rod",
+					"values": [
+						"Azure of Lagoon"
 					]
 				}
 			]
@@ -7274,11 +7337,16 @@
 				"First Sea",
 				"Second Sea"
 			],
-			"luck": 10,
+			"luck": 50,
 			"max_weight": 104,
-			"lure": 10,
-			"resilience": 5,
-			"control": 0
+			"lure": 60,
+			"resilience": 15,
+			"control": 0,
+			"passive": {
+				"stats": {
+					"mutation_chance": 0.3
+				}
+			}
 		},
 		"Antler Rod": {
 			"name": "Antler Rod",
@@ -7341,7 +7409,7 @@
 			],
 			"luck": 105,
 			"max_weight": 300000,
-			"lure": 25,
+			"lure": 75,
 			"resilience": 55,
 			"control": -0.01,
 			"passive": {
@@ -7392,7 +7460,7 @@
 			],
 			"luck": 90,
 			"max_weight": 5000,
-			"lure": 60,
+			"lure": 80,
 			"resilience": 15,
 			"control": 0.15,
 			"passive": {
@@ -7457,9 +7525,9 @@
 				"First Sea",
 				"Second Sea"
 			],
-			"luck": 60,
+			"luck": 70,
 			"max_weight": 3000,
-			"lure": 50,
+			"lure": 70,
 			"resilience": 10,
 			"control": 0.1
 		},
@@ -7683,6 +7751,9 @@
 			"resilience": 20,
 			"control": 0.15,
 			"passive": {
+				"states": [
+					"Active"
+				],
 				"stats": {
 					"luck": 150,
 					"lure": 99,
@@ -7693,9 +7764,9 @@
 					"conditions": [
 						{
 							"check": "conditions",
-							"property": "weather",
+							"property": "passiveState",
 							"values": [
-								"Eclipse"
+								"Active"
 							]
 						}
 					]
@@ -7719,11 +7790,25 @@
 				"First Sea",
 				"Second Sea"
 			],
-			"luck": 35,
+			"luck": 55,
 			"max_weight": 175,
-			"lure": 75,
-			"resilience": 0,
-			"control": -0.01
+			"lure": 85,
+			"resilience": 25,
+			"control": -0.01,
+			"passive": {
+				"stats": {
+					"progress_speed": 0.1,
+					"conditions": [
+						{
+							"check": "conditions",
+							"property": "weather",
+							"values": [
+								"night"
+							]
+						}
+					]
+				}
+			}
 		},
 		"Firework Rod": {
 			"name": "Firework Rod",
@@ -7800,7 +7885,7 @@
 			],
 			"luck": 150,
 			"max_weight": 5000,
-			"lure": 25,
+			"lure": 55,
 			"resilience": 10,
 			"control": 0.15,
 			"passive": {
@@ -7810,6 +7895,18 @@
 				}
 			}
 		},
+		"Friendly Rod": {
+			"name": "Friendly Rod",
+			"seas": [
+				"First Sea",
+				"Second Sea"
+			],
+			"luck": 105,
+			"max_weight": null,
+			"lure": 85,
+			"resilience": 40,
+			"control": 0.05
+		},
 		"Frog Rod": {
 			"name": "Frog Rod",
 			"seas": [
@@ -7818,9 +7915,9 @@
 			],
 			"luck": 100,
 			"max_weight": 650,
-			"lure": 20,
-			"resilience": 5,
-			"control": 0.05,
+			"lure": 60,
+			"resilience": 15,
+			"control": 0.15,
 			"passive": {
 				"states": [
 					"1 Frog Active",
@@ -7906,11 +8003,11 @@
 				"First Sea",
 				"Second Sea"
 			],
-			"luck": 80,
-			"max_weight": 8000,
-			"lure": 65,
-			"resilience": 12,
-			"control": 0.12
+			"luck": 147,
+			"max_weight": null,
+			"lure": 75,
+			"resilience": 17,
+			"control": 0.17
 		},
 		"Great Rod of Oscar": {
 			"name": "Great Rod of Oscar",
@@ -8265,11 +8362,11 @@
 			"seas": [
 				"First Sea"
 			],
-			"luck": 25,
-			"max_weight": 2500,
-			"lure": 20,
-			"resilience": 20,
-			"control": 0.05
+			"luck": 125,
+			"max_weight": 250000,
+			"lure": 80,
+			"resilience": 35,
+			"control": -0.1
 		},
 		"Resourceful Rod": {
 			"name": "Resourceful Rod",
@@ -8633,7 +8730,7 @@
 			"luck": 75,
 			"max_weight": 2000,
 			"lure": 70,
-			"resilience": 10,
+			"resilience": 20,
 			"control": 0.1,
 			"passive": {
 				"states": [
@@ -8677,11 +8774,11 @@
 				"First Sea",
 				"Second Sea"
 			],
-			"luck": 55,
+			"luck": 75,
 			"max_weight": 700,
-			"lure": 30,
-			"resilience": 12,
-			"control": 0.07
+			"lure": 70,
+			"resilience": 17,
+			"control": 0.17
 		},
 		"Wisdom Rod": {
 			"name": "Wisdom Rod",
@@ -8769,7 +8866,7 @@
 	"fish": {
 		"Abyss Dart": {
 			"name": "Abyss Dart",
-			"order": 367,
+			"order": 381,
 			"rarity": "Rare",
 			"weather": [
 				"Rain"
@@ -8789,7 +8886,7 @@
 		},
 		"Abyss Flicker": {
 			"name": "Abyss Flicker",
-			"order": 539,
+			"order": 544,
 			"rarity": "Mythical",
 			"weather": [
 				"Rain"
@@ -8809,7 +8906,7 @@
 		},
 		"Abyss Snapper": {
 			"name": "Abyss Snapper",
-			"order": 143,
+			"order": 151,
 			"rarity": "Uncommon",
 			"weather": [
 				"Foggy"
@@ -8828,7 +8925,7 @@
 		},
 		"Abyssacuda": {
 			"name": "Abyssacuda",
-			"order": 354,
+			"order": 373,
 			"rarity": "Rare",
 			"weather": [
 				"None"
@@ -8847,7 +8944,7 @@
 		},
 		"Abyssal Bearded Seadevil": {
 			"name": "Abyssal Bearded Seadevil",
-			"order": 180,
+			"order": 157,
 			"rarity": "Uncommon",
 			"weather": [
 				"None"
@@ -8866,7 +8963,7 @@
 		},
 		"Abyssal Devourer": {
 			"name": "Abyssal Devourer",
-			"order": 508,
+			"order": 553,
 			"rarity": "Mythical",
 			"weather": [
 				"None"
@@ -8886,7 +8983,7 @@
 		},
 		"Abyssal Goliath": {
 			"name": "Abyssal Goliath",
-			"order": 544,
+			"order": 575,
 			"rarity": "Mythical",
 			"weather": [
 				"None"
@@ -8906,7 +9003,7 @@
 		},
 		"Abyssal King": {
 			"name": "Abyssal King",
-			"order": 459,
+			"order": 478,
 			"rarity": "Legendary",
 			"weather": [
 				"None"
@@ -8926,7 +9023,7 @@
 		},
 		"Abyssal Maw": {
 			"name": "Abyssal Maw",
-			"order": 710,
+			"order": 738,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -8945,7 +9042,7 @@
 		},
 		"Abyssborn Monstrosity": {
 			"name": "Abyssborn Monstrosity",
-			"order": 612,
+			"order": 641,
 			"rarity": "Secret",
 			"weather": [
 				"Rain"
@@ -8965,7 +9062,7 @@
 		},
 		"Acanthodii": {
 			"name": "Acanthodii",
-			"order": 288,
+			"order": 299,
 			"rarity": "Unusual",
 			"weather": [
 				"None"
@@ -8983,7 +9080,7 @@
 		},
 		"Algae Lurker": {
 			"name": "Algae Lurker",
-			"order": 351,
+			"order": 362,
 			"rarity": "Rare",
 			"weather": [
 				"Clear"
@@ -9003,7 +9100,7 @@
 		},
 		"Alligator": {
 			"name": "Alligator",
-			"order": 445,
+			"order": 464,
 			"rarity": "Legendary",
 			"weather": [
 				"Foggy, Rain"
@@ -9023,7 +9120,7 @@
 		},
 		"Alligator Gar": {
 			"name": "Alligator Gar",
-			"order": 348,
+			"order": 411,
 			"rarity": "Rare",
 			"weather": [
 				"None"
@@ -9041,7 +9138,7 @@
 		},
 		"Amberjack": {
 			"name": "Amberjack",
-			"order": 173,
+			"order": 216,
 			"rarity": "Uncommon",
 			"weather": [
 				"Clear",
@@ -9061,7 +9158,7 @@
 		},
 		"Amblypterus": {
 			"name": "Amblypterus",
-			"order": 543,
+			"order": 566,
 			"rarity": "Mythical",
 			"weather": [
 				"None"
@@ -9080,7 +9177,7 @@
 		},
 		"Amethyst": {
 			"name": "Amethyst",
-			"order": 634,
+			"order": 664,
 			"rarity": "Gemstone",
 			"weather": [
 				"None"
@@ -9098,7 +9195,7 @@
 		},
 		"Anchovy": {
 			"name": "Anchovy",
-			"order": 108,
+			"order": 111,
 			"rarity": "Common",
 			"weather": [
 				"Clear"
@@ -9117,7 +9214,7 @@
 		},
 		"Ancient Algae": {
 			"name": "Ancient Algae",
-			"order": 665,
+			"order": 694,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -9136,7 +9233,7 @@
 		},
 		"Ancient Depth Serpent": {
 			"name": "Ancient Depth Serpent",
-			"order": 599,
+			"order": 624,
 			"rarity": "Exotic",
 			"weather": [
 				"None"
@@ -9156,7 +9253,7 @@
 		},
 		"Ancient Eel": {
 			"name": "Ancient Eel",
-			"order": 457,
+			"order": 479,
 			"rarity": "Legendary",
 			"weather": [
 				"None"
@@ -9177,7 +9274,7 @@
 		},
 		"Ancient Fragment": {
 			"name": "Ancient Fragment",
-			"order": 629,
+			"order": 659,
 			"rarity": "Fragment",
 			"weather": [
 				"None"
@@ -9196,7 +9293,7 @@
 		},
 		"Ancient Kraken": {
 			"name": "Ancient Kraken",
-			"order": 607,
+			"order": 635,
 			"rarity": "Secret",
 			"weather": [
 				"None"
@@ -9216,7 +9313,7 @@
 		},
 		"Ancient Lobster": {
 			"name": "Ancient Lobster",
-			"order": 560,
+			"order": 586,
 			"rarity": "Mythical",
 			"weather": [
 				"Foggy"
@@ -9236,7 +9333,7 @@
 		},
 		"Ancient Megalodon": {
 			"name": "Ancient Megalodon",
-			"order": 593,
+			"order": 620,
 			"rarity": "Exotic",
 			"weather": [
 				"None"
@@ -9256,7 +9353,7 @@
 		},
 		"Ancient Orca": {
 			"name": "Ancient Orca",
-			"order": 601,
+			"order": 628,
 			"rarity": "Secret",
 			"weather": [
 				"None"
@@ -9275,7 +9372,7 @@
 		},
 		"Ancient Serpent Skull": {
 			"name": "Ancient Serpent Skull",
-			"order": 700,
+			"order": 775,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -9295,7 +9392,7 @@
 		},
 		"Ancient Serpent Spine": {
 			"name": "Ancient Serpent Spine",
-			"order": 718,
+			"order": 756,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -9315,7 +9412,7 @@
 		},
 		"Ancient Wood": {
 			"name": "Ancient Wood",
-			"order": 448,
+			"order": 467,
 			"rarity": "Legendary",
 			"weather": [
 				"None"
@@ -9333,7 +9430,7 @@
 		},
 		"Angelfish": {
 			"name": "Angelfish",
-			"order": 281,
+			"order": 293,
 			"rarity": "Unusual",
 			"weather": [
 				"Clear"
@@ -9351,7 +9448,7 @@
 		},
 		"Anglerfish": {
 			"name": "Anglerfish",
-			"order": 356,
+			"order": 377,
 			"rarity": "Rare",
 			"weather": [
 				"Foggy"
@@ -9371,7 +9468,7 @@
 		},
 		"Anglers Lantern": {
 			"name": "Anglers Lantern",
-			"order": 582,
+			"order": 627,
 			"rarity": "Exotic",
 			"weather": [
 				"None"
@@ -9391,7 +9488,7 @@
 		},
 		"Anomalocaris": {
 			"name": "Anomalocaris",
-			"order": 208,
+			"order": 218,
 			"rarity": "Uncommon",
 			"weather": [
 				"None"
@@ -9410,7 +9507,7 @@
 		},
 		"Apex Leviathan": {
 			"name": "Apex Leviathan",
-			"order": 757,
+			"order": 787,
 			"rarity": "Apex",
 			"weather": [
 				"Foggy"
@@ -9428,7 +9525,7 @@
 		},
 		"Aqua Scribe": {
 			"name": "Aqua Scribe",
-			"order": 80,
+			"order": 85,
 			"rarity": "Common",
 			"weather": [
 				"Clear"
@@ -9447,7 +9544,7 @@
 		},
 		"Arapaima": {
 			"name": "Arapaima",
-			"order": 395,
+			"order": 413,
 			"rarity": "Rare",
 			"weather": [
 				"Rain",
@@ -9466,7 +9563,7 @@
 		},
 		"Arctic Char": {
 			"name": "Arctic Char",
-			"order": 114,
+			"order": 121,
 			"rarity": "Uncommon",
 			"weather": [
 				"None"
@@ -9485,7 +9582,7 @@
 		},
 		"Ashcloud Archerfish": {
 			"name": "Ashcloud Archerfish",
-			"order": 750,
+			"order": 781,
 			"rarity": "Limited",
 			"weather": [
 				"Foggy"
@@ -9504,7 +9601,7 @@
 		},
 		"Ashscale Minnow": {
 			"name": "Ashscale Minnow",
-			"order": 66,
+			"order": 71,
 			"rarity": "Common",
 			"weather": [
 				"Foggy"
@@ -9524,7 +9621,7 @@
 		},
 		"Azure Prowler": {
 			"name": "Azure Prowler",
-			"order": 437,
+			"order": 455,
 			"rarity": "Legendary",
 			"weather": [
 				"Clear"
@@ -9544,7 +9641,7 @@
 		},
 		"Azure Studfish": {
 			"name": "Azure Studfish",
-			"order": 725,
+			"order": 757,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -9562,7 +9659,7 @@
 		},
 		"Azureback Haddock School": {
 			"name": "Azureback Haddock School",
-			"order": 184,
+			"order": 192,
 			"rarity": "Uncommon",
 			"weather": [
 				"Foggy"
@@ -9582,7 +9679,7 @@
 		},
 		"Atlantean Alchemist": {
 			"name": "Atlantean Alchemist",
-			"order": 327,
+			"order": 340,
 			"rarity": "Rare",
 			"weather": [
 				"Clear"
@@ -9601,7 +9698,7 @@
 		},
 		"Atlantean Anchovy": {
 			"name": "Atlantean Anchovy",
-			"order": 92,
+			"order": 97,
 			"rarity": "Common",
 			"weather": [
 				"None"
@@ -9619,7 +9716,7 @@
 		},
 		"Atlantean Guardian": {
 			"name": "Atlantean Guardian",
-			"order": 217,
+			"order": 229,
 			"rarity": "Unusual",
 			"weather": [
 				"None"
@@ -9637,7 +9734,7 @@
 		},
 		"Atlantean Sardine": {
 			"name": "Atlantean Sardine",
-			"order": 82,
+			"order": 87,
 			"rarity": "Common",
 			"weather": [
 				"None"
@@ -9656,7 +9753,7 @@
 		},
 		"Aurora Pearl": {
 			"name": "Aurora Pearl",
-			"order": 552,
+			"order": 582,
 			"rarity": "Mythical",
 			"weather": [
 				"None"
@@ -9674,7 +9771,7 @@
 		},
 		"Aurora Trout": {
 			"name": "Aurora Trout",
-			"order": 528,
+			"order": 551,
 			"rarity": "Mythical",
 			"weather": [
 				"Clear"
@@ -9694,7 +9791,7 @@
 		},
 		"Axolotl": {
 			"name": "Axolotl",
-			"order": 467,
+			"order": 486,
 			"rarity": "Legendary",
 			"weather": [
 				"None"
@@ -9713,9 +9810,29 @@
 			"prog_speed": -0.1,
 			"base_chance": 0.05
 		},
+		"Baby Bloop Fish": {
+			"name": "Baby Bloop Fish",
+			"order": 636,
+			"rarity": "Secret",
+			"weather": [
+				"Rainy"
+			],
+			"time": "Night",
+			"seasons": [
+				"Autumn"
+			],
+			"bait": "Luminous Larva",
+			"min_weight": 50,
+			"max_weight": 200,
+			"base_value": 100000,
+			"xp": 80000,
+			"resilience": 20,
+			"prog_speed": -0.9,
+			"base_chance": 1
+		},
 		"Baby Pond Emperor": {
 			"name": "Baby Pond Emperor",
-			"order": 569,
+			"order": 595,
 			"rarity": "Exotic",
 			"weather": [
 				"Clear"
@@ -9734,7 +9851,7 @@
 		},
 		"Bait Crate": {
 			"name": "Bait Crate",
-			"order": 207,
+			"order": 214,
 			"rarity": "Uncommon",
 			"weather": [
 				"None"
@@ -9753,7 +9870,7 @@
 		},
 		"Banana": {
 			"name": "Banana",
-			"order": 608,
+			"order": 637,
 			"rarity": "Secret",
 			"weather": [
 				"Rain"
@@ -9772,7 +9889,7 @@
 		},
 		"Banditfish": {
 			"name": "Banditfish",
-			"order": 403,
+			"order": 421,
 			"rarity": "Rare",
 			"weather": [
 				"None"
@@ -9790,7 +9907,7 @@
 		},
 		"Barbed Shark": {
 			"name": "Barbed Shark",
-			"order": 486,
+			"order": 454,
 			"rarity": "Legendary",
 			"weather": [
 				"None"
@@ -9809,7 +9926,7 @@
 		},
 		"Barracuda": {
 			"name": "Barracuda",
-			"order": 194,
+			"order": 204,
 			"rarity": "Uncommon",
 			"weather": [
 				"None"
@@ -9828,7 +9945,7 @@
 		},
 		"Barracuda's Spine": {
 			"name": "Barracuda's Spine",
-			"order": 658,
+			"order": 687,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -9847,7 +9964,7 @@
 		},
 		"Barreleye Fish": {
 			"name": "Barreleye Fish",
-			"order": 514,
+			"order": 535,
 			"rarity": "Mythical",
 			"weather": [
 				"None"
@@ -9885,7 +10002,7 @@
 		},
 		"Basalt Pike": {
 			"name": "Basalt Pike",
-			"order": 272,
+			"order": 283,
 			"rarity": "Unusual",
 			"weather": [
 				"Rain"
@@ -9905,7 +10022,7 @@
 		},
 		"Basic Present": {
 			"name": "Basic Present",
-			"order": 723,
+			"order": 726,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -9924,7 +10041,7 @@
 		},
 		"Bearded Toadfish": {
 			"name": "Bearded Toadfish",
-			"order": 428,
+			"order": 443,
 			"rarity": "Legendary",
 			"weather": [
 				"None"
@@ -9943,7 +10060,7 @@
 		},
 		"Beluga": {
 			"name": "Beluga",
-			"order": 656,
+			"order": 685,
 			"rarity": "Limited",
 			"weather": [
 				"Clear"
@@ -9964,7 +10081,7 @@
 		},
 		"Bigfin Squid": {
 			"name": "Bigfin Squid",
-			"order": 502,
+			"order": 523,
 			"rarity": "Mythical",
 			"weather": [
 				"Foggy"
@@ -9984,7 +10101,7 @@
 		},
 		"Birgeria": {
 			"name": "Birgeria",
-			"order": 292,
+			"order": 305,
 			"rarity": "Unusual",
 			"weather": [
 				"None"
@@ -10003,7 +10120,7 @@
 		},
 		"Black Dragon Fish": {
 			"name": "Black Dragon Fish",
-			"order": 382,
+			"order": 422,
 			"rarity": "Rare",
 			"weather": [
 				"None"
@@ -10020,9 +10137,29 @@
 			"resilience": 45,
 			"base_chance": 10
 		},
+		"Black Grouper": {
+			"name": "Black Grouper",
+			"order": 634,
+			"rarity": "Secret",
+			"weather": [
+				"Foggy"
+			],
+			"time": "Night",
+			"seasons": [
+				"Winter"
+			],
+			"bait": "Shark Head",
+			"min_weight": 5000,
+			"max_weight": 18000,
+			"base_value": 50000,
+			"xp": 20000,
+			"resilience": 1,
+			"prog_speed": -0.95,
+			"base_chance": 1
+		},
 		"Black Swallower": {
 			"name": "Black Swallower",
-			"order": 118,
+			"order": 126,
 			"rarity": "Uncommon",
 			"weather": [
 				"Rain"
@@ -10042,7 +10179,7 @@
 		},
 		"Black Veil Ray": {
 			"name": "Black Veil Ray",
-			"order": 736,
+			"order": 766,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -10059,7 +10196,7 @@
 		},
 		"Blackfish": {
 			"name": "Blackfish",
-			"order": 204,
+			"order": 171,
 			"rarity": "Uncommon",
 			"weather": [
 				"None"
@@ -10078,7 +10215,7 @@
 		},
 		"Blarney McBreeze": {
 			"name": "Blarney McBreeze",
-			"order": 679,
+			"order": 708,
 			"rarity": "Limited",
 			"weather": [
 				"Rain"
@@ -10097,7 +10234,7 @@
 		},
 		"Blazebelly": {
 			"name": "Blazebelly",
-			"order": 360,
+			"order": 372,
 			"rarity": "Rare",
 			"weather": [
 				"Clear"
@@ -10117,7 +10254,7 @@
 		},
 		"Blisterback Blenny": {
 			"name": "Blisterback Blenny",
-			"order": 511,
+			"order": 532,
 			"rarity": "Mythical",
 			"weather": [
 				"Clear"
@@ -10137,7 +10274,7 @@
 		},
 		"Blistered Eel": {
 			"name": "Blistered Eel",
-			"order": 676,
+			"order": 705,
 			"rarity": "Limited",
 			"weather": [
 				"Windy"
@@ -10155,7 +10292,7 @@
 		},
 		"Blisterfish": {
 			"name": "Blisterfish",
-			"order": 45,
+			"order": 48,
 			"rarity": "Common",
 			"weather": [
 				"Rain"
@@ -10175,7 +10312,7 @@
 		},
 		"Blobfish School": {
 			"name": "Blobfish School",
-			"order": 573,
+			"order": 600,
 			"rarity": "Exotic",
 			"weather": [
 				"Foggy"
@@ -10195,7 +10332,7 @@
 		},
 		"Bloodscript Eel": {
 			"name": "Bloodscript Eel",
-			"order": 756,
+			"order": 786,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -10214,7 +10351,7 @@
 		},
 		"Bloomtail": {
 			"name": "Bloomtail",
-			"order": 504,
+			"order": 525,
 			"rarity": "Mythical",
 			"weather": [
 				"Rain"
@@ -10232,9 +10369,47 @@
 			"prog_speed": -0.8,
 			"base_chance": 18
 		},
+		"Bloop Cosmetic Crate": {
+			"name": "Bloop Cosmetic Crate",
+			"order": 427,
+			"rarity": "Legendary",
+			"weather": [
+				"None"
+			],
+			"seasons": [
+				"None"
+			],
+			"bait": "Magnet",
+			"is_crate": true,
+			"min_weight": 10,
+			"max_weight": 10.1,
+			"base_value": 80,
+			"xp": 20,
+			"resilience": 100,
+			"base_chance": 100
+		},
+		"Bloop Fish": {
+			"name": "Bloop Fish",
+			"order": 788,
+			"rarity": "Apex",
+			"weather": [
+				"Rainy"
+			],
+			"time": "Night",
+			"seasons": [
+				"Autumn"
+			],
+			"bait": "Luminous Larva",
+			"min_weight": 80000,
+			"max_weight": 240000,
+			"base_value": 800000,
+			"xp": 2200000,
+			"resilience": -30,
+			"base_chance": 1
+		},
 		"Blue Energy Crystal": {
 			"name": "Blue Energy Crystal",
-			"order": 566,
+			"order": 591,
 			"rarity": "Mythical",
 			"weather": [
 				"None"
@@ -10252,7 +10427,7 @@
 		},
 		"Blue Foamtail": {
 			"name": "Blue Foamtail",
-			"order": 174,
+			"order": 167,
 			"rarity": "Uncommon",
 			"weather": [
 				"Windy"
@@ -10272,7 +10447,7 @@
 		},
 		"Blue Langanose": {
 			"name": "Blue Langanose",
-			"order": 219,
+			"order": 231,
 			"rarity": "Unusual",
 			"weather": [
 				"Clear"
@@ -10291,7 +10466,7 @@
 		},
 		"Blue Tang": {
 			"name": "Blue Tang",
-			"order": 203,
+			"order": 211,
 			"rarity": "Uncommon",
 			"weather": [
 				"None"
@@ -10311,7 +10486,7 @@
 		},
 		"Blue Whale": {
 			"name": "Blue Whale",
-			"order": 588,
+			"order": 608,
 			"rarity": "Exotic",
 			"weather": [
 				"None"
@@ -10330,7 +10505,7 @@
 		},
 		"Bluefin Tuna": {
 			"name": "Bluefin Tuna",
-			"order": 314,
+			"order": 327,
 			"rarity": "Rare",
 			"weather": [
 				"None"
@@ -10367,7 +10542,7 @@
 		},
 		"Bluefish": {
 			"name": "Bluefish",
-			"order": 231,
+			"order": 243,
 			"rarity": "Unusual",
 			"weather": [
 				"Clear"
@@ -10386,7 +10561,7 @@
 		},
 		"Bluegem Angelfish": {
 			"name": "Bluegem Angelfish",
-			"order": 51,
+			"order": 47,
 			"rarity": "Common",
 			"weather": [
 				"None"
@@ -10404,7 +10579,7 @@
 		},
 		"Bluegill": {
 			"name": "Bluegill",
-			"order": 31,
+			"order": 32,
 			"rarity": "Common",
 			"weather": [
 				"Clear"
@@ -10421,9 +10596,29 @@
 			"resilience": 90,
 			"base_chance": 85
 		},
+		"Bluehead Wrasse": {
+			"name": "Bluehead Wrasse",
+			"order": 181,
+			"rarity": "Uncommon",
+			"weather": [
+				"Clear"
+			],
+			"time": "Day",
+			"seasons": [
+				"Summer"
+			],
+			"bait": "Lushrooms",
+			"min_weight": 0.2,
+			"max_weight": 0.8,
+			"base_value": 280,
+			"xp": 140,
+			"resilience": 75,
+			"prog_speed": 0.1,
+			"base_chance": 85
+		},
 		"Boarfish": {
 			"name": "Boarfish",
-			"order": 227,
+			"order": 239,
 			"rarity": "Unusual",
 			"weather": [
 				"Rain"
@@ -10443,7 +10638,7 @@
 		},
 		"Bog Lantern Goby": {
 			"name": "Bog Lantern Goby",
-			"order": 414,
+			"order": 432,
 			"rarity": "Legendary",
 			"weather": [
 				"Foggy"
@@ -10462,7 +10657,7 @@
 		},
 		"Bogscale": {
 			"name": "Bogscale",
-			"order": 71,
+			"order": 80,
 			"rarity": "Common",
 			"weather": [
 				"Foggy"
@@ -10500,7 +10695,7 @@
 		},
 		"Bone Lanternfish": {
 			"name": "Bone Lanternfish",
-			"order": 751,
+			"order": 754,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -10535,7 +10730,7 @@
 		},
 		"Boots": {
 			"name": "Boots",
-			"order": 572,
+			"order": 599,
 			"rarity": "Exotic",
 			"weather": [
 				"None"
@@ -10555,7 +10750,7 @@
 		},
 		"Borealis Snapper": {
 			"name": "Borealis Snapper",
-			"order": 466,
+			"order": 511,
 			"rarity": "Legendary",
 			"weather": [
 				"Clear"
@@ -10575,7 +10770,7 @@
 		},
 		"Bowfin": {
 			"name": "Bowfin",
-			"order": 154,
+			"order": 219,
 			"rarity": "Uncommon",
 			"weather": [
 				"Rain"
@@ -10595,7 +10790,7 @@
 		},
 		"Brackscale": {
 			"name": "Brackscale",
-			"order": 132,
+			"order": 140,
 			"rarity": "Uncommon",
 			"weather": [
 				"Rain"
@@ -10614,7 +10809,7 @@
 		},
 		"Breaker Moth": {
 			"name": "Breaker Moth",
-			"order": 444,
+			"order": 471,
 			"rarity": "Legendary",
 			"weather": [
 				"Foggy"
@@ -10634,7 +10829,7 @@
 		},
 		"Bream": {
 			"name": "Bream",
-			"order": 91,
+			"order": 96,
 			"rarity": "Common",
 			"weather": [
 				"Foggy"
@@ -10654,7 +10849,7 @@
 		},
 		"Brickhorse": {
 			"name": "Brickhorse",
-			"order": 694,
+			"order": 720,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -10672,7 +10867,7 @@
 		},
 		"Brimstone Angler": {
 			"name": "Brimstone Angler",
-			"order": 513,
+			"order": 534,
 			"rarity": "Mythical",
 			"weather": [
 				"Foggy"
@@ -10692,7 +10887,7 @@
 		},
 		"Brine Phantom": {
 			"name": "Brine Phantom",
-			"order": 427,
+			"order": 451,
 			"rarity": "Legendary",
 			"weather": [
 				"Foggy"
@@ -10712,7 +10907,7 @@
 		},
 		"Brine Shrimp": {
 			"name": "Brine Shrimp",
-			"order": 186,
+			"order": 195,
 			"rarity": "Uncommon",
 			"weather": [
 				"None"
@@ -10731,7 +10926,7 @@
 		},
 		"Buccaneer Barracuda": {
 			"name": "Buccaneer Barracuda",
-			"order": 150,
+			"order": 161,
 			"rarity": "Uncommon",
 			"weather": [
 				"None"
@@ -10750,7 +10945,7 @@
 		},
 		"Bull Shark": {
 			"name": "Bull Shark",
-			"order": 481,
+			"order": 503,
 			"rarity": "Legendary",
 			"weather": [
 				"Rain",
@@ -10769,7 +10964,7 @@
 		},
 		"Burbot": {
 			"name": "Burbot",
-			"order": 121,
+			"order": 129,
 			"rarity": "Uncommon",
 			"weather": [
 				"Foggy"
@@ -10787,7 +10982,7 @@
 		},
 		"Burnt Betta": {
 			"name": "Burnt Betta",
-			"order": 681,
+			"order": 710,
 			"rarity": "Limited",
 			"weather": [
 				"Windy"
@@ -10806,7 +11001,7 @@
 		},
 		"Butterflyfish": {
 			"name": "Butterflyfish",
-			"order": 131,
+			"order": 139,
 			"rarity": "Uncommon",
 			"weather": [
 				"Clear",
@@ -10826,7 +11021,7 @@
 		},
 		"Candy Cane Carp": {
 			"name": "Candy Cane Carp",
-			"order": 743,
+			"order": 774,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -10845,7 +11040,7 @@
 		},
 		"Candy Fish": {
 			"name": "Candy Fish",
-			"order": 724,
+			"order": 753,
 			"rarity": "Limited",
 			"weather": [
 				"Clear"
@@ -10863,7 +11058,7 @@
 		},
 		"Canopy Tetra": {
 			"name": "Canopy Tetra",
-			"order": 171,
+			"order": 173,
 			"rarity": "Uncommon",
 			"weather": [
 				"Clear"
@@ -10883,7 +11078,7 @@
 		},
 		"Captain's Goldfish": {
 			"name": "Captain's Goldfish",
-			"order": 524,
+			"order": 548,
 			"rarity": "Mythical",
 			"weather": [
 				"None"
@@ -10902,7 +11097,7 @@
 		},
 		"Capybass": {
 			"name": "Capybass",
-			"order": 684,
+			"order": 713,
 			"rarity": "Limited",
 			"weather": [
 				"Clear"
@@ -10921,7 +11116,7 @@
 		},
 		"Carbon Crate": {
 			"name": "Carbon Crate",
-			"order": 386,
+			"order": 406,
 			"rarity": "Rare",
 			"weather": [
 				"None"
@@ -10940,7 +11135,7 @@
 		},
 		"Cardinal Studfish": {
 			"name": "Cardinal Studfish",
-			"order": 693,
+			"order": 719,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -10958,7 +11153,7 @@
 		},
 		"Carp": {
 			"name": "Carp",
-			"order": 168,
+			"order": 180,
 			"rarity": "Uncommon",
 			"weather": [
 				"None"
@@ -10976,7 +11171,7 @@
 		},
 		"Carrot Eel": {
 			"name": "Carrot Eel",
-			"order": 117,
+			"order": 125,
 			"rarity": "Uncommon",
 			"weather": [
 				"Windy"
@@ -10996,7 +11191,7 @@
 		},
 		"Carrot Goldfish": {
 			"name": "Carrot Goldfish",
-			"order": 95,
+			"order": 101,
 			"rarity": "Common",
 			"weather": [
 				"Clear"
@@ -11016,7 +11211,7 @@
 		},
 		"Carrot Minnow": {
 			"name": "Carrot Minnow",
-			"order": 137,
+			"order": 145,
 			"rarity": "Uncommon",
 			"weather": [
 				"Foggy"
@@ -11036,7 +11231,7 @@
 		},
 		"Carrot Pufferfish": {
 			"name": "Carrot Pufferfish",
-			"order": 99,
+			"order": 104,
 			"rarity": "Common",
 			"weather": [
 				"Rainy"
@@ -11056,7 +11251,7 @@
 		},
 		"Carrot Salmon": {
 			"name": "Carrot Salmon",
-			"order": 336,
+			"order": 348,
 			"rarity": "Rare",
 			"weather": [
 				"Clear"
@@ -11076,7 +11271,7 @@
 		},
 		"Carrot Shark": {
 			"name": "Carrot Shark",
-			"order": 579,
+			"order": 607,
 			"rarity": "Exotic",
 			"weather": [
 				"Windy"
@@ -11096,7 +11291,7 @@
 		},
 		"Carrot Snapper": {
 			"name": "Carrot Snapper",
-			"order": 500,
+			"order": 521,
 			"rarity": "Mythical",
 			"weather": [
 				"Foggy"
@@ -11116,7 +11311,7 @@
 		},
 		"Carrot Turtle": {
 			"name": "Carrot Turtle",
-			"order": 451,
+			"order": 469,
 			"rarity": "Legendary",
 			"weather": [
 				"Clear"
@@ -11136,7 +11331,7 @@
 		},
 		"Catfish": {
 			"name": "Catfish",
-			"order": 320,
+			"order": 333,
 			"rarity": "Rare",
 			"weather": [
 				"Foggy"
@@ -11156,7 +11351,7 @@
 		},
 		"Celestial Koi": {
 			"name": "Celestial Koi",
-			"order": 551,
+			"order": 567,
 			"rarity": "Mythical",
 			"weather": [
 				"Rain"
@@ -11175,7 +11370,7 @@
 		},
 		"Chasm Leech": {
 			"name": "Chasm Leech",
-			"order": 536,
+			"order": 560,
 			"rarity": "Mythical",
 			"weather": [
 				"Foggy"
@@ -11194,7 +11389,7 @@
 		},
 		"Chillback Whitefish": {
 			"name": "Chillback Whitefish",
-			"order": 284,
+			"order": 296,
 			"rarity": "Unusual",
 			"weather": [
 				"None"
@@ -11213,7 +11408,7 @@
 		},
 		"Chillfin Chimaera": {
 			"name": "Chillfin Chimaera",
-			"order": 499,
+			"order": 520,
 			"rarity": "Mythical",
 			"weather": [
 				"None"
@@ -11233,7 +11428,7 @@
 		},
 		"Chillfin Herring": {
 			"name": "Chillfin Herring",
-			"order": 369,
+			"order": 391,
 			"rarity": "Rare",
 			"weather": [
 				"None"
@@ -11252,7 +11447,7 @@
 		},
 		"Chillshadow Chub": {
 			"name": "Chillshadow Chub",
-			"order": 156,
+			"order": 197,
 			"rarity": "Uncommon",
 			"weather": [
 				"Clear"
@@ -11271,7 +11466,7 @@
 		},
 		"Chinfish": {
 			"name": "Chinfish",
-			"order": 189,
+			"order": 200,
 			"rarity": "Uncommon",
 			"weather": [
 				"Rain"
@@ -11290,7 +11485,7 @@
 		},
 		"Chinook Salmon": {
 			"name": "Chinook Salmon",
-			"order": 291,
+			"order": 304,
 			"rarity": "Unusual",
 			"weather": [
 				"None"
@@ -11308,7 +11503,7 @@
 		},
 		"Chronos Deep Swimmer": {
 			"name": "Chronos Deep Swimmer",
-			"order": 282,
+			"order": 294,
 			"rarity": "Unusual",
 			"weather": [
 				"None"
@@ -11326,7 +11521,7 @@
 		},
 		"Chub": {
 			"name": "Chub",
-			"order": 67,
+			"order": 91,
 			"rarity": "Common",
 			"weather": [
 				"None"
@@ -11346,7 +11541,7 @@
 		},
 		"Cinder Carp": {
 			"name": "Cinder Carp",
-			"order": 711,
+			"order": 740,
 			"rarity": "Limited",
 			"weather": [
 				"Clear"
@@ -11364,7 +11559,7 @@
 		},
 		"Cinder Dart": {
 			"name": "Cinder Dart",
-			"order": 420,
+			"order": 438,
 			"rarity": "Legendary",
 			"weather": [
 				"Foggy"
@@ -11383,7 +11578,7 @@
 		},
 		"Cladoselache": {
 			"name": "Cladoselache",
-			"order": 98,
+			"order": 103,
 			"rarity": "Common",
 			"weather": [
 				"None"
@@ -11402,7 +11597,7 @@
 		},
 		"Clam": {
 			"name": "Clam",
-			"order": 239,
+			"order": 251,
 			"rarity": "Unusual",
 			"weather": [
 				"Foggy"
@@ -11420,7 +11615,7 @@
 		},
 		"Claw Gill": {
 			"name": "Claw Gill",
-			"order": 744,
+			"order": 776,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -11439,7 +11634,7 @@
 		},
 		"Clown Brickfish": {
 			"name": "Clown Brickfish",
-			"order": 654,
+			"order": 683,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -11455,9 +11650,28 @@
 			"resilience": 95,
 			"base_chance": 125
 		},
+		"Clowned Triggerfish": {
+			"name": "Clowned Triggerfish",
+			"order": 45,
+			"rarity": "Common",
+			"weather": [
+				"Clear"
+			],
+			"time": "Day",
+			"seasons": [
+				"Summer"
+			],
+			"bait": "Gale Grub",
+			"min_weight": 1.4,
+			"max_weight": 5.5,
+			"base_value": 200,
+			"xp": 100,
+			"resilience": 100,
+			"base_chance": 100
+		},
 		"Clownfish": {
 			"name": "Clownfish",
-			"order": 206,
+			"order": 212,
 			"rarity": "Uncommon",
 			"weather": [
 				"Foggy"
@@ -11476,7 +11690,7 @@
 		},
 		"Cluckfin": {
 			"name": "Cluckfin",
-			"order": 635,
+			"order": 665,
 			"rarity": "Limited",
 			"weather": [
 				"Clear"
@@ -11493,9 +11707,28 @@
 			"prog_speed": 0.05,
 			"base_chance": 100
 		},
+		"Cobalt Angelfish": {
+			"name": "Cobalt Angelfish",
+			"order": 123,
+			"rarity": "Uncommon",
+			"weather": [
+				"Rainy"
+			],
+			"time": "Night",
+			"seasons": [
+				"Winter"
+			],
+			"bait": "Worm",
+			"min_weight": 3,
+			"max_weight": 9,
+			"base_value": 500,
+			"xp": 200,
+			"resilience": 60,
+			"base_chance": 45
+		},
 		"Cobia": {
 			"name": "Cobia",
-			"order": 319,
+			"order": 332,
 			"rarity": "Rare",
 			"weather": [
 				"Rain"
@@ -11514,7 +11747,7 @@
 		},
 		"Cockatoo Squid": {
 			"name": "Cockatoo Squid",
-			"order": 261,
+			"order": 275,
 			"rarity": "Unusual",
 			"weather": [
 				"None"
@@ -11534,7 +11767,7 @@
 		},
 		"Cod": {
 			"name": "Cod",
-			"order": 210,
+			"order": 217,
 			"rarity": "Uncommon",
 			"weather": [
 				"Foggy"
@@ -11553,7 +11786,7 @@
 		},
 		"Coelacanth": {
 			"name": "Coelacanth",
-			"order": 374,
+			"order": 394,
 			"rarity": "Rare",
 			"weather": [
 				"Clear"
@@ -11573,7 +11806,7 @@
 		},
 		"Coin Piranha": {
 			"name": "Coin Piranha",
-			"order": 344,
+			"order": 356,
 			"rarity": "Rare",
 			"weather": [
 				"None"
@@ -11592,7 +11825,7 @@
 		},
 		"Coin Squid": {
 			"name": "Coin Squid",
-			"order": 257,
+			"order": 265,
 			"rarity": "Unusual",
 			"weather": [
 				"None"
@@ -11611,7 +11844,7 @@
 		},
 		"Coin Triggerfish": {
 			"name": "Coin Triggerfish",
-			"order": 55,
+			"order": 65,
 			"rarity": "Common",
 			"weather": [
 				"None"
@@ -11629,7 +11862,7 @@
 		},
 		"Colossal Carp": {
 			"name": "Colossal Carp",
-			"order": 192,
+			"order": 193,
 			"rarity": "Uncommon",
 			"weather": [
 				"None"
@@ -11648,7 +11881,7 @@
 		},
 		"Colossal Saccopharynx": {
 			"name": "Colossal Saccopharynx",
-			"order": 179,
+			"order": 176,
 			"rarity": "Uncommon",
 			"weather": [
 				"Windy"
@@ -11667,7 +11900,7 @@
 		},
 		"Colossal Squid": {
 			"name": "Colossal Squid",
-			"order": 519,
+			"order": 540,
 			"rarity": "Mythical",
 			"weather": [
 				"Foggy"
@@ -11687,7 +11920,7 @@
 		},
 		"Column Crawler": {
 			"name": "Column Crawler",
-			"order": 84,
+			"order": 72,
 			"rarity": "Common",
 			"weather": [
 				"None"
@@ -11705,7 +11938,7 @@
 		},
 		"Common Crate": {
 			"name": "Common Crate",
-			"order": 185,
+			"order": 194,
 			"rarity": "Uncommon",
 			"weather": [
 				"None"
@@ -11722,9 +11955,28 @@
 			"resilience": 120,
 			"base_chance": 17
 		},
+		"Coney Grouper": {
+			"name": "Coney Grouper",
+			"order": 28,
+			"rarity": "Common",
+			"weather": [
+				"Windy"
+			],
+			"time": "Day",
+			"seasons": [
+				"Spring"
+			],
+			"bait": "Insect",
+			"min_weight": 14,
+			"max_weight": 55,
+			"base_value": 180,
+			"xp": 90,
+			"resilience": 105,
+			"base_chance": 110
+		},
 		"Confetti Shark": {
 			"name": "Confetti Shark",
-			"order": 705,
+			"order": 733,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -11742,7 +11994,7 @@
 		},
 		"Cookie": {
 			"name": "Cookie",
-			"order": 722,
+			"order": 750,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -11760,7 +12012,7 @@
 		},
 		"Cookiecutter Shark": {
 			"name": "Cookiecutter Shark",
-			"order": 397,
+			"order": 416,
 			"rarity": "Rare",
 			"weather": [
 				"Clear",
@@ -11781,7 +12033,7 @@
 		},
 		"Coral Chromis": {
 			"name": "Coral Chromis",
-			"order": 94,
+			"order": 100,
 			"rarity": "Common",
 			"weather": [
 				"None"
@@ -11800,7 +12052,7 @@
 		},
 		"Coral Emperor": {
 			"name": "Coral Emperor",
-			"order": 423,
+			"order": 444,
 			"rarity": "Legendary",
 			"weather": [
 				"None"
@@ -11820,7 +12072,7 @@
 		},
 		"Coral Geode": {
 			"name": "Coral Geode",
-			"order": 177,
+			"order": 188,
 			"rarity": "Uncommon",
 			"weather": [
 				"None"
@@ -11839,7 +12091,7 @@
 		},
 		"Coral Guard": {
 			"name": "Coral Guard",
-			"order": 158,
+			"order": 168,
 			"rarity": "Uncommon",
 			"weather": [
 				"None"
@@ -11858,7 +12110,7 @@
 		},
 		"Coralwing Guppy School": {
 			"name": "Coralwing Guppy School",
-			"order": 325,
+			"order": 338,
 			"rarity": "Rare",
 			"weather": [
 				"Clear"
@@ -11878,7 +12130,7 @@
 		},
 		"Corsair Grouper": {
 			"name": "Corsair Grouper",
-			"order": 90,
+			"order": 67,
 			"rarity": "Common",
 			"weather": [
 				"None"
@@ -11898,7 +12150,7 @@
 		},
 		"Countdown Perch": {
 			"name": "Countdown Perch",
-			"order": 715,
+			"order": 743,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -11916,7 +12168,7 @@
 		},
 		"Crab": {
 			"name": "Crab",
-			"order": 119,
+			"order": 127,
 			"rarity": "Uncommon",
 			"weather": [
 				"None"
@@ -11935,7 +12187,7 @@
 		},
 		"Crab Stud": {
 			"name": "Crab Stud",
-			"order": 737,
+			"order": 767,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -11953,7 +12205,7 @@
 		},
 		"Cragscale": {
 			"name": "Cragscale",
-			"order": 359,
+			"order": 371,
 			"rarity": "Rare",
 			"weather": [
 				"Foggy"
@@ -11973,7 +12225,7 @@
 		},
 		"Crawling Angler": {
 			"name": "Crawling Angler",
-			"order": 353,
+			"order": 366,
 			"rarity": "Rare",
 			"weather": [
 				"Foggy"
@@ -11993,7 +12245,7 @@
 		},
 		"Crescent Madtom": {
 			"name": "Crescent Madtom",
-			"order": 349,
+			"order": 365,
 			"rarity": "Rare",
 			"weather": [
 				"Rain"
@@ -12012,7 +12264,7 @@
 		},
 		"Crestscale": {
 			"name": "Crestscale",
-			"order": 164,
+			"order": 177,
 			"rarity": "Uncommon",
 			"weather": [
 				"Windy"
@@ -12031,7 +12283,7 @@
 		},
 		"Crocokoi": {
 			"name": "Crocokoi",
-			"order": 754,
+			"order": 784,
 			"rarity": "Limited",
 			"weather": [
 				"Foggy"
@@ -12050,7 +12302,7 @@
 		},
 		"Crown Bass": {
 			"name": "Crown Bass",
-			"order": 462,
+			"order": 491,
 			"rarity": "Legendary",
 			"weather": [
 				"Foggy"
@@ -12070,7 +12322,7 @@
 		},
 		"Crowned Anglerfish": {
 			"name": "Crowned Anglerfish",
-			"order": 575,
+			"order": 602,
 			"rarity": "Exotic",
 			"weather": [
 				"Foggy"
@@ -12091,7 +12343,7 @@
 		},
 		"Crowned Royal Gramma": {
 			"name": "Crowned Royal Gramma",
-			"order": 32,
+			"order": 33,
 			"rarity": "Common",
 			"weather": [
 				"None"
@@ -12109,7 +12361,7 @@
 		},
 		"Cryo Coelacanth": {
 			"name": "Cryo Coelacanth",
-			"order": 408,
+			"order": 424,
 			"rarity": "Rare",
 			"weather": [
 				"Clear"
@@ -12147,7 +12399,7 @@
 		},
 		"Crystal Carp": {
 			"name": "Crystal Carp",
-			"order": 661,
+			"order": 690,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -12166,7 +12418,7 @@
 		},
 		"Crystal Chorus": {
 			"name": "Crystal Chorus",
-			"order": 188,
+			"order": 199,
 			"rarity": "Uncommon",
 			"weather": [
 				"Clear"
@@ -12185,7 +12437,7 @@
 		},
 		"Crystal Corydoras": {
 			"name": "Crystal Corydoras",
-			"order": 436,
+			"order": 456,
 			"rarity": "Legendary",
 			"weather": [
 				"Clear"
@@ -12205,7 +12457,7 @@
 		},
 		"Crystal Wrasse": {
 			"name": "Crystal Wrasse",
-			"order": 274,
+			"order": 288,
 			"rarity": "Unusual",
 			"weather": [
 				"None"
@@ -12224,7 +12476,7 @@
 		},
 		"Crystallized Seadragon": {
 			"name": "Crystallized Seadragon",
-			"order": 587,
+			"order": 614,
 			"rarity": "Exotic",
 			"weather": [
 				"Windy"
@@ -12244,7 +12496,7 @@
 		},
 		"Cursed Eel": {
 			"name": "Cursed Eel",
-			"order": 365,
+			"order": 384,
 			"rarity": "Rare",
 			"weather": [
 				"Rain"
@@ -12264,7 +12516,7 @@
 		},
 		"Cursed Thread": {
 			"name": "Cursed Thread",
-			"order": 535,
+			"order": 558,
 			"rarity": "Mythical",
 			"weather": [
 				"Clear"
@@ -12284,7 +12536,7 @@
 		},
 		"Cutlass Fish": {
 			"name": "Cutlass Fish",
-			"order": 304,
+			"order": 318,
 			"rarity": "Unusual",
 			"weather": [
 				"None"
@@ -12303,7 +12555,7 @@
 		},
 		"Cyclone Mako": {
 			"name": "Cyclone Mako",
-			"order": 393,
+			"order": 414,
 			"rarity": "Rare",
 			"weather": [
 				"Windy"
@@ -12322,7 +12574,7 @@
 		},
 		"Cyclone Scorpionfish": {
 			"name": "Cyclone Scorpionfish",
-			"order": 329,
+			"order": 385,
 			"rarity": "Rare",
 			"weather": [
 				"Rain"
@@ -12341,7 +12593,7 @@
 		},
 		"Deep Behemoth": {
 			"name": "Deep Behemoth",
-			"order": 463,
+			"order": 481,
 			"rarity": "Legendary",
 			"weather": [
 				"None"
@@ -12361,7 +12613,7 @@
 		},
 		"Deep Crownfish": {
 			"name": "Deep Crownfish",
-			"order": 450,
+			"order": 468,
 			"rarity": "Legendary",
 			"weather": [
 				"Clear"
@@ -12380,7 +12632,7 @@
 		},
 		"Deep Emperor": {
 			"name": "Deep Emperor",
-			"order": 460,
+			"order": 482,
 			"rarity": "Legendary",
 			"weather": [
 				"None"
@@ -12400,7 +12652,7 @@
 		},
 		"Deep Freeze Devilfish": {
 			"name": "Deep Freeze Devilfish",
-			"order": 230,
+			"order": 242,
 			"rarity": "Unusual",
 			"weather": [
 				"Rain"
@@ -12418,7 +12670,7 @@
 		},
 		"Deep One": {
 			"name": "Deep One",
-			"order": 323,
+			"order": 336,
 			"rarity": "Rare",
 			"weather": [
 				"None"
@@ -12437,7 +12689,7 @@
 		},
 		"Deep Pearl": {
 			"name": "Deep Pearl",
-			"order": 413,
+			"order": 431,
 			"rarity": "Legendary",
 			"weather": [
 				"None"
@@ -12455,7 +12707,7 @@
 		},
 		"Deep Sea Fragment": {
 			"name": "Deep Sea Fragment",
-			"order": 626,
+			"order": 656,
 			"rarity": "Fragment",
 			"weather": [
 				"None"
@@ -12474,7 +12726,7 @@
 		},
 		"Deep-sea Dragonfish": {
 			"name": "Deep-sea Dragonfish",
-			"order": 39,
+			"order": 41,
 			"rarity": "Common",
 			"weather": [
 				"None"
@@ -12493,7 +12745,7 @@
 		},
 		"Deep-sea Hatchetfish": {
 			"name": "Deep-sea Hatchetfish",
-			"order": 111,
+			"order": 117,
 			"rarity": "Common",
 			"weather": [
 				"None"
@@ -12512,7 +12764,7 @@
 		},
 		"Deeplight Footballfish": {
 			"name": "Deeplight Footballfish",
-			"order": 332,
+			"order": 344,
 			"rarity": "Rare",
 			"weather": [
 				"Clear"
@@ -12530,7 +12782,7 @@
 		},
 		"Depth Drifter": {
 			"name": "Depth Drifter",
-			"order": 595,
+			"order": 621,
 			"rarity": "Exotic",
 			"weather": [
 				"Windy"
@@ -12549,7 +12801,7 @@
 		},
 		"Depth Lurker": {
 			"name": "Depth Lurker",
-			"order": 242,
+			"order": 254,
 			"rarity": "Unusual",
 			"weather": [
 				"Foggy"
@@ -12567,7 +12819,7 @@
 		},
 		"Depth Octopus": {
 			"name": "Depth Octopus",
-			"order": 237,
+			"order": 249,
 			"rarity": "Unusual",
 			"weather": [
 				"None"
@@ -12605,7 +12857,7 @@
 		},
 		"Diamond Discus": {
 			"name": "Diamond Discus",
-			"order": 178,
+			"order": 186,
 			"rarity": "Uncommon",
 			"weather": [
 				"Clear"
@@ -12624,7 +12876,7 @@
 		},
 		"Diplurus": {
 			"name": "Diplurus",
-			"order": 447,
+			"order": 466,
 			"rarity": "Legendary",
 			"weather": [
 				"None"
@@ -12641,9 +12893,28 @@
 			"resilience": 30,
 			"base_chance": 0.1
 		},
+		"Doctorfish Tang": {
+			"name": "Doctorfish Tang",
+			"order": 63,
+			"rarity": "Common",
+			"weather": [
+				"Clear"
+			],
+			"time": "Day",
+			"seasons": [
+				"Summer"
+			],
+			"bait": "Shrimp",
+			"min_weight": 3,
+			"max_weight": 9,
+			"base_value": 200,
+			"xp": 100,
+			"resilience": 100,
+			"base_chance": 100
+		},
 		"Dogefin": {
 			"name": "Dogefin",
-			"order": 617,
+			"order": 646,
 			"rarity": "Secret",
 			"weather": [
 				"Clear"
@@ -12663,7 +12934,7 @@
 		},
 		"Dolphin": {
 			"name": "Dolphin",
-			"order": 421,
+			"order": 439,
 			"rarity": "Legendary",
 			"weather": [
 				"Clear"
@@ -12684,7 +12955,7 @@
 		},
 		"Dreaming Aberration": {
 			"name": "Dreaming Aberration",
-			"order": 574,
+			"order": 601,
 			"rarity": "Exotic",
 			"weather": [
 				"Foggy"
@@ -12704,7 +12975,7 @@
 		},
 		"Drift Claw": {
 			"name": "Drift Claw",
-			"order": 59,
+			"order": 75,
 			"rarity": "Common",
 			"weather": [
 				"Rain"
@@ -12724,7 +12995,7 @@
 		},
 		"Driftfin": {
 			"name": "Driftfin",
-			"order": 328,
+			"order": 341,
 			"rarity": "Rare",
 			"weather": [
 				"Rain"
@@ -12744,7 +13015,7 @@
 		},
 		"Drifting Gildfin": {
 			"name": "Drifting Gildfin",
-			"order": 72,
+			"order": 81,
 			"rarity": "Common",
 			"weather": [
 				"Foggy"
@@ -12782,7 +13053,7 @@
 		},
 		"Duckfin Tuna": {
 			"name": "Duckfin Tuna",
-			"order": 674,
+			"order": 703,
 			"rarity": "Limited",
 			"weather": [
 				"Clear"
@@ -12801,7 +13072,7 @@
 		},
 		"Dumbo Octopus": {
 			"name": "Dumbo Octopus",
-			"order": 478,
+			"order": 499,
 			"rarity": "Legendary",
 			"weather": [
 				"Rain"
@@ -12820,7 +13091,7 @@
 		},
 		"Dunkleosteus": {
 			"name": "Dunkleosteus",
-			"order": 477,
+			"order": 501,
 			"rarity": "Legendary",
 			"weather": [
 				"None"
@@ -12840,7 +13111,7 @@
 		},
 		"Duskwave Herring School": {
 			"name": "Duskwave Herring School",
-			"order": 415,
+			"order": 433,
 			"rarity": "Legendary",
 			"weather": [
 				"Windy"
@@ -12860,7 +13131,7 @@
 		},
 		"Dweller Catfish": {
 			"name": "Dweller Catfish",
-			"order": 404,
+			"order": 351,
 			"rarity": "Rare",
 			"weather": [
 				"None"
@@ -12880,7 +13151,7 @@
 		},
 		"Earth Fragment": {
 			"name": "Earth Fragment",
-			"order": 628,
+			"order": 658,
 			"rarity": "Fragment",
 			"weather": [
 				"None"
@@ -12899,7 +13170,7 @@
 		},
 		"Echo Fisher": {
 			"name": "Echo Fisher",
-			"order": 183,
+			"order": 190,
 			"rarity": "Uncommon",
 			"weather": [
 				"Foggy"
@@ -12918,7 +13189,7 @@
 		},
 		"Echo Koi": {
 			"name": "Echo Koi",
-			"order": 479,
+			"order": 504,
 			"rarity": "Legendary",
 			"weather": [
 				"Clear"
@@ -12938,7 +13209,7 @@
 		},
 		"Eel": {
 			"name": "Eel",
-			"order": 289,
+			"order": 301,
 			"rarity": "Unusual",
 			"weather": [
 				"None"
@@ -12957,7 +13228,7 @@
 		},
 		"Eldritch Horror": {
 			"name": "Eldritch Horror",
-			"order": 376,
+			"order": 392,
 			"rarity": "Rare",
 			"weather": [
 				"None"
@@ -12976,7 +13247,7 @@
 		},
 		"Eldritch Spineback": {
 			"name": "Eldritch Spineback",
-			"order": 696,
+			"order": 727,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -12995,7 +13266,7 @@
 		},
 		"Ember Catfish": {
 			"name": "Ember Catfish",
-			"order": 752,
+			"order": 782,
 			"rarity": "Limited",
 			"weather": [
 				"Clear"
@@ -13013,7 +13284,7 @@
 		},
 		"Ember Perch": {
 			"name": "Ember Perch",
-			"order": 246,
+			"order": 258,
 			"rarity": "Unusual",
 			"weather": [
 				"Clear"
@@ -13031,7 +13302,7 @@
 		},
 		"Ember Snapper": {
 			"name": "Ember Snapper",
-			"order": 296,
+			"order": 312,
 			"rarity": "Unusual",
 			"weather": [
 				"None"
@@ -13049,7 +13320,7 @@
 		},
 		"Embertail Eel": {
 			"name": "Embertail Eel",
-			"order": 152,
+			"order": 162,
 			"rarity": "Uncommon",
 			"weather": [
 				"None"
@@ -13068,7 +13339,7 @@
 		},
 		"Emberwing": {
 			"name": "Emberwing",
-			"order": 469,
+			"order": 493,
 			"rarity": "Legendary",
 			"weather": [
 				"Foggy"
@@ -13088,7 +13359,7 @@
 		},
 		"Emerald Angelfish": {
 			"name": "Emerald Angelfish",
-			"order": 63,
+			"order": 74,
 			"rarity": "Common",
 			"weather": [
 				"None"
@@ -13106,7 +13377,7 @@
 		},
 		"Emerald Elephantnose": {
 			"name": "Emerald Elephantnose",
-			"order": 170,
+			"order": 183,
 			"rarity": "Uncommon",
 			"weather": [
 				"Clear"
@@ -13125,7 +13396,7 @@
 		},
 		"Emperor Jellyfish": {
 			"name": "Emperor Jellyfish",
-			"order": 547,
+			"order": 572,
 			"rarity": "Mythical",
 			"weather": [
 				"Rain"
@@ -13144,7 +13415,7 @@
 		},
 		"Enchant Relic": {
 			"name": "Enchant Relic",
-			"order": 623,
+			"order": 653,
 			"rarity": "Relic",
 			"weather": [
 				"None"
@@ -13163,7 +13434,7 @@
 		},
 		"Eternal Frostwhale": {
 			"name": "Eternal Frostwhale",
-			"order": 745,
+			"order": 777,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -13182,7 +13453,7 @@
 		},
 		"Exalted Relic": {
 			"name": "Exalted Relic",
-			"order": 624,
+			"order": 654,
 			"rarity": "Relic",
 			"weather": [
 				"None"
@@ -13201,7 +13472,7 @@
 		},
 		"Fangborn Gar": {
 			"name": "Fangborn Gar",
-			"order": 300,
+			"order": 314,
 			"rarity": "Unusual",
 			"weather": [
 				"Foggy"
@@ -13219,7 +13490,7 @@
 		},
 		"Fangtooth": {
 			"name": "Fangtooth",
-			"order": 347,
+			"order": 364,
 			"rarity": "Rare",
 			"weather": [
 				"Rain"
@@ -13239,7 +13510,7 @@
 		},
 		"Festive Bait Crate": {
 			"name": "Festive Bait Crate",
-			"order": 671,
+			"order": 700,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -13258,7 +13529,7 @@
 		},
 		"Firecrest": {
 			"name": "Firecrest",
-			"order": 65,
+			"order": 70,
 			"rarity": "Common",
 			"weather": [
 				"Rain"
@@ -13278,7 +13549,7 @@
 		},
 		"Fish Barrel": {
 			"name": "Fish Barrel",
-			"order": 176,
+			"order": 187,
 			"rarity": "Uncommon",
 			"weather": [
 				"None"
@@ -13297,7 +13568,7 @@
 		},
 		"Flamangler": {
 			"name": "Flamangler",
-			"order": 712,
+			"order": 741,
 			"rarity": "Limited",
 			"weather": [
 				"Windy"
@@ -13314,9 +13585,28 @@
 			"prog_speed": -0.75,
 			"base_chance": 15
 		},
+		"Flamekissed Hawkfish": {
+			"name": "Flamekissed Hawkfish",
+			"order": 34,
+			"rarity": "Common",
+			"weather": [
+				"Windy"
+			],
+			"time": "Night",
+			"seasons": [
+				"Autumn"
+			],
+			"bait": "Bagel",
+			"min_weight": 1.7,
+			"max_weight": 6,
+			"base_value": 300,
+			"xp": 150,
+			"resilience": 90,
+			"base_chance": 80
+		},
 		"Floppy": {
 			"name": "Floppy",
-			"order": 488,
+			"order": 450,
 			"rarity": "Legendary",
 			"weather": [
 				"None"
@@ -13335,7 +13625,7 @@
 		},
 		"Flounder": {
 			"name": "Flounder",
-			"order": 303,
+			"order": 311,
 			"rarity": "Unusual",
 			"weather": [
 				"Windy"
@@ -13354,7 +13644,7 @@
 		},
 		"Flying Fish": {
 			"name": "Flying Fish",
-			"order": 454,
+			"order": 475,
 			"rarity": "Legendary",
 			"weather": [
 				"None"
@@ -13374,7 +13664,7 @@
 		},
 		"Foamrunner": {
 			"name": "Foamrunner",
-			"order": 153,
+			"order": 160,
 			"rarity": "Uncommon",
 			"weather": [
 				"Foggy"
@@ -13393,7 +13683,7 @@
 		},
 		"Fogstripe": {
 			"name": "Fogstripe",
-			"order": 236,
+			"order": 247,
 			"rarity": "Unusual",
 			"weather": [
 				"Foggy"
@@ -13412,7 +13702,7 @@
 		},
 		"Forsaken Algae": {
 			"name": "Forsaken Algae",
-			"order": 667,
+			"order": 696,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -13431,7 +13721,7 @@
 		},
 		"Fossil Fan": {
 			"name": "Fossil Fan",
-			"order": 731,
+			"order": 762,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -13450,7 +13740,7 @@
 		},
 		"Four Eyes Fish": {
 			"name": "Four Eyes Fish",
-			"order": 157,
+			"order": 163,
 			"rarity": "Uncommon",
 			"weather": [
 				"Windy"
@@ -13467,9 +13757,47 @@
 			"prog_speed": 0.18,
 			"base_chance": 110
 		},
+		"French Grunt": {
+			"name": "French Grunt",
+			"order": 18,
+			"rarity": "Common",
+			"weather": [
+				"Clear"
+			],
+			"time": "Day",
+			"seasons": [
+				"Summer"
+			],
+			"bait": "Gale Grub",
+			"min_weight": 3.2,
+			"max_weight": 9.5,
+			"base_value": 100,
+			"xp": 50,
+			"resilience": 115,
+			"base_chance": 120
+		},
+		"Friend Fish": {
+			"name": "Friend Fish",
+			"order": 440,
+			"rarity": "Legendary",
+			"weather": [
+				"It would rather stay inside..."
+			],
+			"seasons": [
+				"NONE!"
+			],
+			"bait": "Pizza",
+			"min_weight": 30,
+			"max_weight": 300,
+			"base_value": 1,
+			"xp": 1,
+			"resilience": 0,
+			"prog_speed": -0.5,
+			"base_chance": 0
+		},
 		"Frigid Antlers": {
 			"name": "Frigid Antlers",
-			"order": 419,
+			"order": 437,
 			"rarity": "Legendary",
 			"weather": [
 				"None"
@@ -13489,7 +13817,7 @@
 		},
 		"Frigid Crab": {
 			"name": "Frigid Crab",
-			"order": 250,
+			"order": 263,
 			"rarity": "Unusual",
 			"weather": [
 				"None"
@@ -13508,7 +13836,7 @@
 		},
 		"Frigid Mammoth Tusk": {
 			"name": "Frigid Mammoth Tusk",
-			"order": 526,
+			"order": 550,
 			"rarity": "Mythical",
 			"weather": [
 				"None"
@@ -13528,7 +13856,7 @@
 		},
 		"Frigid Shrimp": {
 			"name": "Frigid Shrimp",
-			"order": 213,
+			"order": 225,
 			"rarity": "Uncommon",
 			"weather": [
 				"None"
@@ -13547,7 +13875,7 @@
 		},
 		"Frigid Taco": {
 			"name": "Frigid Taco",
-			"order": 384,
+			"order": 405,
 			"rarity": "Rare",
 			"weather": [
 				"None"
@@ -13566,7 +13894,7 @@
 		},
 		"Frilled Shark": {
 			"name": "Frilled Shark",
-			"order": 240,
+			"order": 252,
 			"rarity": "Unusual",
 			"weather": [
 				"None"
@@ -13585,7 +13913,7 @@
 		},
 		"Frost Minnow": {
 			"name": "Frost Minnow",
-			"order": 163,
+			"order": 175,
 			"rarity": "Uncommon",
 			"weather": [
 				"None"
@@ -13604,7 +13932,7 @@
 		},
 		"Frost Ray": {
 			"name": "Frost Ray",
-			"order": 193,
+			"order": 202,
 			"rarity": "Uncommon",
 			"weather": [
 				"Windy"
@@ -13623,7 +13951,7 @@
 		},
 		"Frostbite Flounder": {
 			"name": "Frostbite Flounder",
-			"order": 335,
+			"order": 347,
 			"rarity": "Rare",
 			"weather": [
 				"None"
@@ -13642,7 +13970,7 @@
 		},
 		"Frostjaw Cod": {
 			"name": "Frostjaw Cod",
-			"order": 475,
+			"order": 500,
 			"rarity": "Legendary",
 			"weather": [
 				"None"
@@ -13662,7 +13990,7 @@
 		},
 		"Frostling Goby": {
 			"name": "Frostling Goby",
-			"order": 214,
+			"order": 224,
 			"rarity": "Uncommon",
 			"weather": [
 				"None"
@@ -13700,7 +14028,7 @@
 		},
 		"Frozen Fangfish": {
 			"name": "Frozen Fangfish",
-			"order": 638,
+			"order": 668,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -13719,7 +14047,7 @@
 		},
 		"Frozen Leviathan": {
 			"name": "Frozen Leviathan",
-			"order": 576,
+			"order": 603,
 			"rarity": "Exotic",
 			"weather": [
 				"Clear"
@@ -13740,7 +14068,7 @@
 		},
 		"Frozen Pike": {
 			"name": "Frozen Pike",
-			"order": 334,
+			"order": 346,
 			"rarity": "Rare",
 			"weather": [
 				"None"
@@ -13759,7 +14087,7 @@
 		},
 		"Frozen Walnut": {
 			"name": "Frozen Walnut",
-			"order": 494,
+			"order": 515,
 			"rarity": "Mythical",
 			"weather": [
 				"None"
@@ -13797,7 +14125,7 @@
 		},
 		"Furnace Leaper": {
 			"name": "Furnace Leaper",
-			"order": 244,
+			"order": 256,
 			"rarity": "Unusual",
 			"weather": [
 				"Clear"
@@ -13817,7 +14145,7 @@
 		},
 		"Gale Snapper": {
 			"name": "Gale Snapper",
-			"order": 69,
+			"order": 76,
 			"rarity": "Common",
 			"weather": [
 				"Windy"
@@ -13837,7 +14165,7 @@
 		},
 		"Galleon Goliath": {
 			"name": "Galleon Goliath",
-			"order": 148,
+			"order": 158,
 			"rarity": "Uncommon",
 			"weather": [
 				"None"
@@ -13856,7 +14184,7 @@
 		},
 		"Gazerfish": {
 			"name": "Gazerfish",
-			"order": 62,
+			"order": 114,
 			"rarity": "Common",
 			"weather": [
 				"None"
@@ -13894,7 +14222,7 @@
 		},
 		"Gem Blobfish": {
 			"name": "Gem Blobfish",
-			"order": 609,
+			"order": 638,
 			"rarity": "Secret",
 			"weather": [
 				"None"
@@ -13913,7 +14241,7 @@
 		},
 		"Gem Dolphin": {
 			"name": "Gem Dolphin",
-			"order": 432,
+			"order": 446,
 			"rarity": "Legendary",
 			"weather": [
 				"None"
@@ -13932,7 +14260,7 @@
 		},
 		"Gem Eel": {
 			"name": "Gem Eel",
-			"order": 187,
+			"order": 198,
 			"rarity": "Uncommon",
 			"weather": [
 				"None"
@@ -13950,7 +14278,7 @@
 		},
 		"Gem Marlin": {
 			"name": "Gem Marlin",
-			"order": 491,
+			"order": 513,
 			"rarity": "Mythical",
 			"weather": [
 				"None"
@@ -13969,7 +14297,7 @@
 		},
 		"Gem Salmon": {
 			"name": "Gem Salmon",
-			"order": 52,
+			"order": 53,
 			"rarity": "Common",
 			"weather": [
 				"None"
@@ -13987,7 +14315,7 @@
 		},
 		"Gemscale Mandarinfish": {
 			"name": "Gemscale Mandarinfish",
-			"order": 147,
+			"order": 155,
 			"rarity": "Uncommon",
 			"weather": [
 				"None"
@@ -14005,7 +14333,7 @@
 		},
 		"Gemstone Whale Shark": {
 			"name": "Gemstone Whale Shark",
-			"order": 527,
+			"order": 545,
 			"rarity": "Mythical",
 			"weather": [
 				"None"
@@ -14024,7 +14352,7 @@
 		},
 		"Ghoulfish": {
 			"name": "Ghoulfish",
-			"order": 653,
+			"order": 682,
 			"rarity": "Limited",
 			"weather": [
 				"Clear"
@@ -14043,7 +14371,7 @@
 		},
 		"Giant Manta": {
 			"name": "Giant Manta",
-			"order": 255,
+			"order": 271,
 			"rarity": "Unusual",
 			"weather": [
 				"None"
@@ -14062,7 +14390,7 @@
 		},
 		"Giant Moray": {
 			"name": "Giant Moray",
-			"order": 522,
+			"order": 542,
 			"rarity": "Mythical",
 			"weather": [
 				"None"
@@ -14081,7 +14409,7 @@
 		},
 		"Giant Seadevil": {
 			"name": "Giant Seadevil",
-			"order": 523,
+			"order": 547,
 			"rarity": "Mythical",
 			"weather": [
 				"Clear"
@@ -14100,7 +14428,7 @@
 		},
 		"Gilded Pearl": {
 			"name": "Gilded Pearl",
-			"order": 267,
+			"order": 310,
 			"rarity": "Unusual",
 			"weather": [
 				"None"
@@ -14118,7 +14446,7 @@
 		},
 		"Gingerbread Fish": {
 			"name": "Gingerbread Fish",
-			"order": 670,
+			"order": 699,
 			"rarity": "Limited",
 			"weather": [
 				"Clear"
@@ -14136,7 +14464,7 @@
 		},
 		"Ginsu Shark": {
 			"name": "Ginsu Shark",
-			"order": 472,
+			"order": 497,
 			"rarity": "Legendary",
 			"weather": [
 				"Summer"
@@ -14156,7 +14484,7 @@
 		},
 		"Glacial Sturgeon": {
 			"name": "Glacial Sturgeon",
-			"order": 538,
+			"order": 563,
 			"rarity": "Mythical",
 			"weather": [
 				"None"
@@ -14176,7 +14504,7 @@
 		},
 		"Glacier Glowfish": {
 			"name": "Glacier Glowfish",
-			"order": 699,
+			"order": 772,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -14195,7 +14523,7 @@
 		},
 		"Glacier Pike": {
 			"name": "Glacier Pike",
-			"order": 294,
+			"order": 303,
 			"rarity": "Unusual",
 			"weather": [
 				"Rain"
@@ -14214,7 +14542,7 @@
 		},
 		"Glacier Swordfish": {
 			"name": "Glacier Swordfish",
-			"order": 362,
+			"order": 380,
 			"rarity": "Rare",
 			"weather": [
 				"None"
@@ -14233,7 +14561,7 @@
 		},
 		"Glacierfish": {
 			"name": "Glacierfish",
-			"order": 567,
+			"order": 592,
 			"rarity": "Mythical",
 			"weather": [
 				"Rain",
@@ -14254,7 +14582,7 @@
 		},
 		"Glade Lurker": {
 			"name": "Glade Lurker",
-			"order": 471,
+			"order": 495,
 			"rarity": "Legendary",
 			"weather": [
 				"Foggy"
@@ -14274,7 +14602,7 @@
 		},
 		"Glass Diamond": {
 			"name": "Glass Diamond",
-			"order": 542,
+			"order": 564,
 			"rarity": "Mythical",
 			"weather": [
 				"None"
@@ -14292,7 +14620,7 @@
 		},
 		"Glass of Milk": {
 			"name": "Glass of Milk",
-			"order": 721,
+			"order": 749,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -14310,7 +14638,7 @@
 		},
 		"Glassfish": {
 			"name": "Glassfish",
-			"order": 105,
+			"order": 112,
 			"rarity": "Common",
 			"weather": [
 				"Clear"
@@ -14328,7 +14656,7 @@
 		},
 		"Glimmer Guppy": {
 			"name": "Glimmer Guppy",
-			"order": 278,
+			"order": 291,
 			"rarity": "Unusual",
 			"weather": [
 				"Foggy"
@@ -14348,7 +14676,7 @@
 		},
 		"Gloamfin Gar": {
 			"name": "Gloamfin Gar",
-			"order": 29,
+			"order": 30,
 			"rarity": "Common",
 			"weather": [
 				"Rain"
@@ -14367,7 +14695,7 @@
 		},
 		"Globe Jellyfish": {
 			"name": "Globe Jellyfish",
-			"order": 235,
+			"order": 246,
 			"rarity": "Unusual",
 			"weather": [
 				"Foggy"
@@ -14385,7 +14713,7 @@
 		},
 		"Gloombiter": {
 			"name": "Gloombiter",
-			"order": 60,
+			"order": 62,
 			"rarity": "Common",
 			"weather": [
 				"Foggy"
@@ -14405,7 +14733,7 @@
 		},
 		"Glow Brick": {
 			"name": "Glow Brick",
-			"order": 732,
+			"order": 763,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -14423,7 +14751,7 @@
 		},
 		"Glowfin Skipper": {
 			"name": "Glowfin Skipper",
-			"order": 28,
+			"order": 29,
 			"rarity": "Common",
 			"weather": [
 				"Rain"
@@ -14443,7 +14771,7 @@
 		},
 		"Goblin Shark": {
 			"name": "Goblin Shark",
-			"order": 352,
+			"order": 368,
 			"rarity": "Rare",
 			"weather": [
 				"None"
@@ -14463,7 +14791,7 @@
 		},
 		"Goldband Butterflyfish": {
 			"name": "Goldband Butterflyfish",
-			"order": 146,
+			"order": 154,
 			"rarity": "Uncommon",
 			"weather": [
 				"None"
@@ -14481,7 +14809,7 @@
 		},
 		"Goldbrick": {
 			"name": "Goldbrick",
-			"order": 698,
+			"order": 723,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -14499,7 +14827,7 @@
 		},
 		"Golden Dorado": {
 			"name": "Golden Dorado",
-			"order": 258,
+			"order": 267,
 			"rarity": "Unusual",
 			"weather": [
 				"None"
@@ -14517,7 +14845,7 @@
 		},
 		"Golden Sea Pearl": {
 			"name": "Golden Sea Pearl",
-			"order": 597,
+			"order": 619,
 			"rarity": "Exotic",
 			"weather": [
 				"None"
@@ -14535,7 +14863,7 @@
 		},
 		"Golden Seahorse": {
 			"name": "Golden Seahorse",
-			"order": 506,
+			"order": 527,
 			"rarity": "Mythical",
 			"weather": [
 				"None"
@@ -14554,7 +14882,7 @@
 		},
 		"Golden Smallmouth Bass": {
 			"name": "Golden Smallmouth Bass",
-			"order": 412,
+			"order": 430,
 			"rarity": "Legendary",
 			"weather": [
 				"Foggy"
@@ -14573,7 +14901,7 @@
 		},
 		"Goldfin Octopus": {
 			"name": "Goldfin Octopus",
-			"order": 568,
+			"order": 594,
 			"rarity": "Exotic",
 			"weather": [
 				"None"
@@ -14592,7 +14920,7 @@
 		},
 		"Goldfish": {
 			"name": "Goldfish",
-			"order": 198,
+			"order": 208,
 			"rarity": "Uncommon",
 			"weather": [
 				"Clear"
@@ -14611,7 +14939,7 @@
 		},
 		"Gorgon Grouper": {
 			"name": "Gorgon Grouper",
-			"order": 271,
+			"order": 285,
 			"rarity": "Unusual",
 			"weather": [
 				"Clear"
@@ -14630,7 +14958,7 @@
 		},
 		"Grand Reef Guardian": {
 			"name": "Grand Reef Guardian",
-			"order": 529,
+			"order": 552,
 			"rarity": "Mythical",
 			"weather": [
 				"None"
@@ -14650,7 +14978,7 @@
 		},
 		"Grayling": {
 			"name": "Grayling",
-			"order": 68,
+			"order": 77,
 			"rarity": "Common",
 			"weather": [
 				"Foggy"
@@ -14668,9 +14996,49 @@
 			"resilience": 70,
 			"base_chance": 75
 		},
+		"Great Barracuda": {
+			"name": "Great Barracuda",
+			"order": 546,
+			"rarity": "Mythical",
+			"weather": [
+				"Foggy"
+			],
+			"time": "Night",
+			"seasons": [
+				"Winter"
+			],
+			"bait": "Truffle Worm",
+			"min_weight": 150,
+			"max_weight": 500,
+			"base_value": 7000,
+			"xp": 4000,
+			"resilience": 10,
+			"prog_speed": -0.7,
+			"base_chance": 4
+		},
+		"Great Goldcursed Shark": {
+			"name": "Great Goldcursed Shark",
+			"order": 652,
+			"rarity": "Secret",
+			"weather": [
+				"Foggy"
+			],
+			"time": "Night",
+			"seasons": [
+				"Winter"
+			],
+			"bait": "Fish Head",
+			"min_weight": 4500,
+			"max_weight": 15000,
+			"base_value": 50000,
+			"xp": 20000,
+			"resilience": 1,
+			"prog_speed": -0.95,
+			"base_chance": 1
+		},
 		"Great Hammerhead Shark": {
 			"name": "Great Hammerhead Shark",
-			"order": 492,
+			"order": 568,
 			"rarity": "Mythical",
 			"weather": [
 				"Windy"
@@ -14690,7 +15058,7 @@
 		},
 		"Great White Shark": {
 			"name": "Great White Shark",
-			"order": 518,
+			"order": 539,
 			"rarity": "Mythical",
 			"weather": [
 				"Clear"
@@ -14709,7 +15077,7 @@
 		},
 		"Green Energy Crystal": {
 			"name": "Green Energy Crystal",
-			"order": 515,
+			"order": 536,
 			"rarity": "Mythical",
 			"weather": [
 				"None"
@@ -14727,7 +15095,7 @@
 		},
 		"Grey Carp": {
 			"name": "Grey Carp",
-			"order": 128,
+			"order": 136,
 			"rarity": "Uncommon",
 			"weather": [
 				"Autumn"
@@ -14745,7 +15113,7 @@
 		},
 		"Gudgeon": {
 			"name": "Gudgeon",
-			"order": 56,
+			"order": 66,
 			"rarity": "Common",
 			"weather": [
 				"None"
@@ -14764,7 +15132,7 @@
 		},
 		"Gulf Toadfish": {
 			"name": "Gulf Toadfish",
-			"order": 54,
+			"order": 64,
 			"rarity": "Common",
 			"weather": [
 				"None"
@@ -14783,7 +15151,7 @@
 		},
 		"Gust Tail": {
 			"name": "Gust Tail",
-			"order": 501,
+			"order": 522,
 			"rarity": "Mythical",
 			"weather": [
 				"Windy"
@@ -14802,7 +15170,7 @@
 		},
 		"Haddock": {
 			"name": "Haddock",
-			"order": 100,
+			"order": 105,
 			"rarity": "Common",
 			"weather": [
 				"None"
@@ -14822,7 +15190,7 @@
 		},
 		"Halibut": {
 			"name": "Halibut",
-			"order": 330,
+			"order": 342,
 			"rarity": "Rare",
 			"weather": [
 				"Rain"
@@ -14841,7 +15209,7 @@
 		},
 		"Hallucigenia": {
 			"name": "Hallucigenia",
-			"order": 346,
+			"order": 363,
 			"rarity": "Rare",
 			"weather": [
 				"None"
@@ -14860,7 +15228,7 @@
 		},
 		"Handfish": {
 			"name": "Handfish",
-			"order": 520,
+			"order": 541,
 			"rarity": "Mythical",
 			"weather": [
 				"Foggy"
@@ -14879,7 +15247,7 @@
 		},
 		"Harbinger Koi": {
 			"name": "Harbinger Koi",
-			"order": 645,
+			"order": 674,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -14896,7 +15264,7 @@
 		},
 		"Helicoprion": {
 			"name": "Helicoprion",
-			"order": 495,
+			"order": 516,
 			"rarity": "Mythical",
 			"weather": [
 				"Clear"
@@ -14915,7 +15283,7 @@
 		},
 		"Helios Ray": {
 			"name": "Helios Ray",
-			"order": 251,
+			"order": 266,
 			"rarity": "Unusual",
 			"weather": [
 				"Clear"
@@ -14934,7 +15302,7 @@
 		},
 		"Hellfire Haddock": {
 			"name": "Hellfire Haddock",
-			"order": 75,
+			"order": 78,
 			"rarity": "Common",
 			"weather": [
 				"Rain"
@@ -14953,7 +15321,7 @@
 		},
 		"Hellmaw Eel": {
 			"name": "Hellmaw Eel",
-			"order": 151,
+			"order": 169,
 			"rarity": "Uncommon",
 			"weather": [
 				"Clear"
@@ -14973,7 +15341,7 @@
 		},
 		"Herring": {
 			"name": "Herring",
-			"order": 44,
+			"order": 46,
 			"rarity": "Common",
 			"weather": [
 				"Clear",
@@ -14994,7 +15362,7 @@
 		},
 		"Hexeye Snapper": {
 			"name": "Hexeye Snapper",
-			"order": 734,
+			"order": 751,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -15011,7 +15379,7 @@
 		},
 		"Hidden Filefish": {
 			"name": "Hidden Filefish",
-			"order": 264,
+			"order": 277,
 			"rarity": "Unusual",
 			"weather": [
 				"None"
@@ -15027,9 +15395,29 @@
 			"resilience": 65,
 			"base_chance": 38
 		},
+		"Hidden Pipefish": {
+			"name": "Hidden Pipefish",
+			"order": 428,
+			"rarity": "Legendary",
+			"weather": [
+				"Foggy"
+			],
+			"time": "Night",
+			"seasons": [
+				"Winter"
+			],
+			"bait": "Seaweed",
+			"min_weight": 1,
+			"max_weight": 4,
+			"base_value": 5000,
+			"xp": 2000,
+			"resilience": 15,
+			"prog_speed": -0.5,
+			"base_chance": 7
+		},
 		"Hogchoker": {
 			"name": "Hogchoker",
-			"order": 58,
+			"order": 60,
 			"rarity": "Common",
 			"weather": [
 				"Clear"
@@ -15049,7 +15437,7 @@
 		},
 		"Hollow Flake Catfish": {
 			"name": "Hollow Flake Catfish",
-			"order": 708,
+			"order": 736,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -15068,7 +15456,7 @@
 		},
 		"Hollow Gazer": {
 			"name": "Hollow Gazer",
-			"order": 740,
+			"order": 770,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -15087,7 +15475,7 @@
 		},
 		"Hollow Snapper": {
 			"name": "Hollow Snapper",
-			"order": 276,
+			"order": 286,
 			"rarity": "Unusual",
 			"weather": [
 				"Foggy"
@@ -15107,7 +15495,7 @@
 		},
 		"Hollowfin": {
 			"name": "Hollowfin",
-			"order": 341,
+			"order": 357,
 			"rarity": "Rare",
 			"weather": [
 				"Clear"
@@ -15127,7 +15515,7 @@
 		},
 		"Hollyscale Trout": {
 			"name": "Hollyscale Trout",
-			"order": 707,
+			"order": 735,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -15146,7 +15534,7 @@
 		},
 		"Horizon Tetra": {
 			"name": "Horizon Tetra",
-			"order": 263,
+			"order": 276,
 			"rarity": "Unusual",
 			"weather": [
 				"Clear"
@@ -15166,7 +15554,7 @@
 		},
 		"Horseshoe Crab": {
 			"name": "Horseshoe Crab",
-			"order": 22,
+			"order": 113,
 			"rarity": "Common",
 			"weather": [
 				"Clear",
@@ -15185,7 +15573,7 @@
 		},
 		"Hourglass Bass": {
 			"name": "Hourglass Bass",
-			"order": 714,
+			"order": 746,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -15221,7 +15609,7 @@
 		},
 		"Hyneria": {
 			"name": "Hyneria",
-			"order": 275,
+			"order": 317,
 			"rarity": "Unusual",
 			"weather": [
 				"Foggy"
@@ -15257,7 +15645,7 @@
 		},
 		"Ice Anchovy": {
 			"name": "Ice Anchovy",
-			"order": 202,
+			"order": 210,
 			"rarity": "Uncommon",
 			"weather": [
 				"Clear"
@@ -15276,7 +15664,7 @@
 		},
 		"Ice Eel": {
 			"name": "Ice Eel",
-			"order": 142,
+			"order": 150,
 			"rarity": "Uncommon",
 			"weather": [
 				"None"
@@ -15295,7 +15683,7 @@
 		},
 		"Ice Jellyfish": {
 			"name": "Ice Jellyfish",
-			"order": 285,
+			"order": 298,
 			"rarity": "Unusual",
 			"weather": [
 				"None"
@@ -15314,7 +15702,7 @@
 		},
 		"Ice Octopus": {
 			"name": "Ice Octopus",
-			"order": 215,
+			"order": 227,
 			"rarity": "Unusual",
 			"weather": [
 				"None"
@@ -15333,7 +15721,7 @@
 		},
 		"Icebeard Shark": {
 			"name": "Icebeard Shark",
-			"order": 537,
+			"order": 562,
 			"rarity": "Mythical",
 			"weather": [
 				"None"
@@ -15353,7 +15741,7 @@
 		},
 		"Iceberg Isopod": {
 			"name": "Iceberg Isopod",
-			"order": 326,
+			"order": 339,
 			"rarity": "Rare",
 			"weather": [
 				"Windy"
@@ -15372,7 +15760,7 @@
 		},
 		"Icebreaker Haddock": {
 			"name": "Icebreaker Haddock",
-			"order": 321,
+			"order": 334,
 			"rarity": "Rare",
 			"weather": [
 				"None"
@@ -15391,7 +15779,7 @@
 		},
 		"Iced Perch": {
 			"name": "Iced Perch",
-			"order": 305,
+			"order": 302,
 			"rarity": "Unusual",
 			"weather": [
 				"None"
@@ -15410,7 +15798,7 @@
 		},
 		"Icefang Barracuda": {
 			"name": "Icefang Barracuda",
-			"order": 390,
+			"order": 409,
 			"rarity": "Rare",
 			"weather": [
 				"None"
@@ -15429,7 +15817,7 @@
 		},
 		"Icicle": {
 			"name": "Icicle",
-			"order": 637,
+			"order": 667,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -15447,7 +15835,7 @@
 		},
 		"Icy Carp": {
 			"name": "Icy Carp",
-			"order": 259,
+			"order": 272,
 			"rarity": "Unusual",
 			"weather": [
 				"None"
@@ -15466,7 +15854,7 @@
 		},
 		"Icy Daggerfish": {
 			"name": "Icy Daggerfish",
-			"order": 416,
+			"order": 434,
 			"rarity": "Legendary",
 			"weather": [
 				"Foggy"
@@ -15485,7 +15873,7 @@
 		},
 		"Icy Goldfish": {
 			"name": "Icy Goldfish",
-			"order": 406,
+			"order": 425,
 			"rarity": "Rare",
 			"weather": [
 				"Clear"
@@ -15504,7 +15892,7 @@
 		},
 		"Icy Salmon": {
 			"name": "Icy Salmon",
-			"order": 141,
+			"order": 149,
 			"rarity": "Uncommon",
 			"weather": [
 				"None"
@@ -15523,7 +15911,7 @@
 		},
 		"Icy Tuna": {
 			"name": "Icy Tuna",
-			"order": 380,
+			"order": 399,
 			"rarity": "Rare",
 			"weather": [
 				"None"
@@ -15542,7 +15930,7 @@
 		},
 		"Icy Walleye": {
 			"name": "Icy Walleye",
-			"order": 268,
+			"order": 280,
 			"rarity": "Unusual",
 			"weather": [
 				"None"
@@ -15561,7 +15949,7 @@
 		},
 		"Idolfish": {
 			"name": "Idolfish",
-			"order": 590,
+			"order": 618,
 			"rarity": "Exotic",
 			"weather": [
 				"Windy"
@@ -15580,7 +15968,7 @@
 		},
 		"Infant Giant Seadevil": {
 			"name": "Infant Giant Seadevil",
-			"order": 453,
+			"order": 474,
 			"rarity": "Legendary",
 			"weather": [
 				"Clear"
@@ -15599,7 +15987,7 @@
 		},
 		"Infernal Halibut School": {
 			"name": "Infernal Halibut School",
-			"order": 553,
+			"order": 576,
 			"rarity": "Mythical",
 			"weather": [
 				"Rainy"
@@ -15618,7 +16006,7 @@
 		},
 		"Infernal Iguanafish": {
 			"name": "Infernal Iguanafish",
-			"order": 125,
+			"order": 133,
 			"rarity": "Uncommon",
 			"weather": [
 				"Windy"
@@ -15637,7 +16025,7 @@
 		},
 		"Inferno Chaser": {
 			"name": "Inferno Chaser",
-			"order": 357,
+			"order": 369,
 			"rarity": "Rare",
 			"weather": [
 				"Windy"
@@ -15657,7 +16045,7 @@
 		},
 		"Inferno Hide": {
 			"name": "Inferno Hide",
-			"order": 76,
+			"order": 68,
 			"rarity": "Common",
 			"weather": [
 				"None"
@@ -15677,7 +16065,7 @@
 		},
 		"Inferno Wood": {
 			"name": "Inferno Wood",
-			"order": 565,
+			"order": 590,
 			"rarity": "Mythical",
 			"weather": [
 				"None"
@@ -15693,9 +16081,28 @@
 			"resilience": 100,
 			"base_chance": 0.01
 		},
+		"Islandhopper Butterflyfish": {
+			"name": "Islandhopper Butterflyfish",
+			"order": 203,
+			"rarity": "Uncommon",
+			"weather": [
+				"Clear"
+			],
+			"time": "Day",
+			"seasons": [
+				"Spring"
+			],
+			"bait": "Flakes",
+			"min_weight": 2.9,
+			"max_weight": 8.7,
+			"base_value": 300,
+			"xp": 150,
+			"resilience": 70,
+			"base_chance": 80
+		},
 		"Isonade": {
 			"name": "Isonade",
-			"order": 541,
+			"order": 577,
 			"rarity": "Mythical",
 			"weather": [
 				"None"
@@ -15714,7 +16121,7 @@
 		},
 		"Jellystud": {
 			"name": "Jellystud",
-			"order": 682,
+			"order": 711,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -15732,7 +16139,7 @@
 		},
 		"Jungle Phantom": {
 			"name": "Jungle Phantom",
-			"order": 509,
+			"order": 529,
 			"rarity": "Mythical",
 			"weather": [
 				"Rain"
@@ -15752,7 +16159,7 @@
 		},
 		"Keepers Guardian": {
 			"name": "Keepers Guardian",
-			"order": 402,
+			"order": 410,
 			"rarity": "Rare",
 			"weather": [
 				"Rain"
@@ -15770,7 +16177,7 @@
 		},
 		"King Jellyfish": {
 			"name": "King Jellyfish",
-			"order": 550,
+			"order": 571,
 			"rarity": "Mythical",
 			"weather": [
 				"Clear"
@@ -15789,7 +16196,7 @@
 		},
 		"King Oyster": {
 			"name": "King Oyster",
-			"order": 387,
+			"order": 403,
 			"rarity": "Rare",
 			"weather": [
 				"None"
@@ -15808,7 +16215,7 @@
 		},
 		"Kittyfish": {
 			"name": "Kittyfish",
-			"order": 685,
+			"order": 715,
 			"rarity": "Limited",
 			"weather": [
 				"Clear"
@@ -15827,7 +16234,7 @@
 		},
 		"Knifefish": {
 			"name": "Knifefish",
-			"order": 441,
+			"order": 457,
 			"rarity": "Legendary",
 			"weather": [
 				"Foggy"
@@ -15847,7 +16254,7 @@
 		},
 		"Krabbit": {
 			"name": "Krabbit",
-			"order": 672,
+			"order": 701,
 			"rarity": "Limited",
 			"weather": [
 				"Clear"
@@ -15866,7 +16273,7 @@
 		},
 		"Kraken Koi": {
 			"name": "Kraken Koi",
-			"order": 133,
+			"order": 141,
 			"rarity": "Uncommon",
 			"weather": [
 				"Clear"
@@ -15885,7 +16292,7 @@
 		},
 		"Kraken's Herald": {
 			"name": "Kraken's Herald",
-			"order": 464,
+			"order": 484,
 			"rarity": "Legendary",
 			"weather": [
 				"None"
@@ -15905,7 +16312,7 @@
 		},
 		"Lagoon Dart": {
 			"name": "Lagoon Dart",
-			"order": 196,
+			"order": 205,
 			"rarity": "Uncommon",
 			"weather": [
 				"Rain"
@@ -15925,7 +16332,7 @@
 		},
 		"Lagoon Lobster": {
 			"name": "Lagoon Lobster",
-			"order": 167,
+			"order": 179,
 			"rarity": "Uncommon",
 			"weather": [
 				"Clear"
@@ -15945,7 +16352,7 @@
 		},
 		"Langoustine": {
 			"name": "Langoustine",
-			"order": 483,
+			"order": 505,
 			"rarity": "Legendary",
 			"weather": [
 				"Rainy"
@@ -15965,7 +16372,7 @@
 		},
 		"Lantern Snapper": {
 			"name": "Lantern Snapper",
-			"order": 449,
+			"order": 463,
 			"rarity": "Legendary",
 			"weather": [
 				"Clear"
@@ -15985,7 +16392,7 @@
 		},
 		"Lapis Lazuli": {
 			"name": "Lapis Lazuli",
-			"order": 632,
+			"order": 662,
 			"rarity": "Gemstone",
 			"weather": [
 				"None"
@@ -16003,7 +16410,7 @@
 		},
 		"Lapisjack": {
 			"name": "Lapisjack",
-			"order": 322,
+			"order": 335,
 			"rarity": "Rare",
 			"weather": [
 				"Clear",
@@ -16023,7 +16430,7 @@
 		},
 		"Largemouth Bass": {
 			"name": "Largemouth Bass",
-			"order": 48,
+			"order": 52,
 			"rarity": "Common",
 			"weather": [
 				"Rain"
@@ -16042,7 +16449,7 @@
 		},
 		"Lava Bream": {
 			"name": "Lava Bream",
-			"order": 36,
+			"order": 38,
 			"rarity": "Common",
 			"weather": [
 				"Windy"
@@ -16061,7 +16468,7 @@
 		},
 		"Lava Lamprey": {
 			"name": "Lava Lamprey",
-			"order": 650,
+			"order": 679,
 			"rarity": "Limited",
 			"weather": [
 				"Rain"
@@ -16079,7 +16486,7 @@
 		},
 		"Leedsichthys": {
 			"name": "Leedsichthys",
-			"order": 410,
+			"order": 508,
 			"rarity": "Legendary",
 			"weather": [
 				"Foggy"
@@ -16099,7 +16506,7 @@
 		},
 		"Lepidotes": {
 			"name": "Lepidotes",
-			"order": 512,
+			"order": 533,
 			"rarity": "Mythical",
 			"weather": [
 				"None"
@@ -16118,7 +16525,7 @@
 		},
 		"Leviathan Bass": {
 			"name": "Leviathan Bass",
-			"order": 260,
+			"order": 274,
 			"rarity": "Unusual",
 			"weather": [
 				"None"
@@ -16137,7 +16544,7 @@
 		},
 		"Leviathan Humpback Anglerfish": {
 			"name": "Leviathan Humpback Anglerfish",
-			"order": 78,
+			"order": 61,
 			"rarity": "Common",
 			"weather": [
 				"Rain"
@@ -16156,7 +16563,7 @@
 		},
 		"Lightning Minnow": {
 			"name": "Lightning Minnow",
-			"order": 49,
+			"order": 54,
 			"rarity": "Common",
 			"weather": [
 				"Rain"
@@ -16175,7 +16582,7 @@
 		},
 		"Lightning Pike": {
 			"name": "Lightning Pike",
-			"order": 381,
+			"order": 396,
 			"rarity": "Rare",
 			"weather": [
 				"Rain"
@@ -16193,7 +16600,7 @@
 		},
 		"Lingcod": {
 			"name": "Lingcod",
-			"order": 252,
+			"order": 268,
 			"rarity": "Unusual",
 			"weather": [
 				"Windy"
@@ -16234,7 +16641,7 @@
 		},
 		"Lobster King": {
 			"name": "Lobster King",
-			"order": 580,
+			"order": 609,
 			"rarity": "Exotic",
 			"weather": [
 				"Foggy"
@@ -16272,7 +16679,7 @@
 		},
 		"Long Pike": {
 			"name": "Long Pike",
-			"order": 602,
+			"order": 629,
 			"rarity": "Secret",
 			"weather": [
 				"Rain"
@@ -16291,7 +16698,7 @@
 		},
 		"Longtail Bass": {
 			"name": "Longtail Bass",
-			"order": 134,
+			"order": 142,
 			"rarity": "Uncommon",
 			"weather": [
 				"Foggy"
@@ -16310,7 +16717,7 @@
 		},
 		"Lovestorm Eel": {
 			"name": "Lovestorm Eel",
-			"order": 649,
+			"order": 678,
 			"rarity": "Limited",
 			"weather": [
 				"Clear"
@@ -16329,7 +16736,7 @@
 		},
 		"Lovestorm Eel Supercharged": {
 			"name": "Lovestorm Eel Supercharged",
-			"order": 673,
+			"order": 702,
 			"rarity": "Limited",
 			"weather": [
 				"Clear"
@@ -16348,7 +16755,7 @@
 		},
 		"Luminescent Minnow": {
 			"name": "Luminescent Minnow",
-			"order": 295,
+			"order": 308,
 			"rarity": "Unusual",
 			"weather": [
 				"None"
@@ -16367,7 +16774,7 @@
 		},
 		"Lumpclinger": {
 			"name": "Lumpclinger",
-			"order": 262,
+			"order": 281,
 			"rarity": "Unusual",
 			"weather": [
 				"Windy"
@@ -16387,7 +16794,7 @@
 		},
 		"Lunar Monkfish": {
 			"name": "Lunar Monkfish",
-			"order": 564,
+			"order": 589,
 			"rarity": "Mythical",
 			"weather": [
 				"Windy"
@@ -16406,7 +16813,7 @@
 		},
 		"Lurkerfish": {
 			"name": "Lurkerfish",
-			"order": 689,
+			"order": 724,
 			"rarity": "Limited",
 			"weather": [
 				"Foggy"
@@ -16426,7 +16833,7 @@
 		},
 		"Lurking Crescent Pike": {
 			"name": "Lurking Crescent Pike",
-			"order": 181,
+			"order": 191,
 			"rarity": "Uncommon",
 			"weather": [
 				"Windy"
@@ -16445,7 +16852,7 @@
 		},
 		"Mackerel": {
 			"name": "Mackerel",
-			"order": 19,
+			"order": 20,
 			"rarity": "Common",
 			"weather": [
 				"Foggy"
@@ -16465,7 +16872,7 @@
 		},
 		"Maelstorm Shark": {
 			"name": "Maelstorm Shark",
-			"order": 438,
+			"order": 461,
 			"rarity": "Legendary",
 			"weather": [
 				"Foggy"
@@ -16485,7 +16892,7 @@
 		},
 		"Mage Marlin": {
 			"name": "Mage Marlin",
-			"order": 422,
+			"order": 441,
 			"rarity": "Legendary",
 			"weather": [
 				"Clear"
@@ -16504,7 +16911,7 @@
 		},
 		"Magician Narwhal": {
 			"name": "Magician Narwhal",
-			"order": 758,
+			"order": 789,
 			"rarity": "Apex",
 			"weather": [
 				"Clear"
@@ -16522,7 +16929,7 @@
 		},
 		"Magma Leviathan": {
 			"name": "Magma Leviathan",
-			"order": 571,
+			"order": 598,
 			"rarity": "Exotic",
 			"weather": [
 				"Foggy"
@@ -16543,7 +16950,7 @@
 		},
 		"Magma Pike": {
 			"name": "Magma Pike",
-			"order": 165,
+			"order": 170,
 			"rarity": "Uncommon",
 			"weather": [
 				"Windy"
@@ -16562,7 +16969,7 @@
 		},
 		"Magma Tang": {
 			"name": "Magma Tang",
-			"order": 166,
+			"order": 178,
 			"rarity": "Uncommon",
 			"weather": [
 				"None"
@@ -16582,7 +16989,7 @@
 		},
 		"Mahi Mahi": {
 			"name": "Mahi Mahi",
-			"order": 388,
+			"order": 367,
 			"rarity": "Rare",
 			"weather": [
 				"Clear",
@@ -16601,7 +17008,7 @@
 		},
 		"Mained Lionfish": {
 			"name": "Mained Lionfish",
-			"order": 642,
+			"order": 671,
 			"rarity": "Limited",
 			"weather": [
 				"Clear"
@@ -16618,9 +17025,29 @@
 			"prog_speed": -0.55,
 			"base_chance": 10
 		},
+		"Mandarinfish": {
+			"name": "Mandarinfish",
+			"order": 164,
+			"rarity": "Uncommon",
+			"weather": [
+				"Foggy"
+			],
+			"time": "Day",
+			"seasons": [
+				"Spring"
+			],
+			"bait": "Insect",
+			"min_weight": 1.5,
+			"max_weight": 5,
+			"base_value": 400,
+			"xp": 190,
+			"resilience": 70,
+			"prog_speed": 0.05,
+			"base_chance": 55
+		},
 		"Manta Ray": {
 			"name": "Manta Ray",
-			"order": 558,
+			"order": 583,
 			"rarity": "Mythical",
 			"weather": [
 				"None"
@@ -16640,7 +17067,7 @@
 		},
 		"Marble Maiden": {
 			"name": "Marble Maiden",
-			"order": 190,
+			"order": 201,
 			"rarity": "Uncommon",
 			"weather": [
 				"None"
@@ -16659,7 +17086,7 @@
 		},
 		"Marsh Gar": {
 			"name": "Marsh Gar",
-			"order": 340,
+			"order": 354,
 			"rarity": "Rare",
 			"weather": [
 				"Foggy"
@@ -16677,7 +17104,7 @@
 		},
 		"Massive Marlin": {
 			"name": "Massive Marlin",
-			"order": 317,
+			"order": 330,
 			"rarity": "Rare",
 			"weather": [
 				"None"
@@ -16696,7 +17123,7 @@
 		},
 		"Mauve Pearl": {
 			"name": "Mauve Pearl",
-			"order": 324,
+			"order": 337,
 			"rarity": "Rare",
 			"weather": [
 				"None"
@@ -16714,7 +17141,7 @@
 		},
 		"Meg's Fang": {
 			"name": "Meg's Fang",
-			"order": 530,
+			"order": 554,
 			"rarity": "Mythical",
 			"weather": [
 				"None"
@@ -16732,7 +17159,7 @@
 		},
 		"Meg's Spine": {
 			"name": "Meg's Spine",
-			"order": 510,
+			"order": 531,
 			"rarity": "Mythical",
 			"weather": [
 				"None"
@@ -16750,7 +17177,7 @@
 		},
 		"Megalodon": {
 			"name": "Megalodon",
-			"order": 581,
+			"order": 611,
 			"rarity": "Exotic",
 			"weather": [
 				"None"
@@ -16770,7 +17197,7 @@
 		},
 		"Midnight Axolotl": {
 			"name": "Midnight Axolotl",
-			"order": 425,
+			"order": 448,
 			"rarity": "Legendary",
 			"weather": [
 				"None"
@@ -16791,7 +17218,7 @@
 		},
 		"Minnow": {
 			"name": "Minnow",
-			"order": 20,
+			"order": 21,
 			"rarity": "Common",
 			"weather": [
 				"Clear"
@@ -16809,7 +17236,7 @@
 		},
 		"Minnowse": {
 			"name": "Minnowse",
-			"order": 709,
+			"order": 737,
 			"rarity": "Limited",
 			"weather": [
 				"Foggy"
@@ -16826,9 +17253,29 @@
 			"prog_speed": 0.15,
 			"base_chance": 100
 		},
+		"Mirage Toadfish": {
+			"name": "Mirage Toadfish",
+			"order": 530,
+			"rarity": "Mythical",
+			"weather": [
+				"Foggy"
+			],
+			"time": "Night",
+			"seasons": [
+				"Winter"
+			],
+			"bait": "Squid",
+			"min_weight": 150,
+			"max_weight": 500,
+			"base_value": 7000,
+			"xp": 4000,
+			"resilience": 10,
+			"prog_speed": -0.7,
+			"base_chance": 4
+		},
 		"Moby": {
 			"name": "Moby",
-			"order": 615,
+			"order": 639,
 			"rarity": "Secret",
 			"weather": [
 				"None"
@@ -16847,7 +17294,7 @@
 		},
 		"Molten Banshee": {
 			"name": "Molten Banshee",
-			"order": 586,
+			"order": 613,
 			"rarity": "Exotic",
 			"weather": [
 				"Clear"
@@ -16867,7 +17314,7 @@
 		},
 		"Molten Minnow": {
 			"name": "Molten Minnow",
-			"order": 641,
+			"order": 670,
 			"rarity": "Limited",
 			"weather": [
 				"Clear"
@@ -16885,7 +17332,7 @@
 		},
 		"Molten Moray": {
 			"name": "Molten Moray",
-			"order": 371,
+			"order": 386,
 			"rarity": "Rare",
 			"weather": [
 				"Rain"
@@ -16903,7 +17350,7 @@
 		},
 		"Molten Ripple": {
 			"name": "Molten Ripple",
-			"order": 619,
+			"order": 648,
 			"rarity": "Secret",
 			"weather": [
 				"Windy"
@@ -16923,7 +17370,7 @@
 		},
 		"Moltenstripe": {
 			"name": "Moltenstripe",
-			"order": 64,
+			"order": 69,
 			"rarity": "Common",
 			"weather": [
 				"Clear"
@@ -16943,7 +17390,7 @@
 		},
 		"Moon Arctic Char": {
 			"name": "Moon Arctic Char",
-			"order": 34,
+			"order": 36,
 			"rarity": "Common",
 			"weather": [
 				"Clear"
@@ -16962,7 +17409,7 @@
 		},
 		"Moon Idol Sea 1": {
 			"name": "Moon Idol Sea 1",
-			"order": 622,
+			"order": 651,
 			"rarity": "Secret",
 			"weather": [
 				"None"
@@ -16982,7 +17429,7 @@
 		},
 		"Moon Idol Sea 2": {
 			"name": "Moon Idol Sea 2",
-			"order": 606,
+			"order": 633,
 			"rarity": "Secret",
 			"weather": [
 				"None"
@@ -17002,7 +17449,7 @@
 		},
 		"Moon Wood": {
 			"name": "Moon Wood",
-			"order": 433,
+			"order": 452,
 			"rarity": "Legendary",
 			"weather": [
 				"None"
@@ -17020,7 +17467,7 @@
 		},
 		"Moonfish": {
 			"name": "Moonfish",
-			"order": 480,
+			"order": 502,
 			"rarity": "Legendary",
 			"weather": [
 				"Clear"
@@ -17040,7 +17487,7 @@
 		},
 		"Moonridge Catfish": {
 			"name": "Moonridge Catfish",
-			"order": 221,
+			"order": 233,
 			"rarity": "Unusual",
 			"weather": [
 				"Clear"
@@ -17059,7 +17506,7 @@
 		},
 		"Moonstone": {
 			"name": "Moonstone",
-			"order": 631,
+			"order": 661,
 			"rarity": "Gemstone",
 			"weather": [
 				"None"
@@ -17077,7 +17524,7 @@
 		},
 		"Moonveil Killifish": {
 			"name": "Moonveil Killifish",
-			"order": 87,
+			"order": 94,
 			"rarity": "Common",
 			"weather": [
 				"Foggy"
@@ -17096,7 +17543,7 @@
 		},
 		"Moonveil Salmon School": {
 			"name": "Moonveil Salmon School",
-			"order": 247,
+			"order": 260,
 			"rarity": "Unusual",
 			"weather": [
 				"Rainy"
@@ -17116,7 +17563,7 @@
 		},
 		"Mosaic Swimmer": {
 			"name": "Mosaic Swimmer",
-			"order": 139,
+			"order": 147,
 			"rarity": "Uncommon",
 			"weather": [
 				"None"
@@ -17134,7 +17581,7 @@
 		},
 		"Mosasaurus": {
 			"name": "Mosasaurus",
-			"order": 503,
+			"order": 524,
 			"rarity": "Mythical",
 			"weather": [
 				"Foggy"
@@ -17154,7 +17601,7 @@
 		},
 		"Mosslurker": {
 			"name": "Mosslurker",
-			"order": 759,
+			"order": 790,
 			"rarity": "Apex",
 			"weather": [
 				"Rainy"
@@ -17193,7 +17640,7 @@
 		},
 		"Murkdrifter": {
 			"name": "Murkdrifter",
-			"order": 73,
+			"order": 82,
 			"rarity": "Common",
 			"weather": [
 				"Rain"
@@ -17213,7 +17660,7 @@
 		},
 		"Murkfin": {
 			"name": "Murkfin",
-			"order": 74,
+			"order": 83,
 			"rarity": "Common",
 			"weather": [
 				"Foggy"
@@ -17233,7 +17680,7 @@
 		},
 		"Murkslither": {
 			"name": "Murkslither",
-			"order": 159,
+			"order": 165,
 			"rarity": "Uncommon",
 			"weather": [
 				"Rain"
@@ -17253,7 +17700,7 @@
 		},
 		"Mushgrove Algae": {
 			"name": "Mushgrove Algae",
-			"order": 748,
+			"order": 742,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -17272,7 +17719,7 @@
 		},
 		"Mushgrove Crab": {
 			"name": "Mushgrove Crab",
-			"order": 383,
+			"order": 404,
 			"rarity": "Rare",
 			"weather": [
 				"None"
@@ -17290,7 +17737,7 @@
 		},
 		"Mussel": {
 			"name": "Mussel",
-			"order": 83,
+			"order": 92,
 			"rarity": "Common",
 			"weather": [
 				"None"
@@ -17308,7 +17755,7 @@
 		},
 		"Mustard": {
 			"name": "Mustard",
-			"order": 604,
+			"order": 631,
 			"rarity": "Secret",
 			"weather": [
 				"Rain"
@@ -17326,7 +17773,7 @@
 		},
 		"Mutated Shark": {
 			"name": "Mutated Shark",
-			"order": 498,
+			"order": 519,
 			"rarity": "Mythical",
 			"weather": [
 				"None"
@@ -17346,7 +17793,7 @@
 		},
 		"Mythic Fish": {
 			"name": "Mythic Fish",
-			"order": 545,
+			"order": 569,
 			"rarity": "Mythical",
 			"weather": [
 				"None"
@@ -17366,7 +17813,7 @@
 		},
 		"Napoleonfish": {
 			"name": "Napoleonfish",
-			"order": 307,
+			"order": 321,
 			"rarity": "Rare",
 			"weather": [
 				"Windy"
@@ -17385,7 +17832,7 @@
 		},
 		"Narwhal": {
 			"name": "Narwhal",
-			"order": 713,
+			"order": 747,
 			"rarity": "Limited",
 			"weather": [
 				"Clear"
@@ -17405,7 +17852,7 @@
 		},
 		"Nautilus": {
 			"name": "Nautilus",
-			"order": 489,
+			"order": 510,
 			"rarity": "Legendary",
 			"weather": [
 				"None"
@@ -17426,7 +17873,7 @@
 		},
 		"Neptune's Nibbler": {
 			"name": "Neptune's Nibbler",
-			"order": 81,
+			"order": 86,
 			"rarity": "Common",
 			"weather": [
 				"Clear"
@@ -17446,7 +17893,7 @@
 		},
 		"Nessie": {
 			"name": "Nessie",
-			"order": 686,
+			"order": 752,
 			"rarity": "Limited",
 			"weather": [
 				"Foggy"
@@ -17466,7 +17913,7 @@
 		},
 		"Nessie's Spine": {
 			"name": "Nessie's Spine",
-			"order": 728,
+			"order": 732,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -17486,7 +17933,7 @@
 		},
 		"Net Wolffish": {
 			"name": "Net Wolffish",
-			"order": 389,
+			"order": 408,
 			"rarity": "Rare",
 			"weather": [
 				"None"
@@ -17504,7 +17951,7 @@
 		},
 		"Night Shrimp": {
 			"name": "Night Shrimp",
-			"order": 93,
+			"order": 95,
 			"rarity": "Common",
 			"weather": [
 				"Clear"
@@ -17524,7 +17971,7 @@
 		},
 		"Northstar Serpent": {
 			"name": "Northstar Serpent",
-			"order": 683,
+			"order": 712,
 			"rarity": "Limited",
 			"weather": [
 				"Foggy"
@@ -17545,7 +17992,7 @@
 		},
 		"Nurse Shark": {
 			"name": "Nurse Shark",
-			"order": 243,
+			"order": 255,
 			"rarity": "Unusual",
 			"weather": [
 				"None"
@@ -17565,7 +18012,7 @@
 		},
 		"O'Mango Goldgrin": {
 			"name": "O'Mango Goldgrin",
-			"order": 652,
+			"order": 681,
 			"rarity": "Limited",
 			"weather": [
 				"Rain"
@@ -17584,7 +18031,7 @@
 		},
 		"Oak Stripetail": {
 			"name": "Oak Stripetail",
-			"order": 339,
+			"order": 353,
 			"rarity": "Rare",
 			"weather": [
 				"Foggy"
@@ -17604,7 +18051,7 @@
 		},
 		"Oarfish": {
 			"name": "Oarfish",
-			"order": 493,
+			"order": 514,
 			"rarity": "Mythical",
 			"weather": [
 				"Foggy"
@@ -17623,7 +18070,7 @@
 		},
 		"Obsidian Koi": {
 			"name": "Obsidian Koi",
-			"order": 540,
+			"order": 561,
 			"rarity": "Mythical",
 			"weather": [
 				"Windy"
@@ -17642,7 +18089,7 @@
 		},
 		"Obsidian Salmon": {
 			"name": "Obsidian Salmon",
-			"order": 474,
+			"order": 496,
 			"rarity": "Legendary",
 			"weather": [
 				"None"
@@ -17662,7 +18109,7 @@
 		},
 		"Obsidian Swordfish": {
 			"name": "Obsidian Swordfish",
-			"order": 517,
+			"order": 580,
 			"rarity": "Mythical",
 			"weather": [
 				"Windy",
@@ -17680,9 +18127,28 @@
 			"prog_speed": -0.2,
 			"base_chance": 0.01
 		},
+		"Ocean Triggerfish": {
+			"name": "Ocean Triggerfish",
+			"order": 412,
+			"rarity": "Rare",
+			"weather": [
+				"Rainy"
+			],
+			"time": "Night",
+			"seasons": [
+				"Winter"
+			],
+			"bait": "Ember Berries",
+			"min_weight": 8,
+			"max_weight": 25,
+			"base_value": 1500,
+			"xp": 1200,
+			"resilience": 40,
+			"base_chance": 25
+		},
 		"Octophant": {
 			"name": "Octophant",
-			"order": 746,
+			"order": 778,
 			"rarity": "Limited",
 			"weather": [
 				"Clear"
@@ -17701,7 +18167,7 @@
 		},
 		"Olm": {
 			"name": "Olm",
-			"order": 440,
+			"order": 487,
 			"rarity": "Legendary",
 			"weather": [
 				"Clear",
@@ -17722,7 +18188,7 @@
 		},
 		"Olmdeer": {
 			"name": "Olmdeer",
-			"order": 717,
+			"order": 739,
 			"rarity": "Limited",
 			"weather": [
 				"Clear",
@@ -17743,7 +18209,7 @@
 		},
 		"Onychodus": {
 			"name": "Onychodus",
-			"order": 149,
+			"order": 159,
 			"rarity": "Uncommon",
 			"weather": [
 				"None"
@@ -17762,7 +18228,7 @@
 		},
 		"Opal": {
 			"name": "Opal",
-			"order": 630,
+			"order": 660,
 			"rarity": "Gemstone",
 			"weather": [
 				"None"
@@ -17780,7 +18246,7 @@
 		},
 		"Oracle Minnow": {
 			"name": "Oracle Minnow",
-			"order": 96,
+			"order": 102,
 			"rarity": "Common",
 			"weather": [
 				"Clear"
@@ -17799,7 +18265,7 @@
 		},
 		"Oracle's Eye": {
 			"name": "Oracle's Eye",
-			"order": 218,
+			"order": 230,
 			"rarity": "Unusual",
 			"weather": [
 				"Foggy"
@@ -17818,7 +18284,7 @@
 		},
 		"Orca": {
 			"name": "Orca",
-			"order": 591,
+			"order": 606,
 			"rarity": "Exotic",
 			"weather": [
 				"None"
@@ -17837,7 +18303,7 @@
 		},
 		"Orcanda": {
 			"name": "Orcanda",
-			"order": 680,
+			"order": 709,
 			"rarity": "Limited",
 			"weather": [
 				"Foggy"
@@ -17856,7 +18322,7 @@
 		},
 		"Ornament Fish": {
 			"name": "Ornament Fish",
-			"order": 719,
+			"order": 748,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -17875,7 +18341,7 @@
 		},
 		"Oyster": {
 			"name": "Oyster",
-			"order": 123,
+			"order": 131,
 			"rarity": "Uncommon",
 			"weather": [
 				"None"
@@ -17894,7 +18360,7 @@
 		},
 		"Oyster toadfish": {
 			"name": "Oyster toadfish",
-			"order": 211,
+			"order": 222,
 			"rarity": "Uncommon",
 			"weather": [
 				"None"
@@ -17913,7 +18379,7 @@
 		},
 		"Palaeoniscum": {
 			"name": "Palaeoniscum",
-			"order": 287,
+			"order": 319,
 			"rarity": "Unusual",
 			"weather": [
 				"Clear"
@@ -17933,7 +18399,7 @@
 		},
 		"Pale Ghost Lumpfish": {
 			"name": "Pale Ghost Lumpfish",
-			"order": 135,
+			"order": 143,
 			"rarity": "Uncommon",
 			"weather": [
 				"Foggy"
@@ -17952,7 +18418,7 @@
 		},
 		"Pale Tang": {
 			"name": "Pale Tang",
-			"order": 162,
+			"order": 220,
 			"rarity": "Uncommon",
 			"weather": [
 				"None"
@@ -17971,7 +18437,7 @@
 		},
 		"Parktail Spinesnapper": {
 			"name": "Parktail Spinesnapper",
-			"order": 531,
+			"order": 557,
 			"rarity": "Mythical",
 			"weather": [
 				"Clear"
@@ -17991,7 +18457,7 @@
 		},
 		"Parrotfish": {
 			"name": "Parrotfish",
-			"order": 646,
+			"order": 675,
 			"rarity": "Limited",
 			"weather": [
 				"Windy"
@@ -18010,7 +18476,7 @@
 		},
 		"Pearl": {
 			"name": "Pearl",
-			"order": 104,
+			"order": 110,
 			"rarity": "Common",
 			"weather": [
 				"None"
@@ -18028,7 +18494,7 @@
 		},
 		"Pelican Eel": {
 			"name": "Pelican Eel",
-			"order": 533,
+			"order": 555,
 			"rarity": "Mythical",
 			"weather": [
 				"Rain"
@@ -18048,7 +18514,7 @@
 		},
 		"Pengwhal": {
 			"name": "Pengwhal",
-			"order": 643,
+			"order": 672,
 			"rarity": "Limited",
 			"weather": [
 				"Clear"
@@ -18067,7 +18533,7 @@
 		},
 		"Perch": {
 			"name": "Perch",
-			"order": 101,
+			"order": 106,
 			"rarity": "Common",
 			"weather": [
 				"Clear"
@@ -18085,7 +18551,7 @@
 		},
 		"Phanerorhynchus": {
 			"name": "Phanerorhynchus",
-			"order": 405,
+			"order": 400,
 			"rarity": "Rare",
 			"weather": [
 				"None"
@@ -18104,7 +18570,7 @@
 		},
 		"Phantom Brine": {
 			"name": "Phantom Brine",
-			"order": 485,
+			"order": 507,
 			"rarity": "Legendary",
 			"weather": [
 				"Foggy"
@@ -18124,7 +18590,7 @@
 		},
 		"Phantom Koi": {
 			"name": "Phantom Koi",
-			"order": 613,
+			"order": 642,
 			"rarity": "Secret",
 			"weather": [
 				"Foggy"
@@ -18144,7 +18610,7 @@
 		},
 		"Phantom Megalodon": {
 			"name": "Phantom Megalodon",
-			"order": 663,
+			"order": 692,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -18164,7 +18630,7 @@
 		},
 		"Phantom Ray": {
 			"name": "Phantom Ray",
-			"order": 199,
+			"order": 221,
 			"rarity": "Uncommon",
 			"weather": [
 				"None"
@@ -18184,7 +18650,7 @@
 		},
 		"Philosopher's Fish": {
 			"name": "Philosopher's Fish",
-			"order": 253,
+			"order": 269,
 			"rarity": "Unusual",
 			"weather": [
 				"Clear"
@@ -18203,7 +18669,7 @@
 		},
 		"Piglet Pike": {
 			"name": "Piglet Pike",
-			"order": 755,
+			"order": 785,
 			"rarity": "Limited",
 			"weather": [
 				"Rain"
@@ -18222,7 +18688,7 @@
 		},
 		"Pike": {
 			"name": "Pike",
-			"order": 301,
+			"order": 315,
 			"rarity": "Unusual",
 			"weather": [
 				"Rain"
@@ -18241,7 +18707,7 @@
 		},
 		"Pine Zephyrfish": {
 			"name": "Pine Zephyrfish",
-			"order": 411,
+			"order": 429,
 			"rarity": "Legendary",
 			"weather": [
 				"Windy"
@@ -18261,7 +18727,7 @@
 		},
 		"Piranha": {
 			"name": "Piranha",
-			"order": 38,
+			"order": 40,
 			"rarity": "Common",
 			"weather": [
 				"None"
@@ -18280,7 +18746,7 @@
 		},
 		"Piranhamunk": {
 			"name": "Piranhamunk",
-			"order": 706,
+			"order": 734,
 			"rarity": "Limited",
 			"weather": [
 				"Foggy"
@@ -18299,7 +18765,7 @@
 		},
 		"Plumrick O'Luck": {
 			"name": "Plumrick O'Luck",
-			"order": 662,
+			"order": 691,
 			"rarity": "Limited",
 			"weather": [
 				"Rain"
@@ -18318,7 +18784,7 @@
 		},
 		"Polar Alligator": {
 			"name": "Polar Alligator",
-			"order": 476,
+			"order": 465,
 			"rarity": "Legendary",
 			"weather": [
 				"None"
@@ -18338,7 +18804,7 @@
 		},
 		"Polar Prowler": {
 			"name": "Polar Prowler",
-			"order": 456,
+			"order": 477,
 			"rarity": "Legendary",
 			"weather": [
 				"Clear"
@@ -18377,7 +18843,7 @@
 		},
 		"Pond Emperor": {
 			"name": "Pond Emperor",
-			"order": 482,
+			"order": 506,
 			"rarity": "Legendary",
 			"weather": [
 				"Clear"
@@ -18396,7 +18862,7 @@
 		},
 		"Porcufish": {
 			"name": "Porcufish",
-			"order": 648,
+			"order": 677,
 			"rarity": "Limited",
 			"weather": [
 				"Rain"
@@ -18415,7 +18881,7 @@
 		},
 		"Porgy": {
 			"name": "Porgy",
-			"order": 53,
+			"order": 57,
 			"rarity": "Common",
 			"weather": [
 				"Clear",
@@ -18436,7 +18902,7 @@
 		},
 		"Poseidon's Perch": {
 			"name": "Poseidon's Perch",
-			"order": 61,
+			"order": 90,
 			"rarity": "Common",
 			"weather": [
 				"Clear"
@@ -18455,7 +18921,7 @@
 		},
 		"Prawn": {
 			"name": "Prawn",
-			"order": 209,
+			"order": 215,
 			"rarity": "Uncommon",
 			"weather": [
 				"Rain"
@@ -18474,7 +18940,7 @@
 		},
 		"Primordial Levi": {
 			"name": "Primordial Levi",
-			"order": 614,
+			"order": 644,
 			"rarity": "Secret",
 			"weather": [
 				"Windy"
@@ -18494,7 +18960,7 @@
 		},
 		"Prismatic Parrotfish": {
 			"name": "Prismatic Parrotfish",
-			"order": 311,
+			"order": 325,
 			"rarity": "Rare",
 			"weather": [
 				"Clear"
@@ -18512,7 +18978,7 @@
 		},
 		"Profane Ray": {
 			"name": "Profane Ray",
-			"order": 666,
+			"order": 695,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -18531,7 +18997,7 @@
 		},
 		"Psychedelic Frogfish": {
 			"name": "Psychedelic Frogfish",
-			"order": 616,
+			"order": 645,
 			"rarity": "Secret",
 			"weather": [
 				"Foggy"
@@ -18551,7 +19017,7 @@
 		},
 		"Pufferfish": {
 			"name": "Pufferfish",
-			"order": 399,
+			"order": 419,
 			"rarity": "Rare",
 			"weather": [
 				"None"
@@ -18569,7 +19035,7 @@
 		},
 		"Pufferling School": {
 			"name": "Pufferling School",
-			"order": 400,
+			"order": 402,
 			"rarity": "Rare",
 			"weather": [
 				"Clear"
@@ -18589,7 +19055,7 @@
 		},
 		"Pumpkinseed": {
 			"name": "Pumpkinseed",
-			"order": 126,
+			"order": 134,
 			"rarity": "Uncommon",
 			"weather": [
 				"Clear"
@@ -18607,7 +19073,7 @@
 		},
 		"Pupfish": {
 			"name": "Pupfish",
-			"order": 57,
+			"order": 59,
 			"rarity": "Common",
 			"weather": [
 				"Windy"
@@ -18647,7 +19113,7 @@
 		},
 		"Pyrite Pufferfish": {
 			"name": "Pyrite Pufferfish",
-			"order": 372,
+			"order": 387,
 			"rarity": "Rare",
 			"weather": [
 				"None"
@@ -18666,7 +19132,7 @@
 		},
 		"Pyro Pike": {
 			"name": "Pyro Pike",
-			"order": 644,
+			"order": 673,
 			"rarity": "Limited",
 			"weather": [
 				"Rain"
@@ -18684,7 +19150,7 @@
 		},
 		"Pyrogrub": {
 			"name": "Pyrogrub",
-			"order": 392,
+			"order": 358,
 			"rarity": "Rare",
 			"weather": [
 				"None"
@@ -18703,7 +19169,7 @@
 		},
 		"Quality Bait Crate": {
 			"name": "Quality Bait Crate",
-			"order": 338,
+			"order": 352,
 			"rarity": "Rare",
 			"weather": [
 				"None"
@@ -18722,7 +19188,7 @@
 		},
 		"Quartzfin Queenfish": {
 			"name": "Quartzfin Queenfish",
-			"order": 77,
+			"order": 58,
 			"rarity": "Common",
 			"weather": [
 				"Clear"
@@ -18741,7 +19207,7 @@
 		},
 		"Queen Angelfish": {
 			"name": "Queen Angelfish",
-			"order": 343,
+			"order": 355,
 			"rarity": "Rare",
 			"weather": [
 				"None"
@@ -18759,7 +19225,7 @@
 		},
 		"Rabbitfish": {
 			"name": "Rabbitfish",
-			"order": 426,
+			"order": 449,
 			"rarity": "Legendary",
 			"weather": [
 				"None"
@@ -18778,7 +19244,7 @@
 		},
 		"Racuda": {
 			"name": "Racuda",
-			"order": 690,
+			"order": 725,
 			"rarity": "Limited",
 			"weather": [
 				"Rain"
@@ -18797,7 +19263,7 @@
 		},
 		"Radiant Triplewart Seadevil": {
 			"name": "Radiant Triplewart Seadevil",
-			"order": 270,
+			"order": 284,
 			"rarity": "Unusual",
 			"weather": [
 				"Clear"
@@ -18813,9 +19279,29 @@
 			"resilience": 55,
 			"base_chance": 35
 		},
+		"Rainbow Grouper": {
+			"name": "Rainbow Grouper",
+			"order": 435,
+			"rarity": "Legendary",
+			"weather": [
+				"Foggy"
+			],
+			"time": "Night",
+			"seasons": [
+				"Autumn"
+			],
+			"bait": "Crystal Bananas",
+			"min_weight": 13,
+			"max_weight": 40,
+			"base_value": 4000,
+			"xp": 2400,
+			"resilience": 18,
+			"prog_speed": -0.5,
+			"base_chance": 8
+		},
 		"Red Drum": {
 			"name": "Red Drum",
-			"order": 112,
+			"order": 119,
 			"rarity": "Common",
 			"weather": [
 				"None"
@@ -18834,7 +19320,7 @@
 		},
 		"Red Energy Crystal": {
 			"name": "Red Energy Crystal",
-			"order": 548,
+			"order": 573,
 			"rarity": "Mythical",
 			"weather": [
 				"None"
@@ -18852,7 +19338,7 @@
 		},
 		"Red Snapper": {
 			"name": "Red Snapper",
-			"order": 42,
+			"order": 43,
 			"rarity": "Common",
 			"weather": [
 				"None"
@@ -18871,7 +19357,7 @@
 		},
 		"Red Tang": {
 			"name": "Red Tang",
-			"order": 140,
+			"order": 148,
 			"rarity": "Uncommon",
 			"weather": [
 				"None"
@@ -18890,7 +19376,7 @@
 		},
 		"Redeye Bass": {
 			"name": "Redeye Bass",
-			"order": 290,
+			"order": 300,
 			"rarity": "Unusual",
 			"weather": [
 				"Windy"
@@ -18910,7 +19396,7 @@
 		},
 		"Redwood Duskray": {
 			"name": "Redwood Duskray",
-			"order": 226,
+			"order": 238,
 			"rarity": "Unusual",
 			"weather": [
 				"Clear"
@@ -18930,7 +19416,7 @@
 		},
 		"Reed Striker": {
 			"name": "Reed Striker",
-			"order": 350,
+			"order": 360,
 			"rarity": "Rare",
 			"weather": [
 				"Windy"
@@ -18950,7 +19436,7 @@
 		},
 		"Reef Goby": {
 			"name": "Reef Goby",
-			"order": 200,
+			"order": 209,
 			"rarity": "Uncommon",
 			"weather": [
 				"None"
@@ -18969,7 +19455,7 @@
 		},
 		"Reef Minnow": {
 			"name": "Reef Minnow",
-			"order": 21,
+			"order": 22,
 			"rarity": "Common",
 			"weather": [
 				"None"
@@ -18988,7 +19474,7 @@
 		},
 		"Reef Parrotfish": {
 			"name": "Reef Parrotfish",
-			"order": 333,
+			"order": 345,
 			"rarity": "Rare",
 			"weather": [
 				"None"
@@ -19007,7 +19493,7 @@
 		},
 		"Reefdart": {
 			"name": "Reefdart",
-			"order": 37,
+			"order": 39,
 			"rarity": "Common",
 			"weather": [
 				"Clear"
@@ -19027,7 +19513,7 @@
 		},
 		"Reefrunner Snapper": {
 			"name": "Reefrunner Snapper",
-			"order": 407,
+			"order": 423,
 			"rarity": "Rare",
 			"weather": [
 				"None"
@@ -19047,7 +19533,7 @@
 		},
 		"Relic Dart": {
 			"name": "Relic Dart",
-			"order": 364,
+			"order": 375,
 			"rarity": "Rare",
 			"weather": [
 				"Rain"
@@ -19067,7 +19553,7 @@
 		},
 		"Resin": {
 			"name": "Resin",
-			"order": 618,
+			"order": 647,
 			"rarity": "Secret",
 			"weather": [
 				"None"
@@ -19087,7 +19573,7 @@
 		},
 		"Ribbon Eel": {
 			"name": "Ribbon Eel",
-			"order": 238,
+			"order": 250,
 			"rarity": "Unusual",
 			"weather": [
 				"None"
@@ -19105,7 +19591,7 @@
 		},
 		"Ringle": {
 			"name": "Ringle",
-			"order": 557,
+			"order": 579,
 			"rarity": "Mythical",
 			"weather": [
 				"Clear",
@@ -19126,7 +19612,7 @@
 		},
 		"Ripple Spine": {
 			"name": "Ripple Spine",
-			"order": 266,
+			"order": 279,
 			"rarity": "Unusual",
 			"weather": [
 				"Clear"
@@ -19164,7 +19650,7 @@
 		},
 		"Rock Gunnel": {
 			"name": "Rock Gunnel",
-			"order": 43,
+			"order": 44,
 			"rarity": "Common",
 			"weather": [
 				"Rain"
@@ -19182,9 +19668,29 @@
 			"prog_speed": 0.08,
 			"base_chance": 125
 		},
+		"Rock Hind": {
+			"name": "Rock Hind",
+			"order": 489,
+			"rarity": "Legendary",
+			"weather": [
+				"Clear"
+			],
+			"time": "Day",
+			"seasons": [
+				"Summer"
+			],
+			"bait": "Fish Head",
+			"min_weight": 2000,
+			"max_weight": 8000,
+			"base_value": 3900,
+			"xp": 2300,
+			"resilience": 20,
+			"prog_speed": -0.45,
+			"base_chance": 10
+		},
 		"Rock Lobster": {
 			"name": "Rock Lobster",
-			"order": 234,
+			"order": 245,
 			"rarity": "Unusual",
 			"weather": [
 				"Windy"
@@ -19204,7 +19710,7 @@
 		},
 		"RocketFuel": {
 			"name": "RocketFuel",
-			"order": 577,
+			"order": 604,
 			"rarity": "Exotic",
 			"weather": [
 				"None"
@@ -19224,7 +19730,7 @@
 		},
 		"Rockstar Hermit Crab": {
 			"name": "Rockstar Hermit Crab",
-			"order": 293,
+			"order": 306,
 			"rarity": "Unusual",
 			"weather": [
 				"Foggy"
@@ -19242,7 +19748,7 @@
 		},
 		"Rose Pearl": {
 			"name": "Rose Pearl",
-			"order": 297,
+			"order": 273,
 			"rarity": "Unusual",
 			"weather": [
 				"None"
@@ -19260,7 +19766,7 @@
 		},
 		"Roslit Ray Lobster": {
 			"name": "Roslit Ray Lobster",
-			"order": 254,
+			"order": 270,
 			"rarity": "Unusual",
 			"weather": [
 				"Windy"
@@ -19279,7 +19785,7 @@
 		},
 		"Rotfin Eel": {
 			"name": "Rotfin Eel",
-			"order": 640,
+			"order": 714,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -19296,7 +19802,7 @@
 		},
 		"Rotjaw": {
 			"name": "Rotjaw",
-			"order": 160,
+			"order": 166,
 			"rarity": "Uncommon",
 			"weather": [
 				"Foggy"
@@ -19316,7 +19822,7 @@
 		},
 		"Rowdy McCharm": {
 			"name": "Rowdy McCharm",
-			"order": 753,
+			"order": 783,
 			"rarity": "Limited",
 			"weather": [
 				"Rain"
@@ -19335,7 +19841,7 @@
 		},
 		"Royal Tigerfish": {
 			"name": "Royal Tigerfish",
-			"order": 677,
+			"order": 706,
 			"rarity": "Limited",
 			"weather": [
 				"Clear"
@@ -19354,7 +19860,7 @@
 		},
 		"Rubber Ducky": {
 			"name": "Rubber Ducky",
-			"order": 490,
+			"order": 512,
 			"rarity": "Legendary",
 			"weather": [
 				"Rain"
@@ -19373,7 +19879,7 @@
 		},
 		"Ruby": {
 			"name": "Ruby",
-			"order": 633,
+			"order": 663,
 			"rarity": "Gemstone",
 			"weather": [
 				"None"
@@ -19391,7 +19897,7 @@
 		},
 		"Ruby Lionfish": {
 			"name": "Ruby Lionfish",
-			"order": 431,
+			"order": 445,
 			"rarity": "Legendary",
 			"weather": [
 				"None"
@@ -19410,7 +19916,7 @@
 		},
 		"Ruby Rasbora": {
 			"name": "Ruby Rasbora",
-			"order": 373,
+			"order": 388,
 			"rarity": "Rare",
 			"weather": [
 				"Clear"
@@ -19429,7 +19935,7 @@
 		},
 		"Sailfish": {
 			"name": "Sailfish",
-			"order": 398,
+			"order": 359,
 			"rarity": "Rare",
 			"weather": [
 				"Windy",
@@ -19448,7 +19954,7 @@
 		},
 		"Salmon": {
 			"name": "Salmon",
-			"order": 120,
+			"order": 128,
 			"rarity": "Uncommon",
 			"weather": [
 				"Rain",
@@ -19468,7 +19974,7 @@
 		},
 		"Salmoose": {
 			"name": "Salmoose",
-			"order": 701,
+			"order": 728,
 			"rarity": "Limited",
 			"weather": [
 				"Clear"
@@ -19505,7 +20011,7 @@
 		},
 		"Santa Pufferfish": {
 			"name": "Santa Pufferfish",
-			"order": 675,
+			"order": 704,
 			"rarity": "Limited",
 			"weather": [
 				"Foggy"
@@ -19525,7 +20031,7 @@
 		},
 		"Santa Salmon": {
 			"name": "Santa Salmon",
-			"order": 720,
+			"order": 745,
 			"rarity": "Limited",
 			"weather": [
 				"Rain",
@@ -19545,7 +20051,7 @@
 		},
 		"Sapphire Stargazer": {
 			"name": "Sapphire Stargazer",
-			"order": 229,
+			"order": 241,
 			"rarity": "Unusual",
 			"weather": [
 				"Clear"
@@ -19563,7 +20069,7 @@
 		},
 		"Sarcastic Fringehead": {
 			"name": "Sarcastic Fringehead",
-			"order": 442,
+			"order": 458,
 			"rarity": "Legendary",
 			"weather": [
 				"Rain"
@@ -19583,7 +20089,7 @@
 		},
 		"Sardine": {
 			"name": "Sardine",
-			"order": 70,
+			"order": 79,
 			"rarity": "Common",
 			"weather": [
 				"Clear"
@@ -19603,7 +20109,7 @@
 		},
 		"Sardines School": {
 			"name": "Sardines School",
-			"order": 102,
+			"order": 73,
 			"rarity": "Common",
 			"weather": [
 				"Clear"
@@ -19622,7 +20128,7 @@
 		},
 		"Sawfish": {
 			"name": "Sawfish",
-			"order": 461,
+			"order": 483,
 			"rarity": "Legendary",
 			"weather": [
 				"Foggy"
@@ -19641,7 +20147,7 @@
 		},
 		"Scalding Swordfish": {
 			"name": "Scalding Swordfish",
-			"order": 417,
+			"order": 436,
 			"rarity": "Legendary",
 			"weather": [
 				"Clear"
@@ -19661,7 +20167,7 @@
 		},
 		"Scallop": {
 			"name": "Scallop",
-			"order": 136,
+			"order": 144,
 			"rarity": "Uncommon",
 			"weather": [
 				"None"
@@ -19678,9 +20184,29 @@
 			"resilience": 60,
 			"base_chance": 40
 		},
+		"Scalloped Hammerhead": {
+			"name": "Scalloped Hammerhead",
+			"order": 596,
+			"rarity": "Exotic",
+			"weather": [
+				"Clear"
+			],
+			"time": "Day",
+			"seasons": [
+				"Summer"
+			],
+			"bait": "Fish Head",
+			"min_weight": 3500,
+			"max_weight": 13000,
+			"base_value": 15000,
+			"xp": 8000,
+			"resilience": 5,
+			"prog_speed": -0.9,
+			"base_chance": 1
+		},
 		"Scalloped Spiny Lobster": {
 			"name": "Scalloped Spiny Lobster",
-			"order": 368,
+			"order": 390,
 			"rarity": "Rare",
 			"weather": [
 				"Clear"
@@ -19700,7 +20226,7 @@
 		},
 		"Scooty Salmon": {
 			"name": "Scooty Salmon",
-			"order": 647,
+			"order": 676,
 			"rarity": "Limited",
 			"weather": [
 				"Windy"
@@ -19718,7 +20244,7 @@
 		},
 		"Scorchray": {
 			"name": "Scorchray",
-			"order": 487,
+			"order": 509,
 			"rarity": "Legendary",
 			"weather": [
 				"Rain"
@@ -19755,9 +20281,28 @@
 			"resilience": 100,
 			"base_chance": 32
 		},
+		"Scrawled Filefish": {
+			"name": "Scrawled Filefish",
+			"order": 248,
+			"rarity": "Unusual",
+			"weather": [
+				"Windy"
+			],
+			"time": "Night",
+			"seasons": [
+				"Autumn"
+			],
+			"bait": "Minnow",
+			"min_weight": 15,
+			"max_weight": 50,
+			"base_value": 900,
+			"xp": 450,
+			"resilience": 50,
+			"base_chance": 50
+		},
 		"Screaming Fluke": {
 			"name": "Screaming Fluke",
-			"order": 446,
+			"order": 462,
 			"rarity": "Legendary",
 			"weather": [
 				"Windy"
@@ -19777,7 +20322,7 @@
 		},
 		"Scurvy Sailfish": {
 			"name": "Scurvy Sailfish",
-			"order": 279,
+			"order": 292,
 			"rarity": "Unusual",
 			"weather": [
 				"None"
@@ -19796,7 +20341,7 @@
 		},
 		"Scylla": {
 			"name": "Scylla",
-			"order": 605,
+			"order": 632,
 			"rarity": "Secret",
 			"weather": [
 				"None"
@@ -19815,7 +20360,7 @@
 		},
 		"Sea Bass": {
 			"name": "Sea Bass",
-			"order": 106,
+			"order": 107,
 			"rarity": "Common",
 			"weather": [
 				"Clear"
@@ -19834,7 +20379,7 @@
 		},
 		"Sea Leviathan": {
 			"name": "Sea Leviathan",
-			"order": 598,
+			"order": 623,
 			"rarity": "Exotic",
 			"weather": [
 				"Foggy"
@@ -19853,7 +20398,7 @@
 		},
 		"Sea Mine": {
 			"name": "Sea Mine",
-			"order": 562,
+			"order": 587,
 			"rarity": "Mythical",
 			"weather": [
 				"Clear"
@@ -19871,7 +20416,7 @@
 		},
 		"Sea Pickle": {
 			"name": "Sea Pickle",
-			"order": 561,
+			"order": 584,
 			"rarity": "Mythical",
 			"weather": [
 				"Clear",
@@ -19892,7 +20437,7 @@
 		},
 		"Sea Snake": {
 			"name": "Sea Snake",
-			"order": 505,
+			"order": 526,
 			"rarity": "Mythical",
 			"weather": [
 				"None"
@@ -19912,7 +20457,7 @@
 		},
 		"Sea Turtle": {
 			"name": "Sea Turtle",
-			"order": 555,
+			"order": 578,
 			"rarity": "Mythical",
 			"weather": [
 				"None"
@@ -19932,7 +20477,7 @@
 		},
 		"Sea Urchin": {
 			"name": "Sea Urchin",
-			"order": 391,
+			"order": 417,
 			"rarity": "Rare",
 			"weather": [
 				"Foggy"
@@ -19950,7 +20495,7 @@
 		},
 		"Seacow": {
 			"name": "Seacow",
-			"order": 655,
+			"order": 684,
 			"rarity": "Limited",
 			"weather": [
 				"Windy"
@@ -19969,7 +20514,7 @@
 		},
 		"Searfin": {
 			"name": "Searfin",
-			"order": 241,
+			"order": 253,
 			"rarity": "Unusual",
 			"weather": [
 				"Clear"
@@ -19989,7 +20534,7 @@
 		},
 		"Seaspawn Shrimp School": {
 			"name": "Seaspawn Shrimp School",
-			"order": 621,
+			"order": 650,
 			"rarity": "Secret",
 			"weather": [
 				"Foggy"
@@ -20025,9 +20570,28 @@
 			"resilience": 90,
 			"base_chance": 20
 		},
+		"Sergeant Major": {
+			"name": "Sergeant Major",
+			"order": 55,
+			"rarity": "Common",
+			"weather": [
+				"Clear"
+			],
+			"time": "Day",
+			"seasons": [
+				"Summer"
+			],
+			"bait": "Worm",
+			"min_weight": 3.5,
+			"max_weight": 12.5,
+			"base_value": 140,
+			"xp": 70,
+			"resilience": 110,
+			"base_chance": 115
+		},
 		"Serpent Surgeonfish": {
 			"name": "Serpent Surgeonfish",
-			"order": 155,
+			"order": 184,
 			"rarity": "Uncommon",
 			"weather": [
 				"Foggy"
@@ -20046,7 +20610,7 @@
 		},
 		"Shadowfang Snapper": {
 			"name": "Shadowfang Snapper",
-			"order": 182,
+			"order": 189,
 			"rarity": "Uncommon",
 			"weather": [
 				"None"
@@ -20065,7 +20629,7 @@
 		},
 		"Shark Fang": {
 			"name": "Shark Fang",
-			"order": 660,
+			"order": 689,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -20095,7 +20659,7 @@
 		},
 		"Shimmering Silverside": {
 			"name": "Shimmering Silverside",
-			"order": 516,
+			"order": 537,
 			"rarity": "Mythical",
 			"weather": [
 				"Clear"
@@ -20115,7 +20679,7 @@
 		},
 		"Shipwreck Barracuda": {
 			"name": "Shipwreck Barracuda",
-			"order": 473,
+			"order": 498,
 			"rarity": "Legendary",
 			"weather": [
 				"Rain"
@@ -20134,7 +20698,7 @@
 		},
 		"Shiver Swarmfish School": {
 			"name": "Shiver Swarmfish School",
-			"order": 233,
+			"order": 313,
 			"rarity": "Unusual",
 			"weather": [
 				"Foggy"
@@ -20154,7 +20718,7 @@
 		},
 		"Shiverfin Haddock": {
 			"name": "Shiverfin Haddock",
-			"order": 337,
+			"order": 350,
 			"rarity": "Rare",
 			"weather": [
 				"None"
@@ -20173,7 +20737,7 @@
 		},
 		"Shortfin Mako Shark": {
 			"name": "Shortfin Mako Shark",
-			"order": 41,
+			"order": 42,
 			"rarity": "Common",
 			"weather": [
 				"Rain"
@@ -20192,7 +20756,7 @@
 		},
 		"Shrimp": {
 			"name": "Shrimp",
-			"order": 86,
+			"order": 99,
 			"rarity": "Common",
 			"weather": [
 				"Rain"
@@ -20212,7 +20776,7 @@
 		},
 		"Shrimpanzee": {
 			"name": "Shrimpanzee",
-			"order": 729,
+			"order": 760,
 			"rarity": "Limited",
 			"weather": [
 				"Foggy"
@@ -20231,7 +20795,7 @@
 		},
 		"Silver Scuttler": {
 			"name": "Silver Scuttler",
-			"order": 110,
+			"order": 116,
 			"rarity": "Common",
 			"weather": [
 				"Windy"
@@ -20250,7 +20814,7 @@
 		},
 		"Siren Sculpin": {
 			"name": "Siren Sculpin",
-			"order": 370,
+			"order": 383,
 			"rarity": "Rare",
 			"weather": [
 				"Windy"
@@ -20269,7 +20833,7 @@
 		},
 		"Siren Sheep": {
 			"name": "Siren Sheep",
-			"order": 735,
+			"order": 765,
 			"rarity": "Limited",
 			"weather": [
 				"Windy"
@@ -20288,7 +20852,7 @@
 		},
 		"Siren Singer": {
 			"name": "Siren Singer",
-			"order": 273,
+			"order": 287,
 			"rarity": "Unusual",
 			"weather": [
 				"Clear"
@@ -20307,7 +20871,7 @@
 		},
 		"Siren's Guppy": {
 			"name": "Siren's Guppy",
-			"order": 727,
+			"order": 759,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -20324,7 +20888,7 @@
 		},
 		"Skelefish": {
 			"name": "Skelefish",
-			"order": 678,
+			"order": 707,
 			"rarity": "Limited",
 			"weather": [
 				"Clear"
@@ -20342,7 +20906,7 @@
 		},
 		"Skipjack Tuna": {
 			"name": "Skipjack Tuna",
-			"order": 265,
+			"order": 278,
 			"rarity": "Unusual",
 			"weather": [
 				"None"
@@ -20360,7 +20924,7 @@
 		},
 		"Slain Maw": {
 			"name": "Slain Maw",
-			"order": 741,
+			"order": 771,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -20377,7 +20941,7 @@
 		},
 		"Slate Tuna": {
 			"name": "Slate Tuna",
-			"order": 40,
+			"order": 56,
 			"rarity": "Common",
 			"weather": [
 				"Clear",
@@ -20396,7 +20960,7 @@
 		},
 		"Slipper Lobster": {
 			"name": "Slipper Lobster",
-			"order": 484,
+			"order": 480,
 			"rarity": "Legendary",
 			"weather": [
 				"Clear"
@@ -20415,7 +20979,7 @@
 		},
 		"Slurpfloth": {
 			"name": "Slurpfloth",
-			"order": 669,
+			"order": 698,
 			"rarity": "Limited",
 			"weather": [
 				"Rain"
@@ -20434,7 +20998,7 @@
 		},
 		"Small Spine Chimera": {
 			"name": "Small Spine Chimera",
-			"order": 424,
+			"order": 447,
 			"rarity": "Legendary",
 			"weather": [
 				"None"
@@ -20455,7 +21019,7 @@
 		},
 		"Smallmouth Bass": {
 			"name": "Smallmouth Bass",
-			"order": 79,
+			"order": 88,
 			"rarity": "Common",
 			"weather": [
 				"Windy"
@@ -20474,7 +21038,7 @@
 		},
 		"Smogfish": {
 			"name": "Smogfish",
-			"order": 124,
+			"order": 132,
 			"rarity": "Uncommon",
 			"weather": [
 				"Foggy"
@@ -20493,7 +21057,7 @@
 		},
 		"Smolderfang": {
 			"name": "Smolderfang",
-			"order": 222,
+			"order": 234,
 			"rarity": "Unusual",
 			"weather": [
 				"Rain"
@@ -20513,7 +21077,7 @@
 		},
 		"Smoldering Stingray": {
 			"name": "Smoldering Stingray",
-			"order": 280,
+			"order": 289,
 			"rarity": "Unusual",
 			"weather": [
 				"None"
@@ -20532,7 +21096,7 @@
 		},
 		"Smooth toadfish": {
 			"name": "Smooth toadfish",
-			"order": 256,
+			"order": 264,
 			"rarity": "Unusual",
 			"weather": [
 				"None"
@@ -20551,7 +21115,7 @@
 		},
 		"Snakehead": {
 			"name": "Snakehead",
-			"order": 430,
+			"order": 459,
 			"rarity": "Legendary",
 			"weather": [
 				"Windy"
@@ -20571,7 +21135,7 @@
 		},
 		"Snipefish": {
 			"name": "Snipefish",
-			"order": 248,
+			"order": 261,
 			"rarity": "Unusual",
 			"weather": [
 				"Foggy"
@@ -20591,7 +21155,7 @@
 		},
 		"Snook": {
 			"name": "Snook",
-			"order": 224,
+			"order": 236,
 			"rarity": "Unusual",
 			"weather": [
 				"Clear",
@@ -20610,7 +21174,7 @@
 		},
 		"Snowback Char": {
 			"name": "Snowback Char",
-			"order": 228,
+			"order": 240,
 			"rarity": "Unusual",
 			"weather": [
 				"None"
@@ -20629,7 +21193,7 @@
 		},
 		"Snowcap Algae": {
 			"name": "Snowcap Algae",
-			"order": 636,
+			"order": 666,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -20648,7 +21212,7 @@
 		},
 		"Snowcap Lobster": {
 			"name": "Snowcap Lobster",
-			"order": 283,
+			"order": 295,
 			"rarity": "Unusual",
 			"weather": [
 				"Foggy"
@@ -20667,7 +21231,7 @@
 		},
 		"Snowfish": {
 			"name": "Snowfish",
-			"order": 331,
+			"order": 343,
 			"rarity": "Rare",
 			"weather": [
 				"None"
@@ -20686,7 +21250,7 @@
 		},
 		"Snowflake Flounder": {
 			"name": "Snowflake Flounder",
-			"order": 747,
+			"order": 779,
 			"rarity": "Limited",
 			"weather": [
 				"Rainy"
@@ -20705,7 +21269,7 @@
 		},
 		"Snowflake Smelt": {
 			"name": "Snowflake Smelt",
-			"order": 161,
+			"order": 172,
 			"rarity": "Uncommon",
 			"weather": [
 				"Snow"
@@ -20724,7 +21288,7 @@
 		},
 		"Snowgill Dace": {
 			"name": "Snowgill Dace",
-			"order": 212,
+			"order": 223,
 			"rarity": "Uncommon",
 			"weather": [
 				"None"
@@ -20743,7 +21307,7 @@
 		},
 		"Sockeye Salmon": {
 			"name": "Sockeye Salmon",
-			"order": 103,
+			"order": 109,
 			"rarity": "Common",
 			"weather": [
 				"Rain"
@@ -20763,7 +21327,7 @@
 		},
 		"Solar Fragment": {
 			"name": "Solar Fragment",
-			"order": 627,
+			"order": 657,
 			"rarity": "Fragment",
 			"weather": [
 				"None"
@@ -20782,7 +21346,7 @@
 		},
 		"Song of the Deep": {
 			"name": "Song of the Deep",
-			"order": 625,
+			"order": 655,
 			"rarity": "Relic",
 			"weather": [
 				"None"
@@ -20799,9 +21363,28 @@
 			"prog_speed": -0.2,
 			"base_chance": 0.02
 		},
+		"Spadefish": {
+			"name": "Spadefish",
+			"order": 407,
+			"rarity": "Rare",
+			"weather": [
+				"Foggy"
+			],
+			"time": "Day",
+			"seasons": [
+				"Spring"
+			],
+			"bait": "Lagoon Leech",
+			"min_weight": 7.5,
+			"max_weight": 24.5,
+			"base_value": 1400,
+			"xp": 1190,
+			"resilience": 45,
+			"base_chance": 28
+		},
 		"Sparkfin Tetra": {
 			"name": "Sparkfin Tetra",
-			"order": 88,
+			"order": 93,
 			"rarity": "Common",
 			"weather": [
 				"Rain"
@@ -20820,7 +21403,7 @@
 		},
 		"Spectral Serpent": {
 			"name": "Spectral Serpent",
-			"order": 496,
+			"order": 517,
 			"rarity": "Mythical",
 			"weather": [
 				"Clear"
@@ -20841,7 +21424,7 @@
 		},
 		"Speed Core": {
 			"name": "Speed Core",
-			"order": 594,
+			"order": 625,
 			"rarity": "Exotic",
 			"weather": [
 				"None"
@@ -20861,7 +21444,7 @@
 		},
 		"Spider Crab": {
 			"name": "Spider Crab",
-			"order": 358,
+			"order": 378,
 			"rarity": "Rare",
 			"weather": [
 				"None"
@@ -20880,7 +21463,7 @@
 		},
 		"Spiderfish": {
 			"name": "Spiderfish",
-			"order": 33,
+			"order": 35,
 			"rarity": "Common",
 			"weather": [
 				"None"
@@ -20898,7 +21481,7 @@
 		},
 		"Spine Blade": {
 			"name": "Spine Blade",
-			"order": 749,
+			"order": 780,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -20917,7 +21500,7 @@
 		},
 		"Spine Bone": {
 			"name": "Spine Bone",
-			"order": 733,
+			"order": 764,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -20936,7 +21519,7 @@
 		},
 		"Spined Fin": {
 			"name": "Spined Fin",
-			"order": 739,
+			"order": 769,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -20956,7 +21539,7 @@
 		},
 		"Spiny Sunstone Lobster": {
 			"name": "Spiny Sunstone Lobster",
-			"order": 138,
+			"order": 146,
 			"rarity": "Uncommon",
 			"weather": [
 				"Clear"
@@ -20975,7 +21558,7 @@
 		},
 		"Splendid toadfish": {
 			"name": "Splendid toadfish",
-			"order": 342,
+			"order": 349,
 			"rarity": "Rare",
 			"weather": [
 				"None"
@@ -20993,7 +21576,7 @@
 		},
 		"Split Eye Snapper": {
 			"name": "Split Eye Snapper",
-			"order": 269,
+			"order": 282,
 			"rarity": "Unusual",
 			"weather": [
 				"Windy"
@@ -21011,9 +21594,29 @@
 			"prog_speed": -0.45,
 			"base_chance": 85
 		},
+		"Spotted Moray Eel": {
+			"name": "Spotted Moray Eel",
+			"order": 538,
+			"rarity": "Mythical",
+			"weather": [
+				"Foggy"
+			],
+			"time": "Night",
+			"seasons": [
+				"Winter"
+			],
+			"bait": "Mist Worms",
+			"min_weight": 30,
+			"max_weight": 140,
+			"base_value": 6500,
+			"xp": 3500,
+			"resilience": 12,
+			"prog_speed": -0.65,
+			"base_chance": 5
+		},
 		"Sprayfin": {
 			"name": "Sprayfin",
-			"order": 144,
+			"order": 152,
 			"rarity": "Uncommon",
 			"weather": [
 				"Clear"
@@ -21033,7 +21636,7 @@
 		},
 		"Squid": {
 			"name": "Squid",
-			"order": 299,
+			"order": 309,
 			"rarity": "Unusual",
 			"weather": [
 				"Foggy"
@@ -21050,9 +21653,29 @@
 			"resilience": 45,
 			"base_chance": 25
 		},
+		"Squirrelfish": {
+			"name": "Squirrelfish",
+			"order": 118,
+			"rarity": "Common",
+			"weather": [
+				"Clear"
+			],
+			"time": "Night",
+			"seasons": [
+				"Summer"
+			],
+			"bait": "Bagel",
+			"min_weight": 1.8,
+			"max_weight": 5,
+			"base_value": 80,
+			"xp": 40,
+			"resilience": 120,
+			"prog_speed": 0.05,
+			"base_chance": 125
+		},
 		"Squirrelray": {
 			"name": "Squirrelray",
-			"order": 738,
+			"order": 768,
 			"rarity": "Limited",
 			"weather": [
 				"Windy"
@@ -21089,7 +21712,7 @@
 		},
 		"Starbellied Wolf Fish": {
 			"name": "Starbellied Wolf Fish",
-			"order": 355,
+			"order": 374,
 			"rarity": "Rare",
 			"weather": [
 				"Rain"
@@ -21108,7 +21731,7 @@
 		},
 		"Starfish": {
 			"name": "Starfish",
-			"order": 115,
+			"order": 122,
 			"rarity": "Uncommon",
 			"weather": [
 				"None"
@@ -21126,7 +21749,7 @@
 		},
 		"Starlit Weaver": {
 			"name": "Starlit Weaver",
-			"order": 313,
+			"order": 326,
 			"rarity": "Rare",
 			"weather": [
 				"Clear"
@@ -21145,7 +21768,7 @@
 		},
 		"Static Ray": {
 			"name": "Static Ray",
-			"order": 195,
+			"order": 196,
 			"rarity": "Uncommon",
 			"weather": [
 				"Rain"
@@ -21163,7 +21786,7 @@
 		},
 		"Stingray": {
 			"name": "Stingray",
-			"order": 315,
+			"order": 328,
 			"rarity": "Rare",
 			"weather": [
 				"Clear"
@@ -21181,9 +21804,28 @@
 			"resilience": 50,
 			"base_chance": 20
 		},
+		"Stoplight Parrotfish": {
+			"name": "Stoplight Parrotfish",
+			"order": 226,
+			"rarity": "Unusual",
+			"weather": [
+				"Clear"
+			],
+			"time": "Day",
+			"seasons": [
+				"Summer"
+			],
+			"bait": "Squid",
+			"min_weight": 3,
+			"max_weight": 9,
+			"base_value": 800,
+			"xp": 400,
+			"resilience": 55,
+			"base_chance": 55
+		},
 		"Storm Eel": {
 			"name": "Storm Eel",
-			"order": 286,
+			"order": 297,
 			"rarity": "Unusual",
 			"weather": [
 				"Rain"
@@ -21202,7 +21844,7 @@
 		},
 		"Storm Skipper": {
 			"name": "Storm Skipper",
-			"order": 611,
+			"order": 643,
 			"rarity": "Secret",
 			"weather": [
 				"Windy"
@@ -21222,7 +21864,7 @@
 		},
 		"Stormcloud Angelfish": {
 			"name": "Stormcloud Angelfish",
-			"order": 363,
+			"order": 382,
 			"rarity": "Rare",
 			"weather": [
 				"Rain"
@@ -21240,7 +21882,7 @@
 		},
 		"Stud Koi": {
 			"name": "Stud Koi",
-			"order": 692,
+			"order": 718,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -21258,7 +21900,7 @@
 		},
 		"Stud Shark": {
 			"name": "Stud Shark",
-			"order": 687,
+			"order": 717,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -21276,7 +21918,7 @@
 		},
 		"Stud Turtle": {
 			"name": "Stud Turtle",
-			"order": 695,
+			"order": 721,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -21294,7 +21936,7 @@
 		},
 		"Studling Crab": {
 			"name": "Studling Crab",
-			"order": 691,
+			"order": 716,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -21312,7 +21954,7 @@
 		},
 		"Studolodon": {
 			"name": "Studolodon",
-			"order": 651,
+			"order": 680,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -21331,7 +21973,7 @@
 		},
 		"Studphin": {
 			"name": "Studphin",
-			"order": 639,
+			"order": 669,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -21349,7 +21991,7 @@
 		},
 		"Studster": {
 			"name": "Studster",
-			"order": 559,
+			"order": 585,
 			"rarity": "Mythical",
 			"weather": [
 				"Foggy"
@@ -21369,7 +22011,7 @@
 		},
 		"Sturgeon": {
 			"name": "Sturgeon",
-			"order": 309,
+			"order": 323,
 			"rarity": "Rare",
 			"weather": [
 				"None"
@@ -21387,7 +22029,7 @@
 		},
 		"Subzero Stargazer": {
 			"name": "Subzero Stargazer",
-			"order": 191,
+			"order": 153,
 			"rarity": "Uncommon",
 			"weather": [
 				"None"
@@ -21406,7 +22048,7 @@
 		},
 		"Suckermouth Catfish": {
 			"name": "Suckermouth Catfish",
-			"order": 401,
+			"order": 420,
 			"rarity": "Rare",
 			"weather": [
 				"None"
@@ -21426,7 +22068,7 @@
 		},
 		"Sulfur Snapper": {
 			"name": "Sulfur Snapper",
-			"order": 145,
+			"order": 156,
 			"rarity": "Uncommon",
 			"weather": [
 				"Foggy"
@@ -21446,7 +22088,7 @@
 		},
 		"Sunfish": {
 			"name": "Sunfish",
-			"order": 418,
+			"order": 492,
 			"rarity": "Legendary",
 			"weather": [
 				"Clear"
@@ -21466,7 +22108,7 @@
 		},
 		"Sunflare Tetra": {
 			"name": "Sunflare Tetra",
-			"order": 175,
+			"order": 185,
 			"rarity": "Uncommon",
 			"weather": [
 				"Rain"
@@ -21486,7 +22128,7 @@
 		},
 		"Sunken Silverscale": {
 			"name": "Sunken Silverscale",
-			"order": 85,
+			"order": 84,
 			"rarity": "Common",
 			"weather": [
 				"Clear"
@@ -21505,7 +22147,7 @@
 		},
 		"Sunny O'Coin": {
 			"name": "Sunny O'Coin",
-			"order": 703,
+			"order": 730,
 			"rarity": "Limited",
 			"weather": [
 				"Rain"
@@ -21524,7 +22166,7 @@
 		},
 		"Sunray Sunscale": {
 			"name": "Sunray Sunscale",
-			"order": 589,
+			"order": 615,
 			"rarity": "Exotic",
 			"weather": [
 				"Clear"
@@ -21543,7 +22185,7 @@
 		},
 		"Supreme Present": {
 			"name": "Supreme Present",
-			"order": 716,
+			"order": 755,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -21562,7 +22204,7 @@
 		},
 		"Surge Pike": {
 			"name": "Surge Pike",
-			"order": 375,
+			"order": 395,
 			"rarity": "Rare",
 			"weather": [
 				"Windy"
@@ -21582,7 +22224,7 @@
 		},
 		"Swamp Bass": {
 			"name": "Swamp Bass",
-			"order": 30,
+			"order": 31,
 			"rarity": "Common",
 			"weather": [
 				"Windy"
@@ -21601,7 +22243,7 @@
 		},
 		"Swamp Scallop": {
 			"name": "Swamp Scallop",
-			"order": 302,
+			"order": 316,
 			"rarity": "Unusual",
 			"weather": [
 				"None"
@@ -21619,7 +22261,7 @@
 		},
 		"Swampjaw": {
 			"name": "Swampjaw",
-			"order": 249,
+			"order": 262,
 			"rarity": "Unusual",
 			"weather": [
 				"Rain"
@@ -21639,7 +22281,7 @@
 		},
 		"Sweetfish": {
 			"name": "Sweetfish",
-			"order": 97,
+			"order": 98,
 			"rarity": "Common",
 			"weather": [
 				"Clear"
@@ -21657,7 +22299,7 @@
 		},
 		"Swordfish": {
 			"name": "Swordfish",
-			"order": 310,
+			"order": 324,
 			"rarity": "Rare",
 			"weather": [
 				"Windy",
@@ -21676,7 +22318,7 @@
 		},
 		"Zebrafishlet": {
 			"name": "Zebrafishlet",
-			"order": 664,
+			"order": 693,
 			"rarity": "Limited",
 			"weather": [
 				"Foggy"
@@ -21695,7 +22337,7 @@
 		},
 		"Zeus' Herald": {
 			"name": "Zeus' Herald",
-			"order": 521,
+			"order": 543,
 			"rarity": "Mythical",
 			"weather": [
 				"Rain"
@@ -21714,7 +22356,7 @@
 		},
 		"Zombiefish": {
 			"name": "Zombiefish",
-			"order": 668,
+			"order": 697,
 			"rarity": "Limited",
 			"weather": [
 				"Clear"
@@ -21732,7 +22374,7 @@
 		},
 		"Tarnished Moongill": {
 			"name": "Tarnished Moongill",
-			"order": 525,
+			"order": 549,
 			"rarity": "Mythical",
 			"weather": [
 				"Windy"
@@ -21751,7 +22393,7 @@
 		},
 		"Tartaruga": {
 			"name": "Tartaruga",
-			"order": 578,
+			"order": 605,
 			"rarity": "Exotic",
 			"weather": [
 				"Foggy"
@@ -21770,7 +22412,7 @@
 		},
 		"Telescopefish": {
 			"name": "Telescopefish",
-			"order": 366,
+			"order": 389,
 			"rarity": "Rare",
 			"weather": [
 				"Clear"
@@ -21790,7 +22432,7 @@
 		},
 		"Tempest Ray": {
 			"name": "Tempest Ray",
-			"order": 130,
+			"order": 138,
 			"rarity": "Uncommon",
 			"weather": [
 				"Windy"
@@ -21809,7 +22451,7 @@
 		},
 		"Temple Drifter": {
 			"name": "Temple Drifter",
-			"order": 169,
+			"order": 182,
 			"rarity": "Uncommon",
 			"weather": [
 				"Clear"
@@ -21828,7 +22470,7 @@
 		},
 		"Temple Perch": {
 			"name": "Temple Perch",
-			"order": 312,
+			"order": 376,
 			"rarity": "Rare",
 			"weather": [
 				"Clear"
@@ -21848,7 +22490,7 @@
 		},
 		"Tentabrick": {
 			"name": "Tentabrick",
-			"order": 657,
+			"order": 686,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -21867,7 +22509,7 @@
 		},
 		"Tentacle Eel": {
 			"name": "Tentacle Eel",
-			"order": 225,
+			"order": 237,
 			"rarity": "Unusual",
 			"weather": [
 				"None"
@@ -21886,7 +22528,7 @@
 		},
 		"Tentacled Horror": {
 			"name": "Tentacled Horror",
-			"order": 116,
+			"order": 124,
 			"rarity": "Uncommon",
 			"weather": [
 				"None"
@@ -21905,7 +22547,7 @@
 		},
 		"Terrapin Lobster": {
 			"name": "Terrapin Lobster",
-			"order": 316,
+			"order": 329,
 			"rarity": "Rare",
 			"weather": [
 				"Rainy"
@@ -21925,7 +22567,7 @@
 		},
 		"The Depths Key": {
 			"name": "The Depths Key",
-			"order": 600,
+			"order": 626,
 			"rarity": "Exotic",
 			"weather": [
 				"None"
@@ -21945,7 +22587,7 @@
 		},
 		"The Kraken": {
 			"name": "The Kraken",
-			"order": 592,
+			"order": 617,
 			"rarity": "Exotic",
 			"weather": [
 				"None"
@@ -21965,7 +22607,7 @@
 		},
 		"The Whispering One": {
 			"name": "The Whispering One",
-			"order": 726,
+			"order": 758,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -21984,7 +22626,7 @@
 		},
 		"Thornfish": {
 			"name": "Thornfish",
-			"order": 620,
+			"order": 649,
 			"rarity": "Secret",
 			"weather": [
 				"Foggy"
@@ -22004,7 +22646,7 @@
 		},
 		"Three-eyed Fish": {
 			"name": "Three-eyed Fish",
-			"order": 223,
+			"order": 235,
 			"rarity": "Unusual",
 			"weather": [
 				"None"
@@ -22023,7 +22665,7 @@
 		},
 		"Thunder Bass": {
 			"name": "Thunder Bass",
-			"order": 220,
+			"order": 232,
 			"rarity": "Unusual",
 			"weather": [
 				"Rain"
@@ -22042,7 +22684,7 @@
 		},
 		"Thunder Serpent": {
 			"name": "Thunder Serpent",
-			"order": 465,
+			"order": 485,
 			"rarity": "Legendary",
 			"weather": [
 				"Rain"
@@ -22061,7 +22703,7 @@
 		},
 		"Tidal Pike": {
 			"name": "Tidal Pike",
-			"order": 704,
+			"order": 731,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -22079,7 +22721,7 @@
 		},
 		"Tidallow": {
 			"name": "Tidallow",
-			"order": 109,
+			"order": 115,
 			"rarity": "Common",
 			"weather": [
 				"Clear"
@@ -22099,7 +22741,7 @@
 		},
 		"Tide Fang": {
 			"name": "Tide Fang",
-			"order": 452,
+			"order": 470,
 			"rarity": "Legendary",
 			"weather": [
 				"Windy"
@@ -22116,6 +22758,26 @@
 			"resilience": 30,
 			"prog_speed": -0.45,
 			"base_chance": 10
+		},
+		"Tilefish": {
+			"name": "Tilefish",
+			"order": 593,
+			"rarity": "Exotic",
+			"weather": [
+				"Clear"
+			],
+			"time": "Day",
+			"seasons": [
+				"Summer"
+			],
+			"bait": "Sapphire Krill",
+			"min_weight": 3500,
+			"max_weight": 13000,
+			"base_value": 15000,
+			"xp": 8000,
+			"resilience": 5,
+			"prog_speed": -0.9,
+			"base_chance": 1
 		},
 		"Tire": {
 			"name": "Tire",
@@ -22137,7 +22799,7 @@
 		},
 		"Titan Tuna": {
 			"name": "Titan Tuna",
-			"order": 197,
+			"order": 206,
 			"rarity": "Uncommon",
 			"weather": [
 				"None"
@@ -22156,7 +22818,7 @@
 		},
 		"Titanfang Grouper": {
 			"name": "Titanfang Grouper",
-			"order": 394,
+			"order": 415,
 			"rarity": "Rare",
 			"weather": [
 				"None"
@@ -22175,7 +22837,7 @@
 		},
 		"Titanic Black Seadevil": {
 			"name": "Titanic Black Seadevil",
-			"order": 35,
+			"order": 37,
 			"rarity": "Common",
 			"weather": [
 				"Rain"
@@ -22194,7 +22856,7 @@
 		},
 		"Titanic Sturgeon": {
 			"name": "Titanic Sturgeon",
-			"order": 379,
+			"order": 398,
 			"rarity": "Rare",
 			"weather": [
 				"None"
@@ -22213,7 +22875,7 @@
 		},
 		"Toilet Fish": {
 			"name": "Toilet Fish",
-			"order": 610,
+			"order": 640,
 			"rarity": "Secret",
 			"weather": [
 				"Clear"
@@ -22233,7 +22895,7 @@
 		},
 		"Treble Bass": {
 			"name": "Treble Bass",
-			"order": 596,
+			"order": 622,
 			"rarity": "Exotic",
 			"weather": [
 				"None"
@@ -22251,9 +22913,28 @@
 			"base_chance": 0.005,
 			"hard_penalty": 5
 		},
+		"Trevally": {
+			"name": "Trevally",
+			"order": 259,
+			"rarity": "Unusual",
+			"weather": [
+				"Clear"
+			],
+			"time": "Day",
+			"seasons": [
+				"Summer"
+			],
+			"bait": "Minnow",
+			"min_weight": 2,
+			"max_weight": 8,
+			"base_value": 900,
+			"xp": 300,
+			"resilience": 50,
+			"base_chance": 25
+		},
 		"Tripod Fish": {
 			"name": "Tripod Fish",
-			"order": 534,
+			"order": 556,
 			"rarity": "Mythical",
 			"weather": [
 				"Clear"
@@ -22273,7 +22954,7 @@
 		},
 		"Triton's Herald": {
 			"name": "Triton's Herald",
-			"order": 318,
+			"order": 331,
 			"rarity": "Rare",
 			"weather": [
 				"None"
@@ -22292,7 +22973,7 @@
 		},
 		"Tropical Bait Crate": {
 			"name": "Tropical Bait Crate",
-			"order": 361,
+			"order": 379,
 			"rarity": "Rare",
 			"weather": [
 				"None"
@@ -22311,7 +22992,7 @@
 		},
 		"Tropicspike": {
 			"name": "Tropicspike",
-			"order": 570,
+			"order": 597,
 			"rarity": "Exotic",
 			"weather": [
 				"Windy"
@@ -22330,7 +23011,7 @@
 		},
 		"Trout": {
 			"name": "Trout",
-			"order": 47,
+			"order": 51,
 			"rarity": "Common",
 			"weather": [
 				"Clear"
@@ -22348,7 +23029,7 @@
 		},
 		"Trumpetfish": {
 			"name": "Trumpetfish",
-			"order": 232,
+			"order": 244,
 			"rarity": "Unusual",
 			"weather": [
 				"None"
@@ -22368,7 +23049,7 @@
 		},
 		"Tumor Pike": {
 			"name": "Tumor Pike",
-			"order": 245,
+			"order": 257,
 			"rarity": "Unusual",
 			"weather": [
 				"Foggy"
@@ -22388,7 +23069,7 @@
 		},
 		"Turkey": {
 			"name": "Turkey",
-			"order": 688,
+			"order": 744,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -22407,7 +23088,7 @@
 		},
 		"Twilight Eel": {
 			"name": "Twilight Eel",
-			"order": 201,
+			"order": 207,
 			"rarity": "Uncommon",
 			"weather": [
 				"None"
@@ -22425,7 +23106,7 @@
 		},
 		"Twilight Glowfish": {
 			"name": "Twilight Glowfish",
-			"order": 396,
+			"order": 418,
 			"rarity": "Rare",
 			"weather": [
 				"Clear"
@@ -22444,7 +23125,7 @@
 		},
 		"Twilight Tentaclefish": {
 			"name": "Twilight Tentaclefish",
-			"order": 497,
+			"order": 518,
 			"rarity": "Mythical",
 			"weather": [
 				"Clear"
@@ -22463,7 +23144,7 @@
 		},
 		"Typhoon Tailfin": {
 			"name": "Typhoon Tailfin",
-			"order": 439,
+			"order": 472,
 			"rarity": "Legendary",
 			"weather": [
 				"Rain"
@@ -22482,7 +23163,7 @@
 		},
 		"Typhoon Tuna": {
 			"name": "Typhoon Tuna",
-			"order": 308,
+			"order": 322,
 			"rarity": "Rare",
 			"weather": [
 				"Rain"
@@ -22501,7 +23182,7 @@
 		},
 		"Umbral Shark": {
 			"name": "Umbral Shark",
-			"order": 468,
+			"order": 490,
 			"rarity": "Legendary",
 			"weather": [
 				"Clear"
@@ -22521,7 +23202,7 @@
 		},
 		"Unique Present": {
 			"name": "Unique Present",
-			"order": 742,
+			"order": 773,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -22540,7 +23221,7 @@
 		},
 		"Veilborn Parasite": {
 			"name": "Veilborn Parasite",
-			"order": 659,
+			"order": 688,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -22559,7 +23240,7 @@
 		},
 		"Veinfin Tetra School": {
 			"name": "Veinfin Tetra School",
-			"order": 129,
+			"order": 137,
 			"rarity": "Uncommon",
 			"weather": [
 				"Clear"
@@ -22578,7 +23259,7 @@
 		},
 		"Veinspawn": {
 			"name": "Veinspawn",
-			"order": 455,
+			"order": 476,
 			"rarity": "Legendary",
 			"weather": [
 				"Rain"
@@ -22598,7 +23279,7 @@
 		},
 		"Velvet Belly Lanternshark": {
 			"name": "Velvet Belly Lanternshark",
-			"order": 443,
+			"order": 460,
 			"rarity": "Legendary",
 			"weather": [
 				"Foggy"
@@ -22618,7 +23299,7 @@
 		},
 		"Verdant Mirage": {
 			"name": "Verdant Mirage",
-			"order": 603,
+			"order": 630,
 			"rarity": "Secret",
 			"weather": [
 				"Foggy"
@@ -22638,7 +23319,7 @@
 		},
 		"Vinefish": {
 			"name": "Vinefish",
-			"order": 172,
+			"order": 174,
 			"rarity": "Uncommon",
 			"weather": [
 				"Windy"
@@ -22657,7 +23338,7 @@
 		},
 		"Void Angler": {
 			"name": "Void Angler",
-			"order": 563,
+			"order": 588,
 			"rarity": "Mythical",
 			"weather": [
 				"Clear"
@@ -22677,7 +23358,7 @@
 		},
 		"Void Emperor": {
 			"name": "Void Emperor",
-			"order": 549,
+			"order": 570,
 			"rarity": "Mythical",
 			"weather": [
 				"None"
@@ -22697,7 +23378,7 @@
 		},
 		"Void Wood": {
 			"name": "Void Wood",
-			"order": 434,
+			"order": 453,
 			"rarity": "Legendary",
 			"weather": [
 				"None"
@@ -22715,7 +23396,7 @@
 		},
 		"Voidfin Mahi": {
 			"name": "Voidfin Mahi",
-			"order": 385,
+			"order": 401,
 			"rarity": "Rare",
 			"weather": [
 				"Clear",
@@ -22734,7 +23415,7 @@
 		},
 		"Voidglow Ghostfish": {
 			"name": "Voidglow Ghostfish",
-			"order": 458,
+			"order": 473,
 			"rarity": "Legendary",
 			"weather": [
 				"Foggy"
@@ -22753,7 +23434,7 @@
 		},
 		"Voidscale Guppy": {
 			"name": "Voidscale Guppy",
-			"order": 377,
+			"order": 393,
 			"rarity": "Rare",
 			"weather": [
 				"Clear"
@@ -22772,7 +23453,7 @@
 		},
 		"Volcanic Geode": {
 			"name": "Volcanic Geode",
-			"order": 409,
+			"order": 426,
 			"rarity": "Rare",
 			"weather": [
 				"None"
@@ -22791,7 +23472,7 @@
 		},
 		"Volcanic Prowler": {
 			"name": "Volcanic Prowler",
-			"order": 345,
+			"order": 370,
 			"rarity": "Rare",
 			"weather": [
 				"Clear"
@@ -22811,7 +23492,7 @@
 		},
 		"Voltfin Carp": {
 			"name": "Voltfin Carp",
-			"order": 18,
+			"order": 19,
 			"rarity": "Common",
 			"weather": [
 				"Rain"
@@ -22829,7 +23510,7 @@
 		},
 		"Voltfish": {
 			"name": "Voltfish",
-			"order": 556,
+			"order": 574,
 			"rarity": "Mythical",
 			"weather": [
 				"Rain"
@@ -22849,7 +23530,7 @@
 		},
 		"Vortex Barracuda": {
 			"name": "Vortex Barracuda",
-			"order": 216,
+			"order": 228,
 			"rarity": "Unusual",
 			"weather": [
 				"Clear"
@@ -22868,7 +23549,7 @@
 		},
 		"Vortex Ray": {
 			"name": "Vortex Ray",
-			"order": 585,
+			"order": 616,
 			"rarity": "Exotic",
 			"weather": [
 				"Rain"
@@ -22888,7 +23569,7 @@
 		},
 		"Walleye": {
 			"name": "Walleye",
-			"order": 113,
+			"order": 120,
 			"rarity": "Uncommon",
 			"weather": [
 				"None"
@@ -22907,7 +23588,7 @@
 		},
 		"Warty Angler": {
 			"name": "Warty Angler",
-			"order": 127,
+			"order": 135,
 			"rarity": "Uncommon",
 			"weather": [
 				"Foggy"
@@ -22925,9 +23606,29 @@
 			"prog_speed": 0.16,
 			"base_chance": 107
 		},
+		"Warty Frogfish": {
+			"name": "Warty Frogfish",
+			"order": 361,
+			"rarity": "Rare",
+			"weather": [
+				"Foggy"
+			],
+			"time": "Night",
+			"seasons": [
+				"Autumn"
+			],
+			"bait": "Flakes",
+			"min_weight": 1.3,
+			"max_weight": 4,
+			"base_value": 1000,
+			"xp": 400,
+			"resilience": 30,
+			"prog_speed": 0.1,
+			"base_chance": 15
+		},
 		"Watching Glowfin": {
 			"name": "Watching Glowfin",
-			"order": 46,
+			"order": 49,
 			"rarity": "Common",
 			"weather": [
 				"Clear"
@@ -22947,7 +23648,7 @@
 		},
 		"Wave Piercer": {
 			"name": "Wave Piercer",
-			"order": 546,
+			"order": 565,
 			"rarity": "Mythical",
 			"weather": [
 				"Clear"
@@ -22967,7 +23668,7 @@
 		},
 		"Waveborne Lobster": {
 			"name": "Waveborne Lobster",
-			"order": 378,
+			"order": 397,
 			"rarity": "Rare",
 			"weather": [
 				"Windy"
@@ -23007,7 +23708,7 @@
 		},
 		"Whale Shark": {
 			"name": "Whale Shark",
-			"order": 554,
+			"order": 581,
 			"rarity": "Mythical",
 			"weather": [
 				"Clear"
@@ -23028,7 +23729,7 @@
 		},
 		"Whiptail Catfish": {
 			"name": "Whiptail Catfish",
-			"order": 429,
+			"order": 488,
 			"rarity": "Legendary",
 			"weather": [
 				"None"
@@ -23048,7 +23749,7 @@
 		},
 		"Whirlpool Marlin": {
 			"name": "Whirlpool Marlin",
-			"order": 306,
+			"order": 320,
 			"rarity": "Unusual",
 			"weather": [
 				"Rain"
@@ -23067,7 +23768,7 @@
 		},
 		"Whisker Bill": {
 			"name": "Whisker Bill",
-			"order": 507,
+			"order": 528,
 			"rarity": "Mythical",
 			"weather": [
 				"None"
@@ -23086,7 +23787,7 @@
 		},
 		"Whisper Eel": {
 			"name": "Whisper Eel",
-			"order": 584,
+			"order": 612,
 			"rarity": "Exotic",
 			"weather": [
 				"Windy"
@@ -23105,7 +23806,7 @@
 		},
 		"White Bass": {
 			"name": "White Bass",
-			"order": 205,
+			"order": 213,
 			"rarity": "Uncommon",
 			"weather": [
 				"Foggy"
@@ -23125,7 +23826,7 @@
 		},
 		"White Perch": {
 			"name": "White Perch",
-			"order": 107,
+			"order": 108,
 			"rarity": "Common",
 			"weather": [
 				"None"
@@ -23144,7 +23845,7 @@
 		},
 		"Wiifish": {
 			"name": "Wiifish",
-			"order": 435,
+			"order": 442,
 			"rarity": "Legendary",
 			"weather": [
 				"None"
@@ -23163,7 +23864,7 @@
 		},
 		"Wraithfin": {
 			"name": "Wraithfin",
-			"order": 702,
+			"order": 729,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -23180,7 +23881,7 @@
 		},
 		"Wretched Guppy": {
 			"name": "Wretched Guppy",
-			"order": 730,
+			"order": 761,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -23199,7 +23900,7 @@
 		},
 		"X-ray Tetra": {
 			"name": "X-ray Tetra",
-			"order": 583,
+			"order": 610,
 			"rarity": "Exotic",
 			"weather": [
 				"Windy"
@@ -23219,7 +23920,7 @@
 		},
 		"Xiphactinus": {
 			"name": "Xiphactinus",
-			"order": 277,
+			"order": 290,
 			"rarity": "Unusual",
 			"weather": [
 				"None"
@@ -23239,7 +23940,7 @@
 		},
 		"Yellow Boxfish": {
 			"name": "Yellow Boxfish",
-			"order": 298,
+			"order": 307,
 			"rarity": "Unusual",
 			"weather": [
 				"Rain"
@@ -23258,7 +23959,7 @@
 		},
 		"Yellow Energy Crystal": {
 			"name": "Yellow Energy Crystal",
-			"order": 532,
+			"order": 559,
 			"rarity": "Mythical",
 			"weather": [
 				"None"
@@ -23276,7 +23977,7 @@
 		},
 		"Yellow Studfish": {
 			"name": "Yellow Studfish",
-			"order": 697,
+			"order": 722,
 			"rarity": "Limited",
 			"weather": [
 				"None"
@@ -23294,7 +23995,7 @@
 		},
 		"Yellowfin Tuna": {
 			"name": "Yellowfin Tuna",
-			"order": 122,
+			"order": 130,
 			"rarity": "Uncommon",
 			"weather": [
 				"None"
@@ -23411,7 +24112,7 @@
 		"Double XP": {
 			"name": "Double XP",
 			"start": "2025-03-04T15:00:00.000Z",
-			"end": "2025-05-26T00:00:00.000Z",
+			"end": "2025-06-02T00:00:00.000Z",
 			"crab_cages": true
 		}
 	},

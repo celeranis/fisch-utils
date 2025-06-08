@@ -28,20 +28,20 @@
 {{Fish Availability|
 Emberreach/Volcano
 |top_rods      = 
-Free Spirit Rod\421755.78\306416.47;
+Free Spirit Rod\443953.45\322543.65;
+Azure Of Lagoon\391938.63\516625.34;
+Firefly Rod\371140.72\421343.82;
 Fischer's Rod\370272.19\292727.15;
 Plastic Rod\367664.35\291580.22;
-Fast Rod\366379.92\289650.02;
-Azure Of Lagoon\359606.69\425101.73;
 Lucky Rod\359050.72\359050.72;
-Blazebringer Rod\311420.35\421781.97;
+Fast Rod\366379.92\289650.02;
+Blazebringer Rod\339022.33\472907.05;
+Friendly Rod\339597.15\469380.85;
 Carrot Rod\340689.04\421689.92;
-Firefly Rod\350553.55\410782.12;
-Lobster Rod\325117.61\403372.78;
 Leviathan's Fang Rod\350094.06\359122.83;
 Trident Rod\350473.54\338367.9;
 Astralhook Rod\350028.31\0;
-Verdant Shear Rod\320054.1\334396.45;
+Verdant Shear Rod\321203.93\336085.02;
 No-Life Rod\284594.42\278523.75;
 Ethereal Prism Rod\267488.52\295402.9;
 Seraphic Rod\264610.93\255471.06;

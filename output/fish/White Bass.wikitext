@@ -28,11 +28,11 @@
 Terrapin Island/Olm Cave
 Terrapin Island/Surrounding Ocean
 |top_rods      = 
+Azure Of Lagoon\113845.96\14220.51;
+Free Spirit Rod\112814.63\12806.69;
 Trident Rod\109439.25\10270.93;
 Fang of the Eclipse\109219.67\13703.88;
 Champions Rod\109002.85\14024.41;
-Celestial Rod\108968.49\14168.14;
-Summit Rod\108863.61\13762.19;
 Training Rod\98978.79\20361;
 Resourceful Rod\102294.92\15159.02;
 Flimsy Rod\71288.8\9853.3;
@@ -40,14 +40,13 @@ Nocturnal Rod\80014.19\73715.82;
 Leviathan's Fang Rod\107281.95\15813.54;
 Kraken Rod\84792.15\14634.01;
 Depthseeker Rod\108276.43\13802.17;
-Free Spirit Rod\107173.9\10245.35;
+Verdant Shear Rod\107070.56\13535.51;
 Avalanche Rod\107014.79\13690.35;
 No-Life Rod\106689.05\14585.86;
-Verdant Shear Rod\106203.6\13425.91;
 Astralhook Rod\105987.17\0;
 Ethereal Prism Rod\104748.3\0;
 Seraphic Rod\102247.37\14473.21;
-Blazebringer Rod\101904.15\11642.9;
+Blazebringer Rod\101904.15\13145.21;
 Zeus Rod\101177.63\12337.3;
 Volcanic Rod\98797.32\9362.68;
 Challenger's Rod\97846.52\13257.56;

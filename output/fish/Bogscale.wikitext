@@ -30,18 +30,19 @@ Lushgrove
 |top_rods      = 
 Training Rod\799818.18\NaN;
 Flimsy Rod\777762.24\637202.8;
-Free Spirit Rod\294465.77\0;
-Azure Of Lagoon\260564.71\26693.89;
+Free Spirit Rod\309963.97\0;
+Azure Of Lagoon\284100.98\35605.09;
 Astralhook Rod\258980.41\0;
 Plastic Rod\225509.9\26355.56;
+Friendly Rod\254875.27\32488.51;
 Lobster Rod\244865.19\30800.17;
+Firefly Rod\257414.55\28342.13;
 Carrot Rod\256331.3\28243.15;
-Firefly Rod\246205.09\26869.07;
 Fischer's Rod\224386.63\26191.02;
 Brick Built Rod\209656.96\19859.03;
+Blazebringer Rod\255183.88\28708.25;
 Trident Rod\242378.78\21804.75;
-Verdant Shear Rod\241640.75\24425.27;
-Blazebringer Rod\233402.75\25837.42;
+Verdant Shear Rod\242231.31\24532.69;
 No-Life Rod\211441.08\19939.31;
 Ethereal Prism Rod\201741.48\19422.67;
 Seraphic Rod\201116.52\18092.73;

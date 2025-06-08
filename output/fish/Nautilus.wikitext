@@ -30,24 +30,26 @@ The Depths
 The Depths/Absolute Darkness
 |top_rods      = 
 Leviathan's Fang Rod\92889.64\151259.43;
+Free Spirit Rod\80395.05\121818.46;
 Trident Rod\79030.64\120509.56;
-Free Spirit Rod\74448.68\113522.78;
+Azure Of Lagoon\60984.77\99838.27;
 No-Life Rod\59871.74\98016.14;
-Seraphic Rod\56336.62\89524.04;
 Lucky Rod\39186.62\62253.1;
-Firefly Rod\52234.05\89167.35;
-Candy Cane Rod\33819.68\57923.57;
+Firefly Rod\56476.49\95828.4;
+Adventurer's Rod\48718.75\82784.97;
 Fast Rod\50638.59\87195.96;
 Fischer's Rod\34017.57\58575.78;
+Plastic Rod\34003.78\58444.01;
+Seraphic Rod\56336.62\89524.04;
 Ethereal Prism Rod\56248.14\88848.08;
 Astralhook Rod\56032.91\89279.99;
 Rod Of The Forgotten Fang\54187.82\87940.38;
 Challenger's Rod\54180.44\88842.55;
+Blazebringer Rod\52693.22\83542.78;
+Verdant Shear Rod\49725.05\78859.95;
 Zeus Rod\49659.77\78733.38;
-Verdant Shear Rod\49275.05\78478.99;
 Rod Of The Depths\49022\79889.06;
 Rod Of The Exalted One\48821.16\76002.71;
-Blazebringer Rod\47423.9\75188.51;
 Depthseeker Rod\45701.69\72877.07;
 Avalanche Rod\40919.51\65742.09;
 Volcanic Rod\39271.36\62263.02;

@@ -27,27 +27,26 @@
 {{Fish Availability|
 Atlantis/Sunken Depths
 |top_rods      = 
+Free Spirit Rod\287592\176015.19;
 Leviathan's Fang Rod\281467.23\140949.06;
 Trident Rod\275613.57\140562.57;
-Free Spirit Rod\273212.4\140812.15;
+Azure Of Lagoon\270521.29\201552.86;
 No-Life Rod\258628.49\202493.8;
-Azure Of Lagoon\252864.95\191475.21;
 Training Rod\217300.45\217300.45;
 Flimsy Rod\167622.95\186411.48;
 Long Rod\209579.16\160926.79;
 Fast Rod\228251.95\204204.01;
 Seraphic Rod\244800.49\201696.64;
-Tempest Rod\247425.98\194589.64;
 Poseidon Rod\239467.4\155992.51;
 Challenger's Rod\243893.55\184615.47;
 Rod Of The Forgotten Fang\242385\184177.39;
 Rod Of The Depths\239390.88\167789.98;
+Blazebringer Rod\237013.34\183520.29;
 Rod Of The Exalted One\236270.53\149174.01;
 Ethereal Prism Rod\234167.28\43617.58;
 Zeus Rod\233293.19\172449.71;
 Astralhook Rod\232213.94\0;
-Verdant Shear Rod\229154.44\172590.87;
-Blazebringer Rod\229105.61\169272.05;
+Verdant Shear Rod\230150.76\172590.87;
 Depthseeker Rod\224470.7\161610.77;
 Avalanche Rod\222637.06\155678.6;
 Volcanic Rod\222463.74\164364.78;

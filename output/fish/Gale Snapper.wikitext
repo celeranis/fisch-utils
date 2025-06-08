@@ -30,18 +30,19 @@ Waveborne
 |top_rods      = 
 Training Rod\545089.29\NaN;
 Flimsy Rod\513437.5\583392.86;
-Free Spirit Rod\308325.33\17660.62;
-Azure Of Lagoon\273865.55\26938.51;
-Astralhook Rod\270236.87\0;
+Free Spirit Rod\324552.98\22075.78;
+Azure Of Lagoon\298648.53\29424.79;
+Adventurer's Rod\282326.39\26953.88;
 Fischer's Rod\257781.61\23606.74;
-Great Dreamer Rod\246426.53\25725.43;
+Firefly Rod\276092.43\31534.52;
+Friendly Rod\264845.68\26347.98;
 Lobster Rod\255613.69\25679.62;
-Firefly Rod\263625.59\24820.88;
 Plastic Rod\263054.72\24359.14;
 Brick Built Rod\220783.59\22479.33;
-Verdant Shear Rod\250988.88\25896.34;
+Astralhook Rod\270236.87\0;
+Blazebringer Rod\265063.06\28438.07;
+Verdant Shear Rod\251549.75\25995.81;
 Trident Rod\249459.59\21348.94;
-Blazebringer Rod\245754.21\25444.59;
 No-Life Rod\216841.3\19149.36;
 Ethereal Prism Rod\211697.15\20110.26;
 Seraphic Rod\206507.53\17673.07;

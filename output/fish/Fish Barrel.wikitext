@@ -28,6 +28,7 @@
 Ancient Archives
 Ancient Isle/Surrounding Ocean
 Apex Fish Hunt/Mosslurker
+Bloop Fish
 Cryogenic Canal
 Forsaken Shores/Coral Reef
 Forsaken Shores/Freshwater Pond
@@ -56,26 +57,27 @@ Terrapin Island/Olm Cave
 Terrapin Island/Surrounding Ocean
 |top_rods      = 
 Magnet Rod\367035.02\369490.76;
-Krampus's Rod\173291.44\160930.72;
+Krampus's Rod\173291.44\253597.21;
 Leviathan's Fang Rod\168372.97\228169.21;
-Magma Rod\168366.38\156356.96;
+Magma Rod\168366.38\249887.9;
+Azure Of Lagoon\157856.55\212432.91;
+Fast Rod\146504.38\241653.33;
+Plastic Rod\153895.6\228410.5;
 No-Life Rod\156056.07\205740.2;
-Trident Rod\148075.8\217422.69;
-Free Spirit Rod\147269.65\216239;
-Seraphic Rod\151745.22\215994.11;
-Tempest Rod\150102.04\213401.75;
-Carrot Rod\148691\205783.5;
+Free Spirit Rod\155020.68\227620;
 Astralhook Rod\153195.48\214566.59;
+Seraphic Rod\151745.22\215994.11;
 Ethereal Prism Rod\151006.84\210156.23;
 Rod Of The Forgotten Fang\149465.52\198175.61;
+Trident Rod\148075.8\217422.69;
 Challenger's Rod\147611.1\197318.29;
+Blazebringer Rod\142718.8\196165.35;
 Rod Of The Depths\137480.02\194276.41;
 Rod Of The Exalted One\137407.74\194811.96;
 Zeus Rod\134889.35\185403.85;
-Verdant Shear Rod\133950.19\185730.66;
+Verdant Shear Rod\133950.19\185895.02;
 Depthseeker Rod\133599.44\171838.66;
 Avalanche Rod\132986.61\164057.14;
-Blazebringer Rod\132200.81\176548.82;
 Volcanic Rod\128442.47\168002.84;
 Steady Rod\46741.85\59792.27
 |recommended   = Magnet Rod

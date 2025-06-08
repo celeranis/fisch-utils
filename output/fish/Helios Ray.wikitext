@@ -28,10 +28,10 @@
 Atlantis/Sunken Depths
 |top_rods      = 
 Astralhook Rod\76568.17\16805.9;
+Firefly Rod\74239.57\9898.82;
 Ethereal Prism Rod\73349.73\14748.15;
 Champions Rod\73165.86\8209.32;
 Celestial Rod\72915.6\8368.94;
-Rapid Rod\72228.31\10038.06;
 Training Rod\64051.8\19086.24;
 Flimsy Rod\47372.69\7768.82;
 Nocturnal Rod\44013.47\26391.81;
@@ -40,16 +40,16 @@ No-Life Rod\69447.78\10785.05;
 Avalanche Rod\69129.34\7442.52;
 Depthseeker Rod\68949.62\8308.15;
 Seraphic Rod\68612.91\10655.4;
-Verdant Shear Rod\63923.31\9065.86;
+Verdant Shear Rod\64787.13\9090.31;
 Challenger's Rod\62817.3\9755.35;
 Rod Of The Forgotten Fang\62599.4\9721.51;
+Blazebringer Rod\62202.46\9659.87;
+Free Spirit Rod\61569.74\9561.61;
 Zeus Rod\58353.85\9062.19;
 Rod Of The Depths\56799.27\8820.77;
-Blazebringer Rod\56595.3\8555.89;
 Volcanic Rod\54779.59\6877.72;
 Rod Of The Exalted One\53870.6\8907.48;
 Trident Rod\49489.26\7680;
-Free Spirit Rod\49255.79\7649.29;
 Steady Rod\35348.77\4515.46
 |recommended   = Ethereal Prism Rod
 }}

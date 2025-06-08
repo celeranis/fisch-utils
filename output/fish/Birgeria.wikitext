@@ -29,21 +29,21 @@ Ancient Archives
 |top_rods      = 
 Krampus's Rod\208270.2\67782.86;
 Leviathan's Fang Rod\207197.32\65541.6;
+Free Spirit Rod\204780.83\59834.87;
 Trident Rod\202373.69\59131.53;
 Magma Rod\199860.41\65045.84;
-Free Spirit Rod\194541.79\56843.13;
 Plastic Rod\182951.08\59542.59;
 Nocturnal Rod\81607.2\48173.58;
 No-Life Rod\171740.01\55933.84;
 Seraphic Rod\157152.06\55091.36;
 Challenger's Rod\156791.7\50957.41;
 Depthseeker Rod\156589\42861.91;
+Blazebringer Rod\155549.16\49855.08;
 Rod Of The Forgotten Fang\154769.95\51719.5;
 Astralhook Rod\154743.22\55798.81;
 Ethereal Prism Rod\154636.73\55848.65;
+Verdant Shear Rod\154559.83\46673.33;
 Avalanche Rod\153860.25\38728.28;
-Verdant Shear Rod\153101.72\46547.81;
-Blazebringer Rod\152914.77\44607.17;
 Zeus Rod\152652.63\46994.21;
 Rod Of The Exalted One\150202.34\45592.72;
 Rod Of The Depths\149774.32\46922.83;

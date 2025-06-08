@@ -27,21 +27,20 @@
 {{Fish Availability|
 Glacial Grotto
 |top_rods      = 
+Azure Of Lagoon\207569.26\22199.87;
+Free Spirit Rod\204840.89\19920.43;
 Trident Rod\198000.41\15970.06;
 Training Rod\197497.91\31695.23;
-Azure Of Lagoon\197190.8\15670.5;
 Leviathan's Fang Rod\195800.04\21934.76;
-No-Life Rod\194786.74\22750.96;
 Flimsy Rod\156416.99\36861.51;
-Resourceful Rod\175402.67\18629.07;
+Firefly Rod\189347.21\23031.73;
 Nocturnal Rod\122563.04\95407.93;
 Fungal Rod\171515.91\23697.57;
-Firefly Rod\178483.23\23468.89;
-Free Spirit Rod\194598.85\15936.34;
+No-Life Rod\194786.74\22750.96;
 Blazebringer Rod\184593.67\20630.4;
+Verdant Shear Rod\183865.75\19891.29;
 Zeus Rod\183325.19\20488.63;
 Depthseeker Rod\182988.8\19743.74;
-Verdant Shear Rod\182866.48\19783.19;
 Avalanche Rod\180775.3\17846.22;
 Challenger's Rod\179522.6\20696.6;
 Volcanic Rod\179036.53\20009.33;

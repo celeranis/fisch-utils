@@ -29,11 +29,11 @@ Forsaken Shores/Coral Reef
 Forsaken Shores/Freshwater Pond
 Forsaken Shores/Surrounding Ocean
 |top_rods      = 
+Firefly Rod\184068.77\36312.47;
 Champions Rod\182248.95\34750.74;
 Depthseeker Rod\181265.62\33452.03;
 Rapid Rod\181210.07\36007.24;
 Celestial Rod\180762.37\36034.47;
-Merchant Rod\178682.72\34601.88;
 Training Rod\152801.63\52688.17;
 Flimsy Rod\101277.37\36380.56;
 Avalanche Rod\175242.11\32703.45;
@@ -41,14 +41,14 @@ Nocturnal Rod\108061.06\97972.08;
 Firework Rod\160344.01\38821.59;
 Crystalized Rod\160344.01\38821.59;
 Auric Rod\159067.1\38512.43;
+Verdant Shear Rod\170763.02\25138.01;
 Trident Rod\167430.79\23507.82;
-Verdant Shear Rod\166327.61\25049.29;
 Astralhook Rod\166179.3\32487.29;
 No-Life Rod\163951.58\30066.57;
 Ethereal Prism Rod\161240.05\31768.51;
+Free Spirit Rod\161206.31\29198;
 Seraphic Rod\154669.07\31958.97;
-Free Spirit Rod\153145.99\23358.4;
-Blazebringer Rod\152839.67\23662.12;
+Blazebringer Rod\152839.67\26715.3;
 Zeus Rod\151622.51\25049.29;
 Volcanic Rod\147492.89\19011.94;
 Rod Of The Forgotten Fang\140413.45\29123.39;

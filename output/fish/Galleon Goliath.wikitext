@@ -27,19 +27,19 @@
 {{Fish Availability|
 Forsaken Shores/Surrounding Ocean
 |top_rods      = 
+Free Spirit Rod\213993.05\17322.57;
+Azure Of Lagoon\211391.91\18426.65;
 Trident Rod\209796.32\13905.67;
 Leviathan's Fang Rod\208538.25\23092.68;
-Free Spirit Rod\203293.4\13858.06;
-Azure Of Lagoon\200822.31\13007.05;
 No-Life Rod\197641.8\18936.04;
 Training Rod\168983.71\34467.87;
 Flimsy Rod\120634.53\27605.39;
 Resourceful Rod\169920.52\13785.4;
 Nocturnal Rod\85657.35\67305.88;
 Seraphic Rod\167921.23\19401.74;
-Blazebringer Rod\183999.46\15055.69;
+Blazebringer Rod\183999.46\16998.36;
+Verdant Shear Rod\183789.83\15996.61;
 Zeus Rod\182593.45\15949.1;
-Verdant Shear Rod\182301.66\15957.02;
 Depthseeker Rod\181743.38\14616.61;
 Avalanche Rod\179017.1\13825.86;
 Challenger's Rod\178427.71\17158.08;

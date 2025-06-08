@@ -30,12 +30,13 @@ Treasure Island
 |top_rods      = 
 Great Rod of Oscar\12713.2\70726.85;
 Astralhook Rod\11824.55\70758.6;
-Free Spirit Rod\10755.95\68095.12;
+Free Spirit Rod\11790.46\82686.93;
+Azure Of Lagoon\10817.04\73441.25;
 Carrot Rod\10007.82\64932.8;
-Fang of the Eclipse\9980.86\68552.16;
 Krampus's Rod\5794.49\33537.4;
 Steady Rod\4545.01\33959.15;
-Blazebringer Rod\8157.75\55288.21;
+Fang of the Eclipse\9980.86\68552.16;
+Blazebringer Rod\9117.49\61792.71;
 Seraphic Rod\5860.1\40525.2;
 Ethereal Prism Rod\5835.03\39163.36;
 No-Life Rod\5585.95\39894.75;

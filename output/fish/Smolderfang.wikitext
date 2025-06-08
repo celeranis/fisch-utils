@@ -28,16 +28,16 @@
 {{Fish Availability|
 Emberreach/Surrounding Ocean
 |top_rods      = 
+Adventurer's Rod\282884.59\273357.29;
 Fungal Rod\268387.45\268387.45;
 Antler Rod\258674.92\258674.92;
-Adventurer's Rod\201015.57\201015.57;
 Long Rod\198423.81\196548.54;
 Trident Rod\168395.97\150615.76;
 Astralhook Rod\156818.48\178363.27;
-Free Spirit Rod\143186.47\106691.25;
-Verdant Shear Rod\135975.7\121618.6;
+Free Spirit Rod\150722.6\133364.07;
+Verdant Shear Rod\138308.65\123705.22;
 No-Life Rod\132013.69\124303.06;
-Blazebringer Rod\129002.41\112866.12;
+Blazebringer Rod\129002.41\127429.49;
 Seraphic Rod\122020.16\109136.57;
 Challenger's Rod\116930.48\109417.48;
 Rod Of The Forgotten Fang\116064.78\104273.27;

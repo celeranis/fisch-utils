@@ -28,9 +28,9 @@
 Roslit Bay/Clam Abundance
 |top_rods      = 
 Leviathan's Fang Rod\1196384.71\1155912.14;
+Free Spirit Rod\1182470.98\1147552.89;
 Trident Rod\1147091.78\1113218.43;
-Free Spirit Rod\1123347.43\1090175.25;
-Azure Of Lagoon\1028770.29\988481.11;
+Azure Of Lagoon\1084348\1049589.94;
 No-Life Rod\1016180.54\983607.54;
 Krampus's Rod\917870.93\909294.47;
 Magma Rod\886972.46\878684.72;
@@ -41,12 +41,12 @@ Ethereal Prism Rod\961470.65\920577.35;
 Astralhook Rod\960444.47\937778.28;
 Challenger's Rod\954943.53\921895.97;
 Rod Of The Forgotten Fang\952313.31\918864.49;
+Blazebringer Rod\943868.7\911625.52;
 Depthseeker Rod\930182.83\893077.85;
 Rod Of The Exalted One\929190.42\899464.5;
-Blazebringer Rod\922135.57\882906.45;
+Verdant Shear Rod\926199.62\887473.43;
 Zeus Rod\922112.58\884173.28;
 Rod Of The Depths\921622.2\894406.92;
-Verdant Shear Rod\920499.93\882012.06;
 Avalanche Rod\918971.97\882549.13;
 Volcanic Rod\894021.68\855988.57;
 Training Rod\811729.09\805858.17;

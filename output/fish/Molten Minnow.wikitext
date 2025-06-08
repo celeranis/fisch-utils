@@ -31,18 +31,19 @@ Roslit Bay/Ashfall
 |top_rods      = 
 Training Rod\582692.61\518292.85;
 Flimsy Rod\433692.91\385760.74;
+Azure Of Lagoon\162997.65\152707.75;
 Astralhook Rod\161577.75\110315.87;
 No-Life Rod\161175.85\156375.5;
-Fast Rod\160904.04\156099.86;
 Leviathan's Fang Rod\159106.41\182618.58;
+Fast Rod\160904.04\156099.86;
+Free Spirit Rod\161026.45\136566.18;
 Seraphic Rod\160313.97\155539.29;
 Ethereal Prism Rod\159223.54\149200.12;
 Trident Rod\155205.77\109447.51;
-Free Spirit Rod\152975.13\109252.94;
 Depthseeker Rod\150093.7\121429.1;
+Verdant Shear Rod\148913.69\133094.24;
 Avalanche Rod\148762.04\108995.01;
-Blazebringer Rod\148321.11\125249.01;
-Verdant Shear Rod\148193.72\132850.48;
+Blazebringer Rod\148321.11\141410.18;
 Zeus Rod\147339.04\132752.97;
 Challenger's Rod\146737.38\142367.06;
 Rod Of The Forgotten Fang\146389.19\142029.24;

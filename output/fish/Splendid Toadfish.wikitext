@@ -34,13 +34,13 @@ Plastic Rod\296821.46\445865.21;
 Training Rod\240825.97\418206.06;
 Resourceful Rod\197975.65\482862.69;
 Flimsy Rod\213384.41\473441.91;
-Adventurer's Rod\190916.55\465645.54;
+Rod Of Time\215565.88\453365.42;
 Magnet Rod\148319.01\448011.48;
+Free Spirit Rod\209738.38\451806.49;
 Astralhook Rod\202450.6\407468.77;
-Free Spirit Rod\199251.46\380954.56;
+Blazebringer Rod\169630.85\379761.29;
 Trident Rod\166010.81\284590.33;
-Verdant Shear Rod\156875.69\358529.08;
-Blazebringer Rod\151774.97\339786.42;
+Verdant Shear Rod\157431.33\359798.96;
 No-Life Rod\118798.83\237877.04;
 Ethereal Prism Rod\107164.29\243283.9;
 Seraphic Rod\105932.85\234236.41;
@@ -52,7 +52,7 @@ Avalanche Rod\96224.4\223029.17;
 Volcanic Rod\95805.63\221962.09;
 Rod Of The Depths\95786.27\221875.5;
 Zeus Rod\95349.42\221273.24
-|recommended   = Astralhook Rod
+|recommended   = Free Spirit Rod
 }}
 
 == Catch Quips ==

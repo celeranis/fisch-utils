@@ -28,21 +28,20 @@
 {{Fish Availability|
 Isle of New Beginnings
 |top_rods      = 
-Free Spirit Rod\347491.58\210133.67;
-Azure Of Lagoon\310130.39\262452.55;
+Free Spirit Rod\365780.61\262667.09;
+Azure Of Lagoon\329376.25\276265.84;
 Trident Rod\308992.07\263238.99;
 Leviathan's Fang Rod\304723.53\262010.11;
-Astralhook Rod\286648.64\0;
+Firefly Rod\293524.95\284263.72;
 Carbon Rod\206433.28\182221.69;
 Candy Cane Rod\202971.68\179166.09;
 Long Rod\223561.09\216626.54;
-Firefly Rod\280253.47\266688.45;
-Brick Built Rod\249473.6\257237.51;
 Rapid Rod\225177.48\220869.5;
 Haunted Rod\224746.21\220168.33;
 Fungal Rod\226899.32\222558.4;
-Verdant Shear Rod\269543.89\233297.83;
-Blazebringer Rod\269542.93\231760.8;
+Astralhook Rod\286648.64\0;
+Blazebringer Rod\282634.42\245062.52;
+Verdant Shear Rod\271424.86\234925.87;
 No-Life Rod\251249.41\208952.41;
 Seraphic Rod\235849.05\200926.41;
 Ethereal Prism Rod\233395.41\197687.09;

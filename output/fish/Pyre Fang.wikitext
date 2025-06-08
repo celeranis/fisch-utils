@@ -31,12 +31,12 @@ Emberreach/Freshwater Pond
 Lucky Rod\680293.19\221604.98;
 Fischer's Rod\630122.14\268766.61;
 Fast Rod\627069.58\267464.6;
+Free Spirit Rod\620253.37\0;
 Plastic Rod\617015.22\267832.23;
-Free Spirit Rod\589240.7\0;
 Candy Cane Rod\575816.6\266512.03;
 Astralhook Rod\570949.43\0;
-Verdant Shear Rod\531495.79\44245.13;
-Blazebringer Rod\480521.38\37275.01;
+Blazebringer Rod\535886.31\38706.64;
+Verdant Shear Rod\532388.76\44390.05;
 Trident Rod\435304.76\31225.68;
 Ethereal Prism Rod\374558.3\29507.16;
 No-Life Rod\367185.01\36438.66;

@@ -37,7 +37,7 @@ Challenger's Rod\21527.68\69011.44;
 Destiny Rod\373.37\1054.82;
 Heaven's Rod\5252.09\15126.14;
 Carrot Rod\2937.55\9342.26;
-Krampus's Rod\-0.1\-0.14;
+Relic Rod\-0.2\-0.29;
 Seraphic Rod\15285.91\48540.66;
 Ethereal Prism Rod\12006.09\36159.11;
 Rod Of The Forgotten Fang\6500.55\20190.48;

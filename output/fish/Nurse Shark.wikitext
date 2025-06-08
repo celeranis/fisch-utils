@@ -42,7 +42,7 @@ Roslit Bay/Surrounding Ocean
 |top_rods      = 
 Leviathan's Fang Rod\272459.82\154439.47;
 Trident Rod\271255.28\155791.01;
-Free Spirit Rod\239185.57\137372.3;
+Free Spirit Rod\251774.29\144602.42;
 Krampus's Rod\234883.29\210622.7;
 Magma Rod\216313.97\193971.36;
 Plastic Rod\203745.58\182696.5;
@@ -55,11 +55,11 @@ Ethereal Prism Rod\182958.81\166864.69;
 Seraphic Rod\182099.65\152041.46;
 Rod Of The Forgotten Fang\173303.67\138487.23;
 Challenger's Rod\171918.57\139080.08;
+Blazebringer Rod\167333.69\137372.48;
 Rod Of The Exalted One\158793.16\117943.69;
 Zeus Rod\157874.63\128780.58;
+Verdant Shear Rod\157455.05\129259.32;
 Rod Of The Depths\156972.68\125366.8;
-Verdant Shear Rod\156371.79\128755.38;
-Blazebringer Rod\150600.32\121672.77;
 Depthseeker Rod\146119.3\118287.91;
 Volcanic Rod\140362.09\97742.39;
 Avalanche Rod\139831.01\105778.24;

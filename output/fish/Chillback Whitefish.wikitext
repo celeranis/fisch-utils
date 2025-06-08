@@ -28,20 +28,20 @@
 Glacial Grotto
 |top_rods      = 
 Training Rod\247647.85\247647.85;
+Azure Of Lagoon\219932.62\174427.59;
+Firefly Rod\215952.15\180372.91;
 Flimsy Rod\213358.91\181633.06;
-Azure Of Lagoon\208935.99\123125.35;
 Summit Rod\207605.92\145419.25;
-No-Life Rod\205847.21\179072.38;
-Fungal Rod\188122.21\184609.78;
 Ethereal Prism Rod\182426.19\184986.58;
-Firefly Rod\201045.86\182249.32;
+Fungal Rod\188122.21\184609.78;
 Candy Cane Rod\149161.67\143592.03;
+No-Life Rod\205847.21\179072.38;
 Depthseeker Rod\205258.96\141125.78;
-Verdant Shear Rod\202048.41\151244.8;
+Free Spirit Rod\204012.92\157699.27;
+Verdant Shear Rod\203972.68\151591.3;
 Avalanche Rod\202000.93\137805.48;
 Trident Rod\198819.04\126529.53;
-Free Spirit Rod\193812.28\126159.41;
-Blazebringer Rod\191140.84\142669.97;
+Blazebringer Rod\191140.84\161079;
 Zeus Rod\189728.47\151158.18;
 Challenger's Rod\187060.01\162521.08;
 Volcanic Rod\185228.27\114715.69;

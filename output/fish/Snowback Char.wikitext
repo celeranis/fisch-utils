@@ -27,9 +27,9 @@
 {{Fish Availability|
 Cryogenic Canal
 |top_rods      = 
+Firefly Rod\123479.22\21766.19;
 Champions Rod\118049.79\15380.03;
 Celestial Rod\117404.54\15904.91;
-Firefly Rod\116664.55\23112.04;
 Rapid Rod\116246.74\19832.32;
 Ice Warpers Rod\116021.5\15831.69;
 Training Rod\115451.39\26814.52;
@@ -38,20 +38,21 @@ Fungal Rod\109780.49\19858.79;
 Nocturnal Rod\79648.42\45934.5;
 Astralhook Rod\112139.69\22849.5;
 Ethereal Prism Rod\108304.96\22326.51;
+Adventurer's Rod\113845.97\22226.37;
 Avalanche Rod\111771.08\14704.28;
 Depthseeker Rod\111560.82\16414.51;
 No-Life Rod\108562.73\21308.15;
 Seraphic Rod\107257.64\21051.99;
-Verdant Shear Rod\103850.94\17911.53;
+Verdant Shear Rod\105254.33\17959.83;
 Challenger's Rod\98197.78\19273.77;
 Rod Of The Forgotten Fang\97857.15\19206.91;
-Blazebringer Rod\94257.63\16903.97;
+Blazebringer Rod\97236.64\19085.12;
+Free Spirit Rod\96247.55\18890.99;
 Zeus Rod\93515.9\17904.28;
 Volcanic Rod\91233.63\13588.4;
 Rod Of The Depths\88790.22\17427.3;
 Trident Rod\86634.76\15173.48;
 Rod Of The Exalted One\83442.17\16377.61;
-Free Spirit Rod\83281.98\15112.79;
 Steady Rod\54530.79\7420.05
 |recommended   = Training Rod
 }}

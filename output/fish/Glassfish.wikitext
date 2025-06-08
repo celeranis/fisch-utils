@@ -28,10 +28,10 @@
 Sunstone Island
 |top_rods      = 
 Leviathan's Fang Rod\262952.09\116782.81;
+Free Spirit Rod\261427.23\172274.8;
 Trident Rod\250926.95\137988.85;
-Free Spirit Rod\248355.87\137819.84;
+Azure Of Lagoon\246372.71\193816.73;
 No-Life Rod\234049.53\198190.73;
-Azure Of Lagoon\231260.22\171189.51;
 Flimsy Rod\162231.77\142207.89;
 Training Rod\189917.22\189917.22;
 Lucky Rod\179343\65870.45;
@@ -42,11 +42,11 @@ Ethereal Prism Rod\222022.08\32318.21;
 Astralhook Rod\221322.25\0;
 Challenger's Rod\220694.08\180692.32;
 Rod Of The Forgotten Fang\220129.33\180263.56;
+Blazebringer Rod\218655.4\179620.41;
 Rod Of The Exalted One\216425.1\126500.37;
 Rod Of The Depths\215399.96\164224.38;
 Zeus Rod\214373.35\168490.12;
-Blazebringer Rod\210307.77\159092.37;
-Verdant Shear Rod\206802.15\168923.25;
+Verdant Shear Rod\207500.09\168923.25;
 Depthseeker Rod\202408.78\154117.86;
 Avalanche Rod\201073.77\138564.32;
 Volcanic Rod\199903.35\139978.19;

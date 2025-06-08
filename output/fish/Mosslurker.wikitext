@@ -29,13 +29,13 @@ Apex Fish Hunt/Mosslurker
 |top_rods      = 
 Leviathan's Fang Rod\21223.41\76180.11;
 Great Rod of Oscar\15297.82\43443.38;
+Azure Of Lagoon\14643.34\55492.07;
 Ethereal Prism Rod\14622.07\44951.76;
 Astralhook Rod\14546.04\43896.55;
-No-Life Rod\14542.94\56009.06;
 Heaven's Rod\10400.59\37559.96;
+No-Life Rod\14542.94\56009.06;
 Seraphic Rod\14113.85\45529.2;
-Azure Of Lagoon\11553.32\44393.65;
-Abyssal Specter Rod\11282.03\39642.39;
+Friendly Rod\12784.84\42970.62;
 Rod Of The Forgotten Fang\13115.41\42515.16;
 Challenger's Rod\12728.78\43000.41;
 Zeus Rod\11410.84\38491.8;

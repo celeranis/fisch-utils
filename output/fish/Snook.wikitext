@@ -30,25 +30,25 @@ Moosewood/Docks
 Astralhook Rod\104350.92\208051.7;
 Champions Rod\100316.75\97076;
 Ethereal Prism Rod\100035\171364.57;
+Firefly Rod\100024.7\96793.38;
 Celestial Rod\99610.26\97544.45;
-Ice Warpers Rod\98920.58\96869.08;
 Training Rod\82023.85\126898.79;
 Fortune Rod\55556.68\110767.23;
 Leviathan's Fang Rod\92603.58\111885.04;
 Avalanche Rod\96457.29\76492.86;
 Depthseeker Rod\95531.19\70414.45;
+Verdant Shear Rod\90644.29\77178.84;
 No-Life Rod\90612.77\90612.77;
 Seraphic Rod\90194.3\90194.3;
-Verdant Shear Rod\90151.65\77110.6;
 Challenger's Rod\82555.97\82555.97;
 Rod Of The Forgotten Fang\82360.07\82360.07;
-Blazebringer Rod\80005.95\72687.23;
+Blazebringer Rod\82066.23\82066.23;
 Zeus Rod\79495.44\76980.94;
+Free Spirit Rod\78942.82\78942.82;
 Volcanic Rod\77647.43\58468.82;
 Rod Of The Depths\74972.43\74972.43;
 Rod Of The Exalted One\72618.38\78621.14;
 Trident Rod\65778.24\63248.13;
-Free Spirit Rod\64982.15\63154.26;
 Steady Rod\48295.24\48295.24
 |recommended   = Ethereal Prism Rod
 }}

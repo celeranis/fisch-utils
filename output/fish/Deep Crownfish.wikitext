@@ -28,26 +28,26 @@
 Atlantis/Sunken Depths
 |top_rods      = 
 Leviathan's Fang Rod\41599.34\193458.68;
-Free Spirit Rod\35372.94\180804.12;
+Free Spirit Rod\37340.88\190320.13;
 Trident Rod\34594.19\176823.62;
 Great Rod of Oscar\33665.03\106406.41;
 Ethereal Prism Rod\31695.49\110359.32;
 Resourceful Rod\24459.29\90782.65;
 Destiny Rod\25534.89\96117.87;
+Azure Of Lagoon\29753.81\128222.91;
 No-Life Rod\30272.12\126877.08;
-Firefly Rod\23393.85\114605.29;
+Firefly Rod\26133.74\125832.03;
+Adventurer's Rod\22373.02\108686.04;
 Long Rod\17862.51\86626.54;
-Brick Built Rod\17384.49\84676.58;
-Fungal Rod\19630.21\95647.67;
 Astralhook Rod\31694.64\110537.27;
 Seraphic Rod\30338.53\112159.18;
 Rod Of The Forgotten Fang\28285.47\110308.33;
 Challenger's Rod\27196.43\110173.83;
+Blazebringer Rod\26054.2\108084.65;
 Rod Of The Depths\25254.8\98541.87;
 Rod Of The Exalted One\25092.17\99633.06;
 Zeus Rod\24525.43\101895.8;
-Verdant Shear Rod\23963.21\101807.67;
-Blazebringer Rod\23311.65\97276.18;
+Verdant Shear Rod\24094.16\102953.73;
 Depthseeker Rod\22094.68\96141.58;
 Avalanche Rod\19853.13\86546.21;
 Volcanic Rod\19109.63\80526.64;

@@ -30,17 +30,16 @@ The Cursed Shores
 |top_rods      = 
 Great Rod of Oscar\100551.75\158542.15;
 Astralhook Rod\94939.28\158095.03;
+Azure Of Lagoon\86495.13\155777.94;
+Free Spirit Rod\85379.32\150157.99;
 Fang of the Eclipse\85209.73\157208.56;
-Carrot Rod\77396.26\136892.44;
-Krampus's Rod\71539.34\48719.9;
 Magma Rod\57392.49\47381.61;
 Plastic Rod\44838.67\42803.02;
 Frostfire Rod\33636.12\49685.99;
 Training Rod\51583.81\323478.26;
 Flimsy Rod\33467.99\84191.56;
-Free Spirit Rod\71403.31\123659.52;
-Blazebringer Rod\62728.32\114595.48;
-Verdant Shear Rod\61452.64\114796.36;
+Blazebringer Rod\70108.12\128077.3;
+Verdant Shear Rod\64661.32\120790.33;
 Trident Rod\49855.28\92446.44;
 Seraphic Rod\48230.36\89433.36;
 Ethereal Prism Rod\46413.76\84182.51;

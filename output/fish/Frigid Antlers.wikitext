@@ -29,23 +29,23 @@
 Overgrowth Caves
 |top_rods      = 
 Leviathan's Fang Rod\67833.43\159717.31;
-Free Spirit Rod\60363\152685.03;
+Free Spirit Rod\63540\160721.09;
 Trident Rod\58659.66\148376.52;
 No-Life Rod\47248.17\107476.64;
 Great Rod of Oscar\46554.5\95345.08;
 Resourceful Rod\34538.69\77664.04;
 Destiny Rod\36517.4\79668.02;
-Azure Of Lagoon\38460.67\107202.67;
+Azure Of Lagoon\46366.46\113546.21;
 Ethereal Prism Rod\46317.83\96145.39;
 Seraphic Rod\46174.85\96686.22;
 Astralhook Rod\46145.53\95702.62;
 Rod Of The Forgotten Fang\43140.43\93351.89;
 Challenger's Rod\42607.21\93982.89;
+Blazebringer Rod\41103.06\91073.52;
 Rod Of The Depths\38993.3\84157.18;
 Zeus Rod\38637.36\85709.61;
-Verdant Shear Rod\38079.65\85108.65;
+Verdant Shear Rod\38313.6\86139.02;
 Rod Of The Exalted One\37364.82\83447.44;
-Blazebringer Rod\36776.42\81966.17;
 Depthseeker Rod\35286.85\80397.81;
 Avalanche Rod\31706.37\72196.1;
 Volcanic Rod\30120.97\75268.32;

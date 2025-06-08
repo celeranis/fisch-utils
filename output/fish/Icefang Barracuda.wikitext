@@ -29,8 +29,8 @@ Glacial Grotto
 |top_rods      = 
 Leviathan's Fang Rod\235625.62\175659.05;
 Trident Rod\219625.19\176228.7;
+Free Spirit Rod\211460.31\169677.14;
 Krampus's Rod\207876.2\190816.01;
-Free Spirit Rod\200887.29\161193.28;
 Magma Rod\195162.08\179145.33;
 Plastic Rod\181103.86\166236.65;
 Fast Rod\149006.29\187467.91;
@@ -42,11 +42,11 @@ Astralhook Rod\182295.65\119625.4;
 Seraphic Rod\181210.1\124436.75;
 Rod Of The Forgotten Fang\170036.07\116756.48;
 Challenger's Rod\167144.51\119648.34;
+Blazebringer Rod\162408.94\117413.29;
 Rod Of The Depths\154367.84\109692.88;
 Zeus Rod\153009.47\113015.02;
-Verdant Shear Rod\150947.33\109525.36;
+Verdant Shear Rod\151481.97\111791.4;
 Rod Of The Exalted One\147972.26\111683.64;
-Blazebringer Rod\145313.26\108803.65;
 Depthseeker Rod\139076.13\101861.01;
 Avalanche Rod\125452.89\92265.13;
 Volcanic Rod\119228.16\100832.21;

@@ -27,25 +27,25 @@
 {{Fish Availability|
 Atlantis/Ethereal Abyss
 |top_rods      = 
+Free Spirit Rod\188725.95\17186.54;
 Leviathan's Fang Rod\188247.44\0;
 Trident Rod\181904\13773.72;
-Free Spirit Rod\179289.65\13749.23;
-Azure Of Lagoon\170270.77\19243.25;
+Azure Of Lagoon\179232.39\20256.05;
 No-Life Rod\168434.58\19679.49;
 Flimsy Rod\108503.7\18187.36;
 Training Rod\131386.19\20041.9;
 Long Rod\138747.96\16473.67;
 Nocturnal Rod\93182.72\75995.67;
 Fast Rod\148844.88\19605.65;
-Seraphic Rod\156691.07\19574.26;
 Challenger's Rod\156910.14\17916.56;
+Seraphic Rod\156691.07\19574.26;
+Blazebringer Rod\156421.53\17796.14;
 Rod Of The Forgotten Fang\154561.89\17874.05;
 Zeus Rod\153822.89\17332.46;
 Ethereal Prism Rod\153505.36\0;
+Verdant Shear Rod\153073.23\17581.57;
 Rod Of The Depths\152786.65\16256.91;
-Blazebringer Rod\152705.13\17237.86;
 Astralhook Rod\152701.61\0;
-Verdant Shear Rod\152131.24\17505.46;
 Rod Of The Exalted One\151654.91\0;
 Depthseeker Rod\150038.17\16484.61;
 Avalanche Rod\148494.2\15291.79;

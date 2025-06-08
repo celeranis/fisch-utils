@@ -29,9 +29,9 @@ Overgrowth Caves
 |top_rods      = 
 Training Rod\226349.99\226349.99;
 Champions Rod\213359.44\138813.36;
+Firefly Rod\213290.74\176606.26;
 Celestial Rod\211439.34\143558.61;
 Ice Warpers Rod\209412.01\142956.42;
-Rapid Rod\209236.41\179306.1;
 Flimsy Rod\144339.98\144339.98;
 Buddy Bond Rod\114344.79\92303.69;
 Astralhook Rod\202912.61\204880.57;
@@ -40,16 +40,16 @@ No-Life Rod\191617.37\191617.37;
 Seraphic Rod\189883.87\189883.87;
 Avalanche Rod\203905.7\132824.33;
 Depthseeker Rod\202733.09\148183.89;
-Verdant Shear Rod\189290.9\161840.31;
+Verdant Shear Rod\191093.67\162211.08;
 Challenger's Rod\173906.55\173906.55;
 Rod Of The Forgotten Fang\173355.19\173355.19;
-Blazebringer Rod\171770.28\152664.77;
+Blazebringer Rod\172363.45\172363.45;
 Zeus Rod\170501.04\161747.62;
+Free Spirit Rod\168746.95\168746.95;
 Volcanic Rod\166456.9\122752.14;
 Rod Of The Depths\157421.43\157421.43;
 Rod Of The Exalted One\147885.95\147885.95;
 Trident Rod\137082.2\135393.61;
-Free Spirit Rod\134997.56\134997.56;
 Steady Rod\90954.19\57541.23
 |recommended   = Training Rod
 }}

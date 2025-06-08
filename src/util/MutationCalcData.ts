@@ -101,7 +101,7 @@ export const MUTATION_DATA: MutationDataEntry[] = [
 	},
 	{
 		mutation: 'Bloom',
-		chance: 20,
+		chance: 30,
 		priority: MutationPriority.SpecialRods,
 		chance_type: 'percent',
 		allow_crates: true,
@@ -1182,7 +1182,7 @@ export const MUTATION_DATA: MutationDataEntry[] = [
 	},
 	{
 		mutation: 'Gemstone',
-		chance: 8,
+		chance: 20,
 		priority: MutationPriority.SpecialRods,
 		chance_type: 'percent',
 		allow_crates: true,
@@ -1191,6 +1191,34 @@ export const MUTATION_DATA: MutationDataEntry[] = [
 				check: 'conditions',
 				property: 'rod',
 				values: ['Treasure Rod']
+			}
+		]
+	},
+	{
+		mutation: 'Mother Nature',
+		chance: 30,
+		priority: MutationPriority.SpecialRods,
+		chance_type: 'percent',
+		allow_crates: true,
+		conditions: [
+			{
+				check: 'conditions',
+				property: 'rod',
+				values: ['Wildflower Rod']
+			}
+		]
+	},
+	{
+		mutation: 'Glossy',
+		chance: 100,
+		priority: MutationPriority.SpecialRods,
+		chance_type: 'percent',
+		allow_crates: true,
+		conditions: [
+			{
+				check: 'conditions',
+				property: 'rod',
+				values: ['Azure of Lagoon']
 			}
 		]
 	},

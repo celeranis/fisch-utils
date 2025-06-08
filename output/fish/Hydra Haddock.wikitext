@@ -28,20 +28,20 @@
 Mariana's Veil/Scylla Hunt
 Mariana's Veil/Veil of the Forsaken
 |top_rods      = 
+Free Spirit Rod\311950.59\233867.24;
+Azure Of Lagoon\307995.23\263110.94;
 Leviathan's Fang Rod\304500.4\257406.26;
 Trident Rod\299421.03\187323.23;
-Free Spirit Rod\296353.06\187093.79;
-Azure Of Lagoon\292595.47\185725.37;
-No-Life Rod\290276.44\269048.74;
+Firefly Rod\297500.36\361923.32;
 Long Rod\263444.31\296336.88;
 Brick Built Rod\259348.17\291729.31;
 Resourceful Rod\273486.1\276959.93;
-Firefly Rod\277859.08\304162.59;
+Wildflower Rod\287749.96\301452.15;
 Rapid Rod\284223.46\282146.12;
-Fast Rod\280220.17\280220.17;
-Fungal Rod\279754.72\269945.45;
-Verdant Shear Rod\275324.37\265758.28;
-Blazebringer Rod\274289.11\237929.84;
+Adventurer's Rod\278173.2\281068.37;
+No-Life Rod\290276.44\269048.74;
+Verdant Shear Rod\276401.96\266798.43;
+Blazebringer Rod\274289.11\243839.09;
 Zeus Rod\272601.75\236466.15;
 Challenger's Rod\272120.41\245294.23;
 Seraphic Rod\267989.58\267989.58;

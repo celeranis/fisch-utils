@@ -29,18 +29,19 @@
 Treasure Island
 |top_rods      = 
 Great Rod of Oscar\13841.14\70099.1;
+Free Spirit Rod\13111.46\82775.69;
 Astralhook Rod\12906.79\70135.1;
-Free Spirit Rod\12455.89\68168.21;
+Azure Of Lagoon\11906.77\73797.19;
 Carrot Rod\11096.2\65175.91;
-Fang of the Eclipse\10862.95\67384.35;
 Magma Rod\7914.52\36258.97;
 Frostfire Rod\6868.87\36779.87;
 Krampus's Rod\8103.71\33957.18;
+Firefly Rod\10095.44\69341.16;
 Resourceful Rod\7624\44823.21;
-Frog Rod\6745.5\43669.89;
+Frog Rod\9328.39\60391.29;
 Fortune Rod\5759.62\37287.37;
-Verdant Shear Rod\9287.94\62073.48;
-Blazebringer Rod\9095.63\55705.87;
+Blazebringer Rod\10165.7\62259.5;
+Verdant Shear Rod\9470.06\63290.6;
 Trident Rod\8225.59\52350.47;
 Ethereal Prism Rod\6445.55\39109.42;
 Seraphic Rod\6436.04\40185.35;
@@ -54,7 +55,7 @@ Depthseeker Rod\5468.49\36129.08;
 Volcanic Rod\5380.87\35024.43;
 Avalanche Rod\5337.59\35317.95;
 Zeus Rod\5315.46\34598.67
-|recommended   = Astralhook Rod
+|recommended   = Free Spirit Rod
 }}
 
 == Catch Quips ==

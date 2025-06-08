@@ -30,23 +30,22 @@ Emberreach/Freshwater Pond
 |top_rods      = 
 Astralhook Rod\186117.84\42909.9;
 Trident Rod\180372.7\7384.66;
+Azure Of Lagoon\151226.97\12373.12;
 Leviathan's Fang Rod\148936.85\7379.8;
 Great Rod of Oscar\147564.83\11087;
-No-Life Rod\147408.31\11040.66;
 Resourceful Rod\112516.5\9199.21;
 Wisdom Rod\120372.37\9779.07;
 Nocturnal Rod\61031.91\61031.91;
+Free Spirit Rod\141370.45\12012.17;
 Carrot Rod\142388.16\11649.94;
-Fang of the Eclipse\139805.75\11438.65;
-Wildflower Rod\140013.36\11236.63;
-Verdant Shear Rod\129855.61\10616.83;
+No-Life Rod\147408.31\11040.66;
+Blazebringer Rod\137997.8\11290.73;
+Verdant Shear Rod\130359.38\10658.02;
 Challenger's Rod\123582.68\9229.51;
-Blazebringer Rod\122226.62\10000.36;
 Depthseeker Rod\121113.26\9355.18;
 Avalanche Rod\116617.36\9020.6;
 Volcanic Rod\116031.69\8780.62;
 Zeus Rod\115495.3\8740.02;
-Free Spirit Rod\113096.36\9609.74;
 Rod Of The Depths\110081.5\6170;
 Seraphic Rod\109624.76\6567.89;
 Rod Of The Forgotten Fang\106223.95\6224.1;

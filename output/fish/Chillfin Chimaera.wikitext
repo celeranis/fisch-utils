@@ -28,10 +28,10 @@
 {{Fish Availability|
 Mariana's Veil/Challenger's Deep
 |top_rods      = 
+Free Spirit Rod\222082.1\293972.94;
 Leviathan's Fang Rod\217425.01\284279.77;
-Free Spirit Rod\210978\279274.29;
 Trident Rod\199574.18\260852.17;
-Azure Of Lagoon\158347.34\208261.92;
+Azure Of Lagoon\167748.64\239592.68;
 No-Life Rod\156525.09\226933.73;
 Midas Rod\58332.19\82026.77;
 Wisdom Rod\111146.82\147805.6;
@@ -44,10 +44,10 @@ Ethereal Prism Rod\139979.67\180566.43;
 Astralhook Rod\139195.8\178956.82;
 Challenger's Rod\135547.78\179119.3;
 Rod Of The Forgotten Fang\131731.77\170720.55;
+Blazebringer Rod\127200.15\166275.44;
+Verdant Shear Rod\119836.84\156810.03;
 Zeus Rod\118065.24\152616.83;
-Verdant Shear Rod\117962.05\154356.81;
 Rod Of The Depths\116025.46\149649.97;
-Blazebringer Rod\113810.66\148772.76;
 Depthseeker Rod\112384.32\146569.81;
 Rod Of The Exalted One\111849.48\144714.29;
 Avalanche Rod\98885.89\127998.62;

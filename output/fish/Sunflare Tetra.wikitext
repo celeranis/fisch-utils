@@ -30,14 +30,14 @@ Emberreach/Surrounding Ocean
 |top_rods      = 
 Fast Rod\486254.06\386508.13;
 Lucky Rod\477874.63\430532.11;
+Adventurer's Rod\329032.69\400568.98;
 Fungal Rod\311690.74\311690.74;
 Antler Rod\298537.12\298537.12;
-Adventurer's Rod\232951.15\232951.15;
+Free Spirit Rod\205529.23\156521.05;
 Trident Rod\199881.34\178776.71;
-Free Spirit Rod\195252.76\125216.84;
 Astralhook Rod\174632.33\92156.19;
-Verdant Shear Rod\161878.77\147799.05;
-Blazebringer Rod\161155.43\141968.95;
+Verdant Shear Rod\163993.61\149729.95;
+Blazebringer Rod\163464.36\149151.8;
 No-Life Rod\154917.93\145869.51;
 Seraphic Rod\142619\127560.47;
 Ethereal Prism Rod\137637.43\99421.18;

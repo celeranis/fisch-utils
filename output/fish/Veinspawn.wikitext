@@ -28,21 +28,21 @@
 {{Fish Availability|
 The Cursed Shores
 |top_rods      = 
+Free Spirit Rod\84846.54\252806.1;
 Krampus's Rod\83841.73\156859.5;
 Great Rod of Oscar\80655.31\198981.63;
 Magma Rod\78695.54\156921.06;
-Free Spirit Rod\77785.45\208193.26;
 Astralhook Rod\76791.15\201305.01;
 Frostfire Rod\76070.6\119719.71;
 Plastic Rod\73267.31\115307.9;
+Azure Of Lagoon\72739.8\210557.4;
 Fang of the Eclipse\66092.55\197929.89;
-Carrot Rod\66850.54\188622.91;
 Fast Rod\46379.93\126911.18;
 Fischer's Rod\52582.46\126911.18;
 Buddy Bond Rod\37586.76\109401.87;
 Steady Rod\70531.61\111001.72;
-Verdant Shear Rod\55242.07\167969.61;
-Blazebringer Rod\54794.67\161832.87;
+Blazebringer Rod\61241.1\180872.03;
+Verdant Shear Rod\56566.69\171997.27;
 Trident Rod\53417.85\133764.55;
 Seraphic Rod\39095.47\117914.81;
 Ethereal Prism Rod\38976.44\113951.54;

@@ -35,17 +35,18 @@ Open Ocean/Sea Leviathan
 |top_rods      = 
 Frostfire Rod\89276.11\56635.23;
 Steady Rod\88178.32\56306.71;
-Free Spirit Rod\69741.17\52602.9;
+Free Spirit Rod\73411.75\64897.62;
 Event Horizon Rod\61547.63\50433.47;
 Astral Rod\61547.63\50433.47;
+Firefly Rod\51967.54\64578.47;
 Great Rod of Oscar\60007.33\60726.49;
 Astralhook Rod\57785.04\59764.42;
-Carrot Rod\52729.66\55640.84;
+Azure Of Lagoon\56223.05\59625.41;
 Nocturnal Rod\14724.06\48914.91;
 Lucky Rod\31189.5\52427.85;
 Trident Rod\53688.3\36349.14;
-Verdant Shear Rod\47771.07\54945.38;
-Blazebringer Rod\44442.12\47360.77;
+Blazebringer Rod\49670.61\52932.62;
+Verdant Shear Rod\48194.86\55432.81;
 No-Life Rod\36783.46\30275.27;
 Seraphic Rod\31323.45\31812.07;
 Ethereal Prism Rod\31312.36\32711.45;

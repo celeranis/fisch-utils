@@ -29,21 +29,19 @@
 {{Fish Availability|
 Animal Hunt/Second Sea
 |top_rods      = 
-Firefly Rod\146095.53\167577;
+Firefly Rod\155549.92\189661.86;
+Adventurer's Rod\147025.57\155355.49;
 Brick Built Rod\134536.61\141276.07;
 Trident Rod\129550.51\127996.88;
-Leviathan's Fang Rod\123292.45\82351.02;
-Wildflower Rod\122959.54\121240.28;
+Wildflower Rod\128402.2\127971.47;
 Long Rod\119910.51\119910.51;
-Fungal Rod\121502.24\121502.24;
 Astralhook Rod\122315.48\135062.5;
 Merchant Rod\119016.85\134290.98;
-Adventurer's Rod\105436.29\111255.06;
 Fischer's Rod\105590.37\103349.62;
 Plastic Rod\99237.3\102910.93;
-Verdant Shear Rod\118404.77\116984.81;
-Free Spirit Rod\117737.75\83886.84;
-Blazebringer Rod\114391.45\95318.56;
+Free Spirit Rod\123934.47\104858.55;
+Verdant Shear Rod\119425.5\117993.3;
+Blazebringer Rod\114391.45\107617.73;
 No-Life Rod\109672.18\108341.94;
 Seraphic Rod\104418.21\103165.98;
 Challenger's Rod\100673.07\99129.94;
@@ -56,7 +54,7 @@ Zeus Rod\97784.44\97461.43;
 Rod Of The Exalted One\96829.48\82262.5;
 Ethereal Prism Rod\95840.1\61911.36;
 Steady Rod\80566.68\80566.68
-|recommended   = Astralhook Rod
+|recommended   = Free Spirit Rod
 }}
 
 == Catch Quips ==

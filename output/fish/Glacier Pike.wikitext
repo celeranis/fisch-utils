@@ -29,9 +29,9 @@ Snowcap Island/Freshwater Pond
 |top_rods      = 
 Astralhook Rod\166502.88\220148.96;
 Ethereal Prism Rod\161289.98\199093.71;
+Firefly Rod\159696.57\139990.3;
 Champions Rod\159336.8\122930.26;
 Celestial Rod\157913.16\119973.96;
-Rapid Rod\156239.34\141995.32;
 Training Rod\151136.36\164133.74;
 Flimsy Rod\122760.47\106975.45;
 Buddy Bond Rod\95030.03\80008.37;
@@ -41,12 +41,12 @@ Fortune Rod\88281.9\116725.72;
 Seraphic Rod\153189.44\150727.91;
 Depthseeker Rod\152078.39\117524.51;
 Avalanche Rod\151628.08\105279.63;
-Verdant Shear Rod\143541.27\128242.82;
+Verdant Shear Rod\145481.02\128588.64;
+Free Spirit Rod\140338.14\135255.55;
 Challenger's Rod\140249.8\137996.19;
 Rod Of The Forgotten Fang\139763.31\137517.51;
+Blazebringer Rod\138877.08\136645.52;
 Trident Rod\138688.51\108638.94;
-Free Spirit Rod\133321.24\108204.44;
-Blazebringer Rod\133141.62\121028.89;
 Zeus Rod\132093.89\128190.95;
 Volcanic Rod\128870.12\97290.1;
 Rod Of The Depths\126813.57\124775.86;

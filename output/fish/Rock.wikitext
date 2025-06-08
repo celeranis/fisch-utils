@@ -33,23 +33,22 @@ Vertigo/Vertigos Dip
 |top_rods      = 
 Champions Rod\324336.62\234749.02;
 Depthseeker Rod\323442.41\228840.43;
+Firefly Rod\323277.08\243547.94;
 Rapid Rod\321838.08\250356.05;
 Avalanche Rod\321466.49\228897;
-Merchant Rod\320835.97\236243.86;
 Firework Rod\272888.23\263114.58;
 Crystalized Rod\272888.23\263114.58;
 Auric Rod\287162.99\261495.96;
 Fungal Rod\278034.16\260416.89;
-Firefly Rod\304155.44\258652.28;
-Verdant Shear Rod\308616.62\191250;
-Blazebringer Rod\281942.14\180119.76;
+Astralhook Rod\227786.56\256721.42;
+Verdant Shear Rod\310115.97\191250;
+Blazebringer Rod\281942.14\203361.01;
 Zeus Rod\280207.71\190759.62;
 No-Life Rod\277071.74\224385.78;
 Volcanic Rod\273703.57\144886.36;
 Challenger's Rod\253600.68\204574.59;
+Free Spirit Rod\241610.57\195044.52;
 Trident Rod\231906.23\156226.97;
-Free Spirit Rod\229530.04\156035.62;
-Astralhook Rod\227786.56\256721.42;
 Seraphic Rod\223502.45\223502.45;
 Rod Of The Depths\222565.51\185930.07;
 Ethereal Prism Rod\221921.33\221921.33;

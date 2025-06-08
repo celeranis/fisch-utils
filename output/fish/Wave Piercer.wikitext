@@ -30,15 +30,16 @@ Waveborne
 |top_rods      = 
 Plastic Rod\49513.46\149515.92;
 Great Rod of Oscar\44181.54\118638.2;
+Free Spirit Rod\42061.3\178147.71;
 Astralhook Rod\40862.41\122960.48;
-Free Spirit Rod\38583.91\163046.43;
-Carrot Rod\34946.29\113746.54;
+Azure Of Lagoon\37177.9\134271.78;
 Fischer's Rod\27603.03\150898.57;
 Krampus's Rod\27992.75\63037.54;
-Firefly Rod\27413.2\137246.27;
+Firefly Rod\32399.47\155439.05;
+Adventurer's Rod\27595.73\143312.07;
 Lucky Rod\19364.13\93344.5;
-Verdant Shear Rod\28823.07\101866.8;
-Blazebringer Rod\28479.36\99485.51;
+Blazebringer Rod\31829.88\110539.45;
+Verdant Shear Rod\29246.94\104588.53;
 Steady Rod\26864.69\62613.63;
 Trident Rod\24778.9\104974.01;
 Ethereal Prism Rod\20048.04\72196.61;
@@ -52,7 +53,7 @@ Depthseeker Rod\16837.1\64205.82;
 Volcanic Rod\16754.68\62623.67;
 Zeus Rod\16602.1\62053.39;
 Avalanche Rod\16520.47\63127.47
-|recommended   = Astralhook Rod
+|recommended   = Free Spirit Rod
 }}
 
 == Catch Quips ==

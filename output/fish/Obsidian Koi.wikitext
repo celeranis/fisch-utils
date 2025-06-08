@@ -30,15 +30,15 @@ Emberreach/Surrounding Ocean
 |top_rods      = 
 Great Rod of Oscar\54326.31\134338.12;
 Astralhook Rod\50907.96\134215.1;
+Firefly Rod\49257.32\188004.08;
+Free Spirit Rod\47751.33\145885.53;
+Azure Of Lagoon\46698.96\136140.03;
 Krampus's Rod\45097.47\62242.48;
-Free Spirit Rod\44118.61\128906.77;
-Fang of the Eclipse\43635.11\130254.89;
 Magma Rod\43186.74\61506.29;
 Frostfire Rod\27476.88\63021.08;
-Firefly Rod\39747.75\155276.31;
 Brick Built Rod\30268.39\93625.67;
-Verdant Shear Rod\35716.39\107431.95;
-Blazebringer Rod\35666.77\104891.96;
+Blazebringer Rod\39862.86\117232.19;
+Verdant Shear Rod\36557.74\109962.66;
 Trident Rod\27650.45\83170.28;
 Seraphic Rod\25562.36\76889.46;
 Ethereal Prism Rod\25474.56\74229.57;

@@ -28,12 +28,12 @@
 Apex Fish Hunt/Apex Leviathan
 |top_rods      = 
 Great Rod of Oscar\14038.89\108855.86;
+Azure Of Lagoon\13560.5\124885.53;
 Astralhook Rod\13305.65\111680.9;
-Azure Of Lagoon\11342.65\91132.68;
-Leviathan's Fang Rod\11257.18\87065.53;
-Treasure Rod\10835.44\98306.65;
-Merchant Rod\10326.54\98133.81;
+Friendly Rod\11733.57\109956.09;
+Great Dreamer Rod\11568.16\102827.71;
 Ethereal Prism Rod\6918.08\65500.81;
+Leviathan's Fang Rod\11257.18\87065.53;
 No-Life Rod\7050.12\66928.8;
 Seraphic Rod\6821.98\64957.21;
 Rod Of The Forgotten Fang\6413.31\61046.48;

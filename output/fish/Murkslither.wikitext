@@ -28,19 +28,19 @@
 {{Fish Availability|
 The Cursed Shores
 |top_rods      = 
-Free Spirit Rod\245881.48\150935.66;
+Free Spirit Rod\258822.61\158879.64;
 Leviathan's Fang Rod\204188.15\207811.81;
 Trident Rod\196854.69\191895.68;
-Azure Of Lagoon\180428.77\181351.47;
+Azure Of Lagoon\192401.68\193442.7;
 Astralhook Rod\154785.58\0;
 Flimsy Rod\96168.15\100476.81;
 Training Rod\110529.46\93516.69;
 Ethereal Prism Rod\105482.26\105852.32;
-Fang of the Eclipse\154491.48\149842.06;
+Friendly Rod\148366\151601.59;
 Kraken Rod\98428.88\99690.23;
+Blazebringer Rod\145657.79\146036.92;
+Verdant Shear Rod\138413.44\134209.4;
 No-Life Rod\135608.01\127555.52;
-Verdant Shear Rod\134930.82\130036.74;
-Blazebringer Rod\131092.01\131433.22;
 Seraphic Rod\114593.66\111706.9;
 Challenger's Rod\103924.88\97366.18;
 Rod Of The Forgotten Fang\97906.05\93738.78;

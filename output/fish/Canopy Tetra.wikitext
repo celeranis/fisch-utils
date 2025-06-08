@@ -28,18 +28,22 @@
 {{Fish Availability|
 Lushgrove
 |top_rods      = 
-Free Spirit Rod\200421.52\12929.8;
-Azure Of Lagoon\188978.98\12240.33;
+Free Spirit Rod\210970.02\16162.25;
+Azure Of Lagoon\198925.24\17340.47;
 Trident Rod\188421.17\16950.64;
 Leviathan's Fang Rod\187576.22\17201.43;
-Fang of the Eclipse\175831.02\18614.18;
+Adventurer's Rod\181312.04\16713.41;
 Plastic Rod\134295.85\17237.99;
 Fischer's Rod\139402.4\17316.68;
 Candy Cane Rod\122795.6\13882.29;
 Nocturnal Rod\90504.77\87508.56;
+Fang of the Eclipse\175831.02\18614.18;
+Wildflower Rod\169986.92\17959.22;
+Frog Rod\170196.12\17861.78;
+Firefly Rod\171097.68\17546.25;
 Astralhook Rod\173425.16\0;
-Blazebringer Rod\165951.25\15734.1;
-Verdant Shear Rod\165281.14\16308.31;
+Blazebringer Rod\170676.08\16562.21;
+Verdant Shear Rod\166673.44\16399.33;
 No-Life Rod\155630.14\14676.23;
 Seraphic Rod\144756.06\13022.46;
 Ethereal Prism Rod\144738.39\13934.7;

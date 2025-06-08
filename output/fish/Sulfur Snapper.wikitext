@@ -28,19 +28,18 @@
 {{Fish Availability|
 Emberreach/Freshwater Pond
 |top_rods      = 
+Free Spirit Rod\283363.23\208138.87;
 Trident Rod\271265.94\240044.31;
-Free Spirit Rod\269195.07\166511.1;
 Leviathan's Fang Rod\267584.52\240398.01;
-Azure Of Lagoon\245858.64\167852.96;
+Azure Of Lagoon\258798.57\215990.11;
 Astralhook Rod\228115.49\125111.01;
 Scurvy Rod\171469.08\171469.08;
 Haunted Rod\167985.28\167985.28;
 Mythical Rod\167985.28\167985.28;
-Verdant Shear Rod\218142.02\212853.78;
-Merchant Rod\215476.62\208457.74;
-Carrot Rod\206621.58\204794.71;
+Wildflower Rod\222632.65\216690.89;
+Verdant Shear Rod\221134.55\215300.58;
 Resourceful Rod\167039.88\167039.88;
-Blazebringer Rod\215089.34\193236.33;
+Blazebringer Rod\215089.34\198554.84;
 No-Life Rod\206083.7\187983.98;
 Seraphic Rod\189672.51\167841.96;
 Ethereal Prism Rod\185175.09\151671.47;

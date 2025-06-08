@@ -1,4 +1,4 @@
--- Last update: Version [[1.34]], place version 55
+-- Last update: Version [[1.35]], place version 56
 
 return {
 	["Aurora Bait"] = "Mythical",

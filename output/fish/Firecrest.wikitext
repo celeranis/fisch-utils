@@ -28,16 +28,16 @@
 {{Fish Availability|
 Emberreach/Freshwater Pond
 |top_rods      = 
-Firefly Rod\538222.98\666055.47;
+Firefly Rod\575670.11\617372.71;
 Brick Built Rod\443116.9\425490.93;
-Free Spirit Rod\420210.38\402264.46;
+Free Spirit Rod\442326.71\423436.27;
 Buddy Bond Rod\417144.74\372182.54;
-Azure Of Lagoon\363688.77\378576.93;
-Verdant Shear Rod\338349.8\405700.98;
-Carrot Rod\353471.36\397589.77;
+Azure Of Lagoon\393183.84\469477.73;
+Frog Rod\328502.31\457086.6;
 Astralhook Rod\359558.19\59107.58;
 Trident Rod\352601.32\312018.31;
-Blazebringer Rod\316493.04\347559.27;
+Blazebringer Rod\351658.93\378532.27;
+Verdant Shear Rod\339535.13\407669.87;
 No-Life Rod\288238.9\262923.73;
 Ethereal Prism Rod\273989.22\276276.12;
 Seraphic Rod\272886.88\241478.68;

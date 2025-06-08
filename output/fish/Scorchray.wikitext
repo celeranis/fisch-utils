@@ -28,17 +28,18 @@
 {{Fish Availability|
 Emberreach/Surrounding Ocean
 |top_rods      = 
-Adventurer's Rod\157462.34\317167.36;
-Free Spirit Rod\113979.48\193018.24;
+Adventurer's Rod\184658.15\417602.26;
+Free Spirit Rod\119978.4\211026.8;
 Great Rod of Oscar\103917.13\161718.18;
+Firefly Rod\100433.75\238744.29;
 Astralhook Rod\98953.9\163613.77;
-Steady Rod\94322.1\104902.13;
 Long Rod\90722.07\170892.59;
 Buddy Bond Rod\84566.25\172934.6;
-Firefly Rod\88170.63\215925.06;
+Azure Of Lagoon\94703.86\179360.59;
+Steady Rod\94322.1\104902.13;
+Blazebringer Rod\83175.42\151121.5;
 Trident Rod\78994\125140.13;
-Verdant Shear Rod\76508.31\141224.53;
-Blazebringer Rod\74420.12\135213.97;
+Verdant Shear Rod\77274.97\142639.68;
 No-Life Rod\53357.59\95961.17;
 Ethereal Prism Rod\51765.75\93338.16;
 Seraphic Rod\51522.33\95103.61;

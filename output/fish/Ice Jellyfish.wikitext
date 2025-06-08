@@ -28,10 +28,10 @@
 Frigid Cavern
 |top_rods      = 
 Training Rod\225570.37\175932.71;
+Firefly Rod\206497.63\122662.97;
 Champions Rod\198686.28\96434.45;
 Celestial Rod\197014.49\99728.25;
 Ice Warpers Rod\194930.19\99290.44;
-Rapid Rod\194891.8\124462.83;
 Flimsy Rod\142753.82\102005.22;
 Fungal Rod\179001.3\109610.37;
 Astralhook Rod\186618.23\174202.03;
@@ -41,16 +41,16 @@ Seraphic Rod\175345.2\131954.18;
 Fortune Rod\99019.52\92431.5;
 Avalanche Rod\189312.64\92237.5;
 Depthseeker Rod\188608.98\102932.81;
-Verdant Shear Rod\175527.21\112372.23;
+Verdant Shear Rod\177503.13\112651.07;
 Challenger's Rod\160563.48\120830.35;
 Rod Of The Forgotten Fang\160031.51\120430.03;
-Blazebringer Rod\159046.21\106024.9;
+Blazebringer Rod\159068.78\119705.53;
 Zeus Rod\157830.88\112316.46;
+Free Spirit Rod\156554.49\117813.43;
 Volcanic Rod\154043.11\85240.32;
 Rod Of The Depths\145266.16\109318.51;
 Rod Of The Exalted One\136490.19\102714.25;
 Trident Rod\129709.57\94574.56;
-Free Spirit Rod\125689.04\94250.74;
 Steady Rod\85528.95\48396.76
 |recommended   = Training Rod
 }}

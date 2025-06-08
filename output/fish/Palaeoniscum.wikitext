@@ -29,21 +29,20 @@ Ancient Archives
 |top_rods      = 
 Krampus's Rod\407825.22\373723.43;
 Magma Rod\394096.53\361142.71;
+Free Spirit Rod\373228.68\233240.37;
 Leviathan's Fang Rod\372989.33\256871.91;
 Fast Rod\364872.65\419305.71;
-Trident Rod\362061.78\187058.22;
 Flimsy Rod\304531.79\341364.3;
 Training Rod\311375.04\308256.88;
 Buddy Bond Rod\267384.98\372955.85;
 Fischer's Rod\324048.17\372390.88;
-Adventurer's Rod\321873.35\369891.62;
-Free Spirit Rod\354567.25\186592.29;
+Trident Rod\362061.78\187058.22;
 No-Life Rod\328240.88\265643.33;
 Depthseeker Rod\309688.6\205785.43;
 Avalanche Rod\306639.25\184502.22;
+Verdant Shear Rod\304949.71\225311.9;
 Challenger's Rod\303449.16\241451.84;
-Verdant Shear Rod\302480.48\224834.88;
-Blazebringer Rod\301548.01\212045;
+Blazebringer Rod\302595.3\239405.64;
 Seraphic Rod\301318.25\263591.75;
 Zeus Rod\299398.14\224691.78;
 Rod Of The Forgotten Fang\297601.06\240718.03;

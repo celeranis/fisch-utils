@@ -37,6 +37,7 @@ Atlantis/Poseidon Temple
 Atlantis/Sunken Depths
 Atlantis/Surrounding Ocean
 Atlantis/Zeus's Rod Room
+Bloop Fish
 Cryogenic Canal
 Desolate Deep/Brine Pool
 Desolate Deep/Desolate Pocket
@@ -105,15 +106,15 @@ Astralhook Rod\486832.04\327887.02;
 Ethereal Prism Rod\480738.27\329534.44;
 No-Life Rod\475808.79\367059.41;
 Seraphic Rod\473363.53\339543.79;
+Free Spirit Rod\462385.15\385939.8;
 Rod Of The Forgotten Fang\444642.93\337478.81;
 Trident Rod\441029.78\368115.08;
-Free Spirit Rod\439265.89\366642.81;
 Challenger's Rod\436966.6\349025.85;
+Blazebringer Rod\429071.83\354537.24;
 Rod Of The Exalted One\409898.73\330600.9;
 Rod Of The Depths\404730.27\338738.58;
 Zeus Rod\404409.87\352758.85;
-Verdant Shear Rod\401513.28\350359.23;
-Blazebringer Rod\383906.37\354537.24;
+Verdant Shear Rod\401513.28\351304.02;
 Depthseeker Rod\368133.85\337960.01;
 Volcanic Rod\354759.45\344562.32;
 Avalanche Rod\347778.61\310789.3;

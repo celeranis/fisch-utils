@@ -65,25 +65,27 @@ Terrapin Island/Surrounding Ocean
 Whale Migration/Moby
 Whale Migration/Normal
 |top_rods      = 
+Free Spirit Rod\260248.43\172669.08;
 Leviathan's Fang Rod\257407.3\201283.07;
 Trident Rod\250841.14\138381.26;
-Free Spirit Rod\247236.01\138135.26;
-Azure Of Lagoon\223183.54\187052.36;
+Azure Of Lagoon\234930.04\196897.23;
 No-Life Rod\221976.27\191828.74;
 Training Rod\186862.34\216694.98;
 Flimsy Rod\160526.62\136185.53;
-Verdant Shear Rod\205745.04\224331.55;
+Wildflower Rod\208056.04\226302.37;
 Fang of the Eclipse\211420.54\234430.91;
 Egg Rod\204797.13\231870.77;
-Rapid Rod\210322.2\220881.31;
+Verdant Shear Rod\207019\225306.9;
+Firefly Rod\212593.49\221950.74;
+Brother's Rod\203976.11\208211.32;
 Seasons Rod\190410.34\181603.7;
 Seraphic Rod\215421.7\196657.4;
 Astralhook Rod\213832.71\72211.24;
+Blazebringer Rod\212708.74\215145.31;
 Rod Of The Forgotten Fang\210920.97\177919.31;
 Ethereal Prism Rod\208461.64\142983.28;
 Challenger's Rod\208041.41\174644.32;
 Rod Of The Exalted One\207373.56\161956.44;
-Blazebringer Rod\205653.54\194720.4;
 Rod Of The Depths\205573.93\158466.61;
 Zeus Rod\203732.45\202900.91;
 Depthseeker Rod\201226.28\192028.22;

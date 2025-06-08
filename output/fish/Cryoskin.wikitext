@@ -32,7 +32,6 @@ Mariana's Veil/Challenger's Deep
 Fast Rod\162974.16\142110.61;
 Training Rod\149336.28\149336.28;
 Fischer's Rod\143693.99\125298.64;
-Adventurer's Rod\142900.1\124606.38;
 Flimsy Rod\137572.22\137572.22;
 Buddy Bond Rod\136745.76\131988.29;
 Astralhook Rod\112007.6\114301.38;
@@ -41,14 +40,14 @@ No-Life Rod\104961.97\104961.97;
 Seraphic Rod\104746.24\104746.24;
 Challenger's Rod\95804.7\95804.7;
 Rod Of The Forgotten Fang\95438.1\95438.1;
+Blazebringer Rod\95015.71\95015.71;
+Free Spirit Rod\91186.1\91186.1;
 Verdant Shear Rod\89298.18\89298.18;
 Zeus Rod\89005.15\89005.15;
 Rod Of The Depths\86866.66\86866.66;
-Blazebringer Rod\84156.77\84156.77;
 Depthseeker Rod\81542.23\81542.23;
 Rod Of The Exalted One\81437.49\81437.49;
 Avalanche Rod\73293.74\73293.74;
-Free Spirit Rod\72948.88\72948.88;
 Trident Rod\72525.83\72525.83;
 Volcanic Rod\67646.36\67646.36;
 Steady Rod\18879.88\18879.88

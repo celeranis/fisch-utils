@@ -37,7 +37,9 @@ Open Ocean/Sea Leviathan
 Great Rod of Oscar\529.19\4316.53;
 Astralhook Rod\483.15\4252.35;
 Fang of the Eclipse\454.39\4559.38;
+Azure Of Lagoon\311.79\3079.79;
 Treasure Rod\255.14\2436.26;
+Great Dreamer Rod\215.82\2017.13;
 Lobster Rod\250.48\2456.89;
 Kraken Rod\109.98\1106.23;
 Ethereal Prism Rod\166.36\1661.11;

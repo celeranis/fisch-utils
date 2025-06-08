@@ -28,11 +28,10 @@
 Mariana's Veil/Challenger's Deep
 |top_rods      = 
 Rapid Rod\260129.66\62252.86;
+Firefly Rod\252535.95\61191.99;
+Azure Of Lagoon\250981.61\51556.46;
 Fungal Rod\250108.82\63727.4;
-Firefly Rod\247980.57\72564.73;
-Firework Rod\247020.42\42946.03;
-Crystalized Rod\247020.42\42946.03;
-Antler Rod\232994.54\59366.7;
+Adventurer's Rod\248390.77\59875.1;
 Nocturnal Rod\160408.85\138761.6;
 Training Rod\215336.13\74700.68;
 Fast Rod\238245.93\65809.19;
@@ -40,13 +39,13 @@ Plastic Rod\180937.66\53197.12;
 Depthseeker Rod\246574.57\40996.31;
 Astralhook Rod\245638.85\57364.44;
 Avalanche Rod\243336.69\36798.37;
-Verdant Shear Rod\237261.59\44854.85;
+Verdant Shear Rod\238730.71\44937.15;
+Free Spirit Rod\237473.76\46109.4;
 No-Life Rod\237098.95\52794.75;
 Ethereal Prism Rod\236593.15\55887.37;
 Seraphic Rod\235831.07\52512.43;
 Trident Rod\228189.48\36951.14;
-Blazebringer Rod\226875.23\42288.34;
-Free Spirit Rod\225600.08\36887.52;
+Blazebringer Rod\226875.23\47744.9;
 Zeus Rod\224884.62\44819.42;
 Volcanic Rod\219643.76\34011.3;
 Challenger's Rod\217658.5\48065.28;

@@ -27,24 +27,24 @@
 {{Fish Availability|
 Mariana's Veil/Volcanic Vents
 |top_rods      = 
+Firefly Rod\226688\246634.29;
+Wildflower Rod\224188.35\208446.83;
 Rapid Rod\224120.14\252636.42;
-Firefly Rod\213823.97\225926.78;
-Wildflower Rod\211877.6\209414.91;
+Azure Of Lagoon\219574.14\201361.2;
+Adventurer's Rod\215478.77\215870.34;
 Fungal Rod\211216.32\218958.47;
-Fang of the Eclipse\210584.28\188044.09;
-Fast Rod\206931.82\206931.82;
 Training Rod\184880.38\184880.38;
 Antler Rod\197727.88\204975.61;
+Free Spirit Rod\210576.51\178981.05;
 Depthseeker Rod\208015.74\160117.02;
 No-Life Rod\206942.16\205905.46;
 Avalanche Rod\206592.61\143958.04;
-Verdant Shear Rod\205321.69\175499.04;
+Verdant Shear Rod\206319.2\175499.04;
 Seraphic Rod\205094.87\205094.87;
 Astralhook Rod\204844.25\165155.04;
 Ethereal Prism Rod\202377.74\192921.72;
 Trident Rod\201750.48\143360.18;
-Free Spirit Rod\200047.68\143184.84;
-Blazebringer Rod\199886.14\165285.46;
+Blazebringer Rod\199886.14\186612.62;
 Zeus Rod\198374.51\175048.73;
 Volcanic Rod\193769.87\132953.58;
 Challenger's Rod\192724.84\187725.91;

@@ -28,16 +28,16 @@
 {{Fish Availability|
 Emberreach/Freshwater Pond
 |top_rods      = 
+Adventurer's Rod\644170.24\611511.91;
 Fungal Rod\533643.9\533643.9;
 Long Rod\521613.12\510244.14;
 Antler Rod\515603.45\515603.45;
-Adventurer's Rod\459841.51\459841.51;
-Firefly Rod\304912.16\295783.73;
-Free Spirit Rod\299270.62\149650.01;
+Firefly Rod\319704.24\307421.31;
+Free Spirit Rod\315021.7\187062.51;
 Trident Rod\290889.82\208663.72;
 Astralhook Rod\267719.04\228598.2;
-Verdant Shear Rod\250163.06\189788.64;
-Blazebringer Rod\241020.49\159104.34;
+Verdant Shear Rod\252972.95\191920.39;
+Blazebringer Rod\241020.49\179633.93;
 No-Life Rod\225009.41\168528.62;
 Seraphic Rod\212359.13\152331.38;
 Ethereal Prism Rod\206567.38\103473.71;

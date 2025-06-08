@@ -63,20 +63,21 @@ Whale Migration/Normal
 |top_rods      = 
 Trident Rod\136317.81\14409.6;
 Leviathan's Fang Rod\132848.09\0;
-Free Spirit Rod\124687.5\14318.02;
-Azure Of Lagoon\107395.09\13259.28;
+Free Spirit Rod\131250\17897.52;
+Azure Of Lagoon\113047.46\18783.98;
 No-Life Rod\105840.17\19345.89;
+Firefly Rod\95918.83\19278.3;
+Adventurer's Rod\87875.6\18369.45;
 Fungal Rod\87771.12\18783.84;
-Antler Rod\73456.07\15720.29;
-Resourceful Rod\83582.18\17189.34;
 Nocturnal Rod\60380.85\58259.6;
 Seraphic Rod\90412.95\19589.86;
-Rapid Rod\93084.29\19120.09;
-Verdant Shear Rod\91186.37\18728.51;
+Wildflower Rod\93306.61\19163.98;
+Resourceful Rod\83582.18\17189.34;
 Depthseeker Rod\93132.21\17570.76;
+Verdant Shear Rod\92693.58\19038.07;
+Blazebringer Rod\92223.2\18614.38;
 Challenger's Rod\91992.09\17390.43;
 Astralhook Rod\91355.14\0;
-Blazebringer Rod\91209.31\18614.38;
 Zeus Rod\91056.49\17099.75;
 Avalanche Rod\89999.51\17028.42;
 Ethereal Prism Rod\89738.89\0;

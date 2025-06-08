@@ -28,14 +28,14 @@
 Moosewood/Seaweed and Mini-Island
 |top_rods      = 
 Leviathan's Fang Rod\50086.6\442168.65;
-Free Spirit Rod\43004.5\374056.03;
+Free Spirit Rod\45405.3\419581.73;
 Trident Rod\41790.98\363500.8;
 Great Rod of Oscar\40851.62\244796.52;
 Astralhook Rod\38239\257112.14;
 Resourceful Rod\29375.09\209554.57;
 Destiny Rod\30714.38\214152.94;
+Azure Of Lagoon\35878.48\290161.35;
 No-Life Rod\36560.75\284807.04;
-Fang of the Eclipse\31814.1\259977.32;
 Rod Of The Eternal King\29012.3\214252.39;
 Poseidon Rod\29525.51\241941.01;
 Rod Of The Exalted One\30237.87\228489.05;
@@ -43,10 +43,10 @@ Ethereal Prism Rod\38234.17\257009.25;
 Seraphic Rod\36751.78\259239.05;
 Rod Of The Forgotten Fang\34190.44\251402.76;
 Challenger's Rod\33040.97\256847.07;
+Blazebringer Rod\31596.95\251412.88;
 Rod Of The Depths\30501.81\227983.74;
 Zeus Rod\29701.51\236605.56;
-Verdant Shear Rod\29076.49\236604.98;
-Blazebringer Rod\28270.96\226271.59;
+Verdant Shear Rod\29255.13\239469.44;
 Depthseeker Rod\26882.74\220138.81;
 Avalanche Rod\24132.9\196464.74;
 Volcanic Rod\23154.74\187105.47;

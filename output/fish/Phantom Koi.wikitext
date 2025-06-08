@@ -32,13 +32,14 @@ Isle of New Beginnings
 Great Rod of Oscar\1279.2\7280.69;
 Astralhook Rod\1173.64\7265.52;
 Fang of the Eclipse\1028.15\7488.77;
-Carrot Rod\864.94\5886.8;
-Free Spirit Rod\796.08\5249.66;
+Azure Of Lagoon\982.82\6885.29;
+Free Spirit Rod\972.99\6402.35;
 Resourceful Rod\643.15\6405.41;
+Wildflower Rod\745.98\6759.43;
 North-Star Rod\324.69\3782.08;
 Event Horizon Rod\315.08\3670.11;
-Blazebringer Rod\676.76\4851.19;
-Verdant Shear Rod\633.48\4652.11;
+Blazebringer Rod\756.38\5421.92;
+Verdant Shear Rod\688.35\5055.1;
 Seraphic Rod\555.19\4077.22;
 Challenger's Rod\543.74\4133.04;
 Ethereal Prism Rod\524.35\3715.26;

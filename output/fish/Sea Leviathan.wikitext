@@ -28,12 +28,13 @@
 {{Fish Availability|
 Open Ocean/Sea Leviathan
 |top_rods      = 
-Free Spirit Rod\16073.13\144028.69;
+Free Spirit Rod\18364.84\174891.98;
 Great Rod of Oscar\15065.17\117242.72;
 Astralhook Rod\14266.06\119515.97;
+Azure Of Lagoon\13926.45\130411.99;
 Carrot Rod\12841.42\117127.04;
-Fang of the Eclipse\12001.33\114171.7;
-Blazebringer Rod\10695.61\102404.1;
+Friendly Rod\12544.5\117470.91;
+Blazebringer Rod\11953.92\114451.64;
 Kraken Rod\7004.08\66742.81;
 Ethereal Prism Rod\7391.78\69940.58;
 Trident Rod\11096.61\86209.58;

@@ -25,6 +25,7 @@
 == Obtainment ==
 {{Description|Can be found in plenty of common waters in Moosewood & Roslit.|Bestiary Hint}}
 {{Fish Availability|
+Bloop Fish
 Moosewood/Docks
 Moosewood/Freshwater Pond
 Moosewood/Seaweed and Mini-Island
@@ -32,27 +33,26 @@ Moosewood/Surrounding Ocean
 Roslit Bay/Freshwater Pond Seaweed
 |top_rods      = 
 Leviathan's Fang Rod\350314.8\156320.02;
+Free Spirit Rod\343468.56\195391.85;
 Trident Rod\331053.07\156591.86;
-Free Spirit Rod\326295.13\156313.48;
+Azure Of Lagoon\317967.74\345810.54;
 No-Life Rod\306530.08\328369.21;
-Seraphic Rod\297998.33\222537.6;
 Training Rod\219415.61\219385.42;
 Flimsy Rod\184443.14\186136.35;
 Great Rod of Oscar\293513.22\206810.98;
+Blazebringer Rod\284050.88\336539.71;
 Fang of the Eclipse\286280.69\329526.58;
-Azure Of Lagoon\295691.97\328520.01;
 Zeus Rod\269042.3\317386.48;
-Abyssal Specter Rod\271100.66\308450.59;
 Kings Rod\242684.61\251443.59;
 Voyager Rod\241942.21\250963.79;
+Seraphic Rod\297998.33\222537.6;
 Astralhook Rod\294428.09\0;
 Ethereal Prism Rod\294295.79\57893.57;
 Rod Of The Forgotten Fang\289717.48\203208.12;
 Challenger's Rod\288288.69\292543.07;
 Rod Of The Exalted One\279228.41\157550.14;
 Rod Of The Depths\276207.51\226891.08;
-Verdant Shear Rod\267575.55\286596.13;
-Blazebringer Rod\264064.67\302022.82;
+Verdant Shear Rod\268297.1\287842.2;
 Volcanic Rod\249407.66\249223.27;
 Depthseeker Rod\248115.36\249205;
 Avalanche Rod\243487.77\221886.23;

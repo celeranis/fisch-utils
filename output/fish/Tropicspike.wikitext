@@ -30,12 +30,10 @@ Emberreach/Freshwater Pond
 |top_rods      = 
 Great Rod of Oscar\57733.82\307664.13;
 Astralhook Rod\52627.95\310144.57;
+Free Spirit Rod\45736.08\310044.1;
+Azure Of Lagoon\45352.98\328785.54;
 Fang of the Eclipse\44101.81\314376;
-Carrot Rod\41682.11\280288.03;
-Treasure Rod\37756.67\257155.88;
-Free Spirit Rod\37538.78\256893.69;
-Lobster Rod\37169.97\265111.61;
-Blazebringer Rod\33299.35\245111.1;
+Blazebringer Rod\37216.92\272345.67;
 Leviathan's Fang Rod\27284.5\210516.61;
 Kraken Rod\21969.63\165437.6;
 Trident Rod\25742.85\185680.94;

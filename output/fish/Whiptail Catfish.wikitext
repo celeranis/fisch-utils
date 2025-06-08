@@ -25,6 +25,7 @@
 == Obtainment ==
 {{Description|Caught in Moosewood Pond during the night.|Bestiary Hint}}
 {{Fish Availability|
+Bloop Fish
 Moosewood/Freshwater Pond
 |top_rods      = 
 Great Rod of Oscar\67388.24\427914.15;
@@ -34,17 +35,19 @@ Ethereal Prism Rod\61005.39\443896.8;
 Seraphic Rod\57524.66\453662.64;
 Resourceful Rod\47734.57\365022.06;
 Destiny Rod\50293.86\410695.48;
+Free Spirit Rod\54920.03\609551.89;
 Trident Rod\52222\606218.45;
-Free Spirit Rod\47766.55\554497.34;
+Azure Of Lagoon\54134.2\489433.77;
 No-Life Rod\55387.07\479827.35;
 Rod Of The Forgotten Fang\53659.53\447385.36;
 Rod Of The Zenith\52191.07\425677.68;
+Great Dreamer Rod\52118.9\431246.54;
 Challenger's Rod\50530.85\440927;
 Rod Of The Exalted One\48068.32\423358.8;
+Blazebringer Rod\47853.28\435875.58;
 Rod Of The Depths\47840.81\398319.07;
 Zeus Rod\45083.76\411340.06;
-Verdant Shear Rod\43597.63\412433.79;
-Blazebringer Rod\42816.1\392288.02;
+Verdant Shear Rod\43752.05\414987.56;
 Depthseeker Rod\39896.97\386124.2;
 Avalanche Rod\35890.43\349890.52;
 Volcanic Rod\35130.2\325306.81;

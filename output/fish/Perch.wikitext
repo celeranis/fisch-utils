@@ -29,17 +29,17 @@ Roslit Bay/Freshwater Pond
 Roslit Bay/Freshwater Pond Seaweed
 |top_rods      = 
 Leviathan's Fang Rod\424897.47\204175.87;
+Free Spirit Rod\397639.47\227674.7;
 Trident Rod\385742.21\182594.57;
 No-Life Rod\381448.91\377668.65;
 Great Rod of Oscar\380670.65\222870.27;
-Free Spirit Rod\377757.5\182139.76;
 Training Rod\292719.99\302634.54;
 Flimsy Rod\264201.14\235428.81;
 Krampus's Rod\365360.96\239446.76;
-Azure Of Lagoon\327038.13\382853.25;
+Azure Of Lagoon\374355.41\403003.43;
 Fang of the Eclipse\341933.31\367116.59;
-Zeus Rod\321926.56\341317.37;
-Great Dreamer Rod\311353.24\339451.3;
+Blazebringer Rod\341374.44\357400.49;
+Friendly Rod\353423.27\345133.79;
 Ethereal Prism Rod\377112.45\95621.73;
 Astralhook Rod\376985.89\18843.41;
 Seraphic Rod\376745.98\257301.83;
@@ -47,8 +47,8 @@ Rod Of The Forgotten Fang\354579.53\234973.94;
 Challenger's Rod\349515.11\338940.48;
 Rod Of The Depths\323700.85\213451.33;
 Rod Of The Exalted One\322196.46\207599.97;
-Verdant Shear Rod\318540.48\312310.47;
-Blazebringer Rod\305440.29\326412.76;
+Zeus Rod\321926.56\341317.37;
+Verdant Shear Rod\319216.31\313668.34;
 Depthseeker Rod\292888.17\279250.64;
 Volcanic Rod\273800.02\278783.07;
 Avalanche Rod\268027.87\257066.32;

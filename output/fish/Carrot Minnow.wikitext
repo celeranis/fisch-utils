@@ -28,16 +28,15 @@
 {{Fish Availability|
 Lushgrove/Carrot Garden
 |top_rods      = 
-Azure Of Lagoon\182947.65\120252.55;
-Free Spirit Rod\181605.98\121282.01;
+Azure Of Lagoon\192576.48\170357.78;
+Free Spirit Rod\191164.19\151602.51;
 Leviathan's Fang Rod\180224.85\170279.24;
 Trident Rod\178686.39\158452.96;
 Fang of the Eclipse\178362.27\168519.45;
 Flimsy Rod\141199.94\128816.9;
 Training Rod\161686.88\173832.19;
 Blazebringer Rod\175988.5\166276.67;
-Egg Rod\175970.28\162954.71;
-Verdant Shear Rod\175055.93\162108;
+Verdant Shear Rod\175672.3\162678.78;
 Astralhook Rod\174345.64\112152.29;
 No-Life Rod\157024.24\143553.41;
 Seraphic Rod\150367.72\133340.94;

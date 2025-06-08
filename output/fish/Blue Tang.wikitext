@@ -27,26 +27,27 @@
 {{Fish Availability|
 Roslit Bay/Coral Reef
 |top_rods      = 
+Azure Of Lagoon\200515.03\25706.67;
+Firefly Rod\200261.47\24324.87;
 Rapid Rod\199289.83\24696.74;
+Wildflower Rod\196503.41\22419.05;
 No-Life Rod\196085.47\26391.21;
-Celestial Rod\194368.4\19772.14;
-Seraphic Rod\194311.55\26152.45;
-Firefly Rod\193775.75\22734.95;
 Training Rod\175625.61\27901.17;
 Flimsy Rod\128809.59\20463.63;
 Buddy Bond Rod\122190.5\12713.46;
 Nocturnal Rod\127751.15\76803.8;
+Seraphic Rod\194311.55\26152.45;
 Fast Rod\191432.12\25766.02;
 Depthseeker Rod\191693.36\20409.17;
 Avalanche Rod\189373.28\18293.72;
 Astralhook Rod\189334.96\0;
 Ethereal Prism Rod\189246.29\0;
-Verdant Shear Rod\187017.29\22290.05;
+Verdant Shear Rod\188798.41\22341.12;
+Free Spirit Rod\187313.97\23241.29;
 Trident Rod\182545.22\18647.58;
-Blazebringer Rod\180170.15\21026.32;
+Blazebringer Rod\180170.15\23739.39;
 Zeus Rod\178838.84\22277.29;
 Challenger's Rod\177961.68\23951.92;
-Free Spirit Rod\177948.27\18593.03;
 Rod Of The Forgotten Fang\177397.46\23875.98;
 Volcanic Rod\174596.93\16906.49;
 Rod Of The Depths\161092.16\21681.44;

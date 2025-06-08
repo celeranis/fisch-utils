@@ -42,24 +42,24 @@ Shark Hunt/Whale Shark
 Snowcap Island/Surrounding Ocean
 |top_rods      = 
 Astralhook Rod\78098.45\0;
+Azure Of Lagoon\77900.15\14986.36;
+Free Spirit Rod\77858.84\13964.87;
 Ethereal Prism Rod\77026.98\0;
 Trident Rod\75876.67\11204.67;
-Fang of the Eclipse\75269.14\14327.31;
-Champions Rod\74984.1\14589.11;
 Training Rod\73810.3\15461.54;
 Flimsy Rod\59773.31\10651.73;
 Resourceful Rod\70410.05\15154.24;
 Nocturnal Rod\52836.14\51723.16;
 Leviathan's Fang Rod\73919.1\19196.53;
 Kraken Rod\61902.07\18122.75;
+Firefly Rod\75515.21\17603.63;
 Rapid Rod\74771.97\17420.35;
-Seraphic Rod\72524.93\15714.04;
 Depthseeker Rod\74507.65\14379.66;
-Free Spirit Rod\73965.9\11171.9;
-Verdant Shear Rod\73509.37\15001.59;
+Verdant Shear Rod\74209.46\15144.46;
 Avalanche Rod\73494.38\14228.49;
 No-Life Rod\72976.34\15385.42;
-Blazebringer Rod\70434.2\12257.86;
+Seraphic Rod\72524.93\15714.04;
+Blazebringer Rod\70434.2\13839.52;
 Zeus Rod\69348.7\12987.11;
 Volcanic Rod\67703.81\9856.07;
 Challenger's Rod\66231.28\13963.38;

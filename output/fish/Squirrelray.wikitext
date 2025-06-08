@@ -31,16 +31,16 @@ Animal Hunt/First Sea
 |top_rods      = 
 Training Rod\365658.84\580582.52;
 Flimsy Rod\191943.87\164087.01;
+Free Spirit Rod\155222.53\112879.34;
 Leviathan's Fang Rod\153293.62\162568.19;
 Trident Rod\152275.18\90635.56;
-Free Spirit Rod\147461.41\90303.47;
 Resourceful Rod\119106.84\124863.35;
-Rapid Rod\129355.63\138909.85;
-Abyssal Specter Rod\133046.1\137783.16;
+Firefly Rod\130305.63\144275.78;
+Brother's Rod\126644.65\139513.6;
 No-Life Rod\138024.87\127756.5;
+Verdant Shear Rod\128258.74\129337.71;
 Blazebringer Rod\128215.74\132780.81;
 Zeus Rod\127266.18\131797.45;
-Verdant Shear Rod\127252\128322.5;
 Astralhook Rod\127192.11\83394.47;
 Depthseeker Rod\127103.09\130072.37;
 Seraphic Rod\126380.37\126380.37;

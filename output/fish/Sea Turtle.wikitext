@@ -29,16 +29,17 @@
 Terrapin Island/Surrounding Ocean
 |top_rods      = 
 Leviathan's Fang Rod\78258.1\582025.62;
+Free Spirit Rod\69211.34\602845.23;
 Great Rod of Oscar\62097.9\308499.97;
-Free Spirit Rod\60621.37\572702.97;
 Trident Rod\59121.96\558537.75;
 Ethereal Prism Rod\56996.3\330240.38;
 Resourceful Rod\44314.96\267018.38;
 Destiny Rod\46357.48\281080.28;
 No-Life Rod\53684.85\392172.95;
-Tempest Rod\51181.23\344562.69;
+Azure Of Lagoon\52930.31\387551.34;
 Rapid Rod\43330.97\317469.24;
-Egg Rod\43220.84\316566.91;
+Tempest Rod\51181.23\344562.69;
+Blazebringer Rod\45520.22\321535.57;
 Astralhook Rod\56976\329701.94;
 Seraphic Rod\54044.66\342489.69;
 Rod Of The Forgotten Fang\50177.42\333192.06;
@@ -46,8 +47,7 @@ Challenger's Rod\47972.36\329251.05;
 Rod Of The Exalted One\44665.46\286202.28;
 Rod Of The Depths\44452.8\299985.72;
 Zeus Rod\42793.42\302706.91;
-Verdant Shear Rod\41631.13\302583.4;
-Blazebringer Rod\40728.62\289382.01;
+Verdant Shear Rod\41960.49\308197.19;
 Depthseeker Rod\38532.15\289810.39;
 Avalanche Rod\34491.06\258691.46;
 Volcanic Rod\33345.07\238979.14;

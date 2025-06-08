@@ -32,24 +32,24 @@ Moosewood/Surrounding Ocean
 Ocean/Harvesters Spike
 |top_rods      = 
 Leviathan's Fang Rod\289914.65\120956.59;
+Free Spirit Rod\276806.47\214686.44;
 Trident Rod\266244.99\206495.14;
-Free Spirit Rod\262966.15\203952.12;
+Azure Of Lagoon\261989.84\315082.9;
 No-Life Rod\259870.06\322937.01;
-Seraphic Rod\253264.41\180707.62;
 Great Rod of Oscar\252410.69\190049.05;
 Destiny Rod\242643.68\132089.55;
 Heaven's Rod\236020.68\0;
+Friendly Rod\241919.7\295972.97;
 Challenger's Rod\243095.56\285862.88;
-Zeus Rod\226879.76\268994.26;
-Azure Of Lagoon\233852.24\265996.98;
-Lobster Rod\220715.92\260618.24;
+Blazebringer Rod\239758.98\285675.8;
+Seraphic Rod\253264.41\180707.62;
 Astralhook Rod\250529.14\0;
 Ethereal Prism Rod\250358.51\33940.11;
 Rod Of The Forgotten Fang\245361.56\202962.7;
 Rod Of The Exalted One\235448.95\123821.8;
 Rod Of The Depths\228346.66\246351.81;
-Verdant Shear Rod\225789.13\235803.3;
-Blazebringer Rod\215783.08\254791.93;
+Zeus Rod\226879.76\268994.26;
+Verdant Shear Rod\226217.98\236567.16;
 Depthseeker Rod\208227.66\224294.96;
 Volcanic Rod\203935.08\228341.16;
 Avalanche Rod\201548.67\205665.5;

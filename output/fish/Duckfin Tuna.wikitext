@@ -30,8 +30,9 @@
 Animal Hunt/First Sea
 |top_rods      = 
 Trident Rod\122765.45\78636.96;
+Free Spirit Rod\122646.39\97778.75;
 Leviathan's Fang Rod\118321.94\140927.41;
-Free Spirit Rod\116514.07\78223;
+Azure Of Lagoon\118311.49\106685.57;
 Astralhook Rod\114026.77\171249.46;
 Ethereal Prism Rod\113205.19\189737.46;
 Kraken Rod\91542.31\129973.39;
@@ -40,9 +41,9 @@ No-Life Rod\110599.03\109855.55;
 Fortune Rod\67511.4\90841.04;
 Depthseeker Rod\108317.78\101272.42;
 Seraphic Rod\108270.8\108270.8;
+Verdant Shear Rod\107144.93\102113.24;
 Avalanche Rod\106091.57\99392.32;
-Verdant Shear Rod\105524.47\100568.88;
-Blazebringer Rod\102330.3\86970.39;
+Blazebringer Rod\102330.3\98192.38;
 Zeus Rod\101564.73\92134.14;
 Challenger's Rod\99126.99\99126.99;
 Volcanic Rod\99025.61\69917.64;

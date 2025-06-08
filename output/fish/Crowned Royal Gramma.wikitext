@@ -27,19 +27,19 @@
 {{Fish Availability|
 Treasure Island
 |top_rods      = 
-Free Spirit Rod\94749.9\59420.36;
-Azure Of Lagoon\92658.72\89716.72;
+Free Spirit Rod\99736.74\74275.44;
+Azure Of Lagoon\98290.5\94438.65;
 Fang of the Eclipse\88236.86\85222.34;
-Lobster Rod\87683.26\87645.64;
-Verdant Shear Rod\87283.37\83081.65;
+Blazebringer Rod\88064.73\88090.67;
+Wildflower Rod\87909.71\83677.84;
 Resourceful Rod\71819.47\71949.06;
-Frog Rod\79156.21\76647.52;
+Frog Rod\86657.97\86195.21;
 Fortune Rod\71026.65\68775.62;
-Firefly Rod\86302.77\87258.69;
-Blazebringer Rod\85363.64\84573.47;
+Lobster Rod\87683.26\87645.64;
+Firefly Rod\87432.67\85450.86;
 Lucky Rod\71076.04\66689.52;
-Adventurer's Rod\62245.37\63407.98;
 Plastic Rod\58402.5\57547.43;
+Verdant Shear Rod\87564.48\83349.22;
 Trident Rod\85347.73\78668.15;
 Astralhook Rod\83044.61\0;
 No-Life Rod\76218.69\71506.43;

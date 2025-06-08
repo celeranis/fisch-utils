@@ -30,18 +30,17 @@ Emberreach/Surrounding Ocean
 |top_rods      = 
 Steady Rod\179544.15\185951.18;
 Frostfire Rod\173996.68\180205.75;
+Free Spirit Rod\152182.53\228782.74;
 North-Star Rod\150282.96\188942.75;
 Event Horizon Rod\147722.59\185723.72;
-Astral Rod\147722.59\185723.72;
 Krampus's Rod\144751.47\213236.96;
+Azure Of Lagoon\133929.33\217118.32;
 Resourceful Rod\124474.67\216515.78;
-Free Spirit Rod\144573.4\210351.6;
 Magma Rod\142863.64\207669.74;
-Rod Of Time\132403.14\202448.44;
 Astralhook Rod\140332.65\199543.3;
+Blazebringer Rod\120391.45\185270.23;
 Trident Rod\116222.36\140242.54;
-Verdant Shear Rod\111671\174759.66;
-Blazebringer Rod\107718.67\165768.1;
+Verdant Shear Rod\112126.42\175472.36;
 No-Life Rod\81447.31\116175.39;
 Ethereal Prism Rod\75134.39\114836.25;
 Seraphic Rod\73569.35\114530.66;

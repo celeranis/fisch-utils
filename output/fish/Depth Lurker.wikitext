@@ -29,18 +29,18 @@ Waveborne
 |top_rods      = 
 Astralhook Rod\144928.24\296584.27;
 Trident Rod\140618.83\83173.87;
+Adventurer's Rod\129867.54\115622.75;
+Firefly Rod\126005.55\116930.24;
 Leviathan's Fang Rod\124343.74\72461.19;
-Firefly Rod\120600.83\116358;
-Great Rod of Oscar\119833.75\102679.13;
 Plastic Rod\108694.93\107367.97;
 Fischer's Rod\109373.83\109194.77;
+Azure Of Lagoon\122976.26\122976.26;
 Carrot Rod\116685.32\116685.32;
-Fang of the Eclipse\114405.95\114405.95;
-Egg Rod\114441.5\109936.89;
+Friendly Rod\116389.8\116389.8;
 No-Life Rod\115486.42\98113.37;
-Verdant Shear Rod\112498.35\106182.04;
-Free Spirit Rod\105386.48\90172.73;
-Blazebringer Rod\102696.61\100236.57;
+Verdant Shear Rod\114357.83\106494.34;
+Blazebringer Rod\113170.32\113170.32;
+Free Spirit Rod\112715.92\112715.92;
 Challenger's Rod\101803.79\85816.21;
 Depthseeker Rod\101498.77\92530.73;
 Seraphic Rod\100665.57\65670.09;

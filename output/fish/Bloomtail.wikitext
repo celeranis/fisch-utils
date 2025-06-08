@@ -30,17 +30,19 @@ Azure Lagoon
 |top_rods      = 
 Great Rod of Oscar\78199.34\177973.96;
 Astralhook Rod\73770.6\178903;
+Azure Of Lagoon\67328.72\186390.71;
+Free Spirit Rod\66645.58\181126.76;
 Fang of the Eclipse\66204.37\179626.77;
-Carrot Rod\59746.65\154587.17;
-Free Spirit Rod\56393.29\150076.46;
 Magma Rod\31174.69\100249.15;
 Krampus's Rod\43467.35\78816.16;
 Steady Rod\26074.55\78375.38;
-Firefly Rod\37593.58\141704.23;
+Firefly Rod\57986.42\211087.47;
+Wildflower Rod\52782.41\183854.38;
 Carbon Rod\24436.03\96579.6;
 North-Star Rod\24562.85\96507.76;
-Blazebringer Rod\48210.82\129359.53;
-Verdant Shear Rod\46899.69\127989.02;
+Long Rod\23347.71\87222.54;
+Blazebringer Rod\53882.69\144578.3;
+Verdant Shear Rod\49621.99\135418.14;
 Trident Rod\38703.32\105621.16;
 Seraphic Rod\37327.65\101866.96;
 Ethereal Prism Rod\35864.74\95454.71;

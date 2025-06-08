@@ -29,13 +29,12 @@ Overgrowth Caves
 |top_rods      = 
 Leviathan's Fang Rod\221453.23\127899.29;
 Trident Rod\210134.57\124612.92;
+Free Spirit Rod\207066.26\122793.37;
 Krampus's Rod\199220.94\195955.16;
-Free Spirit Rod\196712.95\116653.7;
 Magma Rod\189067.18\185967.85;
 Plastic Rod\174140.83\171286.18;
 Fast Rod\158519.5\195251.31;
 Fischer's Rod\146535.62\180490.54;
-Adventurer's Rod\144755.83\178298.35;
 Flimsy Rod\126816.08\151811.72;
 Buddy Bond Rod\129361.76\164738.45;
 No-Life Rod\172656.67\111247.15;
@@ -44,11 +43,11 @@ Ethereal Prism Rod\165511.67\110890.36;
 Astralhook Rod\164916.83\113432.49;
 Rod Of The Forgotten Fang\158557.62\95974.89;
 Challenger's Rod\156554.87\96343.55;
+Blazebringer Rod\153500.45\95293.42;
 Rod Of The Exalted One\145274.82\85173.99;
 Zeus Rod\144643.19\89367.22;
-Verdant Shear Rod\143659.38\89381.62;
+Verdant Shear Rod\144122.05\89908.8;
 Rod Of The Depths\143636.93\86994.09;
-Blazebringer Rod\137342.51\84402.75;
 Depthseeker Rod\132573.84\84244.54;
 Volcanic Rod\122654.6\78999.18;
 Avalanche Rod\119751.73\75078.76;

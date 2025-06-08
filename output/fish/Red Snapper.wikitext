@@ -25,33 +25,34 @@
 == Obtainment ==
 {{Description|Found in saltwater near Moosewood Docks. Prefers the Summer and Autumn.|Bestiary Hint}}
 {{Fish Availability|
+Bloop Fish
 Moosewood/Docks
 Moosewood/Seaweed and Mini-Island
 Moosewood/Surrounding Ocean
 |top_rods      = 
 Leviathan's Fang Rod\221056.71\159305.79;
-Trident Rod\209138.95\106170.72;
-Free Spirit Rod\205546.03\105946.6;
-Azure Of Lagoon\188418.42\161760.61;
+Free Spirit Rod\216364.25\132687.87;
+Trident Rod\209138.95\106374.86;
+Azure Of Lagoon\198335.18\170274.32;
 No-Life Rod\187223.85\159788.5;
-Training Rod\156920.8\159909.02;
-Flimsy Rod\115624.71\115624.71;
+Training Rod\169969.07\173479.98;
+Flimsy Rod\138431.44\125175.42;
 Resourceful Rod\162920.91\187288.48;
 Abyssal Specter Rod\177448.09\198684.32;
 Fang of the Eclipse\179170.67\198535.54;
 Egg Rod\173703.59\196762.64;
+Wildflower Rod\174270.52\195654.6;
 Wisdom Rod\169439.36\194781.87;
-Great Dreamer Rod\171091.28\194066.89;
 Seraphic Rod\185274.43\150268.82;
-Ethereal Prism Rod\181487.85\91073.26;
-Astralhook Rod\180306.26\39733.89;
+Ethereal Prism Rod\181487.85\91715.62;
+Astralhook Rod\180306.26\47030.93;
 Rod Of The Forgotten Fang\177677.84\137266.79;
 Challenger's Rod\177536.87\137593.28;
+Blazebringer Rod\176718.17\193085.38;
 Rod Of The Exalted One\174908.68\130931.22;
-Blazebringer Rod\172447.6\193085.38;
-Verdant Shear Rod\172144.55\193662.15;
+Verdant Shear Rod\173362.55\194720.41;
 Zeus Rod\171841.68\191758.55;
-Rod Of The Depths\171473.85\124733.48;
+Rod Of The Depths\171473.85\124973.3;
 Depthseeker Rod\167804.86\184786.93;
 Volcanic Rod\167256.11\187272.6;
 Avalanche Rod\165329.76\168706.78;

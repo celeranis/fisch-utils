@@ -28,20 +28,20 @@
 {{Fish Availability|
 Emberreach/Volcano
 |top_rods      = 
-Free Spirit Rod\282817.5\20067.65;
-Firefly Rod\281703.71\34669.81;
-Azure Of Lagoon\258806.41\19519.15;
+Free Spirit Rod\297702.63\25084.56;
+Firefly Rod\293635.62\38077.07;
+Adventurer's Rod\282959.42\32455.95;
+Azure Of Lagoon\272427.8\27652.13;
 Trident Rod\253853.2\30762.47;
-Leviathan's Fang Rod\253776.14\32573.03;
 Lucky Rod\238910.59\33259.6;
 Brick Built Rod\253572.31\27281.45;
 Nocturnal Rod\148151.46\148151.46;
 Fang of the Eclipse\240976.97\41037.21;
-Great Dreamer Rod\227320.79\37222.88;
 Egg Rod\228639.62\35312.42;
+Wildflower Rod\228153.71\34728.74;
+Blazebringer Rod\235957.52\32673.25;
 Astralhook Rod\232283.26\0;
-Blazebringer Rod\225758.55\31039.59;
-Verdant Shear Rod\224317.26\34151.77;
+Verdant Shear Rod\226624.34\34335.88;
 No-Life Rod\209020.48\25688.35;
 Ethereal Prism Rod\197017.44\27431.83;
 Seraphic Rod\196016.11\23753.65;

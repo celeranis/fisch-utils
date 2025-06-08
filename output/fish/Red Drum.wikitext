@@ -36,15 +36,15 @@ Training Rod\36192.45\49946.44;
 Fortune Rod\23430.62\40937.91;
 Challenger's Rod\36303.88\36303.88;
 Rod Of The Forgotten Fang\36171.77\36171.77;
+Blazebringer Rod\35929.39\35929.39;
+Free Spirit Rod\35785.13\35785.13;
 Avalanche Rod\34402.46\27678.87;
 Depthseeker Rod\34295.93\30909.19;
-Verdant Shear Rod\33710.75\33710.75;
+Verdant Shear Rod\33809.9\33809.9;
 Zeus Rod\33700.83\33700.83;
 Rod Of The Depths\32804.58\32804.58;
-Blazebringer Rod\31823.18\31823.18;
 Rod Of The Exalted One\30972.93\31467.24;
 Trident Rod\28762.32\28762.32;
-Free Spirit Rod\28628.1\28628.1;
 Volcanic Rod\25644.45\25577.64;
 Steady Rod\20121.31\16827.01
 |recommended   = Ethereal Prism Rod

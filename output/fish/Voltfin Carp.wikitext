@@ -28,18 +28,19 @@
 Atlantis/Zeus's Rod Room
 |top_rods      = 
 Flimsy Rod\310408.71\266175;
+Free Spirit Rod\234136.94\153634.57;
 Trident Rod\228176.14\123268.24;
 Leviathan's Fang Rod\223987.18\177270.04;
-Free Spirit Rod\222430.1\122907.66;
-No-Life Rod\222047.58\174456.79;
+Azure Of Lagoon\223123.11\169931.71;
 Resourceful Rod\184072.32\136170.71;
-Champions Rod\193147.26\134018.12;
+Adventurer's Rod\188818.4\160141.02;
+No-Life Rod\222047.58\174456.79;
 Seraphic Rod\190736.96\172878.54;
 Fast Rod\179262.02\170316.13;
 Kraken Rod\169518.02\146022.49;
-Verdant Shear Rod\195728.42\147346.47;
+Verdant Shear Rod\197113.29\147684.03;
 Challenger's Rod\194124.96\158332.1;
-Blazebringer Rod\193547.62\138992.66;
+Blazebringer Rod\194034.19\156927.19;
 Depthseeker Rod\193406.6\136033.59;
 Zeus Rod\192117.46\147262.08;
 Avalanche Rod\190416.06\133073.99;

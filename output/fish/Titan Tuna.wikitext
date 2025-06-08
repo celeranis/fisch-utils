@@ -27,27 +27,26 @@
 {{Fish Availability|
 Atlantis/Poseidon Temple
 |top_rods      = 
-Firefly Rod\222626.24\30825.82;
+Firefly Rod\241319.18\29228.07;
+Adventurer's Rod\221204.94\29179.06;
 Rapid Rod\218409.64\29564.65;
 Champions Rod\215675.02\22870.88;
 Celestial Rod\214360.18\23653.36;
-Summit Rod\214212.37\22895.9;
 Flimsy Rod\153547.3\29901.32;
 Training Rod\208108.11\40526.32;
-Fungal Rod\206214.48\31170.17;
 Nocturnal Rod\133089.97\78213.06;
 Ethereal Prism Rod\194290.72\32250.05;
 No-Life Rod\198761.04\31519.73;
 Seraphic Rod\194023.27\31276.3;
 Depthseeker Rod\213993.64\24417.33;
 Avalanche Rod\211899.78\21891.98;
-Verdant Shear Rod\208978.22\26677.63;
+Verdant Shear Rod\210684.17\26734.23;
 Astralhook Rod\194351.54\0;
-Blazebringer Rod\193913.62\25160.05;
+Blazebringer Rod\193913.62\28406.51;
 Zeus Rod\192531.12\26660.65;
+Free Spirit Rod\190708.35\27674.97;
 Volcanic Rod\188001.61\20232.56;
 Trident Rod\185002.41\22195.26;
-Free Spirit Rod\181172.93\22139.98;
 Challenger's Rod\180200.08\28649.3;
 Rod Of The Forgotten Fang\177186.5\28562.23;
 Rod Of The Depths\161440\25946.05;

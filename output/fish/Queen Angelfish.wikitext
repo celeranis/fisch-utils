@@ -33,13 +33,13 @@ Training Rod\59486.8\242179.52;
 Plastic Rod\49639.61\78362.87;
 Magma Rod\49348.14\78424.62;
 Flimsy Rod\47444.08\265265.44;
+Free Spirit Rod\38886.89\93721.85;
+Azure Of Lagoon\35672.74\93434.76;
+Firefly Rod\31917.17\89397.54;
 Astralhook Rod\37952.71\87721.41;
-Great Rod of Oscar\40200.53\85674.77;
-Carrot Rod\34355.63\84605.26;
-Free Spirit Rod\36942.55\77182.7;
+Blazebringer Rod\32181.77\80900.15;
 Trident Rod\30692.93\63442.63;
-Verdant Shear Rod\30151.77\82490.37;
-Blazebringer Rod\28794.22\72384.34;
+Verdant Shear Rod\30248.87\82756.04;
 No-Life Rod\22533.38\50196.52;
 Ethereal Prism Rod\20936.98\50590.05;
 Seraphic Rod\20766.78\49741.72;
@@ -51,7 +51,7 @@ Rod Of The Depths\18948.56\47086.61;
 Avalanche Rod\18601.15\47047.96;
 Volcanic Rod\18496\46933.08;
 Zeus Rod\18404.87\46792.9
-|recommended   = Astralhook Rod
+|recommended   = Free Spirit Rod
 }}
 
 == Catch Quips ==

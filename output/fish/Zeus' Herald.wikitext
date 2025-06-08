@@ -28,24 +28,24 @@
 Atlantis/Zeus's Rod Room
 |top_rods      = 
 Leviathan's Fang Rod\82054.07\328333.13;
-Free Spirit Rod\65233.58\321113.82;
+Free Spirit Rod\68666.92\338014.55;
 Trident Rod\63797.42\314044.33;
 Great Rod of Oscar\59522.74\175144.64;
 Ethereal Prism Rod\56868.36\185854.33;
 Resourceful Rod\43401.85\151649.57;
 Destiny Rod\45155.57\160957.97;
+Azure Of Lagoon\54697.84\249758.96;
 No-Life Rod\55570.35\233739.2;
-Azure Of Lagoon\39914.64\222697.7;
 Abyssal Specter Rod\43696.63\187580.54;
+Blazebringer Rod\47569.91\185362.01;
 Zeus Rod\44767.84\174677.61;
-Blazebringer Rod\42562.55\166825.81;
 Astralhook Rod\56753.5\185532.91;
 Seraphic Rod\55177.09\191499.69;
 Rod Of The Forgotten Fang\51490.8\187208.71;
 Challenger's Rod\49743.05\193762.62;
 Rod Of The Depths\46144.75\169791.81;
 Rod Of The Exalted One\45298.16\162901.9;
-Verdant Shear Rod\43710.57\171730.48;
+Verdant Shear Rod\43981.23\174051.16;
 Depthseeker Rod\40353.68\162967.85;
 Avalanche Rod\36223.34\146363.64;
 Volcanic Rod\34879.97\137903.38;

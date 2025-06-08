@@ -27,22 +27,21 @@
 {{Fish Availability|
 Mushgrove Swamp
 |top_rods      = 
+Free Spirit Rod\292467.62\161454.25;
 Leviathan's Fang Rod\286531.22\144418.02;
+Azure Of Lagoon\285779.43\180537.5;
 Trident Rod\281895.68\129393.43;
-Free Spirit Rod\277844.24\129163.4;
-Azure Of Lagoon\271490.46\152726.92;
 No-Life Rod\268562.71\184873.67;
 Flimsy Rod\175952.41\133652.27;
 Training Rod\222090.93\179569.89;
 Fang of the Eclipse\261567.58\168597.57;
 Fast Rod\233743.77\184089.75;
 Seraphic Rod\242759.7\183885.06;
-Tempest Rod\248334.56\177405.66;
-Fischer's Rod\163548.87\130157.92;
+Adventurer's Rod\232679.7\147222.39;
+Blazebringer Rod\254931.24\167181.03;
 Challenger's Rod\251613.72\168312.3;
 Zeus Rod\248356.22\156946.12;
-Verdant Shear Rod\245328.33\157061.4;
-Blazebringer Rod\245291.79\148074.63;
+Verdant Shear Rod\246847.39\157349.58;
 Rod Of The Forgotten Fang\241370.78\167912.91;
 Depthseeker Rod\240152.57\143558.57;
 Rod Of The Depths\239877.74\152721.14;

@@ -28,20 +28,20 @@
 {{Fish Availability|
 Mariana's Veil/Volcanic Vents
 |top_rods      = 
+Free Spirit Rod\347688.39\440317.08;
 Leviathan's Fang Rod\332264.67\417251.94;
-Free Spirit Rod\330303.97\418301.23;
 Trident Rod\306331.71\387114.28;
-Azure Of Lagoon\240462.48\280201.86;
+Azure Of Lagoon\264806.43\332967.2;
 No-Life Rod\233269.09\292699.69;
 Riptide Rod\177593.59\222713.58;
-Blazebringer Rod\181744.13\228297.67;
+Blazebringer Rod\201937.93\253664.08;
 Challenger's Rod\220167.43\279712.46;
 Lobster Rod\188516.39\238629.69;
 Seraphic Rod\223009.4\277858.3;
 Astralhook Rod\220664.1\275339.56;
 Ethereal Prism Rod\218769.1\269445.93;
 Rod Of The Forgotten Fang\209509.37\263284.5;
-Verdant Shear Rod\186562.31\232310.61;
+Verdant Shear Rod\191526.71\241245.63;
 Zeus Rod\186057.23\233233.22;
 Rod Of The Depths\181782.23\225772.55;
 Depthseeker Rod\181696.07\228608.97;

@@ -27,23 +27,24 @@
 {{Fish Availability|
 Mariana's Veil/Abyssal Zenith
 |top_rods      = 
+Firefly Rod\184098.89\202943.45;
 Rapid Rod\178858.63\167106.76;
 Fungal Rod\177978.99\177107.93;
+Adventurer's Rod\177309.22\176540.76;
 Fast Rod\177187.5\177187.5;
-Firefly Rod\176632.44\194368.82;
-Astralhook Rod\172443.01\183492.49;
-Antler Rod\166248.56\165434.91;
 Ethereal Prism Rod\169843.22\194396.49;
+Astralhook Rod\172443.01\183492.49;
 Candy Cane Rod\153386.37\153386.37;
+Antler Rod\166248.56\165434.91;
 No-Life Rod\169135\169123.64;
 Seraphic Rod\168353.89\168342.59;
+Free Spirit Rod\163870.7\147353.33;
 Depthseeker Rod\160734.05\131424.61;
+Verdant Shear Rod\160013.08\144060.71;
 Avalanche Rod\159474.54\118067.48;
-Verdant Shear Rod\159143.45\143933.34;
 Trident Rod\157584.36\118057.89;
-Free Spirit Rod\155677.17\117882.67;
 Challenger's Rod\154096.43\154086.08;
-Blazebringer Rod\154026.54\135676.76;
+Blazebringer Rod\154026.54\153183.44;
 Rod Of The Forgotten Fang\153730.78\153720.45;
 Zeus Rod\152208.2\143680.61;
 Volcanic Rod\148669.84\109128.76;

@@ -31,17 +31,17 @@ Animal Hunt/Second Sea
 |top_rods      = 
 Frostfire Rod\137079.22\150832.9;
 Steady Rod\133689.89\147103.51;
+Free Spirit Rod\124948.9\325268.7;
 Krampus's Rod\120694.82\161749.33;
-Free Spirit Rod\118701.45\289556.07;
 Great Rod of Oscar\116941.18\240567.01;
+Azure Of Lagoon\101290.25\274261.59;
 Astralhook Rod\109045.13\242949.54;
 Carrot Rod\95717.95\234693.43;
-Fang of the Eclipse\89656.06\232846.12;
 Magnet Rod\60862.38\150066.29;
 Rod Of Time\82064\148349.11;
+Blazebringer Rod\88288.66\225971.69;
 Trident Rod\83272.02\207763.33;
-Verdant Shear Rod\80867.64\211592.26;
-Blazebringer Rod\78995.12\202185.2;
+Verdant Shear Rod\81565.98\213419.48;
 No-Life Rod\56531.19\143551.52;
 Ethereal Prism Rod\54941.93\144150.06;
 Seraphic Rod\53994.4\141277.73;

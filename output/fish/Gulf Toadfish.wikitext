@@ -27,16 +27,17 @@
 {{Fish Availability|
 Whale Interior
 |top_rods      = 
-Free Spirit Rod\371420.71\357855.04;
-Azure Of Lagoon\345621.97\373110.57;
+Free Spirit Rod\390969.16\376689.51;
+Azure Of Lagoon\372424.47\422053.72;
 Fang of the Eclipse\333778.98\368540.34;
 Carrot Rod\332641.12\374753.85;
 Astralhook Rod\332613.48\24325.12;
+Firefly Rod\330793.79\364643.04;
 Lobster Rod\327766.02\367454.76;
-Egg Rod\323265.91\346219.45;
-Treasure Rod\329215.87\362707.67;
-Blazebringer Rod\316715.88\352513.12;
-Verdant Shear Rod\316376.14\335587.31;
+Friendly Rod\331626.62\375819.14;
+Frog Rod\321652.73\373007.28;
+Blazebringer Rod\331268.17\364386.03;
+Verdant Shear Rod\317447.15\336308.39;
 Trident Rod\312001.71\287544.49;
 No-Life Rod\279869.61\265514.51;
 Ethereal Prism Rod\273011.17\275320.29;

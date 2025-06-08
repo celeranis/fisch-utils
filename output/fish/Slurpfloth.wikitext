@@ -30,16 +30,16 @@
 Octophant Hunt/Octophant Catchable
 Octophant Hunt/Octophant Uncatchable
 |top_rods      = 
-Free Spirit Rod\414239.03\381889.73;
+Free Spirit Rod\436041.08\401989.19;
 Trident Rod\348049.17\321308.29;
-Verdant Shear Rod\280365.17\279339.32;
-Firefly Rod\273831.95\272908.1;
-Leviathan's Fang Rod\253199.34\249404.07;
+Firefly Rod\301791.07\326563.11;
+Wildflower Rod\288626.98\287570.9;
+Verdant Shear Rod\285500.06\284455.42;
 Resourceful Rod\210330.3\209601.82;
 North-Star Rod\173965\173231.88;
 Event Horizon Rod\173119.22\173897.31;
 Astral Rod\173119.22\173897.31;
-Blazebringer Rod\226682.47\208980.23;
+Blazebringer Rod\251869.41\232954.55;
 Astralhook Rod\190304.84\188985.45;
 No-Life Rod\171686.86\168309.87;
 Seraphic Rod\145091.63\142736.29;

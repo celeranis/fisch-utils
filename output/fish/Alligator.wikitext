@@ -29,23 +29,24 @@
 Mushgrove Swamp
 |top_rods      = 
 Leviathan's Fang Rod\44067.18\187379.99;
+Free Spirit Rod\35927.29\189056.77;
 Great Rod of Oscar\35058.34\110510.4;
-Free Spirit Rod\33666.91\179603.93;
 Trident Rod\32716.89\174535.81;
 Ethereal Prism Rod\32384.62\114510.21;
 Resourceful Rod\25060.96\90095.68;
 Destiny Rod\26206.88\93286.45;
+Azure Of Lagoon\30007.55\127046.36;
 No-Life Rod\30477.56\125294.77;
-Seraphic Rod\30821.3\115556.66;
 Treasure Rod\25941.93\98683.54;
 Rod Of The Depths\25335.52\97120.01;
 Rod Of The Forgotten Fang\28591.37\108488.84;
 Astralhook Rod\32382.07\111229.34;
+Seraphic Rod\30821.3\115556.66;
 Challenger's Rod\27399.93\109598.69;
+Blazebringer Rod\25966.03\105548.8;
 Rod Of The Exalted One\25403.08\93503.09;
 Zeus Rod\24393.53\99268.65;
-Verdant Shear Rod\23739.62\98280.54;
-Blazebringer Rod\23232.76\94993.92;
+Verdant Shear Rod\23925.82\99975.03;
 Depthseeker Rod\21980\93642.71;
 Avalanche Rod\19672.53\83557.83;
 Volcanic Rod\19014.52\78430.88;

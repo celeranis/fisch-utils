@@ -29,15 +29,16 @@ Treasure Island
 |top_rods      = 
 Training Rod\85987.14\146920.2;
 Flimsy Rod\72842.38\66473.64;
+Azure Of Lagoon\71626.28\64472.33;
+Free Spirit Rod\69609.21\57940.59;
 Fang of the Eclipse\68423.24\64183.98;
-Trident Rod\68308.27\62962.25;
-Azure Of Lagoon\68044.97\45509.88;
 Resourceful Rod\54952.39\55429.51;
-Firefly Rod\66487.61\67224.05;
-Verdant Shear Rod\67468.01\64220.18;
-Adventurer's Rod\47903.45\48907.23;
+Firefly Rod\67654.39\66120.89;
+Wildflower Rod\68060.74\64784.37;
+Verdant Shear Rod\67761.35\64499.39;
+Fungal Rod\55153.91\54783.24;
+Trident Rod\68308.27\62962.25;
 Astralhook Rod\66536.11\46448.31;
-Free Spirit Rod\66128.75\46352.47;
 Blazebringer Rod\65984.7\60079;
 No-Life Rod\59668.47\55979.43;
 Seraphic Rod\57215.75\51897.94;
@@ -51,7 +52,7 @@ Rod Of The Depths\54566.41\50182.91;
 Zeus Rod\54496.37\51700.42;
 Rod Of The Exalted One\54490.71\48963.26;
 Steady Rod\44884.29\45229.55
-|recommended   = Verdant Shear Rod
+|recommended   = Free Spirit Rod
 }}
 
 == Catch Quips ==

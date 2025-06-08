@@ -30,29 +30,30 @@ Atlantis/Kraken Hunt
 Atlantis/Kraken Pool
 |top_rods      = 
 Training Rod\217241.38\217241.38;
-Firefly Rod\198287.09\172483.47;
+Firefly Rod\203829.22\158462.95;
 Rapid Rod\195865.38\155228.49;
+Adventurer's Rod\186445.16\161746.44;
 Champions Rod\180977.02\120036.41;
-Celestial Rod\179749.75\124143.2;
 Flimsy Rod\136714.57\145584.35;
 Fungal Rod\176510.1\168311.81;
 Astralhook Rod\170046.36\189288.02;
 Ethereal Prism Rod\164421.36\172727.3;
+Fast Rod\167815.05\166590.67;
 Candy Cane Rod\140375.92\136930.82;
 Avalanche Rod\172958.37\114898.71;
 Depthseeker Rod\171520.06\128152.83;
 No-Life Rod\165429.32\165429.32;
 Seraphic Rod\164151.7\164151.7;
-Verdant Shear Rod\160211.13\140015.87;
+Verdant Shear Rod\161518.98\140312.93;
 Challenger's Rod\150364.08\150364.08;
 Rod Of The Forgotten Fang\149907.1\149907.1;
-Blazebringer Rod\142749.23\132050.97;
+Blazebringer Rod\149089.81\149089.81;
+Free Spirit Rod\145250.38\145250.38;
 Zeus Rod\141731.51\139926.75;
 Volcanic Rod\138397.12\106189.32;
 Rod Of The Depths\136176.25\136176.25;
 Rod Of The Exalted One\127908.29\127908.29;
 Trident Rod\116490.46\116490.46;
-Free Spirit Rod\116200.31\116200.31;
 Steady Rod\80345.27\54372.6
 |recommended   = Training Rod
 }}

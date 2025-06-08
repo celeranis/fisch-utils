@@ -27,24 +27,25 @@
 {{Fish Availability|
 Cryogenic Canal
 |top_rods      = 
+Free Spirit Rod\202222.62\26943.83;
+Azure Of Lagoon\199627.51\29918.35;
 Trident Rod\196172.18\21608.89;
 Leviathan's Fang Rod\195256.75\29673.74;
-Free Spirit Rod\192111.49\21555.06;
-Azure Of Lagoon\189646.13\21118.84;
 No-Life Rod\187077.94\30687.01;
 Training Rod\168518.52\42504.9;
 Flimsy Rod\121895.8\24489.5;
 Resourceful Rod\166071.09\21001.32;
 Nocturnal Rod\125964.49\91900.59;
-Firefly Rod\170340\39331.73;
-Seraphic Rod\164280.92\30450.01;
-Verdant Shear Rod\176034.71\25972.83;
-Blazebringer Rod\174717.55\24495.35;
+Firefly Rod\184595.4\35770.73;
+Adventurer's Rod\171021.15\32717.79;
+Verdant Shear Rod\177124.7\26027.94;
+Blazebringer Rod\174717.55\27656.04;
 Zeus Rod\173471.9\25956.3;
 Depthseeker Rod\172207.77\23772.25;
 Challenger's Rod\171991.08\27892.42;
 Avalanche Rod\169876.6\21313.62;
 Volcanic Rod\169390.79\19698.03;
+Seraphic Rod\164280.92\30450.01;
 Rod Of The Depths\162590.48\25260.59;
 Rod Of The Forgotten Fang\161554.06\27807.65;
 Rod Of The Exalted One\154073.04\23726.88;

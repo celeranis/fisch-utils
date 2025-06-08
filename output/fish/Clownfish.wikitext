@@ -28,26 +28,27 @@
 Roslit Bay/Coral Reef
 |top_rods      = 
 Training Rod\279844.53\279844.53;
+Firefly Rod\270537.06\243505.56;
 Rapid Rod\269980.97\247327.85;
-No-Life Rod\263671.14\263671.14;
-Firefly Rod\263000.18\227741.99;
-Seraphic Rod\261634.79\261634.79;
+Azure Of Lagoon\265796.19\257066.68;
+Wildflower Rod\265187.13\224395.37;
 Flimsy Rod\206476.2\206476.2;
 Buddy Bond Rod\163745.03\127350.28;
+No-Life Rod\263671.14\263671.14;
+Seraphic Rod\261634.79\261634.79;
 Fast Rod\259401.11\259401.11;
-Leviathan's Fang Rod\254964.84\254964.84;
 Astralhook Rod\257724.52\159865.74;
 Ethereal Prism Rod\255975.62\218506.85;
 Depthseeker Rod\255882.66\204257.64;
 Avalanche Rod\253381.77\183132.43;
-Verdant Shear Rod\249879.04\223165.66;
-Blazebringer Rod\241547.39\210470.73;
+Verdant Shear Rod\251918.87\223639.14;
+Blazebringer Rod\241547.39\237628.24;
 Zeus Rod\239825.29\223023.62;
 Challenger's Rod\239659.25\239659.25;
 Rod Of The Forgotten Fang\238930.89\238930.89;
+Free Spirit Rod\238528.71\231508.74;
 Volcanic Rod\234183.14\169250.89;
 Trident Rod\231391.99\185669.46;
-Free Spirit Rod\226602.27\185206.99;
 Rod Of The Depths\217045.85\217045.85;
 Rod Of The Exalted One\203867.87\203867.87;
 Steady Rod\129985.07\79216.22

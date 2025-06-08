@@ -27,10 +27,10 @@
 {{Fish Availability|
 Overgrowth Caves
 |top_rods      = 
-Azure Of Lagoon\206057.9\19030.69;
+Azure Of Lagoon\216903.05\26960.15;
+Free Spirit Rod\212365.42\24191.93;
 Trident Rod\205273.66\19394.48;
 No-Life Rod\203545.73\27629.4;
-Free Spirit Rod\201747.15\19353.54;
 Leviathan's Fang Rod\201725.09\26638.19;
 Training Rod\196207.85\32877.99;
 Flimsy Rod\133500.79\21192.77;
@@ -38,9 +38,9 @@ Resourceful Rod\186310.05\16992.64;
 Nocturnal Rod\144612.11\90396.51;
 Seraphic Rod\177550.33\27450;
 Fast Rod\176956.55\27358.2;
-Verdant Shear Rod\195472.07\23430.49;
+Verdant Shear Rod\196540.22\23476.66;
 Depthseeker Rod\194071.99\21437.99;
-Blazebringer Rod\193314.55\22093.56;
+Blazebringer Rod\193314.55\24944.34;
 Zeus Rod\191986.15\23414.33;
 Avalanche Rod\191685.37\19225.17;
 Volcanic Rod\187494.87\17768.48;

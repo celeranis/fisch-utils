@@ -27,13 +27,14 @@
 {{Fish Availability|
 Golden Tide
 |top_rods      = 
-Firefly Rod\68779.63\71420.86;
+Firefly Rod\70988.07\58134.91;
 Rapid Rod\68148.48\55983.17;
 Astralhook Rod\64137.52\91657.99;
 Fast Rod\63015.68\63242.2;
 Ethereal Prism Rod\61647.55\79000.2;
 Fungal Rod\61429.64\59457.06;
 Antler Rod\53400.43\51576.03;
+Candy Cane Rod\48689.06\46899.14;
 Leviathan's Fang Rod\59169.33\61771.61;
 Fortune Rod\33948.94\48515.93;
 No-Life Rod\58469.02\58469.02;
@@ -42,14 +43,14 @@ Depthseeker Rod\56042.34\44835.59;
 Avalanche Rod\55726.39\40133.59;
 Challenger's Rod\52677.74\52677.74;
 Rod Of The Forgotten Fang\52476.17\52476.17;
-Verdant Shear Rod\51299.73\48871.17;
+Verdant Shear Rod\52361.1\49028.56;
+Free Spirit Rod\52246.34\52246.34;
+Blazebringer Rod\52103.56\52103.56;
 Zeus Rod\48863.3\48863.3;
 Rod Of The Depths\47565.74\47565.74;
-Blazebringer Rod\46148.87\46148.87;
 Trident Rod\45645.44\42025.87;
 Rod Of The Exalted One\45216.83\45912.53;
 Volcanic Rod\44221.71\37085.94;
-Free Spirit Rod\42729.99\41797.07;
 Steady Rod\29210.47\25082.15
 |recommended   = Ethereal Prism Rod
 }}

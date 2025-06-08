@@ -29,25 +29,26 @@
 Lucky Event/Blarney McBreeze
 |top_rods      = 
 Leviathan's Fang Rod\18763.66\51073.85;
+Free Spirit Rod\16939.98\52164.04;
 Great Rod of Oscar\16069.71\36531.15;
-Free Spirit Rod\15393.91\49555.84;
+Azure Of Lagoon\15401.87\41400.87;
 Astralhook Rod\15241.1\36553.44;
-Ethereal Prism Rod\15177.02\36533.89;
 Resourceful Rod\11325.08\26686.55;
 Destiny Rod\11656.43\27007.01;
 Trident Rod\14207.29\45735.88;
 No-Life Rod\14585.96\37857.44;
-Seraphic Rod\14868.71\37077.41;
 Fischer's Rod\6749.03\22203.71;
-Adventurer's Rod\6613.14\21756.65;
 Plastic Rod\6787.42\22169.71;
+Adventurer's Rod\10304.98\32141.57;
+Ethereal Prism Rod\15177.02\36533.89;
+Seraphic Rod\14868.71\37077.41;
 Challenger's Rod\13567.69\36274.84;
 Rod Of The Forgotten Fang\13468.01\33747.6;
+Blazebringer Rod\12240.16\32237.62;
 Rod Of The Depths\11653.38\29561.38;
 Rod Of The Exalted One\11646.51\28575.74;
 Zeus Rod\11346.44\29883.78;
-Verdant Shear Rod\11068.27\29604.04;
-Blazebringer Rod\10951.72\28844.19;
+Verdant Shear Rod\11318.31\30272.8;
 Depthseeker Rod\10614.26\28716.56;
 Avalanche Rod\9308.01\25082.92;
 Volcanic Rod\8871.21\23364.63;

@@ -27,11 +27,11 @@
 {{Fish Availability|
 Sunstone Island
 |top_rods      = 
+Free Spirit Rod\201205.06\143986.77;
 Leviathan's Fang Rod\198455.23\153363.5;
+Azure Of Lagoon\195596.27\161513.94;
 Trident Rod\193486.51\115360.63;
-Free Spirit Rod\191144.81\115189.42;
 No-Life Rod\189623.47\165272.03;
-Azure Of Lagoon\185816.46\114009.84;
 Training Rod\157977.64\157977.64;
 Flimsy Rod\129820.34\117966.27;
 Resourceful Rod\163621.41\113733.23;
@@ -39,10 +39,10 @@ Fast Rod\165418.01\165418.01;
 Seraphic Rod\173625.01\164508.76;
 Tempest Rod\176587.08\158712.11;
 Rod Of The Exalted One\162555.07\134383.41;
+Verdant Shear Rod\172521.96\140769.38;
+Blazebringer Rod\172310.1\149683.68;
 Challenger's Rod\171669.61\150576.93;
-Verdant Shear Rod\171584.34\140644.91;
 Zeus Rod\171287.53\140408.43;
-Blazebringer Rod\171207.14\132576.97;
 Depthseeker Rod\168378.14\128431.55;
 Avalanche Rod\167128.46\115378.62;
 Ethereal Prism Rod\166820.81\86978.59;

@@ -28,7 +28,7 @@
 Golden Tide
 |top_rods      = 
 Leviathan's Fang Rod\82458.76\98977.81;
-Free Spirit Rod\72392.55\94681.34;
+Free Spirit Rod\76202.69\99664.57;
 Trident Rod\70798.79\92596.88;
 Krampus's Rod\67694.63\75264.27;
 Magma Rod\65958.87\73334.42;
@@ -40,11 +40,11 @@ No-Life Rod\57203.43\64276.48;
 Seraphic Rod\56529.41\58148.25;
 Rod Of The Forgotten Fang\52851.27\56666.85;
 Challenger's Rod\51477.64\56955.09;
+Blazebringer Rod\49718.01\55665.51;
 Rod Of The Depths\47558.76\51382.96;
 Zeus Rod\46811.52\52491.48;
 Rod Of The Exalted One\46414.91\52027.08;
-Verdant Shear Rod\46019.75\52232.14;
-Blazebringer Rod\44484.53\50098.96;
+Verdant Shear Rod\46243.33\52729.59;
 Depthseeker Rod\42469.22\49088.65;
 Avalanche Rod\38223.93\44252;
 Volcanic Rod\36475.73\41495.08;

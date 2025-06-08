@@ -30,22 +30,23 @@ Shark Hunt/Great Hammerhead Shark
 |top_rods      = 
 Leviathan's Fang Rod\35395.53\364187.28;
 Great Rod of Oscar\32182.88\221643.38;
+Free Spirit Rod\29756.5\368449.67;
 Astralhook Rod\29396.53\222880.35;
 Ethereal Prism Rod\29349.84\231321.39;
-Seraphic Rod\27794\235697.33;
 Resourceful Rod\22765.46\178885.01;
 Destiny Rod\23869.92\177631.26;
-Free Spirit Rod\27157.87\350027.18;
 Trident Rod\26822.33\337503.68;
+Azure Of Lagoon\26603.38\249122.81;
 No-Life Rod\27063.34\242148.32;
 Treasure Rod\23206.72\196518.72;
 Rod Of The Depths\22650.93\193149.76;
 Rod Of The Forgotten Fang\25685.12\216379.93;
+Seraphic Rod\27794\235697.33;
 Challenger's Rod\24543.53\219355.17;
+Blazebringer Rod\23057.99\209853.35;
 Rod Of The Exalted One\22872.38\186159.15;
 Zeus Rod\21625.09\196939.29;
-Verdant Shear Rod\20988.91\195020.56;
-Blazebringer Rod\20630.83\188868.01;
+Verdant Shear Rod\21170.16\198536.56;
 Depthseeker Rod\19462.08\186334.04;
 Avalanche Rod\17387.49\166005.93;
 Volcanic Rod\16867.27\155733.27;

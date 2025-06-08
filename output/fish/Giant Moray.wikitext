@@ -27,17 +27,17 @@
 {{Fish Availability|
 Whale Interior
 |top_rods      = 
+Free Spirit Rod\56241.35\387054.48;
 Great Rod of Oscar\50641.52\269705.16;
-Free Spirit Rod\49475.66\318750.75;
 Astralhook Rod\46863.62\270856.16;
+Azure Of Lagoon\43785.15\307301.11;
 Frostfire Rod\41099.49\140684.4;
-Carrot Rod\40935.65\258760.99;
 Steady Rod\40183.9\141582.38;
 Krampus's Rod\34164.74\140746.02;
-Fang of the Eclipse\38119.72\256458.65;
+Carrot Rod\40935.65\258760.99;
 Resourceful Rod\28140.18\175466.59;
-Verdant Shear Rod\34284.45\232378.64;
-Blazebringer Rod\33607.46\222836.09;
+Blazebringer Rod\37561.28\249052.11;
+Verdant Shear Rod\34639.6\234785.88;
 Trident Rod\33097.76\220283.82;
 Ethereal Prism Rod\23427.67\153926.81;
 Seraphic Rod\22956.79\155600.25;

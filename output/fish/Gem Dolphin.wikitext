@@ -29,21 +29,21 @@
 Treasure Island
 |top_rods      = 
 Frostfire Rod\32736.13\43802.11;
+Free Spirit Rod\31369.61\94772.2;
 Steady Rod\31367.87\41763.98;
-Free Spirit Rod\29801.13\78356.44;
 Krampus's Rod\29153.49\40199.26;
 Magma Rod\29101.83\40656.07;
 Plastic Rod\28741.66\43072.98;
+Azure Of Lagoon\24677.87\81985.39;
+Firefly Rod\21304.26\75505.4;
 Astralhook Rod\25922.7\74985.4;
 Great Rod of Oscar\27457.19\74307.74;
-Carrot Rod\23131.74\71099.11;
-Fang of the Eclipse\22002.66\70815.45;
 Lucky Rod\12508.67\45872.3;
+Adventurer's Rod\18261.17\69956.06;
 Fungal Rod\11383.58\45041.73;
-Antler Rod\11211.1\44359.28;
 Trident Rod\21868.67\64993.37;
-Verdant Shear Rod\19965.65\69159.98;
-Blazebringer Rod\19243.44\61274.05;
+Blazebringer Rod\21507.37\68482.77;
+Verdant Shear Rod\20163.29\69844.57;
 No-Life Rod\14610.19\43405.11;
 Ethereal Prism Rod\13385.74\42289.03;
 Seraphic Rod\13252.98\42889.13;

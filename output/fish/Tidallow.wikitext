@@ -28,22 +28,22 @@
 {{Fish Availability|
 Isle of New Beginnings
 |top_rods      = 
-Free Spirit Rod\404524.51\0;
+Free Spirit Rod\425815.28\0;
+Azure Of Lagoon\389609.9\36506.95;
+Firefly Rod\369861.03\34607.95;
 Astralhook Rod\365882.6\0;
-Azure Of Lagoon\362571.19\31073.35;
 Great Rod of Oscar\362464.02\26820.95;
-Carrot Rod\358621.28\30853.18;
 Plastic Rod\296815.25\22445.41;
 Magma Rod\298286.33\21505.45;
 Resourceful Rod\354150.91\26738.26;
 Nocturnal Rod\175600.33\163162.08;
-Firefly Rod\348004.36\38225.27;
-Brick Built Rod\307146.3\31670.5;
-Fang of the Eclipse\358036.47\31363.33;
+Frog Rod\336516.53\33519.7;
+Friendly Rod\357737.38\33368.37;
 Lucky Rod\280959.07\28711.87;
+Brick Built Rod\307146.3\31670.5;
+Blazebringer Rod\356863.17\32181.75;
 Trident Rod\344814.75\29375.73;
-Verdant Shear Rod\335167.71\28671.99;
-Blazebringer Rod\330536.66\28963.58;
+Verdant Shear Rod\335931.16\28757.3;
 Steady Rod\313735.33\19816.94;
 No-Life Rod\298025.64\24785.4;
 Seraphic Rod\287475.62\24490.85;

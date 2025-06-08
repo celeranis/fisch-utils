@@ -28,15 +28,15 @@
 Whale Interior
 |top_rods      = 
 Training Rod\301020.94\227558.76;
-Free Spirit Rod\280635.96\173534.81;
-Azure Of Lagoon\275164.93\264693.1;
+Free Spirit Rod\295406.27\216918.52;
+Azure Of Lagoon\289647.29\278624.32;
 Leviathan's Fang Rod\261252.44\253273.31;
 Trident Rod\259826.91\239459.57;
 Flimsy Rod\258884.09\274029.51;
 Fang of the Eclipse\258583.72\264114.12;
-Great Dreamer Rod\252023.25\257413.33;
-Blazebringer Rod\250911.06\246691.08;
-Verdant Shear Rod\250183.87\249057.59;
+Blazebringer Rod\254237.38\259674.82;
+Frog Rod\253115.75\258529.2;
+Verdant Shear Rod\251585.46\250452.87;
 Astralhook Rod\241975.71\25447.16;
 No-Life Rod\225886.92\214300.7;
 Ethereal Prism Rod\216994.4\218829.73;

@@ -29,14 +29,14 @@
 Pine Shoals
 |top_rods      = 
 Great Rod of Oscar\18396.68\198435.96;
+Free Spirit Rod\17889.34\130744.6;
 Astralhook Rod\17342.95\156682.75;
-Free Spirit Rod\16994.87\106972.85;
+Azure Of Lagoon\15927.86\118368.75;
 Carrot Rod\14875.72\115038.75;
-Fang of the Eclipse\14424.15\100932.71;
 Resourceful Rod\10104.98\92327.39;
-Treasure Rod\13490.14\105389.14;
-Verdant Shear Rod\12178.04\83806.1;
-Blazebringer Rod\12114.39\87606.02;
+Great Dreamer Rod\14430.77\116711.05;
+Blazebringer Rod\13539.61\97912.61;
+Verdant Shear Rod\12416.82\85449.36;
 Trident Rod\11426.63\67174.97;
 Ethereal Prism Rod\8603.79\63072.84;
 Seraphic Rod\8532.52\58718.59;
@@ -50,7 +50,7 @@ Volcanic Rod\7078.27\44751.7;
 Avalanche Rod\7011.56\43395.96;
 Zeus Rod\6992.23\44207.7;
 Steady Rod\6720.05\40265.26
-|recommended   = Astralhook Rod
+|recommended   = Free Spirit Rod
 }}
 
 == Catch Quips ==

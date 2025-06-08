@@ -27,10 +27,10 @@
 {{Fish Availability|
 Snowcap Island/Surrounding Ocean
 |top_rods      = 
+Free Spirit Rod\77019.16\6983.14;
 Leviathan's Fang Rod\75612.83\0;
+Azure Of Lagoon\74966.13\7808.52;
 Trident Rod\74235.12\5596.46;
-Free Spirit Rod\73168.2\5586.51;
-Azure Of Lagoon\71217.83\5511.89;
 No-Life Rod\70449.82\7996.06;
 Training Rod\58351.07\7385.88;
 Flimsy Rod\43430.18\5497.25;
@@ -38,11 +38,10 @@ Brick Built Rod\58006.95\6428.66;
 Nocturnal Rod\48019.08\41019.27;
 Fast Rod\63355.97\7964.01;
 Seraphic Rod\63653.33\7953.3;
-Tempest Rod\64766.06\7673.06;
+Blazebringer Rod\65668.42\7230.83;
 Challenger's Rod\65513.73\7279.76;
 Zeus Rod\65264.44\6788.15;
-Blazebringer Rod\64584.28\6465.82;
-Verdant Shear Rod\64361.31\6793.14;
+Verdant Shear Rod\64759.83\6805.61;
 Depthseeker Rod\64195.34\6627.47;
 Avalanche Rod\63511.4\6547.43;
 Rod Of The Forgotten Fang\63071.21\7262.49;

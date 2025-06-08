@@ -30,13 +30,14 @@ Waveborne
 |top_rods      = 
 Great Rod of Oscar\37961.55\125510.15;
 Astralhook Rod\34897.42\129785.35;
-Free Spirit Rod\30148.78\161872.32;
+Free Spirit Rod\32370.75\176455.49;
+Azure Of Lagoon\31065.11\146737.88;
 Carrot Rod\29372.01\127515.59;
 Fang of the Eclipse\28207.6\128136.59;
 Destiny Rod\16481.6\77197.49;
 Treasure Rod\26765.17\117871.41;
-Verdant Shear Rod\23991.58\105137.16;
-Blazebringer Rod\23830.05\102948.1;
+Blazebringer Rod\26633.58\114386.78;
+Verdant Shear Rod\24403.81\108163.49;
 Trident Rod\19032.21\101470.45;
 Ethereal Prism Rod\16886.73\78650.49;
 Seraphic Rod\16702.73\78233.65;

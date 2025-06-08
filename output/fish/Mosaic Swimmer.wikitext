@@ -27,11 +27,11 @@
 {{Fish Availability|
 Atlantis/Ethereal Abyss
 |top_rods      = 
+Firefly Rod\144221.32\117843.56;
 Summit Rod\141383.77\103005.23;
+Azure Of Lagoon\140147.23\124351.23;
 Champions Rod\139848.29\101096.41;
-Egg Rod\139316.48\111664.01;
-Depthseeker Rod\139267.86\100002.54;
-Celestial Rod\139164.55\103026.59;
+Wildflower Rod\139817.46\108542.05;
 Training Rod\129050.28\131861.77;
 Flimsy Rod\95216.48\95216.48;
 Candy Cane Rod\107323.8\102861.48;
@@ -39,11 +39,12 @@ Ethereal Prism Rod\137487.6\160180.66;
 Leviathan's Fang Rod\129087.45\139767.42;
 Astralhook Rod\136839.79\130081.8;
 No-Life Rod\131336.88\127546.01;
-Verdant Shear Rod\137929.14\107952.24;
+Depthseeker Rod\139267.86\100002.54;
+Verdant Shear Rod\139055.1\108181.28;
+Free Spirit Rod\137921.68\111988.05;
 Avalanche Rod\137426.23\98229.6;
 Trident Rod\133795.1\89814.15;
-Free Spirit Rod\131025.6\89590.44;
-Blazebringer Rod\128705.86\101811.31;
+Blazebringer Rod\128705.86\114948.25;
 Zeus Rod\127788.26\107883.53;
 Seraphic Rod\126560.97\126560.97;
 Volcanic Rod\124781.9\81871.97;

@@ -27,25 +27,24 @@
 {{Fish Availability|
 Grand Reef
 |top_rods      = 
+Azure Of Lagoon\254629.15\207540.94;
 Rapid Rod\247534.73\200637.82;
-Azure Of Lagoon\241897.69\146499.49;
+Firefly Rod\245133.1\196776.85;
 Fang of the Eclipse\240275.41\193815.13;
 No-Life Rod\239980.48\212224.66;
-Champions Rod\239375.93\154658.57;
 Training Rod\211842.11\211842.11;
 Flimsy Rod\158625\158625;
 Resourceful Rod\230019.52\153399.74;
 Fast Rod\213280.97\213280.97;
 Seraphic Rod\211389.2\211389.2;
-Tempest Rod\216129.78\203940.66;
+Free Spirit Rod\238639.55\184473.62;
+Verdant Shear Rod\238249.16\180884.75;
 Depthseeker Rod\238062\165030.98;
-Verdant Shear Rod\237320.31\180884.75;
 Avalanche Rod\236614.94\148376.09;
-Blazebringer Rod\233830.69\170357.73;
+Blazebringer Rod\233830.69\192339.38;
 Zeus Rod\232392.22\180420.94;
 Trident Rod\229054.54\147759.88;
 Volcanic Rod\226997.97\137033.9;
-Free Spirit Rod\226707.57\147578.89;
 Challenger's Rod\222830.86\193487.18;
 Rod Of The Depths\207189.06\175853.15;
 Rod Of The Forgotten Fang\201476.99\193028.06;

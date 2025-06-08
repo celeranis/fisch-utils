@@ -30,22 +30,23 @@ Ancient Isle/Surrounding Ocean
 |top_rods      = 
 Leviathan's Fang Rod\36933.8\161226.59;
 Great Rod of Oscar\33270.74\97447.91;
+Free Spirit Rod\31365.77\155529.13;
 Trident Rod\31003.29\154178.82;
 Astralhook Rod\30715.66\98300.71;
-Ethereal Prism Rod\30657.61\98535.85;
 Destiny Rod\24805.47\83243.63;
 Heaven's Rod\22019.94\89358.1;
-Free Spirit Rod\29711.07\147752.67;
+Azure Of Lagoon\27956.73\109019.11;
 No-Life Rod\28542.67\106082.26;
-Seraphic Rod\29269.84\99528.23;
 Fortune Rod\18269.69\72554.54;
+Ethereal Prism Rod\30657.61\98535.85;
+Seraphic Rod\29269.84\99528.23;
 Rod Of The Forgotten Fang\27127.02\96501.62;
 Challenger's Rod\26014.52\97904.08;
+Blazebringer Rod\25134.26\101772.65;
 Rod Of The Depths\24075.11\86912.49;
 Rod Of The Exalted One\24071.43\83942.74;
+Verdant Shear Rod\23103.3\94707.48;
 Zeus Rod\23062.6\87644.85;
-Verdant Shear Rod\22946.14\93798.2;
-Blazebringer Rod\22488.55\91595.38;
 Depthseeker Rod\20756.71\80895.59;
 Avalanche Rod\18594.51\72378.96;
 Volcanic Rod\17989.92\69359.43;

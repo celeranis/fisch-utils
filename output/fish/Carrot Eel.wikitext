@@ -30,16 +30,16 @@ Lushgrove/Carrot Garden
 |top_rods      = 
 Astralhook Rod\147888.09\301747.69;
 Trident Rod\147353.6\130668.11;
+Firefly Rod\137081.26\126619.09;
 Training Rod\136834.59\312529.39;
-Egg Rod\135275.44\120016.04;
-Merchant Rod\135260.28\121959.15;
+Wildflower Rod\135704.27\120337.89;
 Flimsy Rod\106450.82\99113.87;
+Azure Of Lagoon\133716.94\133716.94;
 Carrot Rod\127273.41\127273.41;
-Firefly Rod\133585.91\125290.13;
-Verdant Shear Rod\134086.1\118902.95;
+Verdant Shear Rod\135058.89\119765.59;
 No-Life Rod\124740.88\114039.58;
-Blazebringer Rod\122750.36\109426.39;
-Free Spirit Rod\118318.6\96354.63;
+Free Spirit Rod\124545.9\120443.28;
+Blazebringer Rod\123545.92\123545.92;
 Seraphic Rod\117522.1\104214.57;
 Challenger's Rod\114066.83\103902.38;
 Depthseeker Rod\113708.05\107562.46;

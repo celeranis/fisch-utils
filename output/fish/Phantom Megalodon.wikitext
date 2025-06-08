@@ -37,6 +37,7 @@ Ethereal Prism Rod\24971.54\64783;
 Destiny Rod\16922.97\41260.07;
 Heaven's Rod\16663.22\41335.46;
 Challenger's Rod\24735.64\69957.83;
+Azure Of Lagoon\23518.31\67497.05;
 Abyssal Specter Rod\21331.99\63005.4;
 Zeus Rod\16255.66\45336.02;
 The Lost Rod\14439.97\40272.17;

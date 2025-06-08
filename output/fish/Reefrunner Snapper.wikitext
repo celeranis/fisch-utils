@@ -31,7 +31,7 @@ Forsaken Shores/Freshwater Pond
 Forsaken Shores/Surrounding Ocean
 |top_rods      = 
 Leviathan's Fang Rod\262233.47\155206.67;
-Free Spirit Rod\236619.85\136689.09;
+Free Spirit Rod\249073.52\143883.25;
 Trident Rod\228847.99\132199.49;
 Krampus's Rod\201816.78\98293.77;
 Magma Rod\196641.99\95773.42;
@@ -46,11 +46,11 @@ No-Life Rod\184206.51\108758.94;
 Seraphic Rod\182221.42\106725.74;
 Rod Of The Forgotten Fang\169471.54\99356.12;
 Challenger's Rod\166508.57\98232.83;
+Blazebringer Rod\160066.55\94707.47;
 Rod Of The Depths\151773.06\89232.67;
 Zeus Rod\150286.7\88920.97;
+Verdant Shear Rod\149208.03\88435.52;
 Rod Of The Exalted One\148246.26\86470.64;
-Verdant Shear Rod\148158.99\87813.75;
-Blazebringer Rod\143217.44\84738.26;
 Depthseeker Rod\137642.6\81619.08;
 Avalanche Rod\123504.97\73248.34;
 Volcanic Rod\117201.99\69345.56;

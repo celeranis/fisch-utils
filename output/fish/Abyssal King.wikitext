@@ -30,24 +30,25 @@ Atlantis/Ancient Kraken Hunt
 Atlantis/Kraken Hunt
 Atlantis/Kraken Pool
 |top_rods      = 
+Free Spirit Rod\98171.35\150600.71;
 Leviathan's Fang Rod\95516.34\143847.56;
-Free Spirit Rod\93262.78\143070.67;
 Trident Rod\86073.72\132042.22;
-Azure Of Lagoon\70742.08\111395.73;
+Azure Of Lagoon\75135.34\117258.67;
 No-Life Rod\70597.41\104911.27;
-Frog Rod\47689.97\76900.7;
+Frog Rod\65597.02\109412.96;
 Resourceful Rod\56072.94\87108.37;
-Carbon Rod\36706.92\63524.34;
+Wildflower Rod\63716.79\100392.14;
 Buddy Bond Rod\38507.53\64184.74;
+Carbon Rod\36706.92\63524.34;
 Seraphic Rod\69198.33\100319.15;
 Astralhook Rod\68266.66\99809.39;
 Ethereal Prism Rod\68129.8\98100.31;
 Challenger's Rod\66399.74\100475.27;
 Rod Of The Forgotten Fang\63636.52\94443.24;
+Blazebringer Rod\60969.35\90521.94;
+Verdant Shear Rod\57290.37\85485.27;
 Zeus Rod\56619.83\83795.17;
-Verdant Shear Rod\56322.63\82852.27;
 Rod Of The Depths\55947.05\81464.4;
-Blazebringer Rod\54551.53\81469.75;
 Depthseeker Rod\53954.68\81949.93;
 Rod Of The Exalted One\53846.2\79209.37;
 Avalanche Rod\47618.27\71185.63;

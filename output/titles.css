@@ -1,4 +1,4 @@
-/* Last update: Version [[1.34]], place version 55 */
+/* Last update: Version [[1.35]], place version 56 */
 
 .playertitle {
 	font-family: 'Source Sans Pro', sans-serif;
@@ -9,6 +9,81 @@
 
 .playertitle- {
 	--playertitle-color: white;
+}
+.playertitle-ghosts-cursed-deckhand {
+	--playertitle-color: #55aa7f;
+	--playertitle-stroke-color: #222222;
+	font-weight: 700;
+}
+.playertitle-ghosts-dread-captain {
+	--playertitle-color: #71f81d;
+	--playertitle-stroke-color: #222222;
+	font-weight: 700;
+}
+.playertitle-ghosts-eternal-reaver {
+	--playertitle-color: #894bc6;
+	--playertitle-stroke-color: #222222;
+	font-weight: 700;
+}
+.playertitle-ghosts-lost-soul {
+	--playertitle-color: #878787;
+	--playertitle-stroke-color: #222222;
+	font-weight: 700;
+}
+.playertitle-ghosts-phantom-corsair {
+	--playertitle-color: #59b8aa;
+	--playertitle-stroke-color: #222222;
+	font-weight: 700;
+}
+.playertitle-midas-mates-coin-bitten {
+	--playertitle-color: #ffd501;
+	--playertitle-stroke-color: #222222;
+	font-weight: 700;
+}
+.playertitle-midas-mates-crownforged {
+	--playertitle-color: #ffdc82;
+	--playertitle-stroke-color: #222222;
+	font-weight: 700;
+}
+.playertitle-midas-mates-gildwarden {
+	--playertitle-color: #96c7cc;
+	--playertitle-stroke-color: #222222;
+	font-weight: 700;
+}
+.playertitle-midas-mates-vaultbound {
+	--playertitle-color: #ff6803;
+	--playertitle-stroke-color: #222222;
+	font-weight: 700;
+}
+.playertitle-midas-mates-vaultkeeper {
+	--playertitle-color: #d900ff;
+	--playertitle-stroke-color: #222222;
+	font-weight: 700;
+}
+.playertitle-red-marlins-castaway {
+	--playertitle-color: #52b4ff;
+	--playertitle-stroke-color: #222222;
+	font-weight: 700;
+}
+.playertitle-red-marlins-ironhook {
+	--playertitle-color: #96c7cc;
+	--playertitle-stroke-color: #222222;
+	font-weight: 700;
+}
+.playertitle-red-marlins-marauder {
+	--playertitle-color: #ff075e;
+	--playertitle-stroke-color: #222222;
+	font-weight: 700;
+}
+.playertitle-red-marlins-mythwalker {
+	--playertitle-color: #d900ff;
+	--playertitle-stroke-color: #222222;
+	font-weight: 700;
+}
+.playertitle-red-marlins-seafarrer {
+	--playertitle-color: #00ffff;
+	--playertitle-stroke-color: #222222;
+	font-weight: 700;
 }
 .playertitle-the-final-fishness {
 	--playertitle-color: #ffb02e;
@@ -54,6 +129,10 @@
 	--playertitle-color: #09d0ef;
 	--playertitle-stroke-color: #03454f;
 	font-weight: 700;
+}
+.playertitle-bloopster {
+	--playertitle-color: #bbdeff;
+	--playertitle-stroke-color: #8fc5ff;
 }
 .playertitle-bobber-enthusiast {
 	--playertitle-color: #f781ff;

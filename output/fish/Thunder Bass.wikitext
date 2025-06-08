@@ -27,14 +27,14 @@
 {{Fish Availability|
 Atlantis/Zeus's Rod Room
 |top_rods      = 
+Firefly Rod\132506.98\110748.14;
 Champions Rod\131633.43\91335.83;
 Celestial Rod\130922.61\93009.43;
 Astralhook Rod\130490.53\154183.21;
 Rapid Rod\129737.08\112199.46;
-Ice Warpers Rod\128942.74\91602.9;
 Fischer's Rod\81055.24\81055.24;
 Plastic Rod\80587.29\76685.37;
-Adventurer's Rod\80311.61\80311.61;
+Adventurer's Rod\124030.44\107201.84;
 Ethereal Prism Rod\125772.01\135437.95;
 Leviathan's Fang Rod\121697.42\125239.16;
 No-Life Rod\121323.8\121323.8;
@@ -42,13 +42,13 @@ Seraphic Rod\119439.44\119439.44;
 Fortune Rod\69070.57\81611.46;
 Depthseeker Rod\124453.23\93034.3;
 Avalanche Rod\123581.9\83277.61;
-Verdant Shear Rod\113928.99\101408.16;
+Verdant Shear Rod\116286.14\101734.75;
 Challenger's Rod\109306.84\109306.84;
 Rod Of The Forgotten Fang\108888.57\108888.57;
+Free Spirit Rod\108411.68\108411.68;
+Blazebringer Rod\108115.41\108115.41;
 Trident Rod\107071.03\87204.1;
-Blazebringer Rod\103301.78\95759.37;
 Zeus Rod\102464.2\101391.83;
-Free Spirit Rod\100232.24\86729.34;
 Volcanic Rod\99811.86\76953.69;
 Rod Of The Depths\98699.39\98699.39;
 Rod Of The Exalted One\93174.38\95087.4;

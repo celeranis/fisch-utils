@@ -28,20 +28,20 @@
 {{Fish Availability|
 Pine Shoals
 |top_rods      = 
-Free Spirit Rod\16855.59\88745.97;
+Free Spirit Rod\17742.72\108467.29;
 Great Rod of Oscar\15888.08\166229.85;
 Astralhook Rod\14921.31\130416.01;
+Azure Of Lagoon\14079.38\97863.5;
 Carrot Rod\13220.46\96366.85;
-Leviathan's Fang Rod\12974.92\59506.41;
 Magma Rod\10046.87\132000.53;
 Krampus's Rod\10046.87\132000.53;
 Plastic Rod\8037.5\105600.42;
 Fast Rod\7397.43\122226.79;
 Buddy Bond Rod\6257.6\117462;
 Fischer's Rod\7397.43\122226.79;
+Blazebringer Rod\12230.92\82006.55;
 Trident Rod\12092.41\55351.35;
-Verdant Shear Rod\11164.99\70583.96;
-Blazebringer Rod\10943.45\73374.28;
+Verdant Shear Rod\11309.24\71495.9;
 Ethereal Prism Rod\7664.45\52325.71;
 No-Life Rod\7635.58\43059.73;
 Seraphic Rod\7614.26\48136.62;

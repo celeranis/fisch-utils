@@ -29,15 +29,15 @@ Treasure Island
 |top_rods      = 
 Great Rod of Oscar\470.57\3685.54;
 Astralhook Rod\434.06\3715.26;
+Azure Of Lagoon\394.65\3938.2;
 Carrot Rod\384.58\3732.37;
-Treasure Rod\357.24\3467.49;
-Fang of the Eclipse\352.05\3487.77;
+Free Spirit Rod\376.04\3624.08;
 Flimsy Rod\276.83\7711.32;
 Training Rod\251.97\3883.63;
+Firefly Rod\347.59\3844.29;
 Lucky Rod\212.02\2405.33;
+Blazebringer Rod\356.22\3509.61;
 Verdant Shear Rod\332.71\3556.78;
-Blazebringer Rod\318.73\3149.65;
-Free Spirit Rod\316.62\2996.32;
 Trident Rod\229.09\2448.99;
 Ethereal Prism Rod\218.8\2211.79;
 Seraphic Rod\212.3\2120.28;

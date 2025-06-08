@@ -25,35 +25,38 @@
 == Obtainment ==
 {{Description|Caught in all saltwater’s of Moosewood|Bestiary Hint}}
 {{Fish Availability|
+Bloop Fish
 Moosewood/Docks
 Moosewood/Seaweed and Mini-Island
 Moosewood/Surrounding Ocean
 |top_rods      = 
-Leviathan's Fang Rod\228458.1\0;
-Trident Rod\215632.52\13928.94;
-Free Spirit Rod\214029.87\13992.91;
-No-Life Rod\211923.84\32943.52;
-Seraphic Rod\207983.03\20043.18;
-Flimsy Rod\150273.7\16329.66;
-Training Rod\171435.43\15496.99;
-Great Rod of Oscar\206641.67\21061.5;
-Nocturnal Rod\121032.09\122751.92;
-Challenger's Rod\195375.1\33997.37;
-Tempest Rod\205079.99\33876.7;
-Riptide Rod\182501.25\33356.16;
-Frog Rod\165380.31\25653.41;
-Astralhook Rod\206730.76\0;
-Ethereal Prism Rod\206688.66\0;
-Rod Of The Forgotten Fang\198433.32\18302.24;
-Rod Of The Exalted One\190757.52\0;
-Rod Of The Depths\189265.72\16673.77;
-Zeus Rod\183034.46\29791.84;
-Verdant Shear Rod\182227.34\29456.26;
-Blazebringer Rod\179486.89\28235.68;
-Depthseeker Rod\178622.48\25396.84;
-Avalanche Rod\177577.38\22794.1;
-Volcanic Rod\173620.77\25298.23;
-Steady Rod\85680.73\10792.5
+Leviathan's Fang Rod\238698.03\0;
+Free Spirit Rod\237406.1\17524.77;
+Trident Rod\227224.6\13955.72;
+Krampus's Rod\222718.28\23403.31;
+Azure Of Lagoon\221088.7\34763.25;
+Flimsy Rod\159637.59\17088.07;
+Training Rod\179586.47\15496.99;
+Magma Rod\216412.25\22585.51;
+Nocturnal Rod\139879.02\122751.92;
+Challenger's Rod\204280.28\33997.37;
+Tempest Rod\208965.58\33876.7;
+Frog Rod\192565.45\33529.82;
+Riptide Rod\191462.23\33356.16;
+No-Life Rod\216696.16\32943.52;
+Astralhook Rod\213195.79\0;
+Ethereal Prism Rod\212941.53\0;
+Seraphic Rod\212341.79\20043.18;
+Rod Of The Forgotten Fang\205657.29\18302.24;
+Blazebringer Rod\204591\31658.19;
+Rod Of The Exalted One\201558.14\0;
+Rod Of The Depths\199440.36\16705.83;
+Verdant Shear Rod\193050.72\29551.13;
+Zeus Rod\190691.08\29791.84;
+Depthseeker Rod\185006.96\25396.84;
+Avalanche Rod\183907.89\22794.1;
+Volcanic Rod\180025.06\25298.23;
+Steady Rod\88025.61\10792.5
 |recommended   = Trident Rod
 }}
 

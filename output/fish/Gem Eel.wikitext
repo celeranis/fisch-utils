@@ -30,13 +30,14 @@ Treasure Island
 Training Rod\79354.54\289053.45;
 Trident Rod\67998.91\62677.11;
 Leviathan's Fang Rod\64809.17\46946.83;
+Azure Of Lagoon\64214.19\58946.13;
+Free Spirit Rod\63466.77\53950.23;
 Flimsy Rod\63334.01\58456.21;
-Astralhook Rod\62195.69\74149.96;
 Resourceful Rod\48311.51\49281.16;
-Firefly Rod\59112.66\59767.42;
-Verdant Shear Rod\60307.79\55430.12;
-Free Spirit Rod\60293.43\43160.18;
-Blazebringer Rod\57336.18\48162.55;
+Astralhook Rod\62195.69\74149.96;
+Firefly Rod\61058.2\59674.21;
+Verdant Shear Rod\60800.1\55882.61;
+Blazebringer Rod\57336.18\54377.07;
 No-Life Rod\55616.23\52177.73;
 Seraphic Rod\51834.01\47016.4;
 Challenger's Rod\50210.3\46925.41;
@@ -49,7 +50,7 @@ Zeus Rod\48593.99\46100.86;
 Rod Of The Exalted One\48544.35\42119.71;
 Ethereal Prism Rod\47913.25\31290.01;
 Steady Rod\40164.95\40682.34
-|recommended   = Astralhook Rod
+|recommended   = Free Spirit Rod
 }}
 
 == Catch Quips ==

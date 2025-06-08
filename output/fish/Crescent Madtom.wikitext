@@ -28,17 +28,16 @@
 {{Fish Availability|
 Blue Moon/Second Sea
 |top_rods      = 
+Free Spirit Rod\165061.69\118360.96;
 Trident Rod\157512.32\157210.94;
-Free Spirit Rod\156808.61\94688.77;
 Leviathan's Fang Rod\154833.22\154235.61;
+Azure Of Lagoon\153483.5\137576.12;
 Training Rod\150803.89\182886.88;
-Azure Of Lagoon\145809.32\130697.31;
 Flimsy Rod\119929.45\120460.78;
 Resourceful Rod\102491.29\118886.78;
 Fang of the Eclipse\133971.72\151454.73;
-Egg Rod\131560.02\147530.16;
-Verdant Shear Rod\130187.56\145991.1;
-Blazebringer Rod\127874.79\143718.54;
+Blazebringer Rod\131977.06\151282.67;
+Verdant Shear Rod\131394.12\147344.12;
 Astralhook Rod\126963.19\18087.83;
 No-Life Rod\122351.65\122148.22;
 Seraphic Rod\111849.32\111635.31;

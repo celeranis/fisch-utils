@@ -32,11 +32,11 @@ Octophant Hunt/Octophant Uncatchable
 |top_rods      = 
 Fischer's Rod\628602.94\628602.94;
 Plastic Rod\610294.12\610294.12;
-Free Spirit Rod\494144.1\408967.87;
+Free Spirit Rod\520151.69\430492.5;
 Trident Rod\463511.65\388749.89;
 Fast Rod\396366.03\415308.96;
-Verdant Shear Rod\357443.84\326899.51;
-Blazebringer Rod\296173.13\265217.27;
+Verdant Shear Rod\366818.97\330686.85;
+Blazebringer Rod\319199.25\299438.85;
 Astralhook Rod\236437.5\236437.5;
 No-Life Rod\229336.88\206821.73;
 Seraphic Rod\191839.65\171458.38;

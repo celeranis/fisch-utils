@@ -29,21 +29,20 @@ Vertigo/Vertigos Dip
 |top_rods      = 
 Trident Rod\265106.65\145219.69;
 Leviathan's Fang Rod\256625.6\227354.13;
-Free Spirit Rod\242488.38\144296.67;
+Free Spirit Rod\255250.93\180370.84;
+Azure Of Lagoon\223986.8\195113.56;
 No-Life Rod\215639.69\200950.34;
-Azure Of Lagoon\212787.46\137727.22;
 Flimsy Rod\174992.12\174992.12;
 Resourceful Rod\162892.71\122643.53;
 Buddy Bond Rod\115657.38\95139.92;
 Seraphic Rod\197426.71\197426.71;
 Tempest Rod\190620.95\190620.95;
-Rapid Rod\186165.59\185152.68;
 Lucky Rod\127720.16\107173.93;
 Astralhook Rod\190468.33\74383.49;
 Ethereal Prism Rod\190232.21\133463.74;
-Blazebringer Rod\182611.48\158146.12;
+Verdant Shear Rod\184375.45\168010.25;
+Blazebringer Rod\182611.48\178552.07;
 Challenger's Rod\182276.28\180638.47;
-Verdant Shear Rod\181377.48\167417.27;
 Zeus Rod\181157.24\167417.27;
 Depthseeker Rod\180076.3\153692.85;
 Rod Of The Forgotten Fang\179909.9\179909.9;

@@ -1,4 +1,4 @@
--- Last update: Version [[1.34]], place version 55
+-- Last update: Version [[1.35]], place version 56
 
 return {
 	["Abyssal Heart"] = "Mythical",
@@ -14,6 +14,7 @@ return {
 	["Barnacle Buoy"] = "Mythical",
 	["Bat"] = "Legendary",
 	["Betsy"] = "Exotic",
+	["Bloop Bobber"] = "Secret",
 	["Blue Claw"] = "Mythical",
 	["Blue Whale Bobber"] = "Mythical",
 	["Bobber Of Odin"] = "Mythical",
@@ -35,6 +36,7 @@ return {
 	["Crab Bobber"] = "Mythical",
 	["Crown Of the Depths"] = "Mythical",
 	["Crystallized Ball"] = "Rare",
+	["Crystallized Relic"] = "Mythical",
 	["Cube"] = "Uncommon",
 	["Cupid's Arrow"] = "Mythical",
 	["Cursed Barnacle"] = "Mythical",
@@ -120,6 +122,7 @@ return {
 	["Mushroom"] = "Rare",
 	["Mythic Sea Star"] = "Mythical",
 	["Nautilis Shell"] = "Mythical",
+	["Nessie"] = "Mythical",
 	["North Star Bobber"] = "Mythical",
 	["Obsidian Lockheart"] = "Mythical",
 	["Ocean King"] = "Mythical",
@@ -156,6 +159,7 @@ return {
 	["Soulless Fish"] = "Mythical",
 	["Star"] = "Rare",
 	["Stock"] = "Trash",
+	["Submarine"] = "Mythical",
 	["Sun"] = "Legendary",
 	["Sunken Horror"] = "Mythical",
 	["Sunken Relic"] = "Rare",

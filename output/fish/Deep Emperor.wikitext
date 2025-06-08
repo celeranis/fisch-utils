@@ -28,25 +28,25 @@
 {{Fish Availability|
 Atlantis/Poseidon Temple
 |top_rods      = 
+Free Spirit Rod\70806.92\160194.28;
 Leviathan's Fang Rod\69980.49\153300.72;
-Free Spirit Rod\67266.57\152184.56;
 Trident Rod\62918.09\142346.52;
+Azure Of Lagoon\54007.31\123833.67;
 No-Life Rod\51357.06\115526.32;
-Seraphic Rod\49467.46\103348.61;
 Long Rod\32256.46\87749.88;
-Frog Rod\30835.75\72801.23;
+Frog Rod\41951.08\101340.3;
 Resourceful Rod\37133.41\82361.75;
-Azure Of Lagoon\49151.01\117641.99;
 Carbon Rod\23469.11\64078.29;
 Buddy Bond Rod\24806.37\61745.92;
+Seraphic Rod\49467.46\103348.61;
 Astralhook Rod\49015.12\101839.57;
 Ethereal Prism Rod\48998.88\100075.46;
 Challenger's Rod\46906.91\104097.33;
 Rod Of The Forgotten Fang\45743.99\98628.62;
+Blazebringer Rod\43930.54\97054.57;
+Verdant Shear Rod\41254.31\92954.7;
 Zeus Rod\40938.61\90267.54;
-Verdant Shear Rod\40722.91\90106.24;
 Rod Of The Depths\40532.76\86502.57;
-Blazebringer Rod\39306.27\87349.12;
 Rod Of The Exalted One\39135.97\82920.91;
 Depthseeker Rod\38529.27\88960.75;
 Avalanche Rod\34300.2\77986.47;

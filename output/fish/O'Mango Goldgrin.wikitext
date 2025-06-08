@@ -29,25 +29,26 @@
 Lucky Event/O'Mango Goldgrin
 |top_rods      = 
 Leviathan's Fang Rod\23101.73\53901.11;
-Free Spirit Rod\20150.14\51290.38;
+Free Spirit Rod\21215.97\53989.88;
 Trident Rod\19165.34\48783.67;
 Great Rod of Oscar\19093.63\35816.24;
-Astralhook Rod\18154.75\35729.99;
+Azure Of Lagoon\18465.79\40476.32;
 Resourceful Rod\14158.04\28691.35;
 Destiny Rod\14308.82\27972.4;
 No-Life Rod\17574.5\38383.14;
-Seraphic Rod\17690.33\36281.44;
+Adventurer's Rod\13098.4\33837.52;
 Plastic Rod\8732.54\23932.75;
 Fischer's Rod\8690.2\23834.05;
-Adventurer's Rod\8599.36\23347.64;
+Astralhook Rod\18154.75\35729.99;
 Ethereal Prism Rod\18138.8\35881.31;
+Seraphic Rod\17690.33\36281.44;
 Rod Of The Forgotten Fang\16527.38\34922.62;
 Challenger's Rod\16437.49\35855.24;
+Blazebringer Rod\15152.18\33464.54;
 Rod Of The Depths\14467.9\30598.76;
 Rod Of The Exalted One\14384.25\29774.07;
 Zeus Rod\14170.93\31255.97;
-Verdant Shear Rod\13913.1\30775.57;
-Blazebringer Rod\13557.22\30118.09;
+Verdant Shear Rod\14054.83\31680.73;
 Depthseeker Rod\13203.68\30030.43;
 Avalanche Rod\11610.98\26363.16;
 Volcanic Rod\11102.34\24708.28;

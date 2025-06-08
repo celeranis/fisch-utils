@@ -29,13 +29,13 @@
 Cryogenic Canal
 |top_rods      = 
 Leviathan's Fang Rod\85807.03\218996.19;
-Free Spirit Rod\74785.49\214303;
+Free Spirit Rod\78721.56\225582.11;
 Trident Rod\71847.36\205883.61;
 Great Rod of Oscar\62806.81\127504.5;
 Ethereal Prism Rod\61565.13\131385.53;
 Resourceful Rod\46381.32\105776.15;
 Destiny Rod\47919.61\103710.8;
-Azure Of Lagoon\49490.61\162422.6;
+Azure Of Lagoon\60054.83\170971.15;
 No-Life Rod\60965.92\157622.66;
 Brick Built Rod\36899.91\113571.59;
 Fungal Rod\42341.2\130881.84;
@@ -44,11 +44,11 @@ Astralhook Rod\61418.45\132522.06;
 Seraphic Rod\60323.62\136158.08;
 Rod Of The Forgotten Fang\55801.04\129890.85;
 Challenger's Rod\55001.96\134759.56;
+Blazebringer Rod\52291.38\128328.74;
 Rod Of The Depths\49604.14\114769.66;
 Zeus Rod\48975.98\120195.22;
+Verdant Shear Rod\48662.59\123089.8;
 Rod Of The Exalted One\48657.73\110001.9;
-Verdant Shear Rod\48147.64\119582.97;
-Blazebringer Rod\46787.02\115495.86;
 Depthseeker Rod\45046.41\116957.85;
 Avalanche Rod\40204.22\102965.9;
 Volcanic Rod\38206.7\98414.36;

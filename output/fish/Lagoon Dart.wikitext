@@ -28,18 +28,18 @@
 {{Fish Availability|
 Azure Lagoon
 |top_rods      = 
-Free Spirit Rod\326400.79\211429.22;
+Free Spirit Rod\343579.78\222557.07;
 Trident Rod\291179.29\278919.95;
 Leviathan's Fang Rod\288161.1\265761.75;
-Azure Of Lagoon\264636.55\251231.88;
+Azure Of Lagoon\284113.71\270858.56;
 Astralhook Rod\247705.61\0;
 Fischer's Rod\220746.36\183105.09;
 Plastic Rod\219001.14\185119.88;
 Candy Cane Rod\201800.84\189695.08;
-Fang of the Eclipse\243658.35\228494.78;
-Blazebringer Rod\215204.56\217210.6;
+Frog Rod\220901.49\246772.96;
+Blazebringer Rod\239116.17\241345.12;
 Lucky Rod\192506.47\200410.82;
-Verdant Shear Rod\223707.73\202560.98;
+Verdant Shear Rod\225416.72\205959.65;
 No-Life Rod\207054.32\190256.19;
 Ethereal Prism Rod\189012.47\173673.19;
 Seraphic Rod\188332.61\180403.36;

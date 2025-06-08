@@ -33,15 +33,17 @@ Krampus's Rod\66415.29\74510.58;
 Magma Rod\66106.82\90869.59;
 Frostfire Rod\64821.66\73816.92;
 Great Rod of Oscar\63255.83\138751.81;
-Firefly Rod\42183.83\147476.07;
-Free Spirit Rod\57358.68\141390.6;
-Astralhook Rod\59191.5\140486;
-Fang of the Eclipse\49880.86\135185.68;
-Adventurer's Rod\29780.45\106193.91;
+Free Spirit Rod\60396.17\167901.33;
+Firefly Rod\48358.36\163653.81;
+Azure Of Lagoon\54781.17\153834.06;
+Adventurer's Rod\41427.35\152533.2;
+Wildflower Rod\46151.74\150311.88;
 Candy Cane Rod\36859.34\97468.61;
 Long Rod\25903.67\96885.72;
-Verdant Shear Rod\44165.34\120512.8;
-Blazebringer Rod\43177.42\115473.58;
+Fungal Rod\25701.52\98952.61;
+Astralhook Rod\59191.5\140486;
+Blazebringer Rod\48257.11\129058.71;
+Verdant Shear Rod\44616.01\121742.52;
 Trident Rod\41899\101927.25;
 Ethereal Prism Rod\30146.25\83393.22;
 Seraphic Rod\29886.72\81551.09;
@@ -54,7 +56,7 @@ Depthseeker Rod\26157.36\75702.91;
 Volcanic Rod\26048.32\74225.46;
 Zeus Rod\25842.45\73638.83;
 Avalanche Rod\25800.81\74789.57
-|recommended   = Astralhook Rod
+|recommended   = Free Spirit Rod
 }}
 
 == Catch Quips ==

@@ -29,26 +29,26 @@
 Frigid Cavern
 |top_rods      = 
 Leviathan's Fang Rod\56451.18\146774;
-Free Spirit Rod\47019.96\139544.69;
+Free Spirit Rod\49813.64\146889.15;
 Great Rod of Oscar\46845.91\89299.13;
 Trident Rod\45592.6\135308.6;
 Ethereal Prism Rod\44337.45\91893.86;
 Resourceful Rod\33860.57\71619.79;
 Destiny Rod\35293.49\73094.59;
 No-Life Rod\42496.83\112878.71;
-Tempest Rod\40922.2\93620.55;
+Azure Of Lagoon\41772.5\110908.99;
 Lucky Rod\24411.05\65539.36;
 Brick Built Rod\24484.25\66363.36;
-Fungal Rod\27377\77898.6;
+Firefly Rod\36689.98\100515.45;
 Astralhook Rod\44293.43\89481.06;
 Seraphic Rod\42866.98\92964.17;
 Rod Of The Forgotten Fang\39826.79\86336.23;
 Challenger's Rod\38388.17\89049.99;
+Blazebringer Rod\36364.28\83496.71;
 Rod Of The Depths\35502.24\77329.72;
 Rod Of The Exalted One\35077.53\74643.42;
 Zeus Rod\34153.18\78497.33;
-Verdant Shear Rod\33252\77645.37;
-Blazebringer Rod\32536.46\75147.04;
+Verdant Shear Rod\33498.31\78839.91;
 Depthseeker Rod\30772.29\73726.72;
 Avalanche Rod\27555.55\65903.07;
 Volcanic Rod\26628.3\62058.37;

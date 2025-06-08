@@ -31,12 +31,13 @@ Pine Shoals
 |top_rods      = 
 Great Rod of Oscar\805.66\7881.37;
 Astralhook Rod\758.39\6197.03;
+Azure Of Lagoon\672.77\4502.69;
+Free Spirit Rod\670.77\4926.65;
 Fang of the Eclipse\655.55\4125.25;
-Carrot Rod\612.1\4267.38;
-Free Spirit Rod\580.63\4030.89;
 Resourceful Rod\416.97\3450.06;
-Blazebringer Rod\491.48\3198.14;
-Verdant Shear Rod\479.93\2969.24;
+Great Dreamer Rod\587.8\4290.29;
+Blazebringer Rod\549.3\3574.39;
+Verdant Shear Rod\501.88\3105.03;
 Trident Rod\382.79\2368.24;
 Seraphic Rod\371.69\2299.55;
 Ethereal Prism Rod\362.8\2394.2;

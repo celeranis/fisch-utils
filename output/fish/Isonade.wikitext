@@ -29,24 +29,25 @@
 Ocean/Strange Whirlpool
 |top_rods      = 
 Leviathan's Fang Rod\57829.82\256877.76;
-Free Spirit Rod\47063.5\252741.46;
+Free Spirit Rod\52485.24\266043.64;
 Great Rod of Oscar\46150.8\152926.31;
 Trident Rod\44763.37\240389.25;
 Ethereal Prism Rod\43768.86\157249.17;
 Resourceful Rod\33107.47\124375.28;
 Destiny Rod\34225.42\118121.7;
+Azure Of Lagoon\41945.29\182748.17;
 No-Life Rod\42410.25\172236.11;
-Seraphic Rod\42532.42\161389.01;
 Treasure Rod\35018.51\134495.46;
 Rod Of The Depths\34221.74\132116.22;
 Carrot Rod\38685.82\149868.51;
 Astralhook Rod\43703.51\159749.57;
+Seraphic Rod\42532.42\161389.01;
 Rod Of The Forgotten Fang\39017.76\153875.97;
 Challenger's Rod\38395.76\158617.46;
+Blazebringer Rod\35790.89\147025.94;
 Rod Of The Exalted One\34058.57\128647.69;
 Zeus Rod\33410.12\137230.93;
-Verdant Shear Rod\32634.89\134782.65;
-Blazebringer Rod\32023.43\132323.34;
+Verdant Shear Rod\33153.56\140155.33;
 Depthseeker Rod\30814.52\133863.15;
 Avalanche Rod\27288.22\116163.92;
 Volcanic Rod\26073.68\108264.55;

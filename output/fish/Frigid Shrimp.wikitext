@@ -27,21 +27,20 @@
 {{Fish Availability|
 Frigid Cavern
 |top_rods      = 
+Azure Of Lagoon\212047.03\173018.46;
 Training Rod\207406.55\207406.55;
-Azure Of Lagoon\201444.68\122130.68;
+Free Spirit Rod\205565.22\155816.72;
+Firefly Rod\205013.88\163909.17;
 Trident Rod\199414.77\124964.64;
-Fang of the Eclipse\199384.13\161400.06;
-No-Life Rod\198716.71\177463.59;
 Flimsy Rod\138754.57\138754.57;
 Resourceful Rod\186742.77\123749.03;
+No-Life Rod\198716.71\177463.59;
 Seraphic Rod\176093.03\176093.03;
 Fast Rod\175525.78\174608.83;
-Leviathan's Fang Rod\193021.87\171603.83;
 Depthseeker Rod\195682.66\137475.4;
-Free Spirit Rod\195286.96\124653.38;
+Verdant Shear Rod\194522.73\150520.1;
 Avalanche Rod\192968.8\123257.1;
-Verdant Shear Rod\192947.65\150201.42;
-Blazebringer Rod\188571.84\141657.11;
+Blazebringer Rod\188571.84\159935.45;
 Zeus Rod\187227.43\150105.82;
 Volcanic Rod\182822.7\113914.14;
 Challenger's Rod\181758.23\161302.42;

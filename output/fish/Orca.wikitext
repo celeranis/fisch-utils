@@ -29,7 +29,7 @@
 Orca Migration/Normal
 |top_rods      = 
 Leviathan's Fang Rod\39283.83\54155.89;
-Free Spirit Rod\33888.38\50594.35;
+Free Spirit Rod\35671.98\53257.21;
 Trident Rod\33276.75\49681.21;
 Krampus's Rod\31827.66\38743.9;
 Magma Rod\31011.57\37750.46;
@@ -41,11 +41,11 @@ Astralhook Rod\26077.02\33241.57;
 Seraphic Rod\25466.2\33790.57;
 Rod Of The Forgotten Fang\23796.16\30653.17;
 Challenger's Rod\23224.04\31376.12;
+Blazebringer Rod\22450.76\29801.25;
 Rod Of The Depths\21344.81\27390.18;
 Zeus Rod\21142.94\27970.12;
+Verdant Shear Rod\20932.68\27831.57;
 Rod Of The Exalted One\20888.95\26746.98;
-Verdant Shear Rod\20788.47\27639.83;
-Blazebringer Rod\20087.52\26476.98;
 Depthseeker Rod\19256.61\25877.93;
 Avalanche Rod\17291.17\23108.66;
 Volcanic Rod\16464.56\21896.74;

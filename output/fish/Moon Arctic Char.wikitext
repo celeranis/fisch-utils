@@ -29,10 +29,10 @@
 Blue Moon/First Sea
 |top_rods      = 
 Leviathan's Fang Rod\222867.76\316816.17;
+Free Spirit Rod\219510.01\337931.44;
 Trident Rod\213057.06\327997.25;
-Free Spirit Rod\208534.51\321034.86;
+Azure Of Lagoon\200752.12\282924.2;
 No-Life Rod\190155.87\288013.37;
-Azure Of Lagoon\184593.17\212811.51;
 Great Rod of Oscar\182553.42\160241.87;
 Resourceful Rod\161239.13\188061.5;
 Destiny Rod\176869.25\118324.65;
@@ -40,16 +40,16 @@ Tempest Rod\180872.61\294665.69;
 Seraphic Rod\182558.3\294377.29;
 Rod Of The Forgotten Fang\179506.07\279796.79;
 Rod Of The Zenith\176249.89\274162.09;
-Treasure Rod\174490.77\268999.66;
+Great Dreamer Rod\176068.24\273613.07;
 Ethereal Prism Rod\182236.76\199965.26;
 Astralhook Rod\182146.56\175769.36;
 Challenger's Rod\179340.28\274102.76;
+Blazebringer Rod\177716.75\253264.26;
 Rod Of The Exalted One\175629.03\268166.16;
 Rod Of The Depths\174436.08\268541;
+Verdant Shear Rod\168331.23\251861.23;
 Zeus Rod\168188.25\238600.42;
-Verdant Shear Rod\167968.6\251318.65;
 Depthseeker Rod\166986.06\237585.61;
-Blazebringer Rod\165933.97\225884.34;
 Avalanche Rod\165679.09\217979.65;
 Volcanic Rod\161165.76\184313.6;
 Steady Rod\87148.06\87044.1

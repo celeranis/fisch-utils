@@ -29,9 +29,9 @@ Desolate Deep/Desolate Pocket
 |top_rods      = 
 Trident Rod\237195.92\196388.43;
 Leviathan's Fang Rod\234023.18\194376.61;
-Free Spirit Rod\209152.95\173170.01;
+Free Spirit Rod\220161\182284.22;
+Azure Of Lagoon\174589.52\143259.56;
 Krampus's Rod\165796.32\223551.12;
-Azure Of Lagoon\165065.03\134805.5;
 Plastic Rod\143819.68\193925.06;
 Buddy Bond Rod\113563.71\144058.62;
 Magma Rod\152688.85\205877.69;
@@ -41,11 +41,11 @@ Ethereal Prism Rod\153142.05\159250.61;
 Seraphic Rod\151375.86\133262.2;
 Challenger's Rod\147225.96\121736.17;
 Rod Of The Forgotten Fang\147032.59\120658.37;
+Blazebringer Rod\144180.83\119813.31;
 Rod Of The Exalted One\137767.6\114766.83;
 Depthseeker Rod\136818.85\110589.53;
+Verdant Shear Rod\136750.6\113755.64;
 Zeus Rod\136030.56\113040.49;
-Verdant Shear Rod\135402.52\112956.42;
-Blazebringer Rod\133699.82\109803.16;
 Rod Of The Depths\133686.07\110172.05;
 Avalanche Rod\130816.52\105797.21;
 Volcanic Rod\128811.58\105788.62;

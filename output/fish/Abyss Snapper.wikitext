@@ -27,22 +27,22 @@
 {{Fish Availability|
 Grand Reef/Atlantean Storm
 |top_rods      = 
+Firefly Rod\274686.17\288590.84;
 Astralhook Rod\272327.72\278979.64;
 Ethereal Prism Rod\270787.06\309259.68;
 No-Life Rod\269564.31\269564.31;
 Seraphic Rod\266740.59\266740.59;
-Leviathan's Fang Rod\262401.59\262401.59;
 Training Rod\262307.69\314166.67;
 Flimsy Rod\190928.57\190928.57;
 Depthseeker Rod\244461.37\208074.95;
 Challenger's Rod\244254.17\244254.17;
 Rod Of The Forgotten Fang\243444.93\243444.93;
+Blazebringer Rod\241980.39\241980.39;
 Avalanche Rod\240865.86\186454.75;
-Verdant Shear Rod\238048.96\227156.38;
+Verdant Shear Rod\240728.68\227720.04;
+Free Spirit Rod\238155.56\238155.56;
 Trident Rod\231552.05\191179.05;
 Zeus Rod\227043.65\227043.65;
-Free Spirit Rod\224374.77\190524.45;
-Blazebringer Rod\222120.01\214325.49;
 Rod Of The Depths\220983.41\220983.41;
 Volcanic Rod\215132.79\172310.22;
 Rod Of The Exalted One\207633.13\207633.13;

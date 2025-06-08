@@ -29,16 +29,15 @@
 Emberreach/Volcano
 |top_rods      = 
 Trident Rod\261176.85\252155.59;
-Free Spirit Rod\247960.11\153448.3;
+Free Spirit Rod\261010.64\191810.37;
 Leviathan's Fang Rod\247505.94\179436.46;
 Astralhook Rod\240716.97\594423;
-Firefly Rod\224496.02\224496.02;
-Long Rod\179242.26\179242.26;
-Merchant Rod\209308.34\208601.06;
-Fang of the Eclipse\215278.01\207380.44;
-Verdant Shear Rod\205415.74\197509.36;
+Firefly Rod\236192\238318.88;
+Adventurer's Rod\223347.64\223347.64;
+Azure Of Lagoon\236166.92\208827.21;
+Verdant Shear Rod\208477.09\201276.13;
 No-Life Rod\201665.29\197363.57;
-Blazebringer Rod\200843.59\170097.46;
+Blazebringer Rod\200935.23\192045.52;
 Seraphic Rod\184083.54\177725.15;
 Challenger's Rod\177155.6\173042.51;
 Rod Of The Forgotten Fang\174803.63\168967.01;

@@ -30,8 +30,8 @@ Sunstone Island
 Astralhook Rod\121108.88\238420.8;
 Ethereal Prism Rod\115516.66\181844.43;
 Rapid Rod\113692.09\103591.91;
+Firefly Rod\113283.94\102014.77;
 Champions Rod\112213.3\80137.55;
-Celestial Rod\111671.73\82879.29;
 Training Rod\104592.09\167568.42;
 Flimsy Rod\82527.36\77170.63;
 Fortune Rod\64342.15\126667.08;
@@ -40,15 +40,15 @@ Depthseeker Rod\111512.49\85556.16;
 No-Life Rod\110442.33\110442.33;
 Avalanche Rod\110286.47\76707.57;
 Seraphic Rod\109589.38\109589.38;
-Verdant Shear Rod\104855.28\93476.05;
+Verdant Shear Rod\105711.24\93674.37;
 Challenger's Rod\100384.62\100384.62;
 Rod Of The Forgotten Fang\100079.54\100079.54;
-Blazebringer Rod\95214.32\88158.6;
+Blazebringer Rod\99533.9\99533.9;
+Free Spirit Rod\96970.67\96970.67;
 Zeus Rod\94535.5\93416.55;
 Volcanic Rod\92311.45\70893.09;
 Rod Of The Depths\90912.68\90912.68;
 Trident Rod\89534.87\77770.24;
-Free Spirit Rod\87681.53\77576.53;
 Rod Of The Exalted One\85948.71\89441.64;
 Steady Rod\54894.11\40707.62
 |recommended   = Ethereal Prism Rod

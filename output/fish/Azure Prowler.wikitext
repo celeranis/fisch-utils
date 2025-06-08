@@ -28,20 +28,22 @@
 {{Fish Availability|
 Azure Lagoon
 |top_rods      = 
+Free Spirit Rod\141030.59\295635.46;
 Krampus's Rod\135460.09\194793;
 Great Rod of Oscar\130515.52\222651.07;
 Magma Rod\126835.8\197039.97;
 Frostfire Rod\126511.36\138439.94;
-Free Spirit Rod\126185.55\243464.5;
-Firefly Rod\83037.18\237410.12;
-Astralhook Rod\124532.58\232409.67;
-Fang of the Eclipse\109566.19\224666.5;
-Adventurer's Rod\59069.83\218886.65;
+Adventurer's Rod\90074.26\317633.36;
+Firefly Rod\103026.44\283971.28;
+Azure Of Lagoon\119932.16\260618.3;
+Wildflower Rod\97769.8\257464.91;
 Buddy Bond Rod\58303.33\142560.64;
 Fungal Rod\55058.49\205655.18;
+Antler Rod\52641.05\196625.52;
+Astralhook Rod\124532.58\232409.67;
 Steady Rod\117329.09\128391.88;
-Verdant Shear Rod\91257.89\188278.92;
-Blazebringer Rod\90299.69\182991.05;
+Blazebringer Rod\100923.18\204519.41;
+Verdant Shear Rod\93584.95\193080;
 Trident Rod\85752.58\169097.3;
 Seraphic Rod\64857.17\133810.2;
 Ethereal Prism Rod\64183.21\131972.7;

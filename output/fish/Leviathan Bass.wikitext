@@ -28,25 +28,24 @@
 Atlantis/Poseidon Temple
 |top_rods      = 
 Leviathan's Fang Rod\270609.85\167676.03;
+Free Spirit Rod\269990.56\152182.69;
 Krampus's Rod\265263.97\232912.23;
 Trident Rod\264695.63\122164.44;
-Free Spirit Rod\256491.03\121746.15;
 Magma Rod\255337.34\224196.26;
 Training Rod\253770.28\219635.63;
 Flimsy Rod\247875.27\251737.84;
 Plastic Rod\234891.1\205772.11;
 Fast Rod\241362.92\267508.96;
 Fischer's Rod\216049.24\239453.14;
-Adventurer's Rod\214283.17\237495.76;
 Buddy Bond Rod\173542.39\233975.87;
 No-Life Rod\232768.67\172253.05;
 Challenger's Rod\212476.07\156079.73;
+Blazebringer Rod\211994.05\154626.77;
 Seraphic Rod\210702.86\170448.67;
 Zeus Rod\209237.76\145082.11;
+Verdant Shear Rod\208372.42\145514.33;
 Rod Of The Forgotten Fang\207841.32\155562.62;
-Blazebringer Rod\207189.03\136955.14;
 Ethereal Prism Rod\206092.92\175909.35;
-Verdant Shear Rod\206052.87\145154.15;
 Astralhook Rod\205579.76\186511.21;
 Rod Of The Depths\203815.65\141209.59;
 Rod Of The Exalted One\202151.97\132678.69;

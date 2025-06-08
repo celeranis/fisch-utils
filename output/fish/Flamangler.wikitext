@@ -30,14 +30,16 @@
 Octophant Hunt/Octophant Catchable
 Octophant Hunt/Octophant Uncatchable
 |top_rods      = 
-Free Spirit Rod\250286.58\270365.8;
+Free Spirit Rod\263459.55\284595.58;
+Firefly Rod\218730.16\276274.19;
+Wildflower Rod\198841.88\233526.39;
+Verdant Shear Rod\194072.47\227046.74;
 Trident Rod\189879.87\203859.91;
-Verdant Shear Rod\187674.47\219561.68;
-Firefly Rod\170224.84\199073.83;
-Lucky Rod\166076.17\194001.35;
 Candy Cane Rod\153983.48\179709.63;
+Lucky Rod\166076.17\194001.35;
 Fast Rod\157309.53\183563.09;
-Blazebringer Rod\154239.18\166946.54;
+Frog Rod\185212.33\216711.64;
+Blazebringer Rod\172384.97\186587.31;
 Astralhook Rod\144706.09\168235.72;
 No-Life Rod\94072.4\110551.84;
 Seraphic Rod\90478.65\107008.51;

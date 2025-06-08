@@ -28,24 +28,25 @@
 Forsaken Shores/Surrounding Ocean
 |top_rods      = 
 Leviathan's Fang Rod\57274.69\273016.11;
-Free Spirit Rod\47099.75\231379.93;
+Free Spirit Rod\51537.69\244343.38;
 Trident Rod\46062.82\226285.98;
 Great Rod of Oscar\40670.11\151573.96;
 Ethereal Prism Rod\39013.51\157127.9;
 Flimsy Rod\34416.92\107973.05;
 Resourceful Rod\29732.13\128807.21;
 No-Life Rod\38733.63\187656.78;
-Astralhook Rod\38902.07\157433.07;
+Azure Of Lagoon\38208.17\185393.47;
 Buddy Bond Rod\16599.13\82451.34;
 Fast Rod\27428.59\135905.43;
+Astralhook Rod\38902.07\157433.07;
 Seraphic Rod\37903.72\157223.8;
 Rod Of The Forgotten Fang\35349.75\154299.9;
 Challenger's Rod\34452.26\156801.71;
+Blazebringer Rod\33177.32\147788.23;
 Rod Of The Depths\31646.02\138977.05;
 Zeus Rod\31215.16\139269.61;
 Rod Of The Exalted One\31056.97\132519.98;
-Verdant Shear Rod\30658.85\137437.83;
-Blazebringer Rod\29684.97\133009.41;
+Verdant Shear Rod\30875.77\138410.26;
 Depthseeker Rod\28411.52\128161.65;
 Avalanche Rod\25495.95\115301.78;
 Volcanic Rod\24318.46\109949.69;

@@ -31,16 +31,15 @@ Animal Hunt/Second Sea
 |top_rods      = 
 Training Rod\260985.93\NaN;
 Flimsy Rod\252790.47\209859.29;
-Firefly Rod\209312.36\257075.22;
-Brick Built Rod\185771.58\219017.74;
-Azure Of Lagoon\179141.7\199764.76;
+Firefly Rod\216855.4\265104.81;
+Adventurer's Rod\203645.72\221691.83;
+Azure Of Lagoon\188570.21\210278.7;
 Lucky Rod\173576.56\204168.47;
-Great Dreamer Rod\169800.92\200459.58;
-Lobster Rod\169387.65\173853.23;
-Adventurer's Rod\172890.25\172910.85;
-Free Spirit Rod\177420.59\110735.95;
-Verdant Shear Rod\167982.81\191655.61;
-Blazebringer Rod\166978.43\190403.44;
+Brick Built Rod\185771.58\219017.74;
+Friendly Rod\168899.59\188343.57;
+Free Spirit Rod\186758.51\138419.94;
+Blazebringer Rod\170472.63\200424.68;
+Verdant Shear Rod\168331.68\191988.32;
 Astralhook Rod\161911.66\11702.59;
 Trident Rod\156116.3\154244.08;
 Ethereal Prism Rod\144869.53\167071.24;

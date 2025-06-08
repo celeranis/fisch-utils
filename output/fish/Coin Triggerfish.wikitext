@@ -28,16 +28,15 @@
 Treasure Island
 |top_rods      = 
 Training Rod\110656.3\83782.36;
+Free Spirit Rod\106734\78401.86;
 Flimsy Rod\106465.85\93807.93;
-Free Spirit Rod\101397.3\69434.62;
-Azure Of Lagoon\97522.55\94426.11;
-Fang of the Eclipse\93216.35\90176.17;
+Azure Of Lagoon\105238.66\108282.89;
+Friendly Rod\94068.75\96789.86;
 Lucky Rod\75211.28\70569.55;
+Blazebringer Rod\93056.43\97657.14;
 Lobster Rod\92666.82\92627.06;
-Firefly Rod\91327.82\92339.4;
-Verdant Shear Rod\92287.55\89441.1;
+Verdant Shear Rod\92558.99\89646.01;
 Astralhook Rod\90324.38\0;
-Blazebringer Rod\90255.94\89420.48;
 Trident Rod\89411.35\82413.75;
 No-Life Rod\80314.75\75349.25;
 Seraphic Rod\77961.83\70715.81;

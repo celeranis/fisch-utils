@@ -30,13 +30,13 @@ Roslit Bay/Coral Reef
 Roslit Bay/Surrounding Ocean
 |top_rods      = 
 Leviathan's Fang Rod\91511.34\274008.84;
-Free Spirit Rod\83727.98\268341.25;
+Free Spirit Rod\88134.72\282464.47;
 Trident Rod\81657.06\261704.11;
 No-Life Rod\63278.22\197219.7;
+Azure Of Lagoon\63110.39\216418.73;
 Great Rod of Oscar\60340.87\147968.88;
 Resourceful Rod\44697.19\126551.94;
 Destiny Rod\47569.9\133333.96;
-Azure Of Lagoon\57985.73\205597.8;
 Event Horizon Rod\31286.8\103351.47;
 Astral Rod\31286.8\103351.47;
 North-Star Rod\30166.99\99855.88;
@@ -45,11 +45,11 @@ Astralhook Rod\59201.36\155958.98;
 Seraphic Rod\58794.7\160752.98;
 Rod Of The Forgotten Fang\54850.48\156515.15;
 Challenger's Rod\54303.16\162516.88;
+Blazebringer Rod\52625.21\159128.47;
 Zeus Rod\49472.8\149797.76;
+Verdant Shear Rod\49313.83\145872.54;
 Rod Of The Depths\49311.23\140558.98;
-Verdant Shear Rod\48926.75\142557.26;
 Rod Of The Exalted One\47685.51\134545.53;
-Blazebringer Rod\47085.71\143215.62;
 Depthseeker Rod\45539.44\136241.72;
 Avalanche Rod\40855.82\128613.2;
 Volcanic Rod\38549.71\126818.36;

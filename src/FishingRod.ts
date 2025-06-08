@@ -305,6 +305,7 @@ export const RodPassiveData: Record<string, RodPassiveEffects> = {
 		}
 	},
 	'Fang of the Eclipse': {
+		states: ['Active'],
 		stats: {
 			luck: 150,
 			lure: 99,
@@ -314,8 +315,8 @@ export const RodPassiveData: Record<string, RodPassiveEffects> = {
 			add_weight: 0.2,
 			conditions: [{
 				check: 'conditions',
-				property: 'weather',
-				values: ['Eclipse']
+				property: 'passiveState',
+				values: ['Active']
 			}]
 		}
 	},
@@ -338,6 +339,21 @@ export const RodPassiveData: Record<string, RodPassiveEffects> = {
 		stats: {
 			progress_speed: 0.05
 		}
+	},
+	"Adventurer's Rod": {
+		stats: {
+			mutation_chance: 0.3
+		}
+	},
+	'Firefly Rod': {
+		stats: {
+			progress_speed: 0.15,
+			conditions: [{
+				check: 'conditions',
+				property: 'weather',
+				values: ['night'],
+			}]
+		}	
 	}
 }
 

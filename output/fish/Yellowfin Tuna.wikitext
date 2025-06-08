@@ -28,6 +28,7 @@
 Ancient Isle/Algae Hunt
 Apex Fish Hunt/Mosslurker
 Atlantis/Surrounding Ocean
+Bloop Fish
 FischFright/Frightful Pool
 Forsaken Shores/Algae Hunt
 Golden Tide
@@ -57,30 +58,29 @@ Snowcap Island/Algae Hunt
 Whale Migration/Moby
 Whale Migration/Normal
 |top_rods      = 
-Trident Rod\146448.93\87616.17;
-Leviathan's Fang Rod\144013.52\148437.19;
-Free Spirit Rod\141909.55\87316.17;
-Azure Of Lagoon\139515.93\84858.62;
-No-Life Rod\137306.35\123539.65;
-Resourceful Rod\124129.04\104820.71;
-Wildflower Rod\126288.41\107229.24;
-Mythical Rod\123850.7\108703.27;
-Ethereal Prism Rod\125578.26\139061.79;
-Kraken Rod\106360.31\133727.61;
-Seraphic Rod\122245.55\122245.55;
-Lucky Rod\88039.98\70177.09;
-Depthseeker Rod\134086.96\109372.49;
-Verdant Shear Rod\132444.8\106648.77;
-Avalanche Rod\132022.46\108016.3;
-Blazebringer Rod\129916.93\98224.04;
-Zeus Rod\128924.18\104052.69;
-Astralhook Rod\126962.14\105123.64;
-Volcanic Rod\125830.14\85275.84;
-Challenger's Rod\123891.02\111940.17;
-Rod Of The Depths\115468.27\101275.32;
-Rod Of The Forgotten Fang\115057.54\111569.3;
-Rod Of The Exalted One\109191.78\103310.85;
-Steady Rod\63261.24\56155.76
+Free Spirit Rod\168078.37\116352.62;
+Trident Rod\164782.1\93401.91;
+Leviathan's Fang Rod\162343.28\148437.19;
+Azure Of Lagoon\156346.74\127881.67;
+No-Life Rod\146177.08\131416.85;
+Resourceful Rod\132094.69\106465.53;
+Ice Warpers Rod\140987.28\112200.77;
+Aurora Rod\136899.47\108947.61;
+Ethereal Prism Rod\133090.69\143754.31;
+Kraken Rod\120261.56\133727.61;
+Seraphic Rod\130040.24\130040.24;
+Depthseeker Rod\142633.47\111035.76;
+Verdant Shear Rod\142157.26\111254.27;
+Avalanche Rod\140424.52\109585.64;
+Blazebringer Rod\138405.84\118221.27;
+Zeus Rod\135464.4\110687.35;
+Astralhook Rod\134761.55\124429.36;
+Volcanic Rod\134052.01\90252.95;
+Challenger's Rod\132818.74\119077.76;
+Rod Of The Depths\127832.46\107963.04;
+Rod Of The Forgotten Fang\126656.53\118683.24;
+Rod Of The Exalted One\124760.8\105964.76;
+Steady Rod\66358.38\56155.76
 |recommended   = Trident Rod
 }}
 

@@ -29,13 +29,13 @@ Ancient Isle/Freshwater Pond
 Ancient Isle/Surrounding Ocean
 Ancient Isle/Waterfall
 |top_rods      = 
+Firefly Rod\194471.56\191725.1;
 Rapid Rod\192400.47\190539.97;
 Fungal Rod\188882.04\188626.33;
 Astralhook Rod\186482.98\391483.97;
-Firefly Rod\186388.74\225928.56;
-Wildflower Rod\183907.81\182754.46;
-Antler Rod\172330.59\172097.29;
 Ethereal Prism Rod\178700.9\330579.05;
+Antler Rod\172330.59\172097.29;
+North-Star Rod\152890.54\152713.76;
 Leviathan's Fang Rod\167365.59\213829.13;
 Fortune Rod\98947.76\207721.16;
 No-Life Rod\163060.83\163060.83;
@@ -44,14 +44,14 @@ Avalanche Rod\156578.6\112787.43;
 Depthseeker Rod\156088.74\125865.6;
 Challenger's Rod\147750.59\147750.59;
 Rod Of The Forgotten Fang\147261.08\147261.08;
-Verdant Shear Rod\145464.76\137408.05;
+Verdant Shear Rod\147102.27\137749.02;
+Blazebringer Rod\146375.17\146375.17;
+Free Spirit Rod\144061.52\144061.52;
 Zeus Rod\137339.86\137339.86;
 Rod Of The Depths\133673.99\133673.99;
-Blazebringer Rod\129803.63\129646.58;
 Rod Of The Exalted One\129163.33\151993.34;
 Volcanic Rod\125720.41\104231.33;
 Trident Rod\117397.49\115645.18;
-Free Spirit Rod\115249.21\115249.21;
 Steady Rod\86043.32\73768.51
 |recommended   = Ethereal Prism Rod
 }}

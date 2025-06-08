@@ -37,6 +37,7 @@ Atlantis/Poseidon Temple
 Atlantis/Sunken Depths
 Atlantis/Surrounding Ocean
 Atlantis/Zeus's Rod Room
+Bloop Fish
 Cryogenic Canal
 FischFright/Frightful Pool
 Forsaken Shores/Algae Hunt
@@ -82,20 +83,21 @@ Whale Migration/Moby
 Whale Migration/Normal
 |top_rods      = 
 Magnet Rod\367887.04\370943.05;
-Krampus's Rod\279427.51\210123.43;
+Krampus's Rod\279427.51\318413.17;
 Training Rod\279048.37\289478.26;
-Magma Rod\271624.07\204255.41;
-Plastic Rod\249051.22\186771.75;
+Magma Rod\271624.07\313915.39;
+Firefly Rod\250624.62\272612.61;
 Flimsy Rod\246978.13\370006.05;
+Fast Rod\243120.99\329815.77;
 Leviathan's Fang Rod\200800.15\320864.32;
-Astralhook Rod\179464.41\298304.95;
-No-Life Rod\191349.51\295080.7;
+Free Spirit Rod\203144.18\288204.39;
 Trident Rod\193761.92\243673;
-Free Spirit Rod\192986.97\242698.44;
+No-Life Rod\191349.51\295080.7;
+Blazebringer Rod\182388.74\278387.39;
 Challenger's Rod\182218.36\281092.77;
 Zeus Rod\181528.51\263115.24;
-Verdant Shear Rod\180504.13\261934.36;
-Blazebringer Rod\179024.98\250548.65;
+Verdant Shear Rod\180990.88\261934.36;
+Astralhook Rod\179464.41\298304.95;
 Seraphic Rod\178723.07\287341.58;
 Rod Of The Depths\177687.07\259297.03;
 Rod Of The Forgotten Fang\177499.52\281924.65;

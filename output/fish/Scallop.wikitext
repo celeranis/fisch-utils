@@ -28,20 +28,20 @@
 Ocean/Hidden Scallop Abundance
 |top_rods      = 
 Leviathan's Fang Rod\1273837.21\1273837.21;
+Free Spirit Rod\1255761.1\1255761.1;
 Trident Rod\1231133.72\1231133.72;
-Free Spirit Rod\1192973.04\1192973.04;
-Azure Of Lagoon\1072235.17\1072235.17;
+Azure Of Lagoon\1128668.6\1128668.6;
 No-Life Rod\1055253.7\1055253.7;
 Seraphic Rod\987884.62\987884.62;
 Ethereal Prism Rod\982500\982500;
 Astralhook Rod\979933.11\979933.11;
 Challenger's Rod\978260.87\978260.87;
 Rod Of The Forgotten Fang\974090.91\974090.91;
+Blazebringer Rod\966250\966250;
 Depthseeker Rod\953928.57\953928.57;
+Verdant Shear Rod\950000\950000;
 Rod Of The Exalted One\948076.92\948076.92;
 Zeus Rod\945000\945000;
-Blazebringer Rod\943750\943750;
-Verdant Shear Rod\942307.69\942307.69;
 Avalanche Rod\938636.36\938636.36;
 Rod Of The Depths\938636.36\938636.36;
 Volcanic Rod\914062.5\914062.5;
