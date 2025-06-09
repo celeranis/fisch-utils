@@ -45,7 +45,7 @@ Verdant Shear Rod\153160.26\135355.14;
 Blazebringer Rod\146468.69\131452.07;
 Zeus Rod\145424.45\123373.03;
 Seraphic Rod\144732.09\144732.09;
-Challenger's Rod\142422.65\132575.59;
+Challenger's Rod\143776.57\143776.57;
 Volcanic Rod\142003.18\93626.83;
 Rod Of The Depths\134899.87\120066.22;
 Rod Of The Forgotten Fang\133074.43\132172.67;

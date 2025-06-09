@@ -41,7 +41,7 @@ Heaven's Rod\82588.32\160458.4;
 Astralhook Rod\118197.57\156053.63;
 No-Life Rod\117413.95\154174.12;
 Seraphic Rod\116928.92\144391.56;
-Challenger's Rod\107099.23\144763.48;
+Challenger's Rod\111786.29\143500;
 Rod Of The Forgotten Fang\106256.47\135241.81;
 Blazebringer Rod\98084.83\128621.72;
 Rod Of The Depths\92154.86\115960.02;

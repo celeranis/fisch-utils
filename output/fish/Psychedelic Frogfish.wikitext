@@ -44,7 +44,7 @@ Lobster Rod\250.48\2456.89;
 Kraken Rod\109.98\1106.23;
 Ethereal Prism Rod\166.36\1661.11;
 Leviathan's Fang Rod\135.92\1367.45;
-Challenger's Rod\234.74\2338.97;
+Challenger's Rod\245.63\2447.49;
 Seraphic Rod\202.9\2033.19;
 No-Life Rod\137.4\1368.08;
 Rod Of The Forgotten Fang\129.27\1294.47;

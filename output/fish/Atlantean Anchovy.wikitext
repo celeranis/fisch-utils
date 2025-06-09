@@ -38,7 +38,7 @@ Long Rod\209579.16\160926.79;
 Fast Rod\228251.95\204204.01;
 Seraphic Rod\244800.49\201696.64;
 Poseidon Rod\239467.4\155992.51;
-Challenger's Rod\243893.55\184615.47;
+Challenger's Rod\246492.14\200575.54;
 Rod Of The Forgotten Fang\242385\184177.39;
 Rod Of The Depths\239390.88\167789.98;
 Blazebringer Rod\237013.34\183520.29;

@@ -41,7 +41,7 @@ Krampus's Rod\165091.37\260155.95;
 Heaven's Rod\140427.05\197606.34;
 Fast Rod\153678.27\256808.71;
 Seraphic Rod\158307.75\245687.4;
-Challenger's Rod\150681.96\211525.46;
+Challenger's Rod\154048.94\228984.05;
 Rod Of The Forgotten Fang\149981.4\221557.99;
 Blazebringer Rod\147537.52\203841.78;
 Verdant Shear Rod\139736.17\188931.08;

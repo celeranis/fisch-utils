@@ -43,7 +43,7 @@ Training Rod\11741.42\82644.82;
 Lucky Rod\17577.84\100646.19;
 No-Life Rod\28801.99\117290.08;
 Rod Of The Forgotten Fang\28248.42\111602.32;
-Challenger's Rod\26617.95\112303.28;
+Challenger's Rod\28037.89\112535.04;
 Blazebringer Rod\25473.69\111753.35;
 Rod Of The Exalted One\25469.98\109627.9;
 Rod Of The Depths\25264.23\103619.11;

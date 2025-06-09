@@ -1,4 +1,4 @@
--- Last update: Version [[1.35]], place version 56
+-- Last update: Version [[1.36]], place version 63
 
 return {
 	["Abyssal Heart"] = "Mythical",
@@ -41,6 +41,7 @@ return {
 	["Cupid's Arrow"] = "Mythical",
 	["Cursed Barnacle"] = "Mythical",
 	["Cursed Coin"] = "Mythical",
+	["Cursed Mirror"] = "Mythical",
 	["Cyber"] = "Mythical",
 	["Dark Art Skull"] = "Mythical",
 	["Deep-Sea Diver Helmet"] = "Mythical",
@@ -130,10 +131,12 @@ return {
 	["Orca"] = "Mythical",
 	["Party Popper"] = "Legendary",
 	["Peep"] = "Legendary",
+	["Phantom Dragon"] = "Mythical",
 	["Pirate Hat"] = "Mythical",
 	["Pirate Wheel"] = "Rare",
 	["Porky"] = "Mythical",
 	["Pot o' Gold"] = "Mythical",
+	["Prism Cube"] = "Mythical",
 	["Quantum Anchor"] = "Mythical",
 	["Quiche"] = "Exotic",
 	["Rainbow Shamrock"] = "Mythical",

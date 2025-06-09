@@ -35,7 +35,7 @@ Trident Rod\61146.6\36310.62;
 Rod Of The Eternal King\48495.55\39387.61;
 Seraphic Rod\57560.2\51166.85;
 No-Life Rod\59380.43\48494.88;
-Challenger's Rod\55097.1\44922.71;
+Challenger's Rod\56570.3\47818.23;
 Blazebringer Rod\54942.06\44796.3;
 Depthseeker Rod\54100.75\43729.18;
 Verdant Shear Rod\54053.45\44331.72;

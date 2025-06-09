@@ -42,7 +42,7 @@ Kraken Rod\57097.96\92377.45;
 Ethereal Prism Rod\66203.18\107353.93;
 Seraphic Rod\66481.65\105992.02;
 Astralhook Rod\65778.02\106182.86;
-Challenger's Rod\64475.93\105635.98;
+Challenger's Rod\65500.49\104797.6;
 Rod Of The Forgotten Fang\63993.81\103769.47;
 Blazebringer Rod\62274.86\98649.88;
 Verdant Shear Rod\58913.65\92917.01;

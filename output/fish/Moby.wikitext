@@ -29,8 +29,8 @@
 Whale Migration/Moby
 |top_rods      = 
 Great Rod of Oscar\1713.13\3531.92;
+Challenger's Rod\1578.15\3505.07;
 Astralhook Rod\1565.62\3330.98;
-Challenger's Rod\1505.19\3343.03;
 Seraphic Rod\1067.49\2323.23;
 Summit Rod\1026.85\2326.19;
 Krampus's Rod\-70.85\-101.72;

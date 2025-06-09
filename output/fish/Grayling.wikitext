@@ -44,7 +44,7 @@ Resourceful Rod\281379.86\24132.28;
 Astralhook Rod\347997.04\0;
 Seraphic Rod\346576.77\25155.66;
 Ethereal Prism Rod\341914.52\0;
-Challenger's Rod\337484.64\23042.76;
+Challenger's Rod\337586.38\24989.59;
 Rod Of The Forgotten Fang\334757.8\22972.73;
 Blazebringer Rod\334638.39\26125.07;
 Rod Of The Exalted One\329063.98\19601.49;

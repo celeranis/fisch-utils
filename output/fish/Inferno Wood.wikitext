@@ -38,7 +38,7 @@ Adventurer's Rod\41142.25\231630.6;
 Seraphic Rod\58043.12\240599.56;
 No-Life Rod\55548.94\246012.68;
 Rod Of The Forgotten Fang\54236.3\238004.03;
-Challenger's Rod\51304.76\235260.31;
+Challenger's Rod\54041.62\239573.65;
 Blazebringer Rod\49227.41\234861.74;
 Rod Of The Exalted One\48787.42\234527.87;
 Rod Of The Depths\48582.92\235585.73;

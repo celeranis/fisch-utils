@@ -37,7 +37,7 @@ Frog Rod\143193.03\164916.91;
 Riptide Rod\142334.54\164010.99;
 Resourceful Rod\138109.03\138023.64;
 Friendly Rod\147950.05\185511.33;
-Challenger's Rod\148896.42\176089.47;
+Challenger's Rod\148899.6\184867.17;
 Blazebringer Rod\147875.2\175534.88;
 Seraphic Rod\148457.44\143855.76;
 Rod Of The Forgotten Fang\146851.5\147530.38;

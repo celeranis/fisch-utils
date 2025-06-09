@@ -41,7 +41,7 @@ Frog Rod\42209.7\146184.08;
 Riptide Rod\41033.58\140742.99;
 Seraphic Rod\57071.32\184070.13;
 No-Life Rod\55054.9\189076.02;
-Challenger's Rod\52479.22\189275.65;
+Challenger's Rod\55054.03\189044.83;
 Rod Of The Forgotten Fang\51231.94\169750.43;
 Blazebringer Rod\46708.57\159071.56;
 Rod Of The Depths\44219.44\142853.86;

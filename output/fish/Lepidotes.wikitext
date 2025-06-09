@@ -41,7 +41,7 @@ Crystalized Rod\65614.53\156344.8;
 Seraphic Rod\89921\161969.66;
 Ethereal Prism Rod\89555.87\158365.31;
 Astralhook Rod\89108.06\157705.72;
-Challenger's Rod\87525.92\162771.62;
+Challenger's Rod\88714.27\162424.79;
 Rod Of The Forgotten Fang\87163.26\158716.61;
 Blazebringer Rod\85247.93\160530.07;
 Verdant Shear Rod\80698.74\156269.04;

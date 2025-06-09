@@ -42,7 +42,7 @@ Fortune Rod\99019.52\92431.5;
 Avalanche Rod\189312.64\92237.5;
 Depthseeker Rod\188608.98\102932.81;
 Verdant Shear Rod\177503.13\112651.07;
-Challenger's Rod\160563.48\120830.35;
+Challenger's Rod\174087.71\131007.87;
 Rod Of The Forgotten Fang\160031.51\120430.03;
 Blazebringer Rod\159068.78\119705.53;
 Zeus Rod\157830.88\112316.46;

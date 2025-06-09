@@ -30,10 +30,10 @@
 Mariana's Veil/Volcanic Vents
 |top_rods      = 
 Fang of the Eclipse\7526.27\9335.58;
+Challenger's Rod\7515.65\9196.44;
 Great Rod of Oscar\7373.22\8925.82;
 Tempest Rod\7355.44\8992.91;
 Astralhook Rod\7217.31\8818.88;
-Challenger's Rod\7185.36\8792.29;
 Azure Of Lagoon\5867.95\7183.34;
 No-Life Rod\5603.7\6859.85;
 Friendly Rod\4664.3\5709.87;

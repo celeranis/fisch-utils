@@ -32,9 +32,9 @@ Roslit Bay/Ashfall
 |top_rods      = 
 Great Rod of Oscar\23410.73\102626.95;
 Astralhook Rod\21153.83\99840.63;
+Challenger's Rod\19716.62\102900.89;
 Tempest Rod\19549.59\100773.38;
 Fang of the Eclipse\18869.21\102444.97;
-Challenger's Rod\18833.28\98290.76;
 Resourceful Rod\11813.08\53904.64;
 Destiny Rod\11084.72\49890.46;
 Seraphic Rod\18737.26\93249.53;

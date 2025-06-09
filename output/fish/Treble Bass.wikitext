@@ -41,7 +41,7 @@ Training Rod\3708.93\30194.75;
 Rod Of The Forgotten Fang\7107.52\51840.09;
 Ethereal Prism Rod\7986.27\53477.82;
 Seraphic Rod\7723.11\54012.15;
-Challenger's Rod\6947.93\53857.84;
+Challenger's Rod\7281.5\53313.82;
 Blazebringer Rod\6516.17\51115.69;
 Rod Of The Depths\6269.15\46019.7;
 Rod Of The Exalted One\6239.61\44726.23;

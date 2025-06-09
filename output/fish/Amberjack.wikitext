@@ -76,7 +76,7 @@ Resourceful Rod\83582.18\17189.34;
 Depthseeker Rod\93132.21\17570.76;
 Verdant Shear Rod\92693.58\19038.07;
 Blazebringer Rod\92223.2\18614.38;
-Challenger's Rod\91992.09\17390.43;
+Challenger's Rod\91754.17\18842.01;
 Astralhook Rod\91355.14\0;
 Zeus Rod\91056.49\17099.75;
 Avalanche Rod\89999.51\17028.42;

@@ -1,0 +1,66 @@
+{{FishInfobox
+|image          = Great Goldcursed Shark.png
+|rarity         = Secret
+|sea            = First Sea
+|location       = [[Castaway Cliffs]]
+|sublocation    = 
+|sources        = Crab Cage, Fishing Rod
+|radar_location = 
+|prog_speed     = -95
+|xp             = 20000
+|weather        = Foggy
+|time           = Night
+|season         = Winter
+|bait           = Fish Head
+|base_weight    = 15000
+|base_value     = 50000
+|weight_range   = 10500
+|base_chance    = 1
+|base_resil     = 1
+}}
+'''Great Goldcursed Shark''' is a {{Rarity|Secret}} fish found in [[Castaway Cliffs]].
+
+== Description ==
+{{Description|A golden titan shrouded in ancient mystery.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Lurks in waters favored by pirates.|Bestiary Hint}}
+{{Fish Availability|
+Castaway Cliffs
+|top_rods      = 
+Great Rod of Oscar\2903.28\8211.34;
+Astralhook Rod\2605.54\8172.66;
+Challenger's Rod\2522.25\8630.03;
+Tempest Rod\2468.25\8271.16;
+Fang of the Eclipse\2427.91\9098.9;
+Destiny Rod\43.74\126.91;
+Heaven's Rod\612.43\1817.49;
+Treasure Rod\992.08\3258.63;
+Rod Of The Depths\-1.74\-20.16;
+Rod Of The Forgotten Fang\744.68\2402.34;
+Seraphic Rod\1753.29\5718.48;
+Ethereal Prism Rod\1391.44\4280.37;
+No-Life Rod\545.99\1888.12;
+Free Spirit Rod\466.37\1495.8;
+Depthseeker Rod\341.81\1279.4;
+Rod Of The Exalted One\130.71\409.95;
+Steady Rod\-0.07\-0.77;
+Blazebringer Rod\-0.41\-4.7;
+Avalanche Rod\-1.47\-17.01;
+Volcanic Rod\-1.74\-20.16;
+Zeus Rod\-2.73\-31.6;
+Trident Rod\-3.37\-39.11
+|recommended   = Challenger's Rod
+}}
+
+== Catch Quips ==
+When catching a Great Goldcursed Shark, the player has a chance to make one of the following exclamations:
+* A GREAT GOLDCURSED SHARK!
+* LEGEND OF THE DEEP!
+* GOLDEN TERROR!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Castaway Cliffs}}

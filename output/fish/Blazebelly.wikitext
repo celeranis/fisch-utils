@@ -41,7 +41,7 @@ Carrot Rod\142388.16\11649.94;
 No-Life Rod\147408.31\11040.66;
 Blazebringer Rod\137997.8\11290.73;
 Verdant Shear Rod\130359.38\10658.02;
-Challenger's Rod\123582.68\9229.51;
+Challenger's Rod\124838.05\9323.26;
 Depthseeker Rod\121113.26\9355.18;
 Avalanche Rod\116617.36\9020.6;
 Volcanic Rod\116031.69\8780.62;

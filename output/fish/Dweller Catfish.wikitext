@@ -41,7 +41,7 @@ Adventurer's Rod\113291.16\32729.21;
 Seraphic Rod\136417.29\36726.94;
 Ethereal Prism Rod\135524.98\36372.7;
 Astralhook Rod\134812.85\36439.23;
-Challenger's Rod\133007.45\36403.67;
+Challenger's Rod\134561.84\36342.41;
 Rod Of The Forgotten Fang\131771.65\35831.03;
 Blazebringer Rod\128862.6\35655.53;
 Verdant Shear Rod\122041.44\33880;

@@ -39,7 +39,7 @@ Kraken Rod\21969.63\165437.6;
 Trident Rod\25742.85\185680.94;
 Seraphic Rod\25038.95\179285.35;
 Ethereal Prism Rod\24533.67\184076.01;
-Challenger's Rod\23549.82\169496.15;
+Challenger's Rod\24456.97\176025.23;
 No-Life Rod\22805.92\165198.56;
 Rod Of The Forgotten Fang\21883.07\154196.58;
 Rod Of The Exalted One\21139.33\156603.42;

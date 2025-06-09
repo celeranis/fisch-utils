@@ -40,7 +40,7 @@ Trident Rod\60036.79\289064.26;
 Fang of the Eclipse\68088.22\272477.52;
 Riptide Rod\53243.77\191400.69;
 No-Life Rod\72715.51\261083.77;
-Challenger's Rod\69541.21\264316.54;
+Challenger's Rod\72821.45\265623.96;
 Rod Of The Forgotten Fang\68110.18\233402.95;
 Blazebringer Rod\60579.03\218137.26;
 Rod Of The Exalted One\58567.66\188567.62;

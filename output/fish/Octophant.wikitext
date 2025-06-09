@@ -32,7 +32,7 @@ Octophant Hunt/Octophant Catchable
 Fang of the Eclipse\57203.71\178573.65;
 Great Rod of Oscar\53230.7\152878.82;
 Astralhook Rod\50055.49\146931.9;
-Challenger's Rod\30456.85\96913.4;
+Challenger's Rod\31915.55\101554.96;
 Tempest Rod\28257.7\89546.08;
 Great Dreamer Rod\2979.07\8694.69;
 Krampus's Rod\-1080.11\-1080.11;

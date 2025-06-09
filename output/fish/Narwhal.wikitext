@@ -31,9 +31,9 @@ Narwhal Hunt/Narwhal/Second Sea
 |top_rods      = 
 Great Rod of Oscar\15738.66\74136.06;
 Astralhook Rod\14581.55\72651.67;
+Challenger's Rod\14050.99\75704.67;
 Tempest Rod\13875.5\74034.23;
 Fang of the Eclipse\13621.48\74248.04;
-Challenger's Rod\13421.48\72312.97;
 Resourceful Rod\8290.01\42305.01;
 Destiny Rod\7519.36\36131.57;
 Frog Rod\7161.67\41007.69;

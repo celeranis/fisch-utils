@@ -40,7 +40,7 @@ Fang of the Eclipse\61531.54\61531.54;
 Blazebringer Rod\57232.42\57232.42;
 No-Life Rod\57224.91\53826.86;
 Verdant Shear Rod\53682.27\53682.27;
-Challenger's Rod\45440.84\42573.07;
+Challenger's Rod\47729.02\44716.84;
 Seraphic Rod\44915.56\34806.63;
 Depthseeker Rod\36376.21\35233.28;
 Rod Of The Forgotten Fang\35998.1\31929.82;

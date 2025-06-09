@@ -41,7 +41,7 @@ Avalanche Rod\283979.2\241520.38;
 Astralhook Rod\372956.93\12669.62;
 Seraphic Rod\371844.63\268092.24;
 Ethereal Prism Rod\370328.97\80951.6;
-Challenger's Rod\362886.74\245491.88;
+Challenger's Rod\365227.42\266169.61;
 Rod Of The Forgotten Fang\361860.06\244678.53;
 Blazebringer Rod\358128.51\280723.93;
 Rod Of The Exalted One\349582.9\208685.26;

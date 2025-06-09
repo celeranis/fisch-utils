@@ -41,7 +41,7 @@ Abyssal Specter Rod\201324.7\184534.12;
 Wildflower Rod\198222.06\184209.48;
 Rod Of Time\168354.95\165622.75;
 Candy Cane Rod\155621.14\153095.59;
-Challenger's Rod\201337.89\165719.48;
+Challenger's Rod\201166.06\179945.04;
 Blazebringer Rod\199592.77\179744.83;
 Seraphic Rod\198915.41\181052.35;
 Verdant Shear Rod\197234.04\183291.31;

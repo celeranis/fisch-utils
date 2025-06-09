@@ -36,7 +36,7 @@ Flimsy Rod\117908.67\21784.83;
 Training Rod\139878.23\21337.29;
 Blazebringer Rod\173669.32\21105.48;
 Nocturnal Rod\100040.05\81588.2;
-Challenger's Rod\174236.33\19837.05;
+Challenger's Rod\173973.33\20610.49;
 Seraphic Rod\173522.5\20725.69;
 Rod Of The Forgotten Fang\172075.15\18925.47;
 Ethereal Prism Rod\171054.83\0;

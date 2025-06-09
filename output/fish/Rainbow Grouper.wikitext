@@ -1,0 +1,73 @@
+{{FishInfobox
+|image          = Rainbow Grouper.png
+|rarity         = Legendary
+|sea            = Second Sea
+|location       = [[Gilded Arch]]
+|sublocation    = 
+|sources        = Crab Cage, Fishing Rod
+|radar_location = 
+|prog_speed     = -50
+|xp             = 2400
+|weather        = Foggy
+|time           = Night
+|season         = Autumn
+|bait           = Crystal Bananas
+|base_weight    = 40
+|base_value     = 4000
+|weight_range   = 27
+|base_chance    = 8
+|base_resil     = 18
+}}
+'''Rainbow Grouper''' is a {{Rarity|Legendary}} fish found in [[Gilded Arch]].
+
+== Description ==
+{{Description|A vibrant marvel streaking through foggy reefs.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Lurks in waters favored by pirates.|Bestiary Hint}}
+{{Fish Availability|
+Gilded Arch
+|top_rods      = 
+Free Spirit Rod\71918.31\158687.41;
+Great Rod of Oscar\68561.04\135622.98;
+Astralhook Rod\65801.55\138628.07;
+Azure Of Lagoon\62744.19\142712.63;
+Carrot Rod\58663.36\130663.5;
+Plastic Rod\53863.55\97264.95;
+Magma Rod\52996\92387.78;
+Frostfire Rod\55127.91\86564.26;
+Adventurer's Rod\50202.72\164876.03;
+Firefly Rod\56943.42\161571.11;
+Wildflower Rod\54340.29\161443.57;
+Frog Rod\52613.5\160783.35;
+Lucky Rod\34498.16\127644.28;
+Duncan's Rod\32493.27\103400.24;
+Blazebringer Rod\54558.1\125563.31;
+Verdant Shear Rod\52429.9\139340.19;
+Steady Rod\51437.94\74297.62;
+Trident Rod\45561.77\106629.22;
+Ethereal Prism Rod\34082.67\78160.48;
+Seraphic Rod\33903.32\76492.78;
+No-Life Rod\33288.62\72773.53;
+Challenger's Rod\32659.68\71657.56;
+Rod Of The Forgotten Fang\31607.61\71071.42;
+Rod Of The Exalted One\31513.86\72056.13;
+Rod Of The Depths\30577.88\68048.41;
+Depthseeker Rod\29823.31\63507.68;
+Volcanic Rod\29604.07\64007.19;
+Zeus Rod\29371.36\63504.04;
+Avalanche Rod\29366.64\62438.16
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Rainbow Grouper, the player has a chance to make one of the following exclamations:
+* A RAINBOW GROUPER!
+* SHINES IN THE MIST!
+* COLORFUL TITAN!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Gilded Arch}}

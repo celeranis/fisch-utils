@@ -1,0 +1,71 @@
+{{FishInfobox
+|image          = Warty Frogfish.png
+|rarity         = Rare
+|sea            = First Sea
+|location       = [[Castaway Cliffs]]
+|sublocation    = 
+|sources        = Crab Cage, Fishing Rod
+|radar_location = 
+|prog_speed     = +10
+|xp             = 400
+|weather        = Foggy
+|time           = Night
+|season         = Autumn
+|bait           = Flakes
+|base_weight    = 4
+|base_value     = 1000
+|weight_range   = 2.7
+|base_chance    = 15
+|base_resil     = 30
+}}
+'''Warty Frogfish''' is a {{Rarity|Rare}} fish found in [[Castaway Cliffs]].
+
+== Description ==
+{{Description|A camouflaged oddity lurking among rocky outcrops.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Lurks in waters favored by pirates.|Bestiary Hint}}
+{{Fish Availability|
+Castaway Cliffs
+|top_rods      = 
+Krampus's Rod\292993.01\378282.34;
+Magma Rod\279722.09\361013.16;
+Plastic Rod\278289.21\355001.42;
+Leviathan's Fang Rod\250324.28\360015.96;
+Free Spirit Rod\204134.66\334294.76;
+Buddy Bond Rod\183622.58\300969.53;
+Fast Rod\177772.48\378329.83;
+Flimsy Rod\122438.41\373751.98;
+Fischer's Rod\164874.15\368459.9;
+Training Rod\76297.32\337269.87;
+Heaven's Rod\142127.28\319223.53;
+Trident Rod\201879.31\339689.55;
+Ethereal Prism Rod\190107.85\212411.08;
+Astralhook Rod\189932.86\208691.13;
+Seraphic Rod\185264.77\217403.73;
+No-Life Rod\184415.43\228295.54;
+Challenger's Rod\175174.09\204974.62;
+Rod Of The Forgotten Fang\173503.62\204587.92;
+Blazebringer Rod\159496.75\202105.6;
+Verdant Shear Rod\156924.35\262218.47;
+Rod Of The Depths\156451.79\186298.4;
+Rod Of The Exalted One\152491.23\193223.97;
+Zeus Rod\150289.7\190761.61;
+Depthseeker Rod\134344.37\178524.81;
+Avalanche Rod\120918.75\161469.86;
+Volcanic Rod\117088.11\150807.15;
+Steady Rod\41272.4\53738.19
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Warty Frogfish, the player has a chance to make one of the following exclamations:
+* A Warty Frogfish!
+* Hidden in plain sight!
+* Strange and sneaky!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Castaway Cliffs}}

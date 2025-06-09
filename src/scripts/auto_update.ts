@@ -28,6 +28,7 @@ await attemptSave('Module:Fish Navbox/data', readFileSync('./output/NavboxData.l
 await attemptSave('Module:Item/fish', readFileSync('./output/RarityData.lua').toString())
 await attemptSave('Module:Item/bobbers', readFileSync('./output/BobberData.lua').toString())
 await attemptSave('Module:Item/bait', readFileSync('./output/BaitData.lua').toString())
+await attemptSave('Module:Item/skins', readFileSync('./output/RodSkinData.lua').toString())
 
 await attemptSave('Template:Item/styles.css', readFileSync('./output/rodstyles.css').toString())
 await attemptSave('Template:Mutation/styles.css', readFileSync('./output/mutations.css').toString())

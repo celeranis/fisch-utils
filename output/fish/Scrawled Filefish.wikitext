@@ -1,0 +1,65 @@
+{{FishInfobox
+|image          = Scrawled Filefish.png
+|rarity         = Unusual
+|sea            = Second Sea
+|location       = [[Gilded Arch]]
+|sublocation    = 
+|sources        = Crab Cage, Fishing Rod
+|radar_location = 
+|xp             = 450
+|weather        = Windy
+|time           = Night
+|season         = Autumn
+|bait           = Minnow
+|base_weight    = 50
+|base_value     = 900
+|weight_range   = 35
+|base_chance    = 50
+|base_resil     = 50
+}}
+'''Scrawled Filefish''' is an {{Rarity|Unusual}} fish found in [[Gilded Arch]].
+
+== Description ==
+{{Description|A mottled drifter gliding through twilight reefs.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Lurks in waters favored by pirates.|Bestiary Hint}}
+{{Fish Availability|
+Gilded Arch
+|top_rods      = 
+Astralhook Rod\235347.3\497083.78;
+Trident Rod\184270.18\110743.04;
+Leviathan's Fang Rod\162262.15\94594.82;
+Firefly Rod\161431.99\151948.05;
+Azure Of Lagoon\160539.98\160539.98;
+Free Spirit Rod\155287.84\195643.27;
+Great Dreamer Rod\150203.32\186816.02;
+Carrot Rod\152327.44\152327.44;
+Verdant Shear Rod\149857.16\139091.32;
+No-Life Rod\148899.63\119213.7;
+Blazebringer Rod\147738.77\147738.77;
+Challenger's Rod\133537.23\105917.94;
+Depthseeker Rod\131307.43\114166.25;
+Seraphic Rod\129711.67\85729.35;
+Avalanche Rod\129067.12\113017.13;
+Volcanic Rod\127182.41\105141.46;
+Zeus Rod\126561.35\104628.03;
+Rod Of The Forgotten Fang\125994.09\83082.88;
+Rod Of The Depths\125580.94\96582.76;
+Rod Of The Exalted One\113859.08\80933.89;
+Ethereal Prism Rod\110291.58\85072.1;
+Steady Rod\105484.22\97372.85
+|recommended   = Astralhook Rod
+}}
+
+== Catch Quips ==
+When catching a Scrawled Filefish, the player has a chance to make one of the following exclamations:
+* A Scrawled Filefish!
+* Drifts in the dark!
+* Reef's subtle wanderer!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Gilded Arch}}

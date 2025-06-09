@@ -1,0 +1,64 @@
+{{FishInfobox
+|image          = Cobalt Angelfish.png
+|rarity         = Uncommon
+|sea            = First Sea
+|location       = [[Castaway Cliffs]]
+|sublocation    = 
+|sources        = Crab Cage, Fishing Rod
+|radar_location = 
+|xp             = 200
+|weather        = 
+|time           = Night
+|season         = Winter
+|bait           = Worm
+|base_weight    = 9
+|base_value     = 500
+|weight_range   = 6
+|base_chance    = 45
+|base_resil     = 60
+}}
+'''Cobalt Angelfish''' is an {{Rarity|Uncommon}} fish found in [[Castaway Cliffs]].
+
+== Description ==
+{{Description|A sleek fish with deep blue hues, gliding gracefully.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Lurks in waters favored by pirates.|Bestiary Hint}}
+{{Fish Availability|
+Castaway Cliffs
+|top_rods      = 
+Astralhook Rod\294809.43\564028.57;
+Ethereal Prism Rod\279409.56\431116.62;
+Leviathan's Fang Rod\263601.39\302924.69;
+No-Life Rod\252330.24\252330.24;
+Firefly Rod\251169.74\232261.97;
+Training Rod\231094.5\362059.31;
+Fortune Rod\156576.02\299823.88;
+Seraphic Rod\249687.05\249687.05;
+Challenger's Rod\247896.42\247896.42;
+Rod Of The Forgotten Fang\227880.75\227880.75;
+Avalanche Rod\227141.28\174534.13;
+Depthseeker Rod\226648.75\194772.08;
+Blazebringer Rod\226509.84\226509.84;
+Free Spirit Rod\222929.55\222929.55;
+Verdant Shear Rod\221877.41\213337.79;
+Zeus Rod\212528.05\212528.05;
+Rod Of The Depths\206855.27\206855.27;
+Rod Of The Exalted One\200585.06\206571.56;
+Volcanic Rod\188789.53\161293.9;
+Trident Rod\178956.39\178956.39;
+Steady Rod\127644.28\106568.7
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching a Cobalt Angelfish, the player has a chance to make one of the following exclamations:
+* A Cobalt Angelfish!
+* Blue as the deep sea!
+* Graceful swimmer!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Castaway Cliffs}}

@@ -31,8 +31,8 @@ Cults Curse
 |top_rods      = 
 Fang of the Eclipse\43227.39\118850.11;
 Great Rod of Oscar\43218.57\111898.62;
+Challenger's Rod\42700.05\115246;
 Tempest Rod\41122.4\110581.34;
-Challenger's Rod\40726.02\109918.16;
 Astralhook Rod\40677.07\107739.84;
 Resourceful Rod\6847.33\17804.58;
 Destiny Rod\662.28\1716.03;

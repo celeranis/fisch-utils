@@ -1,0 +1,70 @@
+{{FishInfobox
+|image          = Doctorfish Tang.png
+|rarity         = Common
+|sea            = Second Sea
+|location       = [[Gilded Arch]]
+|sublocation    = 
+|sources        = Crab Cage, Fishing Rod
+|radar_location = 
+|xp             = 100
+|weather        = Clear
+|time           = Day
+|season         = Summer
+|bait           = Shrimp
+|base_weight    = 9
+|base_value     = 200
+|weight_range   = 6
+|base_chance    = 100
+|base_resil     = 100
+}}
+'''Doctorfish Tang''' is a {{Rarity|Common}} fish found in [[Gilded Arch]].
+
+== Description ==
+{{Description|A diligent grazer scraping algae from sunlit rocks.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Lurks in waters favored by pirates.|Bestiary Hint}}
+{{Fish Availability|
+Gilded Arch
+|top_rods      = 
+Training Rod\163703.68\NaN;
+Free Spirit Rod\156757.33\37945.6;
+Azure Of Lagoon\152288.92\32108;
+Flimsy Rod\142242.06\35678.67;
+Firefly Rod\136812.46\31050.24;
+Frog Rod\135522.29\31553.26;
+Great Dreamer Rod\134947.72\37596.2;
+Adventurer's Rod\132960.46\30805.42;
+Carrot Rod\135384.51\30606.39;
+Fischer's Rod\109768.65\22958.73;
+Fast Rod\109443.44\22890.71;
+Astralhook Rod\135977.82\0;
+Blazebringer Rod\134319.32\29756.21;
+Verdant Shear Rod\133691.77\30407.45;
+Trident Rod\130731.3\27050.62;
+No-Life Rod\116240.05\22907.45;
+Ethereal Prism Rod\113174.17\22432.26;
+Seraphic Rod\112920.14\21468.5;
+Challenger's Rod\112087.86\21856.83;
+Depthseeker Rod\109494.82\23672.33;
+Avalanche Rod\109035.78\23760.6;
+Rod Of The Exalted One\108919.25\21869.84;
+Rod Of The Forgotten Fang\108757.16\20436.25;
+Volcanic Rod\108208.27\22108.44;
+Zeus Rod\107858.9\22037.06;
+Rod Of The Depths\107832.91\20305.45;
+Steady Rod\88822.08\20128.08
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Doctorfish Tang, the player has a chance to make one of the following exclamations:
+* A Doctorfish Tang!
+* Reef's cleanup crew!
+* Grazing with grace!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Gilded Arch}}

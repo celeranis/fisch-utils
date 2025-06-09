@@ -47,7 +47,7 @@ Ethereal Prism Rod\6445.55\39109.42;
 Seraphic Rod\6436.04\40185.35;
 Steady Rod\6278.47\34428.6;
 No-Life Rod\6191.08\39864.63;
-Challenger's Rod\5972.44\38320.91;
+Challenger's Rod\6185.6\39688.58;
 Rod Of The Forgotten Fang\5896.88\36940.93;
 Rod Of The Exalted One\5843.17\36013.63;
 Rod Of The Depths\5613.33\35521.14;

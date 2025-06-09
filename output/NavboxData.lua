@@ -1,4 +1,4 @@
--- Last update: Version [[1.35]], place version 56
+-- Last update: Version [[1.36]], place version 63
 
 return {
 	permanent = {
@@ -225,6 +225,21 @@ return {
 			},
 		},
 		{
+			name = "Castaway Cliffs",
+			fish = {
+				{ name = "Flamekissed Hawkfish", rarity = "Common" },
+				{ name = "Clowned Triggerfish", rarity = "Common" },
+				{ name = "Cobalt Angelfish", rarity = "Uncommon" },
+				{ name = "Mandarinfish", rarity = "Uncommon" },
+				{ name = "Trevally", rarity = "Unusual" },
+				{ name = "Warty Frogfish", rarity = "Rare" },
+				{ name = "Hidden Pipefish", rarity = "Legendary" },
+				{ name = "Mirage Toadfish", rarity = "Mythical" },
+				{ name = "Scalloped Hammerhead", rarity = "Exotic" },
+				{ name = "Great Goldcursed Shark", rarity = "Secret" },
+			},
+		},
+		{
 			name = "Challenger's Deep",
 			fish = {
 				{ name = "Frostscale Fangtooth", rarity = "Common" },
@@ -332,6 +347,28 @@ return {
 			},
 		},
 		{
+			name = "Gilded Arch",
+			fish = {
+				{ name = "French Grunt", rarity = "Common" },
+				{ name = "Coney Grouper", rarity = "Common" },
+				{ name = "Sergeant Major", rarity = "Common" },
+				{ name = "Doctorfish Tang", rarity = "Common" },
+				{ name = "Squirrelfish", rarity = "Common" },
+				{ name = "Bluehead Wrasse", rarity = "Uncommon" },
+				{ name = "Islandhopper Butterflyfish", rarity = "Uncommon" },
+				{ name = "Stoplight Parrotfish", rarity = "Unusual" },
+				{ name = "Scrawled Filefish", rarity = "Unusual" },
+				{ name = "Spadefish", rarity = "Rare" },
+				{ name = "Ocean Triggerfish", rarity = "Rare" },
+				{ name = "Rainbow Grouper", rarity = "Legendary" },
+				{ name = "Rock Hind", rarity = "Legendary" },
+				{ name = "Spotted Moray Eel", rarity = "Mythical" },
+				{ name = "Great Barracuda", rarity = "Mythical" },
+				{ name = "Tilefish", rarity = "Exotic" },
+				{ name = "Black Grouper", rarity = "Secret" },
+			},
+		},
+		{
 			name = "Glacial Grotto",
 			fish = {
 				{ name = "Snowgill Dace", rarity = "Uncommon" },
@@ -435,7 +472,6 @@ return {
 				{ name = "Whiptail Catfish", rarity = "Legendary" },
 				{ name = "Whisker Bill", rarity = "Mythical" },
 				{ name = "Treble Bass", rarity = "Exotic" },
-				{ name = "Baby Bloop Fish", rarity = "Secret" },
 			},
 		},
 		{
@@ -841,19 +877,20 @@ return {
 				{ name = "Driftwood", rarity = "Trash" },
 				{ name = "Tire", rarity = "Trash" },
 				{ name = "Log", rarity = "Trash" },
+				{ name = "Doubloon", rarity = "Common" },
 				{ name = "Shell", rarity = "Common" },
 				{ name = "Fish Barrel", rarity = "Uncommon" },
 				{ name = "Common Crate", rarity = "Uncommon" },
 				{ name = "Bait Crate", rarity = "Uncommon" },
 				{ name = "Quality Bait Crate", rarity = "Rare" },
 				{ name = "Carbon Crate", rarity = "Rare" },
-				{ name = "Bloop Cosmetic Crate", rarity = "Legendary" },
 				{ name = "Moon Wood", rarity = "Legendary" },
 				{ name = "Green Energy Crystal", rarity = "Mythical" },
 				{ name = "Yellow Energy Crystal", rarity = "Mythical" },
 				{ name = "Red Energy Crystal", rarity = "Mythical" },
 				{ name = "Blue Energy Crystal", rarity = "Mythical" },
 				{ name = "Anglers Lantern", rarity = "Exotic" },
+				{ name = "Baby Bloop Fish", rarity = "Secret" },
 				{ name = "Enchant Relic", rarity = "Relic" },
 				{ name = "Exalted Relic", rarity = "Relic" },
 			},

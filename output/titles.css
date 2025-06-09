@@ -1,4 +1,4 @@
-/* Last update: Version [[1.35]], place version 56 */
+/* Last update: Version [[1.36]], place version 63 */
 
 .playertitle {
 	font-family: 'Source Sans Pro', sans-serif;
@@ -11,79 +11,64 @@
 	--playertitle-color: white;
 }
 .playertitle-ghosts-cursed-deckhand {
-	--playertitle-color: #55aa7f;
-	--playertitle-stroke-color: #222222;
-	font-weight: 700;
+	background: linear-gradient(180deg, #000000 0%, #b8ffed 100%);
+	font-family: 'SpecialElite';
 }
 .playertitle-ghosts-dread-captain {
-	--playertitle-color: #71f81d;
-	--playertitle-stroke-color: #222222;
-	font-weight: 700;
+	background: linear-gradient(180deg, #000000 0%, #8fffd4 100%);
+	font-family: 'SpecialElite';
 }
 .playertitle-ghosts-eternal-reaver {
-	--playertitle-color: #894bc6;
-	--playertitle-stroke-color: #222222;
-	font-weight: 700;
+	background: linear-gradient(180deg, #000000 0%, #2cffc3 100%);
+	font-family: 'SpecialElite';
 }
 .playertitle-ghosts-lost-soul {
-	--playertitle-color: #878787;
-	--playertitle-stroke-color: #222222;
-	font-weight: 700;
+	background: linear-gradient(180deg, #000000 0%, #d4fff3 100%);
+	font-family: 'SpecialElite';
 }
 .playertitle-ghosts-phantom-corsair {
-	--playertitle-color: #59b8aa;
-	--playertitle-stroke-color: #222222;
-	font-weight: 700;
+	background: linear-gradient(180deg, #000000 0%, #a6ffe6 100%);
+	font-family: 'SpecialElite';
 }
 .playertitle-midas-mates-coin-bitten {
-	--playertitle-color: #ffd501;
-	--playertitle-stroke-color: #222222;
-	font-weight: 700;
+	background: linear-gradient(180deg, #000000 0%, #fffcd3 100%);
+	font-family: 'Fondamento';
 }
 .playertitle-midas-mates-crownforged {
-	--playertitle-color: #ffdc82;
-	--playertitle-stroke-color: #222222;
-	font-weight: 700;
+	background: linear-gradient(180deg, #000000 0%, #ffea82 100%);
+	font-family: 'Fondamento';
 }
 .playertitle-midas-mates-gildwarden {
-	--playertitle-color: #96c7cc;
-	--playertitle-stroke-color: #222222;
-	font-weight: 700;
+	background: linear-gradient(180deg, #000000 0%, #ffff5c 100%);
+	font-family: 'Fondamento';
 }
 .playertitle-midas-mates-vaultbound {
-	--playertitle-color: #ff6803;
-	--playertitle-stroke-color: #222222;
-	font-weight: 700;
+	background: linear-gradient(180deg, #000000 0%, #fff9b5 100%);
+	font-family: 'Fondamento';
 }
 .playertitle-midas-mates-vaultkeeper {
-	--playertitle-color: #d900ff;
-	--playertitle-stroke-color: #222222;
-	font-weight: 700;
+	background: linear-gradient(180deg, #000000 0%, #ffbf00 100%);
+	font-family: 'Fondamento';
 }
 .playertitle-red-marlins-castaway {
-	--playertitle-color: #52b4ff;
-	--playertitle-stroke-color: #222222;
-	font-weight: 700;
+	background: linear-gradient(180deg, #000000 0%, #ffb5b6 100%);
+	font-family: 'Merriweather';
 }
 .playertitle-red-marlins-ironhook {
-	--playertitle-color: #96c7cc;
-	--playertitle-stroke-color: #222222;
-	font-weight: 700;
+	background: linear-gradient(180deg, #000000 0%, #ff3e88 100%);
+	font-family: 'Merriweather';
 }
 .playertitle-red-marlins-marauder {
-	--playertitle-color: #ff075e;
-	--playertitle-stroke-color: #222222;
-	font-weight: 700;
+	background: linear-gradient(180deg, #000000 0%, #ff67a4 100%);
+	font-family: 'Merriweather';
 }
 .playertitle-red-marlins-mythwalker {
-	--playertitle-color: #d900ff;
-	--playertitle-stroke-color: #222222;
-	font-weight: 700;
+	background: linear-gradient(180deg, #000000 0%, #ff075e 100%);
+	font-family: 'Merriweather';
 }
 .playertitle-red-marlins-seafarrer {
-	--playertitle-color: #00ffff;
-	--playertitle-stroke-color: #222222;
-	font-weight: 700;
+	background: linear-gradient(180deg, #000000 0%, #ff94a8 100%);
+	font-family: 'Merriweather';
 }
 .playertitle-the-final-fishness {
 	--playertitle-color: #ffb02e;

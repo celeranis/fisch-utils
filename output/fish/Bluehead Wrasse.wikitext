@@ -1,0 +1,72 @@
+{{FishInfobox
+|image          = Bluehead Wrasse.png
+|rarity         = Uncommon
+|sea            = Second Sea
+|location       = [[Gilded Arch]]
+|sublocation    = 
+|sources        = Crab Cage, Fishing Rod
+|radar_location = 
+|prog_speed     = +10
+|xp             = 140
+|weather        = Clear
+|time           = Day
+|season         = Summer
+|bait           = Lushrooms
+|base_weight    = 0.8
+|base_value     = 280
+|weight_range   = 0.6
+|base_chance    = 85
+|base_resil     = 75
+}}
+'''Bluehead Wrasse''' is an {{Rarity|Uncommon}} fish found in [[Gilded Arch]].
+
+== Description ==
+{{Description|A swift dart weaving through vibrant coral jungles.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Lurks in waters favored by pirates.|Bestiary Hint}}
+{{Fish Availability|
+Gilded Arch
+|top_rods      = 
+Training Rod\133374.87\NaN;
+Free Spirit Rod\131558.29\32628.04;
+Azure Of Lagoon\129986.35\27361.49;
+Trident Rod\117993.4\24414.93;
+Leviathan's Fang Rod\117553.72\23728.71;
+Flimsy Rod\114778.44\29838.83;
+Lucky Rod\93495.04\23629.64;
+Great Dreamer Rod\106970.1\31984.64;
+Carrot Rod\108565.18\26069.87;
+Firefly Rod\113932.65\26041.08;
+Friendly Rod\112157.42\25948.89;
+Fischer's Rod\86446.76\19255.94;
+Fast Rod\85975.09\19150.88;
+Astralhook Rod\113547.05\0;
+Blazebringer Rod\113118.42\25307.9;
+Verdant Shear Rod\113018.93\25705.53;
+No-Life Rod\100416.24\19789.05;
+Ethereal Prism Rod\95721.54\18972.97;
+Seraphic Rod\95603.86\18176.31;
+Challenger's Rod\94602.48\18447.23;
+Depthseeker Rod\92372.52\19970.56;
+Rod Of The Forgotten Fang\91833.25\17256.12;
+Rod Of The Exalted One\91784.17\18429.3;
+Avalanche Rod\91746.12\19992.91;
+Volcanic Rod\91036.72\18600.05;
+Rod Of The Depths\90733.99\17085.65;
+Zeus Rod\90707.24\18532.74;
+Steady Rod\74809.73\16991.24
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Bluehead Wrasse, the player has a chance to make one of the following exclamations:
+* A Bluehead Wrasse!
+* Darts like a bolt!
+* Coral's quick flash!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Gilded Arch}}

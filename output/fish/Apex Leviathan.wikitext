@@ -36,8 +36,8 @@ Ethereal Prism Rod\6918.08\65500.81;
 Leviathan's Fang Rod\11257.18\87065.53;
 No-Life Rod\7050.12\66928.8;
 Seraphic Rod\6821.98\64957.21;
+Challenger's Rod\6521.87\61935.49;
 Rod Of The Forgotten Fang\6413.31\61046.48;
-Challenger's Rod\6325.14\60067.24;
 Zeus Rod\5997.3\56873.4
 |recommended   = Astralhook Rod
 }}

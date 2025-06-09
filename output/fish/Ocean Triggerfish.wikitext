@@ -1,0 +1,70 @@
+{{FishInfobox
+|image          = Ocean Triggerfish.png
+|rarity         = Rare
+|sea            = Second Sea
+|location       = [[Gilded Arch]]
+|sublocation    = 
+|sources        = Crab Cage, Fishing Rod
+|radar_location = 
+|xp             = 1200
+|weather        = 
+|time           = Night
+|season         = Winter
+|bait           = Ember Berries
+|base_weight    = 25
+|base_value     = 1500
+|weight_range   = 17
+|base_chance    = 25
+|base_resil     = 40
+}}
+'''Ocean Triggerfish''' is a {{Rarity|Rare}} fish found in [[Gilded Arch]].
+
+== Description ==
+{{Description|A bold striker prowling stormy ocean depths.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Lurks in waters favored by pirates.|Bestiary Hint}}
+{{Fish Availability|
+Gilded Arch
+|top_rods      = 
+Frostfire Rod\233669.98\310246.58;
+Steady Rod\232252.97\283654.43;
+North-Star Rod\195842.79\360641.25;
+Event Horizon Rod\193161.18\355703.1;
+Astral Rod\193161.18\355703.1;
+Plastic Rod\187534.06\407615.27;
+Magma Rod\179881.83\385775.43;
+Resourceful Rod\161170.32\412675.46;
+Fischer's Rod\155759.11\412195.62;
+Fast Rod\154818.33\396713.65;
+Rod Of Time\172682.98\386778.03;
+Free Spirit Rod\155566.47\178267.06;
+Astralhook Rod\152550.54\248039.78;
+Blazebringer Rod\131756.2\159645.12;
+Verdant Shear Rod\127307.82\177960.8;
+Trident Rod\111069.76\130426.93;
+Ethereal Prism Rod\80976.49\97812.39;
+Seraphic Rod\79965.65\94897.24;
+No-Life Rod\79128.23\90854.35;
+Challenger's Rod\77694.04\89546.02;
+Rod Of The Exalted One\76492.08\92051.71;
+Rod Of The Forgotten Fang\76065.79\89948.81;
+Rod Of The Depths\74897.74\87613.72;
+Volcanic Rod\73160.01\83036.78;
+Zeus Rod\72932.96\82779.08;
+Depthseeker Rod\72888.77\81424.81;
+Avalanche Rod\72490.61\80848.83
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching an Ocean Triggerfish, the player has a chance to make one of the following exclamations:
+* A OCEAN TRIGGERFISH!
+* STRIKES IN THE STORM!
+* DEEP SEA HUNTER!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Gilded Arch}}

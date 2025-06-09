@@ -36,7 +36,7 @@ Free Spirit Rod\14313.98\121046.81;
 Rod Of The Exalted One\4581.39\40544.02;
 Blazebringer Rod\9241.94\81137.53;
 Leviathan's Fang Rod\6808.12\61294.61;
-Challenger's Rod\11790.68\110593.89;
+Challenger's Rod\12335.95\115708.34;
 Seraphic Rod\10266.13\99418.34;
 Ethereal Prism Rod\8429.32\79453.89;
 Verdant Shear Rod\8061.92\72535.66;

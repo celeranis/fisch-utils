@@ -32,9 +32,9 @@ Lovestorm/Normal
 |top_rods      = 
 Great Rod of Oscar\29792.8\82563.49;
 Astralhook Rod\27917.42\85487.72;
+Challenger's Rod\27375.4\87864.89;
 Tempest Rod\26991.92\85997.91;
 Fang of the Eclipse\26769.64\92115.72;
-Challenger's Rod\26172.34\85043.56;
 Destiny Rod\13975.9\39114.85;
 Heaven's Rod\15165.75\43261.96;
 Carrot Rod\17533.6\55697.67;

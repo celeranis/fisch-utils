@@ -42,7 +42,7 @@ Plastic Rod\34626.17\58217.83;
 Seraphic Rod\57426.65\89410.14;
 Ethereal Prism Rod\57275.16\88652.3;
 Astralhook Rod\57079.41\89141.79;
-Challenger's Rod\55315.07\88728.02;
+Challenger's Rod\56554.33\88664.54;
 Rod Of The Forgotten Fang\55230.83\87727.18;
 Blazebringer Rod\53732.93\83306.34;
 Verdant Shear Rod\50702.07\78615.05;

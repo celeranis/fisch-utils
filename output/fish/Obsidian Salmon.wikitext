@@ -39,7 +39,7 @@ Lucky Rod\22494.8\75584.88;
 Seraphic Rod\39978.16\110924.58;
 No-Life Rod\39016.59\121752.69;
 Rod Of The Forgotten Fang\37094.03\105398.32;
-Challenger's Rod\35066.63\105302.49;
+Challenger's Rod\36764.01\108742.23;
 Rod Of The Exalted One\33281.34\91488.04;
 Blazebringer Rod\33108.95\101343.25;
 Rod Of The Depths\32767.62\94378.82;

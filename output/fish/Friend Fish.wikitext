@@ -1,0 +1,56 @@
+{{FishInfobox
+|image          = Friend Fish.png
+|rarity         = Secret
+|sea            = First Sea
+|location       = [[Regionless]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -50
+|xp             = 1
+|weather        = 
+|time           = 
+|season         = 
+|bait           = Pizza
+|base_weight    = 300
+|base_value     = 1
+|weight_range   = 270
+|base_chance    = 0
+|base_resil     = 0
+}}
+'''Friend Fish''' is a {{Rarity|Secret}} fish found in [[Regionless]].
+
+== Description ==
+{{Description|MY BEST FRIEND!|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|A very friendly fish...|Bestiary Hint}}
+
+== Catch Quips ==
+When catching a Friend Fish, the player has a chance to make one of the following exclamations:
+* MY BEST FRIEND!
+* TRUE FRIENDSHIP!
+* YAY!
+* FRIENDSHIP SECURED!
+* GOTCHA, PAL!
+* HUG ATTACK!
+* YOU'RE MINE NOW, BFF!
+* SNAGGED A FRIEND!
+* NO TAKEBACKS!
+* CAUGHT A WILD FRIEND!
+* FRIENDSHIP LEVEL: MAX!
+* BESTIES FOREVER!
+* GRABBED THE GREATEST!
+* CLOSE ENCOUNTER OF THE FRIEND KIND!
+* WELCOME TO THE FRIEND ZONE (the good kind)!
+* EMOTIONAL DAMAGE-IN A GOOD WAY!
+* TAG, YOU'RE MY BESTIE!
+* HEARTS INTERLOCKED!
+* WE'RE A TEAM NOW!
+* POWER OF FRIENDSHIP ACHIEVED!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Regionless}}

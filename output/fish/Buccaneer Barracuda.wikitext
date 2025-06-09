@@ -45,7 +45,7 @@ Blazebringer Rod\165806.66\145348.62;
 Zeus Rod\164473.09\136333.21;
 Seraphic Rod\162432.06\166130.71;
 Volcanic Rod\160361.27\103471.66;
-Challenger's Rod\157743.34\146863.58;
+Challenger's Rod\159185.45\159185.45;
 Rod Of The Forgotten Fang\147652.3\151515.02;
 Rod Of The Depths\140361.57\132707.53;
 Rod Of The Exalted One\130235.74\144889.19;

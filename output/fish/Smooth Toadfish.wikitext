@@ -38,7 +38,7 @@ Verdant Shear Rod\183276.97\168910.24;
 Blazebringer Rod\174009.21\167704.92;
 No-Life Rod\172069.54\163243.73;
 Seraphic Rod\160347.01\147777.71;
-Challenger's Rod\155247.15\146815.25;
+Challenger's Rod\158401.55\149798.33;
 Depthseeker Rod\153979.64\150177.36;
 Rod Of The Forgotten Fang\153512.73\141889.86;
 Avalanche Rod\152177.82\148649.63;

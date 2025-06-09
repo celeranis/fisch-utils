@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Mandarinfish.png
+|rarity         = Uncommon
+|sea            = First Sea
+|location       = [[Castaway Cliffs]]
+|sublocation    = 
+|sources        = Crab Cage, Fishing Rod
+|radar_location = 
+|prog_speed     = +5
+|xp             = 190
+|weather        = Foggy
+|time           = Day
+|season         = Spring
+|bait           = Insect
+|base_weight    = 5
+|base_value     = 400
+|weight_range   = 3.5
+|base_chance    = 55
+|base_resil     = 70
+}}
+'''Mandarinfish''' is an {{Rarity|Uncommon}} fish found in [[Castaway Cliffs]].
+
+== Description ==
+{{Description|A small, ornate fish shimmering in tropical currents.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Lurks in waters favored by pirates.|Bestiary Hint}}
+{{Fish Availability|
+Castaway Cliffs
+|top_rods      = 
+Astralhook Rod\297961.15\0;
+Ethereal Prism Rod\295219.37\52736.72;
+Leviathan's Fang Rod\273121.52\36756.27;
+Firefly Rod\268280.46\29315.96;
+Brother's Rod\267987.75\26111.5;
+Training Rod\240825.32\39235.83;
+Fortune Rod\159364.77\0;
+Nocturnal Rod\116961.91\107310.14;
+Kraken Rod\230408.4\33394.18;
+No-Life Rod\265756.93\30812.34;
+Verdant Shear Rod\263797.58\27324.02;
+Seraphic Rod\263585.54\30560.59;
+Challenger's Rod\261885.72\30363.51;
+Depthseeker Rod\256829.75\23871.49;
+Avalanche Rod\252993.74\21520.15;
+Free Spirit Rod\241885.26\27057.18;
+Rod Of The Forgotten Fang\240811.7\27920.15;
+Blazebringer Rod\239562.51\27775.31;
+Zeus Rod\236703.12\26074.09;
+Trident Rod\234845.44\21707.55;
+Volcanic Rod\227934.44\19785.74;
+Rod Of The Depths\218823.11\25370.75;
+Rod Of The Exalted One\211172.03\25325.46;
+Steady Rod\136427.28\13146.1
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching a Mandarinfish, the player has a chance to make one of the following exclamations:
+* A Mandarinfish!
+* A dazzling beauty!
+* Tropical gem!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Castaway Cliffs}}

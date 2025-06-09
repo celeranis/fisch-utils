@@ -29,10 +29,10 @@
 Emberreach/Freshwater Pond
 |top_rods      = 
 Adventurer's Rod\644170.24\611511.91;
+Duncan's Rod\535729.65\524052.99;
+Zora's Rod\535729.65\524052.99;
+Henry's Rod\535729.65\524052.99;
 Fungal Rod\533643.9\533643.9;
-Long Rod\521613.12\510244.14;
-Antler Rod\515603.45\515603.45;
-Firefly Rod\319704.24\307421.31;
 Free Spirit Rod\315021.7\187062.51;
 Trident Rod\290889.82\208663.72;
 Astralhook Rod\267719.04\228598.2;
@@ -41,9 +41,9 @@ Blazebringer Rod\241020.49\179633.93;
 No-Life Rod\225009.41\168528.62;
 Seraphic Rod\212359.13\152331.38;
 Ethereal Prism Rod\206567.38\103473.71;
+Challenger's Rod\203507.28\151985.09;
 Rod Of The Exalted One\201282.06\140801.31;
 Rod Of The Forgotten Fang\201242.91\145370.39;
-Challenger's Rod\199858.83\149260.32;
 Depthseeker Rod\197604.76\152636.3;
 Avalanche Rod\194087.67\150130.85;
 Rod Of The Depths\193550.08\143088.2;

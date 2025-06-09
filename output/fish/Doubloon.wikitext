@@ -1,0 +1,42 @@
+{{FishInfobox
+|image          = Doubloon.png
+|rarity         = Common
+|sea            = First Sea, Second Sea
+|location       = [[Regionless]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = +5
+|xp             = 0
+|weather        = Clear
+|time           = 
+|season         = Summer
+|bait           = 
+|base_weight    = 0.2
+|base_value     = 1
+|weight_range   = 0
+|base_chance    = null
+|base_resil     = 120
+}}
+'''Doubloon''' is a {{Rarity|Common}} fish found in [[Regionless]].
+
+== Description ==
+{{Description||Bestiary Entry}}
+
+== Obtainment ==
+{{Fish Availability|
+AFK Pool - Trading Plaza
+|top_rods      = 
+Long Rod\NaN\NaN;
+Frost Warden Rod\NaN\NaN;
+Riptide Rod\NaN\NaN;
+Fischmas Rod\NaN\NaN;
+Adventurer's Rod\NaN\NaN
+|recommended   = 
+}}
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Regionless}}

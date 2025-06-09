@@ -39,7 +39,7 @@ Leviathan's Fang Rod\116703.66\126125.47;
 Fortune Rod\69259.77\91574.79;
 No-Life Rod\119872.65\117946.46;
 Seraphic Rod\119400.74\117482.15;
-Challenger's Rod\109289\107532.88;
+Challenger's Rod\118737.07\116829.14;
 Rod Of The Forgotten Fang\109029.67\107277.72;
 Blazebringer Rod\108640.67\106894.97;
 Free Spirit Rod\104197.79\102523.48;

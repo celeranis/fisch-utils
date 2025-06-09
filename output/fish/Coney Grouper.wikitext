@@ -1,0 +1,69 @@
+{{FishInfobox
+|image          = Coney Grouper.png
+|rarity         = Common
+|sea            = Second Sea
+|location       = [[Gilded Arch]]
+|sublocation    = 
+|sources        = Crab Cage, Fishing Rod
+|radar_location = 
+|xp             = 90
+|weather        = Windy
+|time           = Day
+|season         = Spring
+|bait           = Insect
+|base_weight    = 55
+|base_value     = 180
+|weight_range   = 41
+|base_chance    = 110
+|base_resil     = 105
+}}
+'''Coney Grouper''' is a {{Rarity|Common}} fish found in [[Gilded Arch]].
+
+== Description ==
+{{Description|A sturdy traveler roaming coastal boulder fields.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Lurks in waters favored by pirates.|Bestiary Hint}}
+{{Fish Availability|
+Gilded Arch
+|top_rods      = 
+Free Spirit Rod\176068.38\0;
+Azure Of Lagoon\167517.81\35318.79;
+Great Rod of Oscar\156617.59\27705.99;
+Astralhook Rod\156371.13\0;
+Firefly Rod\155439.25\34194.04;
+Fischer's Rod\125480.54\25321.38;
+Fast Rod\125149.64\25254.61;
+Resourceful Rod\151441.63\29198.76;
+Nocturnal Rod\94938.96\92753.87;
+Wildflower Rod\150363.41\35451.78;
+Frog Rod\149322.47\34756.35;
+Blazebringer Rod\152473.3\32731.83;
+Verdant Shear Rod\147267.49\33495.18;
+Trident Rod\142722.31\29531.78;
+No-Life Rod\127644.24\25154.88;
+Ethereal Prism Rod\124636.69\24704.24;
+Seraphic Rod\124316.85\23635.26;
+Challenger's Rod\123463.29\24075.01;
+Depthseeker Rod\120643.26\26082.58;
+Avalanche Rod\120185.3\26190.25;
+Rod Of The Exalted One\120031.84\24101.13;
+Rod Of The Forgotten Fang\119806.82\22512.56;
+Volcanic Rod\119284.26\24371.42;
+Zeus Rod\118914.07\24295.78;
+Rod Of The Depths\118859.43\22381.8;
+Steady Rod\116763.6\22178.39
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Coney Grouper, the player has a chance to make one of the following exclamations:
+* A Coney Grouper!
+* Rocky reef roamer!
+* Stout and steady!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Gilded Arch}}

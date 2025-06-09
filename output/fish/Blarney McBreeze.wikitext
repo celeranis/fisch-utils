@@ -42,7 +42,7 @@ Plastic Rod\6787.42\22169.71;
 Adventurer's Rod\10304.98\32141.57;
 Ethereal Prism Rod\15177.02\36533.89;
 Seraphic Rod\14868.71\37077.41;
-Challenger's Rod\13567.69\36274.84;
+Challenger's Rod\14115.06\36462.61;
 Rod Of The Forgotten Fang\13468.01\33747.6;
 Blazebringer Rod\12240.16\32237.62;
 Rod Of The Depths\11653.38\29561.38;

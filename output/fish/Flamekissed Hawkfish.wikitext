@@ -1,0 +1,70 @@
+{{FishInfobox
+|image          = Flamekissed Hawkfish.png
+|rarity         = Common
+|sea            = First Sea
+|location       = [[Castaway Cliffs]]
+|sublocation    = 
+|sources        = Crab Cage, Fishing Rod
+|radar_location = 
+|xp             = 150
+|weather        = Windy
+|time           = Night
+|season         = Autumn
+|bait           = Bagel
+|base_weight    = 6
+|base_value     = 300
+|weight_range   = 4.3
+|base_chance    = 80
+|base_resil     = 90
+}}
+'''Flamekissed Hawkfish''' is a {{Rarity|Common}} fish found in [[Castaway Cliffs]].
+
+== Description ==
+{{Description|A fiery-hued fish darting through warm, shallow reefs.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Lurks in waters favored by pirates.|Bestiary Hint}}
+{{Fish Availability|
+Castaway Cliffs
+|top_rods      = 
+Leviathan's Fang Rod\588801.82\381885.3;
+Free Spirit Rod\574794.96\388002.51;
+Azure Of Lagoon\559919.51\436519.91;
+Trident Rod\551708.2\310782.67;
+No-Life Rod\529194.54\446371.15;
+Adventurer's Rod\477197.41\441327.03;
+Plastic Rod\332156.01\323317.38;
+Fischer's Rod\386384.19\327558.96;
+Brother's Rod\486456.84\459799.59;
+Wildflower Rod\497794.36\456360.15;
+Verdant Shear Rod\495688.5\454429.57;
+Fast Rod\460566.76\448964.5;
+Flimsy Rod\374699.53\307636.36;
+Seraphic Rod\509435.8\444613.93;
+Ethereal Prism Rod\499911.2\175184.57;
+Challenger's Rod\499647.79\442142.6;
+Blazebringer Rod\498093.44\404546.53;
+Astralhook Rod\497274.85\32521.92;
+Zeus Rod\495239.82\379478.54;
+Rod Of The Forgotten Fang\493260.3\405995.03;
+Rod Of The Exalted One\484545.2\368543.42;
+Rod Of The Depths\478341.36\369871.11;
+Volcanic Rod\446157\341751.97;
+Depthseeker Rod\438988.65\355020.33;
+Avalanche Rod\427552.02\321299.93;
+Training Rod\417112.27\437351.44;
+Steady Rod\230696.64\192605.89
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Flamekissed Hawkfish, the player has a chance to make one of the following exclamations:
+* A Flamekissed Hawkfish!
+* Blazing through the water!
+* Quick as a spark!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Castaway Cliffs}}

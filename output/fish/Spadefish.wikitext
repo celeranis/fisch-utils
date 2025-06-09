@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Spadefish.png
+|rarity         = Rare
+|sea            = Second Sea
+|location       = [[Gilded Arch]]
+|sublocation    = 
+|sources        = Crab Cage, Fishing Rod
+|radar_location = 
+|xp             = 1190
+|weather        = Foggy
+|time           = Day
+|season         = Spring
+|bait           = Lagoon Leech
+|base_weight    = 24.5
+|base_value     = 1400
+|weight_range   = 17
+|base_chance    = 28
+|base_resil     = 45
+}}
+'''Spadefish''' is a {{Rarity|Rare}} fish found in [[Gilded Arch]].
+
+== Description ==
+{{Description|A sleek disk flashing through misty shallows.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Lurks in waters favored by pirates.|Bestiary Hint}}
+{{Fish Availability|
+Gilded Arch
+|top_rods      = 
+Frostfire Rod\174903.75\163367.12;
+Steady Rod\162445.7\148308.35;
+Magma Rod\124335.87\121695.77;
+Plastic Rod\123629.38\128484.87;
+Krampus's Rod\113586.54\121095.07;
+North-Star Rod\98720.5\163635.32;
+Event Horizon Rod\97789.17\162091.59;
+Astral Rod\97789.17\162091.59;
+Candy Cane Rod\72536.66\154595.95;
+Astralhook Rod\59519.72\85936.68;
+Free Spirit Rod\58628.79\82067.61;
+Blazebringer Rod\50015.96\76661.56;
+Verdant Shear Rod\47070.52\84446.22;
+Trident Rod\46990.74\61376.34;
+No-Life Rod\34432.07\42121.1;
+Ethereal Prism Rod\32112.27\47210.78;
+Seraphic Rod\31760.83\44996.04;
+Challenger's Rod\30464.26\41729.53;
+Rod Of The Forgotten Fang\30058.83\42583.99;
+Rod Of The Exalted One\29977.28\44039.99;
+Depthseeker Rod\29324.16\37187.54;
+Rod Of The Depths\28909.71\41231.42;
+Avalanche Rod\28660.83\36896.46;
+Volcanic Rod\28455.76\38344.28;
+Zeus Rod\28315.56\38229.76
+|recommended   = Astralhook Rod
+}}
+
+== Catch Quips ==
+When catching a Spadefish, the player has a chance to make one of the following exclamations:
+* A SPADEFISH!
+* FLASHES THROUGH FOG!
+* SLENDER AND SWIFT!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Gilded Arch}}

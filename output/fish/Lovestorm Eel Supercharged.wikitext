@@ -30,10 +30,10 @@
 Lovestorm/Supercharged
 |top_rods      = 
 Great Rod of Oscar\24650.91\68617.52;
+Challenger's Rod\22571.15\72421.4;
 Fang of the Eclipse\22470.18\77147.42;
 Astralhook Rod\22458.15\69006.17;
 Tempest Rod\21852.68\69680.5;
-Challenger's Rod\21527.68\69011.44;
 Destiny Rod\373.37\1054.82;
 Heaven's Rod\5252.09\15126.14;
 Carrot Rod\2937.55\9342.26;

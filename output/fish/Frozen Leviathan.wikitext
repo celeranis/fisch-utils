@@ -31,9 +31,9 @@ Mariana's Veil/Challenger's Deep
 |top_rods      = 
 Great Rod of Oscar\6168.18\15980.45;
 Astralhook Rod\5440.19\14353.78;
+Challenger's Rod\4977.72\15614.91;
 Fang of the Eclipse\4964.36\16599.63;
 Tempest Rod\4877.72\14728.3;
-Challenger's Rod\4758.96\14867.61;
 Destiny Rod\2867.68\6540.21;
 Heaven's Rod\3041.29\7234.44;
 Krampus's Rod\1741.77\6482.65;

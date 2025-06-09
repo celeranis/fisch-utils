@@ -48,7 +48,7 @@ Blazebringer Rod\233336.7\198968.45;
 Zeus Rod\231733.27\186764.31;
 Trident Rod\231542.72\154700.02;
 Volcanic Rod\226312.16\141730.24;
-Challenger's Rod\220833.96\200485.44;
+Challenger's Rod\219874.91\217564.49;
 Seraphic Rod\218954.8\218954.8;
 Ethereal Prism Rod\211747.94\175294.08;
 Astralhook Rod\210655.54\126150.75;

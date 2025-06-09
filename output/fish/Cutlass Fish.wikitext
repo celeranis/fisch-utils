@@ -50,9 +50,9 @@ Free Spirit Rod\161206.31\29198;
 Seraphic Rod\154669.07\31958.97;
 Blazebringer Rod\152839.67\26715.3;
 Zeus Rod\151622.51\25049.29;
+Challenger's Rod\151186.6\29283.46;
 Volcanic Rod\147492.89\19011.94;
 Rod Of The Forgotten Fang\140413.45\29123.39;
-Challenger's Rod\139539.22\27027.47;
 Rod Of The Depths\125895.77\24384.86;
 Rod Of The Exalted One\122199.54\24811.9;
 Steady Rod\79024.44\15143.82

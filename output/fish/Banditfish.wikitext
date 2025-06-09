@@ -40,7 +40,7 @@ Astralhook Rod\157095.06\167502.39;
 Fischer's Rod\126972.35\159695.18;
 Ethereal Prism Rod\153005.18\159108.28;
 Seraphic Rod\151260.6\133160.73;
-Challenger's Rod\146978.52\121531.57;
+Challenger's Rod\149256.35\124062.25;
 Rod Of The Forgotten Fang\146713.78\120396.74;
 Blazebringer Rod\143695.55\119410.05;
 Rod Of The Exalted One\135953.99\113256;

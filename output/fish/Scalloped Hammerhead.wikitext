@@ -1,0 +1,66 @@
+{{FishInfobox
+|image          = Scalloped Hammerhead.png
+|rarity         = Exotic
+|sea            = First Sea
+|location       = [[Castaway Cliffs]]
+|sublocation    = 
+|sources        = Crab Cage, Fishing Rod
+|radar_location = 
+|prog_speed     = -90
+|xp             = 8000
+|weather        = Clear
+|time           = Day
+|season         = Summer
+|bait           = Fish Head
+|base_weight    = 13000
+|base_value     = 15000
+|weight_range   = 9500
+|base_chance    = 1
+|base_resil     = 5
+}}
+'''Scalloped Hammerhead''' is an {{Rarity|Exotic}} fish found in [[Castaway Cliffs]].
+
+== Description ==
+{{Description|A majestic predator patrolling the open seas.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Lurks in waters favored by pirates.|Bestiary Hint}}
+{{Fish Availability|
+Castaway Cliffs
+|top_rods      = 
+Great Rod of Oscar\67078.28\209374.76;
+Astralhook Rod\61541.61\213209.28;
+Challenger's Rod\57543.72\218918.19;
+Tempest Rod\57383.62\213681.94;
+Seraphic Rod\55064.21\198683.13;
+Destiny Rod\31938.86\102367.99;
+Heaven's Rod\33939.77\111374.9;
+Fang of the Eclipse\54101.01\228059.24;
+Treasure Rod\36816.03\134302.21;
+Rod Of The Depths\28680.58\104624.67;
+Rod Of The Forgotten Fang\42397.44\151780.81;
+Ethereal Prism Rod\52772.35\179333.69;
+Free Spirit Rod\43076.39\153278.64;
+No-Life Rod\43005.48\165409.48;
+Rod Of The Exalted One\32291.52\112252.33;
+Blazebringer Rod\30950.74\123140.09;
+Depthseeker Rod\29647.09\123715.13;
+Trident Rod\26682.39\94943.9;
+Zeus Rod\25479.59\101372.68;
+Avalanche Rod\21610.55\90626.58;
+Volcanic Rod\20446.59\81348.45;
+Steady Rod\7119.87\32577.91
+|recommended   = Challenger's Rod
+}}
+
+== Catch Quips ==
+When catching a Scalloped Hammerhead, the player has a chance to make one of the following exclamations:
+* A SCALLOPED HAMMERHEAD!
+* RULER OF THE OCEAN!
+* FEARSOME AND MIGHTY!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Castaway Cliffs}}

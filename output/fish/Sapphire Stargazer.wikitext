@@ -38,7 +38,7 @@ Fischer's Rod\360026.6\377681.77;
 Trident Rod\388407.29\255112.52;
 No-Life Rod\357416.67\296945.74;
 Blazebringer Rod\340096.45\268966.19;
-Challenger's Rod\338076.47\270542.92;
+Challenger's Rod\337449.25\293931.45;
 Astralhook Rod\336900.5\354787.12;
 Seraphic Rod\336240.95\295574.36;
 Rod Of The Forgotten Fang\333231.36\269900.95;

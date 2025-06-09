@@ -1,0 +1,63 @@
+{{FishInfobox
+|image          = Tilefish.png
+|rarity         = Exotic
+|sea            = Second Sea
+|location       = [[Gilded Arch]]
+|sublocation    = 
+|sources        = Crab Cage, Fishing Rod
+|radar_location = 
+|prog_speed     = -90
+|xp             = 8000
+|weather        = Clear
+|time           = Day
+|season         = Summer
+|bait           = Sapphire Krill
+|base_weight    = 13000
+|base_value     = 15000
+|weight_range   = 9500
+|base_chance    = 1
+|base_resil     = 5
+}}
+'''Tilefish''' is an {{Rarity|Exotic}} fish found in [[Gilded Arch]].
+
+== Description ==
+{{Description|A deep-dwelling monarch ruling sunlit ocean floors.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Lurks in waters favored by pirates.|Bestiary Hint}}
+{{Fish Availability|
+Gilded Arch
+|top_rods      = 
+Great Rod of Oscar\35731.37\151079.02;
+Astralhook Rod\32936.6\149477.02;
+Fang of the Eclipse\29777\154531.62;
+Azure Of Lagoon\24112.5\123862.36;
+Free Spirit Rod\22949.62\110665.14;
+Kraken Rod\10030.11\52533.07;
+Blazebringer Rod\16913.65\88510.33;
+Challenger's Rod\16192.92\82252.51;
+Seraphic Rod\14653.49\75726.2;
+Ethereal Prism Rod\12985.26\67477.39;
+No-Life Rod\11429.94\57931.4;
+Rod Of The Forgotten Fang\10802.4\55706.25;
+Depthseeker Rod\9191.79\45862.92;
+Rod Of The Exalted One\9107.91\47464.87;
+Rod Of The Depths\8042.41\41208.14;
+Avalanche Rod\7635.42\38062.6;
+Volcanic Rod\7201.37\36257.33;
+Steady Rod\6920.66\34118.84;
+Zeus Rod\6500.78\32730.04
+|recommended   = Astralhook Rod
+}}
+
+== Catch Quips ==
+When catching a Tilefish, the player has a chance to make one of the following exclamations:
+* A TILEFISH!
+* KING OF THE DEPTHS!
+* MAJESTIC RULER!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Gilded Arch}}

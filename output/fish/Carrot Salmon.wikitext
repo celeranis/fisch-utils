@@ -45,7 +45,7 @@ Trident Rod\117938.57\207218.54;
 No-Life Rod\92497.92\176782.86;
 Ethereal Prism Rod\87295.6\184109.66;
 Seraphic Rod\85472.03\174834.4;
-Challenger's Rod\81914.28\168059.01;
+Challenger's Rod\83448.85\174030.26;
 Rod Of The Forgotten Fang\81557.93\167145.65;
 Rod Of The Exalted One\81513.95\166031.22;
 Depthseeker Rod\81248.46\167621.19;

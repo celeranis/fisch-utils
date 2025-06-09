@@ -94,7 +94,7 @@ Free Spirit Rod\203144.18\288204.39;
 Trident Rod\193761.92\243673;
 No-Life Rod\191349.51\295080.7;
 Blazebringer Rod\182388.74\278387.39;
-Challenger's Rod\182218.36\281092.77;
+Challenger's Rod\181943.31\284733.57;
 Zeus Rod\181528.51\263115.24;
 Verdant Shear Rod\180990.88\261934.36;
 Astralhook Rod\179464.41\298304.95;

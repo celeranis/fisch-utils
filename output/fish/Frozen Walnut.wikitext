@@ -42,7 +42,7 @@ Stone Rod\27373.78\88602.92;
 Seraphic Rod\71621.17\174078.76;
 Ethereal Prism Rod\71117.54\169046.29;
 Astralhook Rod\70747.31\170245.27;
-Challenger's Rod\66513.5\175186.12;
+Challenger's Rod\69675.71\174000.62;
 Rod Of The Forgotten Fang\66469.63\167934.75;
 Blazebringer Rod\63560.55\167481.35;
 Rod Of The Depths\59692.78\148707.11;

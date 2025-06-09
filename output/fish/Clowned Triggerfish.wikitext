@@ -1,0 +1,68 @@
+{{FishInfobox
+|image          = Clowned Triggerfish.png
+|rarity         = Common
+|sea            = First Sea
+|location       = [[Castaway Cliffs]]
+|sublocation    = 
+|sources        = Crab Cage, Fishing Rod
+|radar_location = 
+|xp             = 100
+|weather        = Clear
+|time           = Day
+|season         = Summer
+|bait           = Gale Grub
+|base_weight    = 5.5
+|base_value     = 200
+|weight_range   = 4.1
+|base_chance    = 100
+|base_resil     = 100
+}}
+'''Clowned Triggerfish''' is a {{Rarity|Common}} fish found in [[Castaway Cliffs]].
+
+== Description ==
+{{Description|A colorful fish with vibrant patterns, blending into coral shadows.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Lurks in waters favored by pirates.|Bestiary Hint}}
+{{Fish Availability|
+Castaway Cliffs
+|top_rods      = 
+Leviathan's Fang Rod\615006.56\0;
+Free Spirit Rod\614982.51\48500.31;
+Trident Rod\588608.11\38622.88;
+Azure Of Lagoon\581730.2\54564.99;
+No-Life Rod\554008.44\55796.39;
+Buddy Bond Rod\472024.75\97402.2;
+Flimsy Rod\431075.16\136434.92;
+Magnet Rod\395696.73\115890.32;
+Nocturnal Rod\218419.34\200395.24;
+Frog Rod\517460.2\64697.62;
+Challenger's Rod\543733.9\55267.83;
+Seraphic Rod\543220.92\55576.74;
+Ethereal Prism Rod\534973.03\0;
+Astralhook Rod\532853.8\0;
+Rod Of The Forgotten Fang\524197.25\50749.38;
+Blazebringer Rod\520362.84\51754.2;
+Rod Of The Exalted One\517222.02\0;
+Rod Of The Depths\516635.14\46233.89;
+Verdant Shear Rod\516330.25\55943.52;
+Zeus Rod\497694.11\48648.43;
+Depthseeker Rod\471369.91\43388.61;
+Volcanic Rod\468685.43\42904.73;
+Avalanche Rod\466726.82\39700.72;
+Training Rod\431237.07\41317.52;
+Steady Rod\250741.04\24161.35
+|recommended   = Trident Rod
+}}
+
+== Catch Quips ==
+When catching a Clowned Triggerfish, the player has a chance to make one of the following exclamations:
+* A Clowned Triggerfish!
+* Such bright colors!
+* Coral's best friend!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Castaway Cliffs}}

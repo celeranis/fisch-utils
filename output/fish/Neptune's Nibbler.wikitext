@@ -37,7 +37,7 @@ Training Rod\131892.17\20119.08;
 Long Rod\139709.42\16587.83;
 Nocturnal Rod\94106.84\76749.35;
 Fast Rod\149427.06\19759.11;
-Challenger's Rod\157314.03\17916.56;
+Challenger's Rod\157871.08\19465.46;
 Seraphic Rod\156919.01\19574.26;
 Blazebringer Rod\156799.88\17810.28;
 Rod Of The Forgotten Fang\154829.02\17874.05;

@@ -1,0 +1,71 @@
+{{FishInfobox
+|image          = Islandhopper Butterflyfish.png
+|rarity         = Uncommon
+|sea            = Second Sea
+|location       = [[Gilded Arch]]
+|sublocation    = 
+|sources        = Crab Cage, Fishing Rod
+|radar_location = 
+|xp             = 150
+|weather        = Clear
+|time           = Day
+|season         = Spring
+|bait           = Flakes
+|base_weight    = 8.7
+|base_value     = 300
+|weight_range   = 5.8
+|base_chance    = 80
+|base_resil     = 70
+}}
+'''Islandhopper Butterflyfish''' is an {{Rarity|Uncommon}} fish found in [[Gilded Arch]].
+
+== Description ==
+{{Description|A delicate flitter dancing across tropical tides.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Lurks in waters favored by pirates.|Bestiary Hint}}
+{{Fish Availability|
+Gilded Arch
+|top_rods      = 
+Free Spirit Rod\121391.2\30756.9;
+Azure Of Lagoon\120316.93\25686.4;
+Training Rod\115919.28\NaN;
+Trident Rod\112311.88\23239.32;
+Leviathan's Fang Rod\111844.42\22576.27;
+Flimsy Rod\105166.97\27672.63;
+Lucky Rod\86977.87\21982.51;
+Great Dreamer Rod\97082.28\30014.25;
+Firefly Rod\106743.97\24614.59;
+Carrot Rod\99071.93\24465.68;
+Friendly Rod\103039.91\24359.87;
+Fischer's Rod\78475.61\17899.76;
+Fast Rod\77908.76\17770.47;
+Astralhook Rod\107722.91\0;
+Blazebringer Rod\105791.61\23744.09;
+Verdant Shear Rod\105681\24036.56;
+No-Life Rod\94510.75\18625.25;
+Seraphic Rod\89633.22\17041.17;
+Ethereal Prism Rod\89610.73\17761.75;
+Challenger's Rod\88539.16\17264.9;
+Depthseeker Rod\86280.84\18653.57;
+Rod Of The Forgotten Fang\85856\16132.96;
+Rod Of The Exalted One\85654.04\17198.43;
+Avalanche Rod\85529.36\18638.18;
+Volcanic Rod\84834.59\17332.87;
+Rod Of The Depths\84585.82\15927.92;
+Zeus Rod\84479.39\17260.3;
+Steady Rod\69747.42\15867.2
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching an Islandhopper Butterflyfish, the player has a chance to make one of the following exclamations:
+* A Islandhopper Butterflyfish!
+* Flutters through waves!
+* Tropical dancer!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Gilded Arch}}

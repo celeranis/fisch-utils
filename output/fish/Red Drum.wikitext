@@ -34,7 +34,7 @@ No-Life Rod\40211.97\40211.97;
 Seraphic Rod\39661.03\39661.03;
 Training Rod\36192.45\49946.44;
 Fortune Rod\23430.62\40937.91;
-Challenger's Rod\36303.88\36303.88;
+Challenger's Rod\39349.78\39349.78;
 Rod Of The Forgotten Fang\36171.77\36171.77;
 Blazebringer Rod\35929.39\35929.39;
 Free Spirit Rod\35785.13\35785.13;

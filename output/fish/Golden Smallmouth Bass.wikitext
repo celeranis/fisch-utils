@@ -41,7 +41,7 @@ Azure Of Lagoon\24907.89\135837.02;
 Flimsy Rod\11159.27\129220.5;
 No-Life Rod\25455.47\133609.81;
 Rod Of The Forgotten Fang\24663.26\125167.07;
-Challenger's Rod\23329.96\124507.18;
+Challenger's Rod\24520.78\127681.27;
 Blazebringer Rod\22279.21\122034.63;
 Rod Of The Exalted One\22161.08\118440.48;
 Rod Of The Depths\21994.06\115868.35;

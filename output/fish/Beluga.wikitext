@@ -31,9 +31,9 @@ Narwhal Hunt/Beluga/Second Sea
 |top_rods      = 
 Great Rod of Oscar\15489.06\80550.31;
 Astralhook Rod\13968.74\77326.29;
+Challenger's Rod\13831.04\83618.54;
 Fang of the Eclipse\13683.53\84081.87;
 Tempest Rod\13416.4\80220.04;
-Challenger's Rod\13191.63\79752.85;
 Resourceful Rod\2397.82\13942.98;
 Destiny Rod\233.77\1242.86;
 Verdant Shear Rod\-16.44\-226.75;

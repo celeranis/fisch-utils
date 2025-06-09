@@ -30,9 +30,9 @@ Fischmas/Winter Village
 |top_rods      = 
 Great Rod of Oscar\3726.28\12232.06;
 Astralhook Rod\3445.39\12660.99;
+Challenger's Rod\3269.17\12812.4;
 Tempest Rod\3229.9\12479.12;
 Fang of the Eclipse\3141.43\13643.62;
-Challenger's Rod\3116.84\12660.57;
 Destiny Rod\1872.83\6219.1;
 Heaven's Rod\1934.73\6581.63;
 Relic Rod\1595.96\6123.38;

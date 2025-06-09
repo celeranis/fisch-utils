@@ -1,0 +1,70 @@
+{{FishInfobox
+|image          = Hidden Pipefish.png
+|rarity         = Legendary
+|sea            = First Sea
+|location       = [[Castaway Cliffs]]
+|sublocation    = 
+|sources        = Crab Cage, Fishing Rod
+|radar_location = 
+|prog_speed     = -50
+|xp             = 2000
+|weather        = Foggy
+|time           = Night
+|season         = Winter
+|bait           = Seaweed
+|base_weight    = 4
+|base_value     = 5000
+|weight_range   = 3
+|base_chance    = 7
+|base_resil     = 15
+}}
+'''Hidden Pipefish''' is a {{Rarity|Legendary}} fish found in [[Castaway Cliffs]].
+
+== Description ==
+{{Description|A slender enigma weaving through coral mazes.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Lurks in waters favored by pirates.|Bestiary Hint}}
+{{Fish Availability|
+Castaway Cliffs
+|top_rods      = 
+Leviathan's Fang Rod\148763.72\300913.75;
+Free Spirit Rod\123093.69\308604.72;
+Great Rod of Oscar\119895.44\187926.79;
+Ethereal Prism Rod\114536.62\190516.67;
+Astralhook Rod\114452.07\189953.28;
+Plastic Rod\83073.91\202134.14;
+Magma Rod\99366.45\165311.24;
+Buddy Bond Rod\67437.81\129654.48;
+Adventurer's Rod\86053.96\292412.68;
+Trident Rod\104080.44\278846.2;
+Firefly Rod\94443.69\243259.35;
+Training Rod\40811.4\146127.26;
+Flimsy Rod\47286.57\181948.49;
+Seraphic Rod\111938.91\194886.33;
+No-Life Rod\109773\202995.57;
+Challenger's Rod\104845.7\190633.97;
+Rod Of The Forgotten Fang\102992.79\185985.66;
+Blazebringer Rod\92584.47\176296.2;
+Rod Of The Depths\90934.78\160690.12;
+Verdant Shear Rod\90661.35\228264.83;
+Rod Of The Exalted One\89779.07\155883.17;
+Zeus Rod\86496.56\164661.1;
+Depthseeker Rod\78460.25\158455.81;
+Avalanche Rod\69643.5\139127.34;
+Volcanic Rod\67521.64\130166.88;
+Steady Rod\21744.91\46902.59
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching a Hidden Pipefish, the player has a chance to make one of the following exclamations:
+* A HIDDEN PIPEFISH!
+* SLIPPING THROUGH SHADOWS!
+* IT WAS HIDING!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Castaway Cliffs}}

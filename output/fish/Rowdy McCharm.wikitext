@@ -31,15 +31,15 @@ Lucky Event/Rowdy McCharm
 Great Rod of Oscar\14074.75\39970.05;
 Astralhook Rod\13133.67\39634.36;
 Seraphic Rod\12439.32\39251.76;
+Challenger's Rod\12375.66\40674.15;
 Tempest Rod\12356.74\40180.71;
-Ethereal Prism Rod\12308.65\37300.86;
 Resourceful Rod\8598.38\25232.25;
 Destiny Rod\8470.47\24577.66;
 Fang of the Eclipse\11822.44\40844.15;
 Fischer's Rod\4067.91\17343.56;
 Plastic Rod\4080.21\17248.52;
 Adventurer's Rod\6492.85\26001.41;
-Challenger's Rod\11839.87\38913.19;
+Ethereal Prism Rod\12308.65\37300.86;
 No-Life Rod\11091.73\36654.46;
 Free Spirit Rod\11004.47\34724.14;
 Rod Of The Forgotten Fang\10424.94\33054.36;

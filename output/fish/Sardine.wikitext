@@ -77,7 +77,7 @@ Azure Of Lagoon\144122.9\28579.63;
 Fast Rod\138167.48\28557.47;
 No-Life Rod\135916.88\26935.46;
 Seraphic Rod\130017.28\23598.89;
-Challenger's Rod\129131.27\27479.58;
+Challenger's Rod\129294.6\27399.15;
 Zeus Rod\126537.04\26927.52;
 Rod Of The Forgotten Fang\125958.15\21350.32;
 Astralhook Rod\125868.66\0;

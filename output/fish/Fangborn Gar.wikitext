@@ -36,7 +36,7 @@ Fortune Rod\80727.69\134233.35;
 Kraken Rod\116320.89\140967.21;
 Free Spirit Rod\141235.39\130601.67;
 Seraphic Rod\140814.24\140814.24;
-Challenger's Rod\128777.91\128777.91;
+Challenger's Rod\139453.21\139453.21;
 Rod Of The Forgotten Fang\128196.05\128196.05;
 Blazebringer Rod\127091.34\127091.34;
 Depthseeker Rod\126408.83\109478.95;

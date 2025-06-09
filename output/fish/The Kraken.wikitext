@@ -27,15 +27,14 @@
 == Obtainment ==
 {{Description|When all other creatures flee, the master approaches, Kraken Pool.|Bestiary Hint}}
 {{Fish Availability|
-Atlantis/Ancient Kraken Hunt
 Atlantis/Kraken Hunt
 |top_rods      = 
 Fang of the Eclipse\86021.82\125849.25;
+Challenger's Rod\84926.94\123742.19;
 Tempest Rod\83811.6\118212.14;
 Astralhook Rod\82886.41\117797.46;
 Great Rod of Oscar\82380.38\113019.14;
-Challenger's Rod\82043.4\119992.42;
-Midas Rod\16078.9\22576.26;
+Midas Rod\0\0;
 Phoenix Rod\46039.05\64630.67;
 Azure Of Lagoon\79021.68\116415.51;
 Celestial Rod\57714.47\81348.55;

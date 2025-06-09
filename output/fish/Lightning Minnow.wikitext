@@ -39,7 +39,7 @@ No-Life Rod\200165.17\20111.25;
 Seraphic Rod\178000.03\19955.93;
 Verdant Shear Rod\185393.59\19349.46;
 Blazebringer Rod\184997.6\18124.86;
-Challenger's Rod\184473.74\18279.77;
+Challenger's Rod\183860.35\19824.18;
 Zeus Rod\183772.69\17602.49;
 Depthseeker Rod\183281.66\17478.91;
 Avalanche Rod\180821.02\15530.5;

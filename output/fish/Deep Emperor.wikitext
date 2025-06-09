@@ -41,7 +41,7 @@ Buddy Bond Rod\24806.37\61745.92;
 Seraphic Rod\49467.46\103348.61;
 Astralhook Rod\49015.12\101839.57;
 Ethereal Prism Rod\48998.88\100075.46;
-Challenger's Rod\46906.91\104097.33;
+Challenger's Rod\48608.12\103553.01;
 Rod Of The Forgotten Fang\45743.99\98628.62;
 Blazebringer Rod\43930.54\97054.57;
 Verdant Shear Rod\41254.31\92954.7;

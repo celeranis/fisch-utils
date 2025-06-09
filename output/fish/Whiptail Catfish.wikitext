@@ -42,7 +42,7 @@ No-Life Rod\55387.07\479827.35;
 Rod Of The Forgotten Fang\53659.53\447385.36;
 Rod Of The Zenith\52191.07\425677.68;
 Great Dreamer Rod\52118.9\431246.54;
-Challenger's Rod\50530.85\440927;
+Challenger's Rod\53080.43\441322.11;
 Rod Of The Exalted One\48068.32\423358.8;
 Blazebringer Rod\47853.28\435875.58;
 Rod Of The Depths\47840.81\398319.07;

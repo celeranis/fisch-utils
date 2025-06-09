@@ -1,0 +1,70 @@
+{{FishInfobox
+|image          = Great Barracuda.png
+|rarity         = Mythical
+|sea            = Second Sea
+|location       = [[Gilded Arch]]
+|sublocation    = 
+|sources        = Crab Cage, Fishing Rod
+|radar_location = 
+|prog_speed     = -70
+|xp             = 4000
+|weather        = Foggy
+|time           = Night
+|season         = Winter
+|bait           = Truffle Worm
+|base_weight    = 500
+|base_value     = 7000
+|weight_range   = 350
+|base_chance    = 4
+|base_resil     = 10
+}}
+'''Great Barracuda''' is a {{Rarity|Mythical}} fish found in [[Gilded Arch]].
+
+== Description ==
+{{Description|A fierce hunter streaking through shadowed waters.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Lurks in waters favored by pirates.|Bestiary Hint}}
+{{Fish Availability|
+Gilded Arch
+|top_rods      = 
+Great Rod of Oscar\49844.46\136849.52;
+Free Spirit Rod\49646.55\157523.72;
+Astralhook Rod\47473.62\138051.33;
+Azure Of Lagoon\44243.73\142491.1;
+Fang of the Eclipse\40947.14\132242.14;
+Resourceful Rod\29372.54\112467.78;
+Magma Rod\19574.16\70721.11;
+Firefly Rod\39378.41\159615.67;
+Wildflower Rod\37221.77\157374.88;
+Frog Rod\35933.35\155608.28;
+Fortune Rod\21763.73\94247.17;
+Blazebringer Rod\37213.91\121566.13;
+Verdant Shear Rod\35578.44\134562.4;
+Trident Rod\27603\104398.22;
+Seraphic Rod\24043.3\77199.01;
+Ethereal Prism Rod\23820.46\77440.82;
+Challenger's Rod\23259.73\72904.1;
+No-Life Rod\23035.43\71976.6;
+Rod Of The Forgotten Fang\21751.36\69634.94;
+Rod Of The Exalted One\21331.59\69289.19;
+Rod Of The Depths\20468.78\64945.46;
+Depthseeker Rod\20202.58\61720.3;
+Volcanic Rod\19633.12\60766.43;
+Avalanche Rod\19560.39\59679.19;
+Zeus Rod\19329.91\59827.95;
+Steady Rod\18726.57\56097.37
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Great Barracuda, the player has a chance to make one of the following exclamations:
+* A GREAT BARRACUDA!
+* STALKER OF THE DEEP!
+* SWIFT AND DEADLY!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Gilded Arch}}

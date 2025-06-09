@@ -46,7 +46,7 @@ Blazebringer Rod\281942.14\203361.01;
 Zeus Rod\280207.71\190759.62;
 No-Life Rod\277071.74\224385.78;
 Volcanic Rod\273703.57\144886.36;
-Challenger's Rod\253600.68\204574.59;
+Challenger's Rod\252858.44\222260.14;
 Free Spirit Rod\241610.57\195044.52;
 Trident Rod\231906.23\156226.97;
 Seraphic Rod\223502.45\223502.45;

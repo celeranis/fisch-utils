@@ -1,0 +1,43 @@
+{{FishInfobox
+|image          = Baby Bloop Fish.png
+|rarity         = Secret
+|sea            = First Sea
+|location       = [[Regionless]]
+|sublocation    = 
+|sources        = Fishing Rod
+|nopassive      = 1
+|radar_location = 
+|prog_speed     = -90
+|xp             = 80000
+|weather        = 
+|time           = Night
+|season         = Autumn
+|bait           = Luminous Larva
+|base_weight    = 200
+|base_value     = 100000
+|weight_range   = 150
+|base_chance    = 1
+|base_resil     = 20
+}}
+'''Baby Bloop Fish''' is a {{Rarity|Secret}} fish found in [[Regionless]].
+
+== Description ==
+{{Description|Potentially cute, likely dangerous!|Bestiary Entry}}
+
+== Obtainment ==
+
+== Gameplay Notes ==
+* Baby Bloop Fish usually cannot be caught with passive effects, such as the one provided by the [[Rod Of The Depths]] and [[Rod Of The Forgotten Fang]].
+** The only exception is when catching a Baby Bloop Fish on the Megalodon Passive reel of the [[Rod Of The Forgotten Fang]], the Megalodon will instead dupe the Baby Bloop Fish.
+
+== Catch Quips ==
+When catching a Baby Bloop Fish, the player has a chance to make one of the following exclamations:
+* A BABY BLOOP FISH!?!?!
+* BLOOP!
+* CUTE!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Regionless}}

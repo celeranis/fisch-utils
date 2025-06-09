@@ -31,9 +31,9 @@ Mariana's Veil/Abyssal Zenith
 |top_rods      = 
 Great Rod of Oscar\10819.36\41812.56;
 Astralhook Rod\9298.52\40280.74;
+Challenger's Rod\8653.29\43118.61;
 Tempest Rod\8449.93\41368.98;
 Fang of the Eclipse\8355.07\44303.37;
-Challenger's Rod\8244.53\41081.81;
 Destiny Rod\462.79\1860.17;
 Heaven's Rod\2351.66\9781.44;
 Treasure Rod\3584.31\17248.73;

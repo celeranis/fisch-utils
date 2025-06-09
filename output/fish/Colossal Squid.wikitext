@@ -57,7 +57,7 @@ Rapid Rod\17641.19\92628.27;
 North-Star Rod\9796.3\48360.74;
 Seraphic Rod\22030.71\88198.68;
 No-Life Rod\21049.42\89884.59;
-Challenger's Rod\19776.96\85570.21;
+Challenger's Rod\20653.58\87499.27;
 Rod Of The Forgotten Fang\19707.27\79402.08;
 Blazebringer Rod\17692.21\75686.1;
 Rod Of The Exalted One\17023.93\66487.07;

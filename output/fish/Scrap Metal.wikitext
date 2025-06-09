@@ -36,7 +36,7 @@ Training Rod\173201.13\28410.47;
 Fortune Rod\115318.58\9692.66;
 Nocturnal Rod\28595.59\25711.89;
 Seraphic Rod\181245.67\7546.8;
-Challenger's Rod\165896.43\6907.68;
+Challenger's Rod\180238.24\7504.85;
 Rod Of The Forgotten Fang\165502.78\6891.29;
 Blazebringer Rod\164912.3\6866.71;
 Free Spirit Rod\158168.18\6585.89;

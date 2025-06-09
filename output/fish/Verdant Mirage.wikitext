@@ -41,7 +41,7 @@ Astral Rod\180.15\2548.64;
 Magma Rod\218.66\3134.13;
 Blazebringer Rod\547.36\5144.81;
 Verdant Shear Rod\493.48\4768.75;
-Challenger's Rod\450.24\4525.95;
+Challenger's Rod\468.98\4714.29;
 Seraphic Rod\441.97\4271;
 Ethereal Prism Rod\404.26\3749.46;
 Trident Rod\363.08\3508.63;

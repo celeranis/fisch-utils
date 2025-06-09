@@ -43,7 +43,7 @@ Avalanche Rod\202000.93\137805.48;
 Trident Rod\198819.04\126529.53;
 Blazebringer Rod\191140.84\161079;
 Zeus Rod\189728.47\151158.18;
-Challenger's Rod\187060.01\162521.08;
+Challenger's Rod\185964.57\176232.38;
 Volcanic Rod\185228.27\114715.69;
 Astralhook Rod\183039.07\143533.75;
 Seraphic Rod\177452.38\177452.38;

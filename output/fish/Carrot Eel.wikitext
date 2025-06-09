@@ -41,7 +41,7 @@ No-Life Rod\124740.88\114039.58;
 Free Spirit Rod\124545.9\120443.28;
 Blazebringer Rod\123545.92\123545.92;
 Seraphic Rod\117522.1\104214.57;
-Challenger's Rod\114066.83\103902.38;
+Challenger's Rod\116531.04\106147;
 Depthseeker Rod\113708.05\107562.46;
 Rod Of The Forgotten Fang\112992.29\100492.13;
 Avalanche Rod\112819.78\106976.1;

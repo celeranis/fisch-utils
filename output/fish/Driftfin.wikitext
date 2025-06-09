@@ -39,7 +39,7 @@ Great Dreamer Rod\113249.67\119916.75;
 No-Life Rod\120993.97\102504.85;
 Blazebringer Rod\114874.76\114874.76;
 Verdant Shear Rod\108086.92\108086.92;
-Challenger's Rod\101900.32\85785.5;
+Challenger's Rod\103039\86744.11;
 Depthseeker Rod\100460.17\90063.29;
 Avalanche Rod\97015.56\87200.77;
 Volcanic Rod\96227.63\83138.87;

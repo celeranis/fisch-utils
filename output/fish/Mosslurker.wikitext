@@ -36,8 +36,8 @@ Heaven's Rod\10400.59\37559.96;
 No-Life Rod\14542.94\56009.06;
 Seraphic Rod\14113.85\45529.2;
 Friendly Rod\12784.84\42970.62;
+Challenger's Rod\13306.31\43779.11;
 Rod Of The Forgotten Fang\13115.41\42515.16;
-Challenger's Rod\12728.78\43000.41;
 Zeus Rod\11410.84\38491.8;
 Steady Rod\2966.48\11901.96
 |recommended   = Ethereal Prism Rod

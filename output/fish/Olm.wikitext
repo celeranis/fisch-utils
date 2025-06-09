@@ -43,7 +43,7 @@ Training Rod\13939.63\157575.88;
 Flimsy Rod\14530.33\151622.05;
 Tempest Rod\32980.5\235627.57;
 Rod Of The Forgotten Fang\32731.37\224537.14;
-Challenger's Rod\30865.98\223718.34;
+Challenger's Rod\32495.46\225418.48;
 Blazebringer Rod\29508.31\222114.34;
 Rod Of The Exalted One\29495.66\220197.07;
 Rod Of The Depths\29223.46\219978.34;

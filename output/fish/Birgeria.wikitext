@@ -36,7 +36,7 @@ Plastic Rod\182951.08\59542.59;
 Nocturnal Rod\81607.2\48173.58;
 No-Life Rod\171740.01\55933.84;
 Seraphic Rod\157152.06\55091.36;
-Challenger's Rod\156791.7\50957.41;
+Challenger's Rod\156913.65\53558.42;
 Depthseeker Rod\156589\42861.91;
 Blazebringer Rod\155549.16\49855.08;
 Rod Of The Forgotten Fang\154769.95\51719.5;

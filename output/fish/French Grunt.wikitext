@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = French Grunt.png
+|rarity         = Common
+|sea            = Second Sea
+|location       = [[Gilded Arch]]
+|sublocation    = 
+|sources        = Crab Cage, Fishing Rod
+|radar_location = 
+|xp             = 50
+|weather        = Clear
+|time           = Day
+|season         = Summer
+|bait           = Gale Grub
+|base_weight    = 9.5
+|base_value     = 100
+|weight_range   = 6.3
+|base_chance    = 120
+|base_resil     = 115
+}}
+'''French Grunt''' is a {{Rarity|Common}} fish found in [[Gilded Arch]].
+
+== Description ==
+{{Description|A striped wanderer patrolling warm, shallow reefs.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Lurks in waters favored by pirates.|Bestiary Hint}}
+{{Fish Availability|
+Gilded Arch
+|top_rods      = 
+Magma Rod\343822.59\66356.96;
+Plastic Rod\342297.86\70619.55;
+Krampus's Rod\325637\59881.84;
+Fischer's Rod\254662.1\90035.29;
+Fast Rod\254215.41\89877.36;
+Magnet Rod\187708.18\102281.29;
+Free Spirit Rod\193868.08\0;
+Astralhook Rod\179587.76\0;
+Blazebringer Rod\171022.7\35707.45;
+Training Rod\168797.83\NaN;
+Verdant Shear Rod\162796.44\35181.79;
+Steady Rod\161638.42\24266.62;
+Trident Rod\153690.24\31801.24;
+No-Life Rod\138837.18\27360.67;
+Ethereal Prism Rod\136244.29\27004.99;
+Seraphic Rod\135815.67\25821.43;
+Challenger's Rod\135000.3\26324.7;
+Depthseeker Rod\131987.29\28535.11;
+Avalanche Rod\131571.19\28671.42;
+Rod Of The Exalted One\131359.62\26375.63;
+Rod Of The Forgotten Fang\131027.5\24621;
+Volcanic Rod\130607.69\26684.95;
+Zeus Rod\130231.84\26608.16;
+Rod Of The Depths\130119.71\24502.17
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a French Grunt, the player has a chance to make one of the following exclamations:
+* A French Grunt!
+* Stripes on patrol!
+* Reef's loyal guard!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Gilded Arch}}

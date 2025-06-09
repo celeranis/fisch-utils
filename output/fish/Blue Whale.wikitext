@@ -32,7 +32,7 @@ Whale Migration/Normal
 |top_rods      = 
 Great Rod of Oscar\17730.15\29733.86;
 Astralhook Rod\16445.15\28900.8;
-Challenger's Rod\15036.19\28176.57;
+Challenger's Rod\15794.32\29597.23;
 Seraphic Rod\14966.8\27206.94;
 Ethereal Prism Rod\14305.4\25221;
 Heaven's Rod\9345.23\16171.11;

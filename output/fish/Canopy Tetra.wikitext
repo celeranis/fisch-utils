@@ -47,7 +47,7 @@ Verdant Shear Rod\166673.44\16399.33;
 No-Life Rod\155630.14\14676.23;
 Seraphic Rod\144756.06\13022.46;
 Ethereal Prism Rod\144738.39\13934.7;
-Challenger's Rod\140510.01\13178.7;
+Challenger's Rod\143347.86\13444.87;
 Depthseeker Rod\139753.89\13861.18;
 Rod Of The Forgotten Fang\138420.94\12508.58;
 Avalanche Rod\138031.32\13735.3;

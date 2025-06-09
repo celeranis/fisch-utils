@@ -1,0 +1,63 @@
+{{FishInfobox
+|image          = Black Grouper.png
+|rarity         = Secret
+|sea            = Second Sea
+|location       = [[Gilded Arch]]
+|sublocation    = 
+|sources        = Crab Cage, Fishing Rod
+|radar_location = 
+|prog_speed     = -95
+|xp             = 20000
+|weather        = Foggy
+|time           = Night
+|season         = Winter
+|bait           = Shark Head
+|base_weight    = 18000
+|base_value     = 50000
+|weight_range   = 13000
+|base_chance    = 1
+|base_resil     = 1
+}}
+'''Black Grouper''' is a {{Rarity|Secret}} fish found in [[Gilded Arch]].
+
+== Description ==
+{{Description|A shadowy behemoth lurking in wintry depths.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Lurks in waters favored by pirates.|Bestiary Hint}}
+{{Fish Availability|
+Gilded Arch
+|top_rods      = 
+Great Rod of Oscar\1546.52\5925.07;
+Astralhook Rod\1394.47\5717.47;
+Fang of the Eclipse\1336.31\6225.04;
+Challenger's Rod\708.89\3226.18;
+Tempest Rod\632.85\2893.87;
+Free Spirit Rod\248.47\1079.95;
+Kraken Rod\-0.04\-1.13;
+Seraphic Rod\425.16\1971.51;
+Ethereal Prism Rod\236.2\1103.02;
+No-Life Rod\92.53\420.11;
+Rod Of The Forgotten Fang\92.48\427.86;
+Depthseeker Rod\-0.02\-0.52;
+Blazebringer Rod\-0.11\-2.77;
+Rod Of The Exalted One\-0.28\-7.12;
+Avalanche Rod\-0.54\-13.72;
+Rod Of The Depths\-0.54\-13.72;
+Steady Rod\-0.66\-16.7;
+Volcanic Rod\-0.72\-18.11;
+Zeus Rod\-0.93\-23.54
+|recommended   = Astralhook Rod
+}}
+
+== Catch Quips ==
+When catching a Black Grouper, the player has a chance to make one of the following exclamations:
+* A BLACK GROUPER!
+* SHADOW OF THE SEA!
+* MYSTERIOUS GIANT!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Gilded Arch}}

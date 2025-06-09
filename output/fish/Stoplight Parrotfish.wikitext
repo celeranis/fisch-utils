@@ -1,0 +1,70 @@
+{{FishInfobox
+|image          = Stoplight Parrotfish.png
+|rarity         = Unusual
+|sea            = Second Sea
+|location       = [[Gilded Arch]]
+|sublocation    = 
+|sources        = Crab Cage, Fishing Rod
+|radar_location = 
+|xp             = 400
+|weather        = Clear
+|time           = Day
+|season         = Summer
+|bait           = Squid
+|base_weight    = 9
+|base_value     = 800
+|weight_range   = 6
+|base_chance    = 55
+|base_resil     = 55
+}}
+'''Stoplight Parrotfish''' is an {{Rarity|Unusual}} fish found in [[Gilded Arch]].
+
+== Description ==
+{{Description|A radiant chewer crunching through coral clusters.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Lurks in waters favored by pirates.|Bestiary Hint}}
+{{Fish Availability|
+Gilded Arch
+|top_rods      = 
+Training Rod\88264.78\NaN;
+Trident Rod\82858.63\17144.92;
+Astralhook Rod\82247.5\0;
+Leviathan's Fang Rod\73554.13\10348.91;
+Firefly Rod\72973.42\16736.41;
+Flimsy Rod\66931.96\18389.2;
+Great Dreamer Rod\63797.68\20573.63;
+Azure Of Lagoon\69946.11\17659.4;
+Carrot Rod\66438.8\16773.9;
+Friendly Rod\66269.18\16731.08;
+Fischer's Rod\47336.15\11977.4;
+Fast Rod\46675.25\11810.18;
+Verdant Shear Rod\70214.43\15319.79;
+No-Life Rod\66020.25\13010.63;
+Free Spirit Rod\65147.2\21414.67;
+Blazebringer Rod\64449.81\16271.74;
+Seraphic Rod\61163.76\11628.52;
+Challenger's Rod\60117.32\11722.72;
+Depthseeker Rod\58482.24\12643.62;
+Rod Of The Forgotten Fang\58295.21\10954.09;
+Avalanche Rod\57633.2\12559.17;
+Volcanic Rod\57170.23\11680.66;
+Rod Of The Depths\56997.4\10732.88;
+Zeus Rod\56898.91\11625.23;
+Rod Of The Exalted One\53780.29\8914.98;
+Ethereal Prism Rod\52092.03\9366.3;
+Steady Rod\47132.44\10771.84
+|recommended   = Astralhook Rod
+}}
+
+== Catch Quips ==
+When catching a Stoplight Parrotfish, the player has a chance to make one of the following exclamations:
+* A Stoplight Parrotfish!
+* Chomps the reef!
+* Bright as a beacon!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Gilded Arch}}

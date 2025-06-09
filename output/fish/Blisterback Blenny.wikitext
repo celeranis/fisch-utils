@@ -34,7 +34,7 @@ Trident Rod\270073.54\341133.41;
 Azure Of Lagoon\241648.4\303701.41;
 No-Life Rod\213218.33\266559.62;
 Riptide Rod\160611.54\199007.07;
-Challenger's Rod\202090.25\256379.46;
+Challenger's Rod\204972.29\256635.84;
 Lobster Rod\170178.94\213023.86;
 Seraphic Rod\206974.84\255997.55;
 Astralhook Rod\203936.8\254353.05;

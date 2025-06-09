@@ -1,0 +1,67 @@
+{{FishInfobox
+|image          = Trevally.png
+|rarity         = Unusual
+|sea            = First Sea
+|location       = [[Castaway Cliffs]]
+|sublocation    = 
+|sources        = Crab Cage, Fishing Rod
+|radar_location = 
+|xp             = 300
+|weather        = Clear
+|time           = Day
+|season         = Summer
+|bait           = Minnow
+|base_weight    = 8
+|base_value     = 900
+|weight_range   = 6
+|base_chance    = 25
+|base_resil     = 50
+}}
+'''Trevally''' is an {{Rarity|Unusual}} fish found in [[Castaway Cliffs]].
+
+== Description ==
+{{Description|A swift fish cutting through open waters with ease.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Lurks in waters favored by pirates.|Bestiary Hint}}
+{{Fish Availability|
+Castaway Cliffs
+|top_rods      = 
+Krampus's Rod\391634.7\263527.52;
+Magma Rod\380353.27\252429.48;
+Plastic Rod\351255.62\250268.17;
+Fast Rod\250290.01\219997.43;
+Buddy Bond Rod\238403.24\158221.35;
+Fischer's Rod\228750.37\222797.37;
+Astralhook Rod\209543.42\122296.22;
+Ethereal Prism Rod\209188.27\122467.08;
+Free Spirit Rod\201878.24\136629.13;
+Trident Rod\201703.02\136510.54;
+Seraphic Rod\201129.78\121137.57;
+No-Life Rod\199240.63\123557.59;
+Challenger's Rod\190947.91\118027.29;
+Rod Of The Forgotten Fang\188203.89\113716.82;
+Blazebringer Rod\175599.33\109976.38;
+Verdant Shear Rod\171943.36\139509;
+Rod Of The Depths\169181.85\103218.41;
+Rod Of The Exalted One\166799.96\101003.24;
+Zeus Rod\165495.66\103648.54;
+Depthseeker Rod\149240.72\94708.45;
+Avalanche Rod\134642.04\85556.66;
+Volcanic Rod\128954.3\80762.99;
+Training Rod\107594\74908.19;
+Steady Rod\60891.3\27808.95
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching a Trevally, the player has a chance to make one of the following exclamations:
+* A Trevally!
+* Fast and fierce!
+* Master of the currents!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Castaway Cliffs}}

@@ -37,7 +37,7 @@ Flimsy Rod\91872.45\89645.54;
 Training Rod\117399.81\219323.75;
 Magnet Rod\75334.04\72521.26;
 Fortune Rod\70274.74\150788.93;
-Challenger's Rod\107932.55\107932.55;
+Challenger's Rod\117051.5\117051.5;
 Rod Of The Forgotten Fang\107604.52\107604.52;
 Blazebringer Rod\107017.86\107017.86;
 Depthseeker Rod\106741.76\91989.13;

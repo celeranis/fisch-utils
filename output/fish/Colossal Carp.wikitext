@@ -47,7 +47,7 @@ Zeus Rod\220839.14\29114.79;
 Trident Rod\218895.82\24116.27;
 Volcanic Rod\215672.89\22094.4;
 Seraphic Rod\211744.79\34132.98;
-Challenger's Rod\209805.42\31253.78;
+Challenger's Rod\210400.26\33916.25;
 Astralhook Rod\205363.18\0;
 Ethereal Prism Rod\204721.21\0;
 Rod Of The Forgotten Fang\193423.54\31179.62;

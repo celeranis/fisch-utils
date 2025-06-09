@@ -45,7 +45,7 @@ Training Rod\15567.35\116401.98;
 Long Rod\22035.74\118019.33;
 No-Life Rod\36823.67\160049.45;
 Rod Of The Forgotten Fang\35949.72\151909.48;
-Challenger's Rod\34050.72\153848.98;
+Challenger's Rod\35877.7\155611.85;
 Blazebringer Rod\32587.64\153453.36;
 Rod Of The Exalted One\32307.8\151113.63;
 Rod Of The Depths\32171.65\143719.63;

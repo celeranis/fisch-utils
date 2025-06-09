@@ -1,0 +1,72 @@
+{{FishInfobox
+|image          = Squirrelfish.png
+|rarity         = Common
+|sea            = Second Sea
+|location       = [[Gilded Arch]]
+|sublocation    = 
+|sources        = Crab Cage, Fishing Rod
+|radar_location = 
+|prog_speed     = +5
+|xp             = 40
+|weather        = Clear
+|time           = Night
+|season         = Summer
+|bait           = Bagel
+|base_weight    = 5
+|base_value     = 80
+|weight_range   = 3.2
+|base_chance    = 125
+|base_resil     = 120
+}}
+'''Squirrelfish''' is a {{Rarity|Common}} fish found in [[Gilded Arch]].
+
+== Description ==
+{{Description|A vivid nocturnal dweller illuminating coral crevices.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Lurks in waters favored by pirates.|Bestiary Hint}}
+{{Fish Availability|
+Gilded Arch
+|top_rods      = 
+Flimsy Rod\796122.45\539142.86;
+Training Rod\769340.46\NaN;
+Azure Of Lagoon\584333.78\401886.8;
+Astralhook Rod\564004.42\214109.16;
+Firefly Rod\559071.1\413405.82;
+Lucky Rod\360795.21\355498.24;
+Adventurer's Rod\509911.87\438156.39;
+Carrot Rod\544018.9\382999.18;
+Friendly Rod\540612.38\381135.44;
+Fischer's Rod\432447.74\290145.48;
+Fast Rod\431655.29\289613.8;
+Plastic Rod\432002.13\285984.32;
+Free Spirit Rod\555289.41\401252.72;
+Blazebringer Rod\528495.72\372360.32;
+Verdant Shear Rod\504691.44\382510.98;
+Trident Rod\394340.53\329955.96;
+Ethereal Prism Rod\357483.99\281841.17;
+No-Life Rod\355938.34\284975.36;
+Seraphic Rod\347231.43\269321.03;
+Challenger's Rod\346356.85\274720.43;
+Depthseeker Rod\342752.75\298008.99;
+Avalanche Rod\342104.25\299562.27;
+Rod Of The Exalted One\341260.01\275520.36;
+Volcanic Rod\337324.7\278865.7;
+Zeus Rod\336434.39\278129.67;
+Rod Of The Forgotten Fang\334853.51\257052.56;
+Rod Of The Depths\332863.8\256001.47;
+Steady Rod\299667.48\253504.06
+|recommended   = Astralhook Rod
+}}
+
+== Catch Quips ==
+When catching a Squirrelfish, the player has a chance to make one of the following exclamations:
+* A Squirrelfish!
+* A burst of color!
+* Reef's bright scout!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Gilded Arch}}

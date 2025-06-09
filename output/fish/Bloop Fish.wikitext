@@ -1,0 +1,62 @@
+{{FishInfobox
+|image          = Bloop Fish.png
+|rarity         = Apex
+|sea            = First Sea
+|location       = [[Regionless]]
+|sublocation    = 
+|sources        = Fishing Rod
+|nopassive      = 1
+|radar_location = 
+|xp             = 2200000
+|weather        = 
+|time           = Night
+|season         = Autumn
+|bait           = Luminous Larva
+|base_weight    = 240000
+|base_value     = 800000
+|weight_range   = 160000
+|base_chance    = 1
+|base_resil     = -40
+}}
+'''Bloop Fish''' is an {{Rarity|Apex}} fish found in [[Regionless]].
+
+== Description ==
+{{Description|A colossal, elusive deep-sea creature said to dwell in the lightless abyss of the ocean, surfacing only when the water is deathly still. Its presence heralded by a haunting, low-frequency sound that rattles sonar equipment and stirs ancient maritime fears.|Bestiary Entry}}
+
+== Obtainment ==
+{{Fish Availability|
+Bloop Fish
+|top_rods      = 
+Leviathan's Fang Rod\47372.42\258749;
+Azure Of Lagoon\34942.56\240071.78;
+No-Life Rod\31583.07\180238.44;
+Great Rod of Oscar\30987.51\133954.58;
+Ethereal Prism Rod\30317.03\148251.5;
+Heaven's Rod\21685.15\127532.68;
+Astralhook Rod\29442.52\142862.78;
+Seraphic Rod\28169.97\148237.2;
+Krampus's Rod\13108.4\91181.91;
+Steady Rod\5304.33\35114.44;
+Rod Of The Forgotten Fang\25722.48\136525.52;
+Challenger's Rod\25020.26\141440.38;
+Zeus Rod\20672.31\121466.45
+|recommended   = No-Life Rod
+}}
+
+== Gameplay Notes ==
+* Bloop Fish usually cannot be caught with passive effects, such as the one provided by the [[Rod Of The Depths]] and [[Rod Of The Forgotten Fang]].
+** The only exception is when catching a Bloop Fish on the Megalodon Passive reel of the [[Rod Of The Forgotten Fang]], the Megalodon will instead dupe the Bloop Fish.
+
+== Catch Quips ==
+When catching a Bloop Fish, the player has a chance to make one of the following exclamations:
+* A BLOOP FISH!?!?!
+* I CAN'T BELIEVE IT!
+* IT WAS REAL?!
+* BLOOP!
+* MASSIVE!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Regionless}}

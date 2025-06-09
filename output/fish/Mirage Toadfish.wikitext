@@ -1,0 +1,70 @@
+{{FishInfobox
+|image          = Mirage Toadfish.png
+|rarity         = Mythical
+|sea            = First Sea
+|location       = [[Castaway Cliffs]]
+|sublocation    = 
+|sources        = Crab Cage, Fishing Rod
+|radar_location = 
+|prog_speed     = -70
+|xp             = 4000
+|weather        = Foggy
+|time           = Night
+|season         = Winter
+|bait           = Squid
+|base_weight    = 500
+|base_value     = 7000
+|weight_range   = 350
+|base_chance    = 4
+|base_resil     = 10
+}}
+'''Mirage Toadfish''' is a {{Rarity|Mythical}} fish found in [[Castaway Cliffs]].
+
+== Description ==
+{{Description|A ghostly fish shimmering in the ocean’s depths.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Lurks in waters favored by pirates.|Bestiary Hint}}
+{{Fish Availability|
+Castaway Cliffs
+|top_rods      = 
+Leviathan's Fang Rod\98235.46\262968.42;
+Great Rod of Oscar\93572.69\189654.63;
+Free Spirit Rod\89217.84\276996.63;
+Astralhook Rod\88703.85\192679.44;
+Ethereal Prism Rod\87936.19\190415.89;
+Resourceful Rod\70708.81\189341.81;
+Fortune Rod\50524.44\135316.2;
+Lucky Rod\45263.77\124028.11;
+Firefly Rod\70476.79\239989.28;
+Trident Rod\66460.51\238029.57;
+Rapid Rod\64124.03\221650.07;
+Frog Rod\66593.71\204422.33;
+Mythical Rod\47732.68\164577.32;
+Seraphic Rod\86530.54\195248.83;
+No-Life Rod\82539.21\199037.92;
+Challenger's Rod\81243.95\194049.88;
+Rod Of The Forgotten Fang\77775.13\176641.14;
+Blazebringer Rod\68098.74\169129.01;
+Rod Of The Exalted One\66869.96\148055.66;
+Rod Of The Depths\66702.29\153564.03;
+Verdant Shear Rod\66367.57\215441.11;
+Zeus Rod\62854.3\156103.98;
+Depthseeker Rod\58368.99\151598.88;
+Avalanche Rod\50770.17\131978.36;
+Volcanic Rod\49194.14\122177.82;
+Steady Rod\15880.63\44491.64
+|recommended   = Ethereal Prism Rod
+}}
+
+== Catch Quips ==
+When catching a Mirage Toadfish, the player has a chance to make one of the following exclamations:
+* A MIRAGE TOADFISH!
+* VANISHES LIKE A DREAM!
+* MYTH OF THE SEAS!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Castaway Cliffs}}

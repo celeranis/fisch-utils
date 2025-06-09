@@ -48,7 +48,7 @@ Blazebringer Rod\126972.71\11036;
 No-Life Rod\118367.62\9591.3;
 Seraphic Rod\107547.08\8374.27;
 Ethereal Prism Rod\107042.38\8909.62;
-Challenger's Rod\104029.03\8381.12;
+Challenger's Rod\105766.71\8521.11;
 Depthseeker Rod\102751.74\8634.82;
 Rod Of The Forgotten Fang\102014.15\7970.75;
 Avalanche Rod\100483.04\8457.99;

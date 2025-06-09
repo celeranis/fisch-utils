@@ -43,7 +43,7 @@ Lucky Rod\16473.45\79185.54;
 Fast Rod\18922.64\95992.75;
 Long Rod\16142.34\73391;
 Rod Of The Forgotten Fang\26816.98\98061.25;
-Challenger's Rod\25347.12\98944.05;
+Challenger's Rod\26620.68\99239.07;
 Rod Of The Exalted One\24091.8\91387.86;
 Blazebringer Rod\24011.6\96827.05;
 Rod Of The Depths\23784.69\89156.22;

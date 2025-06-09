@@ -30,8 +30,8 @@
 Mariana's Veil/Calm Zone
 |top_rods      = 
 Great Rod of Oscar\8002.17\23445.31;
+Challenger's Rod\7978\23577.9;
 Tempest Rod\7673\21857.05;
-Challenger's Rod\7609.18\21850.58;
 Astralhook Rod\7522.05\21247.21;
 Summit Rod\5317.31\15860.65;
 Celestial Rod\1714.1\5062.38;

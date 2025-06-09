@@ -56,7 +56,7 @@ Training Rod\16319.01\131519.06;
 Carrot Rod\36569.88\270271.76;
 No-Life Rod\36757.3\240914.76;
 Rod Of The Forgotten Fang\35967.54\233694.18;
-Challenger's Rod\33999.26\231470.68;
+Challenger's Rod\35823.47\233468.24;
 Rod Of The Exalted One\33395.96\271045.82;
 Rod Of The Depths\33110.71\255069.06;
 Verdant Shear Rod\30606.23\259164.59;

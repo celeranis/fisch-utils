@@ -38,7 +38,7 @@ Training Rod\141570.36\178263.09;
 Magnet Rod\91587.61\88111.07;
 Kraken Rod\120369.5\177407.81;
 Seraphic Rod\141502.55\141502.55;
-Challenger's Rod\129519.05\129519.05;
+Challenger's Rod\140637.13\140637.13;
 Rod Of The Forgotten Fang\129211.72\129211.72;
 Depthseeker Rod\128687.94\110470.66;
 Blazebringer Rod\128648.53\128648.53;

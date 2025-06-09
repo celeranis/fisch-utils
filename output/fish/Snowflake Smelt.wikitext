@@ -43,7 +43,7 @@ Verdant Shear Rod\158283.73\24001.3;
 Avalanche Rod\156093.51\19653.13;
 Blazebringer Rod\155098.58\25503.48;
 Zeus Rod\153952.53\23932.72;
-Challenger's Rod\151058.92\25731.8;
+Challenger's Rod\150987.06\27902.69;
 Volcanic Rod\150300.9\18162.82;
 Seraphic Rod\143145.36\28095.86;
 Rod Of The Depths\140677.16\23292.6;

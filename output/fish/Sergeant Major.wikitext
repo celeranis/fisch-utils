@@ -1,0 +1,71 @@
+{{FishInfobox
+|image          = Sergeant Major.png
+|rarity         = Common
+|sea            = Second Sea
+|location       = [[Gilded Arch]]
+|sublocation    = 
+|sources        = Crab Cage, Fishing Rod
+|radar_location = 
+|xp             = 70
+|weather        = Clear
+|time           = Day
+|season         = Summer
+|bait           = Worm
+|base_weight    = 12.5
+|base_value     = 140
+|weight_range   = 9
+|base_chance    = 115
+|base_resil     = 110
+}}
+'''Sergeant Major''' is a {{Rarity|Common}} fish found in [[Gilded Arch]].
+
+== Description ==
+{{Description|A bold leader commanding tropical shallows.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Lurks in waters favored by pirates.|Bestiary Hint}}
+{{Fish Availability|
+Gilded Arch
+|top_rods      = 
+Free Spirit Rod\185011.35\0;
+Azure Of Lagoon\176177.75\36924.19;
+Flimsy Rod\170049.02\41271.91;
+Great Rod of Oscar\168980.39\28965.36;
+Astralhook Rod\168022.34\0;
+Training Rod\161940.91\NaN;
+Plastic Rod\134723.6\26145.23;
+Firefly Rod\165583.1\35786.05;
+Adventurer's Rod\153559.53\35577.99;
+Carrot Rod\164086.49\35197.35;
+Friendly Rod\162410.05\35017.31;
+Fischer's Rod\133656.97\26535.04;
+Fast Rod\133341.21\26472.35;
+Blazebringer Rod\161842.61\34219.64;
+Verdant Shear Rod\154224.55\35062.87;
+Trident Rod\148197.47\30664.69;
+Steady Rod\139048.61\23222.44;
+No-Life Rod\133239.43\26257.52;
+Ethereal Prism Rod\130440.49\25854.61;
+Seraphic Rod\130066.65\24728.42;
+Challenger's Rod\129232.55\25200;
+Depthseeker Rod\126315.79\27308.96;
+Avalanche Rod\125879.68\27431.15;
+Rod Of The Exalted One\125696.55\25238.55;
+Rod Of The Forgotten Fang\125417.6\23566.86;
+Volcanic Rod\124947.14\25528.42;
+Zeus Rod\124573.96\25452.17;
+Rod Of The Depths\124490.99\23442.25
+|recommended   = Free Spirit Rod
+}}
+
+== Catch Quips ==
+When catching a Sergeant Major, the player has a chance to make one of the following exclamations:
+* A Sergeant Major!
+* Ruler of the reef!
+* Bold and bright!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Gilded Arch}}

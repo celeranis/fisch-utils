@@ -40,7 +40,7 @@ Carrot Rod\88736.71\88736.71;
 Friendly Rod\88469.34\88469.34;
 Blazebringer Rod\85779.32\85779.32;
 Verdant Shear Rod\80643.87\80643.87;
-Challenger's Rod\72597.84\66323.89;
+Challenger's Rod\73232.94\66904.1;
 Depthseeker Rod\67066.32\63956.93;
 Seraphic Rod\66608.41\50410.09;
 Avalanche Rod\65282.62\62328.97;

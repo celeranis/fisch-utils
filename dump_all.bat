@@ -6,4 +6,5 @@ node src/scripts/dump_mutations
 node src/scripts/dump_rods
 node src/scripts/dump_titles
 node src/scripts/dump_fish
+node src/scripts/dump_skins
 echo Finished

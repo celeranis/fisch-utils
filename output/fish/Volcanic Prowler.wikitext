@@ -39,7 +39,7 @@ Nocturnal Rod\40898.52\40616.07;
 Carrot Rod\95858.14\9697.62;
 Blazebringer Rod\92868.39\9395.16;
 Verdant Shear Rod\87371.24\8839.03;
-Challenger's Rod\83198.38\7875.04;
+Challenger's Rod\83609.1\7913.92;
 Depthseeker Rod\81162.32\8113.83;
 Avalanche Rod\77047.99\7721.75;
 Volcanic Rod\76895.59\7476.05;

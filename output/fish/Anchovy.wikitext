@@ -39,7 +39,7 @@ Flimsy Rod\159637.59\17088.07;
 Training Rod\179586.47\15496.99;
 Magma Rod\216412.25\22585.51;
 Nocturnal Rod\139879.02\122751.92;
-Challenger's Rod\204280.28\33997.37;
+Challenger's Rod\209239.42\34074.46;
 Tempest Rod\208965.58\33876.7;
 Frog Rod\192565.45\33529.82;
 Riptide Rod\191462.23\33356.16;

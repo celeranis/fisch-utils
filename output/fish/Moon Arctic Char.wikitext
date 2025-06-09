@@ -43,7 +43,7 @@ Rod Of The Zenith\176249.89\274162.09;
 Great Dreamer Rod\176068.24\273613.07;
 Ethereal Prism Rod\182236.76\199965.26;
 Astralhook Rod\182146.56\175769.36;
-Challenger's Rod\179340.28\274102.76;
+Challenger's Rod\181028.49\287771.48;
 Blazebringer Rod\177716.75\253264.26;
 Rod Of The Exalted One\175629.03\268166.16;
 Rod Of The Depths\174436.08\268541;

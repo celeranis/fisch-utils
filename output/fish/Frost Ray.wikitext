@@ -39,7 +39,7 @@ Voyager Rod\119803.7\119135.04;
 Fang of the Eclipse\131577.88\146340.72;
 Blazebringer Rod\128746.1\138085.88;
 Egg Rod\126118.87\136482.31;
-Challenger's Rod\127950.75\125961.65;
+Challenger's Rod\127464.93\124960.92;
 Depthseeker Rod\126492.45\126274.59;
 Verdant Shear Rod\125910.58\132728.07;
 Zeus Rod\125752.56\130356.09;

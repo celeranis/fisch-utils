@@ -40,7 +40,7 @@ Merchant Rod\221990.53\225986.36;
 Firefly Rod\225432.72\220698.99;
 Wildflower Rod\228348.07\217790.24;
 Seraphic Rod\235215.18\209216.32;
-Challenger's Rod\231530.63\191498.32;
+Challenger's Rod\231052.09\207936.76;
 Ethereal Prism Rod\230813.53\196021.15;
 Astralhook Rod\230244.7\158856.2;
 Rod Of The Forgotten Fang\229558.92\191043.91;
