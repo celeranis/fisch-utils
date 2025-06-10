@@ -400,8 +400,7 @@
 				"Ancient Kraken"
 			],
 			"hunt_fish": [
-				"Ancient Kraken",
-				"The Kraken"
+				"Ancient Kraken"
 			],
 			"no_wormhole": true,
 			"can_lucky": false,
@@ -653,9 +652,9 @@
 			],
 			"abundances": []
 		},
-		"Bloop Fish": {
-			"name": "Bloop Fish",
-			"display": "Bloop Fish",
+		"Bloop Fish Hunt": {
+			"name": "Bloop Fish Hunt",
+			"display": "Bloop Fish Hunt",
 			"fish": [
 				"Tire",
 				"Boot",
@@ -686,9 +685,13 @@
 				"Whiptail Catfish",
 				"Bloop Fish"
 			],
+			"hunt_fish": [
+				"Bloop Fish"
+			],
 			"no_wormhole": true,
 			"can_lucky": false,
 			"sea": "First Sea",
+			"avoid": true,
 			"abundances": []
 		},
 		"Blue Moon/First Sea": {
@@ -7787,17 +7790,6 @@
 				}
 			}
 		},
-		"Duncan's Rod": {
-			"name": "Duncan's Rod",
-			"seas": [
-				"First Sea"
-			],
-			"luck": 80,
-			"max_weight": 200,
-			"lure": 15,
-			"resilience": 10,
-			"control": 0.1
-		},
 		"Egg Rod": {
 			"name": "Egg Rod",
 			"seas": [
@@ -8141,17 +8133,6 @@
 			"lure": 30,
 			"resilience": 30,
 			"control": 0.2
-		},
-		"Henry's Rod": {
-			"name": "Henry's Rod",
-			"seas": [
-				"First Sea"
-			],
-			"luck": 80,
-			"max_weight": 200,
-			"lure": 15,
-			"resilience": 10,
-			"control": 0.1
 		},
 		"Ice Warpers Rod": {
 			"name": "Ice Warpers Rod",
@@ -8735,17 +8716,6 @@
 					"Active"
 				]
 			}
-		},
-		"Zora's Rod": {
-			"name": "Zora's Rod",
-			"seas": [
-				"First Sea"
-			],
-			"luck": 80,
-			"max_weight": 200,
-			"lure": 15,
-			"resilience": 10,
-			"control": 0.1
 		},
 		"Tempest Rod": {
 			"name": "Tempest Rod",

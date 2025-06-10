@@ -43,7 +43,7 @@ Adventurer's Rod\179605.54\18029.68;
 Carrot Rod\191743.51\17854.96;
 Great Dreamer Rod\188652.72\17217.86;
 Fischer's Rod\183022.71\12180.44;
-Duncan's Rod\149903.74\12485.85;
+Long Rod\147714.72\12303.52;
 Astralhook Rod\193878.03\0;
 Blazebringer Rod\191073.63\15419.32;
 Verdant Shear Rod\186478.82\16573.95;

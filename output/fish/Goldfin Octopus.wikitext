@@ -36,7 +36,7 @@ Resourceful Rod\4974.92\44638.05;
 Firefly Rod\6951.37\76881.56;
 Lucky Rod\3161.62\35536.85;
 Adventurer's Rod\4646.53\55712.77;
-Duncan's Rod\3054.61\37306.06;
+Fungal Rod\2740.52\34554.64;
 Blazebringer Rod\6328.82\61720.07;
 Verdant Shear Rod\5815.41\62168.28;
 Challenger's Rod\4598.56\47510.75;

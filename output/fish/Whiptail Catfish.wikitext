@@ -25,7 +25,7 @@
 == Obtainment ==
 {{Description|Caught in Moosewood Pond during the night.|Bestiary Hint}}
 {{Fish Availability|
-Bloop Fish
+Bloop Fish Hunt
 Moosewood/Freshwater Pond
 |top_rods      = 
 Great Rod of Oscar\67388.24\427914.15;

@@ -39,7 +39,7 @@ Adventurer's Rod\44033.29\109702.21;
 Azure Of Lagoon\49044.72\97387.35;
 Great Rod of Oscar\57158.43\93038;
 Lucky Rod\30932.57\72911.62;
-Duncan's Rod\28352.21\71797.38;
+Long Rod\27555.49\69779.82;
 Astralhook Rod\53429.25\92594.03;
 Blazebringer Rod\43209.17\83998.63;
 Verdant Shear Rod\39884.88\78930.37;

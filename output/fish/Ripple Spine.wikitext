@@ -37,7 +37,7 @@ Adventurer's Rod\146276.43\135681.55;
 Resourceful Rod\114600.25\105541.5;
 Firefly Rod\151757.63\150888.4;
 Carrot Rod\140228.44\140228.44;
-Duncan's Rod\121168.44\115693.55;
+Long Rod\118226.4\112884.45;
 Verdant Shear Rod\143673.41\128005.03;
 No-Life Rod\140909.95\119712.35;
 Blazebringer Rod\137468.2\136008;

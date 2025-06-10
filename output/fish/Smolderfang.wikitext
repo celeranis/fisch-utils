@@ -29,10 +29,9 @@
 Emberreach/Surrounding Ocean
 |top_rods      = 
 Adventurer's Rod\282884.59\273357.29;
-Duncan's Rod\269870.41\266505.6;
-Zora's Rod\269870.41\266505.6;
-Henry's Rod\269870.41\266505.6;
 Fungal Rod\268387.45\268387.45;
+Antler Rod\258674.92\258674.92;
+Long Rod\198423.81\196548.54;
 Trident Rod\168395.97\150615.76;
 Astralhook Rod\156818.48\178363.27;
 Free Spirit Rod\150722.6\133364.07;

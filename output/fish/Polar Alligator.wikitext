@@ -39,7 +39,7 @@ No-Life Rod\42496.83\112878.71;
 Azure Of Lagoon\41772.5\110908.99;
 Lucky Rod\24411.05\65539.36;
 Brick Built Rod\24484.25\66363.36;
-Duncan's Rod\24484.25\66363.36;
+Firefly Rod\36689.98\100515.45;
 Astralhook Rod\44293.43\89481.06;
 Seraphic Rod\42866.98\92964.17;
 Challenger's Rod\40253.58\89558.85;

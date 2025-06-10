@@ -25,7 +25,7 @@
 == Obtainment ==
 {{Description|Caught in all saltwater’s of Moosewood|Bestiary Hint}}
 {{Fish Availability|
-Bloop Fish
+Bloop Fish Hunt
 Moosewood/Docks
 Moosewood/Seaweed and Mini-Island
 Moosewood/Surrounding Ocean

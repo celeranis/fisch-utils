@@ -39,7 +39,7 @@ Firefly Rod\38939.76\152057.39;
 Wildflower Rod\36854.32\138426.59;
 Adventurer's Rod\32132.1\136532.89;
 Lucky Rod\22155.77\88945.4;
-Duncan's Rod\20887.77\90185.67;
+Long Rod\19582.29\84549.06;
 Blazebringer Rod\38386.73\118349.9;
 Verdant Shear Rod\35365.85\111291.36;
 Trident Rod\28998.2\91841.16;

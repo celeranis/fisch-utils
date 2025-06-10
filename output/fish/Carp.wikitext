@@ -25,7 +25,7 @@
 == Obtainment ==
 {{Description|Found in the back of Moosewood Pond.|Bestiary Hint}}
 {{Fish Availability|
-Bloop Fish
+Bloop Fish Hunt
 Moosewood/Freshwater Pond
 |top_rods      = 
 Free Spirit Rod\196104.77\138892.35;

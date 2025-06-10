@@ -32,7 +32,7 @@ Free Spirit Rod\121784.11\117753.84;
 Flimsy Rod\120418.08\124507.71;
 Azure Of Lagoon\116787.62\135234.97;
 Carrot Rod\105600.48\116982.29;
-Duncan's Rod\83935.96\81835.48;
+Adventurer's Rod\100603.52\99515.79;
 Friendly Rod\105298.46\127376.66;
 Astralhook Rod\104505.85\32317.54;
 Blazebringer Rod\103903.92\108747.03;

@@ -25,7 +25,7 @@
 == Obtainment ==
 {{Description|Found in saltwater near Moosewood Docks. Prefers the Summer and Autumn.|Bestiary Hint}}
 {{Fish Availability|
-Bloop Fish
+Bloop Fish Hunt
 Moosewood/Docks
 Moosewood/Seaweed and Mini-Island
 Moosewood/Surrounding Ocean

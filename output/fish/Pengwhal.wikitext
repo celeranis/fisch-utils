@@ -34,7 +34,7 @@ Adventurer's Rod\147025.57\155355.49;
 Brick Built Rod\134536.61\141276.07;
 Trident Rod\129550.51\127996.88;
 Wildflower Rod\128402.2\127971.47;
-Duncan's Rod\122430.75\122430.75;
+Long Rod\119910.51\119910.51;
 Astralhook Rod\122315.48\135062.5;
 Merchant Rod\119016.85\134290.98;
 Fischer's Rod\105590.37\103349.62;

@@ -62,7 +62,7 @@ Fast Rod\154153.63\138723.62;
 Krampus's Rod\146688.99\158332.15;
 Adventurer's Rod\145012.25\134611.32;
 Brick Built Rod\133683.17\113337.55;
-Duncan's Rod\133683.17\113337.55;
+Lucky Rod\131761.47\124053.18;
 Leviathan's Fang Rod\130116.32\176609;
 Free Spirit Rod\130639.35\173055.03;
 Azure Of Lagoon\128050.83\166506.88;

@@ -28,7 +28,7 @@
 {{Description|Dr. Crookspine might know what to do with this.|Bestiary Hint}}
 {{Fish Availability|
 Apex Fish Hunt/Mosslurker
-Bloop Fish
+Bloop Fish Hunt
 Lucky Event/Blarney McBreeze
 Lucky Event/O'Mango Goldgrin
 Lucky Event/Plumrick O'Luck

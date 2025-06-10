@@ -29,10 +29,10 @@
 Emberreach/Freshwater Pond
 |top_rods      = 
 Adventurer's Rod\644170.24\611511.91;
-Duncan's Rod\535729.65\524052.99;
-Zora's Rod\535729.65\524052.99;
-Henry's Rod\535729.65\524052.99;
 Fungal Rod\533643.9\533643.9;
+Long Rod\521613.12\510244.14;
+Antler Rod\515603.45\515603.45;
+Firefly Rod\319704.24\307421.31;
 Free Spirit Rod\315021.7\187062.51;
 Trident Rod\290889.82\208663.72;
 Astralhook Rod\267719.04\228598.2;

@@ -31,8 +31,8 @@ Emberreach/Surrounding Ocean
 Adventurer's Rod\348002.01\52355.48;
 Firefly Rod\298596.61\26511.44;
 Lucky Rod\297289.37\57057.75;
-Duncan's Rod\293131.42\53640.87;
-Zora's Rod\293131.42\53640.87;
+Fungal Rod\291321.75\40403.88;
+Antler Rod\285716.27\39626.44;
 Fischer's Rod\274594.86\153420.89;
 Plastic Rod\264920.12\152718.76;
 Candy Cane Rod\248245\151105.65;

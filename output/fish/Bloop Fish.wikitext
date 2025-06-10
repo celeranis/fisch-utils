@@ -25,7 +25,7 @@
 
 == Obtainment ==
 {{Fish Availability|
-Bloop Fish
+Bloop Fish Hunt
 |top_rods      = 
 Leviathan's Fang Rod\47372.42\258749;
 Azure Of Lagoon\34942.56\240071.78;

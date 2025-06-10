@@ -25,7 +25,7 @@
 == Obtainment ==
 {{Description|Can be found in plenty of common waters in Moosewood & Roslit.|Bestiary Hint}}
 {{Fish Availability|
-Bloop Fish
+Bloop Fish Hunt
 Moosewood/Docks
 Moosewood/Freshwater Pond
 Moosewood/Seaweed and Mini-Island

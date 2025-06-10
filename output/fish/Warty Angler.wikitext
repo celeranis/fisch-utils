@@ -41,6 +41,8 @@ Trident Rod\138221.6\124552.2;
 Plastic Rod\124547.54\99641.58;
 Firefly Rod\133126.55\142305.24;
 Friendly Rod\132553.52\131718.27;
+Carrot Rod\133192.81\130112.56;
+Lobster Rod\126467.75\121446.81;
 Fischer's Rod\123905.49\99537.45;
 Astralhook Rod\134621.25\45680.9;
 Blazebringer Rod\132130.76\126277.2;

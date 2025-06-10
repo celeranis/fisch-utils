@@ -39,7 +39,6 @@ Adventurer's Rod\87833.66\186948.09;
 Fungal Rod\77000.01\166481.4;
 Lucky Rod\69749.18\162442.44;
 Brick Built Rod\68068.86\142002.83;
-Duncan's Rod\68068.86\142002.83;
 Astralhook Rod\110120.01\126730.58;
 Ethereal Prism Rod\109961.86\128462.09;
 Trident Rod\109869.15\161555.03;

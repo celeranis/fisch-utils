@@ -63,7 +63,6 @@ Resourceful Rod\15129.66\45581.36;
 Firefly Rod\17082.04\66464.58;
 Azure Of Lagoon\18342.26\59707.46;
 Brick Built Rod\11275.32\43674.6;
-Duncan's Rod\11275.32\43674.6;
 Astralhook Rod\18804.94\49460.55;
 No-Life Rod\18579.41\57875.18;
 Seraphic Rod\18237.22\50040.72;

@@ -143,6 +143,7 @@ export const ZONE_DISPLAY: Record<string, string> = {
 	'Magician Narwhal - Sea 2': 'Narwhal Hunt/Magician Narwhal/Second Sea',
 	'Beluga - Sea 1': 'Narwhal Hunt/Beluga/First Sea',
 	'Beluga - Sea 2': 'Narwhal Hunt/Beluga/Second Sea',
+	'Bloop Fish': 'Bloop Fish Hunt',
 }
 
 /**
@@ -311,6 +312,7 @@ export const AVOID_POOLS = {
 	"Narwhal Hunt/Magician Narwhal/Second Sea": true,
 	"Narwhal Hunt/Beluga/First Sea": true,
 	"Narwhal Hunt/Beluga/Second Sea": true,
+	"Bloop Fish Hunt": true,
 
 	// 1:1 with ocean
 	"Atlantis/Surrounding Ocean": true,
@@ -453,6 +455,11 @@ export const DEV_OVERRIDES = {
 	'Developers Rod': true,
 	'Executive Rod': true,
 	'Superstar Rod': true,
+
+	// not DEV, but should not be visible yet
+	"Zora's Rod": true,
+	"Duncan's Rod": true,
+	"Henry's Rod": true,
 
 	// unused
 	'Frostbane Rod': true,
@@ -611,7 +618,7 @@ export const HUNT_MAP = {
 	'Whale Migration/Normal': ['Blue Whale'],
 	'Whale Migration/Moby': ['Blue Whale'], // moby omitted intentionally, as it does not directly use the fishing chance system
 	
-	'Atlantis/Ancient Kraken Hunt': ['Ancient Kraken', 'The Kraken'],
+	'Atlantis/Ancient Kraken Hunt': ['Ancient Kraken'],
 	'Atlantis/Kraken Hunt': ['The Kraken'],
 	
 	"Mariana's Veil/Scylla Hunt": ['Scylla'],
@@ -641,6 +648,8 @@ export const HUNT_MAP = {
 	"Narwhal Hunt/Magician Narwhal/Second Sea": ["Magician Narwhal"],
 	"Narwhal Hunt/Beluga/First Sea": ["Beluga"],
 	"Narwhal Hunt/Beluga/Second Sea": ["Beluga"],
+
+	'Bloop Fish Hunt': ['Bloop Fish'],
 }
 
 /**

@@ -25,7 +25,7 @@
 == Obtainment ==
 {{Description|Found in Moosewoods freshwater. Seems to prefer worms and other small baits.|Bestiary Hint}}
 {{Fish Availability|
-Bloop Fish
+Bloop Fish Hunt
 Moosewood/Freshwater Pond
 Terrapin Island/Olm Cave
 Terrapin Island/Surrounding Ocean

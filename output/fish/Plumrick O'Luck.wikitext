@@ -38,7 +38,7 @@ Destiny Rod\13071.69\27601.49;
 No-Life Rod\16142.98\38667.18;
 Lucky Rod\8737.71\20957.98;
 Brick Built Rod\9089.55\23962.13;
-Duncan's Rod\9089.55\23962.13;
+Firefly Rod\13991.17\37496.57;
 Astralhook Rod\16726.46\36172.65;
 Ethereal Prism Rod\16702.87\36246.95;
 Seraphic Rod\16299.13\36576.75;

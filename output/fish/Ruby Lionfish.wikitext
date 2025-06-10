@@ -40,7 +40,7 @@ Astralhook Rod\24716.27\74316.51;
 Great Rod of Oscar\26226.58\73626.41;
 Lucky Rod\11916.58\45348.67;
 Adventurer's Rod\17367.68\69046.72;
-Duncan's Rod\11250.25\45276.97;
+Fungal Rod\10827.44\44461.62;
 Blazebringer Rod\20468.73\67632.75;
 Trident Rod\20287.31\58645.9;
 Verdant Shear Rod\19179.12\68942.13;

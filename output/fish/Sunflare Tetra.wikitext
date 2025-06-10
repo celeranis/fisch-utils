@@ -31,9 +31,8 @@ Emberreach/Surrounding Ocean
 Fast Rod\486254.06\386508.13;
 Lucky Rod\477874.63\430532.11;
 Adventurer's Rod\329032.69\400568.98;
-Duncan's Rod\313420.61\309512.8;
-Zora's Rod\313420.61\309512.8;
 Fungal Rod\311690.74\311690.74;
+Antler Rod\298537.12\298537.12;
 Free Spirit Rod\205529.23\156521.05;
 Trident Rod\199881.34\178776.71;
 Astralhook Rod\174632.33\92156.19;

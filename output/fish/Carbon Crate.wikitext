@@ -63,7 +63,7 @@ Leviathan's Fang Rod\96822.64\244765.04;
 Free Spirit Rod\93609.26\237803.13;
 Trident Rod\93528.01\237596.73;
 Brick Built Rod\73306.18\131047.85;
-Duncan's Rod\73306.18\131047.85;
+Lucky Rod\76700.79\135843.41;
 Azure Of Lagoon\80854.33\206085.15;
 Great Rod of Oscar\72518.83\180166.84;
 Resourceful Rod\64809.35\149083.5;
