@@ -33,7 +33,7 @@ Firefly Rod\184068.77\36312.47;
 Champions Rod\182248.95\34750.74;
 Depthseeker Rod\181265.62\33452.03;
 Rapid Rod\181210.07\36007.24;
-Celestial Rod\180762.37\36034.47;
+Mission Specialist's Rod\180917.45\36065.38;
 Training Rod\152801.63\52688.17;
 Flimsy Rod\101277.37\36380.56;
 Avalanche Rod\175242.11\32703.45;

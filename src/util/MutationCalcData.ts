@@ -1061,9 +1061,9 @@ export const MUTATION_DATA: MutationDataEntry[] = [
 			},
 			{
 				check: 'conditions',
-				property: 'weather',
+				property: 'passiveState',
 				op: 'not',
-				values: ['Eclipse']
+				values: ['Active']
 			}
 		]
 	},
@@ -1081,8 +1081,8 @@ export const MUTATION_DATA: MutationDataEntry[] = [
 			},
 			{
 				check: 'conditions',
-				property: 'weather',
-				values: ['Eclipse']
+				property: 'passiveState',
+				values: ['Active']
 			}
 		]
 	},
@@ -1100,8 +1100,8 @@ export const MUTATION_DATA: MutationDataEntry[] = [
 			},
 			{
 				check: 'conditions',
-				property: 'weather',
-				values: ['Eclipse']
+				property: 'passiveState',
+				values: ['Active']
 			}
 		]
 	},
@@ -1112,6 +1112,11 @@ export const MUTATION_DATA: MutationDataEntry[] = [
 		chance_type: 'percent',
 		allow_crates: true,
 		conditions: [
+			{
+				check: 'conditions',
+				property: 'rod',
+				values: ["Astralhook Rod"]
+			},
 			{
 				check: 'conditions',
 				property: 'passiveState',

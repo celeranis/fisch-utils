@@ -5,6 +5,7 @@
 |location       = [[Castaway Cliffs]]
 |sublocation    = 
 |sources        = Crab Cage, Fishing Rod
+|nopassive      = 1
 |radar_location = 
 |prog_speed     = -95
 |xp             = 20000
@@ -52,6 +53,10 @@ Zeus Rod\-2.73\-31.6;
 Trident Rod\-3.37\-39.11
 |recommended   = Challenger's Rod
 }}
+
+== Gameplay Notes ==
+* Great Goldcursed Shark usually cannot be caught with passive effects, such as the one provided by the [[Rod Of The Depths]] and [[Rod Of The Forgotten Fang]].
+** The only exception is when catching a Great Goldcursed Shark on the Megalodon Passive reel of the [[Rod Of The Forgotten Fang]], the Megalodon will instead dupe the Great Goldcursed Shark.
 
 == Catch Quips ==
 When catching a Great Goldcursed Shark, the player has a chance to make one of the following exclamations:

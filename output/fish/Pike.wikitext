@@ -32,7 +32,7 @@ Astralhook Rod\133004.47\261567.53;
 Firefly Rod\128866.51\109902.16;
 Champions Rod\128576.2\109654.58;
 Celestial Rod\128567.83\110329.36;
-Rapid Rod\127447.96\110752.79;
+Fixer's Rod\128567.83\110329.36;
 Training Rod\109359.01\194705.81;
 Fortune Rod\70520.63\138686.36;
 Ethereal Prism Rod\126371.4\195752.06;

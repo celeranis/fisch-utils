@@ -31,7 +31,7 @@ Astralhook Rod\104350.92\208051.7;
 Champions Rod\100316.75\97076;
 Ethereal Prism Rod\100035\171364.57;
 Firefly Rod\100024.7\96793.38;
-Celestial Rod\99610.26\97544.45;
+Fixer's Rod\99884.1\97812.61;
 Training Rod\82023.85\126898.79;
 Fortune Rod\55556.68\110767.23;
 Leviathan's Fang Rod\92603.58\111885.04;

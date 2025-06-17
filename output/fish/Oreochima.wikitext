@@ -1,0 +1,48 @@
+{{FishInfobox
+|image          = Oreochima.png
+|rarity         = Limited
+|sea            = First Sea
+|location       = [[Jurassic Island]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -20
+|xp             = 4000
+|weather        = 
+|time           = 
+|season         = 
+|bait           = 
+|base_weight    = 150
+|base_value     = 2000
+|weight_range   = 120
+|base_chance    = 80
+|base_resil     = 45
+}}
+'''Oreochima''' is a {{Rarity|Limited}} fish found in the [[Jurassic Island]].
+
+== Description ==
+{{Description|A sleek, predatory fish of Jurassic waters.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found at the Jurassic Island!|Bestiary Hint}}
+{{Fish Availability|
+Jurassic Island Ocean Pool
+Jurassic Island Pool
+|top_rods      = 
+Mission Specialist's Rod\169199.13\186928.56;
+Fixer's Rod\168591.95\188122.67;
+Paleontologist's Rod\163623.02\134618.51
+|recommended   = 
+}}
+
+== Catch Quips ==
+When catching an Oreochima, the player has a chance to make one of the following exclamations:
+* A Oreochima!
+* Fierce!
+* Ancient!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Jurassic Island}}

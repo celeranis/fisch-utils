@@ -30,13 +30,14 @@ Moosewood/Freshwater Pond
 Summit Rod\127293.26\14695.86;
 Firefly Rod\126947.95\15537.96;
 Azure Of Lagoon\126907.6\14137.35;
+Fixer's Rod\126219.48\13746.34;
 Wildflower Rod\126176.67\14566.95;
-Depthseeker Rod\125972.47\14093.14;
 Training Rod\107881.3\15631.87;
 Resourceful Rod\118734.12\13681.47;
 Nocturnal Rod\89124.48\80997.62;
 Ethereal Prism Rod\121614\23939.96;
 Leviathan's Fang Rod\116423.56\16112.38;
+Depthseeker Rod\125972.47\14093.14;
 Verdant Shear Rod\125598.8\14500.24;
 Avalanche Rod\124760.86\13776.09;
 Free Spirit Rod\123101.54\12566.05;

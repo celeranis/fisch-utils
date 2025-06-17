@@ -1,4 +1,4 @@
--- Last update: Version [[1.36]], place version 63
+-- Last update: Version [[1.36]], place version 66
 
 return {
 	permanent = {
@@ -568,6 +568,10 @@ return {
 				{ name = "Long Pike", rarity = "Secret" },
 				{ name = "Mustard", rarity = "Secret" },
 				{ name = "Moby", rarity = "Secret" },
+				{ name = "Beluga", rarity = "Limited" },
+				{ name = "Narwhal", rarity = "Limited" },
+				{ name = "Magician Narwhal", rarity = "Apex" },
+				{ name = "Mosslurker", rarity = "Apex" },
 			},
 		},
 		{
@@ -598,6 +602,7 @@ return {
 				{ name = "Toilet Fish", rarity = "Secret" },
 				{ name = "Psychedelic Frogfish", rarity = "Secret" },
 				{ name = "Dogefin", rarity = "Secret" },
+				{ name = "Apex Leviathan", rarity = "Apex" },
 			},
 		},
 		{
@@ -707,7 +712,6 @@ return {
 				{ name = "Napoleonfish", rarity = "Rare" },
 				{ name = "Mahi Mahi", rarity = "Rare" },
 				{ name = "Wiifish", rarity = "Legendary" },
-				{ name = "Ancient Wood", rarity = "Legendary" },
 				{ name = "Sunfish", rarity = "Legendary" },
 				{ name = "Voltfish", rarity = "Mythical" },
 				{ name = "Speed Core", rarity = "Exotic" },
@@ -773,10 +777,10 @@ return {
 			name = "Treasure Island",
 			fish = {
 				{ name = "Crowned Royal Gramma", rarity = "Common" },
-				{ name = "Bluegem Angelfish", rarity = "Common" },
 				{ name = "Gem Anchovy", rarity = "Common" },
-				{ name = "Gem Salmon", rarity = "Common" },
 				{ name = "Coin Triggerfish", rarity = "Common" },
+				{ name = "Bluegem Angelfish", rarity = "Common" },
+				{ name = "Gem Salmon", rarity = "Common" },
 				{ name = "Emerald Angelfish", rarity = "Common" },
 				{ name = "Goldband Butterflyfish", rarity = "Uncommon" },
 				{ name = "Gemscale Mandarinfish", rarity = "Uncommon" },
@@ -831,8 +835,8 @@ return {
 				{ name = "Infernal Iguanafish", rarity = "Uncommon" },
 				{ name = "Embertail Eel", rarity = "Uncommon" },
 				{ name = "Smoldering Stingray", rarity = "Unusual" },
-				{ name = "Molten Moray", rarity = "Rare" },
 				{ name = "Pyrite Pufferfish", rarity = "Rare" },
+				{ name = "Molten Moray", rarity = "Rare" },
 				{ name = "Scalding Swordfish", rarity = "Legendary" },
 				{ name = "Blisterback Blenny", rarity = "Mythical" },
 				{ name = "Magma Leviathan", rarity = "Exotic" },
@@ -861,9 +865,9 @@ return {
 			name = "Whale Interior",
 			fish = {
 				{ name = "Gulf Toadfish", rarity = "Common" },
-				{ name = "Oyster toadfish", rarity = "Uncommon" },
-				{ name = "Smooth toadfish", rarity = "Unusual" },
-				{ name = "Splendid toadfish", rarity = "Rare" },
+				{ name = "Oyster Toadfish", rarity = "Uncommon" },
+				{ name = "Smooth Toadfish", rarity = "Unusual" },
+				{ name = "Splendid Toadfish", rarity = "Rare" },
 				{ name = "Bearded Toadfish", rarity = "Legendary" },
 				{ name = "Giant Moray", rarity = "Mythical" },
 			},
@@ -893,6 +897,8 @@ return {
 				{ name = "Baby Bloop Fish", rarity = "Secret" },
 				{ name = "Enchant Relic", rarity = "Relic" },
 				{ name = "Exalted Relic", rarity = "Relic" },
+				{ name = "Song of the Deep", rarity = "Relic" },
+				{ name = "Bloop Fish", rarity = "Apex" },
 			},
 		},
 	},
@@ -961,9 +967,9 @@ return {
 				{ name = "Lava Lamprey", rarity = "Limited" },
 				{ name = "Blistered Eel", rarity = "Limited" },
 				{ name = "Burnt Betta", rarity = "Limited" },
+				{ name = "Ember Catfish", rarity = "Limited" },
 				{ name = "Cinder Carp", rarity = "Limited" },
 				{ name = "Ashcloud Archerfish", rarity = "Limited" },
-				{ name = "Ember Catfish", rarity = "Limited" },
 			},
 		},
 		{
@@ -1040,12 +1046,27 @@ return {
 			},
 		},
 		{
+			name = "Jurassic Island",
+			fish = {
+				{ name = "Jurassic Helicoprion", rarity = "Limited" },
+				{ name = "Giant Lamprey", rarity = "Limited" },
+				{ name = "Gillicus", rarity = "Limited" },
+				{ name = "Diplomystus", rarity = "Limited" },
+				{ name = "Dasyatis", rarity = "Limited" },
+				{ name = "Edestus", rarity = "Limited" },
+				{ name = "Jurassic Mosasaurus", rarity = "Limited" },
+				{ name = "Rhizodus", rarity = "Limited" },
+				{ name = "Oreochima", rarity = "Limited" },
+			},
+		},
+		{
 			name = "LEGO Event",
 			fish = {
 				{ name = "Studphin", rarity = "Limited" },
 				{ name = "Studolodon", rarity = "Limited" },
 				{ name = "Clown Brickfish", rarity = "Limited" },
 				{ name = "Tentabrick", rarity = "Limited" },
+				{ name = "Goldbrick", rarity = "Limited" },
 				{ name = "Jellystud", rarity = "Limited" },
 				{ name = "Studling Crab", rarity = "Limited" },
 				{ name = "Stud Shark", rarity = "Limited" },
@@ -1054,7 +1075,6 @@ return {
 				{ name = "Brickhorse", rarity = "Limited" },
 				{ name = "Stud Turtle", rarity = "Limited" },
 				{ name = "Yellow Studfish", rarity = "Limited" },
-				{ name = "Goldbrick", rarity = "Limited" },
 				{ name = "Azure Studfish", rarity = "Limited" },
 				{ name = "Glow Brick", rarity = "Limited" },
 				{ name = "Crab Stud", rarity = "Limited" },

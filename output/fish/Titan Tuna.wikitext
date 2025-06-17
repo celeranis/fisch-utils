@@ -31,7 +31,7 @@ Firefly Rod\241319.18\29228.07;
 Adventurer's Rod\221204.94\29179.06;
 Rapid Rod\218409.64\29564.65;
 Champions Rod\215675.02\22870.88;
-Celestial Rod\214360.18\23653.36;
+Fixer's Rod\214793.41\25358.55;
 Flimsy Rod\153547.3\29901.32;
 Training Rod\208108.11\40526.32;
 Nocturnal Rod\133089.97\78213.06;

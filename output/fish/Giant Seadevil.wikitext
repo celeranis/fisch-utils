@@ -40,7 +40,7 @@ Azure Of Lagoon\45249.47\242098.46;
 Fang of the Eclipse\43846.96\241983.47;
 Challenger's Rod\47089.15\236596.16;
 Trident Rod\35611.42\225984.81;
-Shamrock Rod\28328.76\138523.41;
+Paleontologist's Rod\34364.94\168039.45;
 No-Life Rod\45297.26\229654.26;
 Rod Of The Forgotten Fang\43123.24\204052.17;
 Blazebringer Rod\36935.79\200834.38;

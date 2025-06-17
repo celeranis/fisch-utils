@@ -30,13 +30,14 @@ Atlantis/Ethereal Abyss
 Astralhook Rod\91355.58\16537.43;
 Firefly Rod\89034.54\10701.75;
 Champions Rod\88021.98\9166.77;
+Fixer's Rod\87821.66\9356.94;
 Celestial Rod\87684.8\9342.36;
-Depthseeker Rod\87601.73\9065.68;
 Training Rod\76680.1\12161.54;
 Flimsy Rod\59209.49\8578.91;
 Nocturnal Rod\53590.25\43705.82;
 Ethereal Prism Rod\87307.94\14561.88;
 Leviathan's Fang Rod\82473.55\12758.39;
+Depthseeker Rod\87601.73\9065.68;
 Avalanche Rod\86320.55\8889.21;
 Verdant Shear Rod\83243.91\9824.64;
 No-Life Rod\82330.15\11605.69;

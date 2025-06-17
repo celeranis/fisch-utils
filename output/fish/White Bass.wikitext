@@ -32,7 +32,7 @@ Azure Of Lagoon\113845.96\14220.51;
 Free Spirit Rod\112814.63\12806.69;
 Trident Rod\109439.25\10270.93;
 Fang of the Eclipse\109219.67\13703.88;
-Champions Rod\109002.85\14024.41;
+Fixer's Rod\109188.71\14196.78;
 Training Rod\98978.79\20361;
 Resourceful Rod\102294.92\15159.02;
 Flimsy Rod\71288.8\9853.3;

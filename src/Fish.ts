@@ -1,5 +1,5 @@
 import { Bait } from './Bait.js';
-import { AVOID_RODS, DISPLAY_LOCATIONS, HARDCODED_PENALTIES, IGNORE_ZONES, LIMITED_BAIT, LIMITED_POOLS, RECOMMENDED_RODS, UNFISHABLE_ZONES, ZONE_ABUNDANCE_MAP, ZONE_DISPLAY } from './Constants.js';
+import { AVOID_RODS, DISPLAY_LOCATIONS, FISH_NAME_OVERRIDES, HARDCODED_PENALTIES, HIDE_IN_BESTIARY_OVERRIDES, IGNORE_ZONES, LIMITED_BAIT, LIMITED_POOLS, RECOMMENDED_RODS, UNFISHABLE_ZONES, ZONE_ABUNDANCE_MAP, ZONE_DISPLAY } from './Constants.js';
 import { getFile } from './DataParser.js';
 import { FishingRod } from './FishingRod.js';
 import { CrabZonesLibrary } from './types/crabzone.js';
@@ -128,6 +128,7 @@ export function getConditionScore(conditions: Conditions, fish: Fish, chance: nu
 }
 
 export class Fish {
+	DisplayName: string
 	FavouriteTime?: string
 	FavouriteBait?: string
 	SparkleColor?: string
@@ -165,11 +166,16 @@ export class Fish {
 	
 	constructor(data: FishData, public Name: string, public Index: number) {
 		Object.assign(this, data)
+		this.DisplayName = Name
 		this.WeightPool ??= [0, 0]
 		this.Price ??= 0
 		// @ts-ignore: assigned with Object.assign
 		this._no_defined_worlds = !this.Worlds
 		this.Worlds ??= ['Sea 1']
+
+		if (Name in FISH_NAME_OVERRIDES) {
+			this.DisplayName = FISH_NAME_OVERRIDES[Name]
+		}
 		
 		if (this.From && locationData[this.From] && !DISPLAY_LOCATIONS[this.From]) {
 			this.From = locationData[this.From].Name
@@ -179,6 +185,10 @@ export class Fish {
 			this.FromLimited = locationData[this.FromLimited].Name
 		}
 		
+		if (Name in HIDE_IN_BESTIARY_OVERRIDES) {
+			this.HideInBestiary = HIDE_IN_BESTIARY_OVERRIDES[Name]
+		}
+
 		if (Name == 'Moby') {
 			this.Chance = 0
 		}

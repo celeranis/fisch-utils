@@ -69,7 +69,7 @@ Trident Rod\94940.55\414719.64;
 Free Spirit Rod\93116.35\399301.84;
 Blazebringer Rod\79169.35\275382.57;
 Rapid Rod\77066.38\275349.79;
-Shamrock Rod\60554\244493.42;
+Paleontologist's Rod\75957.24\254309.78;
 Astralhook Rod\92850.79\220960.9;
 Ethereal Prism Rod\92715.59\220845.6;
 Seraphic Rod\88899.83\222134.26;

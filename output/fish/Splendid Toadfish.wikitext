@@ -1,5 +1,5 @@
 {{FishInfobox
-|image          = Splendid toadfish.png
+|image          = Splendid Toadfish.png
 |rarity         = Rare
 |sea            = Second Sea
 |location       = [[Whale Interior]]
@@ -17,7 +17,7 @@
 |base_chance    = 40
 |base_resil     = 40
 }}
-'''Splendid toadfish''' is a {{Rarity|Rare}} fish found in [[Whale Interior]].
+'''Splendid Toadfish''' is a {{Rarity|Rare}} fish found in [[Whale Interior]].
 
 == Description ==
 {{Description|A dazzling fish, camouflaged among vibrant coral reefs.|Bestiary Entry}}
@@ -56,7 +56,7 @@ Zeus Rod\95349.42\221273.24
 }}
 
 == Catch Quips ==
-When catching a Splendid toadfish, the player has a chance to make one of the following exclamations:
+When catching a Splendid Toadfish, the player has a chance to make one of the following exclamations:
 * A Splendid Toadfish!
 * Exquisite!
 

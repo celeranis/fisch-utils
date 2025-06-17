@@ -30,8 +30,8 @@ Glacial Grotto
 Training Rod\201923.08\201923.08;
 Firefly Rod\173697.85\142672.04;
 Champions Rod\166912.24\112893.09;
+Fixer's Rod\165843.93\117594.22;
 Celestial Rod\165692.34\115361.08;
-Rapid Rod\163968.37\136883.45;
 Flimsy Rod\147726.19\146975.81;
 Fungal Rod\153104.75\150246.13;
 Astralhook Rod\156006.82\164219.32;

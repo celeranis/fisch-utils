@@ -1,0 +1,48 @@
+{{FishInfobox
+|image          = Jurassic Helicoprion.png
+|rarity         = Limited
+|sea            = First Sea
+|location       = [[Jurassic Island]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -60
+|xp             = 10000
+|weather        = 
+|time           = 
+|season         = 
+|bait           = 
+|base_weight    = 800
+|base_value     = 5000
+|weight_range   = 600
+|base_chance    = 40
+|base_resil     = 25
+}}
+'''Jurassic Helicoprion''' is a {{Rarity|Limited}} fish found in the [[Jurassic Island]].
+
+== Description ==
+{{Description|A spiral-jawed predator from Jurassic depths.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found at the Jurassic Island!|Bestiary Hint}}
+{{Fish Availability|
+Jurassic Island Ocean Pool
+Jurassic Island Pool
+|top_rods      = 
+Paleontologist's Rod\120987.28\292399.1;
+Fixer's Rod\110449.2\305481.48;
+Mission Specialist's Rod\108634.22\300461.59
+|recommended   = 
+}}
+
+== Catch Quips ==
+When catching a Jurassic Helicoprion, the player has a chance to make one of the following exclamations:
+* A Jurassic Helicoprion!
+* Fierce!
+* Ancient!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Jurassic Island}}

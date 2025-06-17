@@ -1,4 +1,4 @@
--- Last update: Version [[1.36]], place version 63
+-- Last update: Version [[1.36]], place version 66
 
 return {
 	["Abyssal Conduit"] = "Legendary",
@@ -106,6 +106,7 @@ return {
 	["Midas Spirit"] = "Legendary",
 	["Mighty Magma"] = "Legendary",
 	["Monsleeper Rod"] = "Legendary",
+	["Mortisfalx"] = "Legendary",
 	["Nebula"] = "Common",
 	["Neptune's Demand"] = "Rare",
 	["Nessie Rod"] = "Legendary",
@@ -135,6 +136,7 @@ return {
 	["Roslit Leviathan"] = "Legendary",
 	["Royal Scepter"] = "Legendary",
 	["Sage's Staff"] = "Common",
+	["Sanguisfalx"] = "Legendary",
 	["Scylla's Shadow"] = "Legendary",
 	["Seraphic Rainbow"] = "Legendary",
 	["Shiny Nessie"] = "Legendary",

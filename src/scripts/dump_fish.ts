@@ -1,6 +1,6 @@
 import { writeFile } from 'fs/promises';
 import { Bait } from '../Bait.js';
-import { AVOID_POOLS, CANT_REBUFF, crabZoneMap, DISPLAY_LOCATIONS, EVENT_MAP, FIXED_CHANCE_POOLS, HARDCODED_PENALTIES, HUNT_MAP, IGNORE_ZONES, LIMITED_BAIT, LIMITED_POOLS, locationRefer, OVERRIDE_SEA, SEA_DISPLAY, UNFISHABLE_ZONES, ZONE_DISPLAY } from '../Constants.js';
+import { AVOID_POOLS, CANT_REBUFF, crabZoneMap, DISPLAY_LOCATIONS, FISH_NAME_OVERRIDES, EVENT_MAP, FIXED_CHANCE_POOLS, HARDCODED_PENALTIES, HUNT_MAP, IGNORE_ZONES, LIMITED_BAIT, LIMITED_POOLS, locationRefer, OVERRIDE_SEA, SEA_DISPLAY, UNFISHABLE_ZONES, ZONE_DISPLAY } from '../Constants.js';
 import { getFile } from '../DataParser.js';
 import { Enchantment } from '../Enchant.js';
 import { crabZoneData, Fish, locationData, ZoneData as zoneData } from '../Fish.js';
@@ -51,12 +51,12 @@ if (!process.argv.includes('--skip-pages')) {
 	const lastUpdateComment = `-- Last update: Version [[${meta.official_version}]], place version ${meta.place_version}`
 	
 	for (const [i, fish] of allFish.entries()) {
-		fish.Name = fish.Name.replaceAll("’", "'")
-		if (process.argv.includes('--only') && !process.argv.includes(fish.Name.replaceAll(' ', '_'))) continue
+		fish.DisplayName = fish.DisplayName.replaceAll("’", "'")
+		if (process.argv.includes('--only') && !process.argv.includes(fish.DisplayName.replaceAll(' ', '_'))) continue
 		const page: string[] = [
 			// pageInfoHeader(fish.Name),
 			new Template('FishInfobox', {
-				image: `${fish.Name}.png`,
+				image: `${fish.DisplayName}.png`,
 				rarity: fish.Rarity,
 				event: EVENT_MAP[fish.From!] || fish.FromLimited || undefined,
 				sea: fish.Worlds.map(sea => SEA_DISPLAY[sea] ?? sea).join(', '),
@@ -81,7 +81,7 @@ if (!process.argv.includes('--skip-pages')) {
 				base_chance: fish.Chance,
 				base_resil: fish.Resilience
 			}).block(),
-			`'''${fish.Name}''' is ${a(fish.Rarity)} {{Rarity|${fish.Rarity}}} fish found in ${locationRefer[fish.getInfoboxSublocation() || fish.getInfoboxLocation()!] || locationRefer[fish.getInfoboxLocation()!] || locationRefer[fish.FromLimited!] || (fish.getInfoboxLocation() && `[[${fish.getInfoboxLocation()}]]`) || 'any body of water'}${fish.FromLimited ? ` during the [[${fish.FromLimited}]] event` : ''}.`,
+			`'''${fish.DisplayName}''' is ${a(fish.Rarity)} {{Rarity|${fish.Rarity}}} fish found in ${locationRefer[fish.getInfoboxSublocation() || fish.getInfoboxLocation()!] || locationRefer[fish.getInfoboxLocation()!] || locationRefer[fish.FromLimited!] || (fish.getInfoboxLocation() && `[[${fish.getInfoboxLocation()}]]`) || 'any body of water'}${fish.FromLimited ? ` during the [[${fish.FromLimited}]] event` : ''}.`,
 			'',
 			'== Description ==',
 			`{{Description|${fish.Description ?? '???'}|Bestiary Entry}}`,
@@ -90,14 +90,14 @@ if (!process.argv.includes('--skip-pages')) {
 			((fish.Hint && fish.Hint != '???') ? `\n{{Description|${fish.Hint}|Bestiary Hint}}` : ''),
 			...fish.getAvailabilityCall()
 		]
-		bestiaryOrder[fish.Name] = i
-		rarityData[fish.Name] = fish.Rarity
+		bestiaryOrder[fish.DisplayName] = i
+		rarityData[fish.DisplayName] = fish.Rarity
 
 		if (!fish.HideInBestiary) {
 			const useLimited = (fish.FromLimited == 'Archeological Site' && fish.Name.includes(' Algae')) ? 'Golden Tide' : fish.FromLimited == 'Love' ? "Valentine's Day" : fish.FromLimited
 			navboxData[(fish.FromLimited ?? EVENT_LOCS.has(fish.From!)) ? 'limited' : 'permanent']
 				.find(sect => sect.name == (useLimited ?? fish.getInfoboxLocation() ?? 'Regionless'))
-				?.fish.push({ name: fish.Name, rarity: fish.Rarity })
+				?.fish.push({ name: fish.DisplayName, rarity: fish.Rarity })
 		}
 
 		const contents = fish.getContents()
@@ -106,7 +106,7 @@ if (!process.argv.includes('--skip-pages')) {
 			page.push(
 				'',
 				`== Contents ==`,
-				`Opening ${a(fish.Name)} ${fish.Name} will yield at least one of the following:`,
+				`Opening ${a(fish.DisplayName)} ${fish.DisplayName} will yield at least one of the following:`,
 				[...contents.values()].map(content => `* [[${content.includes('(Bait)') ? `Bait#${content.replace(/\s+\(Bait\)/, '')}|${content.replace(/\s+\(Bait\)/, '')}` : content}]]`).join('\n'),
 			)
 		}
@@ -114,16 +114,16 @@ if (!process.argv.includes('--skip-pages')) {
 		if (fish.HideFishModel || fish.BlockPassiveCapture || fish.CustomProgressEfficiency) {
 			page.push('', '== Gameplay Notes ==')
 			if (fish.HideFishModel) {
-				page.push(`* While reeling in ${a(fish.Name)} ${fish.Name}, the fish will ''not'' be visible in the water.`)
+				page.push(`* While reeling in ${a(fish.DisplayName)} ${fish.DisplayName}, the fish will ''not'' be visible in the water.`)
 			}
 			if (fish.BlockPassiveCapture) {
 				page.push(
-					`* ${fish.Name} usually cannot be caught with passive effects, such as the one provided by the [[Rod Of The Depths]] and [[Rod Of The Forgotten Fang]].`,
-					`** The only exception is when catching a ${fish.Name} on the Megalodon Passive reel of the [[Rod Of The Forgotten Fang]], the Megalodon will instead dupe the ${fish.Name}.`
+					`* ${fish.DisplayName} usually cannot be caught with passive effects, such as the one provided by the [[Rod Of The Depths]] and [[Rod Of The Forgotten Fang]].`,
+					`** The only exception is when catching a ${fish.DisplayName} on the Megalodon Passive reel of the [[Rod Of The Forgotten Fang]], the Megalodon will instead dupe the ${fish.DisplayName}.`
 				)
 			}
 			if (fish.CustomProgressEfficiency) {
-				page.push(`* The ${fish.Name} Progress Speed penalty cannot be reduced with the {{Enchantment|Steady}} [[Enchantment]] or the {{Item|Tempest Rod}} passive ability.`)
+				page.push(`* The ${fish.DisplayName} Progress Speed penalty cannot be reduced with the {{Enchantment|Steady}} [[Enchantment]] or the {{Item|Tempest Rod}} passive ability.`)
 			}
 		}
 
@@ -131,7 +131,7 @@ if (!process.argv.includes('--skip-pages')) {
 			page.push(
 				'',
 				'== Catch Quips ==',
-				`When catching ${a(fish.Name)} ${fish.Name}, the player has a chance to make one of the following exclamations:`,
+				`When catching ${a(fish.DisplayName)} ${fish.DisplayName}, the player has a chance to make one of the following exclamations:`,
 				fish.Quips?.map(quip => `* ${quip}`).join('\n') || '???',
 			)
 		}
@@ -145,8 +145,8 @@ if (!process.argv.includes('--skip-pages')) {
 			`{{Fish Navbox|${fish.FromLimited ?? fish.getInfoboxLocation() ?? 'Regionless'}}}`
 		)
 
-		await writeFile(`./output/fish/${fish.Name}.wikitext`, page.join('\n'))
-		console.log(`[${i}/${allFish.length}] Generated page for ${fish.Name}`)
+		await writeFile(`./output/fish/${fish.DisplayName}.wikitext`, page.join('\n'))
+		console.log(`[${i}/${allFish.length}] Generated page for ${fish.DisplayName}`)
 	}
 
 	await writeFile('./output/BestiaryOrder.lua', lastUpdateComment + '\n\nreturn ' + jsonToLua(bestiaryOrder))
@@ -193,7 +193,7 @@ const pools = Object.fromEntries((Object.entries(zoneData)
 		name: k,
 		display: k.replaceAll('/', ' — '),
 		// category: `Catchable in ${k.replaceAll('/', ': ')}`,
-		fish: v.Pool.map((fishName) => fishName.replaceAll('’', "'")),
+		fish: v.Pool.map((fishName) => (FISH_NAME_OVERRIDES?.[fishName] ?? fishName).replaceAll('’', "'")),
 		hunt_fish: HUNT_MAP[k],
 		no_wormhole: v.CantBeWhormholed || undefined,
 		wormhole_only: UNFISHABLE_ZONES.includes(k) || undefined,
@@ -206,7 +206,7 @@ const pools = Object.fromEntries((Object.entries(zoneData)
 		abundances: (abundanceData[k] ?? abundanceData_sea2[k])?.abundances
 			?.sort((a0, a1) => a0.fish.localeCompare(a1.fish) || ((a1.position && a0.position?.compareTo(a1.position)) ?? -1))
 			?.map(a => ({
-				fish: a.fish.replaceAll("’", "'"),
+				fish: (FISH_NAME_OVERRIDES?.[a.fish] ?? a.fish).replaceAll("’", "'"),
 				chance: a.chance,
 				hidden: a.hidden,
 				position: a.position?.round()?.toArray(),
@@ -283,17 +283,17 @@ const bait = Object.fromEntries(Bait.loadAll()
 	}]))
 
 const fishOrder: Record<string, number> = {}
-allFish.forEach((fish, i) => fishOrder[fish.Name] = i)
+allFish.forEach((fish, i) => fishOrder[fish.DisplayName] = i)
 
 const fish = Object.fromEntries(
 	allFish
 		.filter(fish => fish.Name != 'Eyefestation')
 		.sort((f0, f1) => f0.Name.localeCompare(f1.Name))
 		.map((fish, i) => {
-			fish.Name = fish.Name.replaceAll("’", "'")
-			return [fish.Name, {
-				name: fish.Name,
-				order: fishOrder[fish.Name],
+			fish.DisplayName = fish.DisplayName.replaceAll("’", "'")
+			return [fish.DisplayName, {
+				name: fish.DisplayName,
+				order: fishOrder[fish.DisplayName],
 				rarity: fish.Rarity,
 				weather: fish.Weather,
 				time: fish.FavouriteTime,

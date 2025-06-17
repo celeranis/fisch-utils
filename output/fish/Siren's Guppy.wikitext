@@ -24,6 +24,12 @@
 {{Description|🎶|Bestiary Entry}}
 
 == Obtainment ==
+{{Fish Availability|
+Crypt of the Green One
+|top_rods      = 
+Flimsy Rod\94687.5\77471.59
+|recommended   = 
+}}
 
 == Gameplay Notes ==
 * Siren's Guppy usually cannot be caught with passive effects, such as the one provided by the [[Rod Of The Depths]] and [[Rod Of The Forgotten Fang]].

@@ -32,7 +32,7 @@ Astralhook Rod\164414.2\325997.18;
 Ethereal Prism Rod\156729.24\234673.36;
 Leviathan's Fang Rod\151419.8\163332.27;
 Firefly Rod\150514.63\133659.57;
-Celestial Rod\149145.54\125281.97;
+Mission Specialist's Rod\149273.49\125389.44;
 Fortune Rod\86940.67\172384.21;
 No-Life Rod\146858.29\146858.29;
 Seraphic Rod\144283.16\144283.16;

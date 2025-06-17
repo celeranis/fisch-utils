@@ -30,8 +30,8 @@ Frigid Cavern
 Training Rod\225570.37\175932.71;
 Firefly Rod\206497.63\122662.97;
 Champions Rod\198686.28\96434.45;
+Fixer's Rod\197194.73\106923.88;
 Celestial Rod\197014.49\99728.25;
-Ice Warpers Rod\194930.19\99290.44;
 Flimsy Rod\142753.82\102005.22;
 Fungal Rod\179001.3\109610.37;
 Astralhook Rod\186618.23\174202.03;

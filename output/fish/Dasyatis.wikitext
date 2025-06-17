@@ -1,0 +1,48 @@
+{{FishInfobox
+|image          = Dasyatis.png
+|rarity         = Limited
+|sea            = First Sea
+|location       = [[Jurassic Island]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -70
+|xp             = 16000
+|weather        = 
+|time           = 
+|season         = 
+|bait           = 
+|base_weight    = 300
+|base_value     = 8000
+|weight_range   = 250
+|base_chance    = 30
+|base_resil     = 20
+}}
+'''Dasyatis''' is a {{Rarity|Limited}} fish found in the [[Jurassic Island]].
+
+== Description ==
+{{Description|A wide, flat ray gliding through Jurassic seas.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found at the Jurassic Island!|Bestiary Hint}}
+{{Fish Availability|
+Jurassic Island Ocean Pool
+Jurassic Island Pool
+|top_rods      = 
+Paleontologist's Rod\88632.77\237514.89;
+Fixer's Rod\82579.47\255014.7;
+Mission Specialist's Rod\80767.38\249418.77
+|recommended   = 
+}}
+
+== Catch Quips ==
+When catching a Dasyatis, the player has a chance to make one of the following exclamations:
+* A Dasyatis!
+* Fierce!
+* Ancient!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Jurassic Island}}

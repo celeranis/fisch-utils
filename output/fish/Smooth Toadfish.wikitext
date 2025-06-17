@@ -1,5 +1,5 @@
 {{FishInfobox
-|image          = Smooth toadfish.png
+|image          = Smooth Toadfish.png
 |rarity         = Unusual
 |sea            = Second Sea
 |location       = [[Whale Interior]]
@@ -18,7 +18,7 @@
 |base_chance    = 60
 |base_resil     = 60
 }}
-'''Smooth toadfish''' is an {{Rarity|Unusual}} fish found in [[Whale Interior]].
+'''Smooth Toadfish''' is an {{Rarity|Unusual}} fish found in [[Whale Interior]].
 
 == Description ==
 {{Description|A sleek, silvery toadfish typically gliding through coastal waters.|Bestiary Entry}}
@@ -52,7 +52,7 @@ Steady Rod\124410.53\120921.44
 }}
 
 == Catch Quips ==
-When catching a Smooth toadfish, the player has a chance to make one of the following exclamations:
+When catching a Smooth Toadfish, the player has a chance to make one of the following exclamations:
 * A Smooth Toadfish!
 * rizz?
 

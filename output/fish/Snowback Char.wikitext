@@ -30,8 +30,8 @@ Cryogenic Canal
 Firefly Rod\123479.22\21766.19;
 Champions Rod\118049.79\15380.03;
 Celestial Rod\117404.54\15904.91;
-Rapid Rod\116246.74\19832.32;
-Ice Warpers Rod\116021.5\15831.69;
+Fixer's Rod\117404.54\17052.85;
+Mission Specialist's Rod\117174.03\16943.32;
 Training Rod\115451.39\26814.52;
 Flimsy Rod\77243.02\16387.73;
 Fungal Rod\109780.49\19858.79;

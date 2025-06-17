@@ -203,6 +203,8 @@ export const locationRefer = {
 	'Blue Moon - Second Sea': '[[Blue Moon]] events at [[Lushgrove]]',
 	
 	'LEGO Event': '[[LEGO Pool]]s',
+
+	'Jurassic Island': 'the [[Jurassic Island]]',
 }
 
 /**
@@ -447,6 +449,35 @@ export const ZONE_ABUNDANCE_MAP: Record<string, { abundance_for: string, abundan
 }
 
 /**
+ * A map of fish names to their user-facing names.
+ * This is used to override the default fish name in the Bestiary.
+ * Currently only relevant to uncapitalized toadfish
+ */
+export const FISH_NAME_OVERRIDES = {
+	'Oyster toadfish': 'Oyster Toadfish',
+	'Smooth toadfish': 'Smooth Toadfish',
+	'Splendid toadfish': 'Splendid Toadfish',
+}
+
+/**
+ * Used to override the HideInBestiary parameter in Fish data
+ * when determining whether certain fish appear in the bestiary
+ * Useful as some fish do (not) actually appear in the bestiary
+ */
+export const HIDE_IN_BESTIARY_OVERRIDES = {
+	'Apex Leviathan': false,
+	'Magician Narwhal': false,
+	'Beluga': false,
+	'Bloop Fish': false,
+	'Mosslurker': false,
+	'Narwhal': false,
+	
+	'Song of the Deep': false,
+
+	'Ancient Wood': true,
+}
+
+/**
  * Used to override the "DEV" parameter in Fishing Rod data
  * when determining whether a certain rod is exclusive to developers and/or admins.
  */
@@ -455,11 +486,6 @@ export const DEV_OVERRIDES = {
 	'Developers Rod': true,
 	'Executive Rod': true,
 	'Superstar Rod': true,
-
-	// not DEV, but should not be visible yet
-	"Zora's Rod": true,
-	"Duncan's Rod": true,
-	"Henry's Rod": true,
 
 	// unused
 	'Frostbane Rod': true,

@@ -30,7 +30,7 @@
 }
 
 /* The following is auto-generated based on in-game data */
-/* Last update: Version [[1.36]], place version 63 */
+/* Last update: Version [[1.36]], place version 66 */
 
 .item-abyssal-specter-rod { --item-color: 81 222 135; --item-bg-color: 12 32 19 }
 .item-adventurers-rod { --item-color: 154 170 190; --item-bg-color: 22 24 27 }
@@ -67,6 +67,7 @@
 .item-fischers-rod { --item-color: 245 205 48; --item-bg-color: 35 29 7 }
 .item-fischmas-rod { --item-color: 144 240 255; --item-bg-color: 21 34 36 }
 .item-fish-photographer { --item-color: 255 241 206; --item-bg-color: 36 34 29 }
+.item-fixers-rod { --item-color: 0 170 255; --item-bg-color: 0 24 36 }
 .item-flimsy-rod { --item-color: 154 170 190; --item-bg-color: 22 24 27 }
 .item-fortune-rod { --item-color: 109 77 212; --item-bg-color: 16 11 30 }
 .item-free-spirit-rod { --item-color: 52 235 143; --item-bg-color: 7 34 20 }
@@ -91,10 +92,12 @@
 .item-magnet-rod { --item-color: 0 34 255; --item-bg-color: 0 5 36 }
 .item-merchant-rod { --item-color: 154 0 0; --item-bg-color: 22 0 0 }
 .item-midas-rod { --item-color: 255 226 83; --item-bg-color: 36 32 12 }
+.item-mission-specialists-rod { --item-color: 255 170 0; --item-bg-color: 36 24 0 }
 .item-mythical-rod { --item-color: 255 49 159; --item-bg-color: 36 7 23 }
 .item-no-life-rod { --item-color: 255 42 42; --item-bg-color: 36 6 6 }
 .item-nocturnal-rod { --item-color: 72 59 143; --item-bg-color: 10 8 20 }
 .item-north-star-rod { --item-color: 255 237 170; --item-bg-color: 36 34 24 }
+.item-paleontologists-rod { --item-color: 170 0 0; --item-bg-color: 24 0 0 }
 .item-phoenix-rod { --item-color: 255 98 87; --item-bg-color: 36 14 12 }
 .item-plastic-rod { --item-color: 73 240 255; --item-bg-color: 10 34 36 }
 .item-poseidon-rod { --item-color: 252 248 97; --item-bg-color: 36 35 14 }

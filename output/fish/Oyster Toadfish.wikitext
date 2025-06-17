@@ -1,5 +1,5 @@
 {{FishInfobox
-|image          = Oyster toadfish.png
+|image          = Oyster Toadfish.png
 |rarity         = Uncommon
 |sea            = Second Sea
 |location       = [[Whale Interior]]
@@ -18,7 +18,7 @@
 |base_chance    = 80
 |base_resil     = 80
 }}
-'''Oyster toadfish''' is an {{Rarity|Uncommon}} fish found in [[Whale Interior]].
+'''Oyster Toadfish''' is an {{Rarity|Uncommon}} fish found in [[Whale Interior]].
 
 == Description ==
 {{Description|A sneaky ambush predator lurking in oyster beds and muddy bottoms.|Bestiary Entry}}
@@ -54,7 +54,7 @@ Steady Rod\169182.47\164437.76
 }}
 
 == Catch Quips ==
-When catching an Oyster toadfish, the player has a chance to make one of the following exclamations:
+When catching an Oyster Toadfish, the player has a chance to make one of the following exclamations:
 * An Oyster Toadfish!
 * This isn't an oyster...
 

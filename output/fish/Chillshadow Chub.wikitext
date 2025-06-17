@@ -31,7 +31,7 @@ Rapid Rod\233365.45\55882.26;
 Firefly Rod\226602.13\55018.63;
 Fungal Rod\223420.19\56927.17;
 Adventurer's Rod\221648.22\53428.76;
-Firework Rod\220919.49\38408.22;
+Fixer's Rod\221291.51\38292.06;
 Training Rod\192857.14\66902.65;
 Antler Rod\206537.84\52625.57;
 Nocturnal Rod\134569.84\80383.46;

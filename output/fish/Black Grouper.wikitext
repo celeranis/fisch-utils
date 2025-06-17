@@ -5,6 +5,7 @@
 |location       = [[Gilded Arch]]
 |sublocation    = 
 |sources        = Crab Cage, Fishing Rod
+|nopassive      = 1
 |radar_location = 
 |prog_speed     = -95
 |xp             = 20000
@@ -49,6 +50,10 @@ Volcanic Rod\-0.72\-18.11;
 Zeus Rod\-0.93\-23.54
 |recommended   = Astralhook Rod
 }}
+
+== Gameplay Notes ==
+* Black Grouper usually cannot be caught with passive effects, such as the one provided by the [[Rod Of The Depths]] and [[Rod Of The Forgotten Fang]].
+** The only exception is when catching a Black Grouper on the Megalodon Passive reel of the [[Rod Of The Forgotten Fang]], the Megalodon will instead dupe the Black Grouper.
 
 == Catch Quips ==
 When catching a Black Grouper, the player has a chance to make one of the following exclamations:

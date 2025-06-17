@@ -1,0 +1,48 @@
+{{FishInfobox
+|image          = Rhizodus.png
+|rarity         = Limited
+|sea            = First Sea
+|location       = [[Jurassic Island]]
+|sublocation    = 
+|sources        = Fishing Rod
+|radar_location = 
+|prog_speed     = -80
+|xp             = 20000
+|weather        = 
+|time           = 
+|season         = 
+|bait           = 
+|base_weight    = 1000
+|base_value     = 10000
+|weight_range   = 700
+|base_chance    = 20
+|base_resil     = 15
+}}
+'''Rhizodus''' is a {{Rarity|Limited}} fish found in the [[Jurassic Island]].
+
+== Description ==
+{{Description|A massive, toothy predator of ancient waters.|Bestiary Entry}}
+
+== Obtainment ==
+{{Description|Found at the Jurassic Island!|Bestiary Hint}}
+{{Fish Availability|
+Jurassic Island Ocean Pool
+Jurassic Island Pool
+|top_rods      = 
+Paleontologist's Rod\55912.91\182784.44;
+Fixer's Rod\54703.87\205253.49;
+Mission Specialist's Rod\52865.08\198354.21
+|recommended   = 
+}}
+
+== Catch Quips ==
+When catching a Rhizodus, the player has a chance to make one of the following exclamations:
+* A Rhizodus!
+* Fierce!
+* Ancient!
+
+== Change History ==
+{{Change History|{{subst:Current Version}}}}
+
+== Navigation ==
+{{Fish Navbox|Jurassic Island}}

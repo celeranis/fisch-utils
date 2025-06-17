@@ -30,8 +30,8 @@ Overgrowth Caves
 Training Rod\226349.99\226349.99;
 Champions Rod\213359.44\138813.36;
 Firefly Rod\213290.74\176606.26;
+Fixer's Rod\211769.37\153912.62;
 Celestial Rod\211439.34\143558.61;
-Ice Warpers Rod\209412.01\142956.42;
 Flimsy Rod\144339.98\144339.98;
 Buddy Bond Rod\114344.79\92303.69;
 Astralhook Rod\202912.61\204880.57;
