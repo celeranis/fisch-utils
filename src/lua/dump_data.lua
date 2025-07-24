@@ -1,6 +1,8 @@
 local httpEnabledBefore = game.HttpService.HttpEnabled
 game.HttpService.HttpEnabled = true
 
+local isProbablyTheActualGame = game.PlaceId ~= 0 or #game.ServerScriptService:GetChildren() > 0
+
 --[[ ABUNDANCE DATA ]]
 local zones = workspace.zones.fishing
 
@@ -115,40 +117,42 @@ function preprocess(obj)
 end
 
 function postModule(modulePath, removeKeys)
-	local moduleData = preprocess(require(modulePath))
-	for _, key in ipairs(removeKeys) do
-		moduleData[key] = nil
-	end
-	postData(modulePath.Name, moduleData)
+	task.spawn(function() --[[ allow other modules to continue if one fails, while preserving errors ]]
+		local moduleData = preprocess(require(modulePath))
+		for _, key in ipairs(removeKeys) do
+			moduleData[key] = nil
+		end
+		postData(modulePath.Name, moduleData)
+	end)
 end
 
 local modules = game.ReplicatedStorage.shared.modules
 local instances = game.ReplicatedStorage.resources.replicated.instances
-local currentWorld = game.ReplicatedStorage:GetAttribute('CurrentWorld')
 
-postData(currentWorld == 'Sea 2' and 'abundances_sea2' or 'abundances', zoneMap)
+postData('abundances', zoneMap)
 
 function removeIsServer(parent)
 	for _, v in parent:GetDescendants() do
 		if v:IsA('LuaSourceContainer') then
 			if (#v.Source >= 200000) then
 				warn(v:GetFullName(), 'is too long for lua, hopefully no IsServer')
-				continue
+			else
+				v.Source = v.Source
+					:gsub('%S+:IsServer%(%)', '--[[not server]] false')
 			end
-			v.Source = v.Source
-				:gsub('%S+:IsServer%(%)', '--[[not server]] false')
-				--[[ ensure we get accurate stats for all rods ]]
-				:gsub('table%.find%([%w_]+.Worlds or {}, [%w_]+%) ~= nil', '--[[pretend to be both worlds]] true')
 		end
 	end
 end
 
 --[[ if this is a local file, remove anything reliant on server code ]]
-if (game:GetService('RunService'):IsStudio() and game.PlaceId == 0) then
+if (game:GetService('RunService'):IsStudio() and not isProbablyTheActualGame) then
+	print('This looks like a decomp! Some scripts will be edited.')
 	removeIsServer(workspace)
 	removeIsServer(game.ReplicatedStorage)
 	removeIsServer(game.ServerStorage)
 	removeIsServer(game.StarterGui)
+else
+	print('This looks like the real deal! Scripts will not be edited.')
 end
 
 --[[ BOAT DATA ]]
@@ -163,9 +167,9 @@ for boatName, boatEntry in pairs(boatData) do
 		boatModel = boatModel:Clone()
 		for _, part in boatModel:GetDescendants() do
 			if part:IsA('Seat') or part:IsA('VehicleSeat') then
-				totalSeats += 1
+				totalSeats = totalSeats + 1
 				if (not part:IsA('VehicleSeat')) then
-					passengerSeats += 1
+					passengerSeats = passengerSeats + 1
 				end
 			elseif part:IsA('BasePart') and part.Transparency >= 1 then
 				part:Destroy()
@@ -225,7 +229,7 @@ for _, pool in ipairs(utilityPools:GetChildren()) do
 	})
 end
 
-postData(currentWorld == 'Sea 2' and 'utilityPools_sea2' or 'utilityPools', utilityAbundances)
+postData('utilityPools', utilityAbundances)
 
 --[[ OTHER DATA ]]
 postModule(modules.library.bait, { 'Give' })
@@ -254,8 +258,8 @@ postModule(modules.Worlds, {})
 --[[ META ]]
 local placeVersion = game.PlaceVersion
 local readme = game:FindFirstChild('README')
-if placeVersion == 0 and readme then
-	placeVersion = tonumber(readme.Source:match('PlaceVersion: (%d+)'))
+if placeVersion == 0 then
+	placeVersion = (readme and tonumber(readme.Source:match('PlaceVersion: (%d+)'))) or 'Unknown'
 end
 
 local officialVersion = game.ReplicatedStorage:FindFirstChild('world')
