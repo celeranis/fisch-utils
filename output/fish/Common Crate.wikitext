@@ -96,8 +96,8 @@ Whale Migration/Normal
 Magnet Rod\734033.76\740319.09;
 Krampus's Rod\542956.47\493695.68;
 Magma Rod\527793.57\479908.46;
+Onirifalx\490250.38\307846.32;
 Great Rod of Oscar\490081.28\318870.37;
-Leviathan's Fang Rod\487610.13\380071.86;
 Flimsy Rod\442593.9\610286.1;
 Training Rod\446263.59\402443.02;
 Fast Rod\422882.85\551513.44;

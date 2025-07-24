@@ -1,4 +1,4 @@
--- Last update: Version [[1.36]], place version 66
+-- Last update: Version [[1.37]], place version 69
 
 return {
 	["Seaweed"] = "Trash",
@@ -58,6 +58,7 @@ return {
 	["Trout"] = "Common",
 	["Largemouth Bass"] = "Common",
 	["Lightning Minnow"] = "Common",
+	["JWEDamage-1"] = "Common",
 	["Sergeant Major"] = "Common",
 	["Slate Tuna"] = "Common",
 	["Porgy"] = "Common",
@@ -158,6 +159,7 @@ return {
 	["Goldband Butterflyfish"] = "Uncommon",
 	["Gemscale Mandarinfish"] = "Uncommon",
 	["Sprayfin"] = "Uncommon",
+	["JWEDamage-2"] = "Uncommon",
 	["Sulfur Snapper"] = "Uncommon",
 	["Abyssal Bearded Seadevil"] = "Uncommon",
 	["Galleon Goliath"] = "Uncommon",
@@ -323,6 +325,7 @@ return {
 	["Cutlass Fish"] = "Unusual",
 	["Palaeoniscum"] = "Unusual",
 	["Whirlpool Marlin"] = "Unusual",
+	["JWEDamage-3"] = "Unusual",
 	["Napoleonfish"] = "Rare",
 	["Typhoon Tuna"] = "Rare",
 	["Sturgeon"] = "Rare",
@@ -390,6 +393,7 @@ return {
 	["Cursed Eel"] = "Rare",
 	["Cyclone Scorpionfish"] = "Rare",
 	["Molten Moray"] = "Rare",
+	["JWEDamage-4"] = "Rare",
 	["Ruby Rasbora"] = "Rare",
 	["Telescopefish"] = "Rare",
 	["Scalloped Spiny Lobster"] = "Rare",
@@ -446,6 +450,7 @@ return {
 	["Bearded Toadfish"] = "Legendary",
 	["Ruby Lionfish"] = "Legendary",
 	["Gem Dolphin"] = "Legendary",
+	["JWEDamage-5"] = "Legendary",
 	["Coral Emperor"] = "Legendary",
 	["Small Spine Chimera"] = "Legendary",
 	["Midnight Axolotl"] = "Legendary",
@@ -549,6 +554,7 @@ return {
 	["Great Barracuda"] = "Mythical",
 	["Giant Seadevil"] = "Mythical",
 	["Captain's Goldfish"] = "Mythical",
+	["JWEDamage-6"] = "Mythical",
 	["Tarnished Moongill"] = "Mythical",
 	["Frigid Mammoth Tusk"] = "Mythical",
 	["Aurora Trout"] = "Mythical",

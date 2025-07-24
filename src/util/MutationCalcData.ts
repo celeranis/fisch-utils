@@ -1223,7 +1223,49 @@ export const MUTATION_DATA: MutationDataEntry[] = [
 			{
 				check: 'conditions',
 				property: 'rod',
-				values: ['Azure of Lagoon']
+				values: ['Azure Of Lagoon']
+			}
+		]
+	},
+	{
+		mutation: 'Levitas',
+		chance: 50,
+		priority: MutationPriority.SpecialRods,
+		chance_type: 'percent',
+		allow_crates: true,
+		conditions: [
+			{
+				check: 'conditions',
+				property: 'rod',
+				values: ['Onirifalx']
+			}
+		]
+	},
+	{
+		mutation: 'Sacratus',
+		chance: 7,
+		priority: MutationPriority.SpecialRods,
+		chance_type: 'percent',
+		allow_crates: true,
+		conditions: [
+			{
+				check: 'conditions',
+				property: 'rod',
+				values: ['Onirifalx']
+			}
+		]
+	},
+	{
+		mutation: 'Puritas',
+		chance: 3,
+		priority: MutationPriority.SpecialRods,
+		chance_type: 'percent',
+		allow_crates: true,
+		conditions: [
+			{
+				check: 'conditions',
+				property: 'rod',
+				values: ['Onirifalx']
 			}
 		]
 	},

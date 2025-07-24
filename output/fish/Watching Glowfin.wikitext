@@ -30,13 +30,14 @@ Pine Shoals
 |top_rods      = 
 Free Spirit Rod\438191.83\49678.66;
 Azure Of Lagoon\409634.31\47505.26;
+Onirifalx\400868.84\0;
 Great Rod of Oscar\394546.35\42537.09;
 Resourceful Rod\392809.6\36277.46;
-Astralhook Rod\391793.29\49876.32;
 Training Rod\334455.2\31036.62;
 Steady Rod\357103.98\30762.59;
 Frostfire Rod\356056.99\30672.4;
 Nocturnal Rod\190247.55\182712.14;
+Astralhook Rod\391793.29\49876.32;
 Firefly Rod\363891.54\47824.07;
 Flimsy Rod\337700.51\35048.02;
 Trident Rod\372332.55\44224.51;

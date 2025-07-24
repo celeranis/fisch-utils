@@ -32,13 +32,13 @@ Moosewood/Surrounding Ocean
 |top_rods      = 
 Leviathan's Fang Rod\238698.03\0;
 Free Spirit Rod\237406.1\17524.77;
+Onirifalx\234738.72\0;
 Trident Rod\227224.6\13955.72;
 Krampus's Rod\222718.28\23403.31;
-Azure Of Lagoon\221088.7\34763.25;
 Flimsy Rod\159637.59\17088.07;
 Training Rod\179586.47\15496.99;
-Magma Rod\216412.25\22585.51;
 Nocturnal Rod\139879.02\122751.92;
+Azure Of Lagoon\221088.7\34763.25;
 Challenger's Rod\209239.42\34074.46;
 Tempest Rod\208965.58\33876.7;
 Frog Rod\192565.45\33529.82;

@@ -30,8 +30,8 @@ Grand Reef
 Krampus's Rod\155443.83\164684.42;
 Magma Rod\150211.1\159140.62;
 Plastic Rod\137192.73\145348.36;
+Onirifalx\136266.25\94828.94;
 Leviathan's Fang Rod\122774.97\112937.87;
-Great Rod of Oscar\120506.12\92579.28;
 Fast Rod\114064.42\166359.8;
 Fischer's Rod\101302.11\147746.31;
 Flimsy Rod\83590.01\121288.49;

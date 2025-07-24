@@ -32,7 +32,7 @@ Free Spirit Rod\425815.28\0;
 Azure Of Lagoon\389609.9\36506.95;
 Firefly Rod\369861.03\34607.95;
 Astralhook Rod\365882.6\0;
-Great Rod of Oscar\362464.02\26820.95;
+Onirifalx\363831.11\0;
 Plastic Rod\296815.25\22445.41;
 Magma Rod\298286.33\21505.45;
 Resourceful Rod\354150.91\26738.26;

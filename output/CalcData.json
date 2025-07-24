@@ -3168,7 +3168,19 @@
 				"First Sea",
 				"Second Sea"
 			],
-			"abundances": []
+			"abundances": [
+				{
+					"fish": "Swordfish",
+					"chance": 47,
+					"hidden": true,
+					"position": [
+						1212,
+						127,
+						1620
+					],
+					"can_lucky": false
+				}
+			]
 		},
 		"Ocean/Harvesters Spike": {
 			"name": "Ocean/Harvesters Spike",
@@ -7103,7 +7115,55 @@
 					"check": "conditions",
 					"property": "rod",
 					"values": [
-						"Azure of Lagoon"
+						"Azure Of Lagoon"
+					]
+				}
+			]
+		},
+		{
+			"mutation": "Levitas",
+			"chance": 50,
+			"priority": 100,
+			"chance_type": "percent",
+			"allow_crates": true,
+			"conditions": [
+				{
+					"check": "conditions",
+					"property": "rod",
+					"values": [
+						"Onirifalx"
+					]
+				}
+			]
+		},
+		{
+			"mutation": "Sacratus",
+			"chance": 7,
+			"priority": 100,
+			"chance_type": "percent",
+			"allow_crates": true,
+			"conditions": [
+				{
+					"check": "conditions",
+					"property": "rod",
+					"values": [
+						"Onirifalx"
+					]
+				}
+			]
+		},
+		{
+			"mutation": "Puritas",
+			"chance": 3,
+			"priority": 100,
+			"chance_type": "percent",
+			"allow_crates": true,
+			"conditions": [
+				{
+					"check": "conditions",
+					"property": "rod",
+					"values": [
+						"Onirifalx"
 					]
 				}
 			]
@@ -7245,6 +7305,13 @@
 			"conditions": []
 		},
 		{
+			"mutation": "Hexed",
+			"chance": 15,
+			"chance_type": "weight",
+			"allow_crates": false,
+			"conditions": []
+		},
+		{
 			"mutation": "Mosaic",
 			"chance": 10,
 			"chance_type": "weight",
@@ -7296,6 +7363,13 @@
 			]
 		},
 		{
+			"mutation": "Greedy",
+			"chance": 1.5,
+			"chance_type": "weight",
+			"allow_crates": false,
+			"conditions": []
+		},
+		{
 			"mutation": "Midas",
 			"chance": 3,
 			"chance_type": "weight",
@@ -7319,13 +7393,6 @@
 			]
 		},
 		{
-			"mutation": "Hexed",
-			"chance": 15,
-			"chance_type": "weight",
-			"allow_crates": false,
-			"conditions": []
-		},
-		{
 			"mutation": "Silver",
 			"chance": 15,
 			"chance_type": "weight",
@@ -7335,13 +7402,6 @@
 		{
 			"mutation": "Electric",
 			"chance": 15,
-			"chance_type": "weight",
-			"allow_crates": false,
-			"conditions": []
-		},
-		{
-			"mutation": "Greedy",
-			"chance": 1.5,
 			"chance_type": "weight",
 			"allow_crates": false,
 			"conditions": []
@@ -7407,6 +7467,7 @@
 		"King's Blessing": 3.5,
 		"LEGO": 3,
 		"Awesome": 3,
+		"Levitas": 7,
 		"Lightning": 1,
 		"Lobster": 5,
 		"Lost": 5.5,
@@ -7423,8 +7484,10 @@
 		"Oscar": 12,
 		"Prismize": 8,
 		"Purified": 2,
+		"Puritas": 17,
 		"Rainbow": 6,
 		"Revitalized": 4,
+		"Sacratus": 12.7,
 		"Sandy": 1.2,
 		"Sanguine": 8,
 		"Scorched": 2.5,
@@ -8446,6 +8509,167 @@
 			"lure": 5,
 			"resilience": 12,
 			"control": 0.04
+		},
+		"Onirifalx": {
+			"name": "Onirifalx",
+			"seas": [
+				"First Sea",
+				"Second Sea"
+			],
+			"luck": 777,
+			"max_weight": null,
+			"lure": 777,
+			"resilience": null,
+			"control": 0.17,
+			"passive": {
+				"states": [
+					"1 Perfect Catch",
+					"2 Perfect Catches",
+					"3 Perfect Catches",
+					"4 Perfect Catches",
+					"5 Perfect Catches",
+					"6 Perfect Catches",
+					"7 Perfect Catches",
+					"8 Perfect Catches",
+					"9 Perfect Catches",
+					"10 Perfect Catches"
+				],
+				"stats": [
+					{
+						"progress_speed": 0.7
+					},
+					{
+						"progress_speed": 0.05,
+						"control": -0.01,
+						"conditions": [
+							{
+								"check": "conditions",
+								"property": "passiveState",
+								"values": [
+									"1 Perfect Catch"
+								]
+							}
+						]
+					},
+					{
+						"progress_speed": 0.1,
+						"control": -0.02,
+						"conditions": [
+							{
+								"check": "conditions",
+								"property": "passiveState",
+								"values": [
+									"2 Perfect Catches"
+								]
+							}
+						]
+					},
+					{
+						"progress_speed": 0.15,
+						"control": -0.03,
+						"conditions": [
+							{
+								"check": "conditions",
+								"property": "passiveState",
+								"values": [
+									"3 Perfect Catches"
+								]
+							}
+						]
+					},
+					{
+						"progress_speed": 0.2,
+						"control": -0.04,
+						"conditions": [
+							{
+								"check": "conditions",
+								"property": "passiveState",
+								"values": [
+									"4 Perfect Catches"
+								]
+							}
+						]
+					},
+					{
+						"progress_speed": 0.25,
+						"control": -0.05,
+						"conditions": [
+							{
+								"check": "conditions",
+								"property": "passiveState",
+								"values": [
+									"5 Perfect Catches"
+								]
+							}
+						]
+					},
+					{
+						"progress_speed": 0.3,
+						"control": -0.06,
+						"conditions": [
+							{
+								"check": "conditions",
+								"property": "passiveState",
+								"values": [
+									"6 Perfect Catches"
+								]
+							}
+						]
+					},
+					{
+						"progress_speed": 0.35,
+						"control": -0.07,
+						"conditions": [
+							{
+								"check": "conditions",
+								"property": "passiveState",
+								"values": [
+									"7 Perfect Catches"
+								]
+							}
+						]
+					},
+					{
+						"progress_speed": 0.4,
+						"control": -0.08,
+						"conditions": [
+							{
+								"check": "conditions",
+								"property": "passiveState",
+								"values": [
+									"8 Perfect Catches"
+								]
+							}
+						]
+					},
+					{
+						"progress_speed": 0.45,
+						"control": -0.09,
+						"conditions": [
+							{
+								"check": "conditions",
+								"property": "passiveState",
+								"values": [
+									"9 Perfect Catches"
+								]
+							}
+						]
+					},
+					{
+						"progress_speed": 0.5,
+						"control": -0.1,
+						"conditions": [
+							{
+								"check": "conditions",
+								"property": "passiveState",
+								"values": [
+									"10 Perfect Catches"
+								]
+							}
+						]
+					}
+				]
+			}
 		},
 		"Paleontologist's Rod": {
 			"name": "Paleontologist's Rod",
@@ -24462,7 +24686,7 @@
 		"Double XP": {
 			"name": "Double XP",
 			"start": "2025-03-04T15:00:00.000Z",
-			"end": "2025-06-02T00:00:00.000Z",
+			"end": "2025-06-23T00:00:00.000Z",
 			"crab_cages": true
 		}
 	},

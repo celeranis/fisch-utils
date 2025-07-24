@@ -29,13 +29,14 @@ Snowcap Island/Surrounding Ocean
 |top_rods      = 
 Krampus's Rod\83822.37\115791.78;
 Magma Rod\80083.05\110626.3;
+Onirifalx\76858.88\69023.93;
 Plastic Rod\73504.7\101540.3;
 Leviathan's Fang Rod\72217.98\89164.59;
-Free Spirit Rod\65433.33\84269.12;
 Buddy Bond Rod\54579.49\88447.72;
 Fast Rod\63536.33\108484.54;
 Fischer's Rod\57810\98707.17;
 Flimsy Rod\44572.97\89192.19;
+Free Spirit Rod\65433.33\84269.12;
 Trident Rod\65376.54\84195.98;
 Ethereal Prism Rod\61556.16\67017.73;
 Astralhook Rod\61547.33\77272.5;

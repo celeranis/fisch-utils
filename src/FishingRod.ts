@@ -354,6 +354,11 @@ export const RodPassiveData: Record<string, RodPassiveEffects> = {
 				values: ['night'],
 			}]
 		}	
+	},
+	'Onirifalx': {
+		stats: {
+			progress_speed: 0.7
+		}
 	}
 }
 

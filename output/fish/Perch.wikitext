@@ -29,13 +29,12 @@ Roslit Bay/Freshwater Pond
 Roslit Bay/Freshwater Pond Seaweed
 |top_rods      = 
 Leviathan's Fang Rod\424897.47\204175.87;
+Onirifalx\411489.17\0;
 Free Spirit Rod\397639.47\227674.7;
 Trident Rod\385742.21\182594.57;
 No-Life Rod\381448.91\377668.65;
-Great Rod of Oscar\380670.65\222870.27;
 Training Rod\292719.99\302634.54;
 Flimsy Rod\264201.14\235428.81;
-Krampus's Rod\365360.96\239446.76;
 Azure Of Lagoon\374355.41\403003.43;
 Fang of the Eclipse\341933.31\367116.59;
 Blazebringer Rod\341374.44\357400.49;

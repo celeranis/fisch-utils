@@ -495,6 +495,7 @@ export const DEV_OVERRIDES = {
 	'Seraphic Rod': false,
 	'Astralhook Rod': false,
 	'Fang of the Eclipse': false,
+	'Onirifalx': false,
 	
 	// correctly marked as DEV, but publicly documented on the wiki
 	'Sovereign Doombringer': false,

@@ -30,9 +30,9 @@ Lushgrove/Carrot Garden
 |top_rods      = 
 Free Spirit Rod\309440.74\279824.07;
 Azure Of Lagoon\298869.5\339902.74;
+Onirifalx\277329.68\0;
 Great Rod of Oscar\274998.36\221918.43;
 Astralhook Rod\274394.27\18309.67;
-Fang of the Eclipse\271252.91\294847.24;
 Flimsy Rod\221026.99\225038.49;
 Training Rod\218405.7\249685.84;
 Carrot Rod\270938.75\304821.92;

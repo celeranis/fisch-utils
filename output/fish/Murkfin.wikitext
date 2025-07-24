@@ -31,8 +31,8 @@ Azure Lagoon
 Free Spirit Rod\403099.57\0;
 Azure Of Lagoon\344647.16\40828.37;
 Astralhook Rod\329901.48\0;
+Onirifalx\329360.66\0;
 Great Rod of Oscar\327244.6\24846.41;
-Firefly Rod\316005.33\31404.55;
 Plastic Rod\287066.2\24160.61;
 Fischer's Rod\285181\23545.94;
 Candy Cane Rod\282132.56\25974.76;

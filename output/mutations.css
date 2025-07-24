@@ -1,4 +1,4 @@
-/* Last update: Version [[1.36]], place version 66 */
+/* Last update: Version [[1.37]], place version 69 */
 
 /* Attributes */
 .mutation-big, .mutation-big a:not(.new), .mutation-giant, .mutation-giant a:not(.new) { color: #8bff89; }
@@ -62,6 +62,7 @@
 .mutation-hexed, .mutation-hexed a:not(.new), .mutation-hexed .oo-ui-labelElement-label { color: #a60000; }
 .mutation-jolly, .mutation-jolly a:not(.new), .mutation-jolly .oo-ui-labelElement-label { color: #105e13; }
 .mutation-kings-blessing, .mutation-kings-blessing a:not(.new), .mutation-kings-blessing .oo-ui-labelElement-label { color: #ffff7f; }
+.mutation-levitas, .mutation-levitas a:not(.new), .mutation-levitas .oo-ui-labelElement-label { color: #b5c0ff; }
 .mutation-lightning, .mutation-lightning a:not(.new), .mutation-lightning .oo-ui-labelElement-label { color: #e5b700; }
 .mutation-lobster, .mutation-lobster a:not(.new), .mutation-lobster .oo-ui-labelElement-label { color: #ff3c2a; }
 .mutation-lost, .mutation-lost a:not(.new), .mutation-lost .oo-ui-labelElement-label { color: #a0ff83; }
@@ -82,8 +83,10 @@
 .mutation-henry, .mutation-henry a:not(.new), .mutation-henry .oo-ui-labelElement-label { color: #aa0000; }
 .mutation-prismize, .mutation-prismize a:not(.new), .mutation-prismize .oo-ui-labelElement-label { color: #29003e; }
 .mutation-purified, .mutation-purified a:not(.new), .mutation-purified .oo-ui-labelElement-label { color: #6eff78; }
+.mutation-puritas, .mutation-puritas a:not(.new), .mutation-puritas .oo-ui-labelElement-label { color: #acddef; }
 .mutation-rainbow, .mutation-rainbow a:not(.new), .mutation-rainbow .oo-ui-labelElement-label { color: #ff9eea; }
 .mutation-revitalized, .mutation-revitalized a:not(.new), .mutation-revitalized .oo-ui-labelElement-label { color: #a4ffaa; }
+.mutation-sacratus, .mutation-sacratus a:not(.new), .mutation-sacratus .oo-ui-labelElement-label { color: #6b8eff; }
 .mutation-sandy, .mutation-sandy a:not(.new), .mutation-sandy .oo-ui-labelElement-label { color: #ffc3a1; }
 .mutation-sanguine, .mutation-sanguine a:not(.new), .mutation-sanguine .oo-ui-labelElement-label { color: #4a0808; }
 .mutation-scorched, .mutation-scorched a:not(.new), .mutation-scorched .oo-ui-labelElement-label { color: #471e11; }

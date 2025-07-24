@@ -43,13 +43,12 @@ Shark Hunt/Great Hammerhead Shark
 Shark Hunt/Great White Shark
 Shark Hunt/Whale Shark
 |top_rods      = 
+Onirifalx\218209.43\0;
 Leviathan's Fang Rod\193196.87\0;
 Krampus's Rod\190280.36\33307.32;
 Free Spirit Rod\188156.66\0;
 Magma Rod\184453.19\37361.5;
-Great Rod of Oscar\182930.57\26612.84;
 Plastic Rod\168456.74\33104.93;
-Buddy Bond Rod\125139.29\23732.87;
 Nocturnal Rod\101055.53\142399.7;
 Blazebringer Rod\161184.42\57891.5;
 Challenger's Rod\169938.53\57600.32;

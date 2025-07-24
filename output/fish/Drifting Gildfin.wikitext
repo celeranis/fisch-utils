@@ -31,8 +31,8 @@ Pine Shoals
 Free Spirit Rod\520015.24\425483.46;
 Astralhook Rod\488172.25\409902.95;
 Azure Of Lagoon\483331.31\423504.32;
+Onirifalx\475792.53\142919.84;
 Resourceful Rod\469893.16\304183.36;
-Great Rod of Oscar\468762.87\372473.96;
 Training Rod\426744.02\476319.29;
 Flimsy Rod\419159.41\294773.3;
 Fischer's Rod\399727.45\275482.98;

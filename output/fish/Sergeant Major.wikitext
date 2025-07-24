@@ -29,9 +29,9 @@ Gilded Arch
 |top_rods      = 
 Free Spirit Rod\185011.35\0;
 Azure Of Lagoon\176177.75\36924.19;
+Onirifalx\171635.18\0;
 Flimsy Rod\170049.02\41271.91;
 Great Rod of Oscar\168980.39\28965.36;
-Astralhook Rod\168022.34\0;
 Training Rod\161940.91\NaN;
 Plastic Rod\134723.6\26145.23;
 Firefly Rod\165583.1\35786.05;
@@ -40,6 +40,7 @@ Carrot Rod\164086.49\35197.35;
 Friendly Rod\162410.05\35017.31;
 Fischer's Rod\133656.97\26535.04;
 Fast Rod\133341.21\26472.35;
+Astralhook Rod\168022.34\0;
 Blazebringer Rod\161842.61\34219.64;
 Verdant Shear Rod\154224.55\35062.87;
 Trident Rod\148197.47\30664.69;

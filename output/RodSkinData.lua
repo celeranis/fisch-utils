@@ -1,4 +1,4 @@
--- Last update: Version [[1.36]], place version 66
+-- Last update: Version [[1.37]], place version 69
 
 return {
 	["Abyssal Conduit"] = "Legendary",
@@ -11,6 +11,7 @@ return {
 	["Anchor of the Sleeper"] = "Legendary",
 	["Angelic Lightblade"] = "Legendary",
 	["Arcane Elegance"] = "Legendary",
+	["Archaelogist Rod"] = "Legendary",
 	["Archer's Mark"] = "Common",
 	["Arctic Coral"] = "Legendary",
 	["Banana of the Depths"] = "Legendary",
@@ -129,9 +130,11 @@ return {
 	["Puff of Heaven"] = "Legendary",
 	["Purple Clover"] = "Legendary",
 	["Rainbow Revolution"] = "Legendary",
+	["Rainbow Spirit"] = "Legendary",
 	["Rainbows Blessing"] = "Legendary",
 	["Red Carbon"] = "Legendary",
 	["Reverse Emberreach"] = "Rare",
+	["Rod of the Dino Fang"] = "Legendary",
 	["Rod of the Gemmer"] = "Legendary",
 	["Roslit Leviathan"] = "Legendary",
 	["Royal Scepter"] = "Legendary",

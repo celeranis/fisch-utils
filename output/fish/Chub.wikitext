@@ -27,17 +27,17 @@
 {{Fish Availability|
 Roslit Bay/Freshwater Pond
 |top_rods      = 
+Onirifalx\453716.32\0;
 Krampus's Rod\411133.69\46457.77;
 Magma Rod\398201.86\44803.84;
 Leviathan's Fang Rod\392898.13\0;
 Great Rod of Oscar\382571.43\27903.94;
-Free Spirit Rod\371743.09\28260.85;
-Plastic Rod\363640.3\39878.95;
 Nocturnal Rod\193850.78\180692.3;
 Frog Rod\296505.81\76885.22;
 Riptide Rod\295223.48\76428.95;
 Blazebringer Rod\328601.77\70617.88;
 Azure Of Lagoon\360206.75\70170.42;
+Free Spirit Rod\371743.09\28260.85;
 Astralhook Rod\371002.91\0;
 Ethereal Prism Rod\370163.74\0;
 No-Life Rod\366433.3\66133.56;

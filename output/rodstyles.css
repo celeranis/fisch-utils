@@ -30,7 +30,7 @@
 }
 
 /* The following is auto-generated based on in-game data */
-/* Last update: Version [[1.36]], place version 66 */
+/* Last update: Version [[1.37]], place version 69 */
 
 .item-abyssal-specter-rod { --item-color: 81 222 135; --item-bg-color: 12 32 19 }
 .item-adventurers-rod { --item-color: 154 170 190; --item-bg-color: 22 24 27 }
@@ -97,6 +97,7 @@
 .item-no-life-rod { --item-color: 255 42 42; --item-bg-color: 36 6 6 }
 .item-nocturnal-rod { --item-color: 72 59 143; --item-bg-color: 10 8 20 }
 .item-north-star-rod { --item-color: 255 237 170; --item-bg-color: 36 34 24 }
+.item-onirifalx { --item-color: 157 208 255; --item-bg-color: 22 30 36 }
 .item-paleontologists-rod { --item-color: 170 0 0; --item-bg-color: 24 0 0 }
 .item-phoenix-rod { --item-color: 255 98 87; --item-bg-color: 36 14 12 }
 .item-plastic-rod { --item-color: 73 240 255; --item-bg-color: 10 34 36 }
